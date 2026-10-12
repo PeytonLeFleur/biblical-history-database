@@ -1,0 +1,44 @@
+{
+  "id": "src_01M4RPJVYB4HY9AT4E07EFX9QC",
+  "title": "Judahite Gath in the Eighth Century B.C.E.: Finds in Area F from the Earthquake to the Assyrians",
+  "source_type": "excavation_report",
+  "authors": [
+    "Chadwick, Jeffrey R.",
+    "Maeir, Aren M."
+  ],
+  "publisher": "University of Chicago Press for ASOR",
+  "journal": "Near Eastern Archaeology 81(1): 48–54",
+  "published_date": "2018-03",
+  "url": "https://doi.org/10.5615/neareastarch.81.1.0048",
+  "doi": "10.5615/neareastarch.81.1.0048",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Crossref API bibliographic match",
+      "notes": null
+    },
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Opening paragraph read via OpenAlex API",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Opening paragraph states that a cataclysmic earthquake shook the region around 760 BCE, affecting the long-abandoned site of Gath (citing Chadwick and Maeir forthcoming; Maeir 2012)",
+      "notes": null
+    }
+  ],
+  "accessed_at": "2026-10-12",
+  "access_notes": "Only the opening paragraph (supplied as abstract via OpenAlex) was read; the article body was not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

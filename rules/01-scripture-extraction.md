@@ -39,7 +39,7 @@ ESV/NKJV text is **not** an input to storage. They may be read through authorize
 - Consult Enduring Word for the chapter **only** for literary-genre or setting questions at this stage. Record it as an `interpretation` layer note.
 - Use Hebrew, Aramaic or Greek lexical data where a word decides the classification (e.g. a "year" formula or a regnal phrase). Cite the lexical source.
 
-## Output schema: `research/books/<slug>/extraction/ch-<NN>.json`
+## Output schema: `research/books/<slug>/extraction/ch-<NNN>.json`
 
 ```jsonc
 {
@@ -83,7 +83,7 @@ ESV/NKJV text is **not** an input to storage. They may be read through authorize
 - **Tool or context interruption:** write the partial file with `status: "in_progress"` and `resume_from`.
 
 ## Checkpoints
-- After every chapter: write `ch-<NN>.json`, update `book.json` coverage counts, and append to the session log.
+- After every chapter: write `ch-<NNN>.json` and append to the session log. Book-level counts are computed by `pnpm research:status`.
 - Commit after each chapter, or after each session if several short chapters were processed.
 
 ## Completion criteria

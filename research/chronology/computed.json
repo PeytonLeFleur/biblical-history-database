@@ -1,0 +1,202 @@
+{
+ "model_independent": [
+  {
+   "model_id": null,
+   "choice": {},
+   "feasible": true,
+   "contradictions": [],
+   "excluded": [
+    "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#start",
+    "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#end",
+    "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#start",
+    "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#end",
+    "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#start",
+    "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#end",
+    "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#start",
+    "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#end",
+    "cst_01M4RPJVYN2QACZX36D94T58VW",
+    "cst_01M4RPJVYNZ3VEZT8XX12XS3TA",
+    "cst_01M4RPJVYNZ7MTC77ST6QEJDCH",
+    "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH"
+   ],
+   "intervals": [
+    {
+     "subject": "evt_01M4RPJVYKCVT323B86C2GGDXN",
+     "years": {
+      "earliest": null,
+      "latest": null
+     },
+     "precision": "undated",
+     "derivation": {
+      "earliest": [],
+      "latest": []
+     }
+    },
+    {
+     "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+     "years": {
+      "earliest": null,
+      "latest": null
+     },
+     "precision": "undated",
+     "derivation": {
+      "earliest": [],
+      "latest": []
+     }
+    }
+   ]
+  }
+ ],
+ "chr_01M4RPJVYH7V0E9JTVB6H8BWZD": [
+  {
+   "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+   "choice": {},
+   "feasible": true,
+   "contradictions": [],
+   "excluded": [
+    "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#start",
+    "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#end",
+    "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#start",
+    "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#end",
+    "cst_01M4RPJVYNZ7MTC77ST6QEJDCH",
+    "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH"
+   ],
+   "intervals": [
+    {
+     "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+     "years": {
+      "earliest": -791,
+      "latest": -752
+     },
+     "precision": "reign",
+     "derivation": {
+      "earliest": [
+       "cst_01M4RPJVYN2QACZX36D94T58VW"
+      ],
+      "latest": [
+       "cst_01M4RPJVYNZ3VEZT8XX12XS3TA"
+      ]
+     }
+    },
+    {
+     "subject": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY",
+     "years": {
+      "earliest": -791,
+      "latest": -790
+     },
+     "precision": "day",
+     "derivation": {
+      "earliest": [],
+      "latest": []
+     }
+    },
+    {
+     "subject": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T",
+     "years": {
+      "earliest": -792,
+      "latest": -792
+     },
+     "precision": "day",
+     "derivation": {
+      "earliest": [],
+      "latest": []
+     }
+    },
+    {
+     "subject": "evt_01M4RPJVYKCVT323B86C2GGDXN",
+     "years": {
+      "earliest": -790,
+      "latest": -749
+     },
+     "precision": "reign",
+     "derivation": {
+      "earliest": [
+       "cst_01M4RPJVYN2QACZX36D94T58VW",
+       "cst_01M4RPJVYN3G2RP7P5Q03KHRYD"
+      ],
+      "latest": [
+       "cst_01M4RPJVYNZ3VEZT8XX12XS3TA",
+       "cst_01M4RPJVYN3G2RP7P5Q03KHRYD"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "chr_01M4RPJVYHQGTVH9D2A09VP6ZW": [
+  {
+   "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+   "choice": {},
+   "feasible": true,
+   "contradictions": [],
+   "excluded": [
+    "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#start",
+    "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#end",
+    "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#start",
+    "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#end",
+    "cst_01M4RPJVYN2QACZX36D94T58VW",
+    "cst_01M4RPJVYNZ3VEZT8XX12XS3TA"
+   ],
+   "intervals": [
+    {
+     "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+     "years": {
+      "earliest": -782,
+      "latest": -745
+     },
+     "precision": "reign",
+     "derivation": {
+      "earliest": [
+       "cst_01M4RPJVYNZ7MTC77ST6QEJDCH"
+      ],
+      "latest": [
+       "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH"
+      ]
+     }
+    },
+    {
+     "subject": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
+     "years": {
+      "earliest": -782,
+      "latest": -782
+     },
+     "precision": "day",
+     "derivation": {
+      "earliest": [],
+      "latest": []
+     }
+    },
+    {
+     "subject": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3",
+     "years": {
+      "earliest": -785,
+      "latest": -785
+     },
+     "precision": "day",
+     "derivation": {
+      "earliest": [],
+      "latest": []
+     }
+    },
+    {
+     "subject": "evt_01M4RPJVYKCVT323B86C2GGDXN",
+     "years": {
+      "earliest": -781,
+      "latest": -742
+     },
+     "precision": "reign",
+     "derivation": {
+      "earliest": [
+       "cst_01M4RPJVYNZ7MTC77ST6QEJDCH",
+       "cst_01M4RPJVYN3G2RP7P5Q03KHRYD"
+      ],
+      "latest": [
+       "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH",
+       "cst_01M4RPJVYN3G2RP7P5Q03KHRYD"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

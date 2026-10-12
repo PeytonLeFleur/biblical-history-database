@@ -1,0 +1,26 @@
+{
+  "kind": "person",
+  "id": "per_01M4RPJVYGZDME5BAKA4NAAX2Z",
+  "slug": "uzziah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Uzziah",
+  "aliases": [
+    {
+      "alias": "Azariah",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "2Kgs.15.1"
+    },
+    {
+      "alias": "Uzziah",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "2Chr.26.1"
+    }
+  ],
+  "description": "King of Judah; also called Azariah.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

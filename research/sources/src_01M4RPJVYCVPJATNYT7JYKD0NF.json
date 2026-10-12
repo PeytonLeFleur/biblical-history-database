@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+  "title": "The Mysterious Numbers of the Hebrew Kings (3rd ed.)",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Thiele, Edwin R."
+  ],
+  "publisher": "Zondervan / Kregel",
+  "journal": null,
+  "published_date": "1983",
+  "url": "https://openlibrary.org/works/OL2720725W",
+  "doi": null,
+  "isbn": "0310360102",
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Open Library record OL2720725W (editions 1951, 1965, 1983; ISBN 0310360102)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Book not accessed. Dates attributed to Thiele are taken from Wikipedia articles citing Thiele 1983 p. 217 (Uzziah) and Thiele (Jeroboam II).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

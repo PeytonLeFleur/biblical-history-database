@@ -13,7 +13,7 @@ export default defineConfig({
       {
         test: {
           name: 'db',
-          include: ['packages/*/src/**/*.db.test.ts', 'tests/**/*.db.test.ts'],
+          include: ['packages/*/src/**/*.db.test.ts', 'apps/api/src/**/*.db.test.ts', 'tests/**/*.db.test.ts'],
           fileParallelism: false,
         },
       },

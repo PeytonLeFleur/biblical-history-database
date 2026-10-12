@@ -11,6 +11,9 @@ importers:
       '@atlas/database':
         specifier: workspace:*
         version: link:packages/database
+      '@atlas/research-engine':
+        specifier: workspace:*
+        version: link:packages/research-engine
       '@atlas/scripture':
         specifier: workspace:*
         version: link:packages/scripture
@@ -118,9 +121,27 @@ importers:
 
   packages/research-engine:
     dependencies:
+      '@atlas/chronology-engine':
+        specifier: workspace:*
+        version: link:../chronology-engine
+      '@atlas/database':
+        specifier: workspace:*
+        version: link:../database
+      '@atlas/scripture':
+        specifier: workspace:*
+        version: link:../scripture
       '@atlas/shared':
         specifier: workspace:*
         version: link:../shared
+      '@atlas/source-registry':
+        specifier: workspace:*
+        version: link:../source-registry
+      '@atlas/static-export':
+        specifier: workspace:*
+        version: link:../static-export
+      '@atlas/validation':
+        specifier: workspace:*
+        version: link:../validation
       zod:
         specifier: 4.3.3
         version: 4.3.3

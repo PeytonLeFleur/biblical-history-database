@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RPJVYEGKYKHP0C2HN0GY9M",
+  "title": "Ierusalem/Hierosolyma — Pleiades place 687928",
+  "source_type": "institutional_database",
+  "authors": [
+    "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/687928",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched https://pleiades.stoa.org/places/687928/json",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "reprPoint lon 35.234978, lat 31.7771895",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 35.234978, lat 31.7771895.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

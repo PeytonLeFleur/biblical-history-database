@@ -57,8 +57,7 @@ The repository is the permanent memory. Everything needed to repeat a decision m
 ```
 research/
   books/<book-slug>/
-    book.json                     # book-level stage status + coverage summary
-    extraction/ch-<NN>.json       # Rule 01 output per chapter
+    extraction/ch-<NNN>.json       # Rule 01 output per chapter
   events/<evt_ULID>/
     candidate.json                # promoted candidate (Rule 01)
     context.json                  # Rule 02 dossier
@@ -66,13 +65,18 @@ research/
     crossrefs.json                # Rule 04 relationships
     validation.json               # Rule 05 audit result
     dossier.md                    # generated human-readable dossier (Rule 05)
+  sources/<src_ULID>.json         # source registry (pnpm research:source add|verify|list)
+  entities/<id>.json              # global people, places, kingdoms, reigns, chronology models, sites
+  chronology/computed.json        # solver output (pnpm chronology:recalculate) — derived, never hand-edited
   queues/<job_ULID>.json          # research jobs + stage checkpoints
   reviews/<rev_ULID>.json         # human review queue items + decisions
   reviews/private/                # gitignored — never published
   logs/<YYYY-MM-DD>-<topic>.md    # session log: queries, sources examined, dead ends
 ```
 
-All JSON files use permanent prefixed ULIDs (SPEC 3.6) and are validated by the Zod schemas in `packages/research-engine`. Where a schema and a rule file disagree, the rule file wins and the schema must be fixed.
+Events have an `event.json` (the promoted record with per-stage status) alongside the stage files.
+
+All JSON files use permanent prefixed ULIDs (SPEC 3.6) and are validated by the Zod schemas in `packages/research-engine/src/schemas.ts`. Where a schema and a rule file disagree, the rule file wins and the schema must be fixed.
 
 ## 0.6 Shared fields on every research record
 

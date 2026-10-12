@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+  "title": "The Chronology of the Divided Monarchy of Israel",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Albright, William F."
+  ],
+  "publisher": null,
+  "journal": "Bulletin of the American Schools of Oriental Research 100: 16–22",
+  "published_date": "1945-12",
+  "url": "https://doi.org/10.2307/1355182",
+  "doi": "10.2307/1355182",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Crossref API bibliographic match",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Article not accessed. Albright dates are taken from Wikipedia articles citing this article.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

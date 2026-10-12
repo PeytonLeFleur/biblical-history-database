@@ -1,7 +1,7 @@
 {
   "name": "biblical-history-database",
   "private": true,
-  "description": "Biblical History Atlas — source-verified biblical history research database and website.",
+  "description": "Biblical History Atlas \u2014 source-verified biblical history research database and website.",
   "license": "MIT",
   "type": "module",
   "packageManager": "pnpm@10.34.7",
@@ -31,6 +31,9 @@
     "research:crossrefs": "tsx scripts/cli.ts research crossrefs",
     "research:refresh": "tsx scripts/cli.ts research refresh",
     "research:export": "tsx scripts/cli.ts research export",
+    "research:audit": "tsx scripts/cli.ts research audit",
+    "research:import": "tsx scripts/cli.ts research import",
+    "research:source": "tsx scripts/cli.ts research source",
     "chronology:validate": "tsx scripts/cli.ts chronology validate",
     "chronology:recalculate": "tsx scripts/cli.ts chronology recalculate",
     "chronology:anchors": "tsx scripts/cli.ts chronology anchors",
@@ -43,6 +46,7 @@
   },
   "devDependencies": {
     "@atlas/database": "workspace:*",
+    "@atlas/research-engine": "workspace:*",
     "@atlas/scripture": "workspace:*",
     "@atlas/shared": "workspace:*",
     "@eslint/js": "9.39.5",

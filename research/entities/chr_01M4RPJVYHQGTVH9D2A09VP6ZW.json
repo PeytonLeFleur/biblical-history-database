@@ -1,0 +1,16 @@
+{
+  "kind": "chronology_model",
+  "id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+  "slug": "albright-1945",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ"
+  ],
+  "notes": null,
+  "name": "Albright (1945) divided-monarchy chronology",
+  "scope": "divided_monarchy",
+  "textual_tradition": null,
+  "is_absolute_axis": true,
+  "description": "W. F. Albright, BASOR 100 (1945)."
+}

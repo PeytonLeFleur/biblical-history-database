@@ -1,0 +1,34 @@
+{
+  "id": "src_01M4RPJVYAQVZ80CA3EQ802E7B",
+  "title": "Correction to \"Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea\"",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Kagan, Elisa",
+    "Stein, Mordechai",
+    "Agnon, Amotz",
+    "Neumann, Frank"
+  ],
+  "publisher": null,
+  "journal": "Journal of Geophysical Research: Solid Earth 116(B11)",
+  "published_date": "2011-11",
+  "url": null,
+  "doi": "10.1029/2011JB008870",
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Crossref API search returned this correction alongside the original article",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Existence verified via Crossref; content not accessed. Impact on the mid-8th-century seismites is unknown.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

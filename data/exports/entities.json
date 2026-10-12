@@ -1,0 +1,355 @@
+[
+ {
+  "kind": "chronology_model",
+  "id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+  "slug": "thiele-1983",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RPJVYCVPJATNYT7JYKD0NF"
+  ],
+  "notes": null,
+  "name": "Thiele (1983) divided-monarchy chronology",
+  "scope": "divided_monarchy",
+  "textual_tradition": null,
+  "is_absolute_axis": true,
+  "description": "E. R. Thiele, The Mysterious Numbers of the Hebrew Kings, 3rd ed. Uses coregencies and differing regnal reckonings."
+ },
+ {
+  "kind": "chronology_model",
+  "id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+  "slug": "albright-1945",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ"
+  ],
+  "notes": null,
+  "name": "Albright (1945) divided-monarchy chronology",
+  "scope": "divided_monarchy",
+  "textual_tradition": null,
+  "is_absolute_axis": true,
+  "description": "W. F. Albright, BASOR 100 (1945)."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "slug": "judah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Kingdom of Judah",
+  "description": "Southern Israelite kingdom with its capital at Jerusalem."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4RPJVYGDD239HH2H3ZH04MY",
+  "slug": "israel-northern-kingdom",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Kingdom of Israel (Northern Kingdom)",
+  "description": "Northern Israelite kingdom with its capital at Samaria."
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+  "slug": "jerusalem",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Jerusalem",
+  "place_type": "settlement",
+  "modern_name": "Jerusalem (Old City / City of David)",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4RPJVYJCNRQM5E240JTAMDQ",
+    "label": "Pleiades representative point",
+    "lat": 31.7771895,
+    "lon": 35.234978,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4RPJVYEGKYKHP0C2HN0GY9M",
+    "proponents": [],
+    "reasoning": "Identification and representative point from the Pleiades gazetteer."
+   }
+  ],
+  "description": null
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4RPJVYK5SZH2P34JYA0SJ49",
+  "slug": "gezer",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Gezer",
+  "place_type": "settlement",
+  "modern_name": "Tel Gezer",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4RPJVYK6BYB7ADKTZHWFBQ9",
+    "label": "Tel Gezer (Pleiades \"Gazara\")",
+    "lat": 31.859791,
+    "lon": 34.920993,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4RPJVYFQR5C9FRY6HYP9NQP",
+    "proponents": [],
+    "reasoning": "Identification and representative point from the Pleiades gazetteer."
+   }
+  ],
+  "description": null
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4RPJVYKEMXR00PV59NPQH1V",
+  "slug": "gath",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Gath",
+  "place_type": "settlement",
+  "modern_name": "Tell es-Safi / Tel Tzafit",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4RPJVYK23FFVCRSEBHZPQRX",
+    "label": "Tell es-Safi (Pleiades \"Gimtu\")",
+    "lat": 31.70198,
+    "lon": 34.8474,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4RPJVYFQMR2RX3KCY0ZB20B",
+    "proponents": [],
+    "reasoning": "Identification and representative point from the Pleiades gazetteer."
+   }
+  ],
+  "description": null
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4RPJVYKT60A9TENWNDHZTNN",
+  "slug": "hazor",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Hazor",
+  "place_type": "settlement",
+  "modern_name": "Tel Hazor",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4RPJVYKCENECVRFFNWGA0DX",
+    "label": "Tel Hazor (Pleiades)",
+    "lat": 33.019181,
+    "lon": 35.566769,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4RPJVYE0DPQMCWC3CPK4BHB",
+    "proponents": [],
+    "reasoning": "Identification and representative point from the Pleiades gazetteer."
+   }
+  ],
+  "description": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RPJVYG82Y6S92J1Y4G5JTH",
+  "slug": "amos-prophet",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Amos",
+  "aliases": [],
+  "description": "Prophet from Tekoa (Amos 1:1).",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RPJVYG92VY55FC1BYZ3PE9",
+  "slug": "jeroboam-ii",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Jeroboam II",
+  "aliases": [
+   {
+    "alias": "Jeroboam the son of Joash",
+    "language": "English (WEB)",
+    "source_id": null,
+    "passage": "Amos.1.1"
+   }
+  ],
+  "description": "King of Israel, son of Joash (Jehoash).",
+  "kingdom_id": "kgd_01M4RPJVYGDD239HH2H3ZH04MY"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RPJVYGZDME5BAKA4NAAX2Z",
+  "slug": "uzziah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Uzziah",
+  "aliases": [
+   {
+    "alias": "Azariah",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "2Kgs.15.1"
+   },
+   {
+    "alias": "Uzziah",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "2Chr.26.1"
+   }
+  ],
+  "description": "King of Judah; also called Azariah.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
+  "slug": "uzziah-reign-albright",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+   "src_01M4RPJVYDW55BD6H47AFG78AA"
+  ],
+  "notes": "Albright: 783–742 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes).",
+  "person_id": "per_01M4RPJVYGZDME5BAKA4NAAX2Z",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+  "title": "King of Judah",
+  "start": {
+   "earliest": -782,
+   "latest": -782
+  },
+  "end": {
+   "earliest": -741,
+   "latest": -741
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 52,
+  "stated_length_passage": "2Kgs.15.2",
+  "regnal_convention": null
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T",
+  "slug": "jeroboam-ii-reign-thiele",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
+  "notes": "Thiele: coregent with Jehoash 793–782 BC; sole reign 782–753. Interval includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes).",
+  "person_id": "per_01M4RPJVYG92VY55FC1BYZ3PE9",
+  "kingdom_id": "kgd_01M4RPJVYGDD239HH2H3ZH04MY",
+  "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+  "title": "King of Israel",
+  "start": {
+   "earliest": -792,
+   "latest": -792
+  },
+  "end": {
+   "earliest": -752,
+   "latest": -752
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 41,
+  "stated_length_passage": "2Kgs.14.23",
+  "regnal_convention": null
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY",
+  "slug": "uzziah-reign-thiele",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+   "src_01M4RPJVYDW55BD6H47AFG78AA"
+  ],
+  "notes": "Thiele: coregency with Amaziah from 792/791 BC; sole reign 768/767; died 740/739. The reign interval here includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes).",
+  "person_id": "per_01M4RPJVYGZDME5BAKA4NAAX2Z",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+  "title": "King of Judah",
+  "start": {
+   "earliest": -791,
+   "latest": -790
+  },
+  "end": {
+   "earliest": -739,
+   "latest": -738
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 52,
+  "stated_length_passage": "2Kgs.15.2",
+  "regnal_convention": null
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3",
+  "slug": "jeroboam-ii-reign-albright",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
+  "notes": "Albright: 786–746 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes).",
+  "person_id": "per_01M4RPJVYG92VY55FC1BYZ3PE9",
+  "kingdom_id": "kgd_01M4RPJVYGDD239HH2H3ZH04MY",
+  "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+  "title": "King of Israel",
+  "start": {
+   "earliest": -785,
+   "latest": -785
+  },
+  "end": {
+   "earliest": -745,
+   "latest": -745
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 41,
+  "stated_length_passage": "2Kgs.14.23",
+  "regnal_convention": null
+ }
+]

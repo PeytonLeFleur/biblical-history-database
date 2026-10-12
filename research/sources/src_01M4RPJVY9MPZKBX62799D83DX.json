@@ -1,0 +1,40 @@
+{
+  "id": "src_01M4RPJVY9MPZKBX62799D83DX",
+  "title": "Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Kagan, Elisa",
+    "Stein, Mordechai",
+    "Agnon, Amotz",
+    "Neumann, Frank"
+  ],
+  "publisher": "American Geophysical Union / Wiley",
+  "journal": "Journal of Geophysical Research 116(B4): B04311",
+  "published_date": "2011-04-21",
+  "url": "https://doi.org/10.1029/2010JB007452",
+  "doi": "10.1029/2010JB007452",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "source_accessed",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Crossref API bibliographic match",
+      "notes": null
+    },
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Abstract read via OpenAlex API",
+      "notes": null
+    }
+  ],
+  "accessed_at": "2026-10-12",
+  "access_notes": "Abstract only (via OpenAlex). The abstract lists intrabasin seismites back to the mid-2nd century BC and does NOT mention mid-8th-century BC seismites; that claim is known here only from a secondary catalog (Williams). Publisher page returned HTTP 403. A published correction exists (doi:10.1029/2011JB008870), content not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

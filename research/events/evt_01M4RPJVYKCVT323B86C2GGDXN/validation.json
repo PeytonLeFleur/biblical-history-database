@@ -1,0 +1,57 @@
+{
+  "event_id": "evt_01M4RPJVYKCVT323B86C2GGDXN",
+  "revision": 1,
+  "validated_at": "2026-10-12",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4RPJVYRVA6AS1TBWZWZQYZQ"
+  ],
+  "research_gaps": [
+    "Full texts of Austin et al. 2000, Kagan et al. 2011 (and its correction) and Ambraseys 2009 were not accessed.",
+    "Original Hazor (Yadin), Gezer and Lachish excavation reports were not consulted; site details come from Williams' catalog.",
+    "Dever 1992 (Eretz-Israel 23), cited in the literature on the c. 760 BCE earthquake, could not be located in Crossref.",
+    "No peer-reviewed publication of the City of David earthquake layer was identified.",
+    "No Assyrian or Babylonian textual record of the earthquake was found in this session."
+  ],
+  "disputes": [
+    "There was a single regional earthquake of magnitude ~8 (≥7.8) with an epicentre in Lebanon in 750 BC."
+  ],
+  "export_eligible": true
+}

@@ -1,0 +1,29 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RPJVYK5SZH2P34JYA0SJ49",
+  "slug": "gezer",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Gezer",
+  "place_type": "settlement",
+  "modern_name": "Tel Gezer",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4RPJVYK6BYB7ADKTZHWFBQ9",
+      "label": "Tel Gezer (Pleiades \"Gazara\")",
+      "lat": 31.859791,
+      "lon": 34.920993,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4RPJVYFQR5C9FRY6HYP9NQP",
+      "proponents": [],
+      "reasoning": "Identification and representative point from the Pleiades gazetteer."
+    }
+  ],
+  "description": null
+}

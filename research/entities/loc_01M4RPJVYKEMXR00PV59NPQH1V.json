@@ -1,0 +1,29 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RPJVYKEMXR00PV59NPQH1V",
+  "slug": "gath",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Gath",
+  "place_type": "settlement",
+  "modern_name": "Tell es-Safi / Tel Tzafit",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4RPJVYK23FFVCRSEBHZPQRX",
+      "label": "Tell es-Safi (Pleiades \"Gimtu\")",
+      "lat": 31.70198,
+      "lon": 34.8474,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4RPJVYFQMR2RX3KCY0ZB20B",
+      "proponents": [],
+      "reasoning": "Identification and representative point from the Pleiades gazetteer."
+    }
+  ],
+  "description": null
+}

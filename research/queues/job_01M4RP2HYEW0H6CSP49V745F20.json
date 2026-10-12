@@ -1,0 +1,19 @@
+{
+  "id": "job_01M4RP2HYEW0H6CSP49V745F20",
+  "subject_kind": "chapter",
+  "subject_id": "Amos.1",
+  "book": "Amos",
+  "chapter": 1,
+  "stage": "scripture_extraction",
+  "status": "queued",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [],
+  "created_at": "2026-10-12T18:30:21.391Z",
+  "updated_at": "2026-10-12T18:30:21.391Z",
+  "is_fixture": false
+}

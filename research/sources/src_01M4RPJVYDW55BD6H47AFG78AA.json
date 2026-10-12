@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RPJVYDW55BD6H47AFG78AA",
+  "title": "Uzziah — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Uzziah",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read the article",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "States Thiele: coregency from 792/791, sole reign 768/767, leprosy 751/750, died 740/739 BCE (Thiele 1983 p. 217); Albright 783–742 BC (BASOR 1945); notes Josephus' incense-earthquake link conflicts with Thiele-based dating",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read 2026-10-12. Used only to report chronologists' reign dates with their citations.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RPJVYA8J98NK24W23QRET6",
+  "title": "Amos Quake(s) — Earthquake Catalog of the Dead Sea (entry)",
+  "source_type": "historical_reference",
+  "authors": [
+    "Williams, Jefferson"
+  ],
+  "publisher": "deadseaquake.info (self-published research catalog)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/AmosQuakes.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Unspecified; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read the summary and archaeoseismic sections on 2026-10-12",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Located statements on: two mid-8th-c. seismites (Kagan 2011); critiques of Austin 2000 dating; Ambraseys 2009 \"overstated\"; per-site evidence and alternative explanations (Hazor, Gezer, Gath, Deir Alla, Jerusalem, etc.)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read characters 0–200,000 of a ~350,000-character page (summary, archaeoseismic site list, critiques). Remaining portion not read. Secondary compilation: its citations of Kagan et al. 2011, Ambraseys 2009, Ben-Menahem 1991 and site reports were not verified at source unless separately registered.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

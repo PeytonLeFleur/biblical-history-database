@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 2 (Biblical and historical data foundation): complete · next is Milestone 3 (research and chronology engines + Amos earthquake pilot)
+**Current milestone:** 3 (Research and chronology engines + Amos earthquake pilot): complete · next is Milestone 4 (public research website)
 **Last updated:** 2026-10-12
 
 ## Milestone 1: Repository and foundation ✅
@@ -18,25 +18,60 @@
 - Seed is idempotent and never resets coverage. Every verse starts as `not_reviewed`.
 - API `/health` reports `db: ok` against the live DB.
 
-## Test results (local, 2026-10-12)
-lint ✓ · typecheck ✓ (11 packages + root scripts) · tests **48/48** ✓ (35 unit + 13 DB integrity) · web build ✓
+## Milestone 3: Research and chronology engines ✅
+- **Chronology engine** (`packages/chronology-engine`):
+  - Simple Temporal Network solver (Bellman–Ford), with derivation chains for every bound.
+  - Model isolation, alternative hypotheses solved per combination, and contradiction diagnostics that list the constraint cycle. Global cycle detection also catches undated items.
+  - Regnal-year engine (accession / non-accession; conservative Nisan/Tishri windows).
+  - Julian/Gregorian/JDN conversion (Meeus) and reign-structure checks.
+  - All 12 SPEC 12.8 consistency tests, plus the **Dan 1:1 / Jer 25:1** reckoning test (synthetic inputs).
+- **Research engine** (`packages/research-engine`):
+  - Zod schemas for every rule file, a file store, jobs and checkpoints, and chapter preparation.
+  - Source registry with DOI/URL dedupe and a one-step verification ladder.
+  - Entity matching (aliases, fuzzy), duplicate-event detection (passage overlap + word-set title similarity).
+  - Revision-locked review decisions.
+  - Repository validator (coverage, references, citations, classification rules, copyright quote cap, fixtures, chronology).
+  - Per-event audit that sets the publication level, dossier rendering (with computed chronology per model), fixture-safe static export, and an idempotent DB importer with dry run.
+- **CLI:** every `research:*`, `chronology:*` and `review:*` command works. `review:approve` and `review:reject` require an interactive owner confirmation, so Claude cannot approve its own work.
+- **API:** `/events`, `/events/:id`, `/entities/:id`, `/sources/:id` and `/research/status` (read-only; never serves fixtures or unpublished records).
+- **CI:** now also runs `research:validate`, `chronology:validate` and a real research import against PostGIS.
 
-## Incomplete / not started
-- Milestone 3: five-stage orchestration, Zod research-file schemas, importer, checkpoints, source registration/verification CLI, the chronology constraint solver, regnal conventions, calendar conversion, review CLI, audits, and the **Amos 1:1 / Zech 14:5 earthquake pilot**.
-- Milestones 4–7.
-- API read-only endpoints (events, entities, sources, research status) are waiting on M3 data.
-- Hebrew and Greek versification mappings (listed in `data/imports/README.md`).
+### Pilot research (genuine)
+- **Amos 1 extraction complete:** 15/15 verses reviewed, 13 candidates (superscription, earthquake, 1:2 oracle, 5 oracles against the nations, and 5 historical references inside them).
+- **"The earthquake in the days of Uzziah"** (`evt_01M4RPJVYKCVT323B86C2GGDXN`): all five stages complete, publication level **researched** (not human reviewed), status `needs_review`.
+  - 17 sources registered at honest verification levels, 5 claims, 7 evidence findings, 12 relationships.
+  - Computed windows: **Thiele 791–750 BC · Albright 782–743 BC** (undated without a model).
+  - Dossier: `research/events/evt_01M4RPJVYKCVT323B86C2GGDXN/dossier.md`. Session log: `research/logs/2026-10-12-amos-earthquake.md`.
+- "Amos's prophetic words (dated by Amos 1:1)" is queued for its own research (stages 2–5 not started).
+
+
+## Test results (local, 2026-10-12)
+lint ✓ · typecheck ✓ · tests **85/85** ✓ (unit + DB integrity + importer dry run + API) · `research:validate` ✓ (1 warning: City of David report not traced to an original publication) · `chronology:validate` ✓ · web build ✓
 
 ## Research progress
-**No historical research performed yet.** Verse coverage: 0 / 31,102 reviewed. Events: 0. Sources: 0.
+- Verse coverage: **15 / 31,102** reviewed (Amos 1). Chapters extracted: 1 (Amos 1).
+- Events: 2 (1 researched, 1 queued). Sources: 17. Entities: 15. **Open owner reviews: 1** (disputed single-event 750 BC claim; run `pnpm review:list`).
+- No book is "researched". Human review: 0 records.
+
+## Incomplete / not started
+- Milestone 4 (website): design system, explorers, dossier pages, MapLibre map, timeline, search, Pages data integration.
+- Milestones 5–7.
+- Synchronism *records* (e.g. 763 BC eclipse, Qarqar) are not yet researched. The synchronism schema and solver anchoring exist.
+- Lunar calendar conversion uses conservative windows. Parker & Dubberstein tables are not imported.
+- Hebrew/Greek versification mappings.
 
 ## Blockers
 None.
 
 ## Source and research limitations
-- OpenBible.info, TSK and Pleiades licences not yet verified, so they have not been imported.
-- No ruler or synchronism data seeded. Those require sourced research (M3+).
+- Paywalled full texts not accessed: Austin et al. 2000, Kagan et al. 2011 (and its correction), Ambraseys 2009, Thiele 1983, Albright 1945. Reign dates come via Wikipedia summaries citing them.
+- The mid-8th-century Dead Sea seismites are known only through a secondary catalog. They do not appear in the Kagan 2011 abstract.
+- No peer-reviewed publication was identified for the City of David earthquake layer.
+- OpenBible.info, TSK and Pleiades bulk-import licences not yet verified. Four Pleiades records are cited individually (CC BY 3.0).
 
 ## Environment notes
 - Homebrew `node` v25 is broken (missing libsimdjson). Use `/opt/homebrew/opt/node@24/bin`.
-- Docker Postgres/PostGIS on localhost:**5433** (avoids clashing with any local 5432).
+- Docker Postgres/PostGIS on localhost:**5433**. Check for stale API processes on test ports before smoke tests.
+
+## Latest commit
+See `git log -1`.
