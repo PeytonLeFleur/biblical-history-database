@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+  "title": "Daniel 2 — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_2",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Majority scholarly identification Babylon–Media–Persia–Seleucid/Ptolemaic; iron-and-clay as Seleucid–Ptolemaic marriages (c. 250 or 193 BC); chapter in present form no earlier than early Seleucid period; Aramaic 2:4b–7:28 unexplained; royal dreams as portents; a Nabonidus inscription records a dream of Nebuchadnezzar; giant-figure parallels (Hesiod, Ovid, Bahman Yasht)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

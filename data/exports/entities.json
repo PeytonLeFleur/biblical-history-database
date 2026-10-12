@@ -679,6 +679,185 @@
   "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
  },
  {
+  "kind": "person",
+  "id": "per_01M4RTK74163RYZPE0V2XPQTGS",
+  "slug": "arioch-captain-of-the-guard",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Arioch (captain of the guard)",
+  "aliases": [
+   {
+    "alias": "Arioch",
+    "language": "Aramaic (English form)",
+    "source_id": null,
+    "passage": "Dan.2.14"
+   }
+  ],
+  "description": "Captain of Nebuchadnezzar's guard (Dan 2:14). Distinct from Arioch king of Ellasar (Gen 14:1).",
+  "kingdom_id": null
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4RTK7458JMN36GV9R7JAAMQ",
+  "slug": "four-kingdoms-and-the-stone-dan-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The four kingdoms and the everlasting kingdom (Dan 2:36–45)",
+  "passage": "Dan.2.36-Dan.2.45",
+  "speaker": "Daniel",
+  "vision_id": "vis_01M4RTK74339RAGGVV05XNYYPJ",
+  "description": "Daniel's interpretation: Nebuchadnezzar is the head of gold; three further kingdoms follow, the fourth strong as iron and later divided; in the days of those kings God sets up an everlasting kingdom that breaks the others.",
+  "in_text_interpretation": "Only the first kingdom is identified in the text (Nebuchadnezzar / Babylon). The second, third and fourth kingdoms and the stone are not named in Daniel 2.",
+  "interpretations": [
+   {
+    "id": "ful_01M4RTK7448RVXKGHK6QYA0E8B",
+    "label": "Babylon, Medo-Persia, Greece, Rome; the stone is the messianic kingdom",
+    "approach": "historicist",
+    "framework": "Traditional Jewish and Christian",
+    "proponents": [
+     "Josephus (iron as a world-ruling power; declines to explain the stone)",
+     "Jerome",
+     "Talmud and medieval Jewish commentators incl. Rashi",
+     "Calvin and Reformation-era writers"
+    ],
+    "summary": "The metals are a historical succession ending with Rome; God's kingdom (the Messiah's) replaces the world empires. Josephus already reads the bronze as a power \"from the west\" and the iron as a dominion over all the earth.",
+    "referents": [
+     {
+      "symbol": "Silver",
+      "referent": "Medo-Persia"
+     },
+     {
+      "symbol": "Bronze",
+      "referent": "Greece (Alexander and successors)"
+     },
+     {
+      "symbol": "Iron",
+      "referent": "Rome"
+     },
+     {
+      "symbol": "Stone",
+      "referent": "Messianic kingdom"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4RTK73GNE4PSPJM6Q73JH9M",
+     "src_01M4RTK73J9V0R4YX9KBZ0SBXZ"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4RTK744RGV8DN2Z5NXFM1KX",
+    "label": "Rome with a future ten-kingdom phase; the stone is Christ's return",
+    "approach": "futurist",
+    "framework": "Dispensational premillennial",
+    "proponents": [
+     "D. Guzik (Enduring Word)",
+     "Dispensational interpreters (per Wikipedia)"
+    ],
+    "summary": "The fourth kingdom is Rome; the ten toes correspond to a future revived Roman confederation (cf. 7:24; Rev 17:12), not yet realised; the stone is the Messiah, whose return decisively ends the world kingdoms.",
+    "referents": [
+     {
+      "symbol": "Iron",
+      "referent": "Rome"
+     },
+     {
+      "symbol": "Toes of iron and clay",
+      "referent": "Future ten-king confederation"
+     },
+     {
+      "symbol": "Stone",
+      "referent": "Christ at his second coming"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4RTK73D2VJASPVYEK3MFDFJ",
+     "src_01M4RTK73J9V0R4YX9KBZ0SBXZ"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4RTK7447GCCGCH7NNSDFHXH",
+    "label": "Rome followed by the divided nations of Europe; the stone is God's unending kingdom at Christ's return",
+    "approach": "historicist",
+    "framework": "Seventh-day Adventist historicism",
+    "proponents": [
+     "Seventh-day Adventist interpretation (per Wikipedia)"
+    ],
+    "summary": "A continuous fulfilment through history from Babylon to Rome and its divided successors, culminating in God's kingdom.",
+    "referents": [
+     {
+      "symbol": "Iron",
+      "referent": "Rome"
+     },
+     {
+      "symbol": "Iron and clay",
+      "referent": "Divided successor kingdoms of Rome"
+     },
+     {
+      "symbol": "Stone",
+      "referent": "God's unending kingdom"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4RTK73J9V0R4YX9KBZ0SBXZ"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4RTK744J6EM22C2BSXB392X",
+    "label": "Babylon, Media, Persia, Greece (Seleucids and Ptolemies); the stone is God's imminent kingdom",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "Modern critical consensus, e.g. J. J. Collins (per Wikipedia)",
+     "Porphyry (3rd c. AD)",
+     "Ephrem the Syrian; Polychronius; Cosmas Indicopleustes"
+    ],
+    "summary": "Following Daniel's own sequence of Median and Persian rulers (5:31; 6:28), the four kingdoms are Babylon, Media, Persia and the Hellenistic kingdoms; the mixed iron and clay reflects Seleucid–Ptolemaic marriage alliances (c. 250 or 193 BC); the chapter in its present form dates from the early Seleucid period at the earliest.",
+    "referents": [
+     {
+      "symbol": "Silver",
+      "referent": "Media"
+     },
+     {
+      "symbol": "Bronze",
+      "referent": "Persia"
+     },
+     {
+      "symbol": "Iron",
+      "referent": "Alexander and the Hellenistic kingdoms"
+     },
+     {
+      "symbol": "Iron and clay",
+      "referent": "Seleucid–Ptolemaic marriages"
+     },
+     {
+      "symbol": "Stone",
+      "referent": "God's kingdom expected to replace Hellenistic rule"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+     "src_01M4RTK73J9V0R4YX9KBZ0SBXZ",
+     "src_01M4RSRHKJWXG4RS4SNQ7KSSCB"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
   "kind": "reign",
   "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
   "slug": "uzziah-reign-albright",
@@ -1094,5 +1273,57 @@
   "anchor_subject": null,
   "window": null,
   "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "vision",
+  "id": "vis_01M4RTK74339RAGGVV05XNYYPJ",
+  "slug": "nebuchadnezzars-statue-dream",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The great statue of four metals and the stone (Nebuchadnezzar's dream)",
+  "passage": "Dan.2.31-Dan.2.35",
+  "recipient_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+  "experience_event_id": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+  "symbols": [
+   {
+    "symbol": "Head of fine gold",
+    "description": "Head of the statue",
+    "passage": "Dan.2.32",
+    "in_text_interpretation": "Nebuchadnezzar: \"You are the head of gold\" (2:38)."
+   },
+   {
+    "symbol": "Chest and arms of silver",
+    "description": "Upper body",
+    "passage": "Dan.2.32",
+    "in_text_interpretation": "Another kingdom, inferior, arising after Nebuchadnezzar (2:39); not named."
+   },
+   {
+    "symbol": "Belly and thighs of bronze",
+    "description": "Middle",
+    "passage": "Dan.2.32",
+    "in_text_interpretation": "A third kingdom that will rule over all the earth (2:39); not named."
+   },
+   {
+    "symbol": "Legs of iron",
+    "description": "Legs",
+    "passage": "Dan.2.33",
+    "in_text_interpretation": "A fourth kingdom, strong as iron, that crushes all (2:40); not named."
+   },
+   {
+    "symbol": "Feet of iron and clay",
+    "description": "Feet and toes",
+    "passage": "Dan.2.33",
+    "in_text_interpretation": "A divided kingdom, partly strong and partly brittle; they will \"mingle themselves with the seed of men\" but not hold together (2:41–43)."
+   },
+   {
+    "symbol": "Stone cut out without hands",
+    "description": "Strikes the feet and becomes a great mountain",
+    "passage": "Dan.2.34-Dan.2.35",
+    "in_text_interpretation": "A kingdom set up by the God of heaven \"in the days of those kings\", never to be destroyed (2:44–45)."
+   }
+  ],
+  "description": "A dream image: a great statue with head of gold, chest and arms of silver, belly and thighs of bronze, legs of iron, feet of iron mixed with clay; a stone cut out without hands strikes the feet, the statue is shattered, and the stone becomes a mountain filling the earth."
  }
 ]

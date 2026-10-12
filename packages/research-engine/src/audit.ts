@@ -59,7 +59,12 @@ export function auditEvent(store: ResearchStore, id: string, opts: { write?: boo
   add('competing_positions_represented', ctx && (ctx.competing_reconstructions.length > 0 || ctx.not_applicable['competing_reconstructions']) ? [] : ['no competing reconstructions recorded (or not_applicable reason)']);
 
   const reviews = store.reviews();
-  const relatedIds = new Set([id, ...(evd?.claims.map((c) => c.id) ?? [])]);
+  // Reviews of this event, its claims, its proposed-fulfillment relationships, and interpretations of prophecies linked to it.
+  const entities = store.entities();
+  const linked = new Set((xr?.relationships ?? []).flatMap((r) => [r.from, r.to]).filter((x) => x.kind !== 'passage').map((x) => (x as { id: string }).id));
+  const visionIds = new Set(entities.filter((e) => e.kind === 'vision' && (e.experience_event_id === id || linked.has(e.id))).map((e) => e.id));
+  const interpretationIds = entities.flatMap((e) => (e.kind === 'prophecy' && (linked.has(e.id) || (e.vision_id && visionIds.has(e.vision_id))) ? e.interpretations.map((i) => i.id) : []));
+  const relatedIds = new Set([id, ...(evd?.claims.map((c) => c.id) ?? []), ...(xr?.relationships.map((r) => r.id) ?? []), ...interpretationIds]);
   const openReviews = reviews.filter((r) => relatedIds.has(r.record_id) && r.status === 'open').map((r) => r.id);
   const approvedNow = reviews.some(
     (r) => r.record_kind === 'event' && r.record_id === id && r.decisions.some((d) => d.decision === 'approve' && d.record_revision === ev.revision),

@@ -1,0 +1,60 @@
+{
+  "event_id": "evt_01M4RTK74244FBNE62VE24RYGQ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RTK74X6KV5YMT1FMGM5H2F",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RTK74244FBNE62VE24RYGQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Gen.41.39-Gen.41.45"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Joseph's elevation by Pharaoh after interpreting his dreams. Thematic parallel only.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RTK74XD4JZEBM8SEDR15R0",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RTK74244FBNE62VE24RYGQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.3.12"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The companions' appointment over the province is presupposed in Daniel 3:12.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4RTK747827KV997EP66Z1HP"
+  ]
+}

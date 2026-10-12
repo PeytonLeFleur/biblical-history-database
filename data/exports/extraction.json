@@ -431,6 +431,598 @@
   "slug": "daniel"
  },
  {
+  "book": "Dan",
+  "chapter": 2,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Dan.2.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": "Language switch: the narrative continues in Aramaic from the second half of this verse to 7:28."
+   },
+   {
+    "ref": "Dan.2.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746NFC65JM5Q4TG6A9A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.22",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.23",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.24",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.25",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.26",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.27",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.28",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.29",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.30",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746GPGZK7B5Q9G35562"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.31",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK7463W8G10MAFE2M4AHG"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.32",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK7463W8G10MAFE2M4AHG"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.33",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK7463W8G10MAFE2M4AHG"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.34",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK7463W8G10MAFE2M4AHG"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.35",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK7463W8G10MAFE2M4AHG"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.36",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.37",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.38",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.39",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.40",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.41",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.42",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.43",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.44",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.45",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746JRNRE87JKHV2BGAP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.46",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746M1RERTMTA10YH7QV"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.47",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746M1RERTMTA10YH7QV"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.48",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746M1RERTMTA10YH7QV"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.2.49",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RTK746M1RERTMTA10YH7QV"
+    ],
+    "notes": null
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4RTK746NFC65JM5Q4TG6A9A",
+    "title": "Nebuchadnezzar's troubling dream and the decree against the wise men",
+    "passage": "Dan.2.1-Dan.2.16",
+    "description": "In his second year Nebuchadnezzar demanded that his diviners tell him both his dream and its meaning; when they could not, he decreed the death of Babylon's wise men, including Daniel and his companions, whom Arioch went to execute.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal",
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Arioch",
+      "matched_entity_id": "per_01M4RTK74163RYZPE0V2XPQTGS",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "Babylon",
+      "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [
+     {
+      "ref": "Dan.2.1",
+      "phrase": "In the second year of the reign of Nebuchadnezzar",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "Gen.41.1-Gen.41.36"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "\"Second year\" vs the three-year training (1:5, 18).",
+     "The text switches from Hebrew to Aramaic at 2:4b (\"in the Syrian language\") and stays in Aramaic to 7:28."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4RTK7413H4KYZP4XJ33QVHC"
+   },
+   {
+    "id": "cnd_01M4RTK746GPGZK7B5Q9G35562",
+    "title": "The secret revealed to Daniel and his interpretation before the king",
+    "passage": "Dan.2.17-Dan.2.30",
+    "description": "Daniel and his companions prayed; the secret was revealed to Daniel in a night vision; Arioch brought him to the king, and Daniel attributed the revelation to the God of heaven.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious",
+     "miracle_claim"
+    ],
+    "parent_candidate_id": "cnd_01M4RTK746NFC65JM5Q4TG6A9A",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Arioch",
+      "matched_entity_id": "per_01M4RTK74163RYZPE0V2XPQTGS",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4RTK7413H4KYZP4XJ33QVHC"
+   },
+   {
+    "id": "cnd_01M4RTK7463W8G10MAFE2M4AHG",
+    "title": "The statue of four metals and the stone (dream content)",
+    "passage": "Dan.2.31-Dan.2.35",
+    "description": "The dream image as recounted by Daniel.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4RTK746NFC65JM5Q4TG6A9A",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.7.1-Dan.7.28"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Symbolic content — not a historical occurrence."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RTK746JRNRE87JKHV2BGAP",
+    "title": "The four kingdoms and the everlasting kingdom (interpretation)",
+    "passage": "Dan.2.36-Dan.2.45",
+    "description": "Daniel's interpretation of the image as a sequence of kingdoms followed by God's everlasting kingdom.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4RTK746NFC65JM5Q4TG6A9A",
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.2.44",
+      "phrase": "In the days of those kings",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Dan.7.17-Dan.7.27"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Only the head of gold is identified in the text."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RTK746M1RERTMTA10YH7QV",
+    "title": "Nebuchadnezzar honours Daniel and appoints him over the province of Babylon",
+    "passage": "Dan.2.46-Dan.2.49",
+    "description": "The king prostrated himself, confessed Daniel's God, made Daniel ruler over the province of Babylon and chief over the wise men, and appointed his three companions over the province's affairs.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "political",
+     "royal"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "province of Babylon",
+      "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [
+     "Gen.41.39-Gen.41.45"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4RTK74244FBNE62VE24RYGQ"
+   }
+  ],
+  "session_log": "research/logs/2026-10-12-daniel-02.md",
+  "slug": "daniel"
+ },
+ {
   "book": "Amos",
   "chapter": 1,
   "status": "complete",

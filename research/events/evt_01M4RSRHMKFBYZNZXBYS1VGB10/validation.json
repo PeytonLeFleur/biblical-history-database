@@ -40,7 +40,9 @@
     }
   ],
   "publication_level": "researched",
-  "open_reviews": [],
+  "open_reviews": [
+    "rev_01M4RSRHN8HPRV7KVMQKR48P8D"
+  ],
   "research_gaps": [
     "Weidner (1939) edition of the ration tablets not consulted.",
     "Akkadian etymologies of Shadrach, Meshach, Abednego not sourced from a scholarly lexicon."

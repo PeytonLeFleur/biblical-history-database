@@ -1,0 +1,83 @@
+{
+  "event_id": "evt_01M4RTK74244FBNE62VE24RYGQ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The king bowed before Daniel, confessed his God as God of gods, gave him gifts, made him ruler over the province of Babylon and chief over its wise men, and appointed his three companions over the province's affairs while Daniel remained at the king's gate.",
+    "passage": "Dan.2.46-Dan.2.49"
+  },
+  "setting": {
+    "period": "Early reign of Nebuchadnezzar II",
+    "body": "The province (medînâ) of Babylon was the core administrative region of the empire. No Babylonian administrative record consulted names Daniel or his companions as officials.",
+    "citations": []
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "Appointing king",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4RTK747827KV997EP66Z1HP",
+      "subject": "evt_01M4RTK74244FBNE62VE24RYGQ",
+      "object": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+      "relation": "immediately_follows",
+      "textual_assertion": "Then King Nebuchadnezzar fell on his face … Then the king made Daniel great",
+      "passage": "Dan.2.46",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Province of the appointment",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Historical appointment",
+      "proponents": [
+        "Traditional reading; D. Guzik"
+      ],
+      "summary": "Daniel held high office in Babylon and his companions administered the province.",
+      "citations": [
+        "src_01M4RTK73D2VJASPVYEK3MFDFJ"
+      ]
+    },
+    {
+      "label": "Court-tale motif of the wise exile's rise",
+      "proponents": [
+        "Scholarship summarised in Wikipedia \"Daniel 2\""
+      ],
+      "summary": "The promotion follows the pattern of the wise courtier who succeeds where native experts fail (cf. Joseph in Genesis 41).",
+      "citations": [
+        "src_01M4RTK73HEWQDGGDX0Z4SK6VF"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {}
+}

@@ -1,0 +1,122 @@
+{
+  "event_id": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RTK74WQHEWAC8B0ZE6B223",
+      "type": "prophecy_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RTK7413H4KYZP4XJ33QVHC"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4RTK7458JMN36GV9R7JAAMQ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The interpretation given in the narrative (2:36–45).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": "mixed",
+      "proposed_by": "The text itself (Daniel 2:36–45)",
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RTK74WNZBEBQD9KYQ6VE62",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RTK7413H4KYZP4XJ33QVHC"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.7.1-Dan.7.28"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "Daniel 7's four beasts parallel the four metals; most interpreters of every approach take them to denote the same four kingdoms, and the two chapters frame the Aramaic section.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+          "src_01M4RTK73J9V0R4YX9KBZ0SBXZ"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RTK74WCK6EXJGN8VQV8PGD",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RTK7413H4KYZP4XJ33QVHC"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Gen.41.1-Gen.41.36"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "A foreign king's dream that native experts cannot interpret is explained by a Hebrew exile who credits God (cf. Joseph and Pharaoh). Thematic parallel only.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RTK74WND6A6HM6Y5A0E9TE",
+      "type": "prophecy_reference",
+      "from": {
+        "kind": "passage",
+        "ref": "Luke.20.18"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4RTK7458JMN36GV9R7JAAMQ"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "Jesus' saying about the stone that crushes whoever it falls on is read by many Christian interpreters as alluding to the stone of Dan 2:34–35, 44–45.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RTK73D2VJASPVYEK3MFDFJ"
+        ]
+      },
+      "interpretive_approach": "mixed",
+      "proposed_by": "Christian interpreters, e.g. D. Guzik (stone = Messiah)",
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Arioch",
+      "resolved_to": "per_01M4RTK74163RYZPE0V2XPQTGS",
+      "basis": "Captain of the guard (Dan 2:14); distinct from Arioch of Ellasar (Gen 14:1)",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4RTK7478463KW75PRKASE8W",
+    "cst_01M4RTK747H8C6HEZVD14QBTYC",
+    "cst_01M4RTK747DNWP6P9R7KGFNJWN"
+  ]
+}

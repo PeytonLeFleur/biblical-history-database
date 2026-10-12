@@ -9,8 +9,11 @@ export type NewSource = Omit<z.input<typeof SourceFile>, 'id' | 'verification_le
   verification_method: string;
 };
 
-const keyOf = (s: { doi?: string | null | undefined; url?: string | null | undefined; title: string }) =>
-  dedupeKey({ doi: s.doi ?? undefined, url: s.url ?? undefined, title: s.title });
+/** Ancient texts are identified by their standard reference (e.g. "Josephus, Ant. 10.10.4"), since many passages share one URL. */
+const keyOf = (s: { doi?: string | null | undefined; url?: string | null | undefined; title: string; standard_reference?: string | null | undefined; source_type?: string }) =>
+  s.source_type === 'ancient_primary_text' && s.standard_reference
+    ? `ref:${s.standard_reference.trim().toLowerCase().replace(/\s+/g, ' ')}`
+    : dedupeKey({ doi: s.doi ?? undefined, url: s.url ?? undefined, title: s.title });
 
 /** Register a source, or return the existing record when it is a duplicate (SPEC 10.3 dedupe). */
 export function registerSource(store: ResearchStore, input: NewSource): { source: SourceFile; duplicate: boolean } {

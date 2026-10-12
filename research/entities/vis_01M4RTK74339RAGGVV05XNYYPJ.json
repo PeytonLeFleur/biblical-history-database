@@ -1,0 +1,52 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4RTK74339RAGGVV05XNYYPJ",
+  "slug": "nebuchadnezzars-statue-dream",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The great statue of four metals and the stone (Nebuchadnezzar's dream)",
+  "passage": "Dan.2.31-Dan.2.35",
+  "recipient_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+  "experience_event_id": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+  "symbols": [
+    {
+      "symbol": "Head of fine gold",
+      "description": "Head of the statue",
+      "passage": "Dan.2.32",
+      "in_text_interpretation": "Nebuchadnezzar: \"You are the head of gold\" (2:38)."
+    },
+    {
+      "symbol": "Chest and arms of silver",
+      "description": "Upper body",
+      "passage": "Dan.2.32",
+      "in_text_interpretation": "Another kingdom, inferior, arising after Nebuchadnezzar (2:39); not named."
+    },
+    {
+      "symbol": "Belly and thighs of bronze",
+      "description": "Middle",
+      "passage": "Dan.2.32",
+      "in_text_interpretation": "A third kingdom that will rule over all the earth (2:39); not named."
+    },
+    {
+      "symbol": "Legs of iron",
+      "description": "Legs",
+      "passage": "Dan.2.33",
+      "in_text_interpretation": "A fourth kingdom, strong as iron, that crushes all (2:40); not named."
+    },
+    {
+      "symbol": "Feet of iron and clay",
+      "description": "Feet and toes",
+      "passage": "Dan.2.33",
+      "in_text_interpretation": "A divided kingdom, partly strong and partly brittle; they will \"mingle themselves with the seed of men\" but not hold together (2:41–43)."
+    },
+    {
+      "symbol": "Stone cut out without hands",
+      "description": "Strikes the feet and becomes a great mountain",
+      "passage": "Dan.2.34-Dan.2.35",
+      "in_text_interpretation": "A kingdom set up by the God of heaven \"in the days of those kings\", never to be destroyed (2:44–45)."
+    }
+  ],
+  "description": "A dream image: a great statue with head of gold, chest and arms of silver, belly and thighs of bronze, legs of iron, feet of iron mixed with clay; a stone cut out without hands strikes the feet, the statue is shattered, and the stone becomes a mountain filling the earth."
+}

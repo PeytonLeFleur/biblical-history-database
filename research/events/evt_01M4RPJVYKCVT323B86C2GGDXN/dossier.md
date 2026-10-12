@@ -85,6 +85,126 @@ The two texts tie the earthquake to the reign of Uzziah (Azariah) of Judah, and 
 - **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
   - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
   - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **791 BC – 750 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Thiele (1983) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Thiele (1983) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
+- **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
+  - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”
 - **782 BC – 743 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
   - Earliest bound from: reign of Uzziah (Albright (1945) divided-monarchy chronology) (reign start) → “in the days of Uzziah king of Judah” → “two years before the earthquake”
   - Latest bound from: reign of Jeroboam II (Albright (1945) divided-monarchy chronology) (reign end) → “in the days of Jeroboam the son of Joash, king of Israel” → “two years before the earthquake”

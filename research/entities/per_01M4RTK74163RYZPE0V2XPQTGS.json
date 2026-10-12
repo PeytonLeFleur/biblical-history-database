@@ -1,0 +1,20 @@
+{
+  "kind": "person",
+  "id": "per_01M4RTK74163RYZPE0V2XPQTGS",
+  "slug": "arioch-captain-of-the-guard",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Arioch (captain of the guard)",
+  "aliases": [
+    {
+      "alias": "Arioch",
+      "language": "Aramaic (English form)",
+      "source_id": null,
+      "passage": "Dan.2.14"
+    }
+  ],
+  "description": "Captain of Nebuchadnezzar's guard (Dan 2:14). Distinct from Arioch king of Ellasar (Gen 14:1).",
+  "kingdom_id": null
+}
