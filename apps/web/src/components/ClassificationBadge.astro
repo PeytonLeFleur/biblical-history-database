@@ -1,0 +1,12 @@
+---
+import Badge from './Badge.astro';
+import { CLASSIFICATION_LABEL } from '../lib/data';
+interface Props { value: string }
+const { value } = Astro.props;
+const tone = ({
+  independently_corroborated: 'olive', strongly_supported: 'olive', historically_plausible: 'neutral',
+  disputed: 'brass', no_independent_corroboration_found: 'outline', contradicted_by_available_evidence: 'rust',
+  not_empirically_testable: 'outline',
+} as const)[value] ?? 'neutral';
+---
+<Badge tone={tone} title="Evidence classification (SPEC 9.1)">{CLASSIFICATION_LABEL[value] ?? value}</Badge>

@@ -35,6 +35,24 @@ const classes = [
     <dl class="mt-4 space-y-3">
       {classes.map(([t, d]) => (<div><dt class="font-semibold text-olive">{t}</dt><dd class="text-stone">{d}</dd></div>))}
     </dl>
-    <p class="mt-6 text-sm text-stone">Classifications proposed during research are labeled machine-proposed until the project owner reviews them.</p>
+    <p class="mt-6 text-sm text-stone">Classifications proposed during research are labelled machine-proposed until the project owner reviews them.</p>
+  </section>
+  <section class="mt-10 border-t border-stone-light/30 pt-8">
+    <h2 class="font-serif text-2xl">Source verification levels</h2>
+    <ol class="mt-4 list-decimal space-y-1 pl-5">
+      <li><strong>Discovered</strong>: a candidate source has been identified.</li>
+      <li><strong>Metadata verified</strong>: bibliographic details have been checked in a registry or with the publisher.</li>
+      <li><strong>Source accessed</strong>: the material itself was read (the source's notes say whether that was the full text or an abstract).</li>
+      <li><strong>Claim checked</strong>: the specific passage supporting or challenging a claim was located.</li>
+      <li><strong>Human reviewed</strong>: the project owner approved the source-to-claim relationship.</li>
+    </ol>
+  </section>
+  <section class="mt-10 border-t border-stone-light/30 pt-8">
+    <h2 class="font-serif text-2xl">Chronology</h2>
+    <p class="mt-3">Dates are computed, not typed in. Biblical statements become constraints (“in the days of Uzziah”, “two years before the earthquake”). Sourced reign reconstructions act as anchors, and a deterministic solver propagates them into uncertainty windows. Each chronology model is solved separately and never silently mixed. Every window records the chain of statements and assumptions it came from.</p>
+  </section>
+  <section class="mt-10 border-t border-stone-light/30 pt-8">
+    <h2 class="font-serif text-2xl">Human review</h2>
+    <p class="mt-3">The project owner is the human reviewer. Disputed or contradicted classifications, critical items, entity merges and proposed prophetic fulfillments are queued automatically. Reviews happen offline with local tools. This website shows review status but has no review controls.</p>
   </section>
 </Base>

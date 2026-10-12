@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import ClassificationBadge from '../components/ClassificationBadge.astro';
+import VerificationBadge from '../components/VerificationBadge.astro';
+import EmptyState from '../components/EmptyState.astro';
+import { data, sourceById, url } from '../lib/data';
+const TYPES = new Set(['excavation_report', 'artifact_record', 'museum_catalog', 'news_report']);
+const items = data().events.flatMap((b) => (b.evidence?.evidence ?? []).filter((e) => TYPES.has(sourceById(e.source_id)?.source_type ?? '')).map((e) => ({ e, b, s: sourceById(e.source_id)! })));
+---
+<Base title="Archaeological discoveries">
+  <PageHeader eyebrow="Evidence" title="Archaeological discoveries">
+    Excavation findings cited in published research, each with the claim it bears on and that claim's classification. Announcements and
+    news are listed separately from excavation reports and are traced to their originals where possible.
+  </PageHeader>
+  {items.length === 0 ? <EmptyState title="No archaeological evidence recorded yet">Findings appear as event research reaches them.</EmptyState> : (
+    <ul class="space-y-6">
+      {items.map(({ e, b, s }) => (
+        <li class="border-t border-stone-light/30 pt-4 text-sm">
+          <p class="text-base">{e.finding}</p>
+          <p class="mt-1 flex flex-wrap items-center gap-1.5 text-stone">{s.source_type === 'news_report' ? 'Announcement / news' : 'Excavation report'} · <a href={url(`sources/#${s.id}`)}>{s.title}</a> <VerificationBadge level={s.verification_level} /></p>
+          {e.limitations.length > 0 && <p class="mt-1 text-stone">Limitations: {e.limitations.join(' ')}</p>}
+          <ul class="mt-2 space-y-1">
+            {e.claim_ids.map((cid) => {
+              const c = b.evidence?.claims.find((x) => x.id === cid);
+              return c && <li>Bears on <a href={url(`events/${b.event.slug}/#${c.id}`)}>“{c.statement}”</a> <ClassificationBadge value={c.classification} /></li>;
+            })}
+          </ul>
+        </li>
+      ))}
+    </ul>
+  )}
+</Base>

@@ -1,17 +1,58 @@
 ---
 import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { PUBLICATION_LABEL, VERIFICATION_LABEL, data, url } from '../lib/data';
+const { coverage, events, sources, reviews, extraction } = data();
+const totalVerses = coverage.reduce((a, c) => a + c.verses, 0);
+const reviewed = coverage.reduce((a, c) => a + c.verses_reviewed, 0);
+const totalChapters = coverage.reduce((a, c) => a + c.chapters, 0);
+const chaptersDone = coverage.reduce((a, c) => a + c.chapters_extracted, 0);
+const candidates = extraction.reduce((a, x) => a + x.candidates.length, 0);
+const promoted = extraction.flatMap((x) => x.candidates).filter((c) => c.event_id).length;
+const stageDone = (k: string) => events.filter((b) => ['complete', 'not_applicable'].includes((b.event.stages as Record<string, { status: string }>)[k]!.status)).length;
+const dated = new Set(Object.values(data().chronology).flatMap((rs) => rs.flatMap((r) => r.intervals.filter((i) => i.years.earliest !== null).map((i) => i.subject))));
+const chronoOk = events.filter((b) => dated.has(b.event.id)).length;
+const levels = Object.keys(VERIFICATION_LABEL).map((k) => ({ k, n: sources.filter((s) => s.verification_level === k).length }));
+const humanReviewed = events.filter((b) => b.event.publication_level === 'human_reviewed').length;
+const openReviews = reviews.filter((r) => r.status === 'open');
+const pct = (a: number, b: number) => (b ? `${((a / b) * 100).toFixed(a / b < 0.01 ? 2 : 1)}%` : '—');
 const rows = [
-  'Canonical verse coverage', 'Event extraction', 'Historical research', 'External evidence research',
-  'Chronology validation', 'Cross-referencing', 'Source verification', 'Human review', 'Publication readiness',
+  ['Canonical verse coverage', `${reviewed.toLocaleString('en-US')} of ${totalVerses.toLocaleString('en-US')} verses reviewed`, pct(reviewed, totalVerses)],
+  ['Event extraction', `${chaptersDone} of ${totalChapters.toLocaleString('en-US')} chapters extracted · ${candidates} candidates · ${promoted} promoted to events`, pct(chaptersDone, totalChapters)],
+  ['Historical research (stage 2)', `${stageDone('historical_reconstruction')} of ${events.length} published events`, ''],
+  ['External evidence research (stage 3)', `${stageDone('external_evidence')} of ${events.length} published events`, ''],
+  ['Chronology validation', `${chronoOk} of ${events.length} published events placed by at least one model`, ''],
+  ['Cross-referencing (stage 4)', `${stageDone('cross_referencing')} of ${events.length} published events`, ''],
+  ['Source verification', levels.map((l) => `${l.n} ${VERIFICATION_LABEL[l.k]!.toLowerCase()}`).join(' · '), ''],
+  ['Human review', `${humanReviewed} records owner-reviewed · ${openReviews.length} review item${openReviews.length === 1 ? '' : 's'} open`, ''],
+  ['Publication readiness', Object.keys(PUBLICATION_LABEL).map((k) => `${events.filter((b) => b.event.publication_level === k).length} ${PUBLICATION_LABEL[k]!.toLowerCase()}`).join(' · '), ''],
 ];
 ---
 <Base title="Research progress">
-  <h1 class="font-serif text-4xl">Research progress</h1>
-  <p class="mt-3 max-w-2xl text-stone">Each completeness measure is tracked separately. Finishing verse extraction does not make a book historically researched.</p>
-  <table class="mt-8 w-full max-w-2xl border-collapse text-left">
-    <thead><tr class="border-b border-stone/40"><th class="py-2 font-semibold">Measure</th><th class="py-2 font-semibold">Status</th></tr></thead>
-    <tbody>
-      {rows.map((r) => (<tr class="border-b border-parchment"><td class="py-2">{r}</td><td class="py-2 text-stone">Not started</td></tr>))}
-    </tbody>
+  <PageHeader eyebrow="Status" title="Research progress">
+    Each completeness measure is tracked separately (SPEC 16.4). Reviewing verses does not make a book historically researched, and a
+    passing validator is not historical verification. These figures are generated from the published export.
+  </PageHeader>
+  <table class="data" data-testid="progress-table">
+    <thead><tr><th scope="col">Measure</th><th scope="col">Status</th><th scope="col">Share</th></tr></thead>
+    <tbody>{rows.map(([a, b, c]) => <tr><td class="font-medium">{a}</td><td>{b}</td><td class="tabular-nums">{c}</td></tr>)}</tbody>
   </table>
+  <section class="mt-10" aria-labelledby="reviews">
+    <h2 id="reviews" class="font-serif text-2xl">Owner review queue (read-only)</h2>
+    <p class="mt-1 text-sm text-stone">Reviews are performed offline by the project owner. This site has no review controls.</p>
+    {openReviews.length === 0 ? <p class="mt-3 text-sm">No open review items.</p> : (
+      <ul class="mt-3 list-disc pl-5 text-sm">
+        {openReviews.map((r) => {
+          const b = events.find((e) => e.event.id === r.record_id || e.evidence?.claims.some((c) => c.id === r.record_id));
+          return <li>{r.reason} — queued {r.created_at.slice(0, 10)}, status <strong>{r.status}</strong>{b && <> · <a href={url(`events/${b.event.slug}/#${r.record_id}`)}>{b.event.title}</a></>}</li>;
+        })}
+      </ul>
+    )}
+  </section>
+  <section class="mt-10" aria-labelledby="books">
+    <h2 id="books" class="font-serif text-2xl">Books with research activity</h2>
+    <ul class="mt-3 list-disc pl-5 text-sm">
+      {coverage.filter((c) => c.verses_reviewed > 0).map((c) => <li><a href={url(`books/${c.slug}/`)}>{c.name}</a>: {c.verses_reviewed}/{c.verses} verses reviewed · {c.chapters_extracted}/{c.chapters} chapters extracted</li>)}
+    </ul>
+  </section>
 </Base>

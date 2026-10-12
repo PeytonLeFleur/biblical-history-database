@@ -1,18 +1,13 @@
 # Next Action
 
-**Milestone 4, step 1: wire the static site to the research exports and build the event dossier page.**
+**Milestone 5, session 1: Daniel 1, Rule 01 extraction, then the Babylonian deportation and Daniel's arrival in Babylon.**
 
-Context: M3 is complete. `pnpm research:export` writes `data/exports/{events,sources,entities,coverage,chronology,manifest}.json`. It holds one genuine researched event (the Amos earthquake) and must exclude fixtures and unpublished records. The Astro shell (`apps/web`) already has the palette, fonts and base path.
+Context: M1–M4 are complete, and the site publishes whatever passes `pnpm research:export`. One owner review is still open (the disputed 750 BC single-event claim for the Amos earthquake). Leave it as it is. Do not run `review:approve` or `review:reject`.
 
-1. Make `apps/web` read `data/exports/*.json` at build time. Add a `prebuild` that runs `pnpm research:export` and fails if validation fails.
-2. Build `/events/[slug]/` dossier pages following SPEC 15.2. The order and content should follow `renderDossier` in `packages/research-engine/src/dossier.ts`:
-   - citations next to the claims they support
-   - the classification and reviewer-status labels
-   - the computed chronology per model, with its derivation
-3. Build `/books/[slug]/` and `/books/[slug]/[chapter]/` pages showing verse coverage and candidates.
-4. Next: sources directory, people/kingdom pages, MapLibre map (OpenFreeMap) using Pleiades-sourced points only, the timeline with reign bars and the model switcher, then search.
-5. Use honest empty states. Never fabricate content to fill a page.
+1. `export PATH=/opt/homebrew/opt/node@24/bin:$PATH && pnpm db:up && pnpm research:resume`
+2. `pnpm research:chapter daniel 1`. Read Daniel 1 (WEB) per `rules/01-scripture-extraction.md`. Follow SPEC 6.2: the deportation and arrival of captives are historical; the court education and the diet decision are separate narrative episodes.
+3. Create entities with entity resolution (`standards/entity-resolution.md`): Nebuchadnezzar (aliases Nebuchadrezzar, Nabû-kudurri-uṣur), Jehoiakim, Babylon, Judah (already exists: `kgd` Judah).
+4. Research the deportation event through Rules 02–05. That includes the **Dan 1:1 / Jer 25:1 regnal-reckoning hypothesis** as alternative regnal conventions (`regnal_convention.alternative_group`) and connecting it to the Babylonian Chronicle where justified. Register sources honestly.
+5. `pnpm research:validate && pnpm research:audit && pnpm research:export && pnpm build`, then the e2e tests. Open a PR and merge after CI passes.
 
-Pending owner action: `pnpm review:list`, which has one disputed claim waiting for review.
-
-Start every session with `export PATH=/opt/homebrew/opt/node@24/bin:$PATH && pnpm db:up`.
+Session boundary: one chapter or up to three substantial events. Checkpoint after each unit.

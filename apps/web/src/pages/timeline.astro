@@ -1,0 +1,72 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import Timeline, { type Lane, type TimelineItem, type TimelineModel, type Step } from '../islands/Timeline';
+import { data, entitiesOf, entityById, eventById, isDated, modelName, passageLabel, passageUrl, url } from '../lib/data';
+import type { DerivationStep } from '@atlas/research-engine';
+
+const toStep = (s: DerivationStep): Step => ({
+  label: s.label,
+  passage: s.passage,
+  passageLabel: s.passage ? passageLabel(s.passage) : null,
+  passageHref: s.passage ? passageUrl(s.passage) : null,
+  assumptions: s.assumptions,
+});
+
+const kingdoms = entitiesOf('kingdom');
+// Lanes named in SPEC 14.1 that have no researched data yet are shown, labelled as such.
+const pending = ['Egypt', 'Assyria', 'Babylon', 'Persia', 'Greece', 'Rome'];
+const lanes: Lane[] = [
+  ...kingdoms.map((k) => ({ id: k.id, label: k.name.replace('Kingdom of ', '').replace(' (Northern Kingdom)', ''), researched: true })),
+  ...pending.map((p) => ({ id: `pending-${p}`, label: p, researched: false })),
+  { id: 'events', label: 'Biblical events', researched: true },
+];
+
+const models: TimelineModel[] = Object.entries(data().chronology).map(([id, results]) => {
+  const r = results[0]!;
+  const items = r.intervals
+    .filter(isDated)
+    .flatMap((iv): TimelineItem[] => {
+      const reign = entityById(iv.subject);
+      if (reign?.kind === 'reign') {
+        const person = entityById(reign.person_id);
+        return [{
+          id: iv.subject, kind: 'reign' as const, label: person && person.kind === 'person' ? person.canonical_name : iv.subject,
+          lane: reign.kingdom_id, href: person && 'slug' in person ? url(`people/${person.slug}/`) : null,
+          start: iv.start, end: iv.end, precision: iv.precision,
+          derivation: { earliest: iv.derivation.earliest.map(toStep), latest: iv.derivation.end_latest.map(toStep) },
+        }];
+      }
+      const ev = eventById(iv.subject);
+      if (ev) {
+        return [{
+          id: iv.subject, kind: 'event' as const, label: ev.event.title, lane: 'events', href: url(`events/${ev.event.slug}/`),
+          start: iv.start, end: iv.end, precision: iv.precision,
+          derivation: { earliest: iv.derivation.earliest.map(toStep), latest: iv.derivation.latest.map(toStep) },
+        }];
+      }
+      return [];
+    });
+  const undated = data().events
+    .filter((b) => !r.intervals.some((iv) => iv.subject === b.event.id && isDated(iv)))
+    .map((b) => ({ id: b.event.id, label: b.event.title, href: url(`events/${b.event.slug}/`) }));
+  return { id, name: modelName(id), items, undated, contradictions: r.contradictions.map((c) => c.message) };
+});
+const initialModel = models.find((m) => m.items.length > 0)?.id ?? models[0]?.id ?? '';
+---
+<Base title="Historical timeline" wide>
+  <PageHeader eyebrow="Chronology" title="Historical timeline">
+    Every position on this timeline is computed by the project's chronology engine from biblical statements, sourced reign anchors and the
+    selected chronology model. Switching the model re-plots everything. Uncertainty windows are shown as ranges, never as single dates.
+  </PageHeader>
+  {models.length === 0 ? <p>No chronology data has been exported.</p> : <Timeline client:load models={models} lanes={lanes} initialModel={initialModel} />}
+  <section class="mt-12 text-sm text-stone" aria-labelledby="notes">
+    <h2 id="notes" class="font-semibold text-ink">Not yet available</h2>
+    <ul class="mt-2 list-disc space-y-1 pl-5">
+      <li>Lanes for Egypt, Assyria, Babylon, Persia, Greece and Rome are placeholders until their ruler chronologies are researched from verified sources.</li>
+      <li>The biblical-internal chronology band for Genesis 1–11 and the patriarchs (Masoretic, Septuagint and Samaritan models) has no research records yet.</li>
+      <li>External synchronism anchors, such as the 763 BC eclipse or Qarqar, are not yet researched. Current dates depend on reign reconstructions only.</li>
+      <li>Prophetic ministry bars will appear once the dated ministry records (e.g. “Amos's prophetic words”) pass publication validation.</li>
+    </ul>
+  </section>
+</Base>

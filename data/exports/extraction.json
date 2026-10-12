@@ -1,0 +1,609 @@
+[
+ {
+  "book": "Amos",
+  "chapter": 1,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Amos.1.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKWRG469QMP2597FXB",
+     "cnd_01M4RPJVYKZZY0AR3YQQF1DE13"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYK799HS1DYEHSJ4P32"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKHTX4T2NC9NH1SHBB",
+     "cnd_01M4RPJVYK5T278EA5Q9CFVHXC"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKHTX4T2NC9NH1SHBB"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKHTX4T2NC9NH1SHBB"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKKJBNJHEDRNF5GJWJ",
+     "cnd_01M4RPJVYK15RKNTJGWA63K52W"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKKJBNJHEDRNF5GJWJ"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKKJBNJHEDRNF5GJWJ"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKC4H7HX1N1QKWQZV8",
+     "cnd_01M4RPJVYKVPGQGSKCPR287QQQ"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKC4H7HX1N1QKWQZV8"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKZC4E87V3XPXQM37A",
+     "cnd_01M4RPJVYKHHMSCHSSE24WE0V3"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKZC4E87V3XPXQM37A"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKFEZF7TWSN68A0R6X",
+     "cnd_01M4RPJVYK713CQBWZBM6ZNJJT"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKFEZF7TWSN68A0R6X"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Amos.1.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RPJVYKFEZF7TWSN68A0R6X"
+    ],
+    "notes": null
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4RPJVYKWRG469QMP2597FXB",
+    "title": "Amos's prophetic words dated by the superscription",
+    "passage": "Amos.1.1",
+    "description": "The superscription attributes the book to Amos, one of the herdsmen of Tekoa, and dates what he \"saw\" concerning Israel to the days of Uzziah of Judah and Jeroboam son of Joash of Israel.",
+    "record_type": "historical_reference",
+    "literary_classification": "historical_reference",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Amos",
+      "matched_entity_id": "per_01M4RPJVYG82Y6S92J1Y4G5JTH",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Uzziah",
+      "matched_entity_id": "per_01M4RPJVYGZDME5BAKA4NAAX2Z",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Jeroboam the son of Joash",
+      "matched_entity_id": "per_01M4RPJVYG92VY55FC1BYZ3PE9",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "Tekoa",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [
+     {
+      "ref": "Amos.1.1",
+      "phrase": "in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "Hos.1.1",
+     "2Kgs.14.23-2Kgs.14.29",
+     "2Kgs.15.1-2Kgs.15.7"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Whether the dating refers to a single vision occasion or a longer ministry.",
+     "Whether Uzziah's 'days' include his coregency years (model-dependent)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4RPJVYK5YYYDGB0PCADNYGV"
+   },
+   {
+    "id": "cnd_01M4RPJVYKZZY0AR3YQQF1DE13",
+    "title": "The earthquake in the days of Uzziah",
+    "passage": "Amos.1.1",
+    "description": "The superscription places Amos's words \"two years before the earthquake\", referring to a known earthquake without further description.",
+    "record_type": "event",
+    "literary_classification": "historical_reference",
+    "narrative_mode": "reference_to_other_event",
+    "event_categories": [
+     "natural_disaster"
+    ],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Amos.1.1",
+      "phrase": "two years before the earthquake",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [
+     "Zech.14.5"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Whether Zechariah 14:5 refers to the same earthquake (likely by wording; tested in Rule 04).",
+     "Whether \"two years\" is exact or counted inclusively."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4RPJVYKCVT323B86C2GGDXN"
+   },
+   {
+    "id": "cnd_01M4RPJVYK799HS1DYEHSJ4P32",
+    "title": "The LORD roars from Zion",
+    "passage": "Amos.1.2",
+    "description": "Poetic announcement that the LORD will roar from Zion, with pastures mourning and the top of Carmel withering.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "poetic",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Zion",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Jerusalem",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Carmel",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [
+     "Joel.3.16"
+    ],
+    "research_priority": "background",
+    "ambiguities": [
+     "Some interpreters connect the imagery to drought or to the earthquake; no such link is stated in the text."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYKHTX4T2NC9NH1SHBB",
+    "title": "Oracle against Damascus",
+    "passage": "Amos.1.3-Amos.1.5",
+    "description": "Judgment oracle against Damascus: fire on the house of Hazael and the palaces of Ben Hadad; the people of Aram to go into captivity to Kir.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Hazael",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Ben Hadad",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "Damascus",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "valley of Aven",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Beth Eden",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Kir",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [
+     "2Kgs.16.9"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [
+     "2 Kings 16:9 records Tiglath-pileser deporting Damascus to Kir — a proposed fulfillment to evaluate in Rule 04."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYK5T278EA5Q9CFVHXC",
+    "title": "Damascus \"threshed Gilead\"",
+    "passage": "Amos.1.3",
+    "description": "The oracle cites Aramean (Damascus) aggression against Gilead as the grounds for judgment.",
+    "record_type": "historical_reference",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "reference_to_other_event",
+    "event_categories": [
+     "military"
+    ],
+    "parent_candidate_id": "cnd_01M4RPJVYKHTX4T2NC9NH1SHBB",
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Gilead",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [
+     "Likely refers to Aramean campaigns of Hazael's era (cf. 2 Kgs 10:32–33); identification to be researched."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYKKJBNJHEDRNF5GJWJ",
+    "title": "Oracle against Gaza and the Philistines",
+    "passage": "Amos.1.6-Amos.1.8",
+    "description": "Judgment oracle against Gaza, Ashdod, Ashkelon and Ekron.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Gaza",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Ashdod",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Ashkelon",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Ekron",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYK15RKNTJGWA63K52W",
+    "title": "Gaza deported whole communities to Edom",
+    "passage": "Amos.1.6",
+    "description": "The oracle cites Gaza carrying away whole communities to hand them over to Edom.",
+    "record_type": "historical_reference",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "reference_to_other_event",
+    "event_categories": [
+     "migration"
+    ],
+    "parent_candidate_id": "cnd_01M4RPJVYKKJBNJHEDRNF5GJWJ",
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Gaza",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Edom",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [
+     "Specific occasion unidentified."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYKC4H7HX1N1QKWQZV8",
+    "title": "Oracle against Tyre",
+    "passage": "Amos.1.9-Amos.1.10",
+    "description": "Judgment oracle against Tyre.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Tyre",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYKVPGQGSKCPR287QQQ",
+    "title": "Tyre delivered communities to Edom, breaking a \"brotherly covenant\"",
+    "passage": "Amos.1.9",
+    "description": "The oracle cites Tyre delivering whole communities to Edom and not remembering a brotherly covenant.",
+    "record_type": "historical_reference",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "reference_to_other_event",
+    "event_categories": [
+     "migration",
+     "political"
+    ],
+    "parent_candidate_id": "cnd_01M4RPJVYKC4H7HX1N1QKWQZV8",
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Tyre",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Edom",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [
+     "The covenant referred to is not identified in the text."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYKZC4E87V3XPXQM37A",
+    "title": "Oracle against Edom",
+    "passage": "Amos.1.11-Amos.1.12",
+    "description": "Judgment oracle against Edom: fire on Teman and the palaces of Bozrah.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Edom",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Teman",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Bozrah",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYKHHMSCHSSE24WE0V3",
+    "title": "Edom pursued \"his brother\" with the sword",
+    "passage": "Amos.1.11",
+    "description": "The oracle cites Edom pursuing his brother with the sword and unending anger.",
+    "record_type": "historical_reference",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "reference_to_other_event",
+    "event_categories": [
+     "military"
+    ],
+    "parent_candidate_id": "cnd_01M4RPJVYKZC4E87V3XPXQM37A",
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Edom",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [
+     "\"His brother\" is commonly read as Israel/Judah; the specific conflict is unidentified."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYKFEZF7TWSN68A0R6X",
+    "title": "Oracle against Ammon",
+    "passage": "Amos.1.13-Amos.1.15",
+    "description": "Judgment oracle against Ammon: fire on the wall of Rabbah; its king and princes to go into captivity.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Ammon",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     },
+     {
+      "name_as_written": "Rabbah",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RPJVYK713CQBWZBM6ZNJJT",
+    "title": "Ammon's atrocities in Gilead to enlarge its border",
+    "passage": "Amos.1.13",
+    "description": "The oracle cites Ammonite atrocities against pregnant women of Gilead in order to enlarge their border.",
+    "record_type": "historical_reference",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "reference_to_other_event",
+    "event_categories": [
+     "military"
+    ],
+    "parent_candidate_id": "cnd_01M4RPJVYKFEZF7TWSN68A0R6X",
+    "participants": [],
+    "locations": [
+     {
+      "name_as_written": "Gilead",
+      "matched_entity_id": null,
+      "proposed_new_entity": true
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [
+     "Specific campaign unidentified."
+    ],
+    "job_id": null,
+    "event_id": null
+   }
+  ],
+  "session_log": "research/logs/2026-10-12-amos-earthquake.md",
+  "slug": "amos"
+ }
+]

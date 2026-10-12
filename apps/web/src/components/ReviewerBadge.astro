@@ -1,0 +1,8 @@
+---
+import Badge from './Badge.astro';
+import { REVIEWER_LABEL } from '../lib/data';
+interface Props { status: string }
+const { status } = Astro.props;
+const tone = status === 'requires_review' ? 'brass' : status === 'human_approved' ? 'olive' : status === 'human_rejected' ? 'rust' : 'outline';
+---
+<Badge tone={tone} title="Reviewer status (SPEC 9.2)">{REVIEWER_LABEL[status] ?? status}</Badge>

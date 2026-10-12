@@ -109,6 +109,9 @@ interface Edge {
   id: string;
 }
 
+/** Internal bookkeeping edges (not evidence) are excluded from derivations and diagnostics. */
+const isInternal = (id: string) => /#(duration|instant|super)$/.test(id);
+
 const S = (id: string) => `${id}:start`;
 const E = (id: string) => `${id}:end`;
 
@@ -297,8 +300,8 @@ function solveOnce(
   const cycle = globalCheck.negativeCycle ?? fwd.negativeCycle ?? bwd?.negativeCycle ?? null;
   if (cycle) {
     contradictions.push({
-      cycle: cycle.filter((id) => !id.includes('#')),
-      message: `Infeasible constraint set: ${cycle.filter((id) => !id.includes('#')).join(' → ')}`,
+      cycle: cycle.filter((id) => !isInternal(id)),
+      message: `Infeasible constraint set: ${cycle.filter((id) => !isInternal(id)).join(' → ')}`,
     });
   }
 
@@ -311,7 +314,7 @@ function solveOnce(
       const paths = upper ? fwd : bwd;
       const d = paths.dist.get(p) ?? INF;
       if (d === INF) return { value: null, derivation: [] };
-      return { value: upper ? d : -d, derivation: chain(paths.pred, p, ORIGIN).filter((id) => !id.includes('#')) };
+      return { value: upper ? d : -d, derivation: chain(paths.pred, p, ORIGIN).filter((id) => !isInternal(id)) };
     };
     for (const s of subjects) {
       const start = { earliest: bound(S(s), false), latest: bound(S(s), true) };

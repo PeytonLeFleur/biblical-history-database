@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import Badge from '../components/Badge.astro';
+import EmptyState from '../components/EmptyState.astro';
+import { data, passageLabel, passageUrl, titleCase } from '../lib/data';
+const records = data().extraction.flatMap((x) => x.candidates.filter((c) => c.record_type === 'prophecy' || c.record_type === 'vision'));
+const fulfillments = data().events.flatMap((b) => (b.crossrefs?.relationships ?? []).filter((r) => r.type === 'proposed_fulfillment' || r.type === 'prophecy_reference'));
+---
+<Base title="Prophecy explorer">
+  <PageHeader eyebrow="Prophecy" title="Prophecy explorer">
+    Prophetic oracles and visions identified during Scripture extraction. Proposed fulfillments will always name their interpretive approach
+    (preterist, futurist, historicist, idealist or mixed) and their proponents. Disputed interpretation is never presented as established history.
+  </PageHeader>
+  <section aria-labelledby="extracted">
+    <h2 id="extracted" class="font-serif text-2xl">Extracted prophetic records</h2>
+    <p class="mt-1 text-sm text-stone">These are extraction records only (Rule 01). They have not been researched.</p>
+    {records.length === 0 ? <div class="mt-4"><EmptyState title="None yet">No prophetic passages have been extracted.</EmptyState></div> : (
+      <ul class="mt-4 space-y-4">
+        {records.map((c) => (
+          <li class="border-t border-stone-light/30 pt-3">
+            <a href={passageUrl(c.passage)}>{passageLabel(c.passage)}</a> — <strong>{c.title}</strong>
+            <span class="ml-2"><Badge tone="outline">{titleCase(c.literary_classification)}</Badge></span>
+            <p class="mt-1 text-sm">{c.description}</p>
+            {c.ambiguities.length > 0 && <p class="mt-1 text-sm text-stone">Open questions: {c.ambiguities.join(' ')}</p>}
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+  <section class="mt-12" aria-labelledby="fulfil">
+    <h2 id="fulfil" class="font-serif text-2xl">Proposed fulfillments</h2>
+    {fulfillments.length === 0 ? <div class="mt-4"><EmptyState title="No proposed fulfillments recorded">None has been researched yet. Each will carry its interpretive approach, proponents and owner review status.</EmptyState></div> : null}
+  </section>
+</Base>

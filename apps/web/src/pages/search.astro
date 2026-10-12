@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+---
+<Base title="Search">
+  <PageHeader eyebrow="Search" title="Search the atlas">
+    Search Bible references (<em>Daniel 5</em>, <em>Amos 1:1</em>), people and aliases, places, kingdoms, events and sources. Only
+    published research is searchable. A name with no results may simply not be researched yet.
+  </PageHeader>
+  <form id="search-form" role="search" class="flex max-w-2xl gap-2">
+    <label for="q" class="sr-only">Search</label>
+    <input id="q" name="q" type="search" class="min-w-0 flex-1 border border-stone-light bg-ivory px-3 py-2" placeholder="e.g. Earthquake during Uzziah" autocomplete="off" />
+    <button class="bg-olive px-4 py-2 text-ivory" type="submit">Search</button>
+  </form>
+  <div id="results" class="mt-8" aria-live="polite" data-testid="search-results"></div>
+  <script>
+    import { resolveReference } from '../lib/refs';
+    import { search } from '../lib/search';
+    const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+    const out = document.getElementById('results')!;
+    const input = document.getElementById('q') as HTMLInputElement;
+    const indexP = fetch(`${base}/search-index.json`).then((r) => r.json());
+    const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+    async function run(q: string) {
+      const { items, books } = await indexP;
+      const ref = resolveReference(q, books);
+      const hits = search(items, q);
+      let html = '';
+      if (ref) {
+        html += `<p class="mb-6 border-l-4 border-olive pl-3">Bible reference: <a href="${base}/books/${ref.slug}/${ref.chapter}/${ref.verse ? `#v${ref.verse}` : ''}"><strong>${esc(ref.name)} ${ref.chapter}${ref.verse ? `:${ref.verse}` : ''}</strong></a> — open the text and any research records.</p>`;
+      }
+      if (hits.length) {
+        html += `<p class="text-sm text-stone">${hits.length} result${hits.length > 1 ? 's' : ''}</p><ul class="mt-3 space-y-4">` + hits.map((h) =>
+          `<li><span class="text-xs uppercase tracking-wide text-stone">${esc(h.type)}</span><br><a class="font-serif text-lg" href="${h.url}">${esc(h.title)}</a><br><span class="text-sm text-stone">${esc(h.subtitle)}</span></li>`).join('') + '</ul>';
+      } else if (q.trim()) {
+        html += `<div class="border border-dashed border-stone-light/60 bg-parchment/40 px-5 py-6" role="status"><p class="font-semibold">No published research matches “${esc(q)}”.</p><p class="mt-1 text-sm text-stone">This does not mean the subject is absent from Scripture or history. Research is published book by book.${ref ? ' The Bible reference above is still browsable.' : ''}</p></div>`;
+      }
+      out.innerHTML = html;
+    }
+    document.getElementById('search-form')!.addEventListener('submit', (e) => {
+      e.preventDefault();
+      history.replaceState(null, '', `?q=${encodeURIComponent(input.value)}`);
+      run(input.value);
+    });
+    const q = new URLSearchParams(location.search).get('q');
+    if (q) { input.value = q; run(q); }
+  </script>
+</Base>

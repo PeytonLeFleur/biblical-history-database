@@ -133,6 +133,8 @@ export const EventRecord = z.object({
   is_fixture: z.boolean().default(false),
   candidate_ids: z.array(Ids.candidate).default([]),
   external_reason: z.string().nullable().default(null),
+  /** Events are instantaneous for chronology unless they span a period (e.g. a reign, a siege, a ministry). */
+  is_period: z.boolean().default(false),
   literary_classification: LiteraryClassification,
   narrative_mode: NarrativeMode,
   categories: z.array(EventCategory).min(1),

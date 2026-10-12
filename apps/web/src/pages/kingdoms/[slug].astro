@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import EmptyState from '../../components/EmptyState.astro';
+import { data, entitiesOf, entityById, intervalsFor, isDated, modelName, nameOf, url } from '../../lib/data';
+import { formatInterval } from '@atlas/shared';
+export function getStaticPaths() {
+  return entitiesOf('kingdom').map((k) => ({ params: { slug: k.slug }, props: { id: k.id } }));
+}
+const k = entityById(Astro.props.id as string)!;
+if (k.kind !== 'kingdom') throw new Error('not a kingdom');
+const reigns = entitiesOf('reign').filter((r) => r.kingdom_id === k.id);
+const byModel = new Map<string, typeof reigns>();
+for (const r of reigns) byModel.set(r.model_id ?? 'none', [...(byModel.get(r.model_id ?? 'none') ?? []), r]);
+const events = data().events.filter((b) => b.context?.kingdoms.includes(k.id));
+---
+<Base title={k.name}>
+  <nav aria-label="Breadcrumb" class="text-sm text-stone"><a href={url('kingdoms/')}>Kingdoms</a> / {k.name}</nav>
+  <h1 class="mt-4 font-serif text-3xl sm:text-4xl">{k.name}</h1>
+  <p class="mt-2 text-stone">{k.description}</p>
+  <section class="mt-8" aria-labelledby="rulers">
+    <h2 id="rulers" class="font-serif text-2xl">Rulers recorded so far</h2>
+    {reigns.length === 0 && <div class="mt-3"><EmptyState title="No rulers recorded yet">Ruler lists are added from verified sources during research.</EmptyState></div>}
+    {[...byModel.entries()].map(([m, rs]) => (
+      <div class="mt-4">
+        <h3 class="font-semibold">{modelName(m === 'none' ? null : m)}</h3>
+        <ul class="mt-1 list-disc pl-5 text-sm">
+          {rs.map((r) => {
+            const iv = intervalsFor(r.id).find((x) => isDated(x.interval));
+            const p = entityById(r.person_id);
+            return <li><a href={url(`people/${p && 'slug' in p ? p.slug : ''}/`)}>{nameOf(r.person_id)}</a>: {formatInterval(iv?.interval.start ?? r.start)} → {formatInterval(iv?.interval.end ?? r.end)}</li>;
+          })}
+        </ul>
+      </div>
+    ))}
+    <p class="mt-3 text-xs text-stone">This is not a complete king list. Only rulers reached by research so far are shown.</p>
+  </section>
+  <section class="mt-8" aria-labelledby="ev">
+    <h2 id="ev" class="font-serif text-2xl">Researched events</h2>
+    {events.length === 0 ? <p class="mt-2 text-sm text-stone">None yet.</p> : <ul class="mt-2 list-disc pl-5">{events.map((b) => <li><a href={url(`events/${b.event.slug}/`)}>{b.event.title}</a></li>)}</ul>}
+  </section>
+</Base>

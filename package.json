@@ -9,7 +9,7 @@
     "node": ">=24"
   },
   "scripts": {
-    "build": "pnpm --filter @atlas/web build",
+    "build": "pnpm research:export && pnpm --filter @atlas/web build",
     "dev:web": "pnpm --filter @atlas/web dev",
     "dev:api": "pnpm --filter @atlas/api dev",
     "lint": "eslint .",
@@ -42,7 +42,8 @@
     "review:show": "tsx scripts/cli.ts review show",
     "review:approve": "tsx scripts/cli.ts review approve",
     "review:reject": "tsx scripts/cli.ts review reject",
-    "review:return": "tsx scripts/cli.ts review return"
+    "review:return": "tsx scripts/cli.ts review return",
+    "test:e2e": "pnpm --filter @atlas/web test:e2e"
   },
   "devDependencies": {
     "@atlas/database": "workspace:*",

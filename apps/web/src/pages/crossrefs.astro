@@ -1,0 +1,49 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import EmptyState from '../components/EmptyState.astro';
+import { LAYER_LABEL, data, nameOf, passageLabel, passageUrl, titleCase, url } from '../lib/data';
+const rows = data().events.flatMap((b) => (b.crossrefs?.relationships ?? []).map((r) => ({ r, b })));
+// Static radial layout per event: the event at the centre, related records around it.
+const graphs = data().events.filter((b) => b.crossrefs?.relationships.length).map((b) => {
+  const others = b.crossrefs!.relationships.map((r) => {
+    const other = r.from.kind === 'event' && r.from.id === b.event.id ? r.to : r.from;
+    return { r, label: other.kind === 'passage' ? passageLabel(other.ref) : nameOf(other.id), href: other.kind === 'passage' ? passageUrl(other.ref) : null };
+  });
+  const n = others.length;
+  return { b, nodes: others.map((o, i) => ({ ...o, x: 300 + 210 * Math.cos((2 * Math.PI * i) / n - Math.PI / 2), y: 230 + 170 * Math.sin((2 * Math.PI * i) / n - Math.PI / 2) })) };
+});
+const color: Record<string, string> = { direct_reference: '#495543', same_period: '#77766e', thematic_parallel: '#a27b45', preceded_by: '#252923' };
+---
+<Base title="Cross-reference network" wide>
+  <PageHeader eyebrow="Connections" title="Cross-reference network">
+    Typed relationships between events and passages, each with its provenance and confidence. A thematic parallel never implies historical identity.
+  </PageHeader>
+  {rows.length === 0 && <EmptyState title="No relationships recorded yet">They are added in research stage 4.</EmptyState>}
+  {graphs.map(({ b, nodes }) => (
+    <figure class="mt-6">
+      <svg viewBox="0 0 600 460" class="w-full max-w-3xl" role="img" aria-label={`Relationship network for ${b.event.title}; the same data is in the table below`}>
+        {nodes.map((n) => <line x1="300" y1="230" x2={n.x} y2={n.y} stroke={color[n.r.type] ?? '#77766e'} stroke-width={n.r.confidence === 'high' ? 2 : 1} stroke-dasharray={n.r.confidence === 'high' ? '' : '4 3'} />)}
+        <circle cx="300" cy="230" r="9" fill="#a27b45" />
+        <text x="300" y="256" text-anchor="middle" font-size="12" font-weight="600" fill="#252923">{b.event.title}</text>
+        {nodes.map((n) => (
+          <g>
+            <circle cx={n.x} cy={n.y} r="5" fill="#495543" />
+            <text x={n.x} y={n.y - 9} text-anchor="middle" font-size="11" fill="#252923">{n.label}</text>
+            <text x={n.x} y={n.y + 16} text-anchor="middle" font-size="9" fill="#5f5e57">{titleCase(n.r.type)}</text>
+          </g>
+        ))}
+      </svg>
+      <figcaption class="text-xs text-stone">Solid lines: high confidence. Dashed: lower confidence or speculative.</figcaption>
+    </figure>
+  ))}
+  {rows.length > 0 && (
+    <table class="data mt-8">
+      <thead><tr><th scope="col">Event</th><th scope="col">Relationship</th><th scope="col">Confidence / layer</th><th scope="col">Rationale</th></tr></thead>
+      <tbody>{rows.map(({ r, b }) => {
+        const other = r.from.kind === 'event' && r.from.id === b.event.id ? r.to : r.from;
+        return <tr><td><a href={url(`events/${b.event.slug}/`)}>{b.event.title}</a></td><td>{titleCase(r.type)} — {other.kind === 'passage' ? <a href={passageUrl(other.ref)}>{passageLabel(other.ref)}</a> : nameOf(other.id)}</td><td>{r.confidence} · {LAYER_LABEL[r.layer]}</td><td>{r.rationale}</td></tr>;
+      })}</tbody>
+    </table>
+  )}
+</Base>

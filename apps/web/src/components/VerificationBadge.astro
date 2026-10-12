@@ -1,0 +1,8 @@
+---
+import Badge from './Badge.astro';
+import { VERIFICATION_LABEL } from '../lib/data';
+interface Props { level: string }
+const { level } = Astro.props;
+const tone = level === 'claim_checked' || level === 'human_reviewed' ? 'olive' : level === 'source_accessed' ? 'neutral' : 'outline';
+---
+<Badge tone={tone} title="How far this source was actually examined (SPEC 10.2)">{VERIFICATION_LABEL[level] ?? level}</Badge>

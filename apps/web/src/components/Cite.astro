@@ -1,0 +1,11 @@
+---
+import { sourceById } from '../lib/data';
+interface Props { ids: string[]; order: string[] }
+const { ids, order } = Astro.props;
+const nums = [...new Set(ids.map((id) => order.indexOf(id) + 1).filter((n) => n > 0))].sort((a, b) => a - b);
+---
+{nums.length > 0 && (
+  <span class="cite">[{nums.map((n, i) => (
+    <>{i > 0 && ', '}<a href={`#ref-${n}`} title={sourceById(order[n - 1]!)?.title} aria-label={`Source ${n}`}>{n}</a></>
+  ))}]</span>
+)}

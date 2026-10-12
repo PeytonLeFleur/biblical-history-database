@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import EmptyState from '../../components/EmptyState.astro';
+import { entitiesOf, nameOf, url } from '../../lib/data';
+const people = entitiesOf('person').sort((a, b) => a.canonical_name.localeCompare(b.canonical_name));
+---
+<Base title="People">
+  <PageHeader eyebrow="Directory" title="Historical people">
+    People recorded as shared entities in published research. Many more names appear in Scripture; they are added as research reaches them.
+  </PageHeader>
+  {people.length === 0 ? <EmptyState title="No people recorded yet">People are added during research.</EmptyState> : (
+    <ul class="divide-y divide-parchment">
+      {people.map((p) => (
+        <li class="py-3">
+          <a class="font-serif text-lg" href={url(`people/${p.slug}/`)}>{p.canonical_name}</a>
+          {p.aliases.length > 0 && <span class="text-sm text-stone"> — also {p.aliases.filter((a) => a.alias !== p.canonical_name).map((a) => a.alias).join(', ')}</span>}
+          <p class="text-sm text-stone">{p.description}{p.kingdom_id ? ` · ${nameOf(p.kingdom_id)}` : ''}</p>
+        </li>
+      ))}
+    </ul>
+  )}
+</Base>
