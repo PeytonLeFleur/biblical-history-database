@@ -1,0 +1,67 @@
+{
+  "id": "evt_01M4RV9NRDQ41HV8TDH3ZYX1PS",
+  "slug": "nebuchadnezzar-madness-dan-4",
+  "title": "Nebuchadnezzar's boast, madness and restoration (Dan 4:28–37)",
+  "summary": "Twelve months after the dream, the king boasted over the Babylon he had built; he was driven from human society to live like an animal for \"seven times\", then his reason returned and he praised the Most High and was restored.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4RV9NRGG8D993C45X3XSMWJ",
+    "cnd_01M4RV9NRGDYEYR413J7HMPH2D",
+    "cnd_01M4RV9NRGT45GPENYDM62F4VA"
+  ],
+  "external_reason": null,
+  "is_period": true,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "royal",
+    "miracle_claim"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.4.28-Dan.4.37",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "Dan.4.1-Dan.4.3",
+      "mention_type": "reference",
+      "notes": "Royal letter frame."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "last_reviewed_at": null
+}

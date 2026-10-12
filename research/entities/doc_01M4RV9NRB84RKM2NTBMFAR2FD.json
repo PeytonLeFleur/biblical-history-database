@@ -1,0 +1,22 @@
+{
+  "kind": "document",
+  "id": "doc_01M4RV9NRB84RKM2NTBMFAR2FD",
+  "slug": "prayer-of-nabonidus-4q242",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Prayer of Nabonidus (4Q242)",
+  "document_type": "Dead Sea Scroll (Aramaic narrative/prayer)",
+  "language": "Aramaic",
+  "standard_reference": "4Q242 (4QPrNab)",
+  "artifact_id": null,
+  "date": {
+    "earliest": -74,
+    "latest": -24
+  },
+  "description": "Fragmentary first-person account of Nabonidus afflicted for seven years at Tayma and healed by God, with a Judean urging public acknowledgement. Manuscript dated c. 75–25 BC; composition date disputed.",
+  "editions": [
+    "src_01M4RV9NQEX541YPGG8RK52KR0"
+  ]
+}

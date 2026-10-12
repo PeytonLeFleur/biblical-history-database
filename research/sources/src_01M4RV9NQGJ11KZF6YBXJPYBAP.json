@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+  "title": "ABC 7 (Nabonidus Chronicle) — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "ABC 7 (Nabonidus Chronicle)",
+  "license": "Translation after Grayson 1975 with revisions; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Years 7, 9, 10, 11: \"the king was in Tayma\" while \"the prince, his officers and army\" were in Akkad and the Akitu festival was not held; year 17: Opis, Sippar taken on day 14, Ugbaru and Cyrus's army entered Babylon on day 16 without battle, Cyrus entered on 3 Arahsamna, Ugbaru died 11 Arahsamna",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full translation page read. The page gives no museum number and no Julian dates.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

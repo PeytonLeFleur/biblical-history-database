@@ -48,6 +48,30 @@
   "institution_url": null
  },
  {
+  "kind": "artifact",
+  "id": "art_01M4RV9NR98ZCQ5DAG7ZQGMW6W",
+  "slug": "east-india-house-inscription",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RV9NQJFHHHV4S9K9WRY17E"
+  ],
+  "notes": null,
+  "name": "East India House Inscription",
+  "artifact_type": "Limestone foundation tablet",
+  "findspot_site_id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
+  "findspot_description": "Ruins of Babylon; unearthed before 1803 by Sir Harford Jones Brydges.",
+  "current_institution": "British Museum, London",
+  "accession_number": "1938,0520.1",
+  "date": {
+   "earliest": -603,
+   "latest": -561
+  },
+  "description": "Foundation inscription of Nebuchadnezzar II describing his temple building and devotion to the shrines of Babylon and Borsippa.",
+  "image": null,
+  "institution_url": null
+ },
+ {
   "kind": "chronology_model",
   "id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
   "slug": "thiele-1983",
@@ -184,6 +208,50 @@
   "description": "Prayer and hymn inserted after Dan 3:23 in Greek Daniel. Indexed as a textual source only (SPEC 5.6), not as Scripture of the 66-book canon.",
   "editions": [
    "src_01M4RV0PCCQV0F75BG0BYTEFYJ"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4RV9NRB84RKM2NTBMFAR2FD",
+  "slug": "prayer-of-nabonidus-4q242",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Prayer of Nabonidus (4Q242)",
+  "document_type": "Dead Sea Scroll (Aramaic narrative/prayer)",
+  "language": "Aramaic",
+  "standard_reference": "4Q242 (4QPrNab)",
+  "artifact_id": null,
+  "date": {
+   "earliest": -74,
+   "latest": -24
+  },
+  "description": "Fragmentary first-person account of Nabonidus afflicted for seven years at Tayma and healed by God, with a Judean urging public acknowledgement. Manuscript dated c. 75–25 BC; composition date disputed.",
+  "editions": [
+   "src_01M4RV9NQEX541YPGG8RK52KR0"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4RV9NRCTVGH19J236HH7GX8",
+  "slug": "abc-7-nabonidus-chronicle",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Babylonian Chronicle ABC 7 (Nabonidus Chronicle)",
+  "document_type": "Chronicle",
+  "language": "Akkadian",
+  "standard_reference": "ABC 7 (Grayson 1975)",
+  "artifact_id": null,
+  "date": {
+   "earliest": -555,
+   "latest": -538
+  },
+  "description": null,
+  "editions": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
   ]
  },
  {
@@ -495,6 +563,42 @@
   "description": "Plain in the province of Babylon where the image was set up (Dan 3:1). \"Dura\" may be a common noun (\"walled place\"). Location unknown; no coordinates are recorded."
  },
  {
+  "kind": "place",
+  "id": "loc_01M4RV9NR68VNJT9QQBNY0YYZV",
+  "slug": "tayma",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Tayma",
+  "place_type": "oasis",
+  "modern_name": "Tayma",
+  "modern_country": "Saudi Arabia",
+  "kingdom_id": null,
+  "ancient_names": [
+   {
+    "name": "Tēma",
+    "language": "Hebrew/Akkadian",
+    "period": null,
+    "source_id": "src_01M4RV9NQP9N299ANT0FNV18MD"
+   }
+  ],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4RV9NR4ZZZFPWND8B0MD2RF",
+    "label": "Tayma oasis (Pleiades 814739)",
+    "lat": 27.6219,
+    "lon": 38.55,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4RV9NQP9N299ANT0FNV18MD",
+    "proponents": [],
+    "reasoning": "Pleiades representative point."
+   }
+  ],
+  "description": null
+ },
+ {
   "kind": "person",
   "id": "per_01M4RPJVYG82Y6S92J1Y4G5JTH",
   "slug": "amos-prophet",
@@ -797,6 +901,34 @@
   "kingdom_id": null
  },
  {
+  "kind": "person",
+  "id": "per_01M4RV9NR4E3F6M8CK96RBYNYK",
+  "slug": "nabonidus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ],
+  "notes": null,
+  "canonical_name": "Nabonidus",
+  "aliases": [
+   {
+    "alias": "Nabû-naʾid",
+    "language": "Akkadian",
+    "source_id": null,
+    "passage": null
+   },
+   {
+    "alias": "Nabunai",
+    "language": "Aramaic (4Q242)",
+    "source_id": "src_01M4RV9NQEX541YPGG8RK52KR0",
+    "passage": null
+   }
+  ],
+  "description": "Last king of the Neo-Babylonian Empire (556–539 BC); spent about ten years at Tayma in Arabia.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+ },
+ {
   "kind": "prophecy",
   "id": "pro_01M4RTK7458JMN36GV9R7JAAMQ",
   "slug": "four-kingdoms-and-the-stone-dan-2",
@@ -950,6 +1082,67 @@
      "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
      "src_01M4RTK73J9V0R4YX9KBZ0SBXZ",
      "src_01M4RSRHKJWXG4RS4SNQ7KSSCB"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4RV9NRGW4FS0325T8MVSH1H",
+  "slug": "watchers-decree-dan-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The decree of the watchers against the king (Dan 4:19–27)",
+  "passage": "Dan.4.19-Dan.4.27",
+  "speaker": "Daniel",
+  "vision_id": "vis_01M4RV9NREKZYKAJQZTJ0G4GMJ",
+  "description": "Daniel interprets the tree as the king, who will be driven from human society to live like an animal for seven times until he acknowledges the Most High, after which his kingdom is restored; he urges repentance.",
+  "in_text_interpretation": "The text identifies the tree as Nebuchadnezzar and narrates its fulfilment within the chapter (4:28–33).",
+  "interpretations": [
+   {
+    "id": "ful_01M4RV9NRE8J2MVP00VF6PNXF0",
+    "label": "Fulfilled in Nebuchadnezzar's seven-year madness",
+    "approach": "preterist",
+    "framework": "Traditional Jewish and Christian",
+    "proponents": [
+     "The narrative itself (4:28–33)",
+     "D. Guzik (seven times = seven years)"
+    ],
+    "summary": "The decree was fulfilled in the king's own humbling for seven years (as the Old Greek renders it) and his restoration.",
+    "referents": [
+     {
+      "symbol": "Seven times",
+      "referent": "Seven years"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4RV9NQA7FREZ7NZHBK6GKCJ"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4RV9NREZWJT5VYD4J7D01ZQ",
+    "label": "Originally about Nabonidus",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "J. J. Collins (1984), via Wikipedia",
+     "W. von Soden",
+     "Livius.org"
+    ],
+    "summary": "The tale is a variant of a tradition about Nabonidus's affliction and his long stay at Tayma (cf. 4Q242), transferred to the better-known Nebuchadnezzar. This is a source-critical view, not a fulfillment claim.",
+    "referents": [],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4RV9NQDGZSWZ65QX9YDV0T5",
+     "src_01M4RV9NQEX541YPGG8RK52KR0",
+     "src_01M4RV9NQHMK8RS0CXEFG1ZWH7"
     ],
     "reviewer_status": "machine_proposed"
    }
@@ -1423,5 +1616,45 @@
    }
   ],
   "description": "A dream image: a great statue with head of gold, chest and arms of silver, belly and thighs of bronze, legs of iron, feet of iron mixed with clay; a stone cut out without hands strikes the feet, the statue is shattered, and the stone becomes a mountain filling the earth."
+ },
+ {
+  "kind": "vision",
+  "id": "vis_01M4RV9NREKZYKAJQZTJ0G4GMJ",
+  "slug": "nebuchadnezzars-tree-dream",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The great tree cut down (Nebuchadnezzar's second dream)",
+  "passage": "Dan.4.10-Dan.4.17",
+  "recipient_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+  "experience_event_id": "evt_01M4RV9NRC7FFPKYYJWER93ZY8",
+  "symbols": [
+   {
+    "symbol": "The great tree",
+    "description": "Reaches the sky, visible to the ends of the earth; shelter and food for all",
+    "passage": "Dan.4.10-Dan.4.12",
+    "in_text_interpretation": "Nebuchadnezzar: \"it is you, O king\" (4:22)."
+   },
+   {
+    "symbol": "The holy watcher",
+    "description": "A heavenly figure who decrees the felling",
+    "passage": "Dan.4.13-Dan.4.17",
+    "in_text_interpretation": "The decree of the watchers / the Most High (4:17, 24)."
+   },
+   {
+    "symbol": "Stump bound with iron and bronze",
+    "description": "Roots left in the earth",
+    "passage": "Dan.4.15",
+    "in_text_interpretation": "The kingdom will be restored after he acknowledges Heaven's rule (4:26)."
+   },
+   {
+    "symbol": "Seven times",
+    "description": "Period passing over the one with an animal's heart",
+    "passage": "Dan.4.16",
+    "in_text_interpretation": "The king's period of exclusion until he knows that the Most High rules (4:25, 32)."
+   }
+  ],
+  "description": "A tree at the centre of the earth reaching to the sky, sheltering beasts and birds, is ordered cut down by a holy watcher; the stump is left bound with iron and bronze, and \"seven times\" pass over him."
  }
 ]

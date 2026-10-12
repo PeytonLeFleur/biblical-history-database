@@ -1,0 +1,40 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4RV9NREKZYKAJQZTJ0G4GMJ",
+  "slug": "nebuchadnezzars-tree-dream",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The great tree cut down (Nebuchadnezzar's second dream)",
+  "passage": "Dan.4.10-Dan.4.17",
+  "recipient_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+  "experience_event_id": "evt_01M4RV9NRC7FFPKYYJWER93ZY8",
+  "symbols": [
+    {
+      "symbol": "The great tree",
+      "description": "Reaches the sky, visible to the ends of the earth; shelter and food for all",
+      "passage": "Dan.4.10-Dan.4.12",
+      "in_text_interpretation": "Nebuchadnezzar: \"it is you, O king\" (4:22)."
+    },
+    {
+      "symbol": "The holy watcher",
+      "description": "A heavenly figure who decrees the felling",
+      "passage": "Dan.4.13-Dan.4.17",
+      "in_text_interpretation": "The decree of the watchers / the Most High (4:17, 24)."
+    },
+    {
+      "symbol": "Stump bound with iron and bronze",
+      "description": "Roots left in the earth",
+      "passage": "Dan.4.15",
+      "in_text_interpretation": "The kingdom will be restored after he acknowledges Heaven's rule (4:26)."
+    },
+    {
+      "symbol": "Seven times",
+      "description": "Period passing over the one with an animal's heart",
+      "passage": "Dan.4.16",
+      "in_text_interpretation": "The king's period of exclusion until he knows that the Most High rules (4:25, 32)."
+    }
+  ],
+  "description": "A tree at the centre of the earth reaching to the sky, sheltering beasts and birds, is ordered cut down by a holy watcher; the stump is left bound with iron and bronze, and \"seven times\" pass over him."
+}

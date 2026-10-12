@@ -1,0 +1,93 @@
+{
+  "event_id": "evt_01M4RV9NRC7FFPKYYJWER93ZY8",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Nebuchadnezzar, writing in the first person, recounts a dream of a vast tree cut down at the command of a holy watcher, its stump bound in the field while \"seven times\" pass. His diviners fail; Daniel interprets the tree as the king, who will be driven out to live with the animals until he acknowledges that the Most High rules, and urges him to break off his sins by righteousness.",
+    "passage": "Dan.4.4-Dan.4.27"
+  },
+  "setting": {
+    "period": "Reign of Nebuchadnezzar II (undated in the text)",
+    "body": "The tree image draws on biblical imagery of rulers as great trees (Ezekiel 31). The dream is undated; the chapter is framed as a royal proclamation.",
+    "citations": [
+      "src_01M4RV9NQDGZSWZ65QX9YDV0T5"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "Dreaming king",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4RV9NRHV9PTCSK8H1SSYF6B",
+      "subject": "evt_01M4RV9NRC7FFPKYYJWER93ZY8",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "within_reign",
+      "textual_assertion": "I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace",
+      "passage": "Dan.4.4",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Royal palace",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Historical dream of Nebuchadnezzar",
+      "proponents": [
+        "Traditional reading; D. Guzik"
+      ],
+      "summary": "The king's own testimony of a dream and its fulfilment.",
+      "citations": [
+        "src_01M4RV9NQA7FREZ7NZHBK6GKCJ"
+      ]
+    },
+    {
+      "label": "Literary development of a Nabonidus tradition",
+      "proponents": [
+        "J. J. Collins (1984), via Wikipedia"
+      ],
+      "summary": "The chapter is a variant of a Jewish story originally told of Nabonidus.",
+      "citations": [
+        "src_01M4RV9NQDGZSWZ65QX9YDV0T5"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RV9NQA7FREZ7NZHBK6GKCJ",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the chapter as Nebuchadnezzar's own testimony, the tree as the king in his worldwide greatness, and the watchers as angels executing God's decree that the Most High rules over the kingdoms of men.",
+      "url": "https://enduringword.com/bible-commentary/daniel-4/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

@@ -1,0 +1,61 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4RV9NRGW4FS0325T8MVSH1H",
+  "slug": "watchers-decree-dan-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The decree of the watchers against the king (Dan 4:19–27)",
+  "passage": "Dan.4.19-Dan.4.27",
+  "speaker": "Daniel",
+  "vision_id": "vis_01M4RV9NREKZYKAJQZTJ0G4GMJ",
+  "description": "Daniel interprets the tree as the king, who will be driven from human society to live like an animal for seven times until he acknowledges the Most High, after which his kingdom is restored; he urges repentance.",
+  "in_text_interpretation": "The text identifies the tree as Nebuchadnezzar and narrates its fulfilment within the chapter (4:28–33).",
+  "interpretations": [
+    {
+      "id": "ful_01M4RV9NRE8J2MVP00VF6PNXF0",
+      "label": "Fulfilled in Nebuchadnezzar's seven-year madness",
+      "approach": "preterist",
+      "framework": "Traditional Jewish and Christian",
+      "proponents": [
+        "The narrative itself (4:28–33)",
+        "D. Guzik (seven times = seven years)"
+      ],
+      "summary": "The decree was fulfilled in the king's own humbling for seven years (as the Old Greek renders it) and his restoration.",
+      "referents": [
+        {
+          "symbol": "Seven times",
+          "referent": "Seven years"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4RV9NQA7FREZ7NZHBK6GKCJ"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4RV9NREZWJT5VYD4J7D01ZQ",
+      "label": "Originally about Nabonidus",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "J. J. Collins (1984), via Wikipedia",
+        "W. von Soden",
+        "Livius.org"
+      ],
+      "summary": "The tale is a variant of a tradition about Nabonidus's affliction and his long stay at Tayma (cf. 4Q242), transferred to the better-known Nebuchadnezzar. This is a source-critical view, not a fulfillment claim.",
+      "referents": [],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4RV9NQDGZSWZ65QX9YDV0T5",
+        "src_01M4RV9NQEX541YPGG8RK52KR0",
+        "src_01M4RV9NQHMK8RS0CXEFG1ZWH7"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

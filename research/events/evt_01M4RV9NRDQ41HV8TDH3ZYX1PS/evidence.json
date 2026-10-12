@@ -1,0 +1,275 @@
+{
+  "event_id": "evt_01M4RV9NRDQ41HV8TDH3ZYX1PS",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-12",
+      "query": "Livius ABC 7 Nabonidus Chronicle (Tayma years; fall of Babylon)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Wikipedia: Prayer of Nabonidus; Daniel 4; East India House Inscription",
+      "engine": "web fetch",
+      "useful_results": 3,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Enduring Word Daniel 4",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "BM 34113 Nebuchadnezzar madness Grayson BHLT",
+      "engine": "web",
+      "useful_results": 2,
+      "notes": "BM page and JETS PDF both returned 403; not accessed."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Livius: Daniel on Nebuchadnezzar's madness",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Ferguson JETS 37/3 1994 321–331 (title verification)",
+      "engine": "web",
+      "useful_results": 0,
+      "notes": "Could not verify title; not registered."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Pleiades Tayma",
+      "engine": "pleiades",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4RV9NRMK5MMJ4VPDPYXFX58",
+      "statement": "Nebuchadnezzar carried out extensive building works at Babylon (Dan 4:30).",
+      "layer": "evidence",
+      "passage": "Dan.4.30",
+      "classification": "independently_corroborated",
+      "reasoning": "His own foundation inscriptions (e.g. the East India House Inscription, found at Babylon) and the record of his restoration of Esagila, Etemenanki, the Ishtar Gate and palaces attest the building programme.",
+      "supporting_evidence": [
+        "evd_01M4RV9NRM594FB8ATNBBYJ482",
+        "evd_01M4RV9NRMFAG15FC6VCAS8XWT"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Corroborates the setting of the boast, not the episode."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RV9NRMXY6H9S8X43TV7H64",
+      "statement": "Nebuchadnezzar was afflicted with a period of madness and later restored to rule.",
+      "layer": "reconstruction",
+      "passage": "Dan.4.28-Dan.4.37",
+      "classification": "disputed",
+      "reasoning": "No cuneiform text consulted attests such an episode. Conservative interpreters argue that royal records omit failures and point to a late Greek report (Abydenus, via Guzik; not verified) and the debated fragment BM 34113 (not accessed). Critical scholars see a transferred Nabonidus tradition. There is material disagreement.",
+      "supporting_evidence": [],
+      "counterevidence": [
+        "evd_01M4RV9NRM4VRBMEH0W1G8SWSH"
+      ],
+      "contextual_evidence": [
+        "evd_01M4RV9NRMVDY1YB7CEN14JVD5",
+        "evd_01M4RV9NRMQMA75M3RE0586A3G"
+      ],
+      "limitations": [
+        "BM 34113, Grayson BHLT and Abydenus were not read."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RV9NRMDXS9SHAHC5A9WW3W",
+      "statement": "Nabonidus spent several years at Tayma while \"the prince\" remained in Babylonia.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "The Nabonidus Chronicle directly records \"the king was in Tayma\" in years 7, 9, 10 and 11, with the prince and army in Akkad and the Akitu festival not held.",
+      "supporting_evidence": [
+        "evd_01M4RV9NRMVDY1YB7CEN14JVD5"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RV9NRMX5JZZHTC99D5HVMS",
+      "statement": "A Qumran text (4Q242) narrates Nabonidus's seven-year affliction at Tayma and its healing by God.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "The manuscript exists (Israel Museum) and its content is described in the scholarly literature summarised by Wikipedia; it is a Jewish literary text of the 1st century BC (manuscript date), not a Babylonian record.",
+      "supporting_evidence": [
+        "evd_01M4RV9NRMQMA75M3RE0586A3G"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Secondary summary; editions not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RV9NRM971Y3NHJ971TFWRC",
+      "statement": "The king was humbled and restored through the decree of heaven.",
+      "layer": "text",
+      "passage": "Dan.4.31-Dan.4.36",
+      "classification": "not_empirically_testable",
+      "reasoning": "Divine causation cannot be assessed historically. This is not a theological verdict.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4RV9NRM594FB8ATNBBYJ482",
+      "claim_ids": [
+        "clm_01M4RV9NRMK5MMJ4VPDPYXFX58"
+      ],
+      "source_id": "src_01M4RV9NQJFHHHV4S9K9WRY17E",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "A foundation tablet of Nebuchadnezzar from Babylon records his temple building and care for the shrines of Babylon and Borsippa.",
+      "locator": "Description",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "nebuchadnezzar-building-inscriptions"
+    },
+    {
+      "id": "evd_01M4RV9NRMFAG15FC6VCAS8XWT",
+      "claim_ids": [
+        "clm_01M4RV9NRMK5MMJ4VPDPYXFX58"
+      ],
+      "source_id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Nebuchadnezzar restored Esagila, completed Etemenanki, rebuilt the Ishtar Gate and Processional Street, and built the North and Summer palaces; most of his inscriptions concern building.",
+      "locator": "Building works section",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylon-archaeology-summary"
+    },
+    {
+      "id": "evd_01M4RV9NRM4VRBMEH0W1G8SWSH",
+      "claim_ids": [
+        "clm_01M4RV9NRMXY6H9S8X43TV7H64"
+      ],
+      "source_id": "src_01M4RV9NQHMK8RS0CXEFG1ZWH7",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "States that cuneiform texts reveal nothing about Nebuchadnezzar's mental health and argues the story was originally about Nabonidus.",
+      "locator": "Discussion",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "livius-critical"
+    },
+    {
+      "id": "evd_01M4RV9NRMVDY1YB7CEN14JVD5",
+      "claim_ids": [
+        "clm_01M4RV9NRMXY6H9S8X43TV7H64",
+        "clm_01M4RV9NRMDXS9SHAHC5A9WW3W"
+      ],
+      "source_id": "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "The king (Nabonidus) was in Tayma while the prince, officers and army were in Akkad, and the New Year festival was not held.",
+      "locator": "Years 7, 9, 10, 11",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "nabonidus-chronicle"
+    },
+    {
+      "id": "evd_01M4RV9NRMQMA75M3RE0586A3G",
+      "claim_ids": [
+        "clm_01M4RV9NRMXY6H9S8X43TV7H64",
+        "clm_01M4RV9NRMX5JZZHTC99D5HVMS"
+      ],
+      "source_id": "src_01M4RV9NQEX541YPGG8RK52KR0",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "4Q242 has Nabonidus report an ulcer lasting seven years at Tayma, forgiven and healed by God, with a Judean urging him to proclaim it.",
+      "locator": "Content",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "prayer-of-nabonidus"
+    }
+  ],
+  "artifacts": [
+    "art_01M4RV9NR98ZCQ5DAG7ZQGMW6W"
+  ],
+  "sites": [],
+  "documents": [
+    "doc_01M4RV9NRB84RKM2NTBMFAR2FD",
+    "doc_01M4RV9NRCTVGH19J236HH7GX8"
+  ],
+  "research_gaps": [
+    "BM 34113 (Grayson BHLT) not accessed; museum page blocked.",
+    "Abydenus fragment (via Eusebius) not located.",
+    "Verse Account of Nabonidus not read directly.",
+    "Composition-date debate of 4Q242 and Daniel 4 to be integrated into the book-level composition record."
+  ]
+}

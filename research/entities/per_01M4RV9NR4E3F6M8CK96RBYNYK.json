@@ -1,0 +1,28 @@
+{
+  "kind": "person",
+  "id": "per_01M4RV9NR4E3F6M8CK96RBYNYK",
+  "slug": "nabonidus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ],
+  "notes": null,
+  "canonical_name": "Nabonidus",
+  "aliases": [
+    {
+      "alias": "Nabû-naʾid",
+      "language": "Akkadian",
+      "source_id": null,
+      "passage": null
+    },
+    {
+      "alias": "Nabunai",
+      "language": "Aramaic (4Q242)",
+      "source_id": "src_01M4RV9NQEX541YPGG8RK52KR0",
+      "passage": null
+    }
+  ],
+  "description": "Last king of the Neo-Babylonian Empire (556–539 BC); spent about ten years at Tayma in Arabia.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+}

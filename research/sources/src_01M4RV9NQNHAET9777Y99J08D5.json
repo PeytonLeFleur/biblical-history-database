@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RV9NQNHAET9777Y99J08D5",
+  "title": "BM 34113 — British Museum collection record (historical-literary text)",
+  "source_type": "museum_catalog",
+  "authors": [
+    "British Museum"
+  ],
+  "publisher": "British Museum",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.britishmuseum.org/collection/object/W_SP-213",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "discovered",
+  "verification_log": [
+    {
+      "level": "discovered",
+      "date": "2026-10-12",
+      "method": "Found in a web search; the collection page returned HTTP 403 to automated access.",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed. A search summary reports the museum catalogues it as a historical-literary text concerning Amel-Marduk (Grayson, BHLT pp. 87–92), and that some (Wiseman; a JETS article by Ferguson, 1994) read parts as referring to Nebuchadnezzar. None of this was verified at source.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}
