@@ -40,3 +40,26 @@ jobs:
           pnpm vitest run --project db
           pnpm research:import
       - run: pnpm build
+
+  e2e:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Build site from the validated research export
+        run: pnpm build
+      - name: Install Chromium
+        run: pnpm --filter @atlas/web exec playwright install --with-deps chromium
+      - name: End-to-end, mobile and accessibility tests
+        run: pnpm test:e2e
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: playwright-report
+          path: apps/web/test-results/
+          retention-days: 7

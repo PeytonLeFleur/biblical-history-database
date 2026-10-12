@@ -1,0 +1,6 @@
+{
+  "provider": "OpenFreeMap",
+  "styleUrl": "https://tiles.openfreemap.org/styles/positron",
+  "attribution": "OpenFreeMap © OpenMapTiles Data from OpenStreetMap",
+  "notes": "Keyless provider (SPEC 13.1). To self-host later, generate a Protomaps PMTiles extract into apps/web/public/tiles/ and point styleUrl at a local style using the pmtiles:// protocol."
+}

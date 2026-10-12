@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { CANON } from '@atlas/scripture';
 import { assertNoFixtures, filterPublishable } from '@atlas/static-export';
-import { serializeResults, solveAllModels } from './chronology.ts';
+import { derivationResolver, serializeResults, solveAllModels } from './chronology.ts';
 import { renderDossier } from './dossier.ts';
 import { versesPerChapter } from './inventory.ts';
 import type { ResearchStore } from './store.ts';
@@ -72,8 +72,23 @@ export function exportPublic(store: ResearchStore, outDir = store.path('data/exp
   write('entities.json', entityRecords.filter((r) => keptIds.has(r.id)).map((r) => r.e));
   write('coverage.json', coverage);
   const chronology: Record<string, unknown> = {};
-  for (const [m, results] of solveAllModels(store)) chronology[m ?? 'model_independent'] = serializeResults(results);
+  const resolve = derivationResolver(store);
+  // Only published (kept) subjects are exported; derivation steps may still name the records they depend on.
+  for (const [m, results] of solveAllModels(store)) {
+    chronology[m ?? 'model_independent'] = serializeResults(results, resolve).map((r) => ({
+      ...r,
+      intervals: r.intervals.filter((i) => keptIds.has(i.subject)),
+    }));
+  }
   write('chronology.json', chronology);
+  // Rule 01 extraction files: verse coverage + candidates (labelled on the site as extraction-only).
+  write('extraction.json', CANON.flatMap((b) => store.chapters(b.slug).map((c) => ({ ...c, slug: b.slug }))));
+  // Public, read-only review summary. Decision rationale and reviewer notes are not exported.
+  write('reviews.json', store.reviews().filter((r) => !r.is_fixture).map((r) => ({
+    id: r.id, record_kind: r.record_kind, record_id: r.record_id, record_revision: r.record_revision, reason: r.reason,
+    triggers: r.triggers, status: r.status, created_at: r.created_at,
+    decisions: r.decisions.map((d) => ({ decision: d.decision, decided_at: d.decided_at, record_revision: d.record_revision })),
+  })));
   write('manifest.json', {
     license: 'Original research records: CC BY 4.0. Third-party material retains its own rights (see sources.json).',
     events: events.length,

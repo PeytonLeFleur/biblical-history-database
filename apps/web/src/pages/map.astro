@@ -1,0 +1,80 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import EmptyState from '../components/EmptyState.astro';
+import VerificationBadge from '../components/VerificationBadge.astro';
+import Badge from '../components/Badge.astro';
+import AtlasMap, { type MapPoint } from '../islands/AtlasMap';
+import { data, entitiesOf, sourceById, url } from '../lib/data';
+import mapConfig from '../../../../config/map.json';
+
+const places = entitiesOf('place');
+const VERIFIED_LEVELS = new Set(['claim_checked', 'human_reviewed']);
+const points: MapPoint[] = places.flatMap((p) =>
+  p.hypotheses
+    .filter((h) => h.lat !== null && h.lon !== null && h.geom_source_id)
+    .map((h) => {
+      const s = sourceById(h.geom_source_id!);
+      const verified = (h.confidence === 'certain' || h.confidence === 'probable') && !!s && VERIFIED_LEVELS.has(s.verification_level);
+      const events = data().events.flatMap((b) =>
+        (b.context?.locations ?? [])
+          .filter((l) => l.location_id === p.id)
+          .map((l) => ({
+            id: b.event.id, title: b.event.title, href: url(`events/${b.event.slug}/`), role: l.role,
+            association: l.confidence === 'certain' || l.confidence === 'probable' ? l.confidence : `proposed — ${l.confidence}`,
+          })),
+      );
+      return {
+        id: h.id, placeName: p.primary_name, label: h.label, modern: p.modern_name, lat: h.lat!, lon: h.lon!,
+        identification: h.confidence, verified, sourceTitle: s?.title ?? 'unknown', sourceLevel: s?.verification_level ?? 'discovered',
+        sourceUrl: s?.url ?? null, events,
+      };
+    }),
+);
+const unmapped = places.filter((p) => !p.hypotheses.some((h) => h.lat !== null));
+const mapEvents = data().events.filter((b) => (b.context?.locations.length ?? 0) > 0).map((b) => ({ id: b.event.id, title: b.event.title }));
+---
+<Base title="Interactive map" wide>
+  <PageHeader eyebrow="Ancient geography" title="Interactive map">
+    Locations connected to researched events. Coordinates come only from cited gazetteers or excavation sources. None are estimated.
+    A place's <em>identification</em> (is this the ancient site?) is distinguished from its <em>association</em> with an event (did the event
+    affect this place?). Both are shown with their confidence.
+  </PageHeader>
+  {points.length === 0 ? (
+    <EmptyState title="No sourced locations yet">Places appear here once their coordinates are recorded from a cited source.</EmptyState>
+  ) : (
+    <AtlasMap client:only="react" points={points} styleUrl={mapConfig.styleUrl} attribution={mapConfig.attribution} events={mapEvents} />
+  )}
+
+  <section class="mt-10" aria-labelledby="locations">
+    <h2 id="locations" class="font-serif text-2xl">Locations</h2>
+    <p class="mt-1 text-sm text-stone">The same locations in table form. This also serves as the fallback when the interactive map cannot load.</p>
+    <table class="data mt-4" data-testid="map-table">
+      <thead><tr><th scope="col">Place</th><th scope="col">Identification</th><th scope="col">Coordinates (source)</th><th scope="col">Event associations</th></tr></thead>
+      <tbody>
+        {points.map((p) => (
+          <tr>
+            <td><strong>{p.placeName}</strong>{p.modern && <span class="block text-stone">{p.modern}</span>}</td>
+            <td>
+              {p.verified ? <Badge tone="olive">Verified identification</Badge> : <Badge tone="brass">Proposed identification</Badge>}
+              <span class="block text-xs text-stone">confidence: {p.identification}</span>
+            </td>
+            <td>{p.lat.toFixed(4)}, {p.lon.toFixed(4)}<span class="block text-xs">{p.sourceUrl ? <a href={p.sourceUrl}>{p.sourceTitle}</a> : p.sourceTitle}</span><VerificationBadge level={p.sourceLevel} /></td>
+            <td>{p.events.length === 0 ? <span class="text-stone">—</span> : p.events.map((e) => <span class="block"><a href={e.href}>{e.title}</a>: {e.role} <span class="text-stone">(association: {e.association})</span></span>)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    {unmapped.length > 0 && <p class="mt-3 text-sm text-stone">Places without sourced coordinates (not mapped): {unmapped.map((p) => p.primary_name).join(', ')}.</p>}
+  </section>
+
+  <section class="mt-10 text-sm text-stone" aria-labelledby="map-limits">
+    <h2 id="map-limits" class="font-semibold text-ink">Not yet available</h2>
+    <ul class="mt-2 list-disc space-y-1 pl-5">
+      <li>No ancient kingdom boundaries are drawn. None have been sourced from a licensed, traceable dataset yet (SPEC 13.2).</li>
+      <li>Migration routes, battles and artifact findspots will appear once researched.</li>
+      <li>Filters by book, period, kingdom and person are planned; the current filters are event and identification status.</li>
+    </ul>
+    <p class="mt-3">Base map: {mapConfig.provider} (keyless; configurable in <code>config/map.json</code>).</p>
+  </section>
+</Base>

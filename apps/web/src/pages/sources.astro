@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import Badge from '../components/Badge.astro';
+import VerificationBadge from '../components/VerificationBadge.astro';
+import EmptyState from '../components/EmptyState.astro';
+import { SOURCE_GROUPS, VERIFICATION_LABEL, data, sourcesCitedBy, titleCase, url } from '../lib/data';
+const sources = data().sources;
+const citedBy = (id: string) => data().events.filter((b) => sourcesCitedBy(b).has(id));
+const counts = Object.keys(VERIFICATION_LABEL).map((k) => ({ k, n: sources.filter((s) => s.verification_level === k).length }));
+const groups = SOURCE_GROUPS.map((g) => ({ ...g, items: sources.filter((s) => g.types.includes(s.source_type)) }))
+  .concat([{ key: 'commentary', label: 'Theological commentary', types: ['theological_commentary'], items: sources.filter((s) => s.source_type === 'theological_commentary') }]);
+---
+<Base title="Sources and bibliography">
+  <PageHeader eyebrow="Bibliography" title="Sources">
+    Every source cited anywhere in the published research, with how far it was actually examined. A working link or a DOI only proves
+    the source exists. "Claim checked" means the specific passage supporting or challenging a claim was read.
+  </PageHeader>
+  <dl class="flex flex-wrap gap-x-6 gap-y-2 text-sm">
+    {counts.map((c) => <div class="flex items-center gap-2"><dt><VerificationBadge level={c.k} /></dt><dd class="tabular-nums">{c.n}</dd></div>)}
+  </dl>
+  {sources.length === 0 && <div class="mt-6"><EmptyState title="No sources registered yet">Sources appear when they are cited in published research.</EmptyState></div>}
+  {groups.filter((g) => g.items.length).map((g) => (
+    <section class="mt-10" aria-label={g.label}>
+      <h2 class="rule pt-3 font-serif text-2xl">{g.label}</h2>
+      <ul class="mt-4 space-y-6">
+        {g.items.map((s) => (
+          <li id={s.id} class="scroll-mt-6 text-sm">
+            <p class="font-serif text-base"><em>{s.title}</em></p>
+            <p class="text-stone">{[s.authors.join(', '), s.journal, s.publisher, s.published_date].filter(Boolean).join(' · ')}</p>
+            <p class="mt-1 flex flex-wrap items-center gap-1.5"><VerificationBadge level={s.verification_level} /><Badge tone="outline">{titleCase(s.source_type)}</Badge>
+              {s.doi ? <a href={`https://doi.org/${s.doi}`}>doi:{s.doi}</a> : s.url && <a href={s.url}>{new URL(s.url).hostname}</a>}
+            </p>
+            {s.access_notes && <p class="mt-1">{s.access_notes}</p>}
+            {s.license && <p class="mt-1 text-xs text-stone">Rights: {s.license}</p>}
+            <details class="mt-1">
+              <summary class="cursor-pointer text-olive">Verification log ({s.verification_log.length})</summary>
+              <ol class="mt-1 list-decimal pl-5">{s.verification_log.map((l) => <li>{l.date} — {VERIFICATION_LABEL[l.level]}: {l.method}</li>)}</ol>
+            </details>
+            {citedBy(s.id).length > 0 && <p class="mt-1">Cited in: {citedBy(s.id).map((b) => <a href={url(`events/${b.event.slug}/`)}>{b.event.title}</a>)}</p>}
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

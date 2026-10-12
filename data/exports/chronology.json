@@ -26,22 +26,20 @@
       "earliest": null,
       "latest": null
      },
-     "precision": "undated",
-     "derivation": {
-      "earliest": [],
-      "latest": []
-     }
-    },
-    {
-     "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
-     "years": {
+     "start": {
+      "earliest": null,
+      "latest": null
+     },
+     "end": {
       "earliest": null,
       "latest": null
      },
      "precision": "undated",
      "derivation": {
       "earliest": [],
-      "latest": []
+      "latest": [],
+      "end_earliest": [],
+      "end_latest": []
      }
     }
    ]
@@ -63,31 +61,85 @@
    ],
    "intervals": [
     {
-     "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
-     "years": {
-      "earliest": -791,
-      "latest": -752
-     },
-     "precision": "reign",
-     "derivation": {
-      "earliest": [
-       "cst_01M4RPJVYN2QACZX36D94T58VW"
-      ],
-      "latest": [
-       "cst_01M4RPJVYNZ3VEZT8XX12XS3TA"
-      ]
-     }
-    },
-    {
      "subject": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY",
      "years": {
       "earliest": -791,
       "latest": -790
      },
-     "precision": "day",
+     "start": {
+      "earliest": -791,
+      "latest": -790
+     },
+     "end": {
+      "earliest": -739,
+      "latest": -738
+     },
+     "precision": "year",
      "derivation": {
-      "earliest": [],
-      "latest": []
+      "earliest": [
+       {
+        "id": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#start",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah began 792 BC–791 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregency with Amaziah from 792/791 BC; sole reign 768/767; died 740/739. The reign interval here includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       }
+      ],
+      "latest": [
+       {
+        "id": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#start",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah began 792 BC–791 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregency with Amaziah from 792/791 BC; sole reign 768/767; died 740/739. The reign interval here includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       }
+      ],
+      "end_earliest": [
+       {
+        "id": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#end",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah ended 740 BC–739 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregency with Amaziah from 792/791 BC; sole reign 768/767; died 740/739. The reign interval here includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       }
+      ],
+      "end_latest": [
+       {
+        "id": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#end",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah ended 740 BC–739 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregency with Amaziah from 792/791 BC; sole reign 768/767; died 740/739. The reign interval here includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       }
+      ]
      }
     },
     {
@@ -96,10 +148,80 @@
       "earliest": -792,
       "latest": -792
      },
-     "precision": "day",
+     "start": {
+      "earliest": -792,
+      "latest": -792
+     },
+     "end": {
+      "earliest": -752,
+      "latest": -752
+     },
+     "precision": "year",
      "derivation": {
-      "earliest": [],
-      "latest": []
+      "earliest": [
+       {
+        "id": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#start",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II began 793 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregent with Jehoash 793–782 BC; sole reign 782–753. Interval includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       }
+      ],
+      "latest": [
+       {
+        "id": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#start",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II began 793 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregent with Jehoash 793–782 BC; sole reign 782–753. Interval includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       }
+      ],
+      "end_earliest": [
+       {
+        "id": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#end",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II ended 753 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregent with Jehoash 793–782 BC; sole reign 782–753. Interval includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       }
+      ],
+      "end_latest": [
+       {
+        "id": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#end",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II ended 753 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregent with Jehoash 793–782 BC; sole reign 782–753. Interval includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       }
+      ]
      }
     },
     {
@@ -108,15 +230,171 @@
       "earliest": -790,
       "latest": -749
      },
+     "start": {
+      "earliest": -790,
+      "latest": -749
+     },
+     "end": {
+      "earliest": -790,
+      "latest": -749
+     },
      "precision": "reign",
      "derivation": {
       "earliest": [
-       "cst_01M4RPJVYN2QACZX36D94T58VW",
-       "cst_01M4RPJVYN3G2RP7P5Q03KHRYD"
+       {
+        "id": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#start",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah began 792 BC–791 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregency with Amaziah from 792/791 BC; sole reign 768/767; died 740/739. The reign interval here includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       },
+       {
+        "id": "cst_01M4RPJVYN2QACZX36D94T58VW",
+        "kind": "constraint",
+        "label": "“in the days of Uzziah king of Judah” — Amos's prophetic words (dated by Amos 1:1) during reign of Uzziah",
+        "passage": "Amos.1.1",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Uzziah's/Jeroboam II's 'days' are taken to include the coregency years of this model's reconstruction."
+        ],
+        "citations": []
+       },
+       {
+        "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+        "kind": "constraint",
+        "label": "“two years before the earthquake” — The earthquake in the days of Uzziah years later Amos's prophetic words (dated by Amos 1:1)",
+        "passage": "Amos.1.1",
+        "model_id": null,
+        "assumptions": [
+         "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+         "The dated \"words\" are treated as the start of the dated activity."
+        ],
+        "citations": []
+       }
       ],
       "latest": [
-       "cst_01M4RPJVYNZ3VEZT8XX12XS3TA",
-       "cst_01M4RPJVYN3G2RP7P5Q03KHRYD"
+       {
+        "id": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#end",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II ended 753 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregent with Jehoash 793–782 BC; sole reign 782–753. Interval includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       },
+       {
+        "id": "cst_01M4RPJVYNZ3VEZT8XX12XS3TA",
+        "kind": "constraint",
+        "label": "“in the days of Jeroboam the son of Joash, king of Israel” — Amos's prophetic words (dated by Amos 1:1) during reign of Jeroboam II",
+        "passage": "Amos.1.1",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Uzziah's/Jeroboam II's 'days' are taken to include the coregency years of this model's reconstruction."
+        ],
+        "citations": []
+       },
+       {
+        "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+        "kind": "constraint",
+        "label": "“two years before the earthquake” — The earthquake in the days of Uzziah years later Amos's prophetic words (dated by Amos 1:1)",
+        "passage": "Amos.1.1",
+        "model_id": null,
+        "assumptions": [
+         "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+         "The dated \"words\" are treated as the start of the dated activity."
+        ],
+        "citations": []
+       }
+      ],
+      "end_earliest": [
+       {
+        "id": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY#start",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah began 792 BC–791 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregency with Amaziah from 792/791 BC; sole reign 768/767; died 740/739. The reign interval here includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       },
+       {
+        "id": "cst_01M4RPJVYN2QACZX36D94T58VW",
+        "kind": "constraint",
+        "label": "“in the days of Uzziah king of Judah” — Amos's prophetic words (dated by Amos 1:1) during reign of Uzziah",
+        "passage": "Amos.1.1",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Uzziah's/Jeroboam II's 'days' are taken to include the coregency years of this model's reconstruction."
+        ],
+        "citations": []
+       },
+       {
+        "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+        "kind": "constraint",
+        "label": "“two years before the earthquake” — The earthquake in the days of Uzziah years later Amos's prophetic words (dated by Amos 1:1)",
+        "passage": "Amos.1.1",
+        "model_id": null,
+        "assumptions": [
+         "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+         "The dated \"words\" are treated as the start of the dated activity."
+        ],
+        "citations": []
+       }
+      ],
+      "end_latest": [
+       {
+        "id": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T#end",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II ended 753 BC (Thiele (1983) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Thiele: coregent with Jehoash 793–782 BC; sole reign 782–753. Interval includes the coregency. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       },
+       {
+        "id": "cst_01M4RPJVYNZ3VEZT8XX12XS3TA",
+        "kind": "constraint",
+        "label": "“in the days of Jeroboam the son of Joash, king of Israel” — Amos's prophetic words (dated by Amos 1:1) during reign of Jeroboam II",
+        "passage": "Amos.1.1",
+        "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+        "assumptions": [
+         "Uzziah's/Jeroboam II's 'days' are taken to include the coregency years of this model's reconstruction."
+        ],
+        "citations": []
+       },
+       {
+        "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+        "kind": "constraint",
+        "label": "“two years before the earthquake” — The earthquake in the days of Uzziah years later Amos's prophetic words (dated by Amos 1:1)",
+        "passage": "Amos.1.1",
+        "model_id": null,
+        "assumptions": [
+         "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+         "The dated \"words\" are treated as the start of the dated activity."
+        ],
+        "citations": []
+       }
       ]
      }
     }
@@ -139,31 +417,85 @@
    ],
    "intervals": [
     {
-     "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
-     "years": {
-      "earliest": -782,
-      "latest": -745
-     },
-     "precision": "reign",
-     "derivation": {
-      "earliest": [
-       "cst_01M4RPJVYNZ7MTC77ST6QEJDCH"
-      ],
-      "latest": [
-       "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH"
-      ]
-     }
-    },
-    {
      "subject": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
      "years": {
       "earliest": -782,
       "latest": -782
      },
-     "precision": "day",
+     "start": {
+      "earliest": -782,
+      "latest": -782
+     },
+     "end": {
+      "earliest": -741,
+      "latest": -741
+     },
+     "precision": "year",
      "derivation": {
-      "earliest": [],
-      "latest": []
+      "earliest": [
+       {
+        "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#start",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah began 783 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 783–742 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       }
+      ],
+      "latest": [
+       {
+        "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#start",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah began 783 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 783–742 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       }
+      ],
+      "end_earliest": [
+       {
+        "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#end",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah ended 742 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 783–742 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       }
+      ],
+      "end_latest": [
+       {
+        "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#end",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah ended 742 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 783–742 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       }
+      ]
      }
     },
     {
@@ -172,10 +504,80 @@
       "earliest": -785,
       "latest": -785
      },
-     "precision": "day",
+     "start": {
+      "earliest": -785,
+      "latest": -785
+     },
+     "end": {
+      "earliest": -745,
+      "latest": -745
+     },
+     "precision": "year",
      "derivation": {
-      "earliest": [],
-      "latest": []
+      "earliest": [
+       {
+        "id": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#start",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II began 786 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 786–746 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       }
+      ],
+      "latest": [
+       {
+        "id": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#start",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II began 786 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 786–746 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       }
+      ],
+      "end_earliest": [
+       {
+        "id": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#end",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II ended 746 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 786–746 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       }
+      ],
+      "end_latest": [
+       {
+        "id": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#end",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II ended 746 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 786–746 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       }
+      ]
      }
     },
     {
@@ -184,15 +586,163 @@
       "earliest": -781,
       "latest": -742
      },
+     "start": {
+      "earliest": -781,
+      "latest": -742
+     },
+     "end": {
+      "earliest": -781,
+      "latest": -742
+     },
      "precision": "reign",
      "derivation": {
       "earliest": [
-       "cst_01M4RPJVYNZ7MTC77ST6QEJDCH",
-       "cst_01M4RPJVYN3G2RP7P5Q03KHRYD"
+       {
+        "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#start",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah began 783 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 783–742 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       },
+       {
+        "id": "cst_01M4RPJVYNZ7MTC77ST6QEJDCH",
+        "kind": "constraint",
+        "label": "“in the days of Uzziah king of Judah” — Amos's prophetic words (dated by Amos 1:1) during reign of Uzziah",
+        "passage": "Amos.1.1",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [],
+        "citations": []
+       },
+       {
+        "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+        "kind": "constraint",
+        "label": "“two years before the earthquake” — The earthquake in the days of Uzziah years later Amos's prophetic words (dated by Amos 1:1)",
+        "passage": "Amos.1.1",
+        "model_id": null,
+        "assumptions": [
+         "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+         "The dated \"words\" are treated as the start of the dated activity."
+        ],
+        "citations": []
+       }
       ],
       "latest": [
-       "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH",
-       "cst_01M4RPJVYN3G2RP7P5Q03KHRYD"
+       {
+        "id": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#end",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II ended 746 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 786–746 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       },
+       {
+        "id": "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH",
+        "kind": "constraint",
+        "label": "“in the days of Jeroboam the son of Joash, king of Israel” — Amos's prophetic words (dated by Amos 1:1) during reign of Jeroboam II",
+        "passage": "Amos.1.1",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [],
+        "citations": []
+       },
+       {
+        "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+        "kind": "constraint",
+        "label": "“two years before the earthquake” — The earthquake in the days of Uzziah years later Amos's prophetic words (dated by Amos 1:1)",
+        "passage": "Amos.1.1",
+        "model_id": null,
+        "assumptions": [
+         "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+         "The dated \"words\" are treated as the start of the dated activity."
+        ],
+        "citations": []
+       }
+      ],
+      "end_earliest": [
+       {
+        "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF#start",
+        "kind": "reign_anchor",
+        "label": "reign of Uzziah began 783 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.15.2",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 783–742 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDW55BD6H47AFG78AA"
+        ]
+       },
+       {
+        "id": "cst_01M4RPJVYNZ7MTC77ST6QEJDCH",
+        "kind": "constraint",
+        "label": "“in the days of Uzziah king of Judah” — Amos's prophetic words (dated by Amos 1:1) during reign of Uzziah",
+        "passage": "Amos.1.1",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [],
+        "citations": []
+       },
+       {
+        "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+        "kind": "constraint",
+        "label": "“two years before the earthquake” — The earthquake in the days of Uzziah years later Amos's prophetic words (dated by Amos 1:1)",
+        "passage": "Amos.1.1",
+        "model_id": null,
+        "assumptions": [
+         "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+         "The dated \"words\" are treated as the start of the dated activity."
+        ],
+        "citations": []
+       }
+      ],
+      "end_latest": [
+       {
+        "id": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3#end",
+        "kind": "reign_anchor",
+        "label": "reign of Jeroboam II ended 746 BC (Albright (1945) divided-monarchy chronology)",
+        "passage": "2Kgs.14.23",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [
+         "Albright: 786–746 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes)."
+        ],
+        "citations": [
+         "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+         "src_01M4RPJVYDZB8T1TD4H484X3E7"
+        ]
+       },
+       {
+        "id": "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH",
+        "kind": "constraint",
+        "label": "“in the days of Jeroboam the son of Joash, king of Israel” — Amos's prophetic words (dated by Amos 1:1) during reign of Jeroboam II",
+        "passage": "Amos.1.1",
+        "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+        "assumptions": [],
+        "citations": []
+       },
+       {
+        "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+        "kind": "constraint",
+        "label": "“two years before the earthquake” — The earthquake in the days of Uzziah years later Amos's prophetic words (dated by Amos 1:1)",
+        "passage": "Amos.1.1",
+        "model_id": null,
+        "assumptions": [
+         "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+         "The dated \"words\" are treated as the start of the dated activity."
+        ],
+        "citations": []
+       }
       ]
      }
     }

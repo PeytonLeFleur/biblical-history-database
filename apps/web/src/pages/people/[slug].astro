@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+import EmptyState from '../../components/EmptyState.astro';
+import { data, entitiesOf, entityById, intervalsFor, isDated, modelName, nameOf, passageLabel, passageUrl, sourceById, url } from '../../lib/data';
+import { formatInterval } from '@atlas/shared';
+export function getStaticPaths() {
+  return entitiesOf('person').map((p) => ({ params: { slug: p.slug }, props: { id: p.id } }));
+}
+const person = entityById(Astro.props.id as string)!;
+if (person.kind !== 'person') throw new Error('not a person');
+const reigns = entitiesOf('reign').filter((r) => r.person_id === person.id);
+const events = data().events.filter((b) => b.context?.rulers.some((r) => r.person_id === person.id));
+const kingdom = person.kingdom_id ? entityById(person.kingdom_id) : undefined;
+const mentions = data().events.flatMap((b) => (b.crossrefs?.name_searches ?? []).filter((n) => person.aliases.some((a) => a.alias === n.name) || n.name === person.canonical_name).map((n) => n));
+---
+<Base title={person.canonical_name}>
+  <nav aria-label="Breadcrumb" class="text-sm text-stone"><a href={url('people/')}>People</a> / {person.canonical_name}</nav>
+  <h1 class="mt-4 font-serif text-3xl sm:text-4xl">{person.canonical_name}</h1>
+  <p class="mt-2 text-stone">{person.description}</p>
+  {kingdom && 'slug' in kingdom && <p class="mt-1 text-sm">Kingdom: <a href={url(`kingdoms/${kingdom.slug}/`)}>{nameOf(kingdom.id)}</a></p>}
+
+  {person.aliases.length > 0 && (
+    <section class="mt-8"><h2 class="font-serif text-2xl">Names and aliases</h2>
+      <ul class="mt-2 list-disc pl-5 text-sm">{person.aliases.map((a) => <li>{a.alias}{a.language && <span class="text-stone"> ({a.language})</span>}{a.passage && <> — <a href={passageUrl(a.passage)}>{passageLabel(a.passage)}</a></>}</li>)}</ul>
+    </section>
+  )}
+
+  <section class="mt-8" aria-labelledby="reign">
+    <h2 id="reign" class="font-serif text-2xl">Reign</h2>
+    {reigns.length === 0 ? <p class="mt-2 text-sm text-stone">No reign recorded.</p> : (
+      <table class="data mt-3">
+        <thead><tr><th scope="col">Chronology model</th><th scope="col">Began</th><th scope="col">Ended</th><th scope="col">Stated length</th><th scope="col">Basis</th></tr></thead>
+        <tbody>
+          {reigns.map((r) => {
+            const iv = intervalsFor(r.id).find((x) => isDated(x.interval));
+            return (
+              <tr>
+                <td>{modelName(r.model_id)}</td>
+                <td>{formatInterval(iv?.interval.start ?? r.start)}</td>
+                <td>{formatInterval(iv?.interval.end ?? r.end)}</td>
+                <td>{r.stated_length_years ? <>{r.stated_length_years} years {r.stated_length_passage && <>(<a href={passageUrl(r.stated_length_passage)}>{passageLabel(r.stated_length_passage)}</a>)</>}</> : '—'}</td>
+                <td class="text-xs">{r.notes}<span class="block">{r.citations.map((c) => sourceById(c)).filter(Boolean).map((s) => <a class="block" href={url(`sources/#${s!.id}`)}>{s!.title}</a>)}</span></td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    )}
+    <p class="mt-2 text-xs text-stone">Reign dates are model-dependent reconstructions. They are shown per model and never merged.</p>
+  </section>
+
+  <section class="mt-8" aria-labelledby="events">
+    <h2 id="events" class="font-serif text-2xl">Researched events</h2>
+    {events.length === 0 ? <div class="mt-3"><EmptyState title="None yet">No published event research involves this person yet.</EmptyState></div> : (
+      <ul class="mt-2 list-disc pl-5">{events.map((b) => <li><a href={url(`events/${b.event.slug}/`)}>{b.event.title}</a></li>)}</ul>
+    )}
+  </section>
+
+  {mentions.length > 0 && (
+    <section class="mt-8 text-sm" aria-labelledby="mentions">
+      <h2 id="mentions" class="font-serif text-2xl">Name occurrences (search leads)</h2>
+      <p class="mt-1 text-stone">Verses where the name or alias occurs in the WEB. Several are other people with the same name. See the entity resolutions in the related dossier.</p>
+      {mentions.map((n) => <p class="mt-2"><strong>{n.name}</strong> ({n.hits.length}): {n.hits.map((h, i) => <>{i > 0 && ', '}<a href={passageUrl(h)}>{passageLabel(h)}</a></>)}</p>)}
+    </section>
+  )}
+</Base>

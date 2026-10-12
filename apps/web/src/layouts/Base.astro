@@ -1,18 +1,41 @@
 ---
 import '../styles/global.css';
+import { url } from '../lib/data';
 
 interface Props {
   title: string;
   description?: string;
+  wide?: boolean;
 }
-const { title, description = 'A source-verified research atlas connecting Scripture with ancient history, archaeology, chronology, and geography.' } = Astro.props;
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const nav = [
-  { href: `${base}/books/`, label: 'Books' },
-  { href: `${base}/methodology/`, label: 'Methodology' },
-  { href: `${base}/progress/`, label: 'Research progress' },
-  { href: `${base}/about/`, label: 'About' },
+const {
+  title,
+  description = 'A source-verified research atlas connecting Scripture with ancient history, archaeology, chronology, and geography.',
+  wide = false,
+} = Astro.props;
+const primary = [
+  { href: url('books/'), label: 'Bible' },
+  { href: url('events/'), label: 'Events' },
+  { href: url('timeline/'), label: 'Timeline' },
+  { href: url('map/'), label: 'Map' },
+  { href: url('sources/'), label: 'Sources' },
+  { href: url('search/'), label: 'Search' },
 ];
+const more = [
+  { href: url('passage/'), label: 'Passage explorer' },
+  { href: url('people/'), label: 'People' },
+  { href: url('kingdoms/'), label: 'Kingdoms' },
+  { href: url('archaeology/'), label: 'Archaeology' },
+  { href: url('science/'), label: 'Scientific research' },
+  { href: url('artifacts/'), label: 'Artifacts' },
+  { href: url('prophecies/'), label: 'Prophecy' },
+  { href: url('crossrefs/'), label: 'Cross-references' },
+  { href: url('progress/'), label: 'Research progress' },
+  { href: url('methodology/'), label: 'Methodology' },
+  { href: url('about/'), label: 'About' },
+];
+const path = Astro.url.pathname;
+const current = (href: string) => (path === href || (href !== url('') && path.startsWith(href)) ? 'page' : undefined);
+const maxw = wide ? 'max-w-6xl' : 'max-w-5xl';
 ---
 <!doctype html>
 <html lang="en">
@@ -20,29 +43,50 @@ const nav = [
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
     <title>{title === 'Biblical History Atlas' ? title : `${title} · Biblical History Atlas`}</title>
   </head>
   <body class="min-h-screen">
     <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 bg-parchment px-3 py-2">Skip to content</a>
-    <header class="border-b border-stone/30">
-      <div class="mx-auto flex max-w-5xl flex-wrap items-baseline justify-between gap-4 px-4 py-5">
-        <a href={`${base}/`} class="font-serif text-xl tracking-tight text-ink no-underline">Biblical History Atlas</a>
-        <nav aria-label="Primary">
-          <ul class="flex flex-wrap gap-x-6 gap-y-2 text-sm text-olive">
-            {nav.map((n) => <li><a class="hover:text-brass" href={n.href}>{n.label}</a></li>)}
+    <header class="border-b border-stone-light/30">
+      <div class={`mx-auto flex ${maxw} flex-wrap items-center justify-between gap-x-6 gap-y-3 px-4 py-4`}>
+        <a href={url('')} class="font-serif text-xl tracking-tight text-ink no-underline">Biblical History Atlas</a>
+        <nav aria-label="Primary" class="text-sm">
+          <ul class="flex flex-wrap items-center gap-x-5 gap-y-2">
+            {primary.map((n) => <li><a class="no-underline hover:underline" aria-current={current(n.href)} href={n.href}>{n.label}</a></li>)}
+            <li>
+              <details class="relative">
+                <summary class="cursor-pointer list-none text-olive hover:underline">More ▾</summary>
+                <ul class="absolute right-0 z-[1000] mt-2 w-56 border border-stone-light/40 bg-ivory p-2 shadow-sm">
+                  {more.map((n) => <li><a class="block px-2 py-1.5 no-underline hover:bg-parchment" aria-current={current(n.href)} href={n.href}>{n.label}</a></li>)}
+                </ul>
+              </details>
+            </li>
           </ul>
         </nav>
       </div>
     </header>
-    <main id="main" class="mx-auto max-w-5xl px-4 py-10">
+    <main id="main" class={`mx-auto ${maxw} px-4 py-10`}>
       <slot />
     </main>
-    <footer class="border-t border-stone/30 text-sm text-stone">
-      <div class="mx-auto max-w-5xl px-4 py-6">
-        Source code MIT · Original research records CC BY 4.0 ·
-        <a class="underline hover:text-brass" href="https://github.com/PeytonLeFleur/biblical-history-database">Repository</a>
+    <footer class="mt-16 border-t border-stone-light/30 text-sm text-stone">
+      <div class={`mx-auto ${maxw} space-y-2 px-4 py-6`}>
+        <p>
+          Scripture text: World English Bible (public domain), unmodified. Research records are machine-assisted and labelled by
+          review status. Programmatic validation is not historical verification.
+        </p>
+        <p>
+          Source code MIT · Original research records CC BY 4.0 · Third-party material retains its own rights ·
+          <a href="https://github.com/PeytonLeFleur/biblical-history-database">Repository</a>
+        </p>
       </div>
     </footer>
   </body>
 </html>
+<style>
+  [aria-current='page'] {
+    color: var(--color-ink);
+    font-weight: 600;
+  }
+  details[open] > summary { color: var(--color-ink); }
+</style>

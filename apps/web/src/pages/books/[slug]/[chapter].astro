@@ -1,0 +1,96 @@
+---
+import Base from '../../../layouts/Base.astro';
+import EmptyState from '../../../components/EmptyState.astro';
+import { CANON, COVERAGE_LABEL, data, eventsTouchingChapter, extractionFor, passageLabel, passageUrl, titleCase, url, versesPerChapter, webChapter } from '../../../lib/data';
+import type { CanonBook } from '@atlas/scripture';
+
+export function getStaticPaths() {
+  return CANON.flatMap((b) => Array.from({ length: b.chapters }, (_, i) => ({ params: { slug: b.slug, chapter: String(i + 1) }, props: { book: b, chapter: i + 1 } })));
+}
+const { book, chapter } = Astro.props as { book: CanonBook; chapter: number };
+const verses = webChapter(book.osis, chapter);
+const canonicalCount = versesPerChapter(book.osis)[chapter - 1] ?? 0;
+const extraction = extractionFor(book.osis, chapter);
+const coverage = new Map(extraction?.verse_coverage.map((v) => [v.ref, v]) ?? []);
+const events = eventsTouchingChapter(book.osis, chapter);
+const candidatesById = new Map(extraction?.candidates.map((c) => [c.id, c]) ?? []);
+const eventForVerse = (v: number) => events.filter((b) => b.event.mentions.some((m) => {
+  const [s, e] = m.passage.split('-');
+  const sv = s!.split('.'); const ev = (e ?? s)!.split('.');
+  return Number(sv[1]) <= chapter && Number(ev[1]) >= chapter && (Number(sv[1]) < chapter || Number(sv[2]) <= v) && (Number(ev[1]) > chapter || Number(ev[2]) >= v);
+}));
+const relsHere = data().events.flatMap((b) => (b.crossrefs?.relationships ?? []).filter((r) => [r.from, r.to].some((x) => x.kind === 'passage' && x.ref.startsWith(`${book.osis}.${chapter}.`))).map((r) => ({ r, b })));
+const prev = chapter > 1 ? chapter - 1 : null;
+const next = chapter < book.chapters ? chapter + 1 : null;
+const romansNote = book.osis === 'Rom' && (chapter === 14 || chapter === 16);
+---
+<Base title={`${book.name} ${chapter}`}>
+  <nav aria-label="Breadcrumb" class="text-sm text-stone"><a href={url('books/')}>Bible</a> / <a href={url(`books/${book.slug}/`)}>{book.name}</a> / Chapter {chapter}</nav>
+  <header class="mt-4 flex flex-wrap items-end justify-between gap-4">
+    <h1 class="font-serif text-3xl sm:text-4xl">{book.name} {chapter}</h1>
+    <nav aria-label="Chapter navigation" class="flex gap-4 text-sm">
+      {prev && <a href={url(`books/${book.slug}/${prev}/`)}>← {book.name} {prev}</a>}
+      {next && <a href={url(`books/${book.slug}/${next}/`)}>{book.name} {next} →</a>}
+    </nav>
+  </header>
+
+  <section class="mt-6 border-l-4 border-stone-light/50 bg-parchment/40 px-4 py-3 text-sm" aria-label="Research coverage">
+    {extraction ? (
+      <p><strong>Rule 01 extraction {extraction.status === 'complete' ? 'complete' : 'in progress'}</strong>: {extraction.verse_coverage.filter((v) => v.status !== 'not_reviewed').length} of {canonicalCount} verses reviewed, {extraction.candidates.length} research candidates identified. Candidates are extraction records. Most have not yet been researched.</p>
+    ) : (
+      <p><strong>Not yet reviewed.</strong> This chapter's verses have not been examined for historical content. The text below is shown for reading only.</p>
+    )}
+  </section>
+
+  {romansNote && <p class="mt-4 text-sm text-stone">Versification note: the WEB places the Romans doxology at 14:24–26. This site follows the standard English numbering (16:25–27), so the WEB text is shown in its WEB position.</p>}
+
+  <div class="mt-8 grid gap-10 lg:grid-cols-[1fr_18rem]">
+    <ol class="space-y-2 font-serif text-lg leading-relaxed" aria-label={`${book.name} ${chapter} text`}>
+      {verses.map((v) => {
+        const ref = `${book.osis}.${chapter}.${v.verse}`;
+        const cov = coverage.get(ref);
+        const evs = eventForVerse(v.verse);
+        return (
+          <li id={`v${v.verse}`} class="verse scroll-mt-6 px-1" data-ref={ref}>
+            <a href={`#v${v.verse}`} class="mr-1 align-super font-sans text-xs text-stone no-underline">{v.verse}</a>
+            {v.text || <span class="font-sans text-sm italic text-stone">[The WEB omits this verse from its main text as a textual variant. The canonical position is retained.]</span>}
+            {(cov || evs.length > 0) && (
+              <span class="mt-1 flex flex-wrap gap-1.5 font-sans text-xs">
+                {cov && <span class="text-stone" title="Verse coverage status (Rule 01)">{COVERAGE_LABEL[cov.status]}</span>}
+                {evs.map((b) => <a href={url(`events/${b.event.slug}/`)} class="chip rounded-sm bg-brass-dark px-1.5 py-0.5 no-underline">Event: {b.event.title}</a>)}
+              </span>
+            )}
+          </li>
+        );
+      })}
+    </ol>
+
+    <aside class="space-y-8 text-sm" aria-label="Research records for this chapter">
+      <section>
+        <h2 class="font-semibold">Research candidates</h2>
+        {!extraction || extraction.candidates.length === 0 ? <p class="mt-2 text-stone">None recorded.</p> : (
+          <ul class="mt-2 space-y-3">
+            {extraction.candidates.map((c) => {
+              const ev = c.event_id ? data().events.find((b) => b.event.id === c.event_id) : null;
+              const parent = c.parent_candidate_id ? candidatesById.get(c.parent_candidate_id) : null;
+              return (
+                <li class="border-l-2 border-parchment pl-3">
+                  <a href={passageUrl(c.passage)}>{passageLabel(c.passage)}</a>: <strong>{c.title}</strong>
+                  <span class="block text-xs text-stone">{titleCase(c.record_type)} · {titleCase(c.literary_classification)} · {titleCase(c.narrative_mode)} · priority {c.research_priority}{parent ? ` · within “${parent.title}”` : ''}</span>
+                  {ev ? <a class="text-xs" href={url(`events/${ev.event.slug}/`)}>Researched dossier →</a> : <span class="block text-xs text-stone">Extraction only. Not yet researched.</span>}
+                </li>
+              );
+            })}
+          </ul>
+        )}
+      </section>
+      <section>
+        <h2 class="font-semibold">Cross-references touching this chapter</h2>
+        {relsHere.length === 0 ? <p class="mt-2 text-stone">None recorded.</p> : (
+          <ul class="mt-2 space-y-2">{relsHere.map(({ r, b }) => <li>{titleCase(r.type)} — <a href={url(`events/${b.event.slug}/`)}>{b.event.title}</a></li>)}</ul>
+        )}
+      </section>
+    </aside>
+  </div>
+  <p class="mt-10 text-xs text-stone">Scripture quotations: World English Bible (public domain), eBible.org engwebp edition, unmodified.</p>
+</Base>

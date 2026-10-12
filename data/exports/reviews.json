@@ -1,0 +1,15 @@
+[
+ {
+  "id": "rev_01M4RPJVYRVA6AS1TBWZWZQYZQ",
+  "record_kind": "claim",
+  "record_id": "clm_01M4RPJVYP7H3K7FZ02EJGW3Y5",
+  "record_revision": 1,
+  "reason": "Disputed classification of the single-event (750 BC, M~8) reconstruction",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-12T18:39:15.928Z",
+  "decisions": []
+ }
+]

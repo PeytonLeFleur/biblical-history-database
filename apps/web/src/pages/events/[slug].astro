@@ -1,0 +1,427 @@
+---
+import Base from '../../layouts/Base.astro';
+import Badge from '../../components/Badge.astro';
+import Cite from '../../components/Cite.astro';
+import ClassificationBadge from '../../components/ClassificationBadge.astro';
+import EmptyState from '../../components/EmptyState.astro';
+import ReviewerBadge from '../../components/ReviewerBadge.astro';
+import VerificationBadge from '../../components/VerificationBadge.astro';
+import IntervalBar from '../../components/IntervalBar.astro';
+import {
+  LAYER_LABEL,
+  PUBLICATION_LABEL,
+  SOURCE_GROUPS,
+  contemporaries,
+  data,
+  entityById,
+  intervalsFor,
+  isDated,
+  modelName,
+  nameOf,
+  openReviewsFor,
+  passageLabel,
+  passageText,
+  passageUrl,
+  sourceById,
+  sourcesCitedBy,
+  titleCase,
+  url,
+  type EventBundle,
+} from '../../lib/data';
+import { formatInterval } from '@atlas/shared';
+
+export function getStaticPaths() {
+  return data().events.map((b) => ({ params: { slug: b.event.slug }, props: { bundle: b } }));
+}
+
+const { bundle } = Astro.props as { bundle: EventBundle };
+const { event: ev, context: ctx, evidence: evd, crossrefs: xr } = bundle;
+const reviews = openReviewsFor(bundle);
+const claimsUnderReview = new Set(reviews.filter((r) => r.record_kind === 'claim').map((r) => r.record_id));
+const chronology = intervalsFor(ev.id).filter((x) => x.model !== 'model_independent');
+const undatedModels = intervalsFor(ev.id).filter((x) => !isDated(x.interval));
+const evidenceById = new Map((evd?.evidence ?? []).map((e) => [e.id, e]));
+
+// Citation numbering follows display order.
+const order: string[] = [];
+const add = (ids: (string | null | undefined)[]) => ids.forEach((id) => id && !order.includes(id) && sourceById(id) && order.push(id));
+add(ctx?.setting.citations ?? []);
+ctx?.rulers.forEach((r) => add(r.citations));
+chronology.forEach((c) => [...c.interval.derivation.earliest, ...c.interval.derivation.latest].forEach((s) => add(s.citations)));
+ctx?.locations.forEach((l) => {
+  const p = entityById(l.location_id);
+  if (p?.kind === 'place') p.hypotheses.forEach((h) => add([h.geom_source_id]));
+});
+evd?.claims.forEach((c) => [...c.supporting_evidence, ...c.counterevidence, ...c.contextual_evidence].forEach((id) => add([evidenceById.get(id)?.source_id])));
+ctx?.competing_reconstructions.forEach((r) => add(r.citations));
+xr?.relationships.forEach((r) => add(r.provenance.citations));
+ctx?.commentary.forEach((c) => add([c.source_id]));
+add([...sourcesCitedBy(bundle)]);
+
+const roleOf = (claimId: string, evidenceId: string) => {
+  const c = evd?.claims.find((x) => x.id === claimId);
+  if (!c) return '';
+  if (c.supporting_evidence.includes(evidenceId)) return 'Supporting';
+  if (c.counterevidence.includes(evidenceId)) return 'Challenging';
+  return 'Context';
+};
+const groups = SOURCE_GROUPS.map((g) => ({
+  ...g,
+  items: (evd?.evidence ?? []).filter((e) => g.types.includes(sourceById(e.source_id)?.source_type ?? '')),
+}));
+const prophetic = (xr?.relationships ?? []).filter((r) => r.type === 'prophecy_reference' || r.type === 'proposed_fulfillment');
+const related = (xr?.relationships ?? []).filter((r) => !prophetic.includes(r));
+const endLabel = (e: { kind: string; ref?: string; id?: string }) => (e.kind === 'passage' ? passageLabel(e.ref!) : e.id === ev.id ? 'this event' : nameOf(e.id!));
+const endHref = (e: { kind: string; ref?: string; id?: string }) => {
+  if (e.kind === 'passage') return passageUrl(e.ref!);
+  if (e.kind === 'event' && e.id !== ev.id) {
+    const other = data().events.find((b) => b.event.id === e.id);
+    return other ? url(`events/${other.event.slug}/`) : null;
+  }
+  return null;
+};
+const disputed = (evd?.claims ?? []).filter((c) => c.classification === 'disputed');
+const stageNames: Record<string, string> = {
+  scripture_extraction: '1. Scripture extraction', historical_reference: '', historical_reconstruction: '2. Historical reconstruction',
+  external_evidence: '3. External evidence', cross_referencing: '4. Cross-referencing', publication_validation: '5. Publication & validation',
+};
+const fmtStep = (s: { label: string; passage: string | null }) => s;
+---
+<Base title={ev.title} description={ev.summary} wide>
+  <nav aria-label="Breadcrumb" class="text-sm text-stone"><a href={url('events/')}>Events</a> / {ev.title}</nav>
+
+  <header class="mt-4">
+    <p class="text-xs uppercase tracking-widest text-brass-dark">Historical event dossier · {ev.categories.map(titleCase).join(', ')}</p>
+    <h1 class="mt-2 font-serif text-3xl leading-tight sm:text-4xl">{ev.title}</h1>
+    <div class="mt-4 flex flex-wrap items-center gap-2 text-sm">
+      <Badge tone={ev.publication_level === 'human_reviewed' ? 'olive' : 'neutral'}>{PUBLICATION_LABEL[ev.publication_level]}</Badge>
+      <Badge tone="outline">Revision {ev.revision}</Badge>
+      <Badge tone="outline">Last reviewed: {ev.last_reviewed_at ?? 'not reviewed'}</Badge>
+    </div>
+  </header>
+
+  <section aria-label="Review status" class="mt-6 border-l-4 border-brass bg-parchment/60 px-4 py-3 text-sm" id="review-status">
+    {reviews.length > 0 ? (
+      <p>
+        <strong>Human review pending.</strong> {reviews.length} item{reviews.length > 1 ? 's' : ''} from this dossier {reviews.length > 1 ? 'are' : 'is'} awaiting the project owner's review:
+        {reviews.map((r) => <span> “{r.reason}” (queued {r.created_at.slice(0, 10)}, status <em>{r.status}</em>).</span>)}
+        {' '}All classifications on this page are machine-proposed unless marked otherwise. Review happens offline. This site has no review controls.
+      </p>
+    ) : (
+      <p>No review items are open for this dossier. Classifications remain machine-proposed unless marked as approved by the owner.</p>
+    )}
+  </section>
+
+  <div class="mt-10 grid gap-12 lg:grid-cols-[1fr_16rem]">
+    <article class="min-w-0">
+      <section aria-labelledby="refs">
+        <h2 id="refs" class="font-serif text-2xl">Biblical references</h2>
+        <p class="mt-2 text-sm text-stone">Text: World English Bible (public domain). The ESV and NKJV are the preferred study translations and are referenced, not reproduced.</p>
+        <div class="mt-4 grid gap-4 md:grid-cols-2">
+          {ev.mentions.map((m) => (
+            <figure class="border border-stone-light/40 bg-ivory p-4">
+              <figcaption class="flex items-baseline justify-between gap-2 text-sm">
+                <a class="font-semibold" href={passageUrl(m.passage)}>{passageLabel(m.passage)}</a>
+                <span class="text-stone">{titleCase(m.mention_type)}</span>
+              </figcaption>
+              <blockquote class="mt-2 font-serif leading-relaxed">
+                {passageText(m.passage).map((v) => <span><sup class="text-stone">{v.verse}</sup> {v.text} </span>)}
+              </blockquote>
+              {m.notes && <p class="mt-2 text-sm text-stone">{m.notes}</p>}
+            </figure>
+          ))}
+        </div>
+        {xr?.relationships.filter((r) => r.type === 'direct_reference').map((r) => (
+          <p class="mt-3 text-sm"><strong>Connection:</strong> {r.rationale} <span class="text-stone">(confidence: {r.confidence})</span></p>
+        ))}
+      </section>
+
+      <section aria-labelledby="account" class="mt-12">
+        <h2 id="account" class="font-serif text-2xl">Biblical account</h2>
+        <p class="mt-1 text-xs uppercase tracking-wide text-stone">Layer: {LAYER_LABEL.text}</p>
+        <p class="mt-3 font-serif text-lg leading-relaxed">{ctx?.text_summary.body ?? ev.summary}</p>
+      </section>
+
+      {ctx && (
+        <section aria-labelledby="overview" class="mt-12">
+          <h2 id="overview" class="font-serif text-2xl">Historical overview</h2>
+          <p class="mt-1 text-xs uppercase tracking-wide text-stone">Layer: {LAYER_LABEL.reconstruction} · Period: {ctx.setting.period}</p>
+          <p class="mt-3 leading-relaxed">{ctx.setting.body}<Cite ids={ctx.setting.citations} order={order} /></p>
+          {ctx.rulers.length > 0 && (
+            <ul class="mt-4 space-y-1 text-sm">
+              {ctx.rulers.map((r) => {
+                const p = entityById(r.person_id);
+                return <li><a href={url(`people/${p && 'slug' in p ? p.slug : ''}/`)}>{nameOf(r.person_id)}</a>: {r.role}<Cite ids={r.citations} order={order} /></li>;
+              })}
+            </ul>
+          )}
+          {ctx.kingdoms.length > 0 && (
+            <p class="mt-3 text-sm">Kingdoms: {ctx.kingdoms.map((k, i) => {
+              const e = entityById(k);
+              return <>{i > 0 && ', '}<a href={url(`kingdoms/${e && 'slug' in e ? e.slug : ''}/`)}>{nameOf(k)}</a></>;
+            })}</p>
+          )}
+        </section>
+      )}
+
+      <section aria-labelledby="chronology" class="mt-12" id="date">
+        <h2 id="chronology" class="font-serif text-2xl">Date and chronology derivation</h2>
+        <p class="mt-2 text-sm text-stone">
+          Ranges are computed by the project's deterministic chronology engine from the biblical statements and each model's reign anchors.
+          They are reconstructions, not independent dates.
+        </p>
+        {chronology.filter((c) => isDated(c.interval)).length === 0 && (
+          <div class="mt-4"><EmptyState title="Not datable yet">No chronology model currently places this event on an absolute timeline.</EmptyState></div>
+        )}
+        <div class="mt-4 space-y-6">
+          {chronology.filter((c) => isDated(c.interval)).map((c) => (
+            <div class="border border-stone-light/40 p-4" data-testid="chronology-model">
+              <div class="flex flex-wrap items-baseline justify-between gap-2">
+                <p class="font-serif text-xl">{formatInterval(c.interval.years)}</p>
+                <p class="text-sm text-stone">{modelName(c.model)} · precision: {c.interval.precision}{c.result.feasible ? '' : ' · INFEASIBLE'}</p>
+              </div>
+              <IntervalBar earliest={c.interval.years.earliest} latest={c.interval.years.latest} />
+              <details class="mt-3 text-sm">
+                <summary class="cursor-pointer text-olive">How this range was derived</summary>
+                <div class="mt-3 grid gap-4 md:grid-cols-2">
+                  {(['earliest', 'latest'] as const).map((k) => (
+                    <div>
+                      <p class="font-semibold">{k === 'earliest' ? 'Earliest bound' : 'Latest bound'}</p>
+                      <ol class="mt-1 list-decimal space-y-1 pl-5">
+                        {c.interval.derivation[k].map((s) => (
+                          <li>
+                            {fmtStep(s).label}
+                            {s.passage && <> (<a href={passageUrl(s.passage)}>{passageLabel(s.passage)}</a>)</>}
+                            <Cite ids={s.citations} order={order} />
+                            {s.assumptions.length > 0 && <span class="block text-stone">Assumption: {s.assumptions.join(' ')}</span>}
+                          </li>
+                        ))}
+                      </ol>
+                    </div>
+                  ))}
+                </div>
+              </details>
+            </div>
+          ))}
+        </div>
+        {undatedModels.length > 0 && (
+          <p class="mt-4 text-sm text-stone">Without a chronology model, this event cannot be placed on an absolute timeline: the texts date it only relative to reigns.</p>
+        )}
+        <p class="mt-4 text-sm"><a href={url(`timeline/?focus=${ev.id}`)}>View on the timeline →</a></p>
+        {chronology.filter((c) => isDated(c.interval)).map((c) => {
+          const cs = contemporaries(ev.id, c.model);
+          return cs.length > 0 && (
+            <div class="mt-4 text-sm">
+              <p class="font-semibold">What else was happening? <span class="font-normal text-stone">({modelName(c.model)})</span></p>
+              <ul class="mt-1 list-disc pl-5">{cs.map((x) => <li>{x.name}: {formatInterval({ earliest: x.interval.start.earliest, latest: x.interval.end.latest ?? x.interval.start.latest })}</li>)}</ul>
+            </div>
+          );
+        })}
+      </section>
+
+      {ctx && ctx.locations.length > 0 && (
+        <section aria-labelledby="geo" class="mt-12">
+          <h2 id="geo" class="font-serif text-2xl">Ancient and modern geography</h2>
+          <table class="data mt-4">
+            <thead><tr><th scope="col">Place</th><th scope="col">Connection to this event</th><th scope="col">Location identification</th></tr></thead>
+            <tbody>
+              {ctx.locations.map((l) => {
+                const p = entityById(l.location_id);
+                return (
+                  <tr>
+                    <td><strong>{nameOf(l.location_id)}</strong>{p?.kind === 'place' && p.modern_name && <span class="block text-stone">{p.modern_name}</span>}</td>
+                    <td>{l.role}<span class="block text-stone">Association: {l.confidence === 'certain' || l.confidence === 'probable' ? l.confidence : `proposed — ${l.confidence}`}</span></td>
+                    <td>{p?.kind === 'place' && p.hypotheses.map((h) => <span class="block">{h.label}: {h.confidence}<Cite ids={h.geom_source_id ? [h.geom_source_id] : []} order={order} /></span>)}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+          <p class="mt-3 text-sm"><a href={url(`map/?event=${ev.id}`)}>View on the map →</a></p>
+        </section>
+      )}
+
+      <section aria-labelledby="claims" class="mt-12">
+        <h2 id="claims" class="font-serif text-2xl">Claims, evidence and classifications</h2>
+        <p class="mt-2 text-sm text-stone">Each claim is classified on its own. A classification describes the evidence for that specific claim, not for the event as a whole.</p>
+        {!evd || evd.claims.length === 0 ? <div class="mt-4"><EmptyState title="No claims recorded yet">External-evidence research has not produced claim records for this event.</EmptyState></div> : null}
+        <div class="mt-6 space-y-8">
+          {evd?.claims.map((c) => (
+            <article class="border-t-2 border-olive/60 pt-4" id={c.id} data-testid="claim">
+              <h3 class="font-serif text-xl leading-snug">{c.statement}</h3>
+              <div class="mt-2 flex flex-wrap items-center gap-2 text-sm">
+                <ClassificationBadge value={c.classification} />
+                <ReviewerBadge status={c.reviewer_status} />
+                <Badge tone="outline">{LAYER_LABEL[c.layer]}</Badge>
+                {claimsUnderReview.has(c.id) && <Badge tone="brass">In owner review queue</Badge>}
+              </div>
+              <p class="mt-3 leading-relaxed">{c.reasoning}</p>
+              {[['Supporting', c.supporting_evidence], ['Challenging', c.counterevidence], ['Context', c.contextual_evidence]].map(([label, ids]) =>
+                (ids as string[]).length > 0 && (
+                  <div class="mt-3">
+                    <p class="text-sm font-semibold">{label as string}</p>
+                    <ul class="mt-1 space-y-2 text-sm">
+                      {(ids as string[]).map((id) => {
+                        const e = evidenceById.get(id);
+                        const s = e ? sourceById(e.source_id) : undefined;
+                        return e && (
+                          <li class="border-l-2 border-parchment pl-3">
+                            {e.finding}<Cite ids={[e.source_id]} order={order} />
+                            <span class="mt-1 flex flex-wrap items-center gap-1.5 text-xs text-stone">
+                              <span>Strength: {e.strength}</span>·<span>{e.locator}</span>·{s && <VerificationBadge level={s.verification_level} />}
+                            </span>
+                            {e.limitations.length > 0 && <span class="block text-xs text-stone">Limitations: {e.limitations.join(' ')}</span>}
+                          </li>
+                        );
+                      })}
+                    </ul>
+                  </div>
+                ),
+              )}
+              {c.limitations.length > 0 && <p class="mt-3 text-sm"><span class="font-semibold">Limitations of this classification:</span> {c.limitations.join(' ')}</p>}
+              <p class="mt-2 text-xs text-stone">Research date {c.research_date}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section aria-labelledby="by-type" class="mt-12">
+        <h2 id="by-type" class="font-serif text-2xl">Evidence by type</h2>
+        <p class="mt-2 text-sm text-stone">The same evidence regrouped by kind of source. Each item names the claims it bears on.</p>
+        {groups.map((g) => (
+          <div class="mt-6">
+            <h3 class="font-semibold">{g.label}</h3>
+            {g.items.length === 0 ? (
+              <p class="mt-1 text-sm text-stone">None recorded for this event.</p>
+            ) : (
+              <ul class="mt-2 space-y-2 text-sm">
+                {g.items.map((e) => (
+                  <li>
+                    {e.finding}<Cite ids={[e.source_id]} order={order} />
+                    <span class="block text-xs text-stone">
+                      Bears on: {e.claim_ids.map((cid, i) => {
+                        const c = evd?.claims.find((x) => x.id === cid);
+                        return <>{i > 0 && '; '}<a href={`#${cid}`}>{roleOf(cid, e.id).toLowerCase()} — “{c?.statement.slice(0, 70)}{(c?.statement.length ?? 0) > 70 ? '…' : ''}”</a></>;
+                      })}
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+        ))}
+      </section>
+
+      {ctx && ctx.competing_reconstructions.length > 0 && (
+        <section aria-labelledby="disputes" class="mt-12">
+          <h2 id="disputes" class="font-serif text-2xl">Historical disputes and competing reconstructions</h2>
+          {disputed.length > 0 && <p class="mt-2 text-sm">Disputed claims: {disputed.map((c) => <a href={`#${c.id}`}>{c.statement}</a>)}</p>}
+          <ul class="mt-4 space-y-4">
+            {ctx.competing_reconstructions.map((r) => (
+              <li>
+                <p class="font-semibold">{r.label}</p>
+                <p class="text-sm text-stone">{r.proponents.join('; ')}</p>
+                <p class="mt-1 text-sm leading-relaxed">{r.summary}<Cite ids={r.citations} order={order} /></p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      <section aria-labelledby="related" class="mt-12">
+        <h2 id="related" class="font-serif text-2xl">Related passages and events</h2>
+        {related.length === 0 ? <p class="mt-2 text-sm text-stone">None recorded.</p> : (
+          <table class="data mt-4">
+            <thead><tr><th scope="col">From</th><th scope="col">Relationship</th><th scope="col">To</th><th scope="col">Basis</th></tr></thead>
+            <tbody>
+              {related.map((r) => (
+                <tr>
+                  <td>{endHref(r.from) ? <a href={endHref(r.from)!}>{endLabel(r.from)}</a> : endLabel(r.from)}</td>
+                  <td>{titleCase(r.type)}<span class="block text-xs text-stone">{r.confidence} · {LAYER_LABEL[r.layer]}</span></td>
+                  <td>{endHref(r.to) ? <a href={endHref(r.to)!}>{endLabel(r.to)}</a> : endLabel(r.to)}</td>
+                  <td>{r.rationale}<Cite ids={r.provenance.citations} order={order} /></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )}
+        <h3 class="mt-8 font-semibold">Prophetic relationships</h3>
+        {prophetic.length === 0 ? <p class="mt-1 text-sm text-stone">No prophecy or proposed-fulfillment relationships have been recorded for this event.</p> : null}
+      </section>
+
+      {ctx && ctx.commentary.length > 0 && (
+        <section aria-labelledby="commentary" class="mt-12">
+          <h2 id="commentary" class="font-serif text-2xl">Commentary references</h2>
+          <p class="mt-1 text-xs uppercase tracking-wide text-stone">Layer: {LAYER_LABEL.interpretation}. This is commentary, not historical evidence.</p>
+          {ctx.commentary.map((c) => <p class="mt-3 leading-relaxed">{c.paraphrase}<Cite ids={[c.source_id]} order={order} /></p>)}
+        </section>
+      )}
+
+      <section aria-labelledby="gaps" class="mt-12">
+        <h2 id="gaps" class="font-serif text-2xl">Unanswered questions and research gaps</h2>
+        <ul class="mt-3 list-disc space-y-1 pl-5 text-sm">
+          {[...(evd?.research_gaps ?? []), ...(ctx?.open_questions ?? [])].map((g) => <li>{g}</li>)}
+        </ul>
+      </section>
+
+      {evd && evd.search_log.length > 0 && (
+        <section aria-labelledby="process" class="mt-12">
+          <h2 id="process" class="font-serif text-2xl">Research process</h2>
+          <details class="mt-3 text-sm">
+            <summary class="cursor-pointer text-olive">{evd.search_log.length} logged searches</summary>
+            <table class="data mt-3">
+              <thead><tr><th scope="col">Date</th><th scope="col">Query</th><th scope="col">Where</th><th scope="col">Useful</th></tr></thead>
+              <tbody>{evd.search_log.map((q) => <tr><td>{q.date}</td><td>{q.query}{q.notes && <span class="block text-xs text-stone">{q.notes}</span>}</td><td>{q.engine}</td><td>{q.useful_results}</td></tr>)}</tbody>
+            </table>
+          </details>
+        </section>
+      )}
+
+      <section aria-labelledby="sources" class="mt-12">
+        <h2 id="sources" class="font-serif text-2xl">Sources</h2>
+        <ol class="mt-4 space-y-3 text-sm">
+          {order.map((id, i) => {
+            const s = sourceById(id)!;
+            return (
+              <li id={`ref-${i + 1}`} class="grid grid-cols-[2rem_1fr] gap-1">
+                <span class="text-stone">{i + 1}.</span>
+                <div>
+                  <span>{s.authors.join(', ')}{s.authors.length ? '. ' : ''}<em>{s.title}</em>. {[s.journal, s.publisher, s.published_date].filter(Boolean).join('. ')}.</span>
+                  {s.doi && <span> doi:<a href={`https://doi.org/${s.doi}`}>{s.doi}</a></span>}
+                  {!s.doi && s.url && <span> <a href={s.url}>{new URL(s.url).hostname}</a></span>}
+                  <span class="mt-1 flex flex-wrap items-center gap-1.5"><VerificationBadge level={s.verification_level} /><Badge tone="outline">{titleCase(s.source_type)}</Badge></span>
+                  {s.access_notes && <span class="mt-1 block text-xs text-stone">{s.access_notes}</span>}
+                  <a class="text-xs" href={url(`sources/#${s.id}`)}>Verification log</a>
+                </div>
+              </li>
+            );
+          })}
+        </ol>
+      </section>
+    </article>
+
+    <aside class="text-sm lg:sticky lg:top-6 lg:self-start" aria-label="Research status">
+      <h2 class="font-semibold">Research status</h2>
+      <dl class="mt-2 space-y-2">
+        {Object.entries(ev.stages).map(([k, st]) => (
+          <div class="flex justify-between gap-2 border-b border-parchment pb-1">
+            <dt>{stageNames[k] ?? k}</dt><dd class="text-stone">{titleCase(st.status)}</dd>
+          </div>
+        ))}
+      </dl>
+      <p class="mt-4 text-stone">Status: {titleCase(ev.research_status)}. {PUBLICATION_LABEL[ev.publication_level]}.</p>
+      <h2 class="mt-6 font-semibold">On this page</h2>
+      <ul class="mt-2 space-y-1">
+        <li><a href="#refs">Biblical references</a></li>
+        <li><a href="#overview">Historical overview</a></li>
+        <li><a href="#date">Chronology</a></li>
+        <li><a href="#geo">Geography</a></li>
+        <li><a href="#claims">Claims & evidence</a></li>
+        <li><a href="#disputes">Disputes</a></li>
+        <li><a href="#related">Related</a></li>
+        <li><a href="#gaps">Open questions</a></li>
+        <li><a href="#sources">Sources</a></li>
+      </ul>
+    </aside>
+  </div>
+</Base>

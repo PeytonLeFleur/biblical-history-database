@@ -1,0 +1,45 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { CANON, data, passageLabel, passageUrl } from '../lib/data';
+const refs = new Map<string, string[]>();
+for (const b of data().events) {
+  for (const m of b.event.mentions) refs.set(m.passage, [...(refs.get(m.passage) ?? []), `Mentioned in “${b.event.title}”`]);
+  for (const r of b.crossrefs?.relationships ?? []) for (const e of [r.from, r.to]) if (e.kind === 'passage') refs.set(e.ref, [...(refs.get(e.ref) ?? []), `${r.type.replaceAll('_', ' ')} (${b.event.title})`]);
+}
+const books = CANON.map((b) => ({ osis: b.osis, slug: b.slug, name: b.name, chapters: b.chapters }));
+---
+<Base title="Passage explorer">
+  <PageHeader eyebrow="Bible explorer" title="Passage explorer">
+    Enter a reference such as <em>Amos 1:1</em>, <em>Zech 14:5</em> or <em>Daniel 5</em> to open the passage with its research records.
+  </PageHeader>
+  <form id="passage-form" class="flex max-w-xl gap-2" role="search">
+    <label for="passage-input" class="sr-only">Bible reference</label>
+    <input id="passage-input" name="ref" type="text" placeholder="e.g. Amos 1:1" class="min-w-0 flex-1 border border-stone-light bg-ivory px-3 py-2" autocomplete="off" />
+    <button class="bg-olive px-4 py-2 text-ivory" type="submit">Open</button>
+  </form>
+  <p id="passage-error" class="mt-2 text-sm text-rust" role="alert"></p>
+
+  <section class="mt-12" aria-labelledby="with-research">
+    <h2 id="with-research" class="font-serif text-2xl">Passages with research records</h2>
+    <ul class="mt-4 space-y-2">
+      {[...refs.entries()].map(([ref, notes]) => <li><a href={passageUrl(ref)}>{passageLabel(ref)}</a> <span class="text-sm text-stone">— {[...new Set(notes)].join('; ')}</span></li>)}
+    </ul>
+  </section>
+  <script type="application/json" id="books-data" set:html={JSON.stringify(books)} />
+  <script>
+    import { resolveReference } from '../lib/refs';
+    const books = JSON.parse(document.getElementById('books-data')!.textContent!);
+    const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+    const form = document.getElementById('passage-form') as HTMLFormElement;
+    const err = document.getElementById('passage-error')!;
+    const params = new URLSearchParams(location.search);
+    const go = (q: string) => {
+      const r = resolveReference(q, books);
+      if (!r) { err.textContent = `“${q}” is not a recognised Bible reference.`; return; }
+      location.href = `${base}/books/${r.slug}/${r.chapter}/${r.verse ? `#v${r.verse}` : ''}`;
+    };
+    form.addEventListener('submit', (e) => { e.preventDefault(); go((form.elements.namedItem('ref') as HTMLInputElement).value); });
+    if (params.get('ref')) go(params.get('ref')!);
+  </script>
+</Base>

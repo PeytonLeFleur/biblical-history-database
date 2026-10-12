@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import { CANON, data, url } from '../../lib/data';
+const cov = new Map(data().coverage.map((c) => [c.osis, c]));
+const groups = [
+  { label: 'Old Testament', books: CANON.filter((b) => b.testament === 'OT') },
+  { label: 'New Testament', books: CANON.filter((b) => b.testament === 'NT') },
+];
+---
+<Base title="Books of the Bible">
+  <PageHeader eyebrow="Bible explorer" title="The 66 books">
+    Protestant canon in standard English order. The figure beside each book is the number of verses reviewed for historical
+    content (Rule 01). Reviewing a verse is not the same as researching the events in it.
+  </PageHeader>
+  {groups.map((g) => (
+    <section class="mt-10" aria-label={g.label}>
+      <h2 class="rule pt-3 font-serif text-2xl">{g.label}</h2>
+      <ol class="mt-4 grid grid-cols-1 gap-x-8 sm:grid-cols-2 md:grid-cols-3">
+        {g.books.map((b) => {
+          const c = cov.get(b.osis);
+          return (
+            <li class="flex items-baseline justify-between gap-2 border-b border-parchment py-1.5">
+              <a href={url(`books/${b.slug}/`)}>{b.name}</a>
+              <span class="text-xs tabular-nums text-stone" title="Verses reviewed / total verses">{c && c.verses_reviewed > 0 ? `${c.verses_reviewed}/${c.verses} reviewed` : `${b.chapters} ch.`}</span>
+            </li>
+          );
+        })}
+      </ol>
+    </section>
+  ))}
+</Base>

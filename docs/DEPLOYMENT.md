@@ -7,7 +7,9 @@
 - Only static files and eligible exports are deployed. No database, API or review controls.
 
 ## CI
-`.github/workflows/ci.yml` runs on every push and pull request: install (frozen lockfile) → lint → typecheck → unit tests → DB tests against a `postgis/postgis:16-3.4` service → web build.
+`.github/workflows/ci.yml` runs on every push and pull request. Two jobs:
+- **check:** install (frozen lockfile) → lint → typecheck → unit tests → research and chronology validation → DB tests and research import against a `postgis/postgis:16-3.4` service → build.
+- **e2e:** build the site from the export → install Chromium → Playwright route, integrity, mobile and axe tests.
 
 ## Local services
 ```bash

@@ -1,0 +1,21 @@
+---
+/** Small uncertainty bar: the shaded span is the whole computed window; no single date is implied. */
+import { formatYear } from '@atlas/shared';
+interface Props { earliest: number | null; latest: number | null; domain?: [number, number] }
+const { earliest, latest } = Astro.props;
+const lo = earliest ?? latest ?? 0;
+const hi = (latest ?? earliest ?? 0) + 1;
+const pad = Math.max(10, Math.round((hi - lo) * 0.5));
+const [d0, d1] = Astro.props.domain ?? [lo - pad, hi + pad];
+const x = (y: number) => ((y - d0) / (d1 - d0)) * 100;
+---
+<svg viewBox="0 0 100 14" preserveAspectRatio="none" class="mt-3 h-4 w-full" role="img" aria-label={`Uncertainty window ${earliest === null ? '?' : formatYear(earliest)} to ${latest === null ? '?' : formatYear(latest)}`}>
+  <defs>
+    <pattern id="hatch" width="2" height="2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="1" height="2" fill="#a27b45" />
+    </pattern>
+  </defs>
+  <line x1="0" y1="7" x2="100" y2="7" stroke="#77766e" stroke-width="0.3" />
+  <rect x={x(lo)} y="2" width={Math.max(0.6, x(hi) - x(lo))} height="10" fill="url(#hatch)" stroke="#7a5a2f" stroke-width="0.3" />
+</svg>
+<div class="flex justify-between text-xs text-stone" aria-hidden="true"><span>{formatYear(d0)}</span><span>{formatYear(d1)}</span></div>

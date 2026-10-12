@@ -1,0 +1,16 @@
+---
+type Tone = 'neutral' | 'olive' | 'brass' | 'rust' | 'outline';
+interface Props {
+  tone?: Tone;
+  title?: string;
+}
+const { tone = 'neutral', title } = Astro.props;
+const cls: Record<Tone, string> = {
+  neutral: 'bg-parchment text-ink',
+  olive: 'bg-olive text-ivory',
+  brass: 'bg-brass-dark text-ivory',
+  rust: 'bg-rust text-ivory',
+  outline: 'border border-stone text-ink',
+};
+---
+<span class={`inline-block whitespace-nowrap rounded-sm px-1.5 py-0.5 text-xs font-medium ${cls[tone]}`} title={title}><slot /></span>

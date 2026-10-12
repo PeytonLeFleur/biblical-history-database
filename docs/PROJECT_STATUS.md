@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 3 (Research and chronology engines + Amos earthquake pilot): complete · next is Milestone 4 (public research website)
+**Current milestone:** 4 (Public research website): complete · next is Milestone 5 (Daniel research pilot)
 **Last updated:** 2026-10-12
 
 ## Milestone 1: Repository and foundation ✅
@@ -45,8 +45,43 @@
 - "Amos's prophetic words (dated by Amos 1:1)" is queued for its own research (stages 2–5 not started).
 
 
+## Milestone 4: Public research website ✅
+Live at https://peytonlefleur.github.io/biblical-history-database/. It is built only from the validated research export and the WEB text.
+
+**Pages (SPEC 15.1):**
+- Home, the 66-book index, 66 book overviews, 1,189 chapter pages (WEB text with per-verse coverage, extraction candidates and event links), and a passage explorer.
+- Event dossiers and an events index.
+- Timeline and map.
+- People, person, kingdom and kingdom-detail pages.
+- Artifacts (empty state), archaeology, scientific research, sources/bibliography (with verification logs), prophecy explorer, cross-reference network, search, methodology, progress, about and 404.
+
+**Event dossier (SPEC 15.2):**
+- Amos 1:1 and Zechariah 14:5 are shown with their WEB text, plus the typed connection between them.
+- Each claim carries its own classification, reviewer status and evidence. The evidence lists strength, locator, limitations and the source's verification level.
+- Evidence is regrouped by type (archaeology, science, ancient documents, news, reference works) with links back to the claims.
+- Computed chronology per model with a full derivation (reign anchors → textual constraints → assumptions), and a "What else was happening?" list.
+- Geography separates identification from association. Also shown: disputes, competing reconstructions, commentary (labelled as interpretation), open questions, the logged research process and the numbered bibliography.
+- **The pending owner review is shown accurately** (status *open*). The site has no review controls.
+
+**Timeline:**
+- A React island plotting the engine's exported windows. Reign bars show their uncertain starts and ends, and event windows are hatched.
+- It has a model switcher (Thiele, Albright, model-independent → "nothing can be placed"), zoom and pan, a click-through derivation panel and a table alternative.
+- Lanes for unresearched civilizations are labelled "Not yet researched".
+
+**Map:**
+- MapLibre GL 6 on OpenFreeMap.
+- Verified identifications (filled) vs proposed (hollow).
+- Per-place labels saying whether the event association is probable or proposed.
+- An event filter, a "verified only" toggle, and a server-rendered table fallback.
+
+**Other features:**
+- Search covers events, people with aliases, places, kingdoms, sources and extraction candidates, plus Bible-reference resolution. Empty results get an honest message.
+- The export now carries readable derivation steps, reign end windows, extraction files and a read-only review summary. Unpublished subjects are filtered out of the exported chronology.
+
+**Engine fix found during M4:** reign anchors (`rgn_…#start/#end`) were being dropped from derivation chains, because the filter for internal edges matched any `#`. The filter now matches only internal markers. Events are now instantaneous unless `is_period` is set.
+
 ## Test results (local, 2026-10-12)
-lint ✓ · typecheck ✓ · tests **85/85** ✓ (unit + DB integrity + importer dry run + API) · `research:validate` ✓ (1 warning: City of David report not traced to an original publication) · `chronology:validate` ✓ · web build ✓
+lint ✓ · typecheck ✓ · Vitest **88/88** ✓ (unit + DB + importer + API + web lib) · Playwright **60/60** ✓ (25 routes, dossier integrity, timeline, map, search, passage explorer, 7 mobile overflow checks, 8 axe pages with no serious or critical violations) · `research:validate` ✓ · `chronology:validate` ✓ · site build: 1,280 pages
 
 ## Research progress
 - Verse coverage: **15 / 31,102** reviewed (Amos 1). Chapters extracted: 1 (Amos 1).
@@ -54,8 +89,16 @@ lint ✓ · typecheck ✓ · tests **85/85** ✓ (unit + DB integrity + importer
 - No book is "researched". Human review: 0 records.
 
 ## Incomplete / not started
-- Milestone 4 (website): design system, explorers, dossier pages, MapLibre map, timeline, search, Pages data integration.
 - Milestones 5–7.
+- **Website features not yet built** (documented on the pages themselves):
+  - map filters by book, period, kingdom and person
+  - kingdom boundary polygons (none sourced)
+  - migration routes and findspots
+  - the biblical-internal chronology band (Gen 1–11)
+  - prophetic ministry bars (waiting on the "Amos's prophetic words" record)
+  - an artifact explorer with records (none researched)
+  - a richer cross-reference network (currently a static per-event radial graph)
+  - search with typo tolerance
 - Synchronism *records* (e.g. 763 BC eclipse, Qarqar) are not yet researched. The synchronism schema and solver anchoring exist.
 - Lunar calendar conversion uses conservative windows. Parker & Dubberstein tables are not imported.
 - Hebrew/Greek versification mappings.

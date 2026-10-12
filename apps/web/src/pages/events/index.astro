@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import Badge from '../../components/Badge.astro';
+import EmptyState from '../../components/EmptyState.astro';
+import { PUBLICATION_LABEL, data, intervalsFor, isDated, modelName, passageLabel, titleCase, url } from '../../lib/data';
+import { formatInterval } from '@atlas/shared';
+const events = data().events;
+---
+<Base title="Historical events">
+  <PageHeader eyebrow="Event dossiers" title="Historical events">
+    Published research records only. Each dossier shows its own research status. No book has been fully researched yet.
+  </PageHeader>
+  {events.length === 0 && <EmptyState title="No published events yet">Research records appear here once they pass validation.</EmptyState>}
+  <ul class="space-y-6">
+    {events.map(({ event: e }) => (
+      <li class="border-t border-stone-light/30 pt-4">
+        <a class="font-serif text-xl" href={url(`events/${e.slug}/`)}>{e.title}</a>
+        <p class="mt-1 text-sm text-stone">{e.mentions.map((m) => passageLabel(m.passage)).join(' · ')} · {e.categories.map(titleCase).join(', ')}</p>
+        <p class="mt-2">{e.summary}</p>
+        <div class="mt-2 flex flex-wrap gap-2 text-xs">
+          <Badge>{PUBLICATION_LABEL[e.publication_level]}</Badge>
+          {intervalsFor(e.id).filter((x) => isDated(x.interval)).map((x) => <Badge tone="outline">{formatInterval(x.interval.years)} ({modelName(x.model).split(' divided')[0]})</Badge>)}
+        </div>
+      </li>
+    ))}
+  </ul>
+</Base>

@@ -1,5 +1,6 @@
 /** Bridge between research files and the deterministic chronology solver (SPEC 12.3). */
 import { type Anchor, type Constraint, type ReignConvention, type SolveInput, type SolveResult, solve } from '@atlas/chronology-engine';
+import type { ContextDossier } from './schemas.ts';
 import type { ResearchStore } from './store.ts';
 
 export function buildSolveInput(store: ResearchStore, modelId: string | null): SolveInput {
@@ -22,6 +23,7 @@ export function buildSolveInput(store: ResearchStore, modelId: string | null): S
   }
   const pointEvents: string[] = [];
   for (const id of store.eventIds()) {
+    if (!store.event(id).is_period) pointEvents.push(id);
     const ctx = store.context(id);
     if (!ctx) continue;
     for (const h of ctx.date_hypotheses) {
@@ -59,18 +61,91 @@ export function solveAllModels(store: ResearchStore): Map<string | null, SolveRe
   return out;
 }
 
-export function serializeResults(results: SolveResult[]) {
+export interface DerivationStep {
+  id: string;
+  kind: 'constraint' | 'reign_anchor' | 'date_hypothesis' | 'derived' | 'other';
+  label: string;
+  passage: string | null;
+  model_id: string | null;
+  assumptions: string[];
+  citations: string[];
+}
+
+/** Resolve solver derivation ids into human-readable steps (SPEC 12.9). */
+export function derivationResolver(store: ResearchStore): (id: string) => DerivationStep {
+  const constraints = new Map<string, { c: ContextDossier['constraints'][number]; event: string }>();
+  const hypotheses = new Map<string, ContextDossier['date_hypotheses'][number]>();
+  for (const eid of store.eventIds()) {
+    const ctx = store.context(eid);
+    for (const c of ctx?.constraints ?? []) constraints.set(c.id, { c, event: eid });
+    for (const h of ctx?.date_hypotheses ?? []) hypotheses.set(h.id, h);
+  }
+  const entities = new Map(store.entities().map((e) => [e.id, e]));
+  const nameOf = (id: string): string => {
+    const e = entities.get(id);
+    if (!e) {
+      try {
+        return store.event(id).title;
+      } catch {
+        return id;
+      }
+    }
+    if (e.kind === 'reign') return `reign of ${nameOf(e.person_id)}`;
+    return e.kind === 'person' ? e.canonical_name : e.kind === 'place' ? e.primary_name : 'name' in e ? e.name : id;
+  };
+  return (raw: string) => {
+    const [base, conv] = raw.split('|');
+    const id = base!;
+    const hit = constraints.get(id);
+    if (hit) {
+      const { c } = hit;
+      return {
+        id: raw, kind: 'constraint',
+        label: `“${c.textual_assertion}” — ${nameOf(c.subject)} ${c.relation.replaceAll('_', ' ')} ${nameOf(c.object)}${c.regnal_year ? ` (year ${c.regnal_year})` : ''}${conv ? ` [convention ${conv.split('#convention:')[1] ?? conv}]` : ''}`,
+        passage: c.passage, model_id: c.model_id, assumptions: c.assumptions, citations: c.citations,
+      };
+    }
+    if (id.includes('#start') || id.includes('#end')) {
+      const rid = id.split('#')[0]!;
+      const r = entities.get(rid);
+      if (r?.kind === 'reign') {
+        const which = id.endsWith('#start') ? r.start : r.end;
+        const fmt = (y: number | null) => (y === null ? '?' : y <= 0 ? `${1 - y} BC` : `AD ${y}`);
+        return {
+          id: raw, kind: 'reign_anchor',
+          label: `${nameOf(rid)} ${id.endsWith('#start') ? 'began' : 'ended'} ${fmt(which.earliest)}${which.latest !== which.earliest ? `–${fmt(which.latest)}` : ''} (${r.model_id ? nameOf(r.model_id) : 'model-independent'})`,
+          passage: r.stated_length_passage, model_id: r.model_id, assumptions: r.notes ? [r.notes] : [], citations: r.citations,
+        };
+      }
+    }
+    const h = hypotheses.get(id);
+    if (h) return { id: raw, kind: 'date_hypothesis', label: h.derivation, passage: null, model_id: h.model_id, assumptions: [], citations: h.citations };
+    return { id: raw, kind: 'other', label: id, passage: null, model_id: null, assumptions: [], citations: [] };
+  };
+}
+
+const toYear = (v: number | null, upper: boolean) => (v === null ? null : upper ? Math.floor(v - 1e-9) : Math.floor(v + 1e-9));
+
+export function serializeResults(results: SolveResult[], resolve?: (id: string) => DerivationStep) {
+  const steps = (ids: string[]) => (resolve ? ids.map(resolve) : ids);
   return results.map((r) => ({
     model_id: r.modelId,
     choice: r.choice,
     feasible: r.feasible,
-    contradictions: r.contradictions,
+    contradictions: r.contradictions.map((c) => ({ ...c, steps: steps(c.cycle) })),
     excluded: r.excluded,
     intervals: [...r.intervals.values()].map((i) => ({
       subject: i.subject,
       years: i.years,
+      start: { earliest: toYear(i.start.earliest.value, false), latest: toYear(i.start.latest.value, true) },
+      end: { earliest: toYear(i.end.earliest.value, false), latest: toYear(i.end.latest.value, true) },
       precision: i.precision,
-      derivation: { earliest: i.start.earliest.derivation, latest: i.start.latest.derivation },
+      derivation: {
+        earliest: steps(i.start.earliest.derivation),
+        latest: steps(i.start.latest.derivation),
+        end_earliest: steps(i.end.earliest.derivation),
+        end_latest: steps(i.end.latest.derivation),
+      },
     })),
   }));
 }
