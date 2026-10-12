@@ -1,0 +1,29 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+  "slug": "babylon",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Babylon",
+  "place_type": "settlement",
+  "modern_name": "Babil (ruins near Hillah)",
+  "modern_country": "Iraq",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "ancient_names": [],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4RSRHM72B242YVQ6H8SYS2V",
+      "label": "Babylon (Pleiades 893951)",
+      "lat": 32.53729695,
+      "lon": 44.42497815,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4RSRHKSNX6HS6J0FDKPETW8",
+      "proponents": [],
+      "reasoning": "Identification and representative point from the Pleiades gazetteer."
+    }
+  ],
+  "description": null
+}

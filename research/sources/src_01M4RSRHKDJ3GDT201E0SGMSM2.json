@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+  "title": "ABC 3 (Fall of Nineveh Chronicle) — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "ABC 3",
+  "license": "Translation adapted from Grayson 1975 and Glassner 1993; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read years 16–17",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Year 17: in Du'ûzu Aššur-uballit and a large Egyptian army crossed the Euphrates and besieged Harran until Ulûlu. Josiah/Judah not mentioned in the chronicle text.",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Years 16–17 of Nabopolassar read.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

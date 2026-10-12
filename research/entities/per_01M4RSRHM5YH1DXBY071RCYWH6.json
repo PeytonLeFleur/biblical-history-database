@@ -1,0 +1,20 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM5YH1DXBY071RCYWH6",
+  "slug": "azariah-abednego",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Azariah (Abednego)",
+  "aliases": [
+    {
+      "alias": "Abednego",
+      "language": "Babylonian name",
+      "source_id": null,
+      "passage": "Dan.1.7"
+    }
+  ],
+  "description": "Judean youth trained at the Babylonian court with Daniel. Distinct from King Azariah (Uzziah) and other Azariahs.",
+  "kingdom_id": null
+}

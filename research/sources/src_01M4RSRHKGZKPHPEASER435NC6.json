@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4RSRHKGZKPHPEASER435NC6",
+  "title": "Against Apion, Book I, §19 (trans. William Whiston) — quoting Berossus",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Flavius Josephus",
+    "Whiston, William (translator)"
+  ],
+  "publisher": "Project Gutenberg eBook #2849",
+  "journal": null,
+  "published_date": "c. AD 95 (original); Whiston 1737",
+  "url": "https://www.gutenberg.org/ebooks/2849",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ag. Ap. 1.19 (Whiston); Berossus, Babyloniaca fragment",
+  "license": "Public domain in the USA",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Downloaded Gutenberg plain text (pg2849.txt) and read Book I §19",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Berossus: Nebuchadnezzar, campaigning in his father's last days, learned of Nabopolassar's death, sent captives \"from the Jews\", Phoenicians and Syrians to Babylonia, and adorned the temple of Belus from the spoils; gives Nabopolassar 29 years",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full passage read. Berossus (c. 290 BC) survives only in later quotation; this is Josephus's quotation in Whiston's English.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

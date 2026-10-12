@@ -1,0 +1,171 @@
+{
+  "event_id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-12",
+      "query": "Wikipedia Jehoiachin's Rations Tablets",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Bible Hub lexicon H1095 Belteshazzar; H6598 pathbag (BDB)",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Wikipedia Danel (Ezekiel 14:14; 28:3)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4RSRHN70SZWHJ5WE3A14M7T",
+      "statement": "Nebuchadnezzar's court maintained members of the captive Judean royal house on royal rations.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Ration tablets excavated at Babylon list oil allocations for Ya'u-kīnu, king of Judah, and five royal sons, among foreign recipients at court (c. 595–570 BC).",
+      "supporting_evidence": [
+        "evd_01M4RSRHN7X7XK0T8ZB0H5BKHX"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "The tablets date after 597, not to 605; known here via a secondary summary (Weidner 1939 not accessed)."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RSRHN79YEF3CJC7SZ2ACXR",
+      "statement": "Daniel, Hananiah, Mishael and Azariah were trained at Nebuchadnezzar's court and given Babylonian names.",
+      "layer": "reconstruction",
+      "passage": "Dan.1.3-Dan.1.7",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No extra-biblical record naming these four was found. The setting is consistent with the ration tablets and the names are explicable as Babylonian, but that does not corroborate the specific persons. This is not a disproof.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RSRHN7X7XK0T8ZB0H5BKHX",
+        "evd_01M4RSRHN7GBHNG9SVKE4N8JKW"
+      ],
+      "limitations": [
+        "Babylonian archives are incompletely published; no targeted cuneiform prosopography search was done."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RSRHN7QP87K53JSMQH70M2",
+      "statement": "Daniel's Babylonian name Belteshazzar reflects a genuine Babylonian name form.",
+      "layer": "reconstruction",
+      "passage": "Dan.1.7",
+      "classification": "historically_plausible",
+      "reasoning": "BDB derives Belteshazzar from Babylonian balāṭsu-uṣur (\"protect his life\"), a standard name pattern; the popular link with Bel is noted as unexplained.",
+      "supporting_evidence": [
+        "evd_01M4RSRHN7GBHNG9SVKE4N8JKW"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Lexicon-level evidence only."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4RSRHN7X7XK0T8ZB0H5BKHX",
+      "claim_ids": [
+        "clm_01M4RSRHN70SZWHJ5WE3A14M7T",
+        "clm_01M4RSRHN79YEF3CJC7SZ2ACXR"
+      ],
+      "source_id": "src_01M4RSRHKN0V607MATVNE8J925",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Oil ration tablets from the royal storerooms at Babylon list allocations for Ya'u-kīnu, king of the land of Yahudu, and his five sons, alongside foreign craftsmen.",
+      "locator": "Content and translation sections",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylon-ration-tablets"
+    },
+    {
+      "id": "evd_01M4RSRHN7GBHNG9SVKE4N8JKW",
+      "claim_ids": [
+        "clm_01M4RSRHN79YEF3CJC7SZ2ACXR",
+        "clm_01M4RSRHN7QP87K53JSMQH70M2"
+      ],
+      "source_id": "src_01M4RSRHKPDX1NK68B6VM1ZNEE",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "BDB explains Belteshazzar as probably Babylonian balāṭsu-uṣur, \"protect his life\".",
+      "locator": "BDB entry",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "bdb-lexicon"
+    },
+    {
+      "id": "evd_01M4RSRHN7GVKT8VVBQ9BF98G5",
+      "claim_ids": [
+        "clm_01M4RSRHN79YEF3CJC7SZ2ACXR"
+      ],
+      "source_id": "src_01M4RSRHKQD85FWKYJDV9787BG",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "The \"Daniel\" of Ezekiel 14:14, 20 and 28:3 (spelled dnʾl) is widely identified with the legendary Ugaritic Danel rather than the exile of the book of Daniel, though some scholars reject that identification.",
+      "locator": "Ezekiel section",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ugaritic-danel"
+    }
+  ],
+  "artifacts": [
+    "art_01M4RSRHMG3X170BXKM9NM94W0"
+  ],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Weidner (1939) edition of the ration tablets not consulted.",
+    "Akkadian etymologies of Shadrach, Meshach, Abednego not sourced from a scholarly lexicon."
+  ]
+}

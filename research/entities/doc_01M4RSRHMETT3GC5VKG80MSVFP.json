@@ -1,0 +1,23 @@
+{
+  "kind": "document",
+  "id": "doc_01M4RSRHMETT3GC5VKG80MSVFP",
+  "slug": "abc-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Babylonian Chronicle ABC 3 (Fall of Nineveh Chronicle)",
+  "document_type": "Chronicle",
+  "language": "Akkadian",
+  "standard_reference": "ABC 3 (Grayson 1975)",
+  "artifact_id": null,
+  "date": {
+    "earliest": -615,
+    "latest": -607
+  },
+  "description": null,
+  "editions": [
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+    "src_01M4RSRHKETFKGA2ZZE6XATJKW"
+  ]
+}

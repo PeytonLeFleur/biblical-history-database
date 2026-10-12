@@ -1,0 +1,13 @@
+{
+  "kind": "kingdom",
+  "id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "slug": "neo-babylonian-empire",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
+  "notes": null,
+  "name": "Neo-Babylonian Empire",
+  "description": "Babylonian empire of the Chaldean dynasty, from Nabopolassar (626 BC) to the fall of Babylon (539 BC)."
+}

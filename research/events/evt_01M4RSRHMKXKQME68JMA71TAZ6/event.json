@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4RSRHMKXKQME68JMA71TAZ6",
+  "slug": "daniel-diet-test",
+  "title": "Daniel's refusal of the king's food and the ten-day test (Dan 1:8–16)",
+  "summary": "Daniel declined the king's food and wine; after a ten-day test on vegetables and water the four youths appeared healthier and were allowed to continue the diet.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4RSRHMKRT6WQBDG9FJFJAEP"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "personal_narrative",
+    "religious"
+  ],
+  "priority": "low",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10",
+  "mentions": [
+    {
+      "passage": "Dan.1.8-Dan.1.16",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "last_reviewed_at": null
+}

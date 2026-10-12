@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RSRHKEXBD2ZM537158C42W",
+  "title": "Mesopotamian Chronicles",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Glassner, Jean-Jacques"
+  ],
+  "publisher": "Society of Biblical Literature (Writings from the Ancient World)",
+  "journal": null,
+  "published_date": "2004",
+  "url": "https://openlibrary.org/works/OL5039340W",
+  "doi": null,
+  "isbn": "1589830903",
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Open Library record OL5039340W",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

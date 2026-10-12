@@ -1,0 +1,53 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4RSRHMRDKVY31PHEB4EM78N",
+  "slug": "jerusalem-597-abc-5",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4RSRHKF2D9HDCYYF0HCQPW5"
+  ],
+  "notes": null,
+  "title": "Capture of \"the city of Judah\" on 2 Addaru, Nebuchadnezzar year 7 (ABC 5) = Jehoiachin's surrender (2 Kgs 24:10–15)",
+  "type": "documentary_correlation",
+  "passage": "2Kgs.24.10-2Kgs.24.15",
+  "biblical_subject": null,
+  "external_entity": "Babylonian Chronicle ABC 5, reverse 11′–13′",
+  "external_document_id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+  "external_source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+  "proposed_synchronization": "The chronicle's capture of the city of Judah and its king, and the installation of a king of Nebuchadnezzar's choice, correspond to Jehoiachin's surrender and Zedekiah's appointment.",
+  "independent_date": {
+    "earliest": -596,
+    "latest": -596
+  },
+  "precision": "day",
+  "dating_method": "Babylonian date 2 Addaru, year 7 of Nebuchadnezzar = 15/16 March 597 BC (Parker & Dubberstein)",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "\"City of Judah\" = Jerusalem; the unnamed king = Jehoiachin (identifications by the editors).",
+    "The 2 Kings event itself is to be researched in Milestone 6; this record documents the anchor used for Jehoiakim's reign end."
+  ],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": null,
+  "window": {
+    "from": {
+      "year": -596,
+      "month": 3,
+      "day": 15
+    },
+    "to": {
+      "year": -596,
+      "month": 3,
+      "day": 16
+    },
+    "basis": "2 Addaru year 7 (ABC 5) = 15/16 March 597 BC.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "src_01M4RSRHKMX8FXN8V23422QTP8"
+    ]
+  },
+  "reviewer_status": "machine_proposed"
+}

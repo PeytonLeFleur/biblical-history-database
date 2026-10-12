@@ -10,6 +10,9 @@ import IntervalBar from '../../components/IntervalBar.astro';
 import {
   APPROACH_LABEL,
   REVIEWER_LABEL,
+  choiceLabel,
+  modelSummaries,
+  monthRange,
   entitiesOf,
   LAYER_LABEL,
   PUBLICATION_LABEL,
@@ -42,6 +45,7 @@ const { event: ev, context: ctx, evidence: evd, crossrefs: xr } = bundle;
 const reviews = openReviewsFor(bundle);
 const claimsUnderReview = new Set(reviews.filter((r) => r.record_kind === 'claim').map((r) => r.record_id));
 const chronology = intervalsFor(ev.id).filter((x) => x.model !== 'model_independent');
+const summaries = modelSummaries(ev.id, [...new Set((ctx?.constraints ?? []).map((c) => c.alternative_group).filter((g): g is string => !!g))]);
 const undatedModels = intervalsFor(ev.id).filter((x) => !isDated(x.interval));
 const evidenceById = new Map((evd?.evidence ?? []).map((e) => [e.id, e]));
 
@@ -180,27 +184,27 @@ const fmtStep = (s: { label: string; passage: string | null }) => s;
           Ranges are computed by the project's deterministic chronology engine from the biblical statements and each model's reign anchors.
           They are reconstructions, not independent dates.
         </p>
-        {chronology.filter((c) => isDated(c.interval)).length === 0 && (
+        {summaries.length === 0 && (
           <div class="mt-4"><EmptyState title="Not datable yet">No chronology model currently places this event on an absolute timeline.</EmptyState></div>
         )}
         <div class="mt-4 space-y-6">
-          {chronology.filter((c) => isDated(c.interval)).map((c) => (
+          {summaries.map((m) => (
             <div class="border border-stone-light/40 p-4" data-testid="chronology-model">
               <div class="flex flex-wrap items-baseline justify-between gap-2">
-                <p class="font-serif text-xl">{formatInterval(c.interval.years)}</p>
-                <p class="text-sm text-stone">{modelName(c.model)} · precision: {c.interval.precision}{c.result.feasible ? '' : ' · INFEASIBLE'}</p>
+                <p class="font-serif text-xl">{formatInterval(m.union)}</p>
+                <p class="text-sm text-stone">{modelName(m.model, 'result')} · precision: {m.precision.replaceAll('_', ' ')}{m.alternatives.length > 0 && ` · range across ${m.feasible} consistent reckoning combination${m.feasible === 1 ? '' : 's'}`}</p>
               </div>
-              <IntervalBar earliest={c.interval.years.earliest} latest={c.interval.years.latest} />
+              <IntervalBar earliest={m.union.earliest} latest={m.union.latest} />
               <details class="mt-3 text-sm">
                 <summary class="cursor-pointer text-olive">How this range was derived</summary>
                 <div class="mt-3 grid gap-4 md:grid-cols-2">
                   {(['earliest', 'latest'] as const).map((k) => (
                     <div>
-                      <p class="font-semibold">{k === 'earliest' ? 'Earliest bound' : 'Latest bound'}</p>
+                      <p class="font-semibold">{k === 'earliest' ? 'Earliest bound' : 'Latest bound'}{m.alternatives.length > 0 && <span class="font-normal text-stone"> (first consistent combination)</span>}</p>
                       <ol class="mt-1 list-decimal space-y-1 pl-5">
-                        {c.interval.derivation[k].map((s) => (
+                        {m.representative.derivation[k].map((s) => (
                           <li>
-                            {fmtStep(s).label}
+                            {s.label}
                             {s.passage && <> (<a href={passageUrl(s.passage)}>{passageLabel(s.passage)}</a>)</>}
                             <Cite ids={s.citations} order={order} />
                             {s.assumptions.length > 0 && <span class="block text-stone">Assumption: {s.assumptions.join(' ')}</span>}
@@ -211,6 +215,22 @@ const fmtStep = (s: { label: string; passage: string | null }) => s;
                   ))}
                 </div>
               </details>
+              {m.alternatives.length > 0 && (
+                <details class="mt-3 text-sm" data-testid="reckoning-alternatives">
+                  <summary class="cursor-pointer text-olive">All {m.alternatives.length} reckoning combinations</summary>
+                  <table class="data mt-3">
+                    <thead><tr><th scope="col">Combination</th><th scope="col">Window for this event</th></tr></thead>
+                    <tbody>
+                      {m.alternatives.map((a) => (
+                        <tr>
+                          <td>{choiceLabel(a.choice)}</td>
+                          <td>{a.feasible ? (a.interval ? <>{formatInterval(a.interval.years)}{monthRange(a.interval) && <span class="block text-xs text-stone">to the month: {monthRange(a.interval)}</span>}</> : '—') : <span class="text-rust">Inconsistent with the anchors: {a.contradictions[0]}</span>}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </details>
+              )}
             </div>
           ))}
         </div>
@@ -218,11 +238,11 @@ const fmtStep = (s: { label: string; passage: string | null }) => s;
           <p class="mt-4 text-sm text-stone">Without a chronology model, this event cannot be placed on an absolute timeline: the texts date it only relative to reigns.</p>
         )}
         <p class="mt-4 text-sm"><a href={url(`timeline/?focus=${ev.id}`)}>View on the timeline →</a></p>
-        {chronology.filter((c) => isDated(c.interval)).map((c) => {
+        {summaries.map((c) => {
           const cs = contemporaries(ev.id, c.model);
           return cs.length > 0 && (
             <div class="mt-4 text-sm">
-              <p class="font-semibold">What else was happening? <span class="font-normal text-stone">({modelName(c.model)})</span></p>
+              <p class="font-semibold">What else was happening? <span class="font-normal text-stone">({c.model === 'model_independent' ? 'model-independent' : modelName(c.model)})</span></p>
               <ul class="mt-1 list-disc pl-5">{cs.map((x) => <li>{x.name}: {formatInterval({ earliest: x.interval.start.earliest, latest: x.interval.end.latest ?? x.interval.start.latest })}</li>)}</ul>
             </div>
           );
@@ -232,6 +252,7 @@ const fmtStep = (s: { label: string; passage: string | null }) => s;
       {ctx && ctx.locations.length > 0 && (
         <section aria-labelledby="geo" class="mt-12">
           <h2 id="geo" class="font-serif text-2xl">Ancient and modern geography</h2>
+          <p class="mt-2 text-sm text-stone">Location confidence assumes the event as described. Whether it occurred is assessed in the claims below.</p>
           <table class="data mt-4">
             <thead><tr><th scope="col">Place</th><th scope="col">Connection to this event</th><th scope="col">Location identification</th></tr></thead>
             <tbody>
@@ -240,7 +261,7 @@ const fmtStep = (s: { label: string; passage: string | null }) => s;
                 return (
                   <tr>
                     <td><strong>{nameOf(l.location_id)}</strong>{p?.kind === 'place' && p.modern_name && <span class="block text-stone">{p.modern_name}</span>}</td>
-                    <td>{l.role}<span class="block text-stone">Association: {l.confidence === 'certain' || l.confidence === 'probable' ? l.confidence : `proposed — ${l.confidence}`}</span></td>
+                    <td>{l.role}<span class="block text-stone">Location confidence: {l.confidence === 'certain' || l.confidence === 'probable' ? l.confidence : `proposed — ${l.confidence}`}</span></td>
                     <td>{p?.kind === 'place' && p.hypotheses.map((h) => <span class="block">{h.label}: {h.confidence}<Cite ids={h.geom_source_id ? [h.geom_source_id] : []} order={order} /></span>)}</td>
                   </tr>
                 );

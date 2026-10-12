@@ -1,5 +1,14 @@
 /** Bridge between research files and the deterministic chronology solver (SPEC 12.3). */
-import { type Anchor, type Constraint, type ReignConvention, type SolveInput, type SolveResult, solve } from '@atlas/chronology-engine';
+import { type Anchor, type Constraint, type ReignConvention, type SolveInput, type SolveResult, julianToFractionalYear, solve } from '@atlas/chronology-engine';
+import type { z } from 'zod';
+import type { JulianWindow } from './schemas.ts';
+
+/** Fractional-year bounds of a Julian window; `to` is inclusive of its whole day. */
+export function windowBounds(w: z.infer<typeof JulianWindow>): { lo: number; hi: number } {
+  const lo = julianToFractionalYear({ year: w.from.year, month: w.from.month, day: w.from.day });
+  const hi = julianToFractionalYear({ year: w.to.year, month: w.to.month, day: w.to.day + 1 });
+  return { lo, hi };
+}
 import type { ContextDossier } from './schemas.ts';
 import type { ResearchStore } from './store.ts';
 
@@ -9,8 +18,8 @@ export function buildSolveInput(store: ResearchStore, modelId: string | null): S
   const conventions: ReignConvention[] = [];
   for (const e of store.entities()) {
     if (e.kind !== 'reign') continue; // fixtures are rejected by validation/export, not silently dropped here
-    anchors.push({ id: `${e.id}#start`, subject: e.id, point: 'start', earliest: e.start.earliest, latest: e.start.latest, precision: e.precision, modelId: e.model_id, source: e.citations[0] });
-    anchors.push({ id: `${e.id}#end`, subject: e.id, point: 'end', earliest: e.end.earliest, latest: e.end.latest, precision: e.precision, modelId: e.model_id, source: e.citations[0] });
+    anchors.push({ id: `${e.id}#start`, subject: e.id, point: 'start', earliest: e.start.earliest, latest: e.start.latest, precision: e.precision, modelId: e.model_id, source: e.citations[0], ...(e.start_window ? { exact: windowBounds(e.start_window) } : {}) });
+    anchors.push({ id: `${e.id}#end`, subject: e.id, point: 'end', earliest: e.end.earliest, latest: e.end.latest, precision: e.precision, modelId: e.model_id, source: e.citations[0], ...(e.end_window ? { exact: windowBounds(e.end_window) } : {}) });
     if (e.regnal_convention) {
       conventions.push({
         id: `${e.id}#convention:${e.regnal_convention.reckoning}-${e.regnal_convention.new_year}`,
@@ -26,7 +35,7 @@ export function buildSolveInput(store: ResearchStore, modelId: string | null): S
   for (const e of store.entities()) {
     if (e.kind !== 'synchronism' || !e.anchor_subject) continue;
     if (e.independent_date.earliest === null && e.independent_date.latest === null) continue;
-    anchors.push({ id: e.id, subject: e.anchor_subject, earliest: e.independent_date.earliest, latest: e.independent_date.latest, precision: e.precision, modelId: null, isEvidence: true, source: e.external_source_id ?? e.citations[0] });
+    anchors.push({ id: e.id, subject: e.anchor_subject, earliest: e.independent_date.earliest, latest: e.independent_date.latest, precision: e.precision, modelId: null, isEvidence: true, source: e.external_source_id ?? e.citations[0], ...(e.window ? { exact: windowBounds(e.window) } : {}) });
   }
   for (const id of store.eventIds()) {
     if (!store.event(id).is_period) pointEvents.push(id);
@@ -51,6 +60,7 @@ export function buildSolveInput(store: ResearchStore, modelId: string | null): S
         ...(c.regnal_year !== null ? { regnalYear: c.regnal_year } : {}),
         ...(c.regnal_convention ? { convention: { reckoning: c.regnal_convention.reckoning, newYear: c.regnal_convention.new_year } } : {}),
         ...(c.alternative_group ? { alternativeGroup: c.alternative_group } : {}),
+        ...(c.alternative_option ? { alternativeOption: c.alternative_option } : {}),
         isEvidence: c.verification === 'source_checked',
       });
     }
@@ -120,12 +130,15 @@ export function derivationResolver(store: ResearchStore): (id: string) => Deriva
       const rid = id.split('#')[0]!;
       const r = entities.get(rid);
       if (r?.kind === 'reign') {
-        const which = id.endsWith('#start') ? r.start : r.end;
+        const isStart = id.endsWith('#start');
+        const which = isStart ? r.start : r.end;
+        const win = isStart ? r.start_window : r.end_window;
         const fmt = (y: number | null) => (y === null ? '?' : y <= 0 ? `${1 - y} BC` : `AD ${y}`);
+        const when = win ? `between ${fmtDay(win.from)} and ${fmtDay(win.to)}` : `${fmt(which.earliest)}${which.latest !== which.earliest ? `–${fmt(which.latest)}` : ''}`;
         return {
           id: raw, kind: 'reign_anchor',
-          label: `${nameOf(rid)} ${id.endsWith('#start') ? 'began' : 'ended'} ${fmt(which.earliest)}${which.latest !== which.earliest ? `–${fmt(which.latest)}` : ''} (${r.model_id ? nameOf(r.model_id) : 'model-independent'})`,
-          passage: r.stated_length_passage, model_id: r.model_id, assumptions: r.notes ? [r.notes] : [], citations: r.citations,
+          label: `${nameOf(rid)} ${isStart ? 'began' : 'ended'} ${when} (${r.model_id ? nameOf(r.model_id) : 'model-independent'})`,
+          passage: r.stated_length_passage, model_id: r.model_id, assumptions: [...(win ? [win.basis] : []), ...(r.notes ? [r.notes] : [])], citations: [...r.citations, ...(win?.citations ?? [])],
         };
       }
     }
@@ -133,6 +146,13 @@ export function derivationResolver(store: ResearchStore): (id: string) => Deriva
     if (syn?.kind === 'synchronism') {
       const fmt = (y: number | null) => (y === null ? '?' : y <= 0 ? `${1 - y} BC` : `AD ${y}`);
       const d = syn.independent_date;
+      if (syn.window) {
+        return {
+          id: raw, kind: 'synchronism' as const,
+          label: `Synchronism: ${syn.title} — independently dated between ${fmtDay(syn.window.from)} and ${fmtDay(syn.window.to)} (${syn.dating_method})`,
+          passage: syn.passage, model_id: null, assumptions: [syn.window.basis, ...syn.assumptions], citations: [...syn.citations, ...syn.window.citations],
+        };
+      }
       return {
         id: raw, kind: 'synchronism' as const,
         label: `Synchronism: ${syn.title} — independently dated ${fmt(d.earliest)}${d.latest !== d.earliest ? `–${fmt(d.latest)}` : ''} (${syn.dating_method})`,
@@ -144,6 +164,11 @@ export function derivationResolver(store: ResearchStore): (id: string) => Deriva
     return { id: raw, kind: 'other', label: id, passage: null, model_id: null, assumptions: [], citations: [] };
   };
 }
+
+const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+/** Proleptic Julian day in BC/AD notation, e.g. "7 Sep 605 BC". */
+export const fmtDay = (d: { year: number; month: number; day: number }) =>
+  `${d.day} ${MONTHS[d.month - 1]} ${d.year <= 0 ? `${1 - d.year} BC` : `AD ${d.year}`}`;
 
 const toYear = (v: number | null, upper: boolean) => (v === null ? null : upper ? Math.floor(v - 1e-9) : Math.floor(v + 1e-9));
 
@@ -159,6 +184,8 @@ export function serializeResults(results: SolveResult[], resolve?: (id: string) 
       subject: i.subject,
       years: i.years,
       start: { earliest: toYear(i.start.earliest.value, false), latest: toYear(i.start.latest.value, true) },
+      /** Sub-year bounds (fractional astronomical years) for month-level display. */
+      start_fraction: { earliest: i.start.earliest.value, latest: i.start.latest.value },
       end: { earliest: toYear(i.end.earliest.value, false), latest: toYear(i.end.latest.value, true) },
       precision: i.precision,
       derivation: {

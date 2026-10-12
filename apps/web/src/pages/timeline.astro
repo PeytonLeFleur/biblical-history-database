@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import PageHeader from '../components/PageHeader.astro';
 import Timeline, { type Lane, type TimelineItem, type TimelineModel, type Step } from '../islands/Timeline';
-import { data, entitiesOf, entityById, unresearchedLabels, eventById, isDated, modelName, passageLabel, passageUrl, url } from '../lib/data';
+import { data, entitiesOf, entityById, unresearchedLabels, type IntervalExport, type SolveExport, eventById, isDated, modelName, passageLabel, passageUrl, url } from '../lib/data';
 import type { DerivationStep } from '@atlas/research-engine';
 
 const toStep = (s: DerivationStep): Step => ({
@@ -22,8 +22,26 @@ const lanes: Lane[] = [
   { id: 'events', label: 'Biblical events', researched: true },
 ];
 
+// With alternative reckonings a model has several solutions; plot each subject's widest window across the consistent ones.
+function mergedIntervals(results: SolveExport[]) {
+  const feasible = results.filter((r) => r.feasible);
+  const base = feasible[0] ?? results[0]!;
+  return base.intervals.map((iv) => {
+    const all = feasible.map((r) => r.intervals.find((x) => x.subject === iv.subject)).filter((x): x is IntervalExport => !!x && isDated(x));
+    if (all.length <= 1) return iv;
+    const min = (xs: (number | null)[]) => (xs.some((x) => x === null) ? null : Math.min(...(xs as number[])));
+    const max = (xs: (number | null)[]) => (xs.some((x) => x === null) ? null : Math.max(...(xs as number[])));
+    return {
+      ...iv,
+      start: { earliest: min(all.map((x) => x.start.earliest)), latest: max(all.map((x) => x.start.latest)) },
+      end: { earliest: min(all.map((x) => x.end.earliest)), latest: max(all.map((x) => x.end.latest)) },
+      years: { earliest: min(all.map((x) => x.years.earliest)), latest: max(all.map((x) => x.years.latest)) },
+    };
+  });
+}
+
 const models: TimelineModel[] = Object.entries(data().chronology).map(([id, results]) => {
-  const r = results[0]!;
+  const r = { ...results[0]!, intervals: mergedIntervals(results) };
   const items = r.intervals
     .filter(isDated)
     .flatMap((iv): TimelineItem[] => {
@@ -52,7 +70,8 @@ const models: TimelineModel[] = Object.entries(data().chronology).map(([id, resu
     .map((b) => ({ id: b.event.id, label: b.event.title, href: url(`events/${b.event.slug}/`) }));
   return { id, name: modelName(id), items, undated, contradictions: r.contradictions.map((c) => c.message) };
 });
-const initialModel = models.find((m) => m.items.length > 0)?.id ?? models[0]?.id ?? '';
+// Default to the first named chronology model (model-independent items are included in every model).
+const initialModel = models.find((m) => m.id !== 'model_independent' && m.items.length > 0)?.id ?? models.find((m) => m.items.length > 0)?.id ?? models[0]?.id ?? '';
 ---
 <Base title="Historical timeline" wide>
   <PageHeader eyebrow="Chronology" title="Historical timeline">

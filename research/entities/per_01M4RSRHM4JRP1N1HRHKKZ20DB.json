@@ -1,0 +1,26 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM4JRP1N1HRHKKZ20DB",
+  "slug": "hananiah-shadrach",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Hananiah (Shadrach)",
+  "aliases": [
+    {
+      "alias": "Hananiah",
+      "language": "Hebrew",
+      "source_id": null,
+      "passage": "Dan.1.6"
+    },
+    {
+      "alias": "Shadrach",
+      "language": "Babylonian name",
+      "source_id": null,
+      "passage": "Dan.1.7"
+    }
+  ],
+  "description": "Judean youth trained at the Babylonian court with Daniel. Distinct from other Hananiahs.",
+  "kingdom_id": null
+}

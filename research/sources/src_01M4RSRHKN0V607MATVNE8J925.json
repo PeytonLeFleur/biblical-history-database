@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RSRHKN0V607MATVNE8J925",
+  "title": "Jehoiachin's Rations Tablets — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Jehoiachin%27s_Rations_Tablets",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Tablets excavated by Koldewey at Babylon (1899–1917) near the Ishtar Gate; in the Vorderasiatisches Museum, Berlin (VAT 16378 pictured); record oil rations for Ya'u-kīnu king of Judah and five sons, plus foreign craftsmen; c. 595–570 BC",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "The tablets' editio princeps (Weidner 1939) was not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

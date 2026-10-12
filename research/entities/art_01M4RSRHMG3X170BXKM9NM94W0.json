@@ -1,0 +1,24 @@
+{
+  "kind": "artifact",
+  "id": "art_01M4RSRHMG3X170BXKM9NM94W0",
+  "slug": "jehoiachin-ration-tablets",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKN0V607MATVNE8J925"
+  ],
+  "notes": null,
+  "name": "Jehoiachin's ration tablets (Babylon)",
+  "artifact_type": "Clay tablets (administrative ration lists)",
+  "findspot_site_id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
+  "findspot_description": "Vaulted building near the Ishtar Gate, Babylon (Koldewey excavations).",
+  "current_institution": "Vorderasiatisches Museum, Pergamon Museum, Berlin",
+  "accession_number": "VAT 16378 (pictured); Babylon 28122, 28178, 28186",
+  "date": {
+    "earliest": -594,
+    "latest": -569
+  },
+  "description": "Oil ration lists naming Ya'u-kīnu, king of the land of Yahudu, and his sons among foreign recipients at the Babylonian court.",
+  "image": null,
+  "institution_url": null
+}

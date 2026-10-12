@@ -8,14 +8,15 @@
     "cnd_01M4RPJVYKWRG469QMP2597FXB"
   ],
   "external_reason": null,
+  "is_period": false,
   "literary_classification": "historical_reference",
   "narrative_mode": "narrated_occurrence",
   "categories": [
     "religious"
   ],
   "priority": "high",
-  "research_status": "queued",
-  "publication_level": "unpublished",
+  "research_status": "publishable",
+  "publication_level": "preliminary",
   "parent_event_id": null,
   "mentions": [
     {
@@ -46,8 +47,8 @@
       "reason": null
     },
     "publication_validation": {
-      "status": "not_started",
-      "updated": null,
+      "status": "in_progress",
+      "updated": "2026-10-12",
       "reason": null
     }
   },

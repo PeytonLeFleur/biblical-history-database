@@ -1,0 +1,20 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+  "slug": "daniel-prophet",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Daniel",
+  "aliases": [
+    {
+      "alias": "Belteshazzar",
+      "language": "Babylonian name (Hebrew form)",
+      "source_id": "src_01M4RSRHKPDX1NK68B6VM1ZNEE",
+      "passage": "Dan.1.7"
+    }
+  ],
+  "description": "Judean exile at the Babylonian and Persian courts; principal figure of the book of Daniel.",
+  "kingdom_id": null
+}

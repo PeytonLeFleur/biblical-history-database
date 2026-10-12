@@ -1,0 +1,66 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+  "slug": "jehoiakim-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKMX8FXN8V23422QTP8",
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+  ],
+  "notes": "Model-independent reconstruction from the Babylonian chronicles and the stated reign lengths; individual chronologists differ by months.",
+  "person_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": null,
+  "title": "King of Judah",
+  "start": {
+    "earliest": -608,
+    "latest": -607
+  },
+  "end": {
+    "earliest": -597,
+    "latest": -596
+  },
+  "precision": "month",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 11,
+  "stated_length_passage": "2Kgs.23.36",
+  "start_window": {
+    "from": {
+      "year": -608,
+      "month": 8,
+      "day": 1
+    },
+    "to": {
+      "year": -607,
+      "month": 1,
+      "day": 31
+    },
+    "basis": "Josiah was killed as Necho marched north (2 Kgs 23:29); the Egyptian army crossed the Euphrates against Harran in Du'ûzu 609 and besieged it until Ulûlu (ABC 3); Jehoahaz reigned three months (2 Kgs 23:31) before Necho installed Jehoiakim (2 Kgs 23:34). Conservative window 1 Aug 609 – 31 Jan 608.",
+    "citations": [
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "src_01M4RSRHKMX8FXN8V23422QTP8"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -597,
+      "month": 11,
+      "day": 1
+    },
+    "to": {
+      "year": -596,
+      "month": 3,
+      "day": 15
+    },
+    "basis": "Jehoiachin reigned three months (2 Kgs 24:8; \"three months and ten days\", 2 Chr 36:9) before Jerusalem was taken on 2 Addaru of Nebuchadnezzar's 7th year (ABC 5), i.e. 15/16 March 597; Jehoiakim's reign therefore ended roughly Nov 598 – Mar 597.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "src_01M4RSRHKMX8FXN8V23422QTP8"
+    ]
+  },
+  "regnal_convention": null
+}

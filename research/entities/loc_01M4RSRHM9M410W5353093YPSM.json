@@ -1,0 +1,29 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RSRHM9M410W5353093YPSM",
+  "slug": "carchemish",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Carchemish",
+  "place_type": "settlement",
+  "modern_name": "Karkamış / Jarablus",
+  "modern_country": "Turkey / Syria border",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4RSRHM8AMJR7M1GF4K0YE5Q",
+      "label": "Carchemish (Pleiades 658465)",
+      "lat": 36.829422953272655,
+      "lon": 38.014920519720285,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4RSRHKTT91J3AHDT40HYRTX",
+      "proponents": [],
+      "reasoning": "Identification and representative point from the Pleiades gazetteer."
+    }
+  ],
+  "description": null
+}

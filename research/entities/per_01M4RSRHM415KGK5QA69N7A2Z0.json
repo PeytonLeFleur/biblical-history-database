@@ -1,0 +1,26 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM415KGK5QA69N7A2Z0",
+  "slug": "mishael-meshach",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Mishael (Meshach)",
+  "aliases": [
+    {
+      "alias": "Mishael",
+      "language": "Hebrew",
+      "source_id": null,
+      "passage": "Dan.1.6"
+    },
+    {
+      "alias": "Meshach",
+      "language": "Babylonian name",
+      "source_id": null,
+      "passage": "Dan.1.7"
+    }
+  ],
+  "description": "Judean youth trained at the Babylonian court with Daniel.",
+  "kingdom_id": null
+}

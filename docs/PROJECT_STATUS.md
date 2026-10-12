@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 4 (Public research website): complete · next is Milestone 5 (Daniel research pilot)
+**Current milestone:** 5 (Daniel research pilot): **in progress** (Daniel 1 of 12 complete)
 **Last updated:** 2026-10-12
 
 ## Milestone 1: Repository and foundation ✅
@@ -80,13 +80,39 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 
 **Engine fix found during M4:** reign anchors (`rgn_…#start/#end`) were being dropped from derivation chains, because the filter for internal edges matched any `#`. The filter now matches only internal markers. Events are now instantaneous unless `is_period` is set.
 
+## Milestone 5: Daniel research pilot (in progress)
+| Chapter | Verses reviewed | Events researched | Status |
+|---|---|---|---|
+| Daniel 1 | 21/21 | 4 Daniel events (1:1–2 campaign; court training; diet test; plus the 1:21 reference queued) + Carchemish (external) | ✅ researched (2 disputed claims and 1 proposed fulfillment in review) |
+| Daniel 2–12 | 0 | — | not started |
+
+**Infrastructure added in M5:**
+- Global synchronism, artifact, document, vision and prophecy records. Interpretations carry an approach and proponents, and proposed fulfillments require owner review.
+- Per-statement regnal conventions with option-labelled alternatives.
+- Day-level (Julian) windows on reigns and synchronisms.
+- The dossier shows the reckoning combinations that matter to each event, with month-level windows.
+- Job lifecycle fixes.
+
+**SPEC 12.4 Dan 1:1 / Jer 25:1 test:** 32 reckoning combinations computed, 20 of them consistent.
+- Daniel's "third year" contains the post-Carchemish campaign only with accession-year counting on a Tishri year.
+- Jeremiah 46:2 is inconsistent only with non-accession counting on a Nisan year.
+- Both statements are preserved, and the harmonisation is classified *disputed* and queued for review.
+
 ## Test results (local, 2026-10-12)
-lint ✓ · typecheck ✓ · Vitest **88/88** ✓ (unit + DB + importer + API + web lib) · Playwright **60/60** ✓ (25 routes, dossier integrity, timeline, map, search, passage explorer, 7 mobile overflow checks, 8 axe pages with no serious or critical violations) · `research:validate` ✓ · `chronology:validate` ✓ · site build: 1,280 pages
+lint ✓ · typecheck ✓ · Vitest **91/91** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,299 pages
 
 ## Research progress
-- Verse coverage: **15 / 31,102** reviewed (Amos 1). Chapters extracted: 1 (Amos 1).
-- Events: 2 (1 researched, 1 queued). Sources: 17. Entities: 15. **Open owner reviews: 1** (disputed single-event 750 BC claim; run `pnpm review:list`).
-- No book is "researched". Human review: 0 records.
+- Verse coverage: **36 / 31,102** reviewed (Amos 1; Daniel 1). Chapters extracted: 2.
+- **Events: 7**
+  - Researched: 5 (Amos earthquake; Carchemish; Dan 1:1–2; court training; diet test).
+  - Preliminary: 2 (Amos's dated words; the Jer 25:1 dated word).
+- **Sources: 37.** Entities: 42, including 3 synchronisms, 2 artifacts and 3 ancient documents.
+- **Open owner reviews: 4**
+  - Amos 750 BC single event: unchanged since M3.
+  - Dan 1:1 siege.
+  - Dan 1:1 / Jer 25:1 reckoning.
+  - Isa 39:7 fulfillment.
+- No book is fully researched.
 
 ## Incomplete / not started
 - Milestones 5–7.
@@ -107,6 +133,7 @@ lint ✓ · typecheck ✓ · Vitest **88/88** ✓ (unit + DB + importer + API + 
 None.
 
 ## Source and research limitations
+- Daniel 1: Wiseman (1965) was blocked (HTTP 403); Collins, Seow, Grayson and Glassner are metadata-only. Parker & Dubberstein tables are not imported, so Nisan/Tishri windows are conservative. The BM collection page for BM 21946 was not fetched.
 - Paywalled full texts not accessed: Austin et al. 2000, Kagan et al. 2011 (and its correction), Ambraseys 2009, Thiele 1983, Albright 1945. Reign dates come via Wikipedia summaries citing them.
 - The mid-8th-century Dead Sea seismites are known only through a secondary catalog. They do not appear in the Kagan 2011 abstract.
 - No peer-reviewed publication was identified for the City of David earthquake layer.

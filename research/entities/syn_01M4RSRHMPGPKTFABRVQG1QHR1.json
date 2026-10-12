@@ -1,0 +1,51 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4RSRHMPGPKTFABRVQG1QHR1",
+  "slug": "carchemish-605-jer-46-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4RSRHKF2D9HDCYYF0HCQPW5"
+  ],
+  "notes": null,
+  "title": "Carchemish: Nabopolassar year 21 (ABC 5) = Jehoiakim year 4 (Jer 46:2)",
+  "type": "documentary_correlation",
+  "passage": "Jer.46.2",
+  "biblical_subject": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+  "external_entity": "Babylonian Chronicle ABC 5, obverse 1–8",
+  "external_document_id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+  "external_source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+  "proposed_synchronization": "Jeremiah 46:2 and the Babylonian Chronicle describe the same defeat of Necho II's army at Carchemish; the chronicle places it in Nabopolassar's 21st year, before his death on 8 Abu.",
+  "independent_date": {
+    "earliest": -604,
+    "latest": -604
+  },
+  "precision": "month",
+  "dating_method": "Babylonian regnal year fixed to 605 BC by Ptolemy's Canon and astronomical texts (Parker & Dubberstein, via Livius)",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "The Jeremiah superscription and the chronicle refer to one battle (both name Carchemish, Necho and Nebuchadnezzar)."
+  ],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+  "window": {
+    "from": {
+      "year": -604,
+      "month": 3,
+      "day": 1
+    },
+    "to": {
+      "year": -604,
+      "month": 8,
+      "day": 15
+    },
+    "basis": "Narrated within Nabopolassar's 21st year (which began in Nisan 605, i.e. March/April) and before his death on 8 Abu = 15 Aug 605. Window starts 1 March for safety.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+    ]
+  },
+  "reviewer_status": "machine_proposed"
+}

@@ -1,0 +1,224 @@
+{
+  "event_id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Daniel 1:1–2 states that in the third year of Jehoiakim, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it; the Lord gave Jehoiakim into his hand with some of the vessels of the house of God, which Nebuchadnezzar brought to the land of Shinar, to the treasure house of his god.",
+    "passage": "Dan.1.1-Dan.1.2"
+  },
+  "setting": {
+    "period": "Babylonian expansion into the Levant after Carchemish (605–604 BC)",
+    "body": "Jehoiakim had been installed by Necho II in 609 and ruled as an Egyptian vassal. After Carchemish (605) the Babylonian Chronicle has Nebuchadnezzar campaigning in \"Hatti\" (Syria-Palestine) through his accession year and receiving the tribute of \"all the kings of Hatti\" in his first year (604), when he also destroyed Ashkelon. The chronicle does not name Judah or Jerusalem before the capture of \"the city of Judah\" in 597. 2 Kings 24:1 says Jehoiakim became Nebuchadnezzar's servant for three years and then rebelled.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+      "src_01M4RSRHKMX8FXN8V23422QTP8"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "reign_id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4RSRHKMX8FXN8V23422QTP8"
+      ]
+    },
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "Babylonian crown prince / king",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4RSRHMNPM17PYY7TJW4P6FD",
+      "subject": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the third year of the reign of Jehoiakim king of Judah",
+      "passage": "Dan.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 3,
+      "alternative_option": "accession year · Nisan",
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "daniel-reckoning",
+      "assumptions": [
+        "The siege date is the year in which the campaign began (Dan 1:1)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RSRHMNRVZH824817JVJARJ",
+      "subject": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the third year of the reign of Jehoiakim king of Judah",
+      "passage": "Dan.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 3,
+      "alternative_option": "accession year · Tishri",
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "tishri"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "daniel-reckoning",
+      "assumptions": [
+        "The siege date is the year in which the campaign began (Dan 1:1)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RSRHMN3P3NJHMWSTYBAKA4",
+      "subject": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the third year of the reign of Jehoiakim king of Judah",
+      "passage": "Dan.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 3,
+      "alternative_option": "non-accession year · Tishri",
+      "regnal_convention": {
+        "reckoning": "non_accession",
+        "new_year": "tishri"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "daniel-reckoning",
+      "assumptions": [
+        "The siege date is the year in which the campaign began (Dan 1:1)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RSRHMN5E29BQZXV30WBP7Z",
+      "subject": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the third year of the reign of Jehoiakim king of Judah",
+      "passage": "Dan.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 3,
+      "alternative_option": "non-accession year · Nisan",
+      "regnal_convention": {
+        "reckoning": "non_accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "daniel-reckoning",
+      "assumptions": [
+        "The siege date is the year in which the campaign began (Dan 1:1)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [
+    {
+      "id": "syn_01M4RSRHMPGPKTFABRVQG1QHR1",
+      "type": "documentary_correlation",
+      "direct": false,
+      "via": "Jer 46:2 / Jer 25:1 dating of Jehoiakim's fourth year",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Besieged city (Dan 1:1)",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RSRHM9YTFFFDKAZA0NJ3Y9",
+      "role": "Destination of the temple vessels (Babylonia)",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Seat of Nebuchadnezzar's god; destination of captives",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "A 605/604 BC campaign: accession-year reckoning harmonisation",
+      "proponents": [
+        "Traditional and evangelical interpreters, e.g. D. J. Wiseman (1965); D. Guzik"
+      ],
+      "summary": "Daniel counts Jehoiakim's years without the accession year (Babylonian practice) while Jeremiah counts it, so Daniel's \"third year\" and Jeremiah's \"fourth\" denote the same year, 605/604. Berossus's report of Jewish captives sent to Babylonia in the campaign of Nabopolassar's death is cited as support. (Wiseman's essay itself was not accessed.)",
+      "citations": [
+        "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+        "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+        "src_01M4RSRHKGZKPHPEASER435NC6"
+      ]
+    },
+    {
+      "label": "No siege of Jerusalem before 597: Dan 1:1 reflects later tradition",
+      "proponents": [
+        "C. L. Seow (2003)",
+        "J. J. Collins (1984)"
+      ],
+      "summary": "Babylonian chronicles record campaigns in the Levant but no attack on Jerusalem before 597, and the biblical sources describe only the 597 siege; the author of Daniel apparently drew on 2 Chronicles 36:5–7 and 2 Kings 24:1. The chapter is part of court tales collected in the Hellenistic period.",
+      "citations": [
+        "src_01M4RSRHKG1X6VCYVRC07WE0K7",
+        "src_01M4RSRHKJPE1W5EZQ74BN6B0E",
+        "src_01M4RSRHKHRMGZW09P8TKXD2JQ"
+      ]
+    },
+    {
+      "label": "Submission without a recorded siege",
+      "proponents": [
+        "Reconstruction compatible with ABC 5 and 2 Kgs 24:1"
+      ],
+      "summary": "Judah may have submitted among \"all the kings of Hatti\" who paid tribute in 604, without a siege recorded in the chronicle. Wikipedia, citing Eph'al (2003) and Elayi (2018), notes that no westernmost Levantine state is recorded as swearing fealty in 605 itself.",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+        "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+      "layer": "interpretation",
+      "paraphrase": "Guzik dates the siege to 605 BC and reconciles Daniel's \"third year\" with Jeremiah's \"fourth year\" by holding that Daniel counted Jehoiakim's years the Babylonian way (accession year not counted) while Jeremiah used the Judean method. He reads the vessels' removal to a Babylonian temple as an implicit claim of the Babylonian god's superiority.",
+      "url": "https://enduringword.com/bible-commentary/daniel-1/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [
+    "Wiseman 1965 and Collins 1984/1993 should be read directly.",
+    "Parker & Dubberstein's Nisan dates for 609–604 would tighten the regnal windows."
+  ],
+  "not_applicable": {}
+}

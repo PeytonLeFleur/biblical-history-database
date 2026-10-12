@@ -261,7 +261,7 @@ export default function Timeline({ models, lanes, initialModel }: TimelineProps)
         </tbody>
       </table>
       {model.undated.length > 0 && (
-        <p className="mt-3 text-sm text-stone">
+        <p className="mt-3 text-sm text-stone" data-testid="timeline-undated">
           Not datable under this model: {model.undated.map((u, i) => <span key={u.id}>{i > 0 && ', '}{u.href ? <a href={u.href}>{u.label}</a> : u.label}</span>)}.
         </p>
       )}

@@ -1,0 +1,24 @@
+{
+  "kind": "artifact",
+  "id": "art_01M4RSRHMBKKHJPG1DMC9KWWMZ",
+  "slug": "bm-21946-babylonian-chronicle",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKF2D9HDCYYF0HCQPW5"
+  ],
+  "notes": null,
+  "name": "Babylonian Chronicle tablet BM 21946 (ABC 5)",
+  "artifact_type": "Clay tablet (cuneiform chronicle)",
+  "findspot_site_id": null,
+  "findspot_description": "Unprovenanced: purchased from a dealer in 1896; original excavation unknown.",
+  "current_institution": "British Museum, London",
+  "accession_number": "BM 21946 (1896,0409.51 / 96-4-9, 51)",
+  "date": {
+    "earliest": -594,
+    "latest": -594
+  },
+  "description": "Chronicle covering Nebuchadnezzar II's first eleven years: Carchemish (605), the accession, Levantine campaigns, and the capture of \"the city of Judah\" (597). Date of writing given as c. 595 BC by Wikipedia.",
+  "image": null,
+  "institution_url": null
+}

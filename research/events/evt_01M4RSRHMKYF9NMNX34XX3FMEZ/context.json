@@ -1,0 +1,175 @@
+{
+  "event_id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+  "status": "in_progress",
+  "resume_from": "Rule 01 extraction of Jeremiah 25 (Milestone 6)",
+  "text_summary": {
+    "layer": "text",
+    "body": "Jeremiah 25:1 dates the word \"in the fourth year of Jehoiakim … (this was the first year of Nebuchadnezzar king of Babylon)\".",
+    "passage": "Jer.25.1"
+  },
+  "setting": {
+    "period": "Early Neo-Babylonian dominance in the Levant (605–604 BC)",
+    "body": "Recorded here for the chronological comparison with Daniel 1:1; full research belongs to Jeremiah (Milestone 6).",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+    ]
+  },
+  "rulers": [],
+  "kingdoms": [],
+  "constraints": [
+    {
+      "id": "cst_01M4RSRHMNVZFY2T2M1RMG4NK8",
+      "subject": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the fourth year of Jehoiakim",
+      "passage": "Jer.25.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 4,
+      "alternative_option": "accession year · Nisan",
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "jeremiah-reckoning",
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RSRHMNJJ530DYKEGK01SRE",
+      "subject": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the fourth year of Jehoiakim",
+      "passage": "Jer.25.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 4,
+      "alternative_option": "accession year · Tishri",
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "tishri"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "jeremiah-reckoning",
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RSRHMNN46TAFP13VSR3E68",
+      "subject": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the fourth year of Jehoiakim",
+      "passage": "Jer.25.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 4,
+      "alternative_option": "non-accession year · Tishri",
+      "regnal_convention": {
+        "reckoning": "non_accession",
+        "new_year": "tishri"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "jeremiah-reckoning",
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RSRHMNX0C6JY6FR54TJDGA",
+      "subject": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the fourth year of Jehoiakim",
+      "passage": "Jer.25.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 4,
+      "alternative_option": "non-accession year · Nisan",
+      "regnal_convention": {
+        "reckoning": "non_accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "jeremiah-reckoning",
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RSRHMNN5KHZ1GKGV16Z1SN",
+      "subject": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "this was the first year of Nebuchadnezzar king of Babylon",
+      "passage": "Jer.25.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 1,
+      "alternative_option": "Babylonian years counted with an accession year",
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "jeremiah-babylonian-years",
+      "assumptions": [
+        "Babylonian years begin in Nisan; Jeremiah may count Nebuchadnezzar's accession year as his \"first\"."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RSRHMN8EX9XGZH052MA7JB",
+      "subject": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "this was the first year of Nebuchadnezzar king of Babylon",
+      "passage": "Jer.25.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 1,
+      "alternative_option": "Babylonian accession year counted as year 1",
+      "regnal_convention": {
+        "reckoning": "non_accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "jeremiah-babylonian-years",
+      "assumptions": [
+        "Babylonian years begin in Nisan; Jeremiah may count Nebuchadnezzar's accession year as his \"first\"."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [
+    {
+      "id": "syn_01M4RSRHMS80BADRKK893CDHT1",
+      "type": "reign_synchronization",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {}
+}

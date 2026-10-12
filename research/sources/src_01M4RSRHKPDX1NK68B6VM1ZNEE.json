@@ -1,0 +1,39 @@
+{
+  "id": "src_01M4RSRHKPDX1NK68B6VM1ZNEE",
+  "title": "Strong's H1095 Belteshazzar — Brown-Driver-Briggs and Strong's entries (Bible Hub)",
+  "source_type": "historical_reference",
+  "authors": [
+    "Brown, F.",
+    "Driver, S. R.",
+    "Briggs, C. A."
+  ],
+  "publisher": "Bible Hub (online lexicon)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblehub.com/hebrew/1095.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public-domain lexicon text",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched the lexicon page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "BDB: probably Babylonian balāṭsu-uṣur, \"protect his life\"; connection with Bel unexplained",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Transliterated Akkadian form on the page is partly garbled.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

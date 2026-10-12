@@ -1,0 +1,50 @@
+{
+  "event_id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+  "revision": 1,
+  "validated_at": "2026-10-12",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [],
+  "research_gaps": [
+    "Carchemish excavation reports were not consulted.",
+    "Exact Nisan 1, 605 not taken from Parker & Dubberstein."
+  ],
+  "disputes": [],
+  "export_eligible": true
+}

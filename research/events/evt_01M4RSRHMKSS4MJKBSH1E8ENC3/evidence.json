@@ -1,0 +1,327 @@
+{
+  "event_id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-12",
+      "query": "Daniel 1:1 third year of Jehoiakim Jeremiah 25:1 fourth year accession-year reckoning 605 siege scholarship",
+      "engine": "web",
+      "useful_results": 3,
+      "notes": "Mostly commentary-level; ESV/Reformation Study Bible notes not used as evidence."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Wiseman Some Historical Problems in the Book of Daniel 1965 pdf",
+      "engine": "web",
+      "useful_results": 1,
+      "notes": "PDF host returned 403; catalogue record only."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "\"Daniel 1:1\" Nebuchadnezzar 605 accession year Andrews University Seminary Studies",
+      "engine": "web",
+      "useful_results": 0,
+      "notes": "No open-access scholarly article located."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Wikipedia Daniel 1; Jehoiakim; Nebuchadnezzar II",
+      "engine": "web fetch",
+      "useful_results": 3,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Livius ABC 5 and ABC 3; Josephus Against Apion 1.19",
+      "engine": "web fetch / gutenberg",
+      "useful_results": 3,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Enduring Word Daniel 1",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No destruction layer is associated with a 605 event in the sources consulted; Jerusalem archaeology of 597/586 belongs to Milestone 6."
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant beyond calendar conversions."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "No modern discoveries bear on this question."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4RSRHN68C16FK0G43PQ5BQW",
+      "statement": "Nebuchadnezzar campaigned in Syria-Palestine (\"Hatti\") in 605–604 BC and received tribute from its kings.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "ABC 5 directly records campaigning in Hatti through the accession year and the tribute of \"all the kings of Hatti\" in year 1 (604), with the sack of Ashkelon.",
+      "supporting_evidence": [
+        "evd_01M4RSRHN6VAEHA2Q3Y04BV9ZC"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "The chronicle names no Judean king for 605/604."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RSRHN6PBF6VASE82GKGQ72",
+      "statement": "Nebuchadnezzar besieged Jerusalem, or forced Jehoiakim's submission, in 605/604 BC (Dan 1:1).",
+      "layer": "reconstruction",
+      "passage": "Dan.1.1",
+      "classification": "disputed",
+      "reasoning": "No Babylonian source names Jerusalem before 597, and critical scholars (Seow; Collins) regard Dan 1:1 as unhistorical or derived from 2 Kings/Chronicles. Berossus reports Jewish captives in the 605 campaign, and Judah could be among the tributary \"kings of Hatti\" of 604; 2 Kings 24:1 has Jehoiakim become Nebuchadnezzar's servant. Whether this amounted to a siege, as Daniel says, is materially disputed.",
+      "supporting_evidence": [
+        "evd_01M4RSRHN6BZZ24699S7E6W5E0"
+      ],
+      "counterevidence": [
+        "evd_01M4RSRHN6F9XD79DBC0X50FVS",
+        "evd_01M4RSRHN6Q8RM1GPWJ8WN490B"
+      ],
+      "contextual_evidence": [
+        "evd_01M4RSRHN6VAEHA2Q3Y04BV9ZC",
+        "evd_01M4RSRHN63Z2NRTKBRQTRVAF6"
+      ],
+      "limitations": [
+        "Wiseman and Collins were not read directly."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RSRHN6EZES1QNSFRBY6TRB",
+      "statement": "Judean captives were sent to Babylonia during Nebuchadnezzar's 605 BC campaign.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Berossus (via Josephus) explicitly mentions captives \"from the Jews\" sent to Babylonia in the campaign during which Nabopolassar died. The report is late, transmitted second-hand, and not confirmed in cuneiform sources.",
+      "supporting_evidence": [
+        "evd_01M4RSRHN6BZZ24699S7E6W5E0"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RSRHN6VAEHA2Q3Y04BV9ZC"
+      ],
+      "limitations": [
+        "Single late line of evidence; Berossus gives Nabopolassar 29 years against the chronicle's 21, showing transmission problems."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RSRHN61SBDQHD6CVVEZZZY",
+      "statement": "Temple vessels taken from Jerusalem were deposited in the temple treasury of Nebuchadnezzar's god.",
+      "layer": "reconstruction",
+      "passage": "Dan.1.2",
+      "classification": "historically_plausible",
+      "reasoning": "Berossus says Nebuchadnezzar adorned the temple of Belus and other temples with spoils from this war, consistent with Babylonian practice. No source mentions Jerusalem's vessels in 605; 2 Chr 36:7 and 2 Kgs 24:13 describe removals without the 605 date.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RSRHN6N45JVE3BJTJK2QJJ"
+      ],
+      "limitations": [
+        "No direct external evidence for the vessels themselves."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RSRHN6ZTQQ364PDJ718P3N",
+      "statement": "Daniel's \"third year of Jehoiakim\" and Jeremiah's \"fourth year\" can denote the same period under different regnal reckonings.",
+      "layer": "reconstruction",
+      "passage": "Dan.1.1",
+      "classification": "disputed",
+      "reasoning": "Chronology engine, 32 reckoning combinations (20 consistent with the anchors: Jehoiakim's accession 1 Aug 609 – 31 Jan 608; Carchemish Mar 605 BC – Aug 605 BC). Jeremiah 46:2 (\"fourth year\" = Carchemish) is consistent with: accession year · Nisan; accession year · Tishri; non-accession year · Tishri; it is inconsistent with non-accession year · Nisan. Window of Daniel's \"third year\" by reckoning (including uncertainty): accession year · Nisan: Feb 606 BC – May 605 BC (closes before the latest possible battle date, Aug 605); accession year · Tishri: Aug 607 BC – Nov 605 BC (extends past the battle into the post-Carchemish campaign); non-accession year · Tishri: Aug 608 BC – Nov 606 BC (closes before the latest possible battle date, Aug 605); non-accession year · Nisan: Feb 607 BC – May 606 BC (closes before the latest possible battle date, Aug 605). Only accession-year counting with a Tishri (autumn) new year makes the \"third year\" run through the summer-605 campaign after Carchemish; accession-year counting with a Nisan (Babylonian) new year ends the \"third year\" around Nisan 605, before the battle except at the uncertainty margin. Harmonisation (Guzik; Wiseman, not read directly) appeals to accession-year counting in Daniel; the computation shows this works naturally only with a Tishri new year. Critical scholarship (Seow; Collins) treats the discrepancy as a historical problem in Daniel. Both biblical statements are preserved unchanged.",
+      "supporting_evidence": [
+        "evd_01M4RSRHN68BJ0S1YDGZ382YWF"
+      ],
+      "counterevidence": [
+        "evd_01M4RSRHN6Q8RM1GPWJ8WN490B"
+      ],
+      "contextual_evidence": [
+        "evd_01M4RSRHN63Z2NRTKBRQTRVAF6"
+      ],
+      "limitations": [
+        "The computation depends on the reconstructed accession window and conservative new-year windows."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-12"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4RSRHN6VAEHA2Q3Y04BV9ZC",
+      "claim_ids": [
+        "clm_01M4RSRHN68C16FK0G43PQ5BQW",
+        "clm_01M4RSRHN6PBF6VASE82GKGQ72",
+        "clm_01M4RSRHN6EZES1QNSFRBY6TRB"
+      ],
+      "source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "In his accession year Nebuchadnezzar marched about victoriously in Hatti until Šabatu and brought its heavy tribute to Babylon; in year 1 all the kings of Hatti came before him and paid heavy tribute, and he sacked Ashkelon.",
+      "locator": "Obverse 12–20",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Judah and Jerusalem are not named."
+      ],
+      "independent_line": "babylonian-chronicle-abc5"
+    },
+    {
+      "id": "evd_01M4RSRHN6BZZ24699S7E6W5E0",
+      "claim_ids": [
+        "clm_01M4RSRHN6PBF6VASE82GKGQ72",
+        "clm_01M4RSRHN6EZES1QNSFRBY6TRB"
+      ],
+      "source_id": "src_01M4RSRHKGZKPHPEASER435NC6",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Berossus relates that Nebuchadnezzar, on learning of his father's death, entrusted the captives taken from the Jews, Phoenicians and Syrians to friends to bring to Babylonia, where they were settled in colonies.",
+      "locator": "Against Apion 1.19",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Late (c. 290 BC) and preserved only by Josephus."
+      ],
+      "independent_line": "berossus"
+    },
+    {
+      "id": "evd_01M4RSRHN6F9XD79DBC0X50FVS",
+      "claim_ids": [
+        "clm_01M4RSRHN6PBF6VASE82GKGQ72"
+      ],
+      "source_id": "src_01M4RSRHKG1X6VCYVRC07WE0K7",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Seow (2003) notes that the Babylonian chronicles record Nebuchadnezzar's Palestinian campaigns as crown prince but none against Jerusalem, and that biblical and Babylonian sources mention an attack on Jerusalem only in 597.",
+      "locator": "Interpretation section",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Secondary report of Seow 2003."
+      ],
+      "independent_line": "critical-scholarship-seow-collins"
+    },
+    {
+      "id": "evd_01M4RSRHN6Q8RM1GPWJ8WN490B",
+      "claim_ids": [
+        "clm_01M4RSRHN6PBF6VASE82GKGQ72",
+        "clm_01M4RSRHN6ZTQQ364PDJ718P3N"
+      ],
+      "source_id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Citing Eph'al (2003) and Elayi (2018), the article states that after Carchemish none of the westernmost Levantine states swore fealty or paid tribute in 605; it mentions no 605 attack on Jerusalem.",
+      "locator": "Military campaigns section",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Secondary summary."
+      ],
+      "independent_line": "ephal-elayi"
+    },
+    {
+      "id": "evd_01M4RSRHN63Z2NRTKBRQTRVAF6",
+      "claim_ids": [
+        "clm_01M4RSRHN6PBF6VASE82GKGQ72",
+        "clm_01M4RSRHN6ZTQQ364PDJ718P3N"
+      ],
+      "source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "Places the Egyptian Harran campaign in Du'ûzu–Ulûlu 609, constraining Jehoiakim's accession to the second half of 609.",
+      "locator": "Year 17",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle-abc3"
+    },
+    {
+      "id": "evd_01M4RSRHN6N45JVE3BJTJK2QJJ",
+      "claim_ids": [
+        "clm_01M4RSRHN61SBDQHD6CVVEZZZY"
+      ],
+      "source_id": "src_01M4RSRHKGZKPHPEASER435NC6",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "Berossus says Nebuchadnezzar adorned the temple of Belus and other temples out of the spoils taken in this war.",
+      "locator": "Against Apion 1.19",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "berossus"
+    },
+    {
+      "id": "evd_01M4RSRHN68BJ0S1YDGZ382YWF",
+      "claim_ids": [
+        "clm_01M4RSRHN6ZTQQ364PDJ718P3N"
+      ],
+      "source_id": "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+      "stance": "supports",
+      "strength": "contextual",
+      "finding": "Guzik explains the one-year difference by Babylonian accession-year counting in Daniel versus Judean counting in Jeremiah.",
+      "locator": "Commentary on 1:1",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Theological commentary (interpretation layer), not independent evidence."
+      ],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [
+    "art_01M4RSRHMBKKHJPG1DMC9KWWMZ"
+  ],
+  "sites": [],
+  "documents": [
+    "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+    "doc_01M4RSRHMETT3GC5VKG80MSVFP",
+    "doc_01M4RSRHMF26G7XKV3P9MB5CAZ"
+  ],
+  "research_gaps": [
+    "Read Wiseman (1965) and Collins (1984, 1993) directly.",
+    "Import Parker & Dubberstein Nisan/Tishri dates for 609–604 to narrow the windows.",
+    "Check the British Museum collection record for BM 21946 directly."
+  ]
+}

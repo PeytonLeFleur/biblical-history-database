@@ -221,6 +221,7 @@ export function validateRepository(store: ResearchStore, opts: { allowFixtures?:
   const events = [];
   const approvals = new Set(store.reviews().filter((r) => r.decisions.some((d) => d.decision !== 'return')).map((r) => r.record_id));
   const openReviewRecords = new Set(store.reviews().filter((r) => r.status === 'open').map((r) => r.record_id));
+  const reviewedIds = new Set(store.reviews().map((r) => r.record_id));
   for (const id of eventIds) {
     const base = `research/events/${id}`;
     const ev = attempt(`${base}/event.json`, () => store.event(id));
@@ -277,6 +278,10 @@ export function validateRepository(store: ResearchStore, opts: { allowFixtures?:
           if (end.kind !== 'passage' && !known(end.id)) err(`${base}/crossrefs.json`, `${r.id} endpoint ${end.id} not found`);
         }
         for (const c of r.provenance.citations) if (!sources.has(c)) err(`${base}/crossrefs.json`, `${r.id} citation ${c} not registered`);
+        // SPEC 9.3 #5: a proposed prophetic fulfillment always goes to the owner review queue.
+        if (r.type === 'proposed_fulfillment' && (!r.review_required || !reviewedIds.has(r.id))) {
+          err(`${base}/crossrefs.json`, `${r.id} proposed_fulfillment must be review_required with a queued review item`);
+        }
         const key = [JSON.stringify(r.from), JSON.stringify(r.to)].sort().join('|');
         const set = pairs.get(key) ?? new Set();
         set.add(r.type);
@@ -290,13 +295,13 @@ export function validateRepository(store: ResearchStore, opts: { allowFixtures?:
 
   // Chronology
   for (const m of modelIds(store)) {
-    for (const r of solve(buildSolveInput(store, m))) {
-      for (const c of r.contradictions) {
-        const label = `model ${m ?? '(model-independent)'}${Object.keys(r.choice).length ? ` choice ${JSON.stringify(r.choice)}` : ''}`;
-        // An infeasible alternative is expected when others remain feasible; it is reported, not fatal.
-        (Object.keys(r.choice).length ? warn : err)('chronology', `${label}: ${c.message}`);
-      }
-    }
+    const results = solve(buildSolveInput(store, m));
+    const label = `model ${m ?? '(model-independent)'}`;
+    const infeasibleAlternatives = results.filter((r) => !r.feasible && Object.keys(r.choice).length);
+    for (const r of results.filter((x) => !Object.keys(x.choice).length)) for (const c of r.contradictions) err('chronology', `${label}: ${c.message}`);
+    // Infeasible alternatives are expected (they rule reckonings out); all alternatives failing is an error.
+    if (infeasibleAlternatives.length && infeasibleAlternatives.length === results.length) err('chronology', `${label}: every alternative combination is infeasible`);
+    else if (infeasibleAlternatives.length) warn('chronology', `${label}: ${infeasibleAlternatives.length} of ${results.length} alternative combinations are inconsistent with the anchors (shown on the dossier)`);
   }
 
   // Jobs & reviews (schema)

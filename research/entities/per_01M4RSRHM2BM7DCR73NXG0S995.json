@@ -1,0 +1,22 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+  "slug": "jehoiakim",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKMX8FXN8V23422QTP8"
+  ],
+  "notes": null,
+  "canonical_name": "Jehoiakim",
+  "aliases": [
+    {
+      "alias": "Eliakim",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "2Kgs.23.34"
+    }
+  ],
+  "description": "King of Judah, son of Josiah; installed by Necho II.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}
