@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RV0PCCQV0F75BG0BYTEFYJ",
+  "title": "Daniel (Greek) 3 — World English Bible (eBible.org eng-web)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible translators"
+  ],
+  "publisher": "eBible.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/eng-web/DAG03.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Greek Daniel 3 (WEB)",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched the chapter",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Includes the Prayer of Azariah and the Song of the Three Young Men within chapter 3; 3:1 has no regnal date",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Contains the Greek additions (vv. 24–90). Its 3:1 lacks the \"eighteenth year\" date found in Brenton.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

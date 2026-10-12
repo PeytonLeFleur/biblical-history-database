@@ -1,0 +1,146 @@
+{
+  "event_id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Nebuchadnezzar made a gold image sixty cubits high and six cubits wide and set it up on the plain of Dura in the province of Babylon. He summoned satraps, prefects, governors and other provincial officials to its dedication, and a herald commanded all peoples, nations and languages to fall down and worship it when the instruments sounded; whoever refused would be thrown into a burning furnace.",
+    "passage": "Dan.3.1-Dan.3.7"
+  },
+  "setting": {
+    "period": "Reign of Nebuchadnezzar II (date not given in the Aramaic text)",
+    "body": "The Babylonian Chronicle records a rebellion in Akkad in Nebuchadnezzar's tenth year (Kislimu–Tebetu, c. Nov 595 – Jan 594), which he crushed, killing many of his own soldiers and capturing the leader, before receiving the submission and tribute of the kings and officials of Hatti. Herodotus mentions a golden image of Bel at Babylon.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "src_01M4RV0PC4SW6ZN9QCPEZFJXPC"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "King who set up the image",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4RV0PD1NB1NHDGHTD7TH3X9",
+      "subject": "evt_01M4RV0PCZ14167GHEZ1T1JFNT",
+      "object": "evt_01M4RTK74244FBNE62VE24RYGQ",
+      "relation": "after",
+      "textual_assertion": "certain Jews whom you have appointed over the affairs of the province of Babylon",
+      "passage": "Dan.3.12",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The appointment of Dan 2:49 precedes the dedication."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RV0PD14ZDN56GWPGK7QMXX",
+      "subject": "evt_01M4RV0PCZ14167GHEZ1T1JFNT",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In his eighteenth year (Greek Daniel 3:1, Brenton)",
+      "passage": "Dan.3.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 18,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": "chr_01M4RV0PCYKQCVA3EXP8YTWQFV",
+      "alternative_group": null,
+      "assumptions": [
+        "Reading attested in Brenton's Septuagint; absent from the Aramaic text and from the WEB Greek Daniel.",
+        "Babylonian accession-year reckoning."
+      ],
+      "citations": [
+        "src_01M4RV0PCBEYXRJ2X47TV24P5Q"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RV0PCW10SXMFXNBB5QXSZE",
+      "role": "Site of the image (location unknown)",
+      "hypotheses": [],
+      "confidence": "disputed"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "סוּמְפֹּנְיָה (sumpōnyāh)",
+      "gloss": "a musical instrument; BDB: loanword from late Greek symphōnia",
+      "citations": [
+        "src_01M4RV0PC84VKXQME2C43J9MSH"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "A loyalty assembly after the 595/594 revolt",
+      "proponents": [
+        "Proposed in conservative scholarship (e.g. W. H. Shea, AUSS 1982 — not read)"
+      ],
+      "summary": "The convocation of officials is read against the chronicle's record of an internal revolt and renewed submissions. Shea's article treats extra-biblical texts in relation to the convocation; its specific argument was not accessed and is not characterised here.",
+      "citations": [
+        "src_01M4RV0PC6RM00QHHPK3QKHGZV",
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    },
+    {
+      "label": "Folkloric court legend",
+      "proponents": [
+        "J. J. Collins (1984), A.-J. Levine (2010), via Wikipedia"
+      ],
+      "summary": "Hyperbole (the image's size, every kind of music), the folklore plot of a minister's disgrace and rehabilitation, and Daniel's absence suggest an originally independent legendary tale; the 60×6 dimensions may contrast with the 60×60 post-exilic temple (Wesselius 2002).",
+      "citations": [
+        "src_01M4RV0PC4SW6ZN9QCPEZFJXPC"
+      ]
+    },
+    {
+      "label": "Septuagint date: Nebuchadnezzar's 18th year",
+      "proponents": [
+        "Greek Daniel as rendered by Brenton"
+      ],
+      "summary": "Brenton's Septuagint dates the image to Nebuchadnezzar's eighteenth year (587/586 BC on Babylonian accession reckoning, the year of Jerusalem's fall in Jer 52:29). The date is absent from the Aramaic text and from the WEB Greek Daniel; it is modelled only under a separate Septuagint chronology model.",
+      "citations": [
+        "src_01M4RV0PCBEYXRJ2X47TV24P5Q",
+        "src_01M4RV0PCCQV0F75BG0BYTEFYJ"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RV0PC11MM6RMB1HSZQEFYW",
+      "layer": "interpretation",
+      "paraphrase": "Guzik ties the all-gold image to the dream of chapter 2 as a defiant claim that Nebuchadnezzar's kingdom would not pass. He thinks the image was a gold-overlaid pillar and mentions a mound with a pedestal as a possible site. He answers critics who date the book late from the Greek instrument names by pointing to earlier Greek contacts.",
+      "url": "https://enduringword.com/bible-commentary/daniel-3/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [
+    "Read Shea (1982) once an accessible copy is found.",
+    "Verify which Greek witnesses carry the \"eighteenth year\" reading."
+  ],
+  "not_applicable": {}
+}

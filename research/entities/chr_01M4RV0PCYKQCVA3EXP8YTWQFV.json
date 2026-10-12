@@ -1,0 +1,16 @@
+{
+  "kind": "chronology_model",
+  "id": "chr_01M4RV0PCYKQCVA3EXP8YTWQFV",
+  "slug": "lxx-daniel-dates",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RV0PCBEYXRJ2X47TV24P5Q"
+  ],
+  "notes": null,
+  "name": "Septuagint (Greek) dates in Daniel",
+  "scope": "textual_tradition",
+  "textual_tradition": "Septuagint (Brenton's English text)",
+  "is_absolute_axis": true,
+  "description": "Dates found in Greek witnesses but absent from the Masoretic/Aramaic text. Kept separate so textual traditions are never mixed (SPEC 12.6)."
+}

@@ -1,19 +1,19 @@
 # Next Action
 
-**Milestone 5, session 3: Daniel 3 (the golden image; the fiery furnace).**
+**Milestone 5, session 4: Daniel 4 (the tree dream, Nebuchadnezzar's madness and restoration).**
 
-Context: Daniel 1–2 are complete (session logs in `research/logs/`). Reuse entities by slug. Open reviews: 9. Do not decide them.
+Context: Daniel 1–3 are complete. Open reviews: 10. Do not decide them.
 
-1. `pnpm research:chapter daniel 3`; read all 30 verses (WEB). Note that Greek additions (the Prayer of Azariah and the Song of the Three) follow 3:23 in the LXX. They are non-canonical (SPEC 5.6): index them as textual sources only.
-2. Events, per SPEC 6.2:
-   - the image and its dedication on the plain of Dura (royal/religious)
-   - the accusation and refusal, and the furnace, as related sub-events
-   - the king's decree
-3. Research questions:
-   - location of Dura (candidate sites; never estimate coordinates)
-   - Babylonian royal statues and loyalty oaths (e.g. the 594 revolt in ABC 5)
-   - the musical instruments' names (Greek loanwords; Mitchell & Joyce 1965 is metadata-only)
-   - the LXX "eighteenth year" date
-   - burning as punishment (Jer 29:22)
-   - the miracle claim is not empirically testable
+1. `pnpm research:chapter daniel 4`. English 4:1–37 = Aramaic 3:31–4:34. Record the versification note: 4:1–3 = Aramaic 3:31–33.
+2. Events:
+   - the royal letter / proclamation frame (4:1–3, 34–37)
+   - the dream of the great tree and Daniel's interpretation (4:4–27): a **vision** record (tree) with the in-text identification "the tree is you"
+   - the king's boast over Babylon and his madness, "seven times" (4:28–33)
+   - the restoration (4:34–37)
+3. Research:
+   - Nebuchadnezzar's building inscriptions (the Babylon boast, 4:30)
+   - the **Prayer of Nabonidus (4Q242)** and Nabonidus's ten years at Teima as a proposed source tradition
+   - any Babylonian text read as describing Nebuchadnezzar's odd behaviour (verify before citing)
+   - the medical interpretations proposed (boanthropy); classify carefully
+   - the "seven times" interpretations
 4. Validate, audit, export, build, run e2e, and open a PR.

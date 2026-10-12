@@ -1,0 +1,39 @@
+{
+  "id": "src_01M4RV0PC84VKXQME2C43J9MSH",
+  "title": "Strong's H5481 sumponeyah — Brown-Driver-Briggs and Strong's entries (Bible Hub)",
+  "source_type": "historical_reference",
+  "authors": [
+    "Brown, F.",
+    "Driver, S. R.",
+    "Briggs, C. A."
+  ],
+  "publisher": "Bible Hub (online lexicon)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblehub.com/hebrew/5481.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public-domain lexicon text",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched the lexicon page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "BDB: loanword from late Greek symphōnia; occurs Dan 3:5, 10, 15 (Kethib/Qere variation in 3:10)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

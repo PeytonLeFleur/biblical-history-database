@@ -1,0 +1,36 @@
+{
+  "event_id": "evt_01M4RV0PCZD01CJS7ZP4VR664B",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RV0PD52REMKSGS4ZGR6QWT",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZD01CJS7ZP4VR664B"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.6.26-Dan.6.27"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Darius's decree after Daniel's deliverance mirrors this decree.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4RV0PD13M44N05438ZRM2F2"
+  ]
+}

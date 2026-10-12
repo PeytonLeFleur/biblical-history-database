@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RV0PCBEYXRJ2X47TV24P5Q",
+  "title": "Daniel 3 — Brenton's English Septuagint (1851), eBible.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Brenton, Lancelot C. L. (translator)"
+  ],
+  "publisher": "eBible.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/eng-Brenton/DAN03.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "LXX Daniel 3:1 (Brenton)",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched the chapter",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "3:1 reads \"In his eighteenth year Nabuchodonosor the king made a golden image … in the plain of Deira\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Which Greek textual tradition (Old Greek or Theodotion) carries the date was not verified.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

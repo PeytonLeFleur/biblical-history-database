@@ -1,0 +1,61 @@
+{
+  "id": "evt_01M4RV0PCZD01CJS7ZP4VR664B",
+  "slug": "nebuchadnezzar-decree-dan-3",
+  "title": "Nebuchadnezzar's decree honouring the God of the three Judeans (Dan 3:28–30)",
+  "summary": "The king blessed the God of Shadrach, Meshach and Abednego, forbade speaking against him on pain of death, and promoted the three in the province of Babylon.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4RV0PCZX7T2G2M7Y4QHXZC3"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "legal",
+    "political",
+    "royal"
+  ],
+  "priority": "medium",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT",
+  "mentions": [
+    {
+      "passage": "Dan.3.28-Dan.3.30",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "last_reviewed_at": null
+}

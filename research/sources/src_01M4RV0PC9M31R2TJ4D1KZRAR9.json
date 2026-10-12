@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4RV0PC9M31R2TJ4D1KZRAR9",
+  "title": "The Code of Hammurabi, trans. L. W. King — Avalon Project",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Hammurabi of Babylon",
+    "King, L. W. (translator)"
+  ],
+  "publisher": "Avalon Project, Yale Law School",
+  "journal": null,
+  "published_date": null,
+  "url": "https://avalon.law.yale.edu/ancient/hamcode.asp",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Code of Hammurabi §§25, 110, 157 (King trans.)",
+  "license": "Public-domain translation",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Downloaded the translation page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "§25 looter at a house fire thrown into that fire; §110 a \"sister of a god\" opening or entering a tavern burned; §157 incest with one's mother after the father's death: both burned",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Old Babylonian law (18th c. BC), not Neo-Babylonian practice.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

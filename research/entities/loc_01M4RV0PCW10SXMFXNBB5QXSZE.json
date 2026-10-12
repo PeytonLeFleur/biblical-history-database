@@ -1,0 +1,60 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RV0PCW10SXMFXNBB5QXSZE",
+  "slug": "plain-of-dura",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RV0PC76RZER2AYAMKMW05Z",
+    "src_01M4RV0PC4SW6ZN9QCPEZFJXPC"
+  ],
+  "notes": null,
+  "primary_name": "Plain of Dura",
+  "place_type": "plain",
+  "modern_name": null,
+  "modern_country": "Iraq",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Dura",
+      "language": "Aramaic",
+      "period": "Neo-Babylonian (as told)",
+      "source_id": null
+    },
+    {
+      "name": "Deira",
+      "language": "Greek (LXX, Brenton)",
+      "period": null,
+      "source_id": "src_01M4RV0PCBEYXRJ2X47TV24P5Q"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4RV0PCVNRGE23SMF433RV7G",
+      "label": "Near the mound of Dowair/Duair, south-east of Babylon (Oppert, 19th c.)",
+      "lat": null,
+      "lon": null,
+      "coordinate_precision": null,
+      "confidence": "possible",
+      "geom_source_id": null,
+      "proponents": [
+        "J. Oppert (via Smith's Bible Dictionary)"
+      ],
+      "reasoning": "A pedestal of a huge statue was reported on the mound. 19th-century report, not verified by modern publication; no sourced coordinates."
+    },
+    {
+      "id": "lhy_01M4RV0PCVHF1JQK9YC7KZRNWP",
+      "label": "A tract a little south of Tekrit on the Tigris (\"Dur\")",
+      "lat": null,
+      "lon": null,
+      "coordinate_precision": null,
+      "confidence": "possible",
+      "geom_source_id": null,
+      "proponents": [
+        "Unnamed proposers in Smith's Bible Dictionary"
+      ],
+      "reasoning": "Name similarity only; outside the province of Babylon as usually understood."
+    }
+  ],
+  "description": "Plain in the province of Babylon where the image was set up (Dan 3:1). \"Dura\" may be a common noun (\"walled place\"). Location unknown; no coordinates are recorded."
+}

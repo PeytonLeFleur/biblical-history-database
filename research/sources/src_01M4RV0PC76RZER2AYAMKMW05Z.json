@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RV0PC76RZER2AYAMKMW05Z",
+  "title": "Dura — Smith's Bible Names Dictionary (Bible Gateway)",
+  "source_type": "historical_reference",
+  "authors": [
+    "Smith, William (ed.)"
+  ],
+  "publisher": "Bible Gateway (public-domain 19th-century dictionary)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://classic.biblegateway.com/resources/smiths-bible-names-dictionary/Dura",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain text",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched the entry",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Oppert placed the plain south-east of Babylon near the mound of Dowair/Duair, where a pedestal of a huge statue was found; others proposed a tract a little south of Tekrit on the Tigris (\"Dur\")",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "19th-century reference; reports Oppert's proposal without modern verification.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

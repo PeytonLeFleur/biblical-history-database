@@ -80,6 +80,22 @@
   "description": "W. F. Albright, BASOR 100 (1945)."
  },
  {
+  "kind": "chronology_model",
+  "id": "chr_01M4RV0PCYKQCVA3EXP8YTWQFV",
+  "slug": "lxx-daniel-dates",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RV0PCBEYXRJ2X47TV24P5Q"
+  ],
+  "notes": null,
+  "name": "Septuagint (Greek) dates in Daniel",
+  "scope": "textual_tradition",
+  "textual_tradition": "Septuagint (Brenton's English text)",
+  "is_absolute_axis": true,
+  "description": "Dates found in Greek witnesses but absent from the Masoretic/Aramaic text. Kept separate so textual traditions are never mixed (SPEC 12.6)."
+ },
+ {
   "kind": "document",
   "id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
   "slug": "abc-5",
@@ -146,6 +162,28 @@
   "description": "History of Babylonia by the Babylonian priest Berossus, written in Greek c. 290–280 BC; survives only in quotations.",
   "editions": [
    "src_01M4RSRHKGZKPHPEASER435NC6"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4RV0PCZ8S2Z1VFMQT9XK3BW",
+  "slug": "prayer-of-azariah-song-of-three",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Prayer of Azariah and Song of the Three Young Men (Greek additions to Daniel 3)",
+  "document_type": "Deuterocanonical addition (non-canonical in the Protestant canon)",
+  "language": "Greek",
+  "standard_reference": "Greek Daniel 3:24–90",
+  "artifact_id": null,
+  "date": {
+   "earliest": null,
+   "latest": null
+  },
+  "description": "Prayer and hymn inserted after Dan 3:23 in Greek Daniel. Indexed as a textual source only (SPEC 5.6), not as Scripture of the 66-book canon.",
+  "editions": [
+   "src_01M4RV0PCCQV0F75BG0BYTEFYJ"
   ]
  },
  {
@@ -395,6 +433,66 @@
   "ancient_names": [],
   "hypotheses": [],
   "description": "Biblical name for the land of Babylonia (Dan 1:2). No coordinates are recorded for a region."
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4RV0PCW10SXMFXNBB5QXSZE",
+  "slug": "plain-of-dura",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RV0PC76RZER2AYAMKMW05Z",
+   "src_01M4RV0PC4SW6ZN9QCPEZFJXPC"
+  ],
+  "notes": null,
+  "primary_name": "Plain of Dura",
+  "place_type": "plain",
+  "modern_name": null,
+  "modern_country": "Iraq",
+  "kingdom_id": null,
+  "ancient_names": [
+   {
+    "name": "Dura",
+    "language": "Aramaic",
+    "period": "Neo-Babylonian (as told)",
+    "source_id": null
+   },
+   {
+    "name": "Deira",
+    "language": "Greek (LXX, Brenton)",
+    "period": null,
+    "source_id": "src_01M4RV0PCBEYXRJ2X47TV24P5Q"
+   }
+  ],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4RV0PCVNRGE23SMF433RV7G",
+    "label": "Near the mound of Dowair/Duair, south-east of Babylon (Oppert, 19th c.)",
+    "lat": null,
+    "lon": null,
+    "coordinate_precision": null,
+    "confidence": "possible",
+    "geom_source_id": null,
+    "proponents": [
+     "J. Oppert (via Smith's Bible Dictionary)"
+    ],
+    "reasoning": "A pedestal of a huge statue was reported on the mound. 19th-century report, not verified by modern publication; no sourced coordinates."
+   },
+   {
+    "id": "lhy_01M4RV0PCVHF1JQK9YC7KZRNWP",
+    "label": "A tract a little south of Tekrit on the Tigris (\"Dur\")",
+    "lat": null,
+    "lon": null,
+    "coordinate_precision": null,
+    "confidence": "possible",
+    "geom_source_id": null,
+    "proponents": [
+     "Unnamed proposers in Smith's Bible Dictionary"
+    ],
+    "reasoning": "Name similarity only; outside the province of Babylon as usually understood."
+   }
+  ],
+  "description": "Plain in the province of Babylon where the image was set up (Dan 3:1). \"Dura\" may be a common noun (\"walled place\"). Location unknown; no coordinates are recorded."
  },
  {
   "kind": "person",

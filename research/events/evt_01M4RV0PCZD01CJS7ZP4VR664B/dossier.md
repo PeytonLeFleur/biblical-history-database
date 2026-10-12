@@ -1,0 +1,535 @@
+# Nebuchadnezzar's decree honouring the God of the three Judeans (Dan 3:28–30)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Daniel 3:28–30 (narration)
+
+## Biblical account
+
+Nebuchadnezzar blessed the God who had sent his angel to deliver his servants, decreed that anyone speaking against him should be cut in pieces and his house destroyed, and promoted the three in the province of Babylon.
+
+## Historical setting
+
+**Period:** Reign of Nebuchadnezzar II
+
+Nebuchadnezzar's own inscriptions, which mostly concern building works, are devoted to Babylonian gods; no royal text consulted mentions such a decree.
+
+## Date and chronology
+
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: period
+  - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"” (Daniel 3:28) → `immediately_follows` The refusal of Shadrach, Meshach and Abednego and the fiery furnace (Dan 3:8–27)
+
+## Competing reconstructions
+
+- **Historical royal decree** (Traditional reading): An actual decree protecting the Judeans' worship. [1]
+- **Literary climax of a court legend** (Scholarship summarised by Wikipedia): The foreign king's confession is a stock feature of the court-tale genre. [2]
+
+## Claims and evidence
+
+### Nebuchadnezzar issued a decree protecting the God of the three Judeans and promoted them.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: text
+
+No such decree is known from Nebuchadnezzar's inscriptions or the chronicles consulted. This is not a disproof.
+
+
+## Related passages and events
+
+- this event → **thematic parallel** → Daniel 6:26–27 (medium): Darius's decree after Daniel's deliverance mirrors this decree.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes the three neither asked for nor would have wanted a coerced decree, since compelled worship is not true worship. [1]
+
+## Sources
+
+1. Guzik, David. Daniel 3 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-3/> — *theological commentary; verification: claim checked*
+2. Wikipedia contributors. Shadrach, Meshach, and Abednego — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Daniel_3> — *popular summary; verification: claim checked*

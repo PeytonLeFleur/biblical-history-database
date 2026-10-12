@@ -385,6 +385,126 @@ After the fall of Nineveh and Harran, Egypt under Necho II held the upper Euphra
 - **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
   - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

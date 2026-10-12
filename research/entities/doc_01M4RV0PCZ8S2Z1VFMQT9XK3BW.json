@@ -1,0 +1,22 @@
+{
+  "kind": "document",
+  "id": "doc_01M4RV0PCZ8S2Z1VFMQT9XK3BW",
+  "slug": "prayer-of-azariah-song-of-three",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Prayer of Azariah and Song of the Three Young Men (Greek additions to Daniel 3)",
+  "document_type": "Deuterocanonical addition (non-canonical in the Protestant canon)",
+  "language": "Greek",
+  "standard_reference": "Greek Daniel 3:24–90",
+  "artifact_id": null,
+  "date": {
+    "earliest": null,
+    "latest": null
+  },
+  "description": "Prayer and hymn inserted after Dan 3:23 in Greek Daniel. Indexed as a textual source only (SPEC 5.6), not as Scripture of the 66-book canon.",
+  "editions": [
+    "src_01M4RV0PCCQV0F75BG0BYTEFYJ"
+  ]
+}
