@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+const rows = [
+  'Canonical verse coverage', 'Event extraction', 'Historical research', 'External evidence research',
+  'Chronology validation', 'Cross-referencing', 'Source verification', 'Human review', 'Publication readiness',
+];
+---
+<Base title="Research progress">
+  <h1 class="font-serif text-4xl">Research progress</h1>
+  <p class="mt-3 max-w-2xl text-stone">Each completeness measure is tracked separately. Finishing verse extraction does not make a book historically researched.</p>
+  <table class="mt-8 w-full max-w-2xl border-collapse text-left">
+    <thead><tr class="border-b border-stone/40"><th class="py-2 font-semibold">Measure</th><th class="py-2 font-semibold">Status</th></tr></thead>
+    <tbody>
+      {rows.map((r) => (<tr class="border-b border-parchment"><td class="py-2">{r}</td><td class="py-2 text-stone">Not started</td></tr>))}
+    </tbody>
+  </table>
+</Base>

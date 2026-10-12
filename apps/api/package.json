@@ -1,0 +1,17 @@
+{
+  "name": "@atlas/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "tsx src/server.ts",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@atlas/shared": "workspace:*",
+    "fastify": "5.12.5",
+    "postgres": "3.4.9",
+    "zod": "4.3.3"
+  }
+}

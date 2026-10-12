@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    services:
+      db:
+        image: postgis/postgis:16-3.4
+        env:
+          POSTGRES_USER: atlas
+          POSTGRES_PASSWORD: atlas
+          POSTGRES_DB: atlas
+        ports: ['5433:5432']
+        options: >-
+          --health-cmd "pg_isready -U atlas -d atlas"
+          --health-interval 5s --health-timeout 5s --health-retries 20
+    env:
+      DATABASE_URL: postgres://atlas:atlas@localhost:5433/atlas
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm vitest run --project unit
+      - name: Database tests
+        run: |
+          if [ -f packages/database/drizzle/meta/_journal.json ]; then
+            pnpm db:migrate && pnpm db:seed && pnpm vitest run --project db
+          else
+            echo "No migrations yet; skipping DB tests."
+          fi
+      - run: pnpm build

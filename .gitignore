@@ -1,4 +1,30 @@
-.DS_Store
+# dependencies
 node_modules/
+.pnpm-store/
+
+# builds
+dist/
+.astro/
+apps/web/dist/
+coverage/
+*.tsbuildinfo
+
+# env & secrets — never commit
 .env
-.env.local
+.env.*
+!.env.example
+
+# raw third-party downloads (untrusted, possibly restricted)
+data/imports/raw/
+
+# private review material
+research/reviews/private/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# test artifacts
+playwright-report/
+test-results/

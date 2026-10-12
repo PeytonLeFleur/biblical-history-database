@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<Base title="Biblical History Atlas">
+  <p class="text-sm uppercase tracking-widest text-brass">Research collection · In development</p>
+  <h1 class="mt-3 font-serif text-4xl leading-tight sm:text-5xl">Scripture in its historical world</h1>
+  <p class="mt-6 max-w-2xl font-serif text-lg leading-relaxed">
+    A research atlas connecting the 66 books of the Protestant Bible with ancient documents, archaeology,
+    scientific study, chronology, and geography. Every claim is traced to its source, and every uncertainty stays visible.
+  </p>
+
+  <section class="mt-12 border-t border-stone/30 pt-8" aria-labelledby="distinctions">
+    <h2 id="distinctions" class="font-serif text-2xl">Four kinds of knowledge, kept distinct</h2>
+    <dl class="mt-6 grid gap-6 sm:grid-cols-2">
+      <div><dt class="font-semibold text-olive">Biblical text</dt><dd class="mt-1 text-stone">What Scripture explicitly records.</dd></div>
+      <div><dt class="font-semibold text-olive">Biblical interpretation</dt><dd class="mt-1 text-stone">What commentators and theological traditions conclude.</dd></div>
+      <div><dt class="font-semibold text-olive">Historical reconstruction</dt><dd class="mt-1 text-stone">What scholars infer about ancient circumstances and chronology.</dd></div>
+      <div><dt class="font-semibold text-olive">External evidence</dt><dd class="mt-1 text-stone">What independent documents, archaeology, and science establish.</dd></div>
+    </dl>
+  </section>
+
+  <section class="mt-12 border-t border-stone/30 pt-8" aria-labelledby="status">
+    <h2 id="status" class="font-serif text-2xl">Current status</h2>
+    <p class="mt-3 max-w-2xl text-stone">
+      No historical research records have been published yet. The project foundation is being built.
+      See <a class="underline hover:text-brass" href={`${base}/progress/`}>research progress</a> for what exists today.
+    </p>
+  </section>
+</Base>

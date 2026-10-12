@@ -1,0 +1,48 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'A source-verified research atlas connecting Scripture with ancient history, archaeology, chronology, and geography.' } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const nav = [
+  { href: `${base}/books/`, label: 'Books' },
+  { href: `${base}/methodology/`, label: 'Methodology' },
+  { href: `${base}/progress/`, label: 'Research progress' },
+  { href: `${base}/about/`, label: 'About' },
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <title>{title === 'Biblical History Atlas' ? title : `${title} · Biblical History Atlas`}</title>
+  </head>
+  <body class="min-h-screen">
+    <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 bg-parchment px-3 py-2">Skip to content</a>
+    <header class="border-b border-stone/30">
+      <div class="mx-auto flex max-w-5xl flex-wrap items-baseline justify-between gap-4 px-4 py-5">
+        <a href={`${base}/`} class="font-serif text-xl tracking-tight text-ink no-underline">Biblical History Atlas</a>
+        <nav aria-label="Primary">
+          <ul class="flex flex-wrap gap-x-6 gap-y-2 text-sm text-olive">
+            {nav.map((n) => <li><a class="hover:text-brass" href={n.href}>{n.label}</a></li>)}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="mx-auto max-w-5xl px-4 py-10">
+      <slot />
+    </main>
+    <footer class="border-t border-stone/30 text-sm text-stone">
+      <div class="mx-auto max-w-5xl px-4 py-6">
+        Source code MIT · Original research records CC BY 4.0 ·
+        <a class="underline hover:text-brass" href="https://github.com/PeytonLeFleur/biblical-history-database">Repository</a>
+      </div>
+    </footer>
+  </body>
+</html>

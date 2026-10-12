@@ -1,0 +1,40 @@
+---
+import Base from '../layouts/Base.astro';
+const stages = [
+  ['Scripture extraction', 'Every verse of a book is read and given a coverage status. Historically researchable candidates are classified by literary type.'],
+  ['Historical reconstruction', 'Setting, rulers, kingdoms, geography, and competing date models, each tied to citations.'],
+  ['External evidence', 'Archaeology, inscriptions, ancient documents, geology, astronomy, and peer-reviewed research. News is traced back to the original findings.'],
+  ['Canonical cross-referencing', 'Typed relationships across all 66 books. Thematic similarity is never treated as historical identity.'],
+  ['Publication and validation', 'Automated checks for references, citations, chronology, geography, and copyright, followed by labeled publication.'],
+];
+const classes = [
+  ['Independently corroborated', 'Independent evidence directly establishes the specific claim.'],
+  ['Strongly supported', 'A substantial cumulative case, with material uncertainty remaining.'],
+  ['Historically plausible', 'Consistent with known context, but not directly established.'],
+  ['Disputed', 'Material disagreement over evidence, dating, or identification.'],
+  ['No independent corroboration found', 'A documented search found nothing sufficient. This is not disproof.'],
+  ['Contradicted by available evidence', 'Substantial evidence conflicts with the specific claim.'],
+  ['Not empirically testable', 'Cannot be assessed by historical or scientific methods. This is not a theological verdict.'],
+];
+---
+<Base title="Research methodology">
+  <h1 class="font-serif text-4xl">Research methodology</h1>
+  <section class="mt-8">
+    <h2 class="font-serif text-2xl">Five research stages</h2>
+    <ol class="mt-4 space-y-4">
+      {stages.map(([t, d], i) => (
+        <li class="grid grid-cols-[2rem_1fr] gap-2">
+          <span class="font-serif text-brass">{i + 1}.</span>
+          <div><p class="font-semibold">{t}</p><p class="text-stone">{d}</p></div>
+        </li>
+      ))}
+    </ol>
+  </section>
+  <section class="mt-10 border-t border-stone/30 pt-8">
+    <h2 class="font-serif text-2xl">Evidence classifications</h2>
+    <dl class="mt-4 space-y-3">
+      {classes.map(([t, d]) => (<div><dt class="font-semibold text-olive">{t}</dt><dd class="text-stone">{d}</dd></div>))}
+    </dl>
+    <p class="mt-6 text-sm text-stone">Classifications proposed during research are labeled machine-proposed until the project owner reviews them.</p>
+  </section>
+</Base>
