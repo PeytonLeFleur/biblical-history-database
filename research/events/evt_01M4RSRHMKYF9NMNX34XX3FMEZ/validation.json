@@ -1,0 +1,58 @@
+{
+  "event_id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+  "revision": 1,
+  "validated_at": "2026-10-12",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": false,
+      "details": [
+        "scripture_extraction: not_started",
+        "historical_reconstruction: in_progress",
+        "external_evidence: not_started",
+        "cross_referencing: not_started"
+      ]
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": false,
+      "details": [
+        "context.json not complete",
+        "evidence.json not complete",
+        "crossrefs.json not complete"
+      ]
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": false,
+      "details": [
+        "no competing reconstructions recorded (or not_applicable reason)"
+      ]
+    }
+  ],
+  "publication_level": "preliminary",
+  "open_reviews": [],
+  "research_gaps": [],
+  "disputes": [],
+  "export_eligible": true
+}

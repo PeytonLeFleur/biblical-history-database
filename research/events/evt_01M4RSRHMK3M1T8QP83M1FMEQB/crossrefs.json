@@ -1,0 +1,120 @@
+{
+  "event_id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RSRHN55K2NXCNT0E6CNETX",
+      "type": "direct_reference",
+      "from": {
+        "kind": "passage",
+        "ref": "Jer.46.2"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Names Necho's army at Carchemish struck by Nebuchadnezzar.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN5R898PR66213N2BBD",
+      "type": "historical_consequence",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Kgs.24.7"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "\"The king of Egypt didn't come out of his land any more\" reflects Babylonian control from the Brook of Egypt to the Euphrates after Carchemish.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN5TCAGS498J4A99B6A",
+      "type": "same_location",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.35.20"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Necho's earlier march to Carchemish (609 BC, when Josiah died) — a distinct campaign at the same place.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN5D0C5P1KCW8409EPF",
+      "type": "same_period",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.25.1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jehoiakim's fourth year, equated with Nebuchadnezzar's first.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Pharaoh Necoh",
+      "resolved_to": "per_01M4RSRHM3EYYN9YJSRMAW06DS",
+      "basis": "Jer 46:2; 2 Kgs 23:29",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4RSRHMNB555KMY4D1CXRKQM",
+    "cst_01M4RSRHMNSKPVFTS8FEGQH6TC",
+    "cst_01M4RSRHMN2RRMJC9XGZ2RQ2A1",
+    "cst_01M4RSRHMNMP2JADM8M3NGZ5YA"
+  ]
+}

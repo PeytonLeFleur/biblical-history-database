@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RSRHKJPE1W5EZQ74BN6B0E",
+  "title": "Daniel (Westminster Bible Companion)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Seow, C. L."
+  ],
+  "publisher": "Westminster John Knox Press",
+  "journal": null,
+  "published_date": "2003",
+  "url": "https://openlibrary.org/works/OL2946172W",
+  "doi": null,
+  "isbn": "0664256759",
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Open Library record OL2946172W",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed; cited via Wikipedia.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

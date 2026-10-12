@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RSRHKMX8FXN8V23422QTP8",
+  "title": "Jehoiakim — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Jehoiakim",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Reign 609–598 BC; appointed by Necho II after Harran, three months after Josiah's death (Lipschits 2002); fall of Jerusalem 2 Adar (16 March) 597 BC; 605 siege claim marked \"citation needed\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,89 @@
+{
+  "event_id": "evt_01M4RSRHMKXKQME68JMA71TAZ6",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Daniel resolved not to defile himself with the king's food and wine and asked the official's steward to test the four youths on vegetables and water for ten days; afterwards they looked healthier than the others and were allowed to continue.",
+    "passage": "Dan.1.8-Dan.1.16"
+  },
+  "setting": {
+    "period": "Training at the Babylonian court",
+    "body": "A private episode within the court training described in Daniel 1.",
+    "citations": []
+  },
+  "rulers": [],
+  "kingdoms": [],
+  "constraints": [
+    {
+      "id": "cst_01M4RSRHMVRJW763TYCEQKK7CZ",
+      "subject": "evt_01M4RSRHMKXKQME68JMA71TAZ6",
+      "object": "evt_01M4RSRHMKFBYZNZXBYS1VGB10",
+      "relation": "during",
+      "textual_assertion": "the steward whom the prince of the eunuchs had appointed over Daniel",
+      "passage": "Dan.1.11",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "period",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Ritual purity (kashrut)",
+      "proponents": [
+        "Matthews & Moyer (2012), via Wikipedia"
+      ],
+      "summary": "Daniel avoided food that broke Jewish dietary or ritual-slaughter laws.",
+      "citations": [
+        "src_01M4RSRHKG1X6VCYVRC07WE0K7"
+      ]
+    },
+    {
+      "label": "Food and wine offered to Babylonian gods",
+      "proponents": [
+        "Levine (2010), via Wikipedia",
+        "D. Guzik"
+      ],
+      "summary": "The royal provisions had been offered to idols.",
+      "citations": [
+        "src_01M4RSRHKG1X6VCYVRC07WE0K7",
+        "src_01M4RSRHKRA5C6V2KYQKDNK9ZD"
+      ]
+    },
+    {
+      "label": "Refusing covenant fellowship and dependence on the king",
+      "proponents": [
+        "D. Guzik"
+      ],
+      "summary": "Eating at the king's table implied loyalty to and dependence on the Babylonian king.",
+      "citations": [
+        "src_01M4RSRHKRA5C6V2KYQKDNK9ZD"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+      "layer": "interpretation",
+      "paraphrase": "Guzik commends Daniel's resolve formed in advance and his courteous, testable proposal, and treats the outcome as God's blessing on faithfulness.",
+      "url": "https://enduringword.com/bible-commentary/daniel-1/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "geography": "Location is the royal court, already recorded on the parent event."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+  "slug": "nebuchadnezzar-ii",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
+  "notes": null,
+  "canonical_name": "Nebuchadnezzar II",
+  "aliases": [
+    {
+      "alias": "Nebuchadnezzar",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "Dan.1.1"
+    },
+    {
+      "alias": "Nebuchadrezzar",
+      "language": "Hebrew (English form)",
+      "source_id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+      "passage": null
+    },
+    {
+      "alias": "Nabû-kudurri-uṣur",
+      "language": "Akkadian",
+      "source_id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+      "passage": null
+    }
+  ],
+  "description": "King of Babylon 605–562 BC.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+}

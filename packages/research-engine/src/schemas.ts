@@ -198,6 +198,8 @@ export const ConstraintRecord = z.object({
   offset: z.object({ min: z.number(), max: z.number() }).nullable().default(null),
   unit: z.enum(['days', 'months', 'years']).nullable().default(null),
   regnal_year: z.number().int().nullable().default(null),
+  /** Constraints sharing alternative_group and alternative_option are chosen together (one author's reckoning). */
+  alternative_option: z.string().nullable().default(null),
   /** Reckoning used by this text's author, which may differ from other texts about the same reign (SPEC 12.4). */
   regnal_convention: z.object({ reckoning: z.enum(['accession', 'non_accession']), new_year: z.enum(['nisan', 'tishri', 'january']) }).nullable().default(null),
   precision: Precision,
@@ -435,6 +437,14 @@ export const PlaceEntity = z.object({
   description: z.string().nullable().default(null),
 });
 
+/** A proleptic-Julian day window (astronomical years) with its basis (SPEC 12.5). */
+export const JulianWindow = z.object({
+  from: z.object({ year: z.number().int(), month: z.number().int().min(1).max(12), day: z.number().int().min(1).max(31) }),
+  to: z.object({ year: z.number().int(), month: z.number().int().min(1).max(12), day: z.number().int().min(1).max(31) }),
+  basis: z.string().min(1),
+  citations,
+});
+
 export const ReignEntity = z.object({
   kind: z.literal('reign'), id: Ids.reign, ...entityBase,
   person_id: Ids.person,
@@ -449,6 +459,9 @@ export const ReignEntity = z.object({
   predecessor_reign_id: Ids.reign.nullable().default(null),
   stated_length_years: z.number().int().nullable().default(null),
   stated_length_passage: osisPassage.nullable().default(null),
+  /** Day-level windows (override the year bounds in the solver) when sources support that precision. */
+  start_window: JulianWindow.nullable().default(null),
+  end_window: JulianWindow.nullable().default(null),
   regnal_convention: z.object({
     reckoning: z.enum(['accession', 'non_accession']),
     new_year: z.enum(['nisan', 'tishri', 'january']),
@@ -514,6 +527,7 @@ export const SynchronismEntity = z.object({
   competing_interpretations: z.array(z.object({ label: z.string(), summary: z.string(), citations })).default([]),
   /** When set, the independent date anchors this subject in the chronology solver as external evidence. */
   anchor_subject: z.string().nullable().default(null),
+  window: JulianWindow.nullable().default(null),
   reviewer_status: ReviewerStatus.default('machine_proposed'),
 });
 

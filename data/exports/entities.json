@@ -1,5 +1,53 @@
 [
  {
+  "kind": "artifact",
+  "id": "art_01M4RSRHMBKKHJPG1DMC9KWWMZ",
+  "slug": "bm-21946-babylonian-chronicle",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKF2D9HDCYYF0HCQPW5"
+  ],
+  "notes": null,
+  "name": "Babylonian Chronicle tablet BM 21946 (ABC 5)",
+  "artifact_type": "Clay tablet (cuneiform chronicle)",
+  "findspot_site_id": null,
+  "findspot_description": "Unprovenanced: purchased from a dealer in 1896; original excavation unknown.",
+  "current_institution": "British Museum, London",
+  "accession_number": "BM 21946 (1896,0409.51 / 96-4-9, 51)",
+  "date": {
+   "earliest": -594,
+   "latest": -594
+  },
+  "description": "Chronicle covering Nebuchadnezzar II's first eleven years: Carchemish (605), the accession, Levantine campaigns, and the capture of \"the city of Judah\" (597). Date of writing given as c. 595 BC by Wikipedia.",
+  "image": null,
+  "institution_url": null
+ },
+ {
+  "kind": "artifact",
+  "id": "art_01M4RSRHMG3X170BXKM9NM94W0",
+  "slug": "jehoiachin-ration-tablets",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKN0V607MATVNE8J925"
+  ],
+  "notes": null,
+  "name": "Jehoiachin's ration tablets (Babylon)",
+  "artifact_type": "Clay tablets (administrative ration lists)",
+  "findspot_site_id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
+  "findspot_description": "Vaulted building near the Ishtar Gate, Babylon (Koldewey excavations).",
+  "current_institution": "Vorderasiatisches Museum, Pergamon Museum, Berlin",
+  "accession_number": "VAT 16378 (pictured); Babylon 28122, 28178, 28186",
+  "date": {
+   "earliest": -594,
+   "latest": -569
+  },
+  "description": "Oil ration lists naming Ya'u-kīnu, king of the land of Yahudu, and his sons among foreign recipients at the Babylonian court.",
+  "image": null,
+  "institution_url": null
+ },
+ {
   "kind": "chronology_model",
   "id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
   "slug": "thiele-1983",
@@ -32,6 +80,75 @@
   "description": "W. F. Albright, BASOR 100 (1945)."
  },
  {
+  "kind": "document",
+  "id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+  "slug": "abc-5",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Babylonian Chronicle ABC 5 (Jerusalem Chronicle)",
+  "document_type": "Chronicle",
+  "language": "Akkadian (Late Babylonian)",
+  "standard_reference": "ABC 5 (Grayson 1975); Wiseman 1956",
+  "artifact_id": "art_01M4RSRHMBKKHJPG1DMC9KWWMZ",
+  "date": {
+   "earliest": -604,
+   "latest": -593
+  },
+  "description": null,
+  "editions": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKETFKGA2ZZE6XATJKW",
+   "src_01M4RSRHKEXBD2ZM537158C42W"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4RSRHMETT3GC5VKG80MSVFP",
+  "slug": "abc-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Babylonian Chronicle ABC 3 (Fall of Nineveh Chronicle)",
+  "document_type": "Chronicle",
+  "language": "Akkadian",
+  "standard_reference": "ABC 3 (Grayson 1975)",
+  "artifact_id": null,
+  "date": {
+   "earliest": -615,
+   "latest": -607
+  },
+  "description": null,
+  "editions": [
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+   "src_01M4RSRHKETFKGA2ZZE6XATJKW"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4RSRHMF26G7XKV3P9MB5CAZ",
+  "slug": "berossus-babyloniaca",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Berossus, Babyloniaca (fragments)",
+  "document_type": "Historiography (fragmentary; preserved in later authors)",
+  "language": "Greek",
+  "standard_reference": "Quoted in Josephus, Against Apion 1.19",
+  "artifact_id": null,
+  "date": {
+   "earliest": -289,
+   "latest": -279
+  },
+  "description": "History of Babylonia by the Babylonian priest Berossus, written in Greek c. 290–280 BC; survives only in quotations.",
+  "editions": [
+   "src_01M4RSRHKGZKPHPEASER435NC6"
+  ]
+ },
+ {
   "kind": "kingdom",
   "id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
   "slug": "judah",
@@ -52,6 +169,41 @@
   "notes": null,
   "name": "Kingdom of Israel (Northern Kingdom)",
   "description": "Northern Israelite kingdom with its capital at Samaria."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "slug": "neo-babylonian-empire",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
+  "notes": null,
+  "name": "Neo-Babylonian Empire",
+  "description": "Babylonian empire of the Chaldean dynasty, from Nabopolassar (626 BC) to the fall of Babylon (539 BC)."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4RSRHM0ETGRBDHFPX8477ET",
+  "slug": "egypt-saite",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Egypt (Twenty-sixth Dynasty)",
+  "description": "Saite dynasty of Egypt, including Necho II."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+  "slug": "achaemenid-persian-empire",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Achaemenid Persian Empire",
+  "description": "Persian empire founded by Cyrus II."
  },
  {
   "kind": "place",
@@ -170,6 +322,81 @@
   "description": null
  },
  {
+  "kind": "place",
+  "id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+  "slug": "babylon",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Babylon",
+  "place_type": "settlement",
+  "modern_name": "Babil (ruins near Hillah)",
+  "modern_country": "Iraq",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "ancient_names": [],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4RSRHM72B242YVQ6H8SYS2V",
+    "label": "Babylon (Pleiades 893951)",
+    "lat": 32.53729695,
+    "lon": 44.42497815,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4RSRHKSNX6HS6J0FDKPETW8",
+    "proponents": [],
+    "reasoning": "Identification and representative point from the Pleiades gazetteer."
+   }
+  ],
+  "description": null
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4RSRHM9M410W5353093YPSM",
+  "slug": "carchemish",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Carchemish",
+  "place_type": "settlement",
+  "modern_name": "Karkamış / Jarablus",
+  "modern_country": "Turkey / Syria border",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4RSRHM8AMJR7M1GF4K0YE5Q",
+    "label": "Carchemish (Pleiades 658465)",
+    "lat": 36.829422953272655,
+    "lon": 38.014920519720285,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4RSRHKTT91J3AHDT40HYRTX",
+    "proponents": [],
+    "reasoning": "Identification and representative point from the Pleiades gazetteer."
+   }
+  ],
+  "description": null
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4RSRHM9YTFFFDKAZA0NJ3Y9",
+  "slug": "shinar",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Shinar",
+  "place_type": "region",
+  "modern_name": "Southern Mesopotamia (Babylonia)",
+  "modern_country": "Iraq",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [],
+  "description": "Biblical name for the land of Babylonia (Dan 1:2). No coordinates are recorded for a region."
+ },
+ {
   "kind": "person",
   "id": "per_01M4RPJVYG82Y6S92J1Y4G5JTH",
   "slug": "amos-prophet",
@@ -229,6 +456,229 @@
   "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
  },
  {
+  "kind": "person",
+  "id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+  "slug": "nebuchadnezzar-ii",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
+  "notes": null,
+  "canonical_name": "Nebuchadnezzar II",
+  "aliases": [
+   {
+    "alias": "Nebuchadnezzar",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "Dan.1.1"
+   },
+   {
+    "alias": "Nebuchadrezzar",
+    "language": "Hebrew (English form)",
+    "source_id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+    "passage": null
+   },
+   {
+    "alias": "Nabû-kudurri-uṣur",
+    "language": "Akkadian",
+    "source_id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+    "passage": null
+   }
+  ],
+  "description": "King of Babylon 605–562 BC.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+  "slug": "jehoiakim",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKMX8FXN8V23422QTP8"
+  ],
+  "notes": null,
+  "canonical_name": "Jehoiakim",
+  "aliases": [
+   {
+    "alias": "Eliakim",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "2Kgs.23.34"
+   }
+  ],
+  "description": "King of Judah, son of Josiah; installed by Necho II.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM2CMQVRY0A1TNCPECQ",
+  "slug": "nabopolassar",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+  ],
+  "notes": null,
+  "canonical_name": "Nabopolassar",
+  "aliases": [
+   {
+    "alias": "Nabolassar",
+    "language": "Greek via Josephus (Whiston)",
+    "source_id": "src_01M4RSRHKGZKPHPEASER435NC6",
+    "passage": null
+   }
+  ],
+  "description": "Founder of the Neo-Babylonian dynasty; father of Nebuchadnezzar II.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+  "slug": "daniel-prophet",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Daniel",
+  "aliases": [
+   {
+    "alias": "Belteshazzar",
+    "language": "Babylonian name (Hebrew form)",
+    "source_id": "src_01M4RSRHKPDX1NK68B6VM1ZNEE",
+    "passage": "Dan.1.7"
+   }
+  ],
+  "description": "Judean exile at the Babylonian and Persian courts; principal figure of the book of Daniel.",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM3EYYN9YJSRMAW06DS",
+  "slug": "necho-ii",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Necho II",
+  "aliases": [
+   {
+    "alias": "Pharaoh Necoh",
+    "language": "English (WEB)",
+    "source_id": null,
+    "passage": "Jer.46.2"
+   }
+  ],
+  "description": "Pharaoh of Egypt.",
+  "kingdom_id": "kgd_01M4RSRHM0ETGRBDHFPX8477ET"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM415KGK5QA69N7A2Z0",
+  "slug": "mishael-meshach",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Mishael (Meshach)",
+  "aliases": [
+   {
+    "alias": "Mishael",
+    "language": "Hebrew",
+    "source_id": null,
+    "passage": "Dan.1.6"
+   },
+   {
+    "alias": "Meshach",
+    "language": "Babylonian name",
+    "source_id": null,
+    "passage": "Dan.1.7"
+   }
+  ],
+  "description": "Judean youth trained at the Babylonian court with Daniel.",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM4JRP1N1HRHKKZ20DB",
+  "slug": "hananiah-shadrach",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Hananiah (Shadrach)",
+  "aliases": [
+   {
+    "alias": "Hananiah",
+    "language": "Hebrew",
+    "source_id": null,
+    "passage": "Dan.1.6"
+   },
+   {
+    "alias": "Shadrach",
+    "language": "Babylonian name",
+    "source_id": null,
+    "passage": "Dan.1.7"
+   }
+  ],
+  "description": "Judean youth trained at the Babylonian court with Daniel. Distinct from other Hananiahs.",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM5YH1DXBY071RCYWH6",
+  "slug": "azariah-abednego",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Azariah (Abednego)",
+  "aliases": [
+   {
+    "alias": "Abednego",
+    "language": "Babylonian name",
+    "source_id": null,
+    "passage": "Dan.1.7"
+   }
+  ],
+  "description": "Judean youth trained at the Babylonian court with Daniel. Distinct from King Azariah (Uzziah) and other Azariahs.",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM6YW5ABGV2NQ13SYSD",
+  "slug": "ashpenaz",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Ashpenaz",
+  "aliases": [],
+  "description": "Master of the eunuchs (chief court official) under Nebuchadnezzar (Dan 1:3).",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+  "slug": "cyrus-ii",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Cyrus II (the Great)",
+  "aliases": [
+   {
+    "alias": "Cyrus",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "Dan.1.21"
+   }
+  ],
+  "description": "Achaemenid king; conquered Babylon in 539 BC.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+ },
+ {
   "kind": "reign",
   "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
   "slug": "uzziah-reign-albright",
@@ -257,6 +707,8 @@
   "predecessor_reign_id": null,
   "stated_length_years": 52,
   "stated_length_passage": "2Kgs.15.2",
+  "start_window": null,
+  "end_window": null,
   "regnal_convention": null
  },
  {
@@ -288,6 +740,8 @@
   "predecessor_reign_id": null,
   "stated_length_years": 41,
   "stated_length_passage": "2Kgs.14.23",
+  "start_window": null,
+  "end_window": null,
   "regnal_convention": null
  },
  {
@@ -319,6 +773,8 @@
   "predecessor_reign_id": null,
   "stated_length_years": 52,
   "stated_length_passage": "2Kgs.15.2",
+  "start_window": null,
+  "end_window": null,
   "regnal_convention": null
  },
  {
@@ -350,6 +806,293 @@
   "predecessor_reign_id": null,
   "stated_length_years": 41,
   "stated_length_passage": "2Kgs.14.23",
+  "start_window": null,
+  "end_window": null,
   "regnal_convention": null
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+  "slug": "nebuchadnezzar-ii-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
+  "notes": "Babylonian reign dates are fixed by the chronicles, Ptolemy's Canon and astronomical texts; treated here as model-independent.",
+  "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "model_id": null,
+  "title": "King of Babylon",
+  "start": {
+   "earliest": -604,
+   "latest": -604
+  },
+  "end": {
+   "earliest": -561,
+   "latest": -561
+  },
+  "precision": "month",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+   "from": {
+    "year": -604,
+    "month": 8,
+    "day": 15
+   },
+   "to": {
+    "year": -604,
+    "month": 9,
+    "day": 7
+   },
+   "basis": "ABC 5: Nabopolassar died 8 Abu (15 Aug 605) and Nebuchadnezzar took the throne on 1 Ululu (7 Sep 605); Julian equivalents per Parker & Dubberstein as given by Livius.",
+   "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -561,
+    "month": 10,
+    "day": 1
+   },
+   "to": {
+    "year": -561,
+    "month": 10,
+    "day": 8
+   },
+   "basis": "Last tablet of Nebuchadnezzar and first of Amel-Marduk dated to the same day, 7 Oct 562 BC (Parker & Dubberstein 1942, via Wikipedia); one-week window.",
+   "citations": [
+    "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+   ]
+  },
+  "regnal_convention": null
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+  "slug": "jehoiakim-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKMX8FXN8V23422QTP8",
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+  ],
+  "notes": "Model-independent reconstruction from the Babylonian chronicles and the stated reign lengths; individual chronologists differ by months.",
+  "person_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": null,
+  "title": "King of Judah",
+  "start": {
+   "earliest": -608,
+   "latest": -607
+  },
+  "end": {
+   "earliest": -597,
+   "latest": -596
+  },
+  "precision": "month",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 11,
+  "stated_length_passage": "2Kgs.23.36",
+  "start_window": {
+   "from": {
+    "year": -608,
+    "month": 8,
+    "day": 1
+   },
+   "to": {
+    "year": -607,
+    "month": 1,
+    "day": 31
+   },
+   "basis": "Josiah was killed as Necho marched north (2 Kgs 23:29); the Egyptian army crossed the Euphrates against Harran in Du'ûzu 609 and besieged it until Ulûlu (ABC 3); Jehoahaz reigned three months (2 Kgs 23:31) before Necho installed Jehoiakim (2 Kgs 23:34). Conservative window 1 Aug 609 – 31 Jan 608.",
+   "citations": [
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+    "src_01M4RSRHKMX8FXN8V23422QTP8"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -597,
+    "month": 11,
+    "day": 1
+   },
+   "to": {
+    "year": -596,
+    "month": 3,
+    "day": 15
+   },
+   "basis": "Jehoiachin reigned three months (2 Kgs 24:8; \"three months and ten days\", 2 Chr 36:9) before Jerusalem was taken on 2 Addaru of Nebuchadnezzar's 7th year (ABC 5), i.e. 15/16 March 597; Jehoiakim's reign therefore ended roughly Nov 598 – Mar 597.",
+   "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4RSRHKMX8FXN8V23422QTP8"
+   ]
+  },
+  "regnal_convention": null
+ },
+ {
+  "kind": "site",
+  "id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
+  "slug": "babylon-excavations",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKN0V607MATVNE8J925"
+  ],
+  "notes": null,
+  "name": "Babylon (German excavations under R. Koldewey, 1899–1917)",
+  "place_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+  "lat": 32.53729695,
+  "lon": 44.42497815,
+  "geom_source_id": "src_01M4RSRHKSNX6HS6J0FDKPETW8",
+  "description": null
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4RSRHMPGPKTFABRVQG1QHR1",
+  "slug": "carchemish-605-jer-46-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKF2D9HDCYYF0HCQPW5"
+  ],
+  "notes": null,
+  "title": "Carchemish: Nabopolassar year 21 (ABC 5) = Jehoiakim year 4 (Jer 46:2)",
+  "type": "documentary_correlation",
+  "passage": "Jer.46.2",
+  "biblical_subject": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+  "external_entity": "Babylonian Chronicle ABC 5, obverse 1–8",
+  "external_document_id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+  "external_source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+  "proposed_synchronization": "Jeremiah 46:2 and the Babylonian Chronicle describe the same defeat of Necho II's army at Carchemish; the chronicle places it in Nabopolassar's 21st year, before his death on 8 Abu.",
+  "independent_date": {
+   "earliest": -604,
+   "latest": -604
+  },
+  "precision": "month",
+  "dating_method": "Babylonian regnal year fixed to 605 BC by Ptolemy's Canon and astronomical texts (Parker & Dubberstein, via Livius)",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "The Jeremiah superscription and the chronicle refer to one battle (both name Carchemish, Necho and Nebuchadnezzar)."
+  ],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+  "window": {
+   "from": {
+    "year": -604,
+    "month": 3,
+    "day": 1
+   },
+   "to": {
+    "year": -604,
+    "month": 8,
+    "day": 15
+   },
+   "basis": "Narrated within Nabopolassar's 21st year (which began in Nisan 605, i.e. March/April) and before his death on 8 Abu = 15 Aug 605. Window starts 1 March for safety.",
+   "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+   ]
+  },
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4RSRHMRDKVY31PHEB4EM78N",
+  "slug": "jerusalem-597-abc-5",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKF2D9HDCYYF0HCQPW5"
+  ],
+  "notes": null,
+  "title": "Capture of \"the city of Judah\" on 2 Addaru, Nebuchadnezzar year 7 (ABC 5) = Jehoiachin's surrender (2 Kgs 24:10–15)",
+  "type": "documentary_correlation",
+  "passage": "2Kgs.24.10-2Kgs.24.15",
+  "biblical_subject": null,
+  "external_entity": "Babylonian Chronicle ABC 5, reverse 11′–13′",
+  "external_document_id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+  "external_source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+  "proposed_synchronization": "The chronicle's capture of the city of Judah and its king, and the installation of a king of Nebuchadnezzar's choice, correspond to Jehoiachin's surrender and Zedekiah's appointment.",
+  "independent_date": {
+   "earliest": -596,
+   "latest": -596
+  },
+  "precision": "day",
+  "dating_method": "Babylonian date 2 Addaru, year 7 of Nebuchadnezzar = 15/16 March 597 BC (Parker & Dubberstein)",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "\"City of Judah\" = Jerusalem; the unnamed king = Jehoiachin (identifications by the editors).",
+   "The 2 Kings event itself is to be researched in Milestone 6; this record documents the anchor used for Jehoiakim's reign end."
+  ],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": null,
+  "window": {
+   "from": {
+    "year": -596,
+    "month": 3,
+    "day": 15
+   },
+   "to": {
+    "year": -596,
+    "month": 3,
+    "day": 16
+   },
+   "basis": "2 Addaru year 7 (ABC 5) = 15/16 March 597 BC.",
+   "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4RSRHKMX8FXN8V23422QTP8"
+   ]
+  },
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4RSRHMS80BADRKK893CDHT1",
+  "slug": "jer-25-1-jehoiakim-4-nebuchadnezzar-1",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+  ],
+  "notes": null,
+  "title": "Jehoiakim year 4 = Nebuchadnezzar year 1 (Jer 25:1)",
+  "type": "reign_synchronization",
+  "passage": "Jer.25.1",
+  "biblical_subject": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+  "external_entity": "Nebuchadnezzar II's regnal years (Babylonian, from ABC 5)",
+  "external_document_id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+  "external_source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+  "proposed_synchronization": "Jeremiah 25:1 equates Jehoiakim's fourth year with Nebuchadnezzar's first; the Babylonian accession on 7 Sep 605 fixes Nebuchadnezzar's years.",
+  "independent_date": {
+   "earliest": -604,
+   "latest": -603
+  },
+  "precision": "year",
+  "dating_method": "Nebuchadnezzar's accession year (Sep 605 – Nisan 604) and year 1 (Nisan 604 – Nisan 603)",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "Whether Jeremiah counts Nebuchadnezzar's accession year as \"first\" is modelled as an alternative."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": null,
+  "window": null,
+  "reviewer_status": "machine_proposed"
  }
 ]

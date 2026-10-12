@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RSRHKG1X6VCYVRC07WE0K7",
+  "title": "Daniel 1 — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_1",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "States (citing Seow 2003 pp. 20–21) that Babylonian chronicles record no campaign against Jerusalem before 597 and that Dan 1:1 is hard to harmonise; (citing Collins 1984 p. 45) that the author apparently drew on 2 Chr 36:5–7 and 2 Kgs 24:1; chapters 1–6 as Hellenistic-era court tales",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Used to report the critical position with its citations (Seow 2003; Collins 1984).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

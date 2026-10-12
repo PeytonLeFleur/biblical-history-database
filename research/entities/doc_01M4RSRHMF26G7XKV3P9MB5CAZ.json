@@ -1,0 +1,22 @@
+{
+  "kind": "document",
+  "id": "doc_01M4RSRHMF26G7XKV3P9MB5CAZ",
+  "slug": "berossus-babyloniaca",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Berossus, Babyloniaca (fragments)",
+  "document_type": "Historiography (fragmentary; preserved in later authors)",
+  "language": "Greek",
+  "standard_reference": "Quoted in Josephus, Against Apion 1.19",
+  "artifact_id": null,
+  "date": {
+    "earliest": -289,
+    "latest": -279
+  },
+  "description": "History of Babylonia by the Babylonian priest Berossus, written in Greek c. 290–280 BC; survives only in quotations.",
+  "editions": [
+    "src_01M4RSRHKGZKPHPEASER435NC6"
+  ]
+}

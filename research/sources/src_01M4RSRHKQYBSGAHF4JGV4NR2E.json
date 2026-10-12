@@ -1,0 +1,39 @@
+{
+  "id": "src_01M4RSRHKQYBSGAHF4JGV4NR2E",
+  "title": "Strong's H6598 pathbag — Brown-Driver-Briggs and Strong's entries (Bible Hub)",
+  "source_type": "historical_reference",
+  "authors": [
+    "Brown, F.",
+    "Driver, S. R.",
+    "Briggs, C. A."
+  ],
+  "publisher": "Bible Hub (online lexicon)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblehub.com/hebrew/6598.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public-domain lexicon text",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched the lexicon page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "BDB: Persian loanword for a king's portion/delicacies (cf. pati-baga); six occurrences, all in Daniel",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

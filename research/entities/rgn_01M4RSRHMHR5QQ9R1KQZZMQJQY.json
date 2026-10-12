@@ -1,0 +1,63 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+  "slug": "nebuchadnezzar-ii-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
+  "notes": "Babylonian reign dates are fixed by the chronicles, Ptolemy's Canon and astronomical texts; treated here as model-independent.",
+  "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "model_id": null,
+  "title": "King of Babylon",
+  "start": {
+    "earliest": -604,
+    "latest": -604
+  },
+  "end": {
+    "earliest": -561,
+    "latest": -561
+  },
+  "precision": "month",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -604,
+      "month": 8,
+      "day": 15
+    },
+    "to": {
+      "year": -604,
+      "month": 9,
+      "day": 7
+    },
+    "basis": "ABC 5: Nabopolassar died 8 Abu (15 Aug 605) and Nebuchadnezzar took the throne on 1 Ululu (7 Sep 605); Julian equivalents per Parker & Dubberstein as given by Livius.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -561,
+      "month": 10,
+      "day": 1
+    },
+    "to": {
+      "year": -561,
+      "month": 10,
+      "day": 8
+    },
+    "basis": "Last tablet of Nebuchadnezzar and first of Amel-Marduk dated to the same day, 7 Oct 562 BC (Parker & Dubberstein 1942, via Wikipedia); one-week window.",
+    "citations": [
+      "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+    ]
+  },
+  "regnal_convention": null
+}

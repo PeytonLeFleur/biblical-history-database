@@ -1,0 +1,34 @@
+{
+  "event_id": "evt_01M4RSRHMKXKQME68JMA71TAZ6",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RSRHN8WGVBDBNCRHVZGKAA",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKXKQME68JMA71TAZ6"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.10.3"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Daniel abstains from rich food and wine again in 10:3 — a thematic parallel within the book.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": []
+}

@@ -1,0 +1,119 @@
+{
+  "event_id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RSRHN7V4WS4X22HWBYDW8H",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "passage",
+        "ref": "Isa.39.7"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Isaiah's word that Hezekiah's descendants would be \"eunuchs in the king of Babylon's palace\" is read as fulfilled in the royal youths of Dan 1:3. Collins (via Wikipedia) notes the possible connection without treating it as the inspiration.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKG1X6VCYVRC07WE0K7"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Traditional Jewish and Christian interpreters; noted as possible by J. J. Collins (1984)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4RSRHN76RD9MNQEMHQNEJ23",
+      "type": "possible_identity",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.14.14"
+      },
+      "confidence": "low",
+      "layer": "reconstruction",
+      "rationale": "Ezekiel's \"Daniel\" (dnʾl) may be this exile or, as many scholars argue, the legendary Ugaritic Danel.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKQD85FWKYJDV9787BG"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN7F4XS64B3D2F3F6SP",
+      "type": "possible_identity",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.28.3"
+      },
+      "confidence": "low",
+      "layer": "reconstruction",
+      "rationale": "\"Wiser than Daniel\" — same identification question as Ezek 14:14.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKQD85FWKYJDV9787BG"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN7BTEY7QWR2S7DES8Q",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.2.1"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Nebuchadnezzar's dream in his second year follows; how it fits the three-year training is a chronology question for Daniel 2.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Azariah (Abednego)",
+      "resolved_to": "per_01M4RSRHM5YH1DXBY071RCYWH6",
+      "basis": "Distinct from King Azariah/Uzziah and from the priest Azariah (2 Chr 26:17)",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": []
+}

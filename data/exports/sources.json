@@ -623,5 +623,714 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+  "title": "ABC 5 (Jerusalem Chronicle / Chronicle of the early years of Nebuchadnezzar) — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "ABC 5 = BM 21946",
+  "license": "Translation adapted from Grayson 1975 and Glassner 2004; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the translation",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Obv. 1–11 Carchemish, Hamath, death of Nabopolassar 8 Abu (15 Aug 605), accession 1 Ululu (7 Sep 605); Obv. 12–20 Hatti campaigns, tribute, Ashkelon; Rev. 11′–13′ capture of \"the city of Judah\" on 2 Addaru, year 7. Jerusalem/Judah not named for 605/604.",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full translation page read (obverse 1–27, reverse 1′–13′). Cuneiform and the printed editions (Wiseman 1956; Grayson 1975; Glassner 2004) were not consulted directly. Julian equivalents on the page follow Parker & Dubberstein.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+  "title": "ABC 3 (Fall of Nineveh Chronicle) — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "ABC 3",
+  "license": "Translation adapted from Grayson 1975 and Glassner 1993; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read years 16–17",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Year 17: in Du'ûzu Aššur-uballit and a large Egyptian army crossed the Euphrates and besieged Harran until Ulûlu. Josiah/Judah not mentioned in the chronicle text.",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Years 16–17 of Nabopolassar read.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKETFKGA2ZZE6XATJKW",
+  "title": "Assyrian and Babylonian Chronicles",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Grayson, A. Kirk"
+  ],
+  "publisher": "J. J. Augustin",
+  "journal": null,
+  "published_date": "1975",
+  "url": "https://openlibrary.org/works/OL3767314W",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Open Library record OL3767314W",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed; standard edition behind the Livius translations (ABC numbering).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKEXBD2ZM537158C42W",
+  "title": "Mesopotamian Chronicles",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Glassner, Jean-Jacques"
+  ],
+  "publisher": "Society of Biblical Literature (Writings from the Ancient World)",
+  "journal": null,
+  "published_date": "2004",
+  "url": "https://openlibrary.org/works/OL5039340W",
+  "doi": null,
+  "isbn": "1589830903",
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Open Library record OL5039340W",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKF2D9HDCYYF0HCQPW5",
+  "title": "Nebuchadnezzar Chronicle — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Nebuchadnezzar_Chronicle",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "BM 21946, purchased 1896 from a dealer (acq. 96-4-9, 51), unprovenanced; first published by Wiseman 1956; covers years to Nebuchadnezzar's 11th year",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Used for museum/acquisition details of BM 21946.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKG1X6VCYVRC07WE0K7",
+  "title": "Daniel 1 — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_1",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "States (citing Seow 2003 pp. 20–21) that Babylonian chronicles record no campaign against Jerusalem before 597 and that Dan 1:1 is hard to harmonise; (citing Collins 1984 p. 45) that the author apparently drew on 2 Chr 36:5–7 and 2 Kgs 24:1; chapters 1–6 as Hellenistic-era court tales",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Used to report the critical position with its citations (Seow 2003; Collins 1984).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKGZKPHPEASER435NC6",
+  "title": "Against Apion, Book I, §19 (trans. William Whiston) — quoting Berossus",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Flavius Josephus",
+   "Whiston, William (translator)"
+  ],
+  "publisher": "Project Gutenberg eBook #2849",
+  "journal": null,
+  "published_date": "c. AD 95 (original); Whiston 1737",
+  "url": "https://www.gutenberg.org/ebooks/2849",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ag. Ap. 1.19 (Whiston); Berossus, Babyloniaca fragment",
+  "license": "Public domain in the USA",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Downloaded Gutenberg plain text (pg2849.txt) and read Book I §19",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Berossus: Nebuchadnezzar, campaigning in his father's last days, learned of Nabopolassar's death, sent captives \"from the Jews\", Phoenicians and Syrians to Babylonia, and adorned the temple of Belus from the spoils; gives Nabopolassar 29 years",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full passage read. Berossus (c. 290 BC) survives only in later quotation; this is Josephus's quotation in Whiston's English.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKHRMGZW09P8TKXD2JQ",
+  "title": "Daniel, with an Introduction to Apocalyptic Literature (Forms of the Old Testament Literature 20)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Collins, John J."
+  ],
+  "publisher": "Eerdmans",
+  "journal": null,
+  "published_date": "1984",
+  "url": "https://openlibrary.org/works/OL36099532W",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Open Library record OL36099532W",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed; cited via Wikipedia.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKJPE1W5EZQ74BN6B0E",
+  "title": "Daniel (Westminster Bible Companion)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Seow, C. L."
+  ],
+  "publisher": "Westminster John Knox Press",
+  "journal": null,
+  "published_date": "2003",
+  "url": "https://openlibrary.org/works/OL2946172W",
+  "doi": null,
+  "isbn": "0664256759",
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Open Library record OL2946172W",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed; cited via Wikipedia.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKJWXG4RS4SNQ7KSSCB",
+  "title": "Daniel: A Commentary on the Book of Daniel (Hermeneia)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Collins, John J."
+  ],
+  "publisher": "Fortress Press",
+  "journal": null,
+  "published_date": "1993",
+  "url": "https://openlibrary.org/works/OL1633903W",
+  "doi": null,
+  "isbn": "0800660404",
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Open Library record OL1633903W",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+  "title": "Some Historical Problems in the Book of Daniel (in Notes on Some Problems in the Book of Daniel, pp. 9–18)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Wiseman, D. J."
+  ],
+  "publisher": "Tyndale Press",
+  "journal": null,
+  "published_date": "1965",
+  "url": "https://ocb.uni-tuebingen.de/Record/KEI00121498",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Tübingen OCB catalogue record KEI00121498",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Bibliographic record verified (Tübingen catalogue). The PDF on biblicalstudies.org.uk returned HTTP 403 to automated access; content NOT read. Its treatment of Dan 1:1 is known here only from secondary mentions.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+  "title": "Nebuchadnezzar II — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Nebuchadnezzar_II",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read (first half)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Reign 15 Aug 605 – 7 Oct 562 BC (Parker & Dubberstein 1942; Lipschits 2005); Akkadian Nabû-kudurri-uṣur; after Carchemish none of the westernmost Levantine states swore fealty or paid tribute in 605 (Eph'al 2003; Elayi 2018); Ashkelon taken 604; no 605 attack on Jerusalem mentioned",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "First 100k characters read.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKMX8FXN8V23422QTP8",
+  "title": "Jehoiakim — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Jehoiakim",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Reign 609–598 BC; appointed by Necho II after Harran, three months after Josiah's death (Lipschits 2002); fall of Jerusalem 2 Adar (16 March) 597 BC; 605 siege claim marked \"citation needed\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKN0V607MATVNE8J925",
+  "title": "Jehoiachin's Rations Tablets — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Jehoiachin%27s_Rations_Tablets",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Tablets excavated by Koldewey at Babylon (1899–1917) near the Ishtar Gate; in the Vorderasiatisches Museum, Berlin (VAT 16378 pictured); record oil rations for Ya'u-kīnu king of Judah and five sons, plus foreign craftsmen; c. 595–570 BC",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "The tablets' editio princeps (Weidner 1939) was not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKPDX1NK68B6VM1ZNEE",
+  "title": "Strong's H1095 Belteshazzar — Brown-Driver-Briggs and Strong's entries (Bible Hub)",
+  "source_type": "historical_reference",
+  "authors": [
+   "Brown, F.",
+   "Driver, S. R.",
+   "Briggs, C. A."
+  ],
+  "publisher": "Bible Hub (online lexicon)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblehub.com/hebrew/1095.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public-domain lexicon text",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched the lexicon page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "BDB: probably Babylonian balāṭsu-uṣur, \"protect his life\"; connection with Bel unexplained",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Transliterated Akkadian form on the page is partly garbled.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKQD85FWKYJDV9787BG",
+  "title": "Danel — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Danel",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Ezek 14:14, 14:20, 28:3 spell dnʾl; identification with Ugaritic Danel (Dussaud 1931; Day 1980; Greenstein) vs rejection (Dressler 1979; Wallace & MacGregor 2016)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKQYBSGAHF4JGV4NR2E",
+  "title": "Strong's H6598 pathbag — Brown-Driver-Briggs and Strong's entries (Bible Hub)",
+  "source_type": "historical_reference",
+  "authors": [
+   "Brown, F.",
+   "Driver, S. R.",
+   "Briggs, C. A."
+  ],
+  "publisher": "Bible Hub (online lexicon)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblehub.com/hebrew/6598.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public-domain lexicon text",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched the lexicon page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "BDB: Persian loanword for a king's portion/delicacies (cf. pati-baga); six occurrences, all in Daniel",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+  "title": "Daniel 1 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-1/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the commentary on Daniel 1",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Dates the siege to 605 BC; explains \"third year\" vs Jeremiah's \"fourth year\" by Babylonian accession-year counting; youths ~13–17; names and meanings; refusal of food as defilement/idolatry/covenant-fellowship concerns",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKSNX6HS6J0FDKPETW8",
+  "title": "Babylon — Pleiades place 893951",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/893951",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched https://pleiades.stoa.org/places/893951/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "reprPoint lon 44.42497815, lat 32.53729695",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 44.42497815, lat 32.53729695.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RSRHKTT91J3AHDT40HYRTX",
+  "title": "Carchemish — Pleiades place 658465",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/658465",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched https://pleiades.stoa.org/places/658465/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "reprPoint lon 38.014920519720285, lat 36.829422953272655",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 38.014920519720285, lat 36.829422953272655.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

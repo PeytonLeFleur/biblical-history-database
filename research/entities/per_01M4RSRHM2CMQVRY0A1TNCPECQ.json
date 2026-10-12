@@ -1,0 +1,22 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM2CMQVRY0A1TNCPECQ",
+  "slug": "nabopolassar",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+  ],
+  "notes": null,
+  "canonical_name": "Nabopolassar",
+  "aliases": [
+    {
+      "alias": "Nabolassar",
+      "language": "Greek via Josephus (Whiston)",
+      "source_id": "src_01M4RSRHKGZKPHPEASER435NC6",
+      "passage": null
+    }
+  ],
+  "description": "Founder of the Neo-Babylonian dynasty; father of Nebuchadnezzar II.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+}

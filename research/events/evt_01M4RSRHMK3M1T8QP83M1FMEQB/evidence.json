@@ -1,0 +1,164 @@
+{
+  "event_id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-12",
+      "query": "Livius ABC 5 Jerusalem Chronicle (translation)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "British Museum BM 21946 Babylonian Chronicle Carchemish",
+      "engine": "web",
+      "useful_results": 2,
+      "notes": "Museum details via Wikipedia; BM collection page not fetched."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Josephus Against Apion 1.19 Berossus (Gutenberg #2849)",
+      "engine": "gutenberg.org",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Wikipedia Nebuchadnezzar II; Nebuchadnezzar Chronicle",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Excavation evidence from Carchemish was not searched this session; the documentary record is decisive for the battle itself."
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Absolute dating of the regnal year relies on astronomical texts via Parker & Dubberstein (not consulted directly)."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "No recent discoveries sought."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4RSRHN463TCD2674PV53BWC",
+      "statement": "Nebuchadnezzar defeated the Egyptian army at Carchemish in 605 BC.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "The Babylonian Chronicle (ABC 5), a near-contemporary cuneiform record, directly reports the battle in Nabopolassar's 21st year. Berossus independently recalls the campaign. Jeremiah 46:2 names the same battle.",
+      "supporting_evidence": [
+        "evd_01M4RSRHN4QSS203H63HCEWG5B",
+        "evd_01M4RSRHN4RGZPDRR88R0Y2RSN"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Translation read via Livius, not the printed edition."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RSRHN4AQHH1DZGGXJQNRH1",
+      "statement": "Jeremiah 46:2's dating of the battle to Jehoiakim's fourth year is consistent with the Babylonian date.",
+      "layer": "reconstruction",
+      "passage": "Jer.46.2",
+      "classification": "historically_plausible",
+      "reasoning": "Chronology engine, 32 reckoning combinations (20 consistent with the anchors: Jehoiakim's accession 1 Aug 609 – 31 Jan 608; Carchemish Mar 605 BC – Aug 605 BC). Jeremiah 46:2 (\"fourth year\" = Carchemish) is consistent with: accession year · Nisan; accession year · Tishri; non-accession year · Tishri; it is inconsistent with non-accession year · Nisan. Window of Daniel's \"third year\" by reckoning (including uncertainty): accession year · Nisan: Feb 606 BC – May 605 BC (closes before the latest possible battle date, Aug 605); accession year · Tishri: Aug 607 BC – Nov 605 BC (extends past the battle into the post-Carchemish campaign); non-accession year · Tishri: Aug 608 BC – Nov 606 BC (closes before the latest possible battle date, Aug 605); non-accession year · Nisan: Feb 607 BC – May 606 BC (closes before the latest possible battle date, Aug 605). Only accession-year counting with a Tishri (autumn) new year makes the \"third year\" run through the summer-605 campaign after Carchemish; accession-year counting with a Nisan (Babylonian) new year ends the \"third year\" around Nisan 605, before the battle except at the uncertainty margin.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RSRHN4X8H9Q9PC0EDB6J78"
+      ],
+      "limitations": [
+        "Nisan/Tishri windows are conservative approximations (Parker & Dubberstein not imported).",
+        "Jehoiakim's accession window is a reconstruction."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4RSRHN4QSS203H63HCEWG5B",
+      "claim_ids": [
+        "clm_01M4RSRHN463TCD2674PV53BWC"
+      ],
+      "source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The chronicle records that in Nabopolassar's 21st year the crown prince Nebuchadnezzar crossed the Euphrates, defeated the Egyptian army at Carchemish and pursued its survivors into the district of Hamath.",
+      "locator": "Obverse 1–8",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle-abc5"
+    },
+    {
+      "id": "evd_01M4RSRHN4RGZPDRR88R0Y2RSN",
+      "claim_ids": [
+        "clm_01M4RSRHN463TCD2674PV53BWC"
+      ],
+      "source_id": "src_01M4RSRHKGZKPHPEASER435NC6",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Berossus (via Josephus) describes Nebuchadnezzar, sent by his father against a rebel governor in the west, defeating him and reducing the country, when news of Nabopolassar's death recalled him.",
+      "locator": "Against Apion 1.19",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Berossus wrote c. 290 BC and survives only in quotation; he does not name Carchemish."
+      ],
+      "independent_line": "berossus"
+    },
+    {
+      "id": "evd_01M4RSRHN4X8H9Q9PC0EDB6J78",
+      "claim_ids": [
+        "clm_01M4RSRHN4AQHH1DZGGXJQNRH1"
+      ],
+      "source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "The Egyptian army's Harran campaign of Du'ûzu–Ulûlu 609 bounds the date of Josiah's death and hence Jehoiakim's accession.",
+      "locator": "Year 17",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle-abc3"
+    }
+  ],
+  "artifacts": [
+    "art_01M4RSRHMBKKHJPG1DMC9KWWMZ"
+  ],
+  "sites": [],
+  "documents": [
+    "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+    "doc_01M4RSRHMETT3GC5VKG80MSVFP",
+    "doc_01M4RSRHMF26G7XKV3P9MB5CAZ"
+  ],
+  "research_gaps": [
+    "Carchemish excavation reports were not consulted.",
+    "Exact Nisan 1, 605 not taken from Parker & Dubberstein."
+  ]
+}

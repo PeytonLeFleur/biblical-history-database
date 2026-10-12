@@ -1,0 +1,57 @@
+{
+  "id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+  "slug": "jeremiah-word-jer-25-1",
+  "title": "The word to Jeremiah dated by Jeremiah 25:1",
+  "summary": "Jeremiah 25:1 dates a prophetic word to the fourth year of Jehoiakim, equating it with the first year of Nebuchadnezzar.",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "medium",
+  "research_status": "publishable",
+  "publication_level": "preliminary",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Jer.25.1",
+      "mention_type": "superscription",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_started",
+      "updated": null,
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "in_progress",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "not_started",
+      "updated": null,
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "not_started",
+      "updated": null,
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "in_progress",
+      "updated": "2026-10-12",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "last_reviewed_at": null
+}

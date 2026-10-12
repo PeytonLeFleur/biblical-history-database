@@ -1,0 +1,117 @@
+{
+  "event_id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The king had Ashpenaz select Israelite youths of royal and noble birth, without defect and gifted, to be taught the learning and language of the Chaldeans for three years on rations from the king's table; Daniel, Hananiah, Mishael and Azariah were renamed Belteshazzar, Shadrach, Meshach and Abednego. At the end of the period the king found them wiser than all his magicians (1:17–20).",
+    "passage": "Dan.1.3-Dan.1.7"
+  },
+  "setting": {
+    "period": "Reign of Nebuchadnezzar II (from 605/604 BC)",
+    "body": "Babylonian administrative ration lists from Nebuchadnezzar's palace record allocations to the captive king of Judah, his sons, and foreign craftsmen, showing that foreign royal households were maintained at court (from 597). The Babylonian name Belteshazzar is explained by BDB as probably balāṭsu-uṣur, \"protect his life\".",
+    "citations": [
+      "src_01M4RSRHKN0V607MATVNE8J925",
+      "src_01M4RSRHKPDX1NK68B6VM1ZNEE"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "King who commissioned the training",
+      "citations": [
+        "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4RSRHMVS9020EHMWDWWSFR6",
+      "subject": "evt_01M4RSRHMKFBYZNZXBYS1VGB10",
+      "object": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+      "relation": "after",
+      "textual_assertion": "The king spoke to Ashpenaz … that he should bring in some of the children of Israel",
+      "passage": "Dan.1.3",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The youths were taken in the campaign of Dan 1:1–2."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Royal court (implied)",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "בֵּלְטְשַׁאצַּר (Belteshazzar)",
+      "gloss": "Babylonian name of Daniel; BDB: probably balāṭsu-uṣur, \"protect his life\"",
+      "citations": [
+        "src_01M4RSRHKPDX1NK68B6VM1ZNEE"
+      ]
+    },
+    {
+      "term": "פַּתְבַּג (pathbag)",
+      "gloss": "king's portion/delicacies; a Persian loanword (BDB)",
+      "citations": [
+        "src_01M4RSRHKQYBSGAHF4JGV4NR2E"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Historical court service of Judean captives",
+      "proponents": [
+        "Traditional reading; D. Guzik"
+      ],
+      "summary": "The narrative reflects the actual training of hostages from Judah's elite at Nebuchadnezzar's court.",
+      "citations": [
+        "src_01M4RSRHKRA5C6V2KYQKDNK9ZD"
+      ]
+    },
+    {
+      "label": "Court tale of the Hellenistic period",
+      "proponents": [
+        "J. J. Collins (1984)",
+        "C. L. Seow (2003)"
+      ],
+      "summary": "Chapter 1 introduces a collection of court tales about a wise Jew at a foreign court, collected around the end of the 3rd century BC. The Persian loanword pathbag is among the linguistic features discussed in dating the book.",
+      "citations": [
+        "src_01M4RSRHKG1X6VCYVRC07WE0K7",
+        "src_01M4RSRHKHRMGZW09P8TKXD2JQ"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+      "layer": "interpretation",
+      "paraphrase": "Guzik sees the three-year programme, new names and royal provisions as deliberate re-education of young nobles (perhaps 13–17 years old), with the new names honouring Babylonian gods in place of the God of Israel.",
+      "url": "https://enduringword.com/bible-commentary/daniel-1/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [
+    "Is there any Babylonian administrative record of the four named youths? None was found."
+  ],
+  "not_applicable": {}
+}

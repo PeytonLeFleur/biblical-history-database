@@ -1,0 +1,17 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RSRHM9YTFFFDKAZA0NJ3Y9",
+  "slug": "shinar",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Shinar",
+  "place_type": "region",
+  "modern_name": "Southern Mesopotamia (Babylonia)",
+  "modern_country": "Iraq",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [],
+  "description": "Biblical name for the land of Babylonia (Dan 1:2). No coordinates are recorded for a region."
+}

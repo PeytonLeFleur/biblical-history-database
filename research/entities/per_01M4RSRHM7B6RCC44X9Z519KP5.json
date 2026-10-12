@@ -1,0 +1,20 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+  "slug": "cyrus-ii",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Cyrus II (the Great)",
+  "aliases": [
+    {
+      "alias": "Cyrus",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "Dan.1.21"
+    }
+  ],
+  "description": "Achaemenid king; conquered Babylon in 539 BC.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

@@ -47,6 +47,7 @@ export interface YearRange {
 export interface IntervalExport {
   subject: string;
   years: YearRange;
+  start_fraction?: { earliest: number | null; latest: number | null };
   start: YearRange;
   end: YearRange;
   precision: string;
@@ -140,8 +141,8 @@ export const APPROACH_LABEL: Record<string, string> = {
   preterist: 'Preterist', futurist: 'Futurist', historicist: 'Historicist', idealist: 'Idealist', mixed: 'Mixed',
 };
 
-export function modelName(id: string | null): string {
-  if (id === null || id === 'model_independent') return 'No chronology model (model-independent)';
+export function modelName(id: string | null, context: 'select' | 'result' = 'select'): string {
+  if (id === null || id === 'model_independent') return context === 'result' ? 'Model-independent (applies under every chronology model)' : 'No chronology model (model-independent)';
   const m = entityById(id);
   return m && m.kind === 'chronology_model' ? m.name : id;
 }
@@ -163,6 +164,79 @@ export function intervalsFor(subject: string): Array<{ model: string; result: So
 }
 
 export const isDated = (i: IntervalExport) => i.years.earliest !== null || i.years.latest !== null;
+
+/**
+ * Per-model summary for a subject. When a model has alternative reckonings (SPEC 12.3), every combination is kept:
+ * the union window spans the feasible ones, and infeasible combinations are listed with their contradiction.
+ */
+export function modelSummaries(subject: string, ownGroups: string[] = []) {
+  type Alt = { choice: Record<string, string>; feasible: boolean; interval: IntervalExport | null; contradictions: string[] };
+  const out: Array<{ model: string; union: YearRange; feasible: number; alternatives: Alt[]; representative: IntervalExport; precision: string }> = [];
+  const key = (i: IntervalExport | null) => (i ? JSON.stringify([i.start.earliest, i.start.latest]) : 'none');
+  for (const [model, results] of Object.entries(data().chronology)) {
+    const alts: Alt[] = results.map((r) => ({ choice: r.choice, feasible: r.feasible, interval: r.intervals.find((i) => i.subject === subject) ?? null, contradictions: r.contradictions.map((c) => c.message) }));
+    const dated = alts.filter((a) => a.feasible && a.interval && isDated(a.interval));
+    if (dated.length === 0) continue;
+    // Only alternative groups that change this subject's window are relevant to it (alternatives are global to a solve).
+    const groups = [...new Set(alts.flatMap((a) => Object.keys(a.choice)))];
+    const relevant = groups.filter((g) => {
+      const byOption = new Map<string, Set<string>>();
+      for (const a of dated) byOption.set(a.choice[g]!, (byOption.get(a.choice[g]!) ?? new Set()).add(key(a.interval)));
+      const windows = [...byOption.values()].map((ws) => [...ws].sort().join('|'));
+      return new Set(windows).size > 1 || ownGroups.includes(g);
+    });
+    const rows = new Map<string, Alt>();
+    for (const a of alts) {
+      const choice = Object.fromEntries(relevant.map((g) => [g, a.choice[g]!]));
+      const k = JSON.stringify(choice);
+      const prev = rows.get(k);
+      if (!prev) rows.set(k, { ...a, choice });
+      else if (!prev.feasible && a.feasible) rows.set(k, { ...a, choice });
+      else if (prev.feasible && a.feasible && prev.interval && a.interval && isDated(a.interval)) {
+        rows.set(k, { ...prev, interval: { ...prev.interval, years: unionRange(prev.interval.years, a.interval.years) } });
+      }
+    }
+    out.push({
+      model, feasible: [...rows.values()].filter((r) => r.feasible).length,
+      union: dated.map((a) => a.interval!.years).reduce(unionRange),
+      alternatives: relevant.length ? [...rows.values()] : [],
+      representative: dated[0]!.interval!, precision: dated[0]!.interval!.precision,
+    });
+  }
+  // A model that adds nothing for this subject (same result as model-independent) is folded into it.
+  const indep = out.find((o) => o.model === 'model_independent');
+  if (!indep) return out;
+  const sig = (o: (typeof out)[number]) => JSON.stringify([o.union, o.feasible, o.alternatives.length]);
+  return out.filter((o) => o.model === 'model_independent' || sig(o) !== sig(indep));
+}
+
+/** Union of two ranges; an open (null) bound on either side stays open. */
+export function unionRange(a: YearRange, b: YearRange): YearRange {
+  return {
+    earliest: a.earliest === null || b.earliest === null ? null : Math.min(a.earliest, b.earliest),
+    latest: a.latest === null || b.latest === null ? null : Math.max(a.latest, b.latest),
+  };
+}
+
+const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+/** Month-level label for a fractional astronomical year (proleptic Julian; approximate to the month). */
+export function monthLabel(t: number | null): string {
+  if (t === null) return '?';
+  const y = Math.floor(t);
+  const leap = y % 4 === 0;
+  const doy = (t - y) * (leap ? 366 : 365);
+  const lens = [31, leap ? 29 : 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  let m = 0;
+  let acc = 0;
+  while (m < 11 && acc + lens[m]! <= doy) acc += lens[m++]!;
+  return `${MONTHS[m]} ${y <= 0 ? `${1 - y} BC` : `AD ${y}`}`;
+}
+export const monthRange = (i: IntervalExport) =>
+  i.start_fraction && i.start_fraction.earliest !== null && i.start_fraction.latest !== null
+    ? `${monthLabel(i.start_fraction.earliest)} – ${monthLabel(i.start_fraction.latest)}`
+    : null;
+
+export const choiceLabel = (choice: Record<string, string>) => Object.entries(choice).map(([g, o]) => `${g.replaceAll('-', ' ')}: ${o}`).join(' · ');
 
 /** Items whose computed windows overlap the subject's window under the same model ("What else was happening?"). */
 export function contemporaries(subject: string, model: string) {

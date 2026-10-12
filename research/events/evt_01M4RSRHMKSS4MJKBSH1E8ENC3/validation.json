@@ -1,0 +1,57 @@
+{
+  "event_id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+  "revision": 1,
+  "validated_at": "2026-10-12",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4RSRHN6DZGXZ34Y95KJQYTR",
+    "rev_01M4RSRHN7YH4H61RHE151TK0P"
+  ],
+  "research_gaps": [
+    "Read Wiseman (1965) and Collins (1984, 1993) directly.",
+    "Import Parker & Dubberstein Nisan/Tishri dates for 609–604 to narrow the windows.",
+    "Check the British Museum collection record for BM 21946 directly."
+  ],
+  "disputes": [
+    "Nebuchadnezzar besieged Jerusalem, or forced Jehoiakim's submission, in 605/604 BC (Dan 1:1).",
+    "Daniel's \"third year of Jehoiakim\" and Jeremiah's \"fourth year\" can denote the same period under different regnal reckonings."
+  ],
+  "export_eligible": true
+}

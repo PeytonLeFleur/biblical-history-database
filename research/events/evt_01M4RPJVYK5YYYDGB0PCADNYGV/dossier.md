@@ -1,6 +1,6 @@
 # Amos's prophetic words (dated by Amos 1:1)
 
-> **Status:** Unpublished draft · research status `queued` · revision 1 · last reviewed: not reviewed
+> **Status:** Preliminary research · research status `publishable` · revision 1 · last reviewed: not reviewed
 > Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
 
 ## Biblical references

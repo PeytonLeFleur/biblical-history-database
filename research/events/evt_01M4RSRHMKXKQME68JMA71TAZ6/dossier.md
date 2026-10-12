@@ -1,0 +1,236 @@
+# Daniel's refusal of the king's food and the ten-day test (Dan 1:8–16)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Daniel 1:8–16 (narration)
+
+## Biblical account
+
+Daniel resolved not to defile himself with the king's food and wine and asked the official's steward to test the four youths on vegetables and water for ten days; afterwards they looked healthier than the others and were allowed to continue.
+
+## Historical setting
+
+**Period:** Training at the Babylonian court
+
+A private episode within the court training described in Daniel 1.
+
+## Date and chronology
+
+- **606 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *model-independent*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “the steward whom the prince of the eunuchs had appointed over Daniel” (Daniel 1:11) → `during` Training of Judean youths at the Babylonian court (Dan 1:3–7, 17–20)
+
+## Competing reconstructions
+
+- **Ritual purity (kashrut)** (Matthews & Moyer (2012), via Wikipedia): Daniel avoided food that broke Jewish dietary or ritual-slaughter laws. [1]
+- **Food and wine offered to Babylonian gods** (Levine (2010), via Wikipedia, D. Guzik): The royal provisions had been offered to idols. [1, 2]
+- **Refusing covenant fellowship and dependence on the king** (D. Guzik): Eating at the king's table implied loyalty to and dependence on the Babylonian king. [2]
+
+## Claims and evidence
+
+### Daniel and his companions declined the royal food and appeared healthier after a ten-day vegetable diet, through God's favour.
+
+**Classification:** Not empirically testable (machine proposed) · layer: text
+
+A private dietary episode within the court and the attribution of its outcome to divine favour cannot be assessed by historical or scientific methods. This is not a theological verdict.
+
+
+## Related passages and events
+
+- this event → **thematic parallel** → Daniel 10:3 (medium): Daniel abstains from rich food and wine again in 10:3 — a thematic parallel within the book.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik commends Daniel's resolve formed in advance and his courteous, testable proposal, and treats the outcome as God's blessing on faithfulness. [2]
+
+## Sources
+
+1. Wikipedia contributors. Daniel 1 — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Daniel_1> — *popular summary; verification: claim checked*
+2. Guzik, David. Daniel 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-1/> — *theological commentary; verification: claim checked*

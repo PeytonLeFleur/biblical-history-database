@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+  "title": "Some Historical Problems in the Book of Daniel (in Notes on Some Problems in the Book of Daniel, pp. 9–18)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Wiseman, D. J."
+  ],
+  "publisher": "Tyndale Press",
+  "journal": null,
+  "published_date": "1965",
+  "url": "https://ocb.uni-tuebingen.de/Record/KEI00121498",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Tübingen OCB catalogue record KEI00121498",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Bibliographic record verified (Tübingen catalogue). The PDF on biblicalstudies.org.uk returned HTTP 403 to automated access; content NOT read. Its treatment of Dan 1:1 is known here only from secondary mentions.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

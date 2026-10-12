@@ -38,6 +38,8 @@ export interface Anchor {
   modelId: string | null;
   isEvidence?: boolean; // independent external evidence — never overridden by a model
   source?: string | undefined;
+  /** Sub-year bounds in fractional astronomical years (e.g. from proleptic Julian day dates). Overrides earliest/latest. */
+  exact?: { lo: number | null; hi: number | null };
 }
 
 export interface Constraint {
@@ -54,8 +56,10 @@ export interface Constraint {
   regnalYear?: number; // for in_regnal_year
   /** The reckoning used by this statement's author; overrides the reign's convention (SPEC 12.4). */
   convention?: RegnalConvention;
-  /** Members of the same alternativeGroup are mutually exclusive alternatives (one is chosen per solve). */
+  /** Members of the same alternativeGroup are mutually exclusive alternatives (one option is chosen per solve). */
   alternativeGroup?: string;
+  /** Constraints sharing a group *and* option label are chosen together (e.g. one author's reckoning). Defaults to the constraint id. */
+  alternativeOption?: string;
   isEvidence?: boolean;
 }
 
@@ -64,6 +68,7 @@ export interface ReignConvention {
   convention: RegnalConvention;
   modelId: string | null;
   alternativeGroup?: string;
+  alternativeOption?: string;
   id: string;
 }
 
@@ -168,6 +173,13 @@ function constraintEdges(c: Constraint): Edge[] {
 function anchorEdges(a: Anchor): Edge[] {
   const out: Edge[] = [];
   const pts = a.point === 'start' ? [S(a.subject)] : a.point === 'end' ? [E(a.subject)] : [S(a.subject), E(a.subject)];
+  if (a.exact) {
+    for (const p of pts) {
+      if (a.exact.hi !== null) out.push({ from: ORIGIN, to: p, w: a.exact.hi, id: a.id });
+      if (a.exact.lo !== null) out.push({ from: p, to: ORIGIN, w: -a.exact.lo, id: a.id });
+    }
+    return out;
+  }
   for (const p of pts) {
     if (a.latest !== null) out.push({ from: ORIGIN, to: p, w: a.latest + 1 - EPS, id: a.id }); // x ≤ latest year end
     if (a.earliest !== null) out.push({ from: p, to: ORIGIN, w: -a.earliest, id: a.id }); // x ≥ earliest
@@ -354,10 +366,14 @@ export function solve(input: SolveInput): SolveResult[] {
   const constraints = inModel(input.constraints);
   const conventions = inModel(input.conventions ?? []);
 
-  // Group alternatives.
+  // Group alternatives into options; every member with the chosen option label is kept together.
+  const optionOf = (x: { id: string; alternativeOption?: string }) => x.alternativeOption ?? x.id;
   const groups = new Map<string, string[]>();
-  for (const x of [...constraints, ...conventions]) {
-    if (x.alternativeGroup) groups.set(x.alternativeGroup, [...(groups.get(x.alternativeGroup) ?? []), x.id]);
+  for (const x of [...constraints, ...conventions] as Array<{ id: string; alternativeGroup?: string; alternativeOption?: string }>) {
+    if (!x.alternativeGroup) continue;
+    const opts = groups.get(x.alternativeGroup) ?? [];
+    if (!opts.includes(optionOf(x))) opts.push(optionOf(x));
+    groups.set(x.alternativeGroup, opts);
   }
   const groupNames = [...groups.keys()].sort();
   let combos: Record<string, string>[] = [{}];
@@ -366,8 +382,8 @@ export function solve(input: SolveInput): SolveResult[] {
     if (combos.length > 64) throw new Error('Too many alternative combinations (> 64); split the model.');
   }
   return combos.map((choice) => {
-    const chosen = new Set(Object.values(choice));
-    const keep = <T extends { id: string; alternativeGroup?: string }>(x: T) => !x.alternativeGroup || chosen.has(x.id);
+    const keep = <T extends { id: string; alternativeGroup?: string; alternativeOption?: string }>(x: T) =>
+      !x.alternativeGroup || choice[x.alternativeGroup] === optionOf(x);
     return solveOnce(input, constraints.filter(keep), anchors, conventions.filter(keep), choice, excluded);
   });
 }

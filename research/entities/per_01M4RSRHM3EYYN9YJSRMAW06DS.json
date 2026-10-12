@@ -1,0 +1,20 @@
+{
+  "kind": "person",
+  "id": "per_01M4RSRHM3EYYN9YJSRMAW06DS",
+  "slug": "necho-ii",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Necho II",
+  "aliases": [
+    {
+      "alias": "Pharaoh Necoh",
+      "language": "English (WEB)",
+      "source_id": null,
+      "passage": "Jer.46.2"
+    }
+  ],
+  "description": "Pharaoh of Egypt.",
+  "kingdom_id": "kgd_01M4RSRHM0ETGRBDHFPX8477ET"
+}

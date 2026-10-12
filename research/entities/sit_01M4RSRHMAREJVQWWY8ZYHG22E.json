@@ -1,0 +1,17 @@
+{
+  "kind": "site",
+  "id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
+  "slug": "babylon-excavations",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKN0V607MATVNE8J925"
+  ],
+  "notes": null,
+  "name": "Babylon (German excavations under R. Koldewey, 1899–1917)",
+  "place_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+  "lat": 32.53729695,
+  "lon": 44.42497815,
+  "geom_source_id": "src_01M4RSRHKSNX6HS6J0FDKPETW8",
+  "description": null
+}

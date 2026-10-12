@@ -1,0 +1,154 @@
+{
+  "event_id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RSRHN7F5AYRD39Z1YG1EM3",
+      "type": "possible_identity",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Kgs.24.1"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "\"In his days Nebuchadnezzar came up, and Jehoiakim became his servant three years\" may describe the same submission; Kings gives no year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKG1X6VCYVRC07WE0K7"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN7N6W8VBGEB1SBD7N4",
+      "type": "possible_identity",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.36.6-2Chr.36.7"
+      },
+      "confidence": "low",
+      "layer": "reconstruction",
+      "rationale": "Chronicles has Jehoiakim bound to be taken to Babylon and vessels removed, without a date; Collins (via Wikipedia) suggests Daniel drew on this passage. It may instead refer to 598/597.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKG1X6VCYVRC07WE0K7"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN7Y2TW9GT6JSTDSKAR",
+      "type": "same_period",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "If Dan 1:1 refers to 605/604, the campaign followed Carchemish.",
+      "provenance": {
+        "method": "operator_inference",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN7TXN95VB7FS5T3299",
+      "type": "same_period",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.25.1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jehoiakim's fourth year (Jeremiah) vs third year (Daniel): see the reckoning comparison.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RSRHN7NXJQM3D5RP8TDHP4",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The youths are taken from the captives of this campaign.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Jehoiakim",
+      "resolved_to": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "basis": "Dan 1:1; 2 Kgs 23:34–24:6",
+      "confidence": "high"
+    },
+    {
+      "name_as_written": "Nebuchadnezzar",
+      "resolved_to": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "basis": "Babylonian king of 605–562",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4RSRHMNPM17PYY7TJW4P6FD",
+    "cst_01M4RSRHMNRVZH824817JVJARJ",
+    "cst_01M4RSRHMN3P3NJHMWSTYBAKA4",
+    "cst_01M4RSRHMN5E29BQZXV30WBP7Z"
+  ]
+}

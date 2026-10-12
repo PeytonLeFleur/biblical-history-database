@@ -1,0 +1,57 @@
+{
+  "id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+  "slug": "battle-of-carchemish-605-bc",
+  "title": "Battle of Carchemish (605 BC)",
+  "summary": "Nebuchadnezzar, as Babylonian crown prince, defeated the Egyptian army of Necho II at Carchemish on the Euphrates. Jeremiah 46:2 dates the battle to the fourth year of Jehoiakim.",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": "External historical event documented by the Babylonian Chronicle (ABC 5); referenced in Jeremiah 46:2.",
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "reference_to_other_event",
+  "categories": [
+    "military"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Jer.46.2",
+      "mention_type": "reference",
+      "notes": "Superscription of the oracle against Egypt."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_applicable",
+      "updated": "2026-10-12",
+      "reason": "External event; Jeremiah not yet extracted (Rule 01 will add Jer 46 candidates in M6)."
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "last_reviewed_at": null
+}

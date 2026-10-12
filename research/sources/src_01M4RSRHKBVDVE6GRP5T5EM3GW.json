@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+  "title": "ABC 5 (Jerusalem Chronicle / Chronicle of the early years of Nebuchadnezzar) — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "ABC 5 = BM 21946",
+  "license": "Translation adapted from Grayson 1975 and Glassner 2004; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read the translation",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Obv. 1–11 Carchemish, Hamath, death of Nabopolassar 8 Abu (15 Aug 605), accession 1 Ululu (7 Sep 605); Obv. 12–20 Hatti campaigns, tribute, Ashkelon; Rev. 11′–13′ capture of \"the city of Judah\" on 2 Addaru, year 7. Jerusalem/Judah not named for 605/604.",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full translation page read (obverse 1–27, reverse 1′–13′). Cuneiform and the printed editions (Wiseman 1956; Grayson 1975; Glassner 2004) were not consulted directly. Julian equivalents on the page follow Parker & Dubberstein.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

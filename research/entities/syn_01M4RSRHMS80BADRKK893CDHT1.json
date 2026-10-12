@@ -1,0 +1,35 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4RSRHMS80BADRKK893CDHT1",
+  "slug": "jer-25-1-jehoiakim-4-nebuchadnezzar-1",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+  ],
+  "notes": null,
+  "title": "Jehoiakim year 4 = Nebuchadnezzar year 1 (Jer 25:1)",
+  "type": "reign_synchronization",
+  "passage": "Jer.25.1",
+  "biblical_subject": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+  "external_entity": "Nebuchadnezzar II's regnal years (Babylonian, from ABC 5)",
+  "external_document_id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+  "external_source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+  "proposed_synchronization": "Jeremiah 25:1 equates Jehoiakim's fourth year with Nebuchadnezzar's first; the Babylonian accession on 7 Sep 605 fixes Nebuchadnezzar's years.",
+  "independent_date": {
+    "earliest": -604,
+    "latest": -603
+  },
+  "precision": "year",
+  "dating_method": "Nebuchadnezzar's accession year (Sep 605 – Nisan 604) and year 1 (Nisan 604 – Nisan 603)",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "Whether Jeremiah counts Nebuchadnezzar's accession year as \"first\" is modelled as an alternative."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": null,
+  "window": null,
+  "reviewer_status": "machine_proposed"
+}

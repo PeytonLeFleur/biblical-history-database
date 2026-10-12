@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RSRHKETFKGA2ZZE6XATJKW",
+  "title": "Assyrian and Babylonian Chronicles",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Grayson, A. Kirk"
+  ],
+  "publisher": "J. J. Augustin",
+  "journal": null,
+  "published_date": "1975",
+  "url": "https://openlibrary.org/works/OL3767314W",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Open Library record OL3767314W",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed; standard edition behind the Livius translations (ABC numbering).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

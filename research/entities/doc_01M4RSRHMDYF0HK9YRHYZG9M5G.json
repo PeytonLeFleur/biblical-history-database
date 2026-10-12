@@ -1,0 +1,24 @@
+{
+  "kind": "document",
+  "id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
+  "slug": "abc-5",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Babylonian Chronicle ABC 5 (Jerusalem Chronicle)",
+  "document_type": "Chronicle",
+  "language": "Akkadian (Late Babylonian)",
+  "standard_reference": "ABC 5 (Grayson 1975); Wiseman 1956",
+  "artifact_id": "art_01M4RSRHMBKKHJPG1DMC9KWWMZ",
+  "date": {
+    "earliest": -604,
+    "latest": -593
+  },
+  "description": null,
+  "editions": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4RSRHKETFKGA2ZZE6XATJKW",
+    "src_01M4RSRHKEXBD2ZM537158C42W"
+  ]
+}
