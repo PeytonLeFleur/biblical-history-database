@@ -1446,6 +1446,518 @@
   "slug": "daniel"
  },
  {
+  "book": "Dan",
+  "chapter": 4,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Dan.4.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGG8D993C45X3XSMWJ"
+    ],
+    "notes": "Aramaic numbering 3:31–33."
+   },
+   {
+    "ref": "Dan.4.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGG8D993C45X3XSMWJ"
+    ],
+    "notes": "Aramaic numbering 3:31–33."
+   },
+   {
+    "ref": "Dan.4.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGG8D993C45X3XSMWJ"
+    ],
+    "notes": "Aramaic numbering 3:31–33."
+   },
+   {
+    "ref": "Dan.4.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT"
+    ],
+    "notes": "Aramaic numbering 4:1."
+   },
+   {
+    "ref": "Dan.4.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT"
+    ],
+    "notes": "Aramaic numbering 4:2."
+   },
+   {
+    "ref": "Dan.4.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT"
+    ],
+    "notes": "Aramaic numbering 4:3."
+   },
+   {
+    "ref": "Dan.4.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT"
+    ],
+    "notes": "Aramaic numbering 4:4."
+   },
+   {
+    "ref": "Dan.4.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT"
+    ],
+    "notes": "Aramaic numbering 4:5."
+   },
+   {
+    "ref": "Dan.4.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT"
+    ],
+    "notes": "Aramaic numbering 4:6."
+   },
+   {
+    "ref": "Dan.4.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:7."
+   },
+   {
+    "ref": "Dan.4.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:8."
+   },
+   {
+    "ref": "Dan.4.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:9."
+   },
+   {
+    "ref": "Dan.4.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:10."
+   },
+   {
+    "ref": "Dan.4.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:11."
+   },
+   {
+    "ref": "Dan.4.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:12."
+   },
+   {
+    "ref": "Dan.4.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:13."
+   },
+   {
+    "ref": "Dan.4.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:14."
+   },
+   {
+    "ref": "Dan.4.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRG8P8MKFNX7CEH468W"
+    ],
+    "notes": "Aramaic numbering 4:15."
+   },
+   {
+    "ref": "Dan.4.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:16."
+   },
+   {
+    "ref": "Dan.4.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:17."
+   },
+   {
+    "ref": "Dan.4.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:18."
+   },
+   {
+    "ref": "Dan.4.22",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:19."
+   },
+   {
+    "ref": "Dan.4.23",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:20."
+   },
+   {
+    "ref": "Dan.4.24",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:21."
+   },
+   {
+    "ref": "Dan.4.25",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:22."
+   },
+   {
+    "ref": "Dan.4.26",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:23."
+   },
+   {
+    "ref": "Dan.4.27",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDKY5KGK81S1NASKE"
+    ],
+    "notes": "Aramaic numbering 4:24."
+   },
+   {
+    "ref": "Dan.4.28",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDYEYR413J7HMPH2D"
+    ],
+    "notes": "Aramaic numbering 4:25."
+   },
+   {
+    "ref": "Dan.4.29",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDYEYR413J7HMPH2D"
+    ],
+    "notes": "Aramaic numbering 4:26."
+   },
+   {
+    "ref": "Dan.4.30",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDYEYR413J7HMPH2D"
+    ],
+    "notes": "Aramaic numbering 4:27."
+   },
+   {
+    "ref": "Dan.4.31",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDYEYR413J7HMPH2D"
+    ],
+    "notes": "Aramaic numbering 4:28."
+   },
+   {
+    "ref": "Dan.4.32",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDYEYR413J7HMPH2D"
+    ],
+    "notes": "Aramaic numbering 4:29."
+   },
+   {
+    "ref": "Dan.4.33",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGDYEYR413J7HMPH2D"
+    ],
+    "notes": "Aramaic numbering 4:30."
+   },
+   {
+    "ref": "Dan.4.34",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGT45GPENYDM62F4VA"
+    ],
+    "notes": "Aramaic numbering 4:31."
+   },
+   {
+    "ref": "Dan.4.35",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGT45GPENYDM62F4VA"
+    ],
+    "notes": "Aramaic numbering 4:32."
+   },
+   {
+    "ref": "Dan.4.36",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGT45GPENYDM62F4VA"
+    ],
+    "notes": "Aramaic numbering 4:33."
+   },
+   {
+    "ref": "Dan.4.37",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV9NRGT45GPENYDM62F4VA"
+    ],
+    "notes": "Aramaic numbering 4:34."
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4RV9NRGG8D993C45X3XSMWJ",
+    "title": "Nebuchadnezzar's proclamation to all peoples (letter frame)",
+    "passage": "Dan.4.1-Dan.4.3",
+    "description": "The chapter is framed as a royal letter in which the king praises the Most High.",
+    "record_type": "theological_interpretation",
+    "literary_classification": "mixed",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.4.34-Dan.4.37"
+    ],
+    "research_priority": "low",
+    "ambiguities": [
+     "In the Aramaic text these verses are 3:31–33."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4RV9NRDQ41HV8TDH3ZYX1PS"
+   },
+   {
+    "id": "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT",
+    "title": "The king's dream of the tree; Daniel summoned to interpret",
+    "passage": "Dan.4.4-Dan.4.9",
+    "description": "At rest in his palace, the king dreamed and summoned his diviners, who failed; Daniel/Belteshazzar was called.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal",
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "palace",
+      "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4RV9NRC7FFPKYYJWER93ZY8"
+   },
+   {
+    "id": "cnd_01M4RV9NRG8P8MKFNX7CEH468W",
+    "title": "The great tree and the watcher's decree (dream content)",
+    "passage": "Dan.4.10-Dan.4.18",
+    "description": "The dream image as recounted by the king.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.4.16",
+      "phrase": "let seven times pass over him",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Ezek.31.1-Ezek.31.18"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [
+     "Symbolic content."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RV9NRGDKY5KGK81S1NASKE",
+    "title": "Daniel's interpretation: the decree against the king",
+    "passage": "Dan.4.19-Dan.4.27",
+    "description": "Daniel identifies the tree as the king and announces his humbling for seven times, urging repentance.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4RV9NRGDYEYR413J7HMPH2D",
+    "title": "The boast over Babylon and the king's madness",
+    "passage": "Dan.4.28-Dan.4.33",
+    "description": "Twelve months later the king boasted over the Babylon he had built; a voice from heaven announced the sentence and he was driven from men, living like an animal.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal",
+     "miracle_claim"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "royal palace of Babylon",
+      "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [
+     {
+      "ref": "Dan.4.29",
+      "phrase": "At the end of twelve months",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [],
+    "research_priority": "high",
+    "ambiguities": [
+     "Proposed Nabonidus tradition behind the story."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4RV9NRDQ41HV8TDH3ZYX1PS"
+   },
+   {
+    "id": "cnd_01M4RV9NRGT45GPENYDM62F4VA",
+    "title": "Restoration and confession",
+    "passage": "Dan.4.34-Dan.4.37",
+    "description": "At the end of the days the king's reason returned; he praised the Most High and was restored to his kingdom with added greatness.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal",
+     "religious"
+    ],
+    "parent_candidate_id": "cnd_01M4RV9NRGDYEYR413J7HMPH2D",
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.4.34",
+      "phrase": "At the end of the days",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4RV9NRDQ41HV8TDH3ZYX1PS"
+   }
+  ],
+  "session_log": "research/logs/2026-10-12-daniel-04.md",
+  "slug": "daniel"
+ },
+ {
   "book": "Amos",
   "chapter": 1,
   "status": "complete",

@@ -1,0 +1,24 @@
+{
+  "kind": "artifact",
+  "id": "art_01M4RV9NR98ZCQ5DAG7ZQGMW6W",
+  "slug": "east-india-house-inscription",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RV9NQJFHHHV4S9K9WRY17E"
+  ],
+  "notes": null,
+  "name": "East India House Inscription",
+  "artifact_type": "Limestone foundation tablet",
+  "findspot_site_id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
+  "findspot_description": "Ruins of Babylon; unearthed before 1803 by Sir Harford Jones Brydges.",
+  "current_institution": "British Museum, London",
+  "accession_number": "1938,0520.1",
+  "date": {
+    "earliest": -603,
+    "latest": -561
+  },
+  "description": "Foundation inscription of Nebuchadnezzar II describing his temple building and devotion to the shrines of Babylon and Borsippa.",
+  "image": null,
+  "institution_url": null
+}

@@ -1842,5 +1842,295 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4RV9NQA7FREZ7NZHBK6GKCJ",
+  "title": "Daniel 4 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-4/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the commentary on Daniel 4",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Royal decree as testimony; tree = the king; watchers as angels; boast matched by bricks and BM cylinders; boanthropy (1946 case); seven times = seven years; cites Abydenus (c. 268 BC) \"possessed by some god\"; gap in records c. 582–575 BC; does not mention Nabonidus",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RV9NQDGZSWZ65QX9YDV0T5",
+  "title": "Daniel 4 — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_4",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Probably a variant of an original Jewish story about Nabonidus (Collins 1984); Prayer of Nabonidus describes seven years of inflammation at Tayma; letter opening attached to ch. 3 in Jewish Bibles (3:31–33; Seow 2003); tree linked to Ezekiel 31 (Seow); no Babylonian evidence of the illness cited",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RV9NQEX541YPGG8RK52KR0",
+  "title": "Prayer of Nabonidus — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Prayer_of_Nabonidus",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "4Q242 (Israel Museum), Aramaic, script c. 50–25 BC (Milik) / second quarter 1st c. BC (Cross); Nabonidus reports an ulcer for seven years at Tayma, forgiven and healed by God, a Judean urges him to proclaim it; usually assumed that Daniel depends on it (or a common tradition; Lange & Sieker; von Soden)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+  "title": "ABC 7 (Nabonidus Chronicle) — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "ABC 7 (Nabonidus Chronicle)",
+  "license": "Translation after Grayson 1975 with revisions; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Years 7, 9, 10, 11: \"the king was in Tayma\" while \"the prince, his officers and army\" were in Akkad and the Akitu festival was not held; year 17: Opis, Sippar taken on day 14, Ugbaru and Cyrus's army entered Babylon on day 16 without battle, Cyrus entered on 3 Arahsamna, Ugbaru died 11 Arahsamna",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full translation page read. The page gives no museum number and no Julian dates.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RV9NQHMK8RS0CXEFG1ZWH7",
+  "title": "Daniel on Nebuchadnezzar's madness — Livius.org",
+  "source_type": "popular_summary",
+  "authors": [
+   "Livius.org (J. Lendering)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/bible/daniel-on-nebuchadnezzars-madness/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Cuneiform texts reveal nothing about Nebuchadnezzar's mental health; the story was originally about Nabonidus (Verse Account rumours of illness; Prayer of Nabonidus); Daniel avoids naming Nabonidus",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RV9NQJFHHHV4S9K9WRY17E",
+  "title": "East India House Inscription — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/East_India_House_Inscription",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Limestone foundation tablet of Nebuchadnezzar II found at Babylon before 1803; British Museum 1938,0520.1; probably from one of his numerous constructions; records his temple building and care for the shrines of Babylon and Borsippa",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RV9NQNHAET9777Y99J08D5",
+  "title": "BM 34113 — British Museum collection record (historical-literary text)",
+  "source_type": "museum_catalog",
+  "authors": [
+   "British Museum"
+  ],
+  "publisher": "British Museum",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.britishmuseum.org/collection/object/W_SP-213",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "discovered",
+  "verification_log": [
+   {
+    "level": "discovered",
+    "date": "2026-10-12",
+    "method": "Found in a web search; the collection page returned HTTP 403 to automated access.",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed. A search summary reports the museum catalogues it as a historical-literary text concerning Amel-Marduk (Grayson, BHLT pp. 87–92), and that some (Wiseman; a JETS article by Ferguson, 1994) read parts as referring to Nebuchadnezzar. None of this was verified at source.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RV9NQP9N299ANT0FNV18MD",
+  "title": "Thaima (Tayma) — Pleiades place 814739",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/814739",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched https://pleiades.stoa.org/places/814739/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "reprPoint lon 38.55, lat 27.6219",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 38.55, lat 27.6219.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

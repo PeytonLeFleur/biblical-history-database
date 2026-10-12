@@ -5,15 +5,23 @@
   "book": "Dan",
   "chapter": 2,
   "stage": "scripture_extraction",
-  "status": "queued",
+  "status": "published",
   "priority": "medium",
   "checkpoint": {
-    "note": "Rule 01 extraction",
+    "note": "Rule 01 extraction complete",
     "resume_from": null,
     "files": []
   },
-  "attempts": [],
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-12T20:04:03.337Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
   "created_at": "2026-10-12T19:46:26.854Z",
-  "updated_at": "2026-10-12T19:46:26.854Z",
+  "updated_at": "2026-10-12T20:04:03.337Z",
   "is_fixture": false
 }

@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4RV9NRC7FFPKYYJWER93ZY8",
+  "slug": "nebuchadnezzar-tree-dream-dan-4",
+  "title": "Nebuchadnezzar's dream of the great tree and Daniel's interpretation (Dan 4:4–27)",
+  "summary": "In a first-person royal account, Nebuchadnezzar dreams of a great tree cut down by a heavenly watcher; Daniel interprets it as the king's coming humbling for \"seven times\" until he acknowledges the Most High.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4RV9NRGXRAGX8SCYSS8JQZT"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "royal",
+    "religious"
+  ],
+  "priority": "medium",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.4.4-Dan.4.27",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "last_reviewed_at": null
+}

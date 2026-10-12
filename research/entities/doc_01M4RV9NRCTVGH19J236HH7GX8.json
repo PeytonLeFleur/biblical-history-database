@@ -1,0 +1,22 @@
+{
+  "kind": "document",
+  "id": "doc_01M4RV9NRCTVGH19J236HH7GX8",
+  "slug": "abc-7-nabonidus-chronicle",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Babylonian Chronicle ABC 7 (Nabonidus Chronicle)",
+  "document_type": "Chronicle",
+  "language": "Akkadian",
+  "standard_reference": "ABC 7 (Grayson 1975)",
+  "artifact_id": null,
+  "date": {
+    "earliest": -555,
+    "latest": -538
+  },
+  "description": null,
+  "editions": [
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ]
+}

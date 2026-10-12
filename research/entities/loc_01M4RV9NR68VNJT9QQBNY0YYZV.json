@@ -1,0 +1,36 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RV9NR68VNJT9QQBNY0YYZV",
+  "slug": "tayma",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Tayma",
+  "place_type": "oasis",
+  "modern_name": "Tayma",
+  "modern_country": "Saudi Arabia",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Tēma",
+      "language": "Hebrew/Akkadian",
+      "period": null,
+      "source_id": "src_01M4RV9NQP9N299ANT0FNV18MD"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4RV9NR4ZZZFPWND8B0MD2RF",
+      "label": "Tayma oasis (Pleiades 814739)",
+      "lat": 27.6219,
+      "lon": 38.55,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4RV9NQP9N299ANT0FNV18MD",
+      "proponents": [],
+      "reasoning": "Pleiades representative point."
+    }
+  ],
+  "description": null
+}

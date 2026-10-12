@@ -1,0 +1,60 @@
+{
+  "event_id": "evt_01M4RV9NRC7FFPKYYJWER93ZY8",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RV9NRKQ4MX4BA85BV5DYHP",
+      "type": "prophecy_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV9NRC7FFPKYYJWER93ZY8"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4RV9NRGW4FS0325T8MVSH1H"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Daniel's interpretation within the narrative.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "The text itself (4:19–27)",
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RV9NRK8RAW92AMPJH7SZF6",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV9NRC7FFPKYYJWER93ZY8"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.31.1-Ezek.31.18"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "Pharaoh as a towering cedar felled for its pride (Seow, via Wikipedia).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RV9NQDGZSWZ65QX9YDV0T5"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": []
+}
