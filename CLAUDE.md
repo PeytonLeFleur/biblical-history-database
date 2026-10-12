@@ -24,8 +24,12 @@
 - Never fabricate sources, findings, dates or coordinates. Record the verification level actually reached.
 - Keep text, interpretation, reconstruction and evidence separate.
 - Machine-proposed is not human-reviewed. A passing validator is not historical verification.
+- **Never run `pnpm review:approve` or `pnpm review:reject`.** Those are owner decisions, and the CLI requires an interactive terminal. Claude may queue reviews and run `review:list` / `review:show` / `review:return`.
 - Never commit secrets, ESV/NKJV text, restricted downloads or fixtures in exports.
 - Report progress honestly. Do not mark incomplete stages complete.
+
+## Research CLI (cheat sheet)
+`research:status` · `research:chapter <book> <ch>` · `research:event <evt>` · `research:resume` · `research:source add|verify|list` · `research:crossrefs <evt>` · `research:validate` · `research:audit [evt]` · `research:import [--dry-run]` · `research:export` · `chronology:validate|recalculate|anchors|models`
 
 ## End every session
 Save structured research → run tests and validation → update `docs/PROJECT_STATUS.md` → rewrite `docs/NEXT_ACTION.md` → commit and push (only when green).
