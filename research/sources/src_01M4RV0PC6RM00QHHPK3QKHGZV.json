@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RV0PC6RM00QHHPK3QKHGZV",
+  "title": "Daniel 3: Extra-Biblical Texts and the Convocation on the Plain of Dura",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Shea, William H."
+  ],
+  "publisher": "Andrews University Press",
+  "journal": "Andrews University Seminary Studies 20.1 (1982): 29–52",
+  "published_date": "1982",
+  "url": "https://digitalcommons.andrews.edu/auss/vol20/iss1/1",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Andrews University Digital Commons landing page and AUSS 1982/1 contents page",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Landing page and issue table of contents confirmed (pp. 29–52); the PDF endpoint returned HTTP 403 to automated download and has no abstract. Content NOT read; its argument is not characterised here.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

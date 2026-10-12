@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_01M4RV0PCZD01CJS7ZP4VR664B",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Nebuchadnezzar blessed the God who had sent his angel to deliver his servants, decreed that anyone speaking against him should be cut in pieces and his house destroyed, and promoted the three in the province of Babylon.",
+    "passage": "Dan.3.28-Dan.3.30"
+  },
+  "setting": {
+    "period": "Reign of Nebuchadnezzar II",
+    "body": "Nebuchadnezzar's own inscriptions, which mostly concern building works, are devoted to Babylonian gods; no royal text consulted mentions such a decree.",
+    "citations": []
+  },
+  "rulers": [],
+  "kingdoms": [],
+  "constraints": [
+    {
+      "id": "cst_01M4RV0PD13M44N05438ZRM2F2",
+      "subject": "evt_01M4RV0PCZD01CJS7ZP4VR664B",
+      "object": "evt_01M4RV0PCZYM4AMSJ2SA5740F0",
+      "relation": "immediately_follows",
+      "textual_assertion": "Nebuchadnezzar spoke and said, \"Blessed be the God of Shadrach…\"",
+      "passage": "Dan.3.28",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Historical royal decree",
+      "proponents": [
+        "Traditional reading"
+      ],
+      "summary": "An actual decree protecting the Judeans' worship.",
+      "citations": [
+        "src_01M4RV0PC11MM6RMB1HSZQEFYW"
+      ]
+    },
+    {
+      "label": "Literary climax of a court legend",
+      "proponents": [
+        "Scholarship summarised by Wikipedia"
+      ],
+      "summary": "The foreign king's confession is a stock feature of the court-tale genre.",
+      "citations": [
+        "src_01M4RV0PC4SW6ZN9QCPEZFJXPC"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RV0PC11MM6RMB1HSZQEFYW",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes the three neither asked for nor would have wanted a coerced decree, since compelled worship is not true worship.",
+      "url": "https://enduringword.com/bible-commentary/daniel-3/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "geography": "Province of Babylon; recorded on the parent event."
+  }
+}

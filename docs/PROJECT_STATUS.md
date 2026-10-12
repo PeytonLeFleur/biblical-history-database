@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 5 (Daniel research pilot): **in progress** (Daniel 1–2 of 12 complete)
+**Current milestone:** 5 (Daniel research pilot): **in progress** (Daniel 1–3 of 12 complete)
 **Last updated:** 2026-10-12
 
 ## Milestone 1: Repository and foundation ✅
@@ -85,7 +85,8 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 |---|---|---|---|
 | Daniel 1 | 21/21 | 4 Daniel events (1:1–2 campaign; court training; diet test; plus the 1:21 reference queued) + Carchemish (external) | ✅ researched (2 disputed claims and 1 proposed fulfillment in review) |
 | Daniel 2 | 49/49 | Dream and interpretation (2:1–45); Daniel's appointment (2:46–49); vision record (statue); prophecy record (four kingdoms) with 4 interpretations | ✅ researched (1 disputed claim, 4 proposed fulfillments in review) |
-| Daniel 3–12 | 0 | — | not started |
+| Daniel 3 | 30/30 | Golden image (parent); refusal and furnace; decree. Plain of Dura place (no coordinates); LXX date model; Greek additions indexed | ✅ researched (1 disputed claim in review) |
+| Daniel 4–12 | 0 | — | not started |
 
 **Infrastructure added in M5:**
 - Global synchronism, artifact, document, vision and prophecy records. Interpretations carry an approach and proponents, and proposed fulfillments require owner review.
@@ -103,6 +104,6 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 lint ✓ · typecheck ✓ · Vitest **91/91** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,299 pages
 
 ## Research progress
-- Verse coverage: **85 / 31,102** reviewed (Amos 1; Daniel 1–2). Chapters extracted: 3.
-- **Events: 9** (7 researched, 2 preliminary). **Sources: 43.** **Entities: 45** (incl. 1 vision, 1 prophecy with 4 interpretations).
-- **Open owner reviews: 9.** The Amos review is unchanged.
+- Verse coverage: **115 / 31,102** reviewed (Amos 1; Daniel 1–3). Chapters extracted: 4.
+- **Events: 12** (10 researched, 2 preliminary). **Sources: 51.** **Entities: 48.**
+- **Open owner reviews: 10.** The Amos review is unchanged.

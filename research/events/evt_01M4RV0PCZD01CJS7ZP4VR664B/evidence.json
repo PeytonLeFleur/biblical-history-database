@@ -1,0 +1,111 @@
+{
+  "event_id": "evt_01M4RV0PCZD01CJS7ZP4VR664B",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-12",
+      "query": "Wikipedia Daniel 3 (Shadrach, Meshach, and Abednego)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Enduring Word Daniel 3",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Shea Daniel 3 Extra-Biblical Texts Convocation on the Plain of Dura AUSS 1982 pdf",
+      "engine": "web + digitalcommons",
+      "useful_results": 1,
+      "notes": "PDF blocked (403); metadata only."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Livius ABC 5 years 8–11 (revolt in Akkad)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "plain of Dura location Oppert Tulul Dura pedestal",
+      "engine": "web",
+      "useful_results": 2,
+      "notes": "Only 19th-century dictionary entries; no modern excavation report found."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Bible Hub H5481 sumponyah (BDB)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Code of Hammurabi burning penalties (Avalon, King translation)",
+      "engine": "web",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Brenton LXX Daniel 3; WEB Greek Daniel 3 (eBible)",
+      "engine": "web",
+      "useful_results": 2,
+      "notes": "Brenton has \"eighteenth year\"; WEB Greek lacks it."
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "No recent discoveries bear on this chapter."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4RV0PD58S0QP54PCPDCFC2Z",
+      "statement": "Nebuchadnezzar issued a decree protecting the God of the three Judeans and promoted them.",
+      "layer": "text",
+      "passage": "Dan.3.28-Dan.3.30",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No such decree is known from Nebuchadnezzar's inscriptions or the chronicles consulted. This is not a disproof.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    }
+  ],
+  "evidence": [],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

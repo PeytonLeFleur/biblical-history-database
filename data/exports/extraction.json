@@ -1023,6 +1023,429 @@
   "slug": "daniel"
  },
  {
+  "book": "Dan",
+  "chapter": 3,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Dan.3.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZDX49RGE1C30W6QW1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZDX49RGE1C30W6QW1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZDX49RGE1C30W6QW1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZDX49RGE1C30W6QW1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZDX49RGE1C30W6QW1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZDX49RGE1C30W6QW1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZDX49RGE1C30W6QW1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZ86R4H7E1R5SWH50R"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.22",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.23",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": "Greek Daniel inserts the Prayer of Azariah and the Song of the Three Young Men after this verse (non-canonical; indexed as a document)."
+   },
+   {
+    "ref": "Dan.3.24",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.25",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.26",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.27",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.28",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZX7T2G2M7Y4QHXZC3"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.29",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZX7T2G2M7Y4QHXZC3"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.3.30",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4RV0PCZX7T2G2M7Y4QHXZC3"
+    ],
+    "notes": "The Aramaic text continues with 3:31–33, which English Bibles number 4:1–3."
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4RV0PCZDX49RGE1C30W6QW1",
+    "title": "The golden image and its dedication on the plain of Dura",
+    "passage": "Dan.3.1-Dan.3.7",
+    "description": "Nebuchadnezzar set up a gold image 60 by 6 cubits on the plain of Dura and summoned the officials of the provinces to its dedication; at the sound of the instruments all peoples were to fall down and worship, on pain of the furnace.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal",
+     "religious",
+     "construction"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "plain of Dura",
+      "matched_entity_id": "loc_01M4RV0PCW10SXMFXNBB5QXSZE",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.2.31-Dan.2.45"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "No date in the Aramaic text; Brenton's Septuagint reads \"in his eighteenth year\".",
+     "Instrument names include Greek loanwords."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT"
+   },
+   {
+    "id": "cnd_01M4RV0PCZ86R4H7E1R5SWH50R",
+    "title": "Accusation of the three Jews and their refusal",
+    "passage": "Dan.3.8-Dan.3.18",
+    "description": "Chaldeans accused Shadrach, Meshach and Abednego of not serving the king's gods; summoned, they refused to worship the image, trusting their God to deliver them or not.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious",
+     "legal"
+    ],
+    "parent_candidate_id": "cnd_01M4RV0PCZDX49RGE1C30W6QW1",
+    "participants": [
+     {
+      "name_as_written": "Shadrach",
+      "matched_entity_id": "per_01M4RSRHM4JRP1N1HRHKKZ20DB",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Meshach",
+      "matched_entity_id": "per_01M4RSRHM415KGK5QA69N7A2Z0",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Abednego",
+      "matched_entity_id": "per_01M4RSRHM5YH1DXBY071RCYWH6",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.3.8",
+      "phrase": "at that time",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [
+     "Daniel is absent from the chapter."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0"
+   },
+   {
+    "id": "cnd_01M4RV0PCZV8VXQ08QCNQZK0MY",
+    "title": "The fiery furnace and the deliverance",
+    "passage": "Dan.3.19-Dan.3.27",
+    "description": "The furnace was heated seven times hotter; the bound men were thrown in, the executioners died, the king saw four men walking unharmed in the fire, and the three came out without even the smell of fire.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "miracle_claim",
+     "legal"
+    ],
+    "parent_candidate_id": "cnd_01M4RV0PCZDX49RGE1C30W6QW1",
+    "participants": [
+     {
+      "name_as_written": "Shadrach",
+      "matched_entity_id": "per_01M4RSRHM4JRP1N1HRHKKZ20DB",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Meshach",
+      "matched_entity_id": "per_01M4RSRHM415KGK5QA69N7A2Z0",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Abednego",
+      "matched_entity_id": "per_01M4RSRHM5YH1DXBY071RCYWH6",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Jer.29.22",
+     "Isa.43.2"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [
+     "Identity of the fourth figure (3:25; the king calls him an angel in 3:28). English versions differ: \"a son of the gods\" vs \"the Son of God\".",
+     "Greek Daniel inserts the Prayer of Azariah and the Song of the Three after 3:23 (non-canonical; SPEC 5.6)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0"
+   },
+   {
+    "id": "cnd_01M4RV0PCZX7T2G2M7Y4QHXZC3",
+    "title": "Nebuchadnezzar's decree and the promotion of the three",
+    "passage": "Dan.3.28-Dan.3.30",
+    "description": "The king blessed their God, decreed death for anyone speaking against him, and promoted the three in the province of Babylon.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "legal",
+     "political",
+     "royal"
+    ],
+    "parent_candidate_id": "cnd_01M4RV0PCZDX49RGE1C30W6QW1",
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "province of Babylon",
+      "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4RV0PCZD01CJS7ZP4VR664B"
+   }
+  ],
+  "session_log": "research/logs/2026-10-12-daniel-03.md",
+  "slug": "daniel"
+ },
+ {
   "book": "Amos",
   "chapter": 1,
   "status": "complete",

@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RV0PC4SW6ZN9QCPEZFJXPC",
+  "title": "Shadrach, Meshach, and Abednego — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_3",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Chapter possibly originally independent (Daniel absent; Levine 2010); legendary features and folklore plot (Collins 1984); \"Dura\" means plain/fortress, not a specific place; 60×6 cubits vs the 60×60 temple (Wesselius 2002); Herodotus mentions a golden image of Bel; Greek additions (Prayer of Azariah, Song of the Three) are deuterocanonical",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "The URL \"Daniel_3\" resolves to this article.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,84 @@
+{
+  "event_id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RV0PD5YF47R76SKACBXTJH",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.29.22"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "A king of Babylon \"roasted in the fire\" Zedekiah and Ahab, false prophets in exile — a distinct event involving the same punishment.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RV0PD5J7Z1PV4962TZY02E",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Isa.43.2"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "\"When you walk through the fire, you will not be burned\" — a promise often read alongside the deliverance. Thematic only.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RV0PD5BPGM4DR8WJBRXTSS",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Heb.11.34"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Hebrews lists those who \"quenched the power of fire\" among the faithful, commonly referred to this episode.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4RV0PD1WPWA6Q94WWTVW1SH"
+  ]
+}

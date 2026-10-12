@@ -1,0 +1,101 @@
+{
+  "event_id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Chaldeans denounced Shadrach, Meshach and Abednego for not serving the king's gods. Given a second chance, they declared that their God could deliver them, and that even if he did not they would not worship the image. The furnace was heated seven times hotter, the bound men were thrown in, the men who threw them died, and the king saw four men walking unharmed in the fire, the fourth \"like a son of the gods\". The three came out untouched by the fire.",
+    "passage": "Dan.3.8-Dan.3.27"
+  },
+  "setting": {
+    "period": "Reign of Nebuchadnezzar II",
+    "body": "Burning appears as a penalty in Old Babylonian law, and Jeremiah 29:22 says a king of Babylon \"roasted in the fire\" two Judean prophets in exile.",
+    "citations": [
+      "src_01M4RV0PC9M31R2TJ4D1KZRAR9"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "King who ordered the execution",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4RV0PD1WPWA6Q94WWTVW1SH",
+      "subject": "evt_01M4RV0PCZYM4AMSJ2SA5740F0",
+      "object": "evt_01M4RV0PCZ14167GHEZ1T1JFNT",
+      "relation": "during",
+      "textual_assertion": "at that time certain Chaldeans came near",
+      "passage": "Dan.3.8",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "period",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RV0PCW10SXMFXNBB5QXSZE",
+      "role": "Implied setting (the dedication)",
+      "hypotheses": [],
+      "confidence": "disputed"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "The fourth figure as an angel",
+      "proponents": [
+        "The text (3:28: \"sent his angel\")"
+      ],
+      "summary": "The king himself later says God sent his angel.",
+      "citations": []
+    },
+    {
+      "label": "The fourth figure as a Christophany",
+      "proponents": [
+        "D. Guzik and many Christian interpreters"
+      ],
+      "summary": "Reading \"like the Son of God\", the figure is the pre-incarnate Christ present with the faithful in their trial.",
+      "citations": [
+        "src_01M4RV0PC11MM6RMB1HSZQEFYW"
+      ]
+    },
+    {
+      "label": "Translation note",
+      "proponents": [
+        "English versions"
+      ],
+      "summary": "Some English versions render 3:25 \"a son of the gods\" (the king's polytheistic idiom, as in the WEB), others \"the Son of God\"; the difference affects interpretation, not the narrated event.",
+      "citations": []
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RV0PC11MM6RMB1HSZQEFYW",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the refusal as treated by the king as treason, and identifies the fourth man as the Son of God present with his people, noting that God may deliver from trials or sustain within them.",
+      "url": "https://enduringword.com/bible-commentary/daniel-3/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "geography": "Setting already recorded on the parent event."
+  }
+}

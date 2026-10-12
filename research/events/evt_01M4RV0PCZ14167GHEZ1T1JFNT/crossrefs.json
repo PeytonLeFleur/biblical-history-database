@@ -1,0 +1,115 @@
+{
+  "event_id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4RV0PD4TFJSH4BAD7ZAZAAJ",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.2.31-Dan.2.45"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "An all-gold image after the dream's head of gold; interpreters (e.g. Guzik) read it as a response to chapter 2. Thematic link only.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RV0PC11MM6RMB1HSZQEFYW"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RV0PD4AWZ70K039FA161WZ",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.6.7-Dan.6.9"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Daniel 6 pairs with Daniel 3 in the chiastic structure of chapters 2–7 (a royal decree enforcing worship and a deliverance).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RV0PC4SW6ZN9QCPEZFJXPC"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RV0PD4W4MXYQ7R0SJEP1FT",
+      "type": "same_period",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.29"
+      },
+      "confidence": "low",
+      "layer": "reconstruction",
+      "rationale": "Only under the Septuagint date (Nebuchadnezzar's 18th year), the year of a deportation from Jerusalem in Jer 52:29.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RV0PCBEYXRJ2X47TV24P5Q"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4RV0PD4Y36P5C092FJQENWA",
+      "type": "child_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The refusal and furnace narrative belongs to the dedication.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4RV0PD1NB1NHDGHTD7TH3X9",
+    "cst_01M4RV0PD14ZDN56GWPGK7QMXX"
+  ]
+}

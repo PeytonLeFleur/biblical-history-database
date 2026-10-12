@@ -1,0 +1,55 @@
+{
+  "event_id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT",
+  "revision": 1,
+  "validated_at": "2026-10-12",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4RV0PD4VZVTWAM5XG5NP98C"
+  ],
+  "research_gaps": [
+    "Shea (1982) and Mitchell & Joyce (1965) not read.",
+    "No modern survey of the Duair mound located.",
+    "Herodotus 1.183 (golden image of Bel) not read directly."
+  ],
+  "disputes": [
+    "The plain of Dura can be identified with a specific site near Babylon."
+  ],
+  "export_eligible": true
+}

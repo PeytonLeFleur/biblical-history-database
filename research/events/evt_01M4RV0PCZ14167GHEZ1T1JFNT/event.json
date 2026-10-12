@@ -1,0 +1,61 @@
+{
+  "id": "evt_01M4RV0PCZ14167GHEZ1T1JFNT",
+  "slug": "golden-image-on-the-plain-of-dura",
+  "title": "Nebuchadnezzar's golden image on the plain of Dura (Dan 3:1–7)",
+  "summary": "Nebuchadnezzar set up a gold image sixty cubits high and six wide on the plain of Dura and summoned the provincial officials to its dedication, commanding worship at the sound of the instruments on pain of death in a furnace.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4RV0PCZDX49RGE1C30W6QW1"
+  ],
+  "external_reason": null,
+  "is_period": true,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "royal",
+    "religious",
+    "construction"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.3.1-Dan.3.7",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "last_reviewed_at": null
+}
