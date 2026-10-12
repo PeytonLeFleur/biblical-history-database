@@ -1,0 +1,146 @@
+{
+  "event_id": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In the second year of his reign Nebuchadnezzar was troubled by dreams and ordered his magicians, enchanters, sorcerers and Chaldeans to tell him the dream as well as its interpretation. When they protested that only the gods could do this, he ordered all the wise men of Babylon killed. Daniel obtained time, the secret was revealed to him in a night vision, and he told the king of a great statue of gold, silver, bronze, iron and clay shattered by a stone that became a mountain, interpreting it as successive kingdoms followed by God's everlasting kingdom.",
+    "passage": "Dan.2.1-Dan.2.45"
+  },
+  "setting": {
+    "period": "Early reign of Nebuchadnezzar II (c. 603–602 BC on the text's own dating)",
+    "body": "Mesopotamian kings treated dreams as portents and consulted specialists; an inscription of Nabonidus records a dream in which Nebuchadnezzar appeared to him. The chapter shifts from Hebrew into Aramaic at 2:4b and remains in Aramaic through chapter 7, for which, per Wikipedia, no convincing explanation has been agreed.",
+    "citations": [
+      "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+      "src_01M4RTK73MY7ZP1T97R06C13XY"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "King who dreamed and issued the decree",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4RTK7478463KW75PRKASE8W",
+      "subject": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the second year of the reign of Nebuchadnezzar",
+      "passage": "Dan.2.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 2,
+      "alternative_option": "Nebuchadnezzar's years with an accession year (Babylonian practice)",
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "daniel-babylonian-years",
+      "assumptions": [
+        "Babylonian years begin in Nisan."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RTK747H8C6HEZVD14QBTYC",
+      "subject": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the second year of the reign of Nebuchadnezzar",
+      "passage": "Dan.2.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 2,
+      "alternative_option": "Nebuchadnezzar's accession year counted as year 1",
+      "regnal_convention": {
+        "reckoning": "non_accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": "daniel-babylonian-years",
+      "assumptions": [
+        "Babylonian years begin in Nisan."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RTK747DNWP6P9R7KGFNJWN",
+      "subject": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+      "object": "evt_01M4RSRHMKFBYZNZXBYS1VGB10",
+      "relation": "after",
+      "textual_assertion": "They sought Daniel and his companions to be slain (as members of the wise men)",
+      "passage": "Dan.2.13",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Daniel is already counted among the wise men, so the dream follows the start of the training."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Royal court",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Inclusive counting reconciles \"second year\" with three years of training",
+      "proponents": [
+        "D. Guzik (Enduring Word)"
+      ],
+      "summary": "Counting partial years (accession year, year 1, year 2) as the \"three years\", the training could end within Nebuchadnezzar's second year (c. 602 BC).",
+      "citations": [
+        "src_01M4RTK73D2VJASPVYEK3MFDFJ"
+      ]
+    },
+    {
+      "label": "Independent court tales; continuity gaps",
+      "proponents": [
+        "Scholarship summarised in Wikipedia \"Daniel 2\""
+      ],
+      "summary": "The king needs an introduction to Daniel (2:25) although he examined him in 1:18–20; with the language switch and repetition, this suggests chapters 1 and 2 were not composed as a continuous narrative; the chapter in its present form dates no earlier than the early Seleucid period.",
+      "citations": [
+        "src_01M4RTK73HEWQDGGDX0Z4SK6VF"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RTK73D2VJASPVYEK3MFDFJ",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the metals as Babylon, Medo-Persia, Greece and Rome in declining value, the toes as a future ten-king Roman confederation, and the stone as the Messiah whose kingdom ends the world empires decisively at his return.",
+      "url": "https://enduringword.com/bible-commentary/daniel-2/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [
+    "No cuneiform source mentions this dream or Daniel."
+  ],
+  "not_applicable": {}
+}

@@ -1,6 +1,6 @@
 # Training of Judean youths at the Babylonian court (Dan 1:3–7, 17–20)
 
-> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
 > Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
 
 ## Biblical references
@@ -24,186 +24,366 @@ Babylonian administrative ration lists from Nebuchadnezzar's palace record alloc
 
 ## Date and chronology
 
-- **606 BC – ?** — computed under *model-independent*; precision: regnal_year
+- **606 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *model-independent*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **606 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **608 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
-- **607 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
-  - Latest bound from: —
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **606 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **608 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
+- **607 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → “The king spoke to Ashpenaz … that he should bring in some of the children of Israel”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747DNWP6P9R7KGFNJWN
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

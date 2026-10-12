@@ -50,5 +50,70 @@
   "status": "open",
   "created_at": "2026-10-12T19:34:47.720Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4RTK74S7TWNK6V0BFJSKKZ7",
+  "record_kind": "claim",
+  "record_id": "clm_01M4RTK74RRQ7PQW82KQW0BH42",
+  "record_revision": 1,
+  "reason": "Disputed: Dan 2:1 \"second year\" vs the three-year training of Daniel 1",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-12T19:49:21.689Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4RTK74VHKZVJPZGG1SEFHTJ",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4RTK7448RVXKGHK6QYA0E8B",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 2): Babylon, Medo-Persia, Greece, Rome; the stone is the messianic kingdom",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-12T19:49:21.691Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4RTK74W2D29F8R0TC01YR58",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4RTK744J6EM22C2BSXB392X",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 2): Babylon, Media, Persia, Greece (Seleucids and Ptolemies); the stone is God's imminent kingdom",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-12T19:49:21.692Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4RTK74WP26PHPGKEB1AAJNX",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4RTK744RGV8DN2Z5NXFM1KX",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 2): Rome with a future ten-kingdom phase; the stone is Christ's return",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-12T19:49:21.692Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4RTK74WW8VRNCBT12WR9W7D",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4RTK7447GCCGCH7NNSDFHXH",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 2): Rome followed by the divided nations of Europe; the stone is God's unending kingdom at Christ's return",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-12T19:49:21.692Z",
+  "decisions": []
  }
 ]

@@ -1,0 +1,241 @@
+{
+  "event_id": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-12",
+      "query": "Josephus Antiquities 10.10.4 (Gutenberg #2848) — interpretation of the image",
+      "engine": "gutenberg.org",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Wikipedia: Four kingdoms of Daniel; Daniel 2",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Velleius Paterculus 1.6.6 Aemilius Sura four empires (LacusCurtius 404; Wikipedia fragment)",
+      "engine": "web",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Crossref: Oppenheim, Interpretation of Dreams in the Ancient Near East",
+      "engine": "api.crossref.org",
+      "useful_results": 1,
+      "notes": "Metadata only."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Enduring Word Daniel 2",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "A private court episode leaves no expected archaeological trace."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4RTK74RJXP995KZRNH77D9M",
+      "statement": "Mesopotamian kings treated dreams as portents and consulted specialist interpreters.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Wikipedia (Daniel 2) reports royal dreams as portents and a Nabonidus inscription recording a dream of Nebuchadnezzar; Oppenheim's standard study of the dream literature exists but was not read.",
+      "supporting_evidence": [
+        "evd_01M4RTK74R2D9ZSEX061GDXKG4"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Secondary evidence only; primary dream texts not consulted this session."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RTK74RGPDRAFS4MCB4K67W",
+      "statement": "Nebuchadnezzar had this dream and Daniel recounted and interpreted it.",
+      "layer": "text",
+      "passage": "Dan.2.1-Dan.2.45",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No Babylonian or other independent source mentions the dream, the decree against the wise men, or Daniel. This is not a disproof.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RTK74R2D9ZSEX061GDXKG4"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RTK74RVJ89SNXVGCFRX20M",
+      "statement": "The content of the dream was revealed to Daniel by God.",
+      "layer": "text",
+      "passage": "Dan.2.19",
+      "classification": "not_empirically_testable",
+      "reasoning": "Divine revelation cannot be assessed by historical or scientific methods. This is not a theological verdict.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RTK74RRQ7PQW82KQW0BH42",
+      "statement": "\"The second year of Nebuchadnezzar\" (Dan 2:1) is chronologically compatible with the three-year training of Daniel 1.",
+      "layer": "reconstruction",
+      "passage": "Dan.2.1",
+      "classification": "disputed",
+      "reasoning": "Chronology engine. Dan 2:1's \"second year\" falls Feb 603 BC – May 602 BC if Nebuchadnezzar's years are counted with an accession year (Babylonian practice), or Feb 604 BC – May 603 BC if his accession year is counted as year 1. Assumption (not textual): a campaign by Nebuchadnezzar against Jerusalem (Dan 1:1) could not precede Carchemish, the first Babylonian operation in the west recorded in ABC 5 (Mar 605 BC – Aug 605 BC). Three full years of training after that end no earlier than Mar 602 BC – Aug 602 BC, i.e. at the very end of or after the accession-reckoned \"second year\" and well after the non-accession one. Full-year counting therefore fits only at the extreme margin (if at all); counting partial years inclusively (accession year, year 1, year 2) fits comfortably. Guzik proposes the inclusive/overlap explanation; the critical view treats chapters 1 and 2 as originally independent tales.",
+      "supporting_evidence": [
+        "evd_01M4RTK74RNVH84903VE6VP5GR"
+      ],
+      "counterevidence": [
+        "evd_01M4RTK74RJX87MP42F967NYRX"
+      ],
+      "contextual_evidence": [],
+      "limitations": [
+        "Depends on the assumption that the Dan 1:1 campaign followed Carchemish.",
+        "New-year windows are conservative approximations."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-12"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4RTK74R2D9ZSEX061GDXKG4",
+      "claim_ids": [
+        "clm_01M4RTK74RJXP995KZRNH77D9M",
+        "clm_01M4RTK74RGPDRAFS4MCB4K67W"
+      ],
+      "source_id": "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Royal dreams were regarded as portents; an inscription of Nabonidus records a dream in which Nebuchadnezzar appears to reassure him.",
+      "locator": "Background section",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Secondary summary."
+      ],
+      "independent_line": "ane-royal-dreams"
+    },
+    {
+      "id": "evd_01M4RTK74RNVH84903VE6VP5GR",
+      "claim_ids": [
+        "clm_01M4RTK74RRQ7PQW82KQW0BH42"
+      ],
+      "source_id": "src_01M4RTK73D2VJASPVYEK3MFDFJ",
+      "stance": "supports",
+      "strength": "contextual",
+      "finding": "Guzik notes that overlapping regnal-year counts allow 602 BC to be both Nebuchadnezzar's second year and after the training.",
+      "locator": "Commentary on 2:1",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Theological commentary."
+      ],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4RTK74RJX87MP42F967NYRX",
+      "claim_ids": [
+        "clm_01M4RTK74RRQ7PQW82KQW0BH42"
+      ],
+      "source_id": "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The king's need to be introduced to Daniel after 1:18–20, the language switch and repetitions are cited as evidence that chapters 1 and 2 were not composed as one continuous narrative.",
+      "locator": "Composition section",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-composition"
+    },
+    {
+      "id": "evd_01M4RTK74RKK9ETJA3J3HCRS0Q",
+      "claim_ids": [
+        "clm_01M4RTK74RGPDRAFS4MCB4K67W"
+      ],
+      "source_id": "src_01M4RTK73GNE4PSPJM6Q73JH9M",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "Josephus retells the dream and its interpretation (late 1st century AD), dependent on the biblical account.",
+      "locator": "Ant. 10.10.4",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Not independent of Daniel."
+      ],
+      "independent_line": "josephus-antiquities"
+    },
+    {
+      "id": "evd_01M4RTK74RDGDS5H1AB5N5B2A1",
+      "claim_ids": [
+        "clm_01M4RTK74RJXP995KZRNH77D9M"
+      ],
+      "source_id": "src_01M4RTK73KQ559JXWK7JXGN1GE",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "A Roman-era fragment (Aemilius Sura) lists a succession of world empires — Assyria, Media, Persia, Macedonia, then Rome — showing that four-empire schemes circulated in the Hellenistic-Roman world.",
+      "locator": "Fragment",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Date of the fragment debated (early 2nd vs 1st century BC)."
+      ],
+      "independent_line": "four-empires-motif"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Primary Mesopotamian dream texts (Oppenheim 1956) not read.",
+    "Collins (1993) on the four-kingdom schema not read directly."
+  ]
+}

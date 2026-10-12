@@ -1,0 +1,58 @@
+{
+  "event_id": "evt_01M4RTK7413H4KYZP4XJ33QVHC",
+  "revision": 1,
+  "validated_at": "2026-10-12",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4RTK74S7TWNK6V0BFJSKKZ7",
+    "rev_01M4RTK74VHKZVJPZGG1SEFHTJ",
+    "rev_01M4RTK74W2D29F8R0TC01YR58",
+    "rev_01M4RTK74WP26PHPGKEB1AAJNX",
+    "rev_01M4RTK74WW8VRNCBT12WR9W7D"
+  ],
+  "research_gaps": [
+    "Primary Mesopotamian dream texts (Oppenheim 1956) not read.",
+    "Collins (1993) on the four-kingdom schema not read directly."
+  ],
+  "disputes": [
+    "\"The second year of Nebuchadnezzar\" (Dan 2:1) is chronologically compatible with the three-year training of Daniel 1."
+  ],
+  "export_eligible": true
+}

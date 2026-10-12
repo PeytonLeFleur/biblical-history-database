@@ -1332,5 +1332,222 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4RTK73D2VJASPVYEK3MFDFJ",
+  "title": "Daniel 2 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-2/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the commentary on Daniel 2",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Second-year problem (overlapping regnal years, 602 BC); Aramaic from 2:4 to 7:28; metals = Babylon, Medo-Persia, Greece, Rome; ten toes = future revived Roman confederation; stone = the Messiah's kingdom, decisive future event",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RTK73GNE4PSPJM6Q73JH9M",
+  "title": "Antiquities of the Jews, Book X, chapter 10, §4 (trans. William Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Flavius Josephus",
+   "Whiston, William (translator)"
+  ],
+  "publisher": "Project Gutenberg eBook #2848",
+  "journal": null,
+  "published_date": "c. AD 93–94 (original); Whiston 1737",
+  "url": "https://www.gutenberg.org/cache/epub/2848/pg2848.txt",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 10.10.4 (Whiston)",
+  "license": "Public domain in the USA",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Read Book X ch. 10 §4 in the Gutenberg plain text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Head of gold = Nebuchadnezzar and earlier Babylonian kings; two arms = the government dissolved by two kings; a king from the west armed with brass; an iron government ruling all the earth; Josephus declines to explain the stone because it concerns the future",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full passage read.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+  "title": "Daniel 2 — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_2",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Majority scholarly identification Babylon–Media–Persia–Seleucid/Ptolemaic; iron-and-clay as Seleucid–Ptolemaic marriages (c. 250 or 193 BC); chapter in present form no earlier than early Seleucid period; Aramaic 2:4b–7:28 unexplained; royal dreams as portents; a Nabonidus inscription records a dream of Nebuchadnezzar; giant-figure parallels (Hesiod, Ovid, Bahman Yasht)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RTK73J9V0R4YX9KBZ0SBXZ",
+  "title": "Four kingdoms of Daniel — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Four_kingdoms_of_Daniel",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Roman view: Jerome, Talmud, medieval Jewish commentators (Rashi), Calvin, Reformation writers; Greek view: modern consensus (Collins), and earlier Porphyry, Ephrem, Polychronius, Cosmas; Aemilius Sura sequence Assyria–Media–Persia–Macedonia–Rome (Swain 1940 early 2nd c. BC; Mendels 1981, Oellig 2023 1st c. BC); futurist/dispensational revived Rome; Seventh-day Adventist historicist reading",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RTK73KQ559JXWK7JXGN1GE",
+  "title": "Aemilius Sura — Wikipedia (quoting Velleius Paterculus, trans. F. W. Shipley 1924)",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Aemilius_Sura",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0; Shipley 1924 translation public domain in the USA",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Fragment of De annis populi Romani, a gloss in Velleius Paterculus: Assyrians, Medes, Persians, Macedonians held world power before it passed to the Romans; 1,995 years from Ninus",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Fragment read as quoted; the LacusCurtius edition URL returned 404.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RTK73MY7ZP1T97R06C13XY",
+  "title": "The Interpretation of Dreams in the Ancient Near East, with a Translation of an Assyrian Dream-Book",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Oppenheim, A. Leo"
+  ],
+  "publisher": "American Philosophical Society (Transactions 46.3); reprinted",
+  "journal": null,
+  "published_date": "1956",
+  "url": null,
+  "doi": "10.70249/9798893980981",
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Crossref record 10.70249/9798893980981",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed; standard study of Mesopotamian dream interpretation.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

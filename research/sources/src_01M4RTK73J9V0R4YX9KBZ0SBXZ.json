@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4RTK73J9V0R4YX9KBZ0SBXZ",
+  "title": "Four kingdoms of Daniel — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Four_kingdoms_of_Daniel",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Roman view: Jerome, Talmud, medieval Jewish commentators (Rashi), Calvin, Reformation writers; Greek view: modern consensus (Collins), and earlier Porphyry, Ephrem, Polychronius, Cosmas; Aemilius Sura sequence Assyria–Media–Persia–Macedonia–Rome (Swain 1940 early 2nd c. BC; Mendels 1981, Oellig 2023 1st c. BC); futurist/dispensational revived Rome; Seventh-day Adventist historicist reading",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

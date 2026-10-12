@@ -358,7 +358,10 @@ export const titleCase = (s: string) => s.replaceAll('_', ' ').replace(/^./, (c)
 
 /** Open review items attached to an event or any of its claims. */
 export function openReviewsFor(bundle: EventBundle): ReviewSummary[] {
-  const ids = new Set([bundle.event.id, ...(bundle.evidence?.claims.map((c) => c.id) ?? [])]);
+  const linked = new Set((bundle.crossrefs?.relationships ?? []).flatMap((r) => [r.from, r.to]).filter((x) => x.kind !== 'passage').map((x) => (x as { id: string }).id));
+  const visions = new Set(entitiesOf('vision').filter((v) => v.experience_event_id === bundle.event.id || linked.has(v.id)).map((v) => v.id));
+  const interpretations = entitiesOf('prophecy').filter((p) => linked.has(p.id) || (p.vision_id && visions.has(p.vision_id))).flatMap((p) => p.interpretations.map((i) => i.id));
+  const ids = new Set([bundle.event.id, ...(bundle.evidence?.claims.map((c) => c.id) ?? []), ...(bundle.crossrefs?.relationships.map((r) => r.id) ?? []), ...interpretations]);
   return data().reviews.filter((r) => ids.has(r.record_id) && r.status !== 'decided');
 }
 

@@ -85,6 +85,120 @@ After the fall of Nineveh and Harran, Egypt under Necho II held the upper Euphra
 - **605 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
   - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
 - **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
   - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
@@ -143,6 +257,72 @@ After the fall of Nineveh and Harran, Egypt under Necho II held the upper Euphra
   - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
   - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
 - **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+  - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
+- **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
   - Latest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor)
 - **605 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month

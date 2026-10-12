@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4RTK73GNE4PSPJM6Q73JH9M",
+  "title": "Antiquities of the Jews, Book X, chapter 10, §4 (trans. William Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Flavius Josephus",
+    "Whiston, William (translator)"
+  ],
+  "publisher": "Project Gutenberg eBook #2848",
+  "journal": null,
+  "published_date": "c. AD 93–94 (original); Whiston 1737",
+  "url": "https://www.gutenberg.org/cache/epub/2848/pg2848.txt",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 10.10.4 (Whiston)",
+  "license": "Public domain in the USA",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Read Book X ch. 10 §4 in the Gutenberg plain text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Head of gold = Nebuchadnezzar and earlier Babylonian kings; two arms = the government dissolved by two kings; a king from the west armed with brass; an iron government ruling all the earth; Josephus declines to explain the stone because it concerns the future",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full passage read.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

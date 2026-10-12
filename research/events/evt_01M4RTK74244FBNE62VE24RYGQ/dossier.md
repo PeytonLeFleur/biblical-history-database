@@ -1,0 +1,428 @@
+# Daniel appointed over the province of Babylon (Dan 2:46–49)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Daniel 2:46–49 (narration)
+
+## Biblical account
+
+The king bowed before Daniel, confessed his God as God of gods, gave him gifts, made him ruler over the province of Babylon and chief over its wise men, and appointed his three companions over the province's affairs while Daniel remained at the king's gate.
+
+## Historical setting
+
+**Period:** Early reign of Nebuchadnezzar II
+
+The province (medînâ) of Babylon was the core administrative region of the empire. No Babylonian administrative record consulted names Daniel or his companions as officials.
+
+### Rulers
+
+- Nebuchadnezzar II: Appointing king
+
+## Date and chronology
+
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **603 BC – 602 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+- **604 BC – 603 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Then King Nebuchadnezzar fell on his face … Then the king made Daniel great” (Daniel 2:46) → `immediately_follows` Nebuchadnezzar's dream and Daniel's interpretation (Dan 2:1–45)
+
+## Geography
+
+- Babylon (Province of the appointment; confidence: certain)
+  - Babylon (Pleiades 893951): certain [1]
+
+## Competing reconstructions
+
+- **Historical appointment** (Traditional reading; D. Guzik): Daniel held high office in Babylon and his companions administered the province. [2]
+- **Court-tale motif of the wise exile's rise** (Scholarship summarised in Wikipedia "Daniel 2"): The promotion follows the pattern of the wise courtier who succeeds where native experts fail (cf. Joseph in Genesis 41). [3]
+
+## Claims and evidence
+
+### Daniel was appointed ruler over the province of Babylon and chief over its wise men, and his companions over its affairs.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: text
+
+No Babylonian administrative or prosopographical record consulted names Daniel or his companions. This is not a disproof.
+
+
+*Limitations:* Neo-Babylonian official lists (e.g. the Hofkalender) were not searched.
+
+## Related passages and events
+
+- this event → **thematic parallel** → Genesis 41:39–45 (medium): Joseph's elevation by Pharaoh after interpreting his dreams. Thematic parallel only.
+- this event → **followed by** → Daniel 3:12 (high): The companions' appointment over the province is presupposed in Daniel 3:12.
+
+## Unanswered questions and research gaps
+
+- Search Neo-Babylonian court lists (e.g. Nebuchadnezzar's "court calendar" prism) for comparable offices.
+
+## Sources
+
+1. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
+2. Guzik, David. Daniel 2 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-2/> — *theological commentary; verification: claim checked*
+3. Wikipedia contributors. Daniel 2 — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Daniel_2> — *popular summary; verification: claim checked*
