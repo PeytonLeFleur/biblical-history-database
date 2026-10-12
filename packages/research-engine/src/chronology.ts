@@ -22,6 +22,12 @@ export function buildSolveInput(store: ResearchStore, modelId: string | null): S
     }
   }
   const pointEvents: string[] = [];
+  // External synchronisms anchor their subject with an independently established date (SPEC 12.1).
+  for (const e of store.entities()) {
+    if (e.kind !== 'synchronism' || !e.anchor_subject) continue;
+    if (e.independent_date.earliest === null && e.independent_date.latest === null) continue;
+    anchors.push({ id: e.id, subject: e.anchor_subject, earliest: e.independent_date.earliest, latest: e.independent_date.latest, precision: e.precision, modelId: null, isEvidence: true, source: e.external_source_id ?? e.citations[0] });
+  }
   for (const id of store.eventIds()) {
     if (!store.event(id).is_period) pointEvents.push(id);
     const ctx = store.context(id);
@@ -43,6 +49,7 @@ export function buildSolveInput(store: ResearchStore, modelId: string | null): S
         modelId: c.model_id,
         textualAssertion: c.textual_assertion,
         ...(c.regnal_year !== null ? { regnalYear: c.regnal_year } : {}),
+        ...(c.regnal_convention ? { convention: { reckoning: c.regnal_convention.reckoning, newYear: c.regnal_convention.new_year } } : {}),
         ...(c.alternative_group ? { alternativeGroup: c.alternative_group } : {}),
         isEvidence: c.verification === 'source_checked',
       });
@@ -63,7 +70,7 @@ export function solveAllModels(store: ResearchStore): Map<string | null, SolveRe
 
 export interface DerivationStep {
   id: string;
-  kind: 'constraint' | 'reign_anchor' | 'date_hypothesis' | 'derived' | 'other';
+  kind: 'constraint' | 'reign_anchor' | 'synchronism' | 'date_hypothesis' | 'derived' | 'other';
   label: string;
   passage: string | null;
   model_id: string | null;
@@ -91,7 +98,11 @@ export function derivationResolver(store: ResearchStore): (id: string) => Deriva
       }
     }
     if (e.kind === 'reign') return `reign of ${nameOf(e.person_id)}`;
-    return e.kind === 'person' ? e.canonical_name : e.kind === 'place' ? e.primary_name : 'name' in e ? e.name : id;
+    if (e.kind === 'person') return e.canonical_name;
+    if (e.kind === 'place') return e.primary_name;
+    if ('name' in e) return e.name;
+    if ('title' in e) return e.title;
+    return id;
   };
   return (raw: string) => {
     const [base, conv] = raw.split('|');
@@ -101,7 +112,7 @@ export function derivationResolver(store: ResearchStore): (id: string) => Deriva
       const { c } = hit;
       return {
         id: raw, kind: 'constraint',
-        label: `“${c.textual_assertion}” — ${nameOf(c.subject)} ${c.relation.replaceAll('_', ' ')} ${nameOf(c.object)}${c.regnal_year ? ` (year ${c.regnal_year})` : ''}${conv ? ` [convention ${conv.split('#convention:')[1] ?? conv}]` : ''}`,
+        label: `“${c.textual_assertion}” — ${nameOf(c.subject)} ${c.relation.replaceAll('_', ' ')} ${nameOf(c.object)}${c.regnal_year ? ` (year ${c.regnal_year})` : ''}${c.regnal_convention ? ` [reckoned ${c.regnal_convention.reckoning.replace('_', '-')}, ${c.regnal_convention.new_year} new year]` : conv ? ` [convention ${conv.split('#convention:')[1] ?? conv}]` : ''}`,
         passage: c.passage, model_id: c.model_id, assumptions: c.assumptions, citations: c.citations,
       };
     }
@@ -117,6 +128,16 @@ export function derivationResolver(store: ResearchStore): (id: string) => Deriva
           passage: r.stated_length_passage, model_id: r.model_id, assumptions: r.notes ? [r.notes] : [], citations: r.citations,
         };
       }
+    }
+    const syn = entities.get(id);
+    if (syn?.kind === 'synchronism') {
+      const fmt = (y: number | null) => (y === null ? '?' : y <= 0 ? `${1 - y} BC` : `AD ${y}`);
+      const d = syn.independent_date;
+      return {
+        id: raw, kind: 'synchronism' as const,
+        label: `Synchronism: ${syn.title} — independently dated ${fmt(d.earliest)}${d.latest !== d.earliest ? `–${fmt(d.latest)}` : ''} (${syn.dating_method})`,
+        passage: syn.passage, model_id: null, assumptions: syn.assumptions, citations: syn.citations,
+      };
     }
     const h = hypotheses.get(id);
     if (h) return { id: raw, kind: 'date_hypothesis', label: h.derivation, passage: null, model_id: h.model_id, assumptions: [], citations: h.citations };

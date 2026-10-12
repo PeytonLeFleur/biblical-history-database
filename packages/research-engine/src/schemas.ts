@@ -42,6 +42,7 @@ export const RecordType = z.enum([
 ]);
 export const NarrativeMode = z.enum([
   'narrated_occurrence', 'reference_to_other_event', 'vision_content', 'prediction', 'hypothetical', 'poetic',
+  'literary_history', // questions about the text itself (authorship, composition, date) — not an event narrated in it
 ]);
 export const Precision = z.enum(['day', 'month', 'year', 'regnal_year', 'decade', 'reign', 'generation', 'century', 'period', 'undated']);
 export const Confidence = z.enum(['high', 'medium', 'low', 'speculative']);
@@ -197,6 +198,8 @@ export const ConstraintRecord = z.object({
   offset: z.object({ min: z.number(), max: z.number() }).nullable().default(null),
   unit: z.enum(['days', 'months', 'years']).nullable().default(null),
   regnal_year: z.number().int().nullable().default(null),
+  /** Reckoning used by this text's author, which may differ from other texts about the same reign (SPEC 12.4). */
+  regnal_convention: z.object({ reckoning: z.enum(['accession', 'non_accession']), new_year: z.enum(['nisan', 'tishri', 'january']) }).nullable().default(null),
   precision: Precision,
   model_id: Ids.model.nullable().default(null),
   alternative_group: z.string().nullable().default(null),
@@ -473,5 +476,96 @@ export const SiteEntity = z.object({
   description: z.string().nullable().default(null),
 }).refine((s) => s.lat === null || s.geom_source_id !== null, 'coordinates require a geom_source_id');
 
-export const Entity = z.union([PersonEntity, KingdomEntity, PlaceEntity, ReignEntity, ModelEntity, SiteEntity]);
+const yearRange = z.object({ earliest: astroYear, latest: astroYear });
+const Approach = z.enum(['preterist', 'futurist', 'historicist', 'idealist', 'mixed']);
+
+/** An interpretation of a vision or prophecy (SPEC 5.5, 6.3). Proposed fulfillments always require owner review (SPEC 9.3 #5). */
+export const Interpretation = z.object({
+  id: Ids.fulfillment,
+  label: z.string().min(1),
+  approach: Approach,
+  framework: z.string().nullable().default(null), // e.g. "historical-critical", "dispensational", "amillennial", "traditional Christian"
+  proponents: z.array(z.string()).min(1),
+  summary: z.string().min(1),
+  referents: z.array(z.object({ symbol: z.string(), referent: z.string() })).default([]),
+  linked_events: z.array(Ids.event).default([]),
+  is_proposed_fulfillment: z.boolean(),
+  citations,
+  reviewer_status: ReviewerStatus.default('machine_proposed'),
+});
+
+export const SynchronismEntity = z.object({
+  kind: z.literal('synchronism'), id: Ids.synchronism, ...entityBase,
+  title: z.string().min(1),
+  type: SynchronismType,
+  passage: osisPassage.nullable().default(null),
+  biblical_subject: z.string().nullable().default(null), // event / person / reign id
+  external_entity: z.string().min(1),
+  external_document_id: Ids.document.nullable().default(null),
+  external_source_id: Ids.source.nullable().default(null),
+  proposed_synchronization: z.string().min(1),
+  independent_date: yearRange,
+  precision: Precision,
+  dating_method: z.string().min(1),
+  direct: z.boolean(),
+  via: z.string().nullable().default(null),
+  assumptions: z.array(z.string()).default([]),
+  evidence_strength: z.enum(['strong', 'moderate', 'weak']),
+  competing_interpretations: z.array(z.object({ label: z.string(), summary: z.string(), citations })).default([]),
+  /** When set, the independent date anchors this subject in the chronology solver as external evidence. */
+  anchor_subject: z.string().nullable().default(null),
+  reviewer_status: ReviewerStatus.default('machine_proposed'),
+});
+
+export const ArtifactEntity = z.object({
+  kind: z.literal('artifact'), id: Ids.artifact, ...entityBase,
+  name: z.string().min(1),
+  artifact_type: z.string(),
+  findspot_site_id: Ids.site.nullable().default(null),
+  findspot_description: z.string().nullable().default(null),
+  current_institution: z.string().nullable().default(null),
+  accession_number: z.string().nullable().default(null),
+  date: yearRange.default({ earliest: null, latest: null }),
+  description: z.string().nullable().default(null),
+  image: z.object({ url: z.url(), license: z.string(), attribution: z.string() }).nullable().default(null),
+  institution_url: z.url().nullable().default(null),
+}).refine((a) => !a.image || /public domain|cc0/i.test(a.image.license), 'locally displayed images must be public domain or CC0 (SPEC 15.5)');
+
+export const DocumentEntity = z.object({
+  kind: z.literal('document'), id: Ids.document, ...entityBase,
+  name: z.string().min(1),
+  document_type: z.string(),
+  language: z.string().nullable().default(null),
+  standard_reference: z.string().nullable().default(null),
+  artifact_id: Ids.artifact.nullable().default(null),
+  date: yearRange.default({ earliest: null, latest: null }),
+  description: z.string().nullable().default(null),
+  editions: z.array(Ids.source).default([]), // translations / editions consulted
+});
+
+export const VisionEntity = z.object({
+  kind: z.literal('vision'), id: Ids.vision, ...entityBase,
+  title: z.string().min(1),
+  passage: osisPassage,
+  recipient_id: Ids.person.nullable().default(null),
+  experience_event_id: Ids.event.nullable().default(null), // the narrated act of seeing the vision
+  symbols: z.array(z.object({ symbol: z.string(), description: z.string(), passage: osisPassage, in_text_interpretation: z.string().nullable().default(null) })).default([]),
+  description: z.string().nullable().default(null),
+});
+
+export const ProphecyEntity = z.object({
+  kind: z.literal('prophecy'), id: Ids.prophecy, ...entityBase,
+  title: z.string().min(1),
+  passage: osisPassage,
+  speaker: z.string().nullable().default(null),
+  vision_id: Ids.vision.nullable().default(null),
+  description: z.string().min(1),
+  in_text_interpretation: z.string().nullable().default(null), // identifications the text itself makes (layer: text)
+  interpretations: z.array(Interpretation).default([]),
+});
+
+export const Entity = z.union([
+  PersonEntity, KingdomEntity, PlaceEntity, ReignEntity, ModelEntity, SiteEntity,
+  SynchronismEntity, ArtifactEntity, DocumentEntity, VisionEntity, ProphecyEntity,
+]);
 export type Entity = z.infer<typeof Entity>;

@@ -12,7 +12,7 @@ import { versesPerChapter } from './inventory.ts';
 import type { ResearchStore } from './store.ts';
 
 function collectIds(v: unknown, out: Set<string>) {
-  if (typeof v === 'string' && /^(src|per|loc|kgd|rgn|chr|sit|art|doc)_[0-9A-Z]{26}$/.test(v)) out.add(v);
+  if (typeof v === 'string' && /^(src|per|loc|kgd|rgn|chr|sit|art|doc|syn|vis|pro)_[0-9A-Z]{26}$/.test(v)) out.add(v);
   else if (Array.isArray(v)) v.forEach((x) => collectIds(x, out));
   else if (v && typeof v === 'object') Object.values(v).forEach((x) => collectIds(x, out));
 }

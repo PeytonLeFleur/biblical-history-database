@@ -52,6 +52,11 @@ function namesOf(e: Entity): string[] {
     case 'kingdom': return [e.name];
     case 'site': return [e.name];
     case 'chronology_model': return [e.name];
+    case 'artifact': return [e.name];
+    case 'document': return [e.name, ...(e.standard_reference ? [e.standard_reference] : [])];
+    case 'synchronism': return [e.title];
+    case 'vision': return [e.title];
+    case 'prophecy': return [e.title];
     case 'reign': return [];
   }
 }

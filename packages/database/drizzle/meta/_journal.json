@@ -8,6 +8,13 @@
       "when": 1791828068951,
       "tag": "0000_loving_morlocks",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791832750037,
+      "tag": "0001_open_jazinda",
+      "breakpoints": true
     }
   ]
 }

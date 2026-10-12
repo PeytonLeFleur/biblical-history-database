@@ -2,11 +2,45 @@
 import Base from '../layouts/Base.astro';
 import PageHeader from '../components/PageHeader.astro';
 import EmptyState from '../components/EmptyState.astro';
+import { entitiesOf, entityById, sourceById, url } from '../lib/data';
+import { formatInterval } from '@atlas/shared';
+const artifacts = entitiesOf('artifact');
+const documents = entitiesOf('document');
+const docsFor = (artId: string) => documents.filter((d) => d.artifact_id === artId);
+const synchronisms = entitiesOf('synchronism');
 ---
 <Base title="Artifact explorer">
-  <PageHeader eyebrow="Evidence" title="Artifact explorer">Inscriptions, seals, tablets and other objects connected to biblical history.</PageHeader>
-  <EmptyState title="No artifact records yet">
-    The database supports artifacts with separate findspots and current holding institutions. No artifact has been researched and
-    verified yet. Images will be shown only when they are public-domain or CC0. Otherwise the record links to the holding institution.
-  </EmptyState>
+  <PageHeader eyebrow="Evidence" title="Artifact explorer">
+    Inscriptions, tablets and other objects cited in published research. The findspot (where an object was excavated or acquired) is kept
+    separate from its current holding institution. Images are not reproduced unless they are public domain or CC0. The links lead to the
+    holding institution.
+  </PageHeader>
+  {artifacts.length === 0 ? (
+    <EmptyState title="No artifact records yet">The database supports artifacts with separate findspots and holding institutions. None has been researched yet.</EmptyState>
+  ) : (
+    <ul class="space-y-8" data-testid="artifact-list">
+      {artifacts.map((a) => {
+        const site = a.findspot_site_id ? entityById(a.findspot_site_id) : undefined;
+        return (
+          <li class="border-t border-stone-light/30 pt-4" id={a.id}>
+            <h2 class="font-serif text-xl">{a.name}</h2>
+            <p class="text-sm text-stone">{a.artifact_type}{(a.date.earliest !== null || a.date.latest !== null) && ` · ${formatInterval(a.date)}`}</p>
+            {a.description && <p class="mt-2">{a.description}</p>}
+            <dl class="mt-3 grid gap-x-6 gap-y-1 text-sm sm:grid-cols-[10rem_1fr]">
+              <dt class="font-semibold">Findspot</dt><dd>{site && 'name' in site ? site.name : a.findspot_description ?? 'Unrecorded'}</dd>
+              <dt class="font-semibold">Holding institution</dt><dd>{a.current_institution ?? 'Unknown'}{a.accession_number && ` · ${a.accession_number}`}{a.institution_url && <> · <a href={a.institution_url}>institution record</a></>}</dd>
+            </dl>
+            {docsFor(a.id).map((d) => (
+              <div class="mt-3 text-sm">
+                <p><span class="font-semibold">Text:</span> {d.name}{d.standard_reference && ` (${d.standard_reference})`}{d.language && ` · ${d.language}`}</p>
+                {d.description && <p class="text-stone">{d.description}</p>}
+                {d.editions.length > 0 && <p class="text-stone">Editions/translations consulted: {d.editions.map((s) => sourceById(s)).filter(Boolean).map((s, i) => <>{i > 0 && '; '}<a href={url(`sources/#${s!.id}`)}>{s!.title}</a></>)}</p>}
+              </div>
+            ))}
+            {synchronisms.filter((s) => docsFor(a.id).some((d) => d.id === s.external_document_id)).map((s) => <p class="mt-2 text-sm">Used for synchronism: <strong>{s.title}</strong> ({formatInterval(s.independent_date)})</p>)}
+          </li>
+        );
+      })}
+    </ul>
+  )}
 </Base>

@@ -1,5 +1,5 @@
 import { newId } from '@atlas/shared';
-import { EvidenceDossier, EventRecord, ReviewItem } from './schemas.ts';
+import { Entity, EvidenceDossier, EventRecord, ReviewItem } from './schemas.ts';
 import { now, today, type ResearchStore } from './store.ts';
 
 export function queueReview(
@@ -69,6 +69,12 @@ export function decide(
         ...ev,
         claims: ev.claims.map((c) => (c.id === item.record_id ? { ...c, reviewer_status: status } : c)),
       });
+    }
+  } else if (item.record_kind === 'fulfillment') {
+    const status = decision === 'approve' ? ('human_approved' as const) : decision === 'reject' ? ('human_rejected' as const) : ('requires_review' as const);
+    for (const e of store.entities()) {
+      if (e.kind !== 'prophecy' || !e.interpretations.some((i) => i.id === item.record_id)) continue;
+      store.write(Entity, store.entityFile(e.id), { ...e, interpretations: e.interpretations.map((i) => (i.id === item.record_id ? { ...i, reviewer_status: status } : i)) });
     }
   } else if (item.record_kind === 'event' && decision === 'approve') {
     const ev = store.event(item.record_id);

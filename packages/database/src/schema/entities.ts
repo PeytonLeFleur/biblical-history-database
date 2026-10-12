@@ -292,7 +292,7 @@ export const proposedFulfillments = pgTable('proposed_fulfillments', {
   interpretiveApproach: interpretiveApproach('interpretive_approach').notNull(),
   theologicalFramework: text('theological_framework'),
   proponents: text('proponents').array().notNull().default(sql`'{}'::text[]`),
-  confidence: confidence('confidence').notNull(),
+  confidence: confidence('confidence'),
   reviewerStatus: reviewerStatus('reviewer_status').notNull().default('machine_proposed'),
   ...recordColumns(),
 });

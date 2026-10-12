@@ -244,3 +244,26 @@ describe('solver consistency (SPEC 12.8)', () => {
     expect(r.intervals.get('Y')!.start.earliest.derivation).toEqual(['a_anchor', 'c_next']);
   });
 });
+
+describe('per-statement regnal conventions (SPEC 12.4)', () => {
+  it('lets two texts about the same reign use different reckonings, solved as alternatives', () => {
+    // SYNTHETIC FIXTURE: an early-summer accession; two statements about the same reign by different authors.
+    const results = solve({
+      modelId: null,
+      anchors: [{ id: 'a_acc', subject: 'reign_k', point: 'start', earliest: -608, latest: -608, precision: 'year', modelId: null }],
+      constraints: [
+        { id: 'c_a_acc', subject: 'evt_a', relation: 'in_regnal_year', object: 'reign_k', regnalYear: 3, convention: { reckoning: 'accession', newYear: 'nisan' }, alternativeGroup: 'author_a', precision: 'regnal_year', modelId: null, textualAssertion: 'third year (author A)' },
+        { id: 'c_a_non', subject: 'evt_a', relation: 'in_regnal_year', object: 'reign_k', regnalYear: 3, convention: { reckoning: 'non_accession', newYear: 'nisan' }, alternativeGroup: 'author_a', precision: 'regnal_year', modelId: null, textualAssertion: 'third year (author A)' },
+        { id: 'c_b_non', subject: 'evt_b', relation: 'in_regnal_year', object: 'reign_k', regnalYear: 4, convention: { reckoning: 'non_accession', newYear: 'nisan' }, precision: 'regnal_year', modelId: null, textualAssertion: 'fourth year (author B)' },
+      ],
+      pointEvents: ['evt_a', 'evt_b'],
+    });
+    expect(results).toHaveLength(2);
+    const window = (r: (typeof results)[number], s: string) => r.intervals.get(s)!.years;
+    const accession = results.find((r) => r.choice.author_a === 'c_a_acc')!;
+    const nonAccession = results.find((r) => r.choice.author_a === 'c_a_non')!;
+    // Mixed reckonings make "year 3" and "year 4" land in the same window; matching reckonings do not.
+    expect(window(accession, 'evt_a')).toEqual(window(accession, 'evt_b'));
+    expect(window(nonAccession, 'evt_a').latest!).toBeLessThan(window(nonAccession, 'evt_b').latest!);
+  });
+});

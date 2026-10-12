@@ -177,7 +177,7 @@ const crossrefs: Handler = ([id, ...extra]) => {
 const refresh: Handler = ([id]) => {
   if (!id) return usage('Usage: pnpm research:refresh <evt_id>');
   const ev = store.event(id);
-  const job = createJob(store, { subject_kind: 'event', subject_id: id, stage: 'external_evidence', priority: ev.priority, note: 'Manual refresh: re-run evidence search for new findings' });
+  const job = createJob(store, { subject_kind: 'event', subject_id: id, stage: 'external_evidence', priority: ev.priority, note: 'Manual refresh: re-run evidence search for new findings' }, { forceNew: true });
   console.log(`Refresh job ${job.id} queued for ${ev.title}. Next: re-run Rule 03 searches, update evidence.json, bump event revision, then pnpm research:audit ${id}.`);
   return 0;
 };

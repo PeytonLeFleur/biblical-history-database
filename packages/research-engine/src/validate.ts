@@ -118,6 +118,52 @@ export function validateRepository(store: ResearchStore, opts: { allowFixtures?:
       if (e.model_id && !entityIds.has(e.model_id)) err(file, `model ${e.model_id} not found`);
     }
     if (e.kind === 'place') for (const h of e.hypotheses) if (h.geom_source_id && !sources.has(h.geom_source_id)) err(file, `geom source ${h.geom_source_id} missing`);
+    const needEntity = (id: string | null, what: string) => id && !entityIds.has(id) && err(file, `${what} ${id} not found`);
+    const needSource = (id: string | null, what: string) => id && !sources.has(id) && err(file, `${what} ${id} is not a registered source`);
+    const needPassage = (ref: string | null, what: string) => ref && !passageResolves(ref) && err(file, `${what} ${ref} does not resolve`);
+    if (e.kind === 'synchronism') {
+      needSource(e.external_source_id, 'external source');
+      needEntity(e.external_document_id, 'document');
+      needPassage(e.passage, 'passage');
+      for (const ci of e.competing_interpretations) for (const c of ci.citations) needSource(c, 'citation');
+      const d = e.independent_date;
+      if (d.earliest !== null && d.latest !== null && d.earliest > d.latest) err(file, 'independent_date earliest > latest');
+    }
+    if (e.kind === 'artifact') needEntity(e.findspot_site_id, 'findspot site');
+    if (e.kind === 'document') {
+      needEntity(e.artifact_id, 'artifact');
+      for (const s of e.editions) needSource(s, 'edition');
+    }
+    if (e.kind === 'vision') {
+      needEntity(e.recipient_id, 'recipient');
+      needPassage(e.passage, 'passage');
+      for (const sy of e.symbols) needPassage(sy.passage, 'symbol passage');
+    }
+    if (e.kind === 'prophecy') {
+      needPassage(e.passage, 'passage');
+      needEntity(e.vision_id, 'vision');
+      for (const i of e.interpretations) for (const c of i.citations) needSource(c, `interpretation ${i.id} citation`);
+    }
+  }
+  // Second pass: references to events (need event ids) and review requirements.
+  const allEventIds = new Set(store.eventIds());
+  const reviewRecords = new Set(store.reviews().map((r) => r.record_id));
+  for (const e of entities) {
+    const file = `research/entities/${e.id}.json`;
+    if (e.kind === 'synchronism') {
+      for (const id of [e.biblical_subject, e.anchor_subject]) if (id && !allEventIds.has(id) && !entityIds.has(id)) err(file, `subject ${id} not found`);
+    }
+    if (e.kind === 'vision' && e.experience_event_id && !allEventIds.has(e.experience_event_id)) err(file, `experience event ${e.experience_event_id} not found`);
+    if (e.kind === 'prophecy') {
+      for (const i of e.interpretations) {
+        for (const ev of i.linked_events) if (!allEventIds.has(ev)) err(file, `interpretation ${i.id} links unknown event ${ev}`);
+        // SPEC 9.3 #5: every proposed fulfillment identification goes to the owner review queue.
+        if (i.is_proposed_fulfillment && !reviewRecords.has(i.id)) err(file, `proposed fulfillment ${i.id} has no review item`);
+        if ((i.reviewer_status === 'human_approved' || i.reviewer_status === 'human_rejected') && !store.reviews().some((r) => r.record_id === i.id && r.decisions.length)) {
+          err(file, `interpretation ${i.id} marked ${i.reviewer_status} without an owner decision`);
+        }
+      }
+    }
   }
 
   for (const s of sources.values()) {

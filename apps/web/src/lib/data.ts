@@ -123,9 +123,22 @@ export function nameOf(id: string): string {
       const m = e.model_id ? entityById(e.model_id) : undefined;
       return `${nameOf(e.person_id)} (reign${m && 'name' in m ? `, ${m.name}` : ''})`;
     }
-    default: return 'name' in e ? e.name : id;
+    default:
+      if ('name' in e) return e.name;
+      if ('title' in e) return e.title;
+      return id;
   }
 }
+
+/** Kingdom/lane labels from SPEC 14.1 that have no researched kingdom record yet. */
+export function unresearchedLabels(labels: string[]): string[] {
+  const names = entitiesOf('kingdom').map((k) => k.name.toLowerCase());
+  return labels.filter((l) => !names.some((n) => n.includes(l.toLowerCase().split(' ')[0]!)));
+}
+
+export const APPROACH_LABEL: Record<string, string> = {
+  preterist: 'Preterist', futurist: 'Futurist', historicist: 'Historicist', idealist: 'Idealist', mixed: 'Mixed',
+};
 
 export function modelName(id: string | null): string {
   if (id === null || id === 'model_independent') return 'No chronology model (model-independent)';

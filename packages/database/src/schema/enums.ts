@@ -33,7 +33,7 @@ export const publicationLevel = pgEnum('publication_level', PUBLICATION_LEVELS);
 export const testament = pgEnum('testament', ['OT', 'NT']);
 export const knowledgeLayer = pgEnum('knowledge_layer', ['text', 'interpretation', 'reconstruction', 'evidence']);
 export const narrativeMode = pgEnum('narrative_mode', [
-  'narrated_occurrence', 'reference_to_other_event', 'vision_content', 'prediction', 'hypothetical', 'poetic',
+  'narrated_occurrence', 'reference_to_other_event', 'vision_content', 'prediction', 'hypothetical', 'poetic', 'literary_history',
 ]);
 export const datePrecision = pgEnum('date_precision', [
   'day', 'month', 'year', 'regnal_year', 'decade', 'reign', 'generation', 'century', 'period', 'undated',

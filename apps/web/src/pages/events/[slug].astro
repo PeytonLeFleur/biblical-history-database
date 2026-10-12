@@ -8,6 +8,9 @@ import ReviewerBadge from '../../components/ReviewerBadge.astro';
 import VerificationBadge from '../../components/VerificationBadge.astro';
 import IntervalBar from '../../components/IntervalBar.astro';
 import {
+  APPROACH_LABEL,
+  REVIEWER_LABEL,
+  entitiesOf,
   LAYER_LABEL,
   PUBLICATION_LABEL,
   SOURCE_GROUPS,
@@ -81,6 +84,13 @@ const endHref = (e: { kind: string; ref?: string; id?: string }) => {
   return null;
 };
 const disputed = (evd?.claims ?? []).filter((c) => c.classification === 'disputed');
+const linkedIds = new Set((xr?.relationships ?? []).flatMap((r) => [r.from, r.to]).filter((x) => x.kind === 'vision' || x.kind === 'prophecy').map((x) => (x as { id: string }).id));
+const visions = entitiesOf('vision').filter((v) => v.experience_event_id === ev.id || linkedIds.has(v.id));
+const prophecies = entitiesOf('prophecy').filter((p) => linkedIds.has(p.id) || (p.vision_id && visions.some((v) => v.id === p.vision_id)));
+const synchronisms = entitiesOf('synchronism').filter((s) => s.biblical_subject === ev.id || s.anchor_subject === ev.id);
+prophecies.forEach((p) => p.interpretations.forEach((i) => add(i.citations)));
+synchronisms.forEach((s) => add([s.external_source_id, ...s.citations]));
+const fulfilmentReviews = new Map(data().reviews.filter((r) => r.record_kind === 'fulfillment').map((r) => [r.record_id, r]));
 const stageNames: Record<string, string> = {
   scripture_extraction: '1. Scripture extraction', historical_reference: '', historical_reconstruction: '2. Historical reconstruction',
   external_evidence: '3. External evidence', cross_referencing: '4. Cross-referencing', publication_validation: '5. Publication & validation',
@@ -346,8 +356,78 @@ const fmtStep = (s: { label: string; passage: string | null }) => s;
           </table>
         )}
         <h3 class="mt-8 font-semibold">Prophetic relationships</h3>
-        {prophetic.length === 0 ? <p class="mt-1 text-sm text-stone">No prophecy or proposed-fulfillment relationships have been recorded for this event.</p> : null}
+        {prophetic.length === 0 ? <p class="mt-1 text-sm text-stone">No prophecy or proposed-fulfillment relationships have been recorded for this event.</p> : (
+          <ul class="mt-2 space-y-2 text-sm">
+            {prophetic.map((r) => (
+              <li>{endHref(r.from) ? <a href={endHref(r.from)!}>{endLabel(r.from)}</a> : endLabel(r.from)} → <strong>{titleCase(r.type)}</strong> → {endHref(r.to) ? <a href={endHref(r.to)!}>{endLabel(r.to)}</a> : endLabel(r.to)}
+                <span class="block text-stone">{r.interpretive_approach && `${APPROACH_LABEL[r.interpretive_approach]} reading`}{r.proposed_by && `, proposed by ${r.proposed_by}`} · {r.confidence} · {LAYER_LABEL[r.layer]}</span>
+                <span class="block">{r.rationale}<Cite ids={r.provenance.citations} order={order} /></span>
+              </li>
+            ))}
+          </ul>
+        )}
       </section>
+
+      {(visions.length > 0 || prophecies.length > 0) && (
+        <section aria-labelledby="vision" class="mt-12">
+          <h2 id="vision" class="font-serif text-2xl">Vision content and interpretations</h2>
+          <p class="mt-2 text-sm text-stone">The symbolic content of a vision is not a historical occurrence. Identifications the text itself makes are marked as such. Every other reading is an interpretation, attributed to its proponents and labelled by approach. Proposed fulfillments await owner review and are never presented as established fact.</p>
+          {visions.map((v) => (
+            <div class="mt-6">
+              <h3 class="font-semibold">{v.title} <span class="font-normal text-stone">(<a href={passageUrl(v.passage)}>{passageLabel(v.passage)}</a>)</span></h3>
+              {v.description && <p class="mt-1 text-sm">{v.description}</p>}
+              {v.symbols.length > 0 && (
+                <table class="data mt-3" data-testid="vision-symbols">
+                  <thead><tr><th scope="col">Symbol</th><th scope="col">Described as</th><th scope="col">Identification in the text itself</th></tr></thead>
+                  <tbody>{v.symbols.map((sy) => <tr><td><a href={passageUrl(sy.passage)}>{sy.symbol}</a></td><td>{sy.description}</td><td>{sy.in_text_interpretation ?? <span class="text-stone">None given in the text</span>}</td></tr>)}</tbody>
+                </table>
+              )}
+            </div>
+          ))}
+          {prophecies.map((p) => (
+            <div class="mt-8" data-testid="prophecy">
+              <h3 class="font-semibold">{p.title} <span class="font-normal text-stone">(<a href={passageUrl(p.passage)}>{passageLabel(p.passage)}</a>)</span></h3>
+              <p class="mt-1 text-sm">{p.description}</p>
+              {p.in_text_interpretation && <p class="mt-1 text-sm"><span class="font-semibold">In the text:</span> {p.in_text_interpretation}</p>}
+              <ul class="mt-3 space-y-4">
+                {p.interpretations.map((i) => {
+                  const rv = fulfilmentReviews.get(i.id);
+                  return (
+                    <li class="border-l-2 border-brass/60 pl-3 text-sm" data-testid="interpretation">
+                      <p class="font-semibold">{i.label}</p>
+                      <p class="flex flex-wrap items-center gap-1.5 text-xs text-stone">
+                        <Badge tone="outline">{APPROACH_LABEL[i.approach]}</Badge>{i.framework && <Badge tone="outline">{i.framework}</Badge>}
+                        {i.is_proposed_fulfillment && <ReviewerBadge status={i.reviewer_status} />}
+                        {rv && rv.status === 'open' && <Badge tone="brass">In owner review queue</Badge>}
+                        <span>Proponents: {i.proponents.join('; ')}</span>
+                      </p>
+                      <p class="mt-1">{i.summary}<Cite ids={i.citations} order={order} /></p>
+                      {i.referents.length > 0 && <p class="mt-1 text-stone">{i.referents.map((r) => `${r.symbol} → ${r.referent}`).join(' · ')}</p>}
+                    </li>
+                  );
+                })}
+              </ul>
+            </div>
+          ))}
+        </section>
+      )}
+
+      {synchronisms.length > 0 && (
+        <section aria-labelledby="sync" class="mt-12">
+          <h2 id="sync" class="font-serif text-2xl">Synchronisms with external chronology</h2>
+          <ul class="mt-3 space-y-4 text-sm">
+            {synchronisms.map((s) => (
+              <li>
+                <p class="font-semibold">{s.title}</p>
+                <p class="text-stone">{titleCase(s.type)} · {s.direct ? 'direct' : `indirect${s.via ? ` (via ${s.via})` : ''}`} · evidence strength: {s.evidence_strength} · independent date: {formatInterval(s.independent_date)} ({s.dating_method})</p>
+                <p class="mt-1">{s.proposed_synchronization}<Cite ids={[s.external_source_id, ...s.citations].filter((x): x is string => !!x)} order={order} /></p>
+                {s.assumptions.length > 0 && <p class="mt-1 text-stone">Assumptions: {s.assumptions.join(' ')}</p>}
+                {s.competing_interpretations.map((c) => <p class="mt-1"><em>{c.label}:</em> {c.summary}<Cite ids={c.citations} order={order} /></p>)}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       {ctx && ctx.commentary.length > 0 && (
         <section aria-labelledby="commentary" class="mt-12">
