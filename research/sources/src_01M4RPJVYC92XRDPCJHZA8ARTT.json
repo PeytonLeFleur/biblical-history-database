@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4RPJVYC92XRDPCJHZA8ARTT",
+  "title": "Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Ambraseys, Nicholas"
+  ],
+  "publisher": "Cambridge University Press",
+  "journal": null,
+  "published_date": "2009-10-22",
+  "url": "https://doi.org/10.1017/CBO9781139195430",
+  "doi": "10.1017/CBO9781139195430",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Crossref API bibliographic match",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed. Its assessment of the Amos earthquake is known here only via Williams (deadseaquake.info).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

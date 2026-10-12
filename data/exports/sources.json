@@ -1,0 +1,627 @@
+[
+ {
+  "id": "src_01M4RPJVY76KGD465BEB4PTZQX",
+  "title": "Amos's Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C.",
+  "source_type": "scientific_paper",
+  "authors": [
+   "Austin, Steven A.",
+   "Franz, Gordon W.",
+   "Frost, Eric G."
+  ],
+  "publisher": "Taylor & Francis",
+  "journal": "International Geology Review 42(7): 657–671",
+  "published_date": "2000-07",
+  "url": "https://doi.org/10.1080/00206810009465104",
+  "doi": "10.1080/00206810009465104",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; abstract only consulted",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Crossref API bibliographic match (DOI, journal, volume, pages, authors)",
+    "notes": null
+   },
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Abstract read via OpenAlex API (api.openalex.org/works/doi:10.1080/00206810009465104)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Abstract states: debris at six sites confined to mid-8th c. BC (±~30 y); single event 750 BC; epicentre probably Lebanon; M ≥7.8, likely 8.2",
+    "notes": null
+   }
+  ],
+  "accessed_at": "2026-10-12",
+  "access_notes": "Abstract only (via OpenAlex). Full text paywalled and NOT read. Authors are affiliated with creationist/advocacy organizations per secondary reports; their framing is noted, their data claims are evaluated on the evidence.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVY9MPZKBX62799D83DX",
+  "title": "Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea",
+  "source_type": "scientific_paper",
+  "authors": [
+   "Kagan, Elisa",
+   "Stein, Mordechai",
+   "Agnon, Amotz",
+   "Neumann, Frank"
+  ],
+  "publisher": "American Geophysical Union / Wiley",
+  "journal": "Journal of Geophysical Research 116(B4): B04311",
+  "published_date": "2011-04-21",
+  "url": "https://doi.org/10.1029/2010JB007452",
+  "doi": "10.1029/2010JB007452",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "source_accessed",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Crossref API bibliographic match",
+    "notes": null
+   },
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Abstract read via OpenAlex API",
+    "notes": null
+   }
+  ],
+  "accessed_at": "2026-10-12",
+  "access_notes": "Abstract only (via OpenAlex). The abstract lists intrabasin seismites back to the mid-2nd century BC and does NOT mention mid-8th-century BC seismites; that claim is known here only from a secondary catalog (Williams). Publisher page returned HTTP 403. A published correction exists (doi:10.1029/2011JB008870), content not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYA8J98NK24W23QRET6",
+  "title": "Amos Quake(s) — Earthquake Catalog of the Dead Sea (entry)",
+  "source_type": "historical_reference",
+  "authors": [
+   "Williams, Jefferson"
+  ],
+  "publisher": "deadseaquake.info (self-published research catalog)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/AmosQuakes.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Unspecified; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the summary and archaeoseismic sections on 2026-10-12",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Located statements on: two mid-8th-c. seismites (Kagan 2011); critiques of Austin 2000 dating; Ambraseys 2009 \"overstated\"; per-site evidence and alternative explanations (Hazor, Gezer, Gath, Deir Alla, Jerusalem, etc.)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read characters 0–200,000 of a ~350,000-character page (summary, archaeoseismic site list, critiques). Remaining portion not read. Secondary compilation: its citations of Kagan et al. 2011, Ambraseys 2009, Ben-Menahem 1991 and site reports were not verified at source unless separately registered.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYANMWHMDNXF67N0R9H",
+  "title": "Antiquities of the Jews, Book IX, chapter 10, §4 (trans. William Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Flavius Josephus",
+   "Whiston, William (translator)"
+  ],
+  "publisher": "Project Gutenberg eBook #2848",
+  "journal": null,
+  "published_date": "c. AD 93–94 (original); Whiston translation 1737",
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 9.10.4 (Whiston numbering)",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Downloaded Gutenberg plain text (pg2848.txt) and read Book IX ch. 10 §4",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Passage states: during Uzziah's incense attempt \"a great earthquake shook the ground and a rent was made in the temple\"; landslide at \"Eroge\" before the city damaged roads and the king's gardens",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full passage read in the Gutenberg plain-text edition.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYAQVZ80CA3EQ802E7B",
+  "title": "Correction to \"Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea\"",
+  "source_type": "scientific_paper",
+  "authors": [
+   "Kagan, Elisa",
+   "Stein, Mordechai",
+   "Agnon, Amotz",
+   "Neumann, Frank"
+  ],
+  "publisher": null,
+  "journal": "Journal of Geophysical Research: Solid Earth 116(B11)",
+  "published_date": "2011-11",
+  "url": null,
+  "doi": "10.1029/2011JB008870",
+  "isbn": null,
+  "standard_reference": null,
+  "license": null,
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Crossref API search returned this correction alongside the original article",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Existence verified via Crossref; content not accessed. Impact on the mid-8th-century seismites is unknown.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYB11ZT0BJ6GCX71HBF",
+  "title": "Evidence of the earthquake from the days of King Uzziah found in the City of David (announcement)",
+  "source_type": "news_report",
+  "authors": [],
+  "publisher": "City of David",
+  "journal": null,
+  "published_date": null,
+  "url": "https://cityofdavid.org.il/en/earthquake-eng/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the announcement page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Page states: 8th-c. BCE destruction layer of smashed vessels from collapsed walls, no signs of fire, attributed by the directors to an earthquake and linked to Amos/Zechariah; cites prior evidence at Hazor, Gezer, Tel Agol, Tell es-Safi/Gath",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Announcement of an Israel Antiquities Authority excavation (directors J. Uziel and O. Chalaf). Page displays date 23 March 2026, while press coverage (e.g. Israel Hayom, 4 Aug 2021) dates the announcement to August 2021 — the page appears re-posted. No peer-reviewed publication is cited; the underlying excavation publication was not identified (reports_on_source_id left empty deliberately).",
+  "reports_on_source_id": null,
+  "outlet": "City of David (cityofdavid.org.il; Elad Foundation)",
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYB4HY9AT4E07EFX9QC",
+  "title": "Judahite Gath in the Eighth Century B.C.E.: Finds in Area F from the Earthquake to the Assyrians",
+  "source_type": "excavation_report",
+  "authors": [
+   "Chadwick, Jeffrey R.",
+   "Maeir, Aren M."
+  ],
+  "publisher": "University of Chicago Press for ASOR",
+  "journal": "Near Eastern Archaeology 81(1): 48–54",
+  "published_date": "2018-03",
+  "url": "https://doi.org/10.5615/neareastarch.81.1.0048",
+  "doi": "10.5615/neareastarch.81.1.0048",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Crossref API bibliographic match",
+    "notes": null
+   },
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Opening paragraph read via OpenAlex API",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Opening paragraph states that a cataclysmic earthquake shook the region around 760 BCE, affecting the long-abandoned site of Gath (citing Chadwick and Maeir forthcoming; Maeir 2012)",
+    "notes": null
+   }
+  ],
+  "accessed_at": "2026-10-12",
+  "access_notes": "Only the opening paragraph (supplied as abstract via OpenAlex) was read; the article body was not accessed.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYC35WDPY03EP439V0R",
+  "title": "Amos 1 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/amos-1/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the Amos 1:1 section",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "Located: Amos as sheep breeder of Tekoa; ministry c. 760–750 B.C.; treats \"two years before the earthquake\" as not useful for dating, quoting Boice that there is no independent record",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Commentary on Amos 1:1 read. Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYC92XRDPCJHZA8ARTT",
+  "title": "Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Ambraseys, Nicholas"
+  ],
+  "publisher": "Cambridge University Press",
+  "journal": null,
+  "published_date": "2009-10-22",
+  "url": "https://doi.org/10.1017/CBO9781139195430",
+  "doi": "10.1017/CBO9781139195430",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Crossref API bibliographic match",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Not accessed. Its assessment of the Amos earthquake is known here only via Williams (deadseaquake.info).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYCVPJATNYT7JYKD0NF",
+  "title": "The Mysterious Numbers of the Hebrew Kings (3rd ed.)",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Thiele, Edwin R."
+  ],
+  "publisher": "Zondervan / Kregel",
+  "journal": null,
+  "published_date": "1983",
+  "url": "https://openlibrary.org/works/OL2720725W",
+  "doi": null,
+  "isbn": "0310360102",
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Open Library record OL2720725W (editions 1951, 1965, 1983; ISBN 0310360102)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Book not accessed. Dates attributed to Thiele are taken from Wikipedia articles citing Thiele 1983 p. 217 (Uzziah) and Thiele (Jeroboam II).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+  "title": "The Chronology of the Divided Monarchy of Israel",
+  "source_type": "scientific_paper",
+  "authors": [
+   "Albright, William F."
+  ],
+  "publisher": null,
+  "journal": "Bulletin of the American Schools of Oriental Research 100: 16–22",
+  "published_date": "1945-12",
+  "url": "https://doi.org/10.2307/1355182",
+  "doi": "10.2307/1355182",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright",
+  "verification_level": "metadata_verified",
+  "verification_log": [
+   {
+    "level": "metadata_verified",
+    "date": "2026-10-12",
+    "method": "Crossref API bibliographic match",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Article not accessed. Albright dates are taken from Wikipedia articles citing this article.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYDW55BD6H47AFG78AA",
+  "title": "Uzziah — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Uzziah",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the article",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "States Thiele: coregency from 792/791, sole reign 768/767, leprosy 751/750, died 740/739 BCE (Thiele 1983 p. 217); Albright 783–742 BC (BASOR 1945); notes Josephus' incense-earthquake link conflicts with Thiele-based dating",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read 2026-10-12. Used only to report chronologists' reign dates with their citations.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYDZB8T1TD4H484X3E7",
+  "title": "Jeroboam II — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Jeroboam_II",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched and read the article",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "States Thiele: coregent 793–782, sole 782–753 BC; Albright: 786–746 BC",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read 2026-10-12. Used only to report chronologists' reign dates.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYE0DPQMCWC3CPK4BHB",
+  "title": "Tel Hazor — Pleiades place 779967430",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/779967430",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched https://pleiades.stoa.org/places/779967430/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "reprPoint lon 35.566769, lat 33.019181",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 35.566769, lat 33.019181.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYEGKYKHP0C2HN0GY9M",
+  "title": "Ierusalem/Hierosolyma — Pleiades place 687928",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/687928",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched https://pleiades.stoa.org/places/687928/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "reprPoint lon 35.234978, lat 31.7771895",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 35.234978, lat 31.7771895.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYFQMR2RX3KCY0ZB20B",
+  "title": "Gimtu (Gath, Tell es-Safi) — Pleiades place 889522884",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/889522884",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched https://pleiades.stoa.org/places/889522884/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "reprPoint lon 34.8474, lat 31.70198",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 34.8474, lat 31.70198.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4RPJVYFQR5C9FRY6HYP9NQP",
+  "title": "Gazara (Gezer) — Pleiades place 687904",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/687904",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-12",
+    "method": "Fetched https://pleiades.stoa.org/places/687904/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-12",
+    "method": "reprPoint lon 34.920993, lat 31.859791",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 34.920993, lat 31.859791.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ }
+]

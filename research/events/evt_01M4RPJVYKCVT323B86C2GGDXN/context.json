@@ -1,0 +1,243 @@
+{
+  "event_id": "evt_01M4RPJVYKCVT323B86C2GGDXN",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Amos 1:1 dates the words Amos \"saw\" concerning Israel to the days of Uzziah king of Judah and Jeroboam son of Joash king of Israel, \"two years before the earthquake.\" Zechariah 14:5 refers back to people fleeing \"from before the earthquake in the days of Uzziah king of Judah\" as a comparison for a future flight. Neither text describes the earthquake itself.",
+    "passage": "Amos.1.1"
+  },
+  "setting": {
+    "period": "Iron Age IIB, first half to middle of the 8th century BC (model-dependent)",
+    "body": "The two texts tie the earthquake to the reign of Uzziah (Azariah) of Judah, and Amos 1:1 also to Jeroboam II of Israel. Major chronological reconstructions place these reigns in overlapping periods of the first half of the 8th century BC: Thiele (1983) dates Uzziah 792/791–740/739 BC including a coregency and Jeroboam II 793–753 BC including a coregency; Albright (1945) dates them 783–742 and 786–746 BC. These dates are reported here from secondary summaries of those works.",
+    "citations": [
+      "src_01M4RPJVYDW55BD6H47AFG78AA",
+      "src_01M4RPJVYDZB8T1TD4H484X3E7"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RPJVYGZDME5BAKA4NAAX2Z",
+      "reign_id": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY",
+      "role": "King of Judah named in Amos 1:1 and Zechariah 14:5",
+      "citations": [
+        "src_01M4RPJVYDW55BD6H47AFG78AA"
+      ]
+    },
+    {
+      "person_id": "per_01M4RPJVYG92VY55FC1BYZ3PE9",
+      "reign_id": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T",
+      "role": "King of Israel named in Amos 1:1",
+      "citations": [
+        "src_01M4RPJVYDZB8T1TD4H484X3E7"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+    "kgd_01M4RPJVYGDD239HH2H3ZH04MY"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4RPJVYN2QACZX36D94T58VW",
+      "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+      "object": "rgn_01M4RPJVYJNTVBJN13NMY9HQBY",
+      "relation": "during",
+      "textual_assertion": "in the days of Uzziah king of Judah",
+      "passage": "Amos.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "precision": "reign",
+      "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+      "alternative_group": null,
+      "assumptions": [
+        "Uzziah's/Jeroboam II's 'days' are taken to include the coregency years of this model's reconstruction."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RPJVYNZ3VEZT8XX12XS3TA",
+      "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+      "object": "rgn_01M4RPJVYJ5E220Q4ETPWFS87T",
+      "relation": "during",
+      "textual_assertion": "in the days of Jeroboam the son of Joash, king of Israel",
+      "passage": "Amos.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "precision": "reign",
+      "model_id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
+      "alternative_group": null,
+      "assumptions": [
+        "Uzziah's/Jeroboam II's 'days' are taken to include the coregency years of this model's reconstruction."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RPJVYNZ7MTC77ST6QEJDCH",
+      "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+      "object": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
+      "relation": "during",
+      "textual_assertion": "in the days of Uzziah king of Judah",
+      "passage": "Amos.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "precision": "reign",
+      "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RPJVYN5QC5DP1F9KPNZ2SH",
+      "subject": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+      "object": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3",
+      "relation": "during",
+      "textual_assertion": "in the days of Jeroboam the son of Joash, king of Israel",
+      "passage": "Amos.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "precision": "reign",
+      "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4RPJVYN3G2RP7P5Q03KHRYD",
+      "subject": "evt_01M4RPJVYKCVT323B86C2GGDXN",
+      "object": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+      "relation": "years_later",
+      "textual_assertion": "two years before the earthquake",
+      "passage": "Amos.1.1",
+      "offset": {
+        "min": 1,
+        "max": 2
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "precision": "year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "\"Two years\" is read as an elapsed interval of 1–2 years to allow for inclusive or exclusive ancient counting; the day and month are unknown.",
+        "The dated \"words\" are treated as the start of the dated activity."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Effects reported: flight (Zech 14:5, by implication from Jerusalem's vicinity); temple damage and landslide in Josephus; 8th-c. destruction layer announced from the City of David",
+      "hypotheses": [],
+      "confidence": "possible"
+    },
+    {
+      "location_id": "loc_01M4RPJVYKT60A9TENWNDHZTNN",
+      "role": "Proposed archaeological evidence of mid-8th-c. earthquake damage (Stratum VI)",
+      "hypotheses": [],
+      "confidence": "possible"
+    },
+    {
+      "location_id": "loc_01M4RPJVYK5SZH2P34JYA0SJ49",
+      "role": "Proposed archaeological evidence of mid-8th-c. earthquake damage (city wall)",
+      "hypotheses": [],
+      "confidence": "possible"
+    },
+    {
+      "location_id": "loc_01M4RPJVYKEMXR00PV59NPQH1V",
+      "role": "Earthquake destruction c. 760 BCE reported by the excavators (Area F)",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Single great earthquake in 750 BC",
+      "proponents": [
+        "S. A. Austin",
+        "G. W. Franz",
+        "E. G. Frost (2000)"
+      ],
+      "summary": "Debris at six sites (Hazor, Deir Alla, Gezer, Lachish, Tell Judeideh, En Haseva) is confined to the mid-8th century with ~30-year errors; a single regional event in 750 BC with an epicentre probably in Lebanon and magnitude ≥7.8, likely 8.2. Williams reports that the 750 BC date relies on Thiele's chronology and Josephus's synchronisms.",
+      "citations": [
+        "src_01M4RPJVY76KGD465BEB4PTZQX",
+        "src_01M4RPJVYA8J98NK24W23QRET6"
+      ]
+    },
+    {
+      "label": "Two earthquakes a few decades apart in the mid-8th century",
+      "proponents": [
+        "E. Kagan et al. (2011), as reported by J. Williams"
+      ],
+      "summary": "Williams reports that Kagan et al. found two mid-8th-century BC seismites at three Dead Sea sites, separated by up to several decades, and that Deir Alla shows two earthquake phases. The Kagan abstract itself does not state this, so this reconstruction is unconfirmed at source here.",
+      "citations": [
+        "src_01M4RPJVYA8J98NK24W23QRET6",
+        "src_01M4RPJVY9MPZKBX62799D83DX"
+      ]
+    },
+    {
+      "label": "Earthquake c. 760 BCE",
+      "proponents": [
+        "J. R. Chadwick and A. M. Maeir (2018)",
+        "A. Ben-Menahem (1991, via Williams)"
+      ],
+      "summary": "The Gath excavators place a regional earthquake around 760 BCE. Williams reports that Ben-Menahem proposed 759 BCE, assuming the incense incident fell on the eve of Sukkot.",
+      "citations": [
+        "src_01M4RPJVYB4HY9AT4E07EFX9QC",
+        "src_01M4RPJVYA8J98NK24W23QRET6"
+      ]
+    },
+    {
+      "label": "Magnitude and extent overstated; some damage has other causes",
+      "proponents": [
+        "N. Ambraseys (2009, via Williams)",
+        "A. Ben-Tor (via Williams, on Hazor)"
+      ],
+      "summary": "Williams reports that Ambraseys judged the textual and archaeological evidence for the magnitude overstated. He also reports that Ben-Tor did not identify Yadin's earthquake indications at Hazor, and that alternatives such as soil creep at Gezer and construction-related site effects have been proposed for several sites.",
+      "citations": [
+        "src_01M4RPJVYA8J98NK24W23QRET6",
+        "src_01M4RPJVYC92XRDPCJHZA8ARTT"
+      ]
+    },
+    {
+      "label": "Josephus: the earthquake struck during Uzziah's incense offence",
+      "proponents": [
+        "Flavius Josephus (c. AD 93–94)"
+      ],
+      "summary": "Josephus ties the earthquake to Uzziah's attempt to burn incense, with a temple fissure and a landslide at \"Eroge\". The biblical account of that incident (2 Chr 26:16–21) does not mention an earthquake. Under Thiele's dates Uzziah's leprosy (751/750) falls near the end of the computed window, while other reconstructions place the earthquake earlier.",
+      "citations": [
+        "src_01M4RPJVYANMWHMDNXF67N0R9H",
+        "src_01M4RPJVYDW55BD6H47AFG78AA"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4RPJVYC35WDPY03EP439V0R",
+      "layer": "interpretation",
+      "paraphrase": "Guzik presents Amos as a working sheep breeder from Tekoa called directly by God and places his ministry roughly 760–750 B.C. under Uzziah and Jeroboam II. He treats \"two years before the earthquake\" as of little help for dating, citing James Boice's remark that no independent record of the earthquake was known.",
+      "url": "https://enduringword.com/bible-commentary/amos-1/",
+      "accessed": "2026-10-12"
+    }
+  ],
+  "open_questions": [
+    "Do the two mid-8th-century Dead Sea seismites reported by Williams appear in Kagan et al. 2011 itself, with what ages, and does the published correction affect them?",
+    "Which peer-reviewed or excavation publication reports the City of David destruction layer (Uziel and Chalaf)?",
+    "Is the Amos 1:1 earthquake the earlier or the later of two events, if there were two?",
+    "No lexical source has yet been recorded for Hebrew raʿash (\"earthquake\")."
+  ],
+  "not_applicable": {}
+}

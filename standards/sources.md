@@ -25,6 +25,11 @@ Each level must be reached in order (`canAdvanceVerification`):
 
 A working URL is not evidence of support, and a DOI match is not evidence of findings. Never mark an inaccessible paper as read.
 
+## Source-type conventions
+- `scientific_paper` covers any peer-reviewed journal article, in any discipline (geology, archaeology, history).
+- `excavation_report` covers preliminary and final reports by excavators, including excavators' journal articles that report finds.
+- `historical_reference` covers specialist compilations and catalogs (e.g. an earthquake catalog). These are secondary, and the original works they cite must be traced.
+
 ## Required metadata
 - **All sources:** `id`, `title`, `source_type` (SPEC 7.5), `verification_level`, `accessed_at` (when accessed), `license` / rights note, `is_fixture`.
 - **Plus, by type:**

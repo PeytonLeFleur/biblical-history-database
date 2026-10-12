@@ -1,0 +1,29 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RPJVYKT60A9TENWNDHZTNN",
+  "slug": "hazor",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Hazor",
+  "place_type": "settlement",
+  "modern_name": "Tel Hazor",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4RPJVYKCENECVRFFNWGA0DX",
+      "label": "Tel Hazor (Pleiades)",
+      "lat": 33.019181,
+      "lon": 35.566769,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4RPJVYE0DPQMCWC3CPK4BHB",
+      "proponents": [],
+      "reasoning": "Identification and representative point from the Pleiades gazetteer."
+    }
+  ],
+  "description": null
+}

@@ -1,0 +1,31 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4RPJVYJVBFWW8AB2WCWCYM3",
+  "slug": "jeroboam-ii-reign-albright",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RPJVYD6X1J7Z7JHSVE4EPQ",
+    "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
+  "notes": "Albright: 786–746 BC. Dates as reported by Wikipedia from the cited chronologist; the primary work was not accessed (see source access_notes).",
+  "person_id": "per_01M4RPJVYG92VY55FC1BYZ3PE9",
+  "kingdom_id": "kgd_01M4RPJVYGDD239HH2H3ZH04MY",
+  "model_id": "chr_01M4RPJVYHQGTVH9D2A09VP6ZW",
+  "title": "King of Israel",
+  "start": {
+    "earliest": -785,
+    "latest": -785
+  },
+  "end": {
+    "earliest": -745,
+    "latest": -745
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 41,
+  "stated_length_passage": "2Kgs.14.23",
+  "regnal_convention": null
+}

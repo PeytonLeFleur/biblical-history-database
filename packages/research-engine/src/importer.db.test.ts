@@ -56,6 +56,12 @@ describe('importer (dry run)', () => {
       evidence: [{ id: evd, claim_ids: [clm], source_id: source.id, stance: 'contextual', strength: 'contextual', finding: 'x', proposed_connection_by: 'author', independent_line: 'fx' }],
     });
 
+    const before = await (async () => {
+      const { sql } = connect();
+      const r = await sql`select status from verse_coverage where ref = 'Amos.1.1'`;
+      await sql.end();
+      return r[0]!.status as string;
+    })();
     const n = await importResearch(store, { dryRun: true });
     expect(n).toMatchObject({ sources: 1, kingdoms: 1, people: 1, places: 1, events: 1, event_mentions: 1, chronological_constraints: 1, claims: 1, evidence_findings: 1, claim_evidence: 1, verse_coverage: 15 });
     expect(n['db_coverage_reviewed_visible']).toBeGreaterThanOrEqual(15);
@@ -66,6 +72,6 @@ describe('importer (dry run)', () => {
     const cov = await sql`select status from verse_coverage where ref = 'Amos.1.1'`;
     await sql.end();
     expect(rows).toHaveLength(0);
-    expect(cov[0]!.status).toBe('not_reviewed');
+    expect(cov[0]!.status).toBe(before);
   });
 });

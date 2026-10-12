@@ -1,6 +1,7 @@
 /** Generate a human-readable dossier strictly from structured research data (rules/05 §5, SPEC 15.2). */
 import { formatInterval } from '@atlas/shared';
 import { displayPassage, parsePassageRef } from '@atlas/scripture';
+import { solveAllModels } from './chronology.ts';
 import type { ResearchStore } from './store.ts';
 
 const CLASS_LABEL: Record<string, string> = {
@@ -37,9 +38,20 @@ export function renderDossier(store: ResearchStore, id: string): string {
     return nums.length ? ` [${[...new Set(nums)].join(', ')}]` : '';
   };
   const passage = (ref: string) => displayPassage(parsePassageRef(ref));
-  const name = (eid: string) => {
+  const name = (eid: string): string => {
+    if (eid.startsWith('evt_')) {
+      try {
+        return eid === id ? 'this event' : store.event(eid).title;
+      } catch {
+        return eid;
+      }
+    }
     const e = entities.get(eid);
     if (!e) return eid;
+    if (e.kind === 'reign') {
+      const model = e.model_id ? entities.get(e.model_id) : undefined;
+      return `reign of ${name(e.person_id)}${model && 'name' in model ? ` (${model.name})` : ''}`;
+    }
     return e.kind === 'person' ? e.canonical_name : e.kind === 'place' ? e.primary_name : 'name' in e ? e.name : eid;
   };
   const L: string[] = [];
@@ -57,7 +69,28 @@ export function renderDossier(store: ResearchStore, id: string): string {
       L.push('');
     }
     L.push('## Date and chronology', '');
-    if (!ctx.date_hypotheses.length) L.push('No date hypothesis recorded.');
+    // Computed by the deterministic solver for every chronology model (SPEC 12.3, 12.9).
+    const describe = (ids: string[]) =>
+      ids.map((d) => {
+        const c = ctx.constraints.find((x) => x.id === d);
+        if (c) return `“${c.textual_assertion}”`;
+        const base = d.split('#')[0]!;
+        return entities.has(base) ? `${name(base)} (${d.includes('#start') ? 'reign start' : d.includes('#end') ? 'reign end' : 'anchor'})` : d;
+      }).join(' → ');
+    let computed = false;
+    for (const [model, results] of solveAllModels(store)) {
+      for (const r of results) {
+        const iv = r.intervals.get(id);
+        if (!iv || iv.years.earliest === null && iv.years.latest === null) continue;
+        computed = true;
+        const label = model ? name(model) : 'model-independent';
+        L.push(`- **${formatInterval(iv.years)}** — computed under *${label}*${r.feasible ? '' : ' (INFEASIBLE)'}; precision: ${iv.precision}`);
+        L.push(`  - Earliest bound from: ${describe(iv.start.earliest.derivation) || '—'}`);
+        L.push(`  - Latest bound from: ${describe(iv.start.latest.derivation) || '—'}`);
+      }
+    }
+    if (computed) L.push('', '*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*', '');
+    if (!ctx.date_hypotheses.length && !computed) L.push('No date hypothesis recorded.');
     for (const h of ctx.date_hypotheses) {
       L.push(`- **${formatInterval(h.interval)}** (${h.precision}; model: ${h.model_id ? name(h.model_id) : 'model-independent'})${cite(h.citations)}`, `  - Derivation: ${h.derivation}`);
     }

@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4RPJVYANMWHMDNXF67N0R9H",
+  "title": "Antiquities of the Jews, Book IX, chapter 10, §4 (trans. William Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Flavius Josephus",
+    "Whiston, William (translator)"
+  ],
+  "publisher": "Project Gutenberg eBook #2848",
+  "journal": null,
+  "published_date": "c. AD 93–94 (original); Whiston translation 1737",
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 9.10.4 (Whiston numbering)",
+  "license": "Public domain in the USA (Project Gutenberg)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Downloaded Gutenberg plain text (pg2848.txt) and read Book IX ch. 10 §4",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Passage states: during Uzziah's incense attempt \"a great earthquake shook the ground and a rent was made in the temple\"; landslide at \"Eroge\" before the city damaged roads and the king's gardens",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Full passage read in the Gutenberg plain-text edition.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

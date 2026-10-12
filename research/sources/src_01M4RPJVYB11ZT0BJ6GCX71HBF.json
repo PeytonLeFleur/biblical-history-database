@@ -1,0 +1,35 @@
+{
+  "id": "src_01M4RPJVYB11ZT0BJ6GCX71HBF",
+  "title": "Evidence of the earthquake from the days of King Uzziah found in the City of David (announcement)",
+  "source_type": "news_report",
+  "authors": [],
+  "publisher": "City of David",
+  "journal": null,
+  "published_date": null,
+  "url": "https://cityofdavid.org.il/en/earthquake-eng/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Fetched and read the announcement page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Page states: 8th-c. BCE destruction layer of smashed vessels from collapsed walls, no signs of fire, attributed by the directors to an earthquake and linked to Amos/Zechariah; cites prior evidence at Hazor, Gezer, Tel Agol, Tell es-Safi/Gath",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Announcement of an Israel Antiquities Authority excavation (directors J. Uziel and O. Chalaf). Page displays date 23 March 2026, while press coverage (e.g. Israel Hayom, 4 Aug 2021) dates the announcement to August 2021 — the page appears re-posted. No peer-reviewed publication is cited; the underlying excavation publication was not identified (reports_on_source_id left empty deliberately).",
+  "reports_on_source_id": null,
+  "outlet": "City of David (cityofdavid.org.il; Elad Foundation)",
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -57,8 +57,7 @@ The repository is the permanent memory. Everything needed to repeat a decision m
 ```
 research/
   books/<book-slug>/
-    book.json                     # book-level stage status + coverage summary
-    extraction/ch-<NN>.json       # Rule 01 output per chapter
+    extraction/ch-<NNN>.json       # Rule 01 output per chapter
   events/<evt_ULID>/
     candidate.json                # promoted candidate (Rule 01)
     context.json                  # Rule 02 dossier

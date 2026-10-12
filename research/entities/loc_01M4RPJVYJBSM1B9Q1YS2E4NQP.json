@@ -1,0 +1,29 @@
+{
+  "kind": "place",
+  "id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+  "slug": "jerusalem",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "primary_name": "Jerusalem",
+  "place_type": "settlement",
+  "modern_name": "Jerusalem (Old City / City of David)",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4RPJVYJCNRQM5E240JTAMDQ",
+      "label": "Pleiades representative point",
+      "lat": 31.7771895,
+      "lon": 35.234978,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4RPJVYEGKYKHP0C2HN0GY9M",
+      "proponents": [],
+      "reasoning": "Identification and representative point from the Pleiades gazetteer."
+    }
+  ],
+  "description": null
+}

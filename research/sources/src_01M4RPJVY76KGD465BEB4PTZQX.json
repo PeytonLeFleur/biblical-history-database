@@ -1,0 +1,45 @@
+{
+  "id": "src_01M4RPJVY76KGD465BEB4PTZQX",
+  "title": "Amos's Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C.",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Austin, Steven A.",
+    "Franz, Gordon W.",
+    "Frost, Eric G."
+  ],
+  "publisher": "Taylor & Francis",
+  "journal": "International Geology Review 42(7): 657–671",
+  "published_date": "2000-07",
+  "url": "https://doi.org/10.1080/00206810009465104",
+  "doi": "10.1080/00206810009465104",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; abstract only consulted",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-12",
+      "method": "Crossref API bibliographic match (DOI, journal, volume, pages, authors)",
+      "notes": null
+    },
+    {
+      "level": "source_accessed",
+      "date": "2026-10-12",
+      "method": "Abstract read via OpenAlex API (api.openalex.org/works/doi:10.1080/00206810009465104)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-12",
+      "method": "Abstract states: debris at six sites confined to mid-8th c. BC (±~30 y); single event 750 BC; epicentre probably Lebanon; M ≥7.8, likely 8.2",
+      "notes": null
+    }
+  ],
+  "accessed_at": "2026-10-12",
+  "access_notes": "Abstract only (via OpenAlex). Full text paywalled and NOT read. Authors are affiliated with creationist/advocacy organizations per secondary reports; their framing is noted, their data claims are evaluated on the evidence.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

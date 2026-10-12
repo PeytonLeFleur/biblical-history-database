@@ -1,0 +1,20 @@
+{
+  "kind": "person",
+  "id": "per_01M4RPJVYG92VY55FC1BYZ3PE9",
+  "slug": "jeroboam-ii",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "canonical_name": "Jeroboam II",
+  "aliases": [
+    {
+      "alias": "Jeroboam the son of Joash",
+      "language": "English (WEB)",
+      "source_id": null,
+      "passage": "Amos.1.1"
+    }
+  ],
+  "description": "King of Israel, son of Joash (Jehoash).",
+  "kingdom_id": "kgd_01M4RPJVYGDD239HH2H3ZH04MY"
+}

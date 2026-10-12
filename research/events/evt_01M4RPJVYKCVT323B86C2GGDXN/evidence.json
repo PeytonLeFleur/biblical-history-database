@@ -1,0 +1,408 @@
+{
+  "event_id": "evt_01M4RPJVYKCVT323B86C2GGDXN",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-12",
+      "query": "Austin Franz Frost 2000 \"Amos's Earthquake\" International Geology Review 750 B.C.",
+      "engine": "web",
+      "useful_results": 3,
+      "notes": "Led to deadseaquake.info and ICR summaries; ICR is an advocacy source and was not used."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Hazor stratum VI earthquake destruction Amos Yadin archaeoseismology",
+      "engine": "web",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "City of David excavation evidence earthquake Amos Uzziah Israel Antiquities Authority 2022",
+      "engine": "web",
+      "useful_results": 2,
+      "notes": "Press coverage dates the announcement to Aug 2021."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Dead Sea sediment seismite 8th century BCE earthquake Amos Ze'elim Agnon",
+      "engine": "web",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Crossref bibliographic: Austin 2000; Kagan et al. 2011; Ken-Tor et al. 2001",
+      "engine": "api.crossref.org",
+      "useful_results": 3,
+      "notes": "Found a published correction to Kagan et al. 2011."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Abstracts: Kagan 2011, its correction, Austin 2000",
+      "engine": "api.semanticscholar.org + api.openalex.org",
+      "useful_results": 1,
+      "notes": "Semantic Scholar abstracts elided; OpenAlex provided the Kagan abstract."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Israel Antiquities Authority press release City of David earthquake 8th century BCE Uziel Chalaf",
+      "engine": "web",
+      "useful_results": 1,
+      "notes": "Found the City of David announcement; no IAA page or peer-reviewed report found."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Josephus Antiquities 9.10.4 Uzziah earthquake temple rent Eroge Whiston translation",
+      "engine": "web + gutenberg.org",
+      "useful_results": 1,
+      "notes": "Primary text read directly from Gutenberg #2848."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Wikipedia: Uzziah; Jeroboam II (reign dates by chronologist)",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Galil dates not present; Albright used as second model."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Open Library: Thiele Mysterious Numbers; Galil Chronology of the Kings",
+      "engine": "openlibrary.org",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Crossref: Ambraseys 2009; Albright 1945; Chadwick & Maeir; Uziel & Chalaf; Dever 1992",
+      "engine": "api.crossref.org",
+      "useful_results": 4,
+      "notes": "Dever 1992 (Eretz-Israel 23) not found in Crossref."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "OpenAlex abstracts: Chadwick & Maeir 2018; HA-ESI City of David reports 2020/2024; Austin 2000; Ambraseys 2009",
+      "engine": "api.openalex.org",
+      "useful_results": 3,
+      "notes": "HA-ESI abstracts do not mention the earthquake layer."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Enduring Word — Amos 1",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-12",
+      "query": "deadseaquake.info Amos Quakes entry (two passes, characters 0–200k)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": "Remaining ~150k characters unread."
+    },
+    {
+      "date": "2026-10-12",
+      "query": "Assyrian eponym chronicle earthquake 8th century BC record",
+      "engine": "web",
+      "useful_results": 0,
+      "notes": "No Assyrian record of an 8th-century earthquake found (only the 763 BC eclipse entry)."
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "No astronomical phenomenon is described in the passages."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": true,
+      "not_applicable_reason": null
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4RPJVYPS5D7Q8NE7NY3G143",
+      "statement": "A strong earthquake (or earthquakes) damaged sites in the southern Levant in the middle of the 8th century BC.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "strongly_supported",
+      "reasoning": "Several independent lines point to seismic damage in this period: the excavators' report at Gath, a multi-site archaeological synthesis, a reported Jerusalem destruction layer, and Dead Sea paleoseismic records as reported by a specialist catalog. Material uncertainty remains about dating precision (~±30 years), the attribution of individual sites, and whether there was one event or two.",
+      "supporting_evidence": [
+        "evd_01M4RPJVYPC9TQZB9Y9HTNJEJ2",
+        "evd_01M4RPJVYP08S86VGSPKN85Q84",
+        "evd_01M4RPJVYPRP5GW9FMD616AA7E",
+        "evd_01M4RPJVYPC8JBK8DKV48NHQEC"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RPJVYPEBA47KDD49TT542R"
+      ],
+      "limitations": [
+        "Several lines are known only from abstracts or a secondary catalog.",
+        "Site attributions to earthquake (vs. soil creep, construction defects, or human agency) are disputed at some sites.",
+        "Archaeological dating windows are decades wide."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RPJVYPQQWFJNVWWREE998E",
+      "statement": "The earthquake referred to in Amos 1:1 and Zechariah 14:5 is a mid-8th-century BC earthquake attested by archaeology and paleoseismology.",
+      "layer": "reconstruction",
+      "passage": "Amos.1.1",
+      "classification": "historically_plausible",
+      "reasoning": "The texts' setting under Uzziah and Jeroboam II computes to roughly the 780s–740s BC under both modelled chronologies, which overlaps the mid-8th-century seismic evidence. No external record names the earthquake or ties a specific destruction layer to the biblical reference. If there were two events, which one the texts mean is unresolved.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RPJVYPG4126DK3DS510VX0",
+        "evd_01M4RPJVYPC9TQZB9Y9HTNJEJ2",
+        "evd_01M4RPJVYP08S86VGSPKN85Q84",
+        "evd_01M4RPJVYPC8JBK8DKV48NHQEC"
+      ],
+      "limitations": [
+        "The identification rests on chronological overlap, not on direct attestation.",
+        "Reign dates were consulted only through secondary summaries."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RPJVYP7H3K7FZ02EJGW3Y5",
+      "statement": "There was a single regional earthquake of magnitude ~8 (≥7.8) with an epicentre in Lebanon in 750 BC.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "disputed",
+      "reasoning": "Proposed by Austin et al. (2000). Williams reports that later paleoseismic work (Kagan et al. 2011) indicates two events decades apart, that the 750 BC date depends on a particular chronology and on Josephus's synchronisms, and that Ambraseys considered the magnitude overstated.",
+      "supporting_evidence": [
+        "evd_01M4RPJVYP08S86VGSPKN85Q84"
+      ],
+      "counterevidence": [
+        "evd_01M4RPJVYPC8JBK8DKV48NHQEC",
+        "evd_01M4RPJVYPEBA47KDD49TT542R"
+      ],
+      "contextual_evidence": [],
+      "limitations": [
+        "Neither Austin et al. nor Kagan et al. was read in full."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RPJVYPMPRG2XS12MAV5BM6",
+      "statement": "The earthquake damaged Jerusalem.",
+      "layer": "reconstruction",
+      "passage": "Zech.14.5",
+      "classification": "historically_plausible",
+      "reasoning": "An IAA excavation announced an 8th-century collapse layer without burning in the City of David and attributed it to an earthquake. No peer-reviewed publication of this attribution was identified. Josephus's account of temple and landslide damage is ~850 years later and not independent of the biblical tradition.",
+      "supporting_evidence": [
+        "evd_01M4RPJVYPRP5GW9FMD616AA7E"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RPJVYP4Q339FH2VFVJ5ZPD"
+      ],
+      "limitations": [
+        "The attribution to an earthquake rests on the absence of fire.",
+        "The dating within the 8th century is not specified."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    },
+    {
+      "id": "clm_01M4RPJVYP3XZ0TWPMQ3WVRMV1",
+      "statement": "The earthquake struck at the moment of Uzziah's unlawful incense offering in the temple (Josephus).",
+      "layer": "reconstruction",
+      "passage": "2Chr.26.16-2Chr.26.21",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "The only source for this link is Josephus (c. AD 93–94). The biblical account of the incense incident does not mention an earthquake, and no independent source linking the two was found. This is not a disproof.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4RPJVYP4Q339FH2VFVJ5ZPD"
+      ],
+      "limitations": [
+        "Rabbinic sources were not searched in this session."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-12"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4RPJVYPC9TQZB9Y9HTNJEJ2",
+      "claim_ids": [
+        "clm_01M4RPJVYPS5D7Q8NE7NY3G143",
+        "clm_01M4RPJVYPQQWFJNVWWREE998E"
+      ],
+      "source_id": "src_01M4RPJVYB4HY9AT4E07EFX9QC",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The Gath excavators state that a cataclysmic earthquake shook the region around 760 BCE, affecting the long-abandoned city atop Tell es-Safi.",
+      "locator": "Opening paragraph, p. 48",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Only the opening paragraph was read; the stratigraphic and dating evidence was not examined."
+      ],
+      "independent_line": "tell-es-safi-gath-area-f"
+    },
+    {
+      "id": "evd_01M4RPJVYP08S86VGSPKN85Q84",
+      "claim_ids": [
+        "clm_01M4RPJVYPS5D7Q8NE7NY3G143",
+        "clm_01M4RPJVYPQQWFJNVWWREE998E",
+        "clm_01M4RPJVYP7H3K7FZ02EJGW3Y5"
+      ],
+      "source_id": "src_01M4RPJVY76KGD465BEB4PTZQX",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Austin et al. report earthquake-damaged masonry at six excavated sites stratigraphically confined to the mid-8th century BC (±~30 years), and infer a single regional event in 750 BC of magnitude ≥7.8, likely 8.2.",
+      "locator": "Abstract",
+      "proposed_connection_by": "author",
+      "competing_explanations": [
+        "Two separate earthquakes (Kagan et al. 2011, via Williams)."
+      ],
+      "criticism": [
+        {
+          "source_id": "src_01M4RPJVYA8J98NK24W23QRET6",
+          "summary": "The date is said not to capture the full uncertainty and to depend on Thiele's chronology and Josephus."
+        }
+      ],
+      "limitations": [
+        "Abstract only.",
+        "Synthesis of others' excavation data."
+      ],
+      "independent_line": "austin-2000-multisite-synthesis"
+    },
+    {
+      "id": "evd_01M4RPJVYPRP5GW9FMD616AA7E",
+      "claim_ids": [
+        "clm_01M4RPJVYPS5D7Q8NE7NY3G143",
+        "clm_01M4RPJVYPMPRG2XS12MAV5BM6"
+      ],
+      "source_id": "src_01M4RPJVYB11ZT0BJ6GCX71HBF",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "An IAA excavation in the City of David reported an 8th-century BCE layer of vessels smashed by collapsing walls, with no signs of fire, and attributed it to an earthquake.",
+      "locator": "Announcement text",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Announcement, not a peer-reviewed report.",
+        "Earthquake attribution inferred from the absence of fire."
+      ],
+      "independent_line": "jerusalem-city-of-david"
+    },
+    {
+      "id": "evd_01M4RPJVYPC8JBK8DKV48NHQEC",
+      "claim_ids": [
+        "clm_01M4RPJVYPS5D7Q8NE7NY3G143",
+        "clm_01M4RPJVYPQQWFJNVWWREE998E",
+        "clm_01M4RPJVYP7H3K7FZ02EJGW3Y5"
+      ],
+      "source_id": "src_01M4RPJVYA8J98NK24W23QRET6",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Williams reports that Kagan et al. (2011) observed two mid-8th-century BC seismites at three Dead Sea sites (Ein Feshkha, Ein Gedi, Ze'elim), separated by up to several decades. This supports seismic activity in the period but challenges the single-event reconstruction.",
+      "locator": "Summary section",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Secondary report: the Kagan abstract does not mention these seismites.",
+        "A correction to Kagan et al. exists and was not read."
+      ],
+      "independent_line": "dead-sea-seismites-kagan-2011"
+    },
+    {
+      "id": "evd_01M4RPJVYPEBA47KDD49TT542R",
+      "claim_ids": [
+        "clm_01M4RPJVYPS5D7Q8NE7NY3G143",
+        "clm_01M4RPJVYP7H3K7FZ02EJGW3Y5"
+      ],
+      "source_id": "src_01M4RPJVYA8J98NK24W23QRET6",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Williams reports critiques: Ambraseys (2009) judged the evidence for the magnitude overstated; Ben-Tor did not identify Yadin's earthquake indications at Hazor; Gezer wall displacement may be soil creep; several sites show possible construction-related site effects.",
+      "locator": "Archaeoseismic site list",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Secondary report; Ambraseys 2009 not accessed."
+      ],
+      "independent_line": "critiques-compiled-williams"
+    },
+    {
+      "id": "evd_01M4RPJVYP4Q339FH2VFVJ5ZPD",
+      "claim_ids": [
+        "clm_01M4RPJVYPMPRG2XS12MAV5BM6",
+        "clm_01M4RPJVYP3XZ0TWPMQ3WVRMV1"
+      ],
+      "source_id": "src_01M4RPJVYANMWHMDNXF67N0R9H",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "Josephus narrates that a great earthquake split the temple during Uzziah's incense attempt, and that a landslide at Eroge before the city blocked the roads and damaged the king's gardens.",
+      "locator": "Ant. 9.10.4 (Whiston)",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Written c. AD 93–94, about eight centuries later; his sources are not stated."
+      ],
+      "independent_line": "josephus-antiquities"
+    },
+    {
+      "id": "evd_01M4RPJVYPG4126DK3DS510VX0",
+      "claim_ids": [
+        "clm_01M4RPJVYPQQWFJNVWWREE998E"
+      ],
+      "source_id": "src_01M4RPJVYDW55BD6H47AFG78AA",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "Thiele and Albright both date Uzziah's reign within the first half to middle of the 8th century BC (Thiele 792/791–740/739 incl. coregency; Albright 783–742).",
+      "locator": "Reign and chronology sections",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [
+        "Secondary summary of the chronologists."
+      ],
+      "independent_line": "regnal-chronology"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Full texts of Austin et al. 2000, Kagan et al. 2011 (and its correction) and Ambraseys 2009 were not accessed.",
+    "Original Hazor (Yadin), Gezer and Lachish excavation reports were not consulted; site details come from Williams' catalog.",
+    "Dever 1992 (Eretz-Israel 23), cited in the literature on the c. 760 BCE earthquake, could not be located in Crossref.",
+    "No peer-reviewed publication of the City of David earthquake layer was identified.",
+    "No Assyrian or Babylonian textual record of the earthquake was found in this session."
+  ]
+}

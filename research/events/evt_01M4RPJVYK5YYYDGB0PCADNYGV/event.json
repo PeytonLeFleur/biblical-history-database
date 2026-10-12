@@ -1,0 +1,58 @@
+{
+  "id": "evt_01M4RPJVYK5YYYDGB0PCADNYGV",
+  "slug": "amos-words-dated-by-superscription",
+  "title": "Amos's prophetic words (dated by Amos 1:1)",
+  "summary": "The book of Amos dates the words Amos \"saw\" concerning Israel to the overlapping reigns of Uzziah of Judah and Jeroboam II of Israel, two years before the earthquake.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4RPJVYKWRG469QMP2597FXB"
+  ],
+  "external_reason": null,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "high",
+  "research_status": "queued",
+  "publication_level": "unpublished",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Amos.1.1",
+      "mention_type": "superscription",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-12",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "not_started",
+      "updated": null,
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "not_started",
+      "updated": null,
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "not_started",
+      "updated": null,
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "not_started",
+      "updated": null,
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "last_reviewed_at": null
+}
