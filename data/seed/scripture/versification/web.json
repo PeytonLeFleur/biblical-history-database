@@ -1,0 +1,49 @@
+{
+ "translation": "WEB",
+ "edition": "engwebp",
+ "mappings": [
+  {
+   "web": "Rom.14.24",
+   "canonical": "Rom.16.25",
+   "note": "Romans doxology: WEB follows Majority Text placement after 14:23."
+  },
+  {
+   "web": "Rom.14.25",
+   "canonical": "Rom.16.26",
+   "note": "Romans doxology."
+  },
+  {
+   "web": "Rom.14.26",
+   "canonical": "Rom.16.27",
+   "note": "Romans doxology."
+  }
+ ],
+ "web_only_positions": [
+  "Rom.14.24",
+  "Rom.14.25",
+  "Rom.14.26"
+ ],
+ "canonical_without_web_position": [],
+ "empty_in_web": [
+  {
+   "web_ref": "Luke.17.36",
+   "note": "WEB omits this verse from the main text (textual variant); canonical position retained."
+  },
+  {
+   "web_ref": "Acts.8.37",
+   "note": "WEB omits this verse from the main text (textual variant); canonical position retained."
+  },
+  {
+   "web_ref": "Acts.15.34",
+   "note": "WEB omits this verse from the main text (textual variant); canonical position retained."
+  },
+  {
+   "web_ref": "Acts.24.7",
+   "note": "WEB omits this verse from the main text (textual variant); canonical position retained."
+  },
+  {
+   "web_ref": "Rom.16.25",
+   "note": "Text relocated; see mappings."
+  }
+ ]
+}
