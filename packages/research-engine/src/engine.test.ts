@@ -272,3 +272,35 @@ describe('copyright guard', () => {
     expect(longQuotes(`“${'word '.repeat(26).trim()}”`)).toHaveLength(1);
   });
 });
+
+describe('global prophecy and synchronism records', () => {
+  it('requires an owner review item for every proposed fulfillment (SPEC 9.3 #5)', () => {
+    const src = fixtureSource('Fixture commentary', 'claim_checked', '10.0/proph');
+    const ful = newId('fulfillment');
+    const pro = newId('prophecy');
+    store.write(Entity, store.entityFile(pro), {
+      kind: 'prophecy', id: pro, slug: 'fixture-prophecy', title: 'Fixture prophecy', passage: 'Dan.7.17-Dan.7.27', description: 'x', is_fixture: true,
+      interpretations: [{ id: ful, label: 'Fixture reading', approach: 'preterist', proponents: ['Fixture'], summary: 'x', is_proposed_fulfillment: true, citations: [src.id] }],
+    } as never);
+    expect(ok(store).errors.some((e) => e.includes('has no review item'))).toBe(true);
+    queueReview(store, { record_kind: 'fulfillment', record_id: ful, record_revision: 1, reason: 'Proposed fulfillment', triggers: ['proposed_fulfillment'] });
+    expect(ok(store).ok).toBe(true);
+    decide(store, store.reviews()[0]!.id, 'reject', 'owner', null);
+    const p = store.entities().find((e) => e.id === pro);
+    expect(p?.kind === 'prophecy' && p.interpretations[0]!.reviewer_status).toBe('human_rejected');
+  });
+
+  it('anchors synchronism subjects as external evidence in the solver', async () => {
+    const { buildSolveInput } = await import('./chronology.ts');
+    const id = fixtureEvent();
+    const src = fixtureSource('Fixture chronicle', 'claim_checked', '10.0/chron');
+    const syn = newId('synchronism');
+    store.write(Entity, store.entityFile(syn), {
+      kind: 'synchronism', id: syn, slug: 'fixture-sync', title: 'Fixture synchronism', type: 'documentary_correlation', external_entity: 'Fixture tablet',
+      external_source_id: src.id, proposed_synchronization: 'x', independent_date: { earliest: -604, latest: -604 }, precision: 'year', dating_method: 'fixture',
+      direct: true, evidence_strength: 'strong', anchor_subject: id, is_fixture: true,
+    } as never);
+    const input = buildSolveInput(store, null);
+    expect(input.anchors.find((a) => a.id === syn)).toMatchObject({ subject: id, earliest: -604, isEvidence: true });
+  });
+});

@@ -16,9 +16,11 @@ const STAGE_STATUS: Record<Stage, ResearchJob['status']> = {
 export function createJob(
   store: ResearchStore,
   init: { subject_kind: ResearchJob['subject_kind']; subject_id: string; book?: string | null; chapter?: number | null; stage: Stage; priority: ResearchPriority; note?: string },
+  opts: { forceNew?: boolean } = {},
 ): ResearchJob {
-  const existing = store.jobs().find((j) => j.subject_kind === init.subject_kind && j.subject_id === init.subject_id && j.stage === init.stage && j.status !== 'published');
-  if (existing) return existing;
+  // Reuse any job for the same subject and stage (finished ones included); only explicit refreshes start a new job.
+  const existing = store.jobs().find((j) => j.subject_kind === init.subject_kind && j.subject_id === init.subject_id && j.stage === init.stage);
+  if (existing && !opts.forceNew) return existing;
   const id = newId('researchJob');
   const t = now();
   return store.write(ResearchJob, store.jobFile(id), {

@@ -104,6 +104,21 @@ export async function importResearch(store: ResearchStore, opts: { url?: string;
           on conflict (id) do update set name = excluded.name, geom = excluded.geom, description = excluded.description, updated_at = now()`;
         bump('archaeological_sites');
       }
+      for (const a of ofKind('artifact')) {
+        await t`insert into artifacts (id, slug, name, artifact_type, findspot_site_id, current_institution, accession_number, date_earliest, date_latest,
+            description, image_url, image_license, image_attribution, is_fixture, revision)
+          values (${a.id}, ${a.slug}, ${a.name}, ${a.artifact_type}, ${a.findspot_site_id}, ${a.current_institution}, ${a.accession_number}, ${a.date.earliest},
+            ${a.date.latest}, ${a.description}, ${a.image?.url ?? null}, ${a.image?.license ?? null}, ${a.image?.attribution ?? null}, ${a.is_fixture}, ${a.revision})
+          on conflict (id) do update set name = excluded.name, description = excluded.description, current_institution = excluded.current_institution, updated_at = now()`;
+        bump('artifacts');
+      }
+      for (const d of ofKind('document')) {
+        await t`insert into primary_documents (id, slug, name, document_type, language, standard_reference, artifact_id, date_earliest, date_latest, description, is_fixture, revision)
+          values (${d.id}, ${d.slug}, ${d.name}, ${d.document_type}, ${d.language}, ${d.standard_reference}, ${d.artifact_id}, ${d.date.earliest}, ${d.date.latest},
+            ${d.description}, ${d.is_fixture}, ${d.revision})
+          on conflict (id) do update set name = excluded.name, description = excluded.description, updated_at = now()`;
+        bump('primary_documents');
+      }
       for (const m of ofKind('chronology_model')) {
         await t`insert into chronology_models (id, slug, name, scope, textual_tradition, description, is_absolute_axis, is_fixture, revision)
           values (${m.id}, ${m.slug}, ${m.name}, ${m.scope}, ${m.textual_tradition}, ${m.description}, ${m.is_absolute_axis}, ${m.is_fixture}, ${m.revision})
@@ -230,6 +245,39 @@ export async function importResearch(store: ResearchStore, opts: { url?: string;
         }
         await t`insert into publication_status (record_kind, record_id, level, revision) values ('event', ${id}, ${ev.publication_level}, ${ev.revision})
           on conflict (record_kind, record_id) do update set level = excluded.level, revision = excluded.revision`;
+      }
+
+      // Visions, prophecies and interpretations (after events: they reference events and passages).
+      for (const v of ofKind('vision')) {
+        const pid = await passage(v.passage);
+        await t`insert into visions (id, slug, title, passage_id, recipient_id, setting_event_id, description, is_fixture, revision)
+          values (${v.id}, ${v.slug}, ${v.title}, ${pid}, ${v.recipient_id}, ${v.experience_event_id}, ${v.description}, ${v.is_fixture}, ${v.revision})
+          on conflict (id) do update set title = excluded.title, description = excluded.description, updated_at = now()`;
+        bump('visions');
+      }
+      for (const p of ofKind('prophecy')) {
+        const pid = await passage(p.passage);
+        await t`insert into prophecies (id, slug, title, passage_id, vision_id, description, is_fixture, revision)
+          values (${p.id}, ${p.slug}, ${p.title}, ${pid}, ${p.vision_id}, ${p.description}, ${p.is_fixture}, ${p.revision})
+          on conflict (id) do update set title = excluded.title, description = excluded.description, updated_at = now()`;
+        for (const i of p.interpretations) {
+          await t`insert into proposed_fulfillments (id, prophecy_id, fulfilling_event_id, description, interpretive_approach, theological_framework, proponents, reviewer_status, is_fixture)
+            values (${i.id}, ${p.id}, ${i.linked_events[0] ?? null}, ${`${i.label}: ${i.summary}`}, ${i.approach}, ${i.framework}, ${i.proponents}, ${i.reviewer_status}, ${p.is_fixture})
+            on conflict (id) do update set description = excluded.description, reviewer_status = excluded.reviewer_status, updated_at = now()`;
+          bump('proposed_fulfillments');
+        }
+        bump('prophecies');
+      }
+      for (const s of ofKind('synchronism')) {
+        const pid = s.passage ? await passage(s.passage) : null;
+        await t`insert into synchronisms (id, type, passage_id, biblical_record_kind, biblical_record_id, external_entity, external_source_id, proposed_synchronization,
+            independent_earliest, independent_latest, precision, dating_method, is_direct, via, assumptions, evidence_strength, competing_interpretations, reviewer_status, is_fixture, revision)
+          values (${s.id}, ${s.type}, ${pid}, ${s.biblical_subject ? s.biblical_subject.split('_')[0]! : null}, ${s.biblical_subject}, ${s.external_entity}, ${s.external_source_id},
+            ${s.proposed_synchronization}, ${s.independent_date.earliest}, ${s.independent_date.latest}, ${s.precision}, ${s.dating_method}, ${s.direct}, ${s.via},
+            ${s.assumptions}, ${s.evidence_strength}, ${JSON.stringify(s.competing_interpretations)}::jsonb, ${s.reviewer_status}, ${s.is_fixture}, ${s.revision})
+          on conflict (id) do update set proposed_synchronization = excluded.proposed_synchronization, independent_earliest = excluded.independent_earliest,
+            independent_latest = excluded.independent_latest, assumptions = excluded.assumptions, reviewer_status = excluded.reviewer_status, updated_at = now()`;
+        bump('synchronisms');
       }
 
       // Coverage from extraction files

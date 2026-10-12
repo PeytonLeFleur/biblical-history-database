@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import PageHeader from '../components/PageHeader.astro';
 import Timeline, { type Lane, type TimelineItem, type TimelineModel, type Step } from '../islands/Timeline';
-import { data, entitiesOf, entityById, eventById, isDated, modelName, passageLabel, passageUrl, url } from '../lib/data';
+import { data, entitiesOf, entityById, unresearchedLabels, eventById, isDated, modelName, passageLabel, passageUrl, url } from '../lib/data';
 import type { DerivationStep } from '@atlas/research-engine';
 
 const toStep = (s: DerivationStep): Step => ({
@@ -15,7 +15,7 @@ const toStep = (s: DerivationStep): Step => ({
 
 const kingdoms = entitiesOf('kingdom');
 // Lanes named in SPEC 14.1 that have no researched data yet are shown, labelled as such.
-const pending = ['Egypt', 'Assyria', 'Babylon', 'Persia', 'Greece', 'Rome'];
+const pending = unresearchedLabels(['Egypt', 'Assyria', 'Babylon', 'Persia', 'Greece', 'Rome']);
 const lanes: Lane[] = [
   ...kingdoms.map((k) => ({ id: k.id, label: k.name.replace('Kingdom of ', '').replace(' (Northern Kingdom)', ''), researched: true })),
   ...pending.map((p) => ({ id: `pending-${p}`, label: p, researched: false })),
@@ -63,7 +63,7 @@ const initialModel = models.find((m) => m.items.length > 0)?.id ?? models[0]?.id
   <section class="mt-12 text-sm text-stone" aria-labelledby="notes">
     <h2 id="notes" class="font-semibold text-ink">Not yet available</h2>
     <ul class="mt-2 list-disc space-y-1 pl-5">
-      <li>Lanes for Egypt, Assyria, Babylon, Persia, Greece and Rome are placeholders until their ruler chronologies are researched from verified sources.</li>
+      {pending.length > 0 && <li>Lanes for {pending.join(', ')} are placeholders until their ruler chronologies are researched from verified sources.</li>}
       <li>The biblical-internal chronology band for Genesis 1–11 and the patriarchs (Masoretic, Septuagint and Samaritan models) has no research records yet.</li>
       <li>External synchronism anchors, such as the 763 BC eclipse or Qarqar, are not yet researched. Current dates depend on reign reconstructions only.</li>
       <li>Prophetic ministry bars will appear once the dated ministry records (e.g. “Amos's prophetic words”) pass publication validation.</li>

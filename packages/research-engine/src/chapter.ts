@@ -1,6 +1,6 @@
 import { existsSync } from 'node:fs';
 import { chapterVerseRefs, requireBook } from './inventory.ts';
-import { createJob } from './jobs.ts';
+import { checkpointJob, createJob } from './jobs.ts';
 import { ChapterExtraction } from './schemas.ts';
 import type { ResearchStore } from './store.ts';
 
@@ -47,6 +47,10 @@ export function prepareChapter(store: ResearchStore, bookInput: string, chapter:
     priority: 'medium',
     note: 'Rule 01 extraction',
   });
+  // A completed extraction closes its job so it is no longer offered for resumption.
+  if (data.status === 'complete' && job.status !== 'published') {
+    checkpointJob(store, job.id, { outcome: 'completed', status: 'published', note: 'Rule 01 extraction complete' });
+  }
   const reviewed = data.verse_coverage.filter((v) => v.status !== 'not_reviewed').length;
   const nextOperation =
     data.status === 'complete'

@@ -52,6 +52,8 @@ export interface Constraint {
   modelId: string | null;
   textualAssertion: string;
   regnalYear?: number; // for in_regnal_year
+  /** The reckoning used by this statement's author; overrides the reign's convention (SPEC 12.4). */
+  convention?: RegnalConvention;
   /** Members of the same alternativeGroup are mutually exclusive alternatives (one is chosen per solve). */
   alternativeGroup?: string;
   isEvidence?: boolean;
@@ -280,7 +282,7 @@ function solveOnce(
     if (bwd.negativeCycle) break;
     const next: Edge[] = [];
     for (const c of regnal) {
-      const conv = conventionOf.get(c.object);
+      const conv = c.convention ? { id: `${c.id}#own-convention`, convention: c.convention } : conventionOf.get(c.object);
       if (!conv || c.regnalYear === undefined) continue;
       const lo = -(bwd.dist.get(S(c.object)) ?? INF);
       const hi = fwd.dist.get(S(c.object)) ?? INF;
