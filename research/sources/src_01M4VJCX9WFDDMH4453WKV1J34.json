@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4VJCX9WFDDMH4453WKV1J34",
+  "title": "Biblical Commentary on the Twelve Minor Prophets, vol. 2 (Clark's Foreign Theological Library)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Keil, C. F.",
+    "Martin, James (trans.)"
+  ],
+  "publisher": "T. & T. Clark, Edinburgh, 1868 (1878 printing)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/thetwelveminorpr02keiluoft",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 193–195 on 2:7: the Vulgate desideratus and the Messianic reading of chemdath discussed; a coming of the nations to the Messiah \"would be a thought completely foreign to the context\"; pp. 213–215 on 2:23: as a signet ring Zerubbabel would be inseparable from Jehovah (after Koehler, Calvin, Osiander); the promise applies not to his own person but to his position as representative of David's line",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

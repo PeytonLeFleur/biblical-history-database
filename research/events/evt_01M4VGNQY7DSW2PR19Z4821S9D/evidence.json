@@ -23,6 +23,13 @@
       "engine": "web fetch",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Haggai unit: Mitchell ICC p. 20; Enduring Word Haggai 1",
+      "engine": "local text",
+      "useful_results": 2,
+      "notes": null
     }
   ],
   "domains": {
@@ -58,11 +65,14 @@
       "layer": "reconstruction",
       "passage": "Hag.1.1",
       "classification": "historically_plausible",
-      "reasoning": "Parker and Dubberstein's table gives 1 Nisan of Darius year 2 as 3 April 520 and the sixth month beginning 29 August 520; adding 23 days gives 21 September. The conversion assumes that Haggai counts Darius's years and months by the Babylonian (Nisan) calendar, as is assumed for Ezra 6:15.",
+      "reasoning": "Parker and Dubberstein's table gives 1 Nisan of Darius year 2 as 3 April 520 and the sixth month beginning 29 August 520; adding 23 days gives 21 September. The conversion assumes that Haggai counts Darius's years and months by the Babylonian (Nisan) calendar, as is assumed for Ezra 6:15. Other conversions differ: Mitchell (1912) gives about the middle of August, Guzik September; the Parker and Dubberstein table (1942 edition used here) is later than Mitchell and is preferred, but the claim stays historically plausible.",
       "supporting_evidence": [
         "evd_01M4VGNQZ29VNBHQW89TG0N85E"
       ],
-      "counterevidence": [],
+      "counterevidence": [
+        "evd_01M4VJCXAEGHVS6EGWBTP1BDT5",
+        "evd_01M4VJCXAEW1S8MGQ9T27AEB0Q"
+      ],
       "contextual_evidence": [],
       "limitations": [
         "Later months of year 2 are not legible in the OCR used, so Hag 2:1, 10, 20 and Zech 1:1 are given only by month."
@@ -121,6 +131,38 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VJCXAEGHVS6EGWBTP1BDT5",
+      "claim_ids": [
+        "clm_01M4VGNQZ2VKEWX4ZC8V4G3B6S"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "An older conversion: \"about the middle of August\" 520.",
+      "locator": "p. 20",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "mitchell-1912"
+    },
+    {
+      "id": "evd_01M4VJCXAEW1S8MGQ9T27AEB0Q",
+      "claim_ids": [
+        "clm_01M4VGNQZ2VKEWX4ZC8V4G3B6S"
+      ],
+      "source_id": "src_01M4VJCX9DSSWJCKXDYRP90W1E",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "\"September, 520 B.C.\"",
+      "locator": "on 1:1",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
     }
   ],
   "artifacts": [],

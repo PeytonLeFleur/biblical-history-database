@@ -1,0 +1,87 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VJCX9W9FT17GGSJGNTK0P8",
+  "slug": "latter-glory-of-this-house-hag-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9K2B3VTA22A3SNCE3J",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "The latter glory of this house; the nations' treasures (Hag 2:6–9)",
+  "passage": "Hag.2.6-Hag.2.9",
+  "speaker": "The LORD through Haggai",
+  "vision_id": null,
+  "description": "In a little while the LORD will shake heaven, earth, sea, dry land and all nations; \"the precious things of all nations will come\", he will fill the house with glory; silver and gold are his; the latter glory of the house will be greater than the former, and in this place he will give peace.",
+  "in_text_interpretation": "Haggai does not explain the shaking further; 2:21–22 repeats it as the overthrow of kingdoms. Hebrews 12:26–27 applies \"once more I will shake\" to the removal of created things.",
+  "interpretations": [
+    {
+      "id": "ful_01M4VJCX9W1T759XM13CMKPVT5",
+      "label": "The Messiah, \"the Desire of all nations\", would come to the Second Temple (fulfilled in Jesus)",
+      "approach": "preterist",
+      "framework": "Traditional Christian (after the Vulgate)",
+      "proponents": [
+        "The Vulgate (et veniet desideratus cunctis gentibus) and older commentators citing Luke 2 (as reported by Mitchell)",
+        "D. Guzik (with Trapp): the latter glory greater because the Lord of glory visited it"
+      ],
+      "summary": "Textual reasoning: chemdath read as a person (\"the desired one\"); the glory of the house is the presence of the Messiah. Historical evidence: the Second Temple, enlarged by Herod, stood in Jesus' lifetime. Objection: Mitchell and Keil argue that the parallel \"silver … gold\" (2:8) shows the word means precious things, not a person.",
+      "referents": [
+        {
+          "symbol": "The Desire of all nations",
+          "referent": "Jesus the Messiah"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9K2B3VTA22A3SNCE3J",
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VJCX9WTECRPTVBN19WZ340",
+      "label": "The nations' precious things will adorn the rebuilt Temple",
+      "approach": "preterist",
+      "framework": "Historical-critical and philological",
+      "proponents": [
+        "H. G. Mitchell (1912)",
+        "C. F. Keil (1868): the nations coming to the Messiah is foreign to the context"
+      ],
+      "summary": "Textual reasoning: chemdath with \"silver … gold\" (2:8) denotes valuables; Haggai expects the nations, after the coming upheaval, to bring their wealth (cf. Isa 60:5–11). Mitchell holds that Haggai expected this imminently, in the convulsions of Darius's early reign.",
+      "referents": [
+        {
+          "symbol": "Precious things of all nations",
+          "referent": "Wealth brought by the nations"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VJCX9W1V2886BK0YZZJ3CB",
+      "label": "An eschatological shaking of heaven and earth",
+      "approach": "futurist",
+      "framework": "New Testament application",
+      "proponents": [
+        "Hebrews 12:26–27 (text)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: Hebrews quotes 2:6 for a final shaking that leaves only what cannot be shaken. This reading concerns the shaking, not the Temple's glory.",
+      "referents": [],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9K2B3VTA22A3SNCE3J"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "book": "Hag",
+  "chapter": 1,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Hag.1.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T7SS02A2D4473M4P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9WQ6PYRN1CE0VEJGB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9WQ6PYRN1CE0VEJGB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9WQ6PYRN1CE0VEJGB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.1.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9WQ6PYRN1CE0VEJGB"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VJCXA9T7SS02A2D4473M4P",
+      "title": "First oracle (1/VI, Darius year 2): \"Is it time for you to dwell in paneled houses?\"",
+      "passage": "Hag.1.1-Hag.1.11",
+      "description": "To Zerubbabel and Joshua: the people say the time has not come to build; they live in paneled houses while the house lies waste; their poor harvests and the drought are the LORD's doing; go up, bring wood and build.",
+      "record_type": "teaching",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Haggai the prophet",
+          "matched_entity_id": "per_01M4VGNQY103MVWCDNW15W9YY4",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Zerubbabel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Joshua",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Darius the king",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Hag.1.1",
+          "phrase": "In the second year of Darius the king, in the sixth month, in the first day of the month",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Ezra.5.1",
+        "Deut.11.16-Deut.11.17"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Julian date: 29 Aug 520 (Parker & Dubberstein) vs \"about the middle of August\" (Mitchell) vs \"September\" (Guzik)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+    },
+    {
+      "id": "cnd_01M4VJCXA9WQ6PYRN1CE0VEJGB",
+      "title": "Zerubbabel, Joshua and the remnant obey; the work begins on 24/VI",
+      "passage": "Hag.1.12-Hag.1.15",
+      "description": "The leaders and people obeyed and feared; the LORD said \"I am with you\" and stirred their spirits; they came and worked on the house on the twenty-fourth day of the sixth month.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zerubbabel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Joshua",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Hag.1.15",
+          "phrase": "in the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Ezra.5.2"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-haggai-1-2.md"
+}

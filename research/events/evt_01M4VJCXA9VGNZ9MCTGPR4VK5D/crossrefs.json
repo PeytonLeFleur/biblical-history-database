@@ -1,0 +1,151 @@
+{
+  "event_id": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Haggai",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.5.1",
+        "Ezra.6.14",
+        "Hag.1.1",
+        "Hag.1.3",
+        "Hag.1.12",
+        "Hag.1.13",
+        "Hag.2.1",
+        "Hag.2.10",
+        "Hag.2.13",
+        "Hag.2.14",
+        "Hag.2.20"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VJCXAHB56R9JD7SYWEM9R8",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Follows the resumption of 24/VI.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VJCXAHNC22BHEEJNCPVX5Q",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The comparison with the former house echoes the old men's weeping at the foundation (Ezra 3:12).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VJCXAH0ZBVTX6VNMEXNG4G",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "\"This house in its former glory\" — Solomon's Temple, burned in 587/586.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VJCXAH8E8EWQPRCM1AF386",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VJCX9W9FT17GGSJGNTK0P8"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The oracle delivered on this occasion.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VJCXAHPDZAPDKQ3J7AMMHB",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Heb.12.26-Heb.12.27"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Hebrews quotes Hag 2:6.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VJCXABJZDQHFCQ1KPEWXTR",
+    "cst_01M4VJCXABP5Q7T2A5BZC53PKV"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "event_id": "evt_01M4VJCXA9D078PEYHHA2MDTMR",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Zerubbabel",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.3.19",
+        "Ezra.2.2",
+        "Ezra.3.2",
+        "Ezra.3.8",
+        "Ezra.4.2",
+        "Ezra.4.3",
+        "Ezra.5.2",
+        "Hag.1.1",
+        "Hag.1.12",
+        "Hag.1.14",
+        "Hag.2.2",
+        "Hag.2.4",
+        "Hag.2.21",
+        "Hag.2.23",
+        "Luke.3.27",
+        "Matt.1.12",
+        "Matt.1.13",
+        "Neh.7.7",
+        "Neh.12.1",
+        "Neh.12.47",
+        "Zech.4.6",
+        "Zech.4.7",
+        "Zech.4.9",
+        "Zech.4.10"
+      ]
+    },
+    {
+      "name": "signet",
+      "books_searched": 66,
+      "hits": [
+        "Dan.6.17",
+        "Exod.28.11",
+        "Exod.28.21",
+        "Exod.28.36",
+        "Exod.35.22",
+        "Exod.39.6",
+        "Exod.39.14",
+        "Exod.39.30",
+        "Gen.38.18",
+        "Gen.38.25",
+        "Gen.41.42",
+        "Hag.2.23",
+        "Isa.3.21",
+        "Jer.22.24",
+        "Num.31.50"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VJCXAQ6CDGKCPQX9NJ76F4",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9D078PEYHHA2MDTMR"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Hag 2:18 speaks of \"the day that the foundation of the LORD's temple was laid\" — central to the dating dispute on the Ezra 3 event.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VJCXAQAS9D38SMNACDWB5G",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9D078PEYHHA2MDTMR"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VJCX9W686JCFMFREKRNS01"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Zerubbabel oracle delivered on this day.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VJCXAQKWMPXVDJPACXWYWF",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9D078PEYHHA2MDTMR"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.22.24"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "Coniah (Jehoiachin), Zerubbabel's grandfather, torn off like a signet — reversed here.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34",
+          "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VJCXAQDG1J37NN87AS5BY4",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9D078PEYHHA2MDTMR"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The house was completed in Darius's sixth year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VJCXAQBQXZAPHRGT13R5V5",
+      "type": "genealogical_connection",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VJCXA9D078PEYHHA2MDTMR"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.1.12-Matt.1.13"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zerubbabel in the genealogy of Jesus (Davidic line).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VJCXABXKPKNC33SJWQCDWT",
+    "cst_01M4VJCXABEA500J63WX7Q72SS"
+  ]
+}

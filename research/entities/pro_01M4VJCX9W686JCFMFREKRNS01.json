@@ -1,0 +1,67 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VJCX9W686JCFMFREKRNS01",
+  "slug": "zerubbabel-the-lords-signet-hag-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9K2B3VTA22A3SNCE3J",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "Zerubbabel the LORD's signet ring (Hag 2:20–23)",
+  "passage": "Hag.2.20-Hag.2.23",
+  "speaker": "The LORD through Haggai",
+  "vision_id": null,
+  "description": "The LORD will shake heaven and earth and overthrow the thrones and armies of the nations; on that day he will take Zerubbabel his servant and make him like a signet ring, for he has chosen him.",
+  "in_text_interpretation": "The text gives no fulfilment. The signet image reverses Jer 22:24, where Coniah (Jehoiachin), Zerubbabel's grandfather, is torn off like a signet.",
+  "interpretations": [
+    {
+      "id": "ful_01M4VJCXA3GS651H4AGEP7Y17K",
+      "label": "Haggai expected Zerubbabel himself to become the Davidic king; the hope was not realised",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Textual reasoning: Zerubbabel is addressed by name, as \"my servant\" and \"chosen\", in a context of overthrown thrones; Haggai \"identified Zerubbabel with the long-expected son of David\". Historical evidence: Zerubbabel disappears from the record; no Davidic kingdom was restored under Persia.",
+      "referents": [
+        {
+          "symbol": "Signet ring",
+          "referent": "Zerubbabel as chosen ruler"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VJCXA3NF8GXG72S5CBACRM",
+      "label": "A promise to David's line through Zerubbabel, fulfilled in the Messiah",
+      "approach": "preterist",
+      "framework": "Traditional Christian",
+      "proponents": [
+        "C. F. Keil (1868), after Koehler, Calvin and Osiander",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the signet reverses the rejection of Jehoiachin (Jer 22:24) and restores the Davidic line's standing; Keil applies it to Zerubbabel's position as representative of David's house rather than to his person. The New Testament genealogies include Zerubbabel (Matt 1:12–13; Luke 3:27). Objection: Mitchell reads the oracle as a concrete hope for Zerubbabel himself.",
+      "referents": [
+        {
+          "symbol": "Signet ring",
+          "referent": "The Davidic line represented by Zerubbabel"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VJCX9K2B3VTA22A3SNCE3J"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

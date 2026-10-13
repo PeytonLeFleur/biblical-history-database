@@ -1,0 +1,320 @@
+{
+  "book": "Hag",
+  "chapter": 2,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Hag.2.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA9T6TKBK49FDVVTQCH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA92JQ9ER999FEHN18V"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA93HJZT708FNN10VQZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA93HJZT708FNN10VQZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA93HJZT708FNN10VQZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Hag.2.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VJCXA93HJZT708FNN10VQZ"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VJCXA9T6TKBK49FDVVTQCH",
+      "title": "Second oracle (21/VII): be strong and work; the latter glory greater than the former",
+      "passage": "Hag.2.1-Hag.2.9",
+      "description": "Who has seen this house in its former glory? Be strong and work; my Spirit remains; once more I will shake heaven and earth and the nations; their precious things will come; the latter glory will be greater; in this place I will give peace.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Haggai the prophet",
+          "matched_entity_id": "per_01M4VGNQY103MVWCDNW15W9YY4",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Zerubbabel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Joshua",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Hag.2.1",
+          "phrase": "In the seventh month, in the twenty-first day of the month",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Ezra.3.12",
+        "Heb.12.26-Heb.12.27",
+        "Isa.60.5-Isa.60.11"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"The desire (chemdath) of all nations\": a person (the Messiah) or precious things."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D"
+    },
+    {
+      "id": "cnd_01M4VJCXA92JQ9ER999FEHN18V",
+      "title": "Third oracle (24/IX): holiness does not spread, uncleanness does; \"from this day I will bless you\"",
+      "passage": "Hag.2.10-Hag.2.19",
+      "description": "The priests rule that holy meat does not sanctify what it touches but a corpse-defiled person defiles; so this people and its offerings are unclean; consider from this day, the day the foundation of the LORD's temple was laid: from this day I will bless you.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Haggai the prophet",
+          "matched_entity_id": "per_01M4VGNQY103MVWCDNW15W9YY4",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Hag.2.10",
+          "phrase": "In the twenty-fourth day of the ninth month, in the second year of Darius",
+          "kind": "regnal"
+        },
+        {
+          "ref": "Hag.2.18",
+          "phrase": "from the twenty-fourth day of the ninth month, since the day that the foundation of the LORD's temple was laid",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Lev.6.27",
+        "Num.19.11-Num.19.13",
+        "Ezra.3.10"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Whether 2:18 dates the laying of the foundation to this day (Batten) or refers back to it (Ryle)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VJCXA9D078PEYHHA2MDTMR"
+    },
+    {
+      "id": "cnd_01M4VJCXA93HJZT708FNN10VQZ",
+      "title": "Fourth oracle (24/IX): Zerubbabel made the LORD's signet",
+      "passage": "Hag.2.20-Hag.2.23",
+      "description": "I will shake heaven and earth, overthrow the throne of kingdoms and their chariots; on that day I will take Zerubbabel my servant and make him like a signet, for I have chosen you.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zerubbabel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Hag.2.20",
+          "phrase": "the twenty-fourth day of the month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Jer.22.24",
+        "Matt.1.12-Matt.1.13",
+        "Zech.4.6-Zech.4.10"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VJCXA9D078PEYHHA2MDTMR"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-haggai-1-2.md"
+}
