@@ -1,0 +1,61 @@
+{
+  "id": "evt_01M4VGNQY70FPAY89RJB0RX83Z",
+  "slug": "tattenai-inquires-and-writes-to-darius",
+  "title": "Tattenai governor of Beyond the River inquires and writes to Darius (Ezra 5:3–17)",
+  "summary": "Tattenai and Shethar-bozenai asked who had authorised the building; the work continued while they wrote to Darius, reporting the elders' appeal to Cyrus's decree and asking for a search of the royal archives.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VGNQY7HRQ8R54F9JAMT484",
+    "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political",
+    "legal"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Ezra.5.3-Ezra.5.17",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

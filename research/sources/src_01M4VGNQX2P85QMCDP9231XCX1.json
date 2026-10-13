@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VGNQX2P85QMCDP9231XCX1",
+  "title": "Tattenai — Encyclopaedia Judaica (via Encyclopedia.com)",
+  "source_type": "historical_reference",
+  "authors": [
+    "Porten, Bezalel"
+  ],
+  "publisher": "Encyclopaedia Judaica (2nd ed.), hosted by Encyclopedia.com",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/tattenai",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the entry",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Tattenai: \"governor (peḥah) of the territory known as Beyond The River\" (Ezra 5:3 ff.; 6:13 ff.); bibliography: A. T. Olmstead, JNES 3 (1944), 46; A. F. Rainey, Australian Journal of Biblical Archaeology 1 (1969), 53",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Reference entry; it cites Olmstead (JNES 3, 1944, 46) but does not itself describe the cuneiform tablet.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

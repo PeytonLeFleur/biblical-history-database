@@ -1,0 +1,23 @@
+{
+  "kind": "person",
+  "id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+  "slug": "zechariah-son-of-iddo",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VGNQWK72RCVEBMBA86V57E",
+    "src_01M4VGNQWYCN9W791X5FZJ4SJT"
+  ],
+  "notes": null,
+  "canonical_name": "Zechariah son of Iddo, the prophet",
+  "aliases": [
+    {
+      "alias": "Zacharius",
+      "language": "Greek (1 Esdras)",
+      "source_id": "src_01M4VGNQWYCN9W791X5FZJ4SJT",
+      "passage": null
+    }
+  ],
+  "description": "Prophet active with Haggai from Darius I's second year (Ezra 5:1; 6:14; Zech 1:1).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

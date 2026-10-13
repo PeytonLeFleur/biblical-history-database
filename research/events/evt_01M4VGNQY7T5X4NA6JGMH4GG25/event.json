@@ -1,0 +1,61 @@
+{
+  "id": "evt_01M4VGNQY7T5X4NA6JGMH4GG25",
+  "slug": "letters-to-xerxes-and-artaxerxes-against-jerusalem",
+  "title": "Accusations to Ahasuerus and the Rehum–Shimshai letter to Artaxerxes; the city's rebuilding stopped (Ezra 4:6–23)",
+  "summary": "An accusation was written at the start of Ahasuerus's reign; later Rehum and Shimshai wrote to Artaxerxes that the Jews were rebuilding the rebellious city and its walls, and the king ordered the work stopped until further decree.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VGNQY72X3AQSFQB32NF0MG",
+    "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political",
+    "legal"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Ezra.4.6-Ezra.4.23",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

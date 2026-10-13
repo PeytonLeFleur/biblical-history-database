@@ -1,0 +1,31 @@
+{
+  "id": "src_01M4VGNQX67XQDWHWH02N8VHJ7",
+  "title": "Tattenai, Governor of \"Across the River\"",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Olmstead, A. T."
+  ],
+  "publisher": "Journal of Near Eastern Studies 3 (1944), p. 46",
+  "journal": null,
+  "published_date": null,
+  "url": "https://keibi.uni-tuebingen.de/Record/KEI00106887",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright (JSTOR); not read",
+  "verification_level": "metadata_verified",
+  "verification_log": [
+    {
+      "level": "metadata_verified",
+      "date": "2026-10-13",
+      "method": "KEIBI record: A. T. Olmstead, \"Tattenai, Governor of 'Across the River'\", JNES 3 (1944), 46",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Bibliographic record only (KEIBI, Tübingen). The article itself was not accessible in this session.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

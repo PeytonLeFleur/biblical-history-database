@@ -1,0 +1,930 @@
+# Tattenai governor of Beyond the River inquires and writes to Darius (Ezra 5:3–17)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 5:3–17 (narration)
+
+## Biblical account
+
+Tattenai governor Beyond the River, Shethar-bozenai and their companions asked who had decreed the building and the builders' names; the work continued until a report reached Darius. Their letter described the house of great stones and timber, quoted the elders: Nebuchadnezzar had destroyed the house; Cyrus in his first year decreed its rebuilding and gave the vessels to Sheshbazzar, whom he made governor and who laid the foundation; since then it had been building. They asked that the royal archives in Babylon be searched.
+
+## Historical setting
+
+**Period:** Darius I's reign, after the resumption (c. 520–519 BC)
+
+"Beyond the River" (Akkadian Ebir-nāri) was the Persian province west of the Euphrates. A Babylonian document of 502 BC reportedly names a Tattannu governor of Ebir-nāri (Kidner via Guzik; Olmstead 1944, not read). [1, 2]
+
+### Rulers
+
+- Darius I (the Great): Recipient of the letter
+
+## Date and chronology
+
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “At the same time Tattenai … came to them”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → cst_01M4V10B625G08HZKETKM6ZVGT → “Then Darius the king made a decree, and search was made”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “At the same time Tattenai … came to them” (Ezra 5:3) → `after` Haggai and Zechariah stir the people; the Temple work resumes (Darius's second year, 520 BC)
+- “Then Darius the king made a decree, and search was made” (Ezra 6:1) → `before` Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12)
+- “The copy of the letter that Tattenai … sent to Darius the king” (Ezra 5:6) → `within_reign` reign of Darius I (the Great)
+
+## Geography
+
+- Jerusalem (Building inspected; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Competing reconstructions
+
+- **Sheshbazzar and Zerubbabel the same person** (D. Guzik (probably)): Under owner review on the vessels record (not duplicated here). [2]
+- **Sheshbazzar the official governor, Zerubbabel the popular leader** (E. M. Yamauchi (via Guzik)): Explains why the Persian letter names Sheshbazzar. [2]
+
+## Claims and evidence
+
+### A Tattenai (Tattannu) governor of Beyond the River (Ebir-nāri) is attested in a Babylonian document of 502 BC.
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+Kidner (via Guzik) reports a Babylonian record of 502 BC naming "Ta-at[-tan-ni] governor of Ebernari" — the name probably, the office certainly. Porten's Encyclopaedia Judaica entry cites Olmstead's article on him (JNES 3, 1944). The tablet and Olmstead's article were not read in this session, so the attestation is recorded as plausible, not corroborated.
+
+- *Supporting (indirect):* A Babylonian record of 502 B.C. names Ta-at[-tan-ni], governor of Ebernari. (on 5:3 (Kidner)) [2]
+- *Supporting (indirect):* Tattenai, governor of Beyond the River; cites Olmstead, JNES 3 (1944) 46. (bibliography) [1]
+- *Context (indirect):* Article devoted to "Tattenai, Governor of Across the River" (not read). (title) [4]
+
+*Limitations:* Primary tablet publication and Olmstead (1944) not read. Wikipedia (discovery only) gives further details that were not verified.
+
+### Tattenai's letter credits Sheshbazzar, not Zerubbabel, with laying the Temple's foundation (Ezra 5:16).
+
+**Classification:** No independent corroboration found (machine proposed) · layer: text
+
+Ezra 5:16 and 1 Esd 6:20 name Sheshbazzar/Sanabassarus; Ezra 3:8–10 names Zerubbabel and Jeshua. The tension bears on the Sheshbazzar–Zerubbabel identity and the date of the foundation, both already under review; it is recorded here as a textual observation.
+
+- *Context (direct):* Sanabassarus laid the foundations of the Lord's house. (1 Esd 6:20) [5]
+- *Context (indirect):* Same person (Guzik) or official governor vs popular leader (Yamauchi). (on 5:16) [2]
+
+## Related passages and events
+
+- this event → **followed by** → Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12) (high): Darius had the archives searched and confirmed Cyrus's decree (Ezra 6:1–12).
+- this event → **direct reference** → Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (high): The elders appeal to Cyrus's first-year decree (5:13–15).
+- this event → **thematic parallel** → Ezra 3:8–10 (high): Ezra 3 credits Zerubbabel and Jeshua with the foundation that 5:16 credits to Sheshbazzar.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik presents Tattenai as a fair administrator who preserved a copy of his letter, and notes the possible Babylonian attestation of his name and office (Kidner). [2]
+
+## Unanswered questions and research gaps
+
+- Olmstead (1944) and the cuneiform tablet not read.
+- Persian provincial administration of Ebir-nāri not researched.
+
+## Sources
+
+1. Porten, Bezalel. Tattenai — Encyclopaedia Judaica (via Encyclopedia.com). Encyclopaedia Judaica (2nd ed.), hosted by Encyclopedia.com. <https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/tattenai> — *historical reference; verification: claim checked*
+2. Guzik, David. Ezra 5 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-5/> — *theological commentary; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Olmstead, A. T.. Tattenai, Governor of "Across the River". Journal of Near Eastern Studies 3 (1944), p. 46. <https://keibi.uni-tuebingen.de/Record/KEI00106887> — *scientific paper; verification: metadata verified*
+5. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 6). eBible.org. <https://ebible.org/eng-web/1ES06.htm> — *ancient primary text; verification: claim checked*

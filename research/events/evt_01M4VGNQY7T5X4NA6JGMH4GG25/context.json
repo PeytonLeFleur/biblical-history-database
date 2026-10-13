@@ -1,0 +1,134 @@
+{
+  "event_id": "evt_01M4VGNQY7T5X4NA6JGMH4GG25",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "At the beginning of Ahasuerus's reign an accusation was written. In the days of Artaxerxes, Bishlam, Mithredath and Tabeel wrote, and Rehum the commander and Shimshai the scribe sent an Aramaic letter: the Jews were rebuilding the rebellious city and finishing its walls, would pay no tribute, and the king should search the records. Artaxerxes found that Jerusalem had revolted against kings and had had mighty kings ruling Beyond the River, and ordered the work stopped until he should decree; Rehum and Shimshai stopped it by force.",
+    "passage": "Ezra.4.6-Ezra.4.23"
+  },
+  "setting": {
+    "period": "Reigns of Xerxes (486–465) and Artaxerxes I (465–424), on the majority reading",
+    "body": "The letter concerns the city and its walls, not the Temple (Ezra 4:12, 16). On the majority reading the section is a topical insertion recording later opposition; it would precede Nehemiah's commission (Neh 1:3; 2:1–8).",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "src_01M4VGNQWDMQDJXST4D7APW8W0"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": null,
+      "role": "Ahasuerus (identification disputed)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": null,
+      "role": "Artaxerxes (identification disputed)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VGNQY9TSXPFCYN1VRT3P7B",
+      "subject": "evt_01M4VGNQY7T5X4NA6JGMH4GG25",
+      "object": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+      "relation": "after",
+      "textual_assertion": "In the reign of Ahasuerus … In the days of Artaxerxes",
+      "passage": "Ezra.4.6-Ezra.4.7",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Only the order relative to the foundation is used. The identification of the kings (Xerxes and Artaxerxes I, or Cambyses and Pseudo-Smerdis) is disputed and not imposed on the chronology."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "City whose walls were being rebuilt",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Aramaic section (Ezra 4:8–6:18; 7:12–26)",
+      "gloss": "The letters and surrounding narrative are in Aramaic, the chancery language of the Persian empire (Guzik, after Yamauchi).",
+      "citations": [
+        "src_01M4VGNQWDMQDJXST4D7APW8W0"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Xerxes and Artaxerxes I; the section is placed by topic, not in time order",
+      "proponents": [
+        "C. F. Keil (1873), with Kleinert and J. W. Schultz",
+        "H. E. Ryle (1893): the compiler inserted vv. 8–23 believing they concerned the Temple",
+        "D. Guzik and D. Kidner"
+      ],
+      "summary": "The names correspond to Xerxes (Old Persian Khshayarsha) and Artaxerxes; the letter concerns city walls; the passage interrupts the chronology.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VGNQWDMQDJXST4D7APW8W0"
+      ]
+    },
+    {
+      "label": "Cambyses and Pseudo-Smerdis, in time order between Cyrus and Darius",
+      "proponents": [
+        "Older expositors (as reported by Keil and Ryle)",
+        "Josephus (Ant. 11.2.1–2: the letter is addressed to \"Cambyses\")"
+      ],
+      "summary": "Keeps the narrative in sequence (529–521); requires the names to be titles or alternative names, which Keil finds unsupported.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VGNQWQNZN8H6SW1N6G7KTC"
+      ]
+    },
+    {
+      "label": "Artaxerxes, but before Darius and about the Temple",
+      "proponents": [
+        "1 Esdras 2:16–30"
+      ],
+      "summary": "The Greek parallel adds \"laying the foundation of a temple\" and ends with the Temple work ceasing until Darius's second year.",
+      "citations": [
+        "src_01M4VGNQWTQYDX0CRY94K3986D"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VGNQWDMQDJXST4D7APW8W0",
+      "layer": "interpretation",
+      "paraphrase": "Guzik treats 4:4–23 as a broad overview reaching into Nehemiah's time; Kidner notes that by Artaxerxes's reign the Temple had stood for half a century.",
+      "url": "https://enduringword.com/bible-commentary/ezra-4/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

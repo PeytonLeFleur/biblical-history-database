@@ -1,0 +1,24 @@
+{
+  "kind": "person",
+  "id": "per_01M4VGNQXQY77543Q0RBDS1E9M",
+  "slug": "rehum-the-commander",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VGNQWDMQDJXST4D7APW8W0",
+    "src_01M4VGNQWTQYDX0CRY94K3986D",
+    "src_01M4VGNQWQNZN8H6SW1N6G7KTC"
+  ],
+  "notes": null,
+  "canonical_name": "Rehum the commander",
+  "aliases": [
+    {
+      "alias": "Rathumus",
+      "language": "Greek (1 Esdras; Josephus)",
+      "source_id": "src_01M4VGNQWTQYDX0CRY94K3986D",
+      "passage": null
+    }
+  ],
+  "description": "Official who, with Shimshai the scribe, wrote to Artaxerxes against the rebuilding of Jerusalem (Ezra 4:8–23).",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "evt_01M4VGNQY7DSW2PR19Z4821S9D",
+  "slug": "haggai-and-zechariah-and-the-resumption-of-the-temple-work",
+  "title": "Haggai and Zechariah stir the people; the Temple work resumes (Darius's second year, 520 BC)",
+  "summary": "In Darius I's second year the prophets Haggai and Zechariah urged the rebuilding; Zerubbabel and Jeshua resumed the work on the house of God.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VGNQY733BMMK2H8RS3TERF"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious",
+    "construction"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Ezra.5.1-Ezra.5.2",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "Hag.1.1-Hag.1.15",
+      "mention_type": "parallel_account",
+      "notes": "Dated 1/VI and 24/VI of Darius's second year."
+    },
+    {
+      "passage": "Zech.1.1",
+      "mention_type": "reference",
+      "notes": "Eighth month of Darius's second year."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}
