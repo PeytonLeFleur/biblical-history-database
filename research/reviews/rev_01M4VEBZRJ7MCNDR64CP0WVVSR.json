@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VEBZRJ7MCNDR64CP0WVVSR",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VEBZC05EHSP78S48Y2VAHG",
+  "record_revision": 1,
+  "reason": "Same event (medium confidence): Ezra 1:11 ends with Sheshbazzar bringing up the vessels \"when the captives were brought up\"",
+  "triggers": [
+    "same_event"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T20:13:25.138Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,122 @@
+{
+  "event_id": "evt_01M4VEBZB08P6YBRPC8QAYH40G",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In the seventh month the people gathered \"as one man\" in Jerusalem; Jeshua with the priests and Zerubbabel with his kin built the altar on its base, despite fear of the peoples of the lands; they kept the Feast of Booths and from the first day of the seventh month offered burnt offerings, though the Temple foundation was not yet laid; they paid masons and carpenters and gave food, drink and oil to Sidon and Tyre for cedar brought by sea to Joppa under Cyrus's grant.",
+    "passage": "Ezra.3.1-Ezra.3.7"
+  },
+  "setting": {
+    "period": "Autumn after the return (Tishri)",
+    "body": "Batten notes that the passage implies only that the Jerusalem altar had not been restored, not that no sacrifice had been offered anywhere since 586 (against Kosters).",
+    "citations": [
+      "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "Grantor of materials (Ezra 3:7)",
+      "citations": [
+        "src_01M4VEBZ9N8JK70XRCACBYZ6KS"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VEBZB28MV8S0YZFABNM9T1",
+      "subject": "evt_01M4VEBZB08P6YBRPC8QAYH40G",
+      "object": "evt_01M4VEBZB0RB461HH81EAPNJFW",
+      "relation": "after",
+      "textual_assertion": "When the seventh month had come, and the children of Israel were in the cities",
+      "passage": "Ezra.3.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VECVAES5V04VS9A0D622V4",
+      "subject": "evt_01M4VEBZB08P6YBRPC8QAYH40G",
+      "object": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+      "relation": "before",
+      "textual_assertion": "but the foundation of the LORD's temple was not yet laid",
+      "passage": "Ezra.3.6",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Altar on the Temple site",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4VEBZB0W1302DTV34KJDR69",
+      "role": "Port for the cedar",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Altar in the seventh month of the return year under Cyrus",
+      "proponents": [
+        "Ezra 3:1 (text)",
+        "C. F. Keil (1873)"
+      ],
+      "summary": "Follows Ezra's framework.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "label": "Altar restored before the 520 rebuilding, the account placed under Cyrus by the Chronicler",
+      "proponents": [
+        "L. W. Batten (1913)"
+      ],
+      "summary": "Batten keeps the altar restoration early but places the foundation in 520.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VEBZ9N8JK70XRCACBYZ6KS",
+      "layer": "interpretation",
+      "paraphrase": "Guzik stresses that the altar came before the Temple and that the cedar was a royal \"grant\" (Kidner).",
+      "url": "https://enduringword.com/bible-commentary/ezra-3/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

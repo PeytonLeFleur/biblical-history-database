@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VEBZBST1N4S3EABKDN71KN",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VEBZB4E3TW3TAPPF8K4W9X",
+  "record_revision": 1,
+  "reason": "Disputed: why the return list's items (29,818 / 31,089 / 30,143) fall short of the stated 42,360",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T20:13:24.729Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,222 @@
+{
+  "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Zerubbabel/Zorobabel",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.3.19",
+        "Ezra.2.2",
+        "Ezra.3.2",
+        "Ezra.3.8",
+        "Ezra.4.2",
+        "Ezra.4.3",
+        "Ezra.5.2",
+        "Hag.1.1",
+        "Hag.1.12",
+        "Hag.1.14",
+        "Hag.2.2",
+        "Hag.2.4",
+        "Hag.2.21",
+        "Hag.2.23",
+        "Luke.3.27",
+        "Matt.1.12",
+        "Matt.1.13",
+        "Neh.7.7",
+        "Neh.12.1",
+        "Neh.12.47",
+        "Zech.4.6",
+        "Zech.4.7",
+        "Zech.4.9",
+        "Zech.4.10"
+      ]
+    },
+    {
+      "name": "Jeshua son of Jozadak / Joshua son of Jehozadak",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.6.14",
+        "1Chr.6.15",
+        "Ezra.3.2",
+        "Ezra.3.8",
+        "Ezra.5.2",
+        "Ezra.10.18",
+        "Hag.1.1",
+        "Hag.1.12",
+        "Hag.1.14",
+        "Hag.2.2",
+        "Hag.2.4",
+        "Neh.12.26",
+        "Zech.6.11"
+      ]
+    },
+    {
+      "name": "Shealtiel",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.3.17",
+        "Ezra.3.2",
+        "Ezra.3.8",
+        "Ezra.5.2",
+        "Hag.1.1",
+        "Hag.1.12",
+        "Hag.1.14",
+        "Hag.2.2",
+        "Hag.2.23",
+        "Luke.3.27",
+        "Matt.1.12",
+        "Neh.12.1"
+      ]
+    },
+    {
+      "name": "Tirshatha (governor)",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "darics",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.29.7",
+        "Ezra.2.69",
+        "Ezra.8.27",
+        "Neh.7.70",
+        "Neh.7.71",
+        "Neh.7.72"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VEBZC0P7VCTVY2E20AYF1S",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Neh.7.6-Neh.7.73"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Nehemiah reproduces the same list (\"the book of the genealogy of those who came up at the first\", Neh 7:5), with different figures.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZC05EHSP78S48Y2VAHG",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Ezra 1:11 ends with Sheshbazzar bringing up the vessels \"when the captives were brought up\"; Ezra 2 lists those who came up. Whether this is one return (Guzik; Keil) or two (Ryle, tentatively) is open.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N",
+          "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4VEBZC00D2NFYCQBA3NE8HS",
+      "type": "historical_consequence",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The return follows the decree (Ezra 1:1–4; 1:5).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZC00AJ5C9ZB6R85WXXB",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.8.35"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Twelve leaders (Neh 7:7) and twelve bulls for all Israel (Kidner via Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZC1BQKGKXD2EGPDE997",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB08P6YBRPC8QAYH40G"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "In the seventh month the settled people gathered in Jerusalem.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VEBZB27XM6HFJX8SSFAM4C"
+  ]
+}

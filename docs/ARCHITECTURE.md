@@ -37,7 +37,7 @@ OpenFreeMap vector tiles by default, set by `config/map.json` (M4). Later option
 - **Vitest projects:** `unit` (no DB) and `db` (`*.db.test.ts`, which needs Postgres).
 
 ## Website (Milestone 4)
-- `apps/web` is built **only** from `data/exports/*.json`, produced by `pnpm research:export` (which refuses to run if validation fails), plus the public-domain WEB text in `data/seed/scripture/web/`. The root `pnpm build` runs the export first.
+- `apps/web` is built **only** from `data/exports/*.json`, produced by `pnpm research:export` (which refuses to run if validation fails), plus the public-domain WEB text in `data/seed/scripture/web/`. The root `pnpm build` runs the export first. The generated `data/exports/*.json` files are **not committed** (since M7 unit 3): the chronology export passed GitHub's 100 MB file limit. Local builds and both CI workflows regenerate them from `research/`.
 - `src/lib/data.ts` is the build-time data layer. Pages never hold their own research content, and missing data renders labelled empty states.
 - **Timeline** (`src/islands/Timeline.tsx`, React): it plots the chronology engine's exported intervals (reign start/end windows, event windows) and resolved derivation steps for every model. It has no hardcoded dates. It is server-rendered for no-JS readers, and a model switcher re-plots everything.
 - **Map** (`src/islands/AtlasMap.tsx`, MapLibre GL 6 + OpenFreeMap from `config/map.json`):

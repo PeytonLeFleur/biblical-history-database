@@ -1,0 +1,926 @@
+# The altar rebuilt in Jerusalem and the Feast of Booths kept (Ezra 3:1–7)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 3:1–7 (narration)
+
+## Biblical account
+
+In the seventh month the people gathered "as one man" in Jerusalem; Jeshua with the priests and Zerubbabel with his kin built the altar on its base, despite fear of the peoples of the lands; they kept the Feast of Booths and from the first day of the seventh month offered burnt offerings, though the Temple foundation was not yet laid; they paid masons and carpenters and gave food, drink and oil to Sidon and Tyre for cedar brought by sea to Joppa under Cyrus's grant.
+
+## Historical setting
+
+**Period:** Autumn after the return (Tishri)
+
+Batten notes that the passage implies only that the Jerusalem altar had not been restored, not that no sacrifice had been offered anywhere since 586 (against Kosters). [1]
+
+### Rulers
+
+- Cyrus II (the Great): Grantor of materials (Ezra 3:7) [2]
+
+## Date and chronology
+
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “When the seventh month had come, and the children of Israel were in the cities”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → “but the foundation of the LORD's temple was not yet laid”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “When the seventh month had come, and the children of Israel were in the cities” (Ezra 3:1) → `after` The return of the exiles with Zerubbabel and Jeshua; the list of returnees (Ezra 2)
+- “but the foundation of the LORD's temple was not yet laid” (Ezra 3:6) → `before` The foundation of the Second Temple laid (Ezra 3:8–13)
+
+## Geography
+
+- Jerusalem (Altar on the Temple site; confidence: certain)
+  - Pleiades representative point: certain [3]
+- Joppa (Port for the cedar; confidence: certain)
+  - Jaffa (Pleiades 687931): certain [4]
+
+## Competing reconstructions
+
+- **Altar in the seventh month of the return year under Cyrus** (Ezra 3:1 (text), C. F. Keil (1873)): Follows Ezra's framework. [5]
+- **Altar restored before the 520 rebuilding, the account placed under Cyrus by the Chronicler** (L. W. Batten (1913)): Batten keeps the altar restoration early but places the foundation in 520. [1]
+
+## Claims and evidence
+
+### Joppa is Jaffa (Yafo).
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+Pleiades associates Ioppe, Yafo, Jaffa and Yapu with the same site with certainty; the identification is not in dispute.
+
+- *Supporting (direct):* Ioppe, Yafo, Jaffa, Yapu (certain). (names) [4]
+- *Context (direct):* Cedar conveyed on rafts to the harbour of Joppa. (1 Esd 5:55) [6]
+
+### The returned community rebuilt the altar on the Temple site and resumed sacrifices before the Temple was rebuilt.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Ezra 3:1–6 and 1 Esd 5:47–53 (dependent) describe it; Batten accepts the altar restoration as historical against Kosters. No external evidence bears on it.
+
+- *Context (indirect):* The altar was restored first; the passage implies only that this altar had not been rebuilt. (pp. 40–41) [1]
+
+## Related passages and events
+
+- this event → **thematic parallel** → 2 Chronicles 2:16 (medium): Cedar floated to Joppa for Solomon's Temple as for the Second.
+- this event → **followed by** → The foundation of the Second Temple laid (Ezra 3:8–13) (high): The foundation followed in the second year.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik stresses that the altar came before the Temple and that the cedar was a royal "grant" (Kidner). [2]
+
+## Unanswered questions and research gaps
+
+- No archaeological evidence for the restored altar was sought (the Temple Mount is unexcavated).
+
+## Sources
+
+1. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+2. Guzik, David. Ezra 3 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-3/> — *theological commentary; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Pleiades contributors. Ioppe (Joppa) — Pleiades place 687931. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687931> — *institutional database; verification: claim checked*
+5. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+6. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 5). eBible.org. <https://ebible.org/eng-web/1ES05.htm> — *ancient primary text; verification: claim checked*

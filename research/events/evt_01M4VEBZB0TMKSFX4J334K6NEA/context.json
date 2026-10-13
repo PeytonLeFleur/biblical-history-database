@@ -1,0 +1,172 @@
+{
+  "event_id": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In the second month of the second year of their coming, Zerubbabel, Jeshua and the Levites from twenty years old began the work; when the builders laid the foundation, priests with trumpets and Levites with cymbals sang \"For he is good\"; the people shouted, while old priests, Levites and heads of families who had seen the first house wept aloud, so that the sounds could not be told apart.",
+    "passage": "Ezra.3.8-Ezra.3.13"
+  },
+  "setting": {
+    "period": "Spring 536/535 BC (Ezra's framework) or 520 BC (Haggai)",
+    "body": "Ezra 4:24 says the work stopped until Darius's second year (520); Ezra 5:16 says Sheshbazzar laid the foundations; Haggai 2:18 speaks of the day the foundation of the Temple was laid in the ninth month of Darius's second year, and Zech 4:9 of Zerubbabel's hands laying it.",
+    "citations": [
+      "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "King of Persia (Ezra's framework)",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VEBZB2553YTBN5MH9M4K6S",
+      "subject": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+      "object": "evt_01M4VEBZB0RB461HH81EAPNJFW",
+      "relation": "years_later",
+      "textual_assertion": "in the second year of their coming to God's house at Jerusalem, in the second month",
+      "passage": "Ezra.3.8",
+      "offset": {
+        "min": 1,
+        "max": 2
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The \"second year of their coming\" counted from the arrival; 1–2 years later (operator margin)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VEBZB2FBP5VNBTGMA2JVFY",
+      "subject": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+      "object": "evt_01M4V10B5RQN4G6MC31Q1P4HWT",
+      "relation": "before",
+      "textual_assertion": "Then ceased the work … until the second year of the reign of Darius",
+      "passage": "Ezra.4.24",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Ezra's sequence; Batten (1913) instead places the foundation scene itself in 520."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VEBZB2BYPXWGWQ36CZHNZ1",
+      "subject": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+      "object": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "relation": "within_reign",
+      "textual_assertion": "according to the grant that they had from Cyrus King of Persia",
+      "passage": "Ezra.3.7",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Ezra's framework places 3:1–13 in Cyrus's reign (cf. 4:5). This is the text's chronology; the alternative placement under Darius is recorded as disputed."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple site",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Foundation laid c. 536/535 under Cyrus; work then stopped until 520",
+      "proponents": [
+        "C. F. Keil (1873): B.C. 535 or 534",
+        "H. E. Ryle (1893): \"in all probability\" 536",
+        "D. Guzik"
+      ],
+      "summary": "Ezra 5:2 \"began to build\" means resumption; Hag 2:18 dates the prophet's word, not the foundation; Ezra 5:16 credits Sheshbazzar, the leader at the time.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VEBZ9N8JK70XRCACBYZ6KS"
+      ]
+    },
+    {
+      "label": "The foundation scene belongs to 520 under Darius; the Chronicler placed it under Cyrus",
+      "proponents": [
+        "L. W. Batten (1913)"
+      ],
+      "summary": "Haggai and Zechariah know of no earlier foundation; Ezra 3:6b–4:3 parallels the Aramaic account of the 520 rebuilding.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    },
+    {
+      "label": "Under Darius, in the second year after Zorobabel's arrival",
+      "proponents": [
+        "1 Esdras 5:56–57",
+        "Josephus Ant. 11.4.1–2"
+      ],
+      "summary": "Both place Zorobabel's return under Darius, so \"the second year of their coming\" falls in his reign.",
+      "citations": [
+        "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP",
+        "src_01M4VEBZA8ACZ01KS80P9HRAQR"
+      ]
+    },
+    {
+      "label": "Unhistorical",
+      "proponents": [
+        "W. H. Kosters (as reported by Batten and Ryle)"
+      ],
+      "summary": "Rejected the account; Batten answers that the passage is a displaced but genuine parallel.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VEBZ9N8JK70XRCACBYZ6KS",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that the second month was when Solomon began his Temple (Kidner) and links the weeping of the old men with Hag 2:1–9 and Zech 4:8–10.",
+      "url": "https://enduringword.com/bible-commentary/ezra-3/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

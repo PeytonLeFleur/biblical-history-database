@@ -1,0 +1,750 @@
+{
+  "book": "Ezra",
+  "chapter": 2,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.2.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0QMR9A31WGTYSKQ63"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0QMR9A31WGTYSKQ63"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0M38SSE890C188S2N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.37",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.38",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.39",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.40",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.41",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.42",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.43",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.44",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.45",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.46",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.47",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.48",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.49",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.50",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.51",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.52",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.53",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.54",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.55",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.56",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.57",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.58",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB09M049FPWC1M6C34T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.59",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0BZVM9DBG0PNQKWTC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.60",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0BZVM9DBG0PNQKWTC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.61",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0BZVM9DBG0PNQKWTC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.62",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0BZVM9DBG0PNQKWTC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.63",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0BZVM9DBG0PNQKWTC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.64",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0FFVBN48S8THJFK86"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.65",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0FFVBN48S8THJFK86"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.66",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0FFVBN48S8THJFK86"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.67",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0FFVBN48S8THJFK86"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.68",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB07TREEVVW5CRXMKSM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.69",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB07TREEVVW5CRXMKSM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.2.70",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB07TREEVVW5CRXMKSM"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VEBZB0QMR9A31WGTYSKQ63",
+      "title": "The returned exiles and their eleven leaders",
+      "passage": "Ezra.2.1-Ezra.2.2",
+      "description": "The people of the province who returned from the captivity Nebuchadnezzar had carried to Babylon, each to his city, who came with Zerubbabel, Jeshua, Nehemiah, Seraiah and others.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "migration"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zerubbabel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jeshua",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nebuchadnezzar the king of Babylon",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.7.6-Neh.7.7",
+        "Ezra.1.11"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Eleven leaders here, twelve in Neh 7:7.",
+        "Date of the return: under Cyrus (Ezra 1–3) or Darius (1 Esd 5:1–6)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+    },
+    {
+      "id": "cnd_01M4VEBZB0M38SSE890C188S2N",
+      "title": "The lay families and townspeople with their numbers",
+      "passage": "Ezra.2.3-Ezra.2.35",
+      "description": "Families (Parosh, Shephatiah, Arah …) and towns (Bethlehem, Anathoth, Bethel and Ai, Jericho …) with the number of returnees.",
+      "record_type": "genealogy",
+      "literary_classification": "genealogy",
+      "narrative_mode": "reference_to_other_event",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.7.8-Neh.7.38"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "Many figures differ from Neh 7 (e.g. Arah 775 vs 652)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+    },
+    {
+      "id": "cnd_01M4VEBZB09M049FPWC1M6C34T",
+      "title": "Priests, Levites, singers, gatekeepers, temple servants and Solomon's servants",
+      "passage": "Ezra.2.36-Ezra.2.58",
+      "description": "Four priestly houses (4,289), Levites (74), singers (128), gatekeepers (139), temple servants and Solomon's servants (392).",
+      "record_type": "genealogy",
+      "literary_classification": "genealogy",
+      "narrative_mode": "reference_to_other_event",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.7.39-Neh.7.60",
+        "1Chr.24.7-1Chr.24.18"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+    },
+    {
+      "id": "cnd_01M4VEBZB0BZVM9DBG0PNQKWTC",
+      "title": "Families and priests unable to prove their descent",
+      "passage": "Ezra.2.59-Ezra.2.63",
+      "description": "Returnees from Tel Melah and elsewhere could not show their descent; priests (Habaiah, Hakkoz, Barzillai) were excluded until a priest with Urim and Thummim should arise, by order of the governor (Tirshatha).",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "legal",
+        "genealogical"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.7.61-Neh.7.65",
+        "Exod.28.30"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+    },
+    {
+      "id": "cnd_01M4VEBZB0FFVBN48S8THJFK86",
+      "title": "Totals: 42,360, servants, singers and animals",
+      "passage": "Ezra.2.64-Ezra.2.67",
+      "description": "The whole assembly 42,360, besides 7,337 servants and 200 singers; horses, mules, camels and donkeys.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "migration",
+        "economic"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.7.66-Neh.7.69"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The itemised figures total 29,818, not 42,360."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+    },
+    {
+      "id": "cnd_01M4VEBZB07TREEVVW5CRXMKSM",
+      "title": "Freewill gifts for the house of God; settlement in the towns",
+      "passage": "Ezra.2.68-Ezra.2.70",
+      "description": "Heads of families gave 61,000 darics of gold, 5,000 minas of silver and 100 priests' garments; priests, Levites and people settled in their towns.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "economic"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.7.70-Neh.7.73"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "Gifts differ from Neh 7:70–72 and 1 Esd 5:45.",
+        "\"Darics\" in a list of the 530s."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-ezra-2-3.md"
+}

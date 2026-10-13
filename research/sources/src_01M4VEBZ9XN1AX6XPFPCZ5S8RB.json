@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+  "title": "The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Ryle, Herbert Edward"
+  ],
+  "publisher": "Cambridge University Press, 1893",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/booksofezranehem1893ryle",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1893)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Introduction: Sheshbazzar's position perhaps temporary, Zerubbabel perhaps arriving with a second contingent as resident governor; 42,360 perhaps only heads of families; the foundation \"in the second year of their coming\" is \"in all probability\" 536; condemned as unhistorical by some on three grounds (Ezra 5:2 with 4:24; Hag 2:18; Ezra 5:16), which Ryle answers: \"began to build\" can mean resumption, Hag 2:18 dates the prophet's utterance not the foundation, and Ezra 5:16 assumes Sheshbazzar laid the foundation; on 2:69: \"darics\" are the Persian gold coin; derivation from Darius \"far from certain\"; first mention of coined money in the OT, the reference in 1 Chr 29:7 being \"strictly an anachronism\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

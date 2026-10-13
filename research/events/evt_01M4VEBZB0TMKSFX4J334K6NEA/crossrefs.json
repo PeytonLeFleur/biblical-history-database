@@ -1,0 +1,226 @@
+{
+  "event_id": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Zerubbabel",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.3.19",
+        "Ezra.2.2",
+        "Ezra.3.2",
+        "Ezra.3.8",
+        "Ezra.4.2",
+        "Ezra.4.3",
+        "Ezra.5.2",
+        "Hag.1.1",
+        "Hag.1.12",
+        "Hag.1.14",
+        "Hag.2.2",
+        "Hag.2.4",
+        "Hag.2.21",
+        "Hag.2.23",
+        "Luke.3.27",
+        "Matt.1.12",
+        "Matt.1.13",
+        "Neh.7.7",
+        "Neh.12.1",
+        "Neh.12.47",
+        "Zech.4.6",
+        "Zech.4.7",
+        "Zech.4.9",
+        "Zech.4.10"
+      ]
+    },
+    {
+      "name": "Sheshbazzar",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.1.8",
+        "Ezra.1.11",
+        "Ezra.5.14",
+        "Ezra.5.16"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VEBZCR5TA435YPA1WGC7JF",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.5.16"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Sheshbazzar \"laid the foundations of God's house\" — attributed to another leader.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZCRTG9J7NXBYZDYQ3HY",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Hag.2.18"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"From the day that the foundation of the LORD's temple was laid\" — in Darius's second year; read by Batten as the date of the foundation, by Ryle as the date of the prophecy.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+          "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZCRBXWFVV172PQ0YWDJ",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Hag.2.3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"Who is left among you who saw this house in its former glory?\" — the old men's weeping.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZCRJAERGFP35XRCMHMK",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Zech.4.9-Zech.4.10"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"The hands of Zerubbabel have laid the foundation of this house\"; \"the day of small things\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZCRW25S21R84MNBTXYA",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "After opposition the work resumed under Darius, whose search confirmed Cyrus's decree (Ezra 4–6).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZCRWZFX96YM63RR70SR",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Temple begun here was completed on 3 Adar of Darius's sixth year (Ezra 6:15).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VEBZCRDYKNXC3XTWMCQZ7K",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Old men \"who had seen the first house\" — destroyed in 587/586.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VEBZB2553YTBN5MH9M4K6S",
+    "cst_01M4VEBZB2FBP5VNBTGMA2JVFY",
+    "cst_01M4VEBZB2BYPXWGWQ36CZHNZ1"
+  ]
+}

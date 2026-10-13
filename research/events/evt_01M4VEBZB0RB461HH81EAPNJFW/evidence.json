@@ -1,0 +1,421 @@
+{
+  "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "WEB Ezra 2 and Nehemiah 7 (local; items summed by script)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "WEB 1 Esdras 5 (eBible)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil, Ezra 1873 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Ryle 1893 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Batten ICC 1913 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.1.3 (local Gutenberg)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Ezra 2",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "No astronomical data bear on the event."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VEBZB45NH37WB43MMC4QNP",
+      "statement": "The itemised figures of the return list fall short of its stated total of 42,360 in all three versions: 29,818 (Ezra 2), 31,089 (Nehemiah 7), 30,143 (1 Esdras 5).",
+      "layer": "text",
+      "passage": "Ezra.2.64",
+      "classification": "strongly_supported",
+      "reasoning": "The Ezra and Nehemiah sums were recomputed for this unit from the WEB text (42 and 40 items: 29,818 and 31,089). Keil tabulates all three totals and Kidner (via Guzik) gives the same figures. The 1 Esdras sum was not recomputed because the WEB notes give variant readings for several items. Josephus gives a different total again: 42,462.",
+      "supporting_evidence": [
+        "evd_01M4VEBZB43F1ADA9VWE2YQWJ3",
+        "evd_01M4VEBZB4P7FB0T4M5MKN9GGB"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VEBZB428DJJ4B7HHMA6BRN",
+        "evd_01M4VEBZB4C75AJHV6KK99G8DD"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VEBZB4E3TW3TAPPF8K4W9X",
+      "statement": "The shortfall between the itemised figures and the total of 42,360 results from copying errors rather than from groups left out of the items.",
+      "layer": "reconstruction",
+      "passage": "Ezra.2.64",
+      "classification": "disputed",
+      "reasoning": "Keil attributes the differences to clerical errors and rejects two alternatives he reports: that the total adds Israelites of the northern tribes (Seder Olam, Rashi, Ussher) and that it counts ages 12–20 (J. D. Michaelis, from 1 Esd 5:41). Kidner (via Guzik) lists further suggestions (women, adolescents) and notes that the narrative is silent. Batten sees the Chronicler's fondness for large numbers in the figures.",
+      "supporting_evidence": [
+        "evd_01M4VEBZB41CWR8KJT8BRG357M"
+      ],
+      "counterevidence": [
+        "evd_01M4VEBZB45R3B1J271N2VVETK"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VEBZB48685GDWS68ZRKEAZ",
+        "evd_01M4VEBZB4EC73RESMXG0FP5RA"
+      ],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VEBZBS44R0TSR9W2AX7TZ1",
+      "statement": "The returnees of Ezra 2 came up under Cyrus (from 538 BC) rather than under Darius I.",
+      "layer": "reconstruction",
+      "passage": "Ezra.2.1",
+      "classification": "disputed",
+      "reasoning": "Ezra's narrative attaches the list to the return after Cyrus's decree; 1 Esdras 5:1–6 (followed by Josephus) sends Zorobabel and the listed families up in Darius's second year; Ryle suggests a later second contingent under Zerubbabel; Batten finds features suggesting a date later than Cyrus. No external document dates the list.",
+      "supporting_evidence": [
+        "evd_01M4VEBZBSVFY6638NMX73B8QF"
+      ],
+      "counterevidence": [
+        "evd_01M4VEBZBSH1ZTSSCM05WH5EE0",
+        "evd_01M4VEBZBTKKEJGSZWP66TJAPG",
+        "evd_01M4VEBZBT39DMFW96P5THNCES"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VEBZBT3741C24DFMHXEFRS"
+      ],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VEBZBWWDS81CJPDTS9TDHM",
+      "statement": "The \"darics\" of Ezra 2:69 are Persian gold coins; their mention in a list of the 530s is debated.",
+      "layer": "evidence",
+      "passage": "Ezra.2.69",
+      "classification": "historically_plausible",
+      "reasoning": "Ryle identifies them as the Persian gold daric but calls the derivation from Darius \"far from certain\"; Batten notes that some connect the word with the Greek drachma and that Smend thought the term must be a later introduction if the list is early. No numismatic evidence was read in this session.",
+      "supporting_evidence": [
+        "evd_01M4VEBZBW5F60TEPMZD54CXB6"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VEBZBWNYY0ZT3TW60BV4MH"
+      ],
+      "limitations": [
+        "Numismatic literature on the earliest darics not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VEBZB43F1ADA9VWE2YQWJ3",
+      "claim_ids": [
+        "clm_01M4VEBZB45NH37WB43MMC4QNP"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Totals 29,818, 31,089, 30,143 against 42,360 in all three.",
+      "locator": "pp. 45–46",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VEBZB4P7FB0T4M5MKN9GGB",
+      "claim_ids": [
+        "clm_01M4VEBZB45NH37WB43MMC4QNP"
+      ],
+      "source_id": "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The same three totals.",
+      "locator": "on 2:64 (Kidner)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "kidner-via-guzik"
+    },
+    {
+      "id": "evd_01M4VEBZB428DJJ4B7HHMA6BRN",
+      "claim_ids": [
+        "clm_01M4VEBZB45NH37WB43MMC4QNP"
+      ],
+      "source_id": "src_01M4VEBZABFQ798J1CDV71GMP2",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Total of returnees 42,462.",
+      "locator": "Ant. 11.1.3",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VEBZB4C75AJHV6KK99G8DD",
+      "claim_ids": [
+        "clm_01M4VEBZB45NH37WB43MMC4QNP"
+      ],
+      "source_id": "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Total 42,360 \"from twelve years old and upward\".",
+      "locator": "1 Esd 5:41",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VEBZB41CWR8KJT8BRG357M",
+      "claim_ids": [
+        "clm_01M4VEBZB4E3TW3TAPPF8K4W9X"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "\"Undoubtedly owing to mere clerical errors.\"",
+      "locator": "pp. 45–46",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VEBZB45R3B1J271N2VVETK",
+      "claim_ids": [
+        "clm_01M4VEBZB4E3TW3TAPPF8K4W9X"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Seder Olam, Rashi and Ussher: the total includes members of the northern tribes.",
+      "locator": "p. 45",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "older-expositors-via-keil"
+    },
+    {
+      "id": "evd_01M4VEBZB48685GDWS68ZRKEAZ",
+      "claim_ids": [
+        "clm_01M4VEBZB4E3TW3TAPPF8K4W9X"
+      ],
+      "source_id": "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Kidner: explanations as northern tribes, women or adolescents; \"the narrative is silent\".",
+      "locator": "on 2:64",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "kidner-via-guzik"
+    },
+    {
+      "id": "evd_01M4VEBZB4EC73RESMXG0FP5RA",
+      "claim_ids": [
+        "clm_01M4VEBZB4E3TW3TAPPF8K4W9X"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The figures show the Chronicler's fondness for large numbers.",
+      "locator": "p. 101",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    },
+    {
+      "id": "evd_01M4VEBZBSVFY6638NMX73B8QF",
+      "claim_ids": [
+        "clm_01M4VEBZBS44R0TSR9W2AX7TZ1"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Treats the list as the first return under Cyrus.",
+      "locator": "pp. 45–55",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VEBZBSH1ZTSSCM05WH5EE0",
+      "claim_ids": [
+        "clm_01M4VEBZBS44R0TSR9W2AX7TZ1"
+      ],
+      "source_id": "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "The families go up under Darius, after Zorobabel's speech in his second year.",
+      "locator": "1 Esd 5:1–6",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VEBZBTKKEJGSZWP66TJAPG",
+      "claim_ids": [
+        "clm_01M4VEBZBS44R0TSR9W2AX7TZ1"
+      ],
+      "source_id": "src_01M4VEBZA8ACZ01KS80P9HRAQR",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Follows 1 Esdras: Zorobabel's return after the contest before Darius.",
+      "locator": "Ant. 11.3–4",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VEBZBT39DMFW96P5THNCES",
+      "claim_ids": [
+        "clm_01M4VEBZBS44R0TSR9W2AX7TZ1"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "qāhāl and the gifts suggest a date later than Cyrus.",
+      "locator": "pp. 101–103",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    },
+    {
+      "id": "evd_01M4VEBZBT3741C24DFMHXEFRS",
+      "claim_ids": [
+        "clm_01M4VEBZBS44R0TSR9W2AX7TZ1"
+      ],
+      "source_id": "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Zerubbabel perhaps led a second contingent.",
+      "locator": "Introduction",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ryle-1893"
+    },
+    {
+      "id": "evd_01M4VEBZBW5F60TEPMZD54CXB6",
+      "claim_ids": [
+        "clm_01M4VEBZBWWDS81CJPDTS9TDHM"
+      ],
+      "source_id": "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The Persian gold daric; derivation from Darius uncertain.",
+      "locator": "on 2:69",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ryle-1893"
+    },
+    {
+      "id": "evd_01M4VEBZBWNYY0ZT3TW60BV4MH",
+      "claim_ids": [
+        "clm_01M4VEBZBWWDS81CJPDTS9TDHM"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Daric or drachma disputed; Smend: a later term if the list is early.",
+      "locator": "p. 101",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Murashu archives (via Yamauchi in Guzik) not read.",
+    "The 1 Esdras itemised total not recomputed (variant readings).",
+    "Numismatic evidence for darics not researched."
+  ]
+}

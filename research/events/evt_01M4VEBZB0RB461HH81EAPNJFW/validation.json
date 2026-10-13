@@ -1,0 +1,58 @@
+{
+  "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4VEBZBST1N4S3EABKDN71KN",
+    "rev_01M4VEBZBWDQ8YC4DADWFWE20V",
+    "rev_01M4VEBZRJ7MCNDR64CP0WVVSR"
+  ],
+  "research_gaps": [
+    "Murashu archives (via Yamauchi in Guzik) not read.",
+    "The 1 Esdras itemised total not recomputed (variant readings).",
+    "Numismatic evidence for darics not researched."
+  ],
+  "disputes": [
+    "The shortfall between the itemised figures and the total of 42,360 results from copying errors rather than from groups left out of the items.",
+    "The returnees of Ezra 2 came up under Cyrus (from 538 BC) rather than under Darius I."
+  ],
+  "export_eligible": true
+}

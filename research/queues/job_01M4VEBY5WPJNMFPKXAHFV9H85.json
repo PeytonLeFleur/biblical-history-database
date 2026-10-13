@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4VEBY5WPJNMFPKXAHFV9H85",
+  "subject_kind": "chapter",
+  "subject_id": "Ezra.2",
+  "book": "Ezra",
+  "chapter": 2,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-13T20:13:25.642Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-13T20:13:23.517Z",
+  "updated_at": "2026-10-13T20:13:25.642Z",
+  "is_fixture": false
+}

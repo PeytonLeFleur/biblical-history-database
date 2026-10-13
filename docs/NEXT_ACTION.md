@@ -2,7 +2,7 @@
 
 **1. Owner editorial review: the owner only.**
 - Daniel is complete in research, cross-book validation, technical validation and deployment.
-- Only the owner's decisions remain: **157 Daniel-related open review items**, plus 1 Amos item. Milestone 7 adds its own items (15 so far; 173 open in total; `pnpm review:list`).
+- Only the owner's decisions remain: **157 Daniel-related open review items**, plus 1 Amos item. Milestone 7 adds its own items (20 so far; 178 open in total; `pnpm review:list`).
 - Work through `docs/reviews/DANIEL_OWNER_REVIEW_PACKAGE.md`. Each item gives its evidence, research state and an advisory recommendation.
 - Decide with `pnpm review:approve <rev_id>`, `pnpm review:reject <rev_id>` or `pnpm review:return <rev_id>`.
 - **Claude must never run approve or reject.**
@@ -11,12 +11,12 @@
 **2. Milestone 7: full canon expansion** (SPEC Part 20).
 - The owner review need not block it, but publication levels stay at *researched* until the reviews are decided.
 - Prioritise books whose historical contexts overlap the existing records, to strengthen entity resolution and chronology. Suggested order:
-  1. ~~**2 Kings 22–23**~~ (#23) and ~~**2 Chronicles 34–35**~~ (#24) are done.
+  1. ~~**2 Kings 22–23**~~ (#23), ~~**2 Chronicles 34–35**~~ (#24) and ~~**Ezra 2–3**~~ (#25) are done.
   2. **Ezra 2–6 and Haggai–Zechariah 1–8:** the return and the Temple's rebuilding, using the existing Darius I decree and the 516/515 completion.
   3. **Nehemiah 1–2 and Ezra 7:** the Artaxerxes decrees already exist as events; complete their chapters.
   4. **Esther:** Xerxes I (P&D reigns).
   5. **Jeremiah 26–45 and Ezekiel 1, 24, 33, 40:** Ezekiel's dated oracles against the 586/587 models.
   6. **The rest of the canon,** in the order of SPEC Part 20.
-- Next command: `pnpm research:chapter ezra 2` (Ezra 2–3, the return and the altar; reuse the Cyrus decree, Sheshbazzar, the vessels event and the M5 Darius I decree). Then validate, audit, export, build and run e2e; open a PR per unit, merge after CI, and verify the deployed site.
+- Next command: `pnpm research:chapter ezra 4` (Ezra 4–5: opposition, the Aramaic correspondence, Haggai and Zechariah, Tattenai's letter; reuse the Ezra 3 foundation event, the Darius I reign and decree, and the Artaxerxes I reign). Then validate, audit, export, build and run e2e; open a PR per unit, merge after CI, and verify the deployed site.
 
 **Carried-over gaps** (see `docs/PROJECT_STATUS.md`, "Daniel completion state"): sources that are blocked or unavailable, and the engine's Nisan-window limitation for Nehemiah 2.

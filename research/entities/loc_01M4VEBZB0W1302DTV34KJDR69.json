@@ -1,0 +1,44 @@
+{
+  "kind": "place",
+  "id": "loc_01M4VEBZB0W1302DTV34KJDR69",
+  "slug": "joppa",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZAFDDYVR9MW6C4DSNKZ"
+  ],
+  "notes": null,
+  "primary_name": "Joppa",
+  "place_type": "settlement",
+  "modern_name": "Jaffa (Yafo)",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Ioppe",
+      "language": "Greek",
+      "period": null,
+      "source_id": "src_01M4VEBZAFDDYVR9MW6C4DSNKZ"
+    },
+    {
+      "name": "Yapu",
+      "language": "Akkadian/Egyptian",
+      "period": null,
+      "source_id": "src_01M4VEBZAFDDYVR9MW6C4DSNKZ"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4VEBZAVK9MGKN3SFD3X84F4",
+      "label": "Jaffa (Pleiades 687931)",
+      "lat": 32.053079,
+      "lon": 34.7499295,
+      "coordinate_precision": "settlement",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4VEBZAFDDYVR9MW6C4DSNKZ",
+      "proponents": [],
+      "reasoning": "Pleiades associates Ioppe, Yafo, Jaffa and Yapu with the site with certainty."
+    }
+  ],
+  "description": "Mediterranean port to which Lebanese cedar was floated for the Second Temple (Ezra 3:7), as for Solomon's (2 Chr 2:16)."
+}
