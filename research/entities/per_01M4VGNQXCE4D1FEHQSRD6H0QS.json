@@ -1,0 +1,30 @@
+{
+  "kind": "person",
+  "id": "per_01M4VGNQXCE4D1FEHQSRD6H0QS",
+  "slug": "tattenai",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VGNQWK72RCVEBMBA86V57E",
+    "src_01M4VGNQX2P85QMCDP9231XCX1",
+    "src_01M4VGNQWYCN9W791X5FZJ4SJT"
+  ],
+  "notes": null,
+  "canonical_name": "Tattenai, governor of Beyond the River",
+  "aliases": [
+    {
+      "alias": "Sisinnes",
+      "language": "Greek (1 Esdras 6)",
+      "source_id": "src_01M4VGNQWYCN9W791X5FZJ4SJT",
+      "passage": null
+    },
+    {
+      "alias": "Tattannu (reported cuneiform form)",
+      "language": "Akkadian",
+      "source_id": "src_01M4VGNQWK72RCVEBMBA86V57E",
+      "passage": null
+    }
+  ],
+  "description": "Persian governor (peḥah) of the province \"Beyond the River\" under Darius I, who inquired into the Temple rebuilding and wrote to Darius (Ezra 5:3–17; 6:6–13). A Babylonian document of 502 BC reportedly names a Tattannu governor of Ebir-nāri (Olmstead 1944; Kidner) — not read here.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

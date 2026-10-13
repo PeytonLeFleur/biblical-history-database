@@ -1,0 +1,193 @@
+{
+  "event_id": "evt_01M4VGNQY70FPAY89RJB0RX83Z",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Ezra 5 (Kidner on the 502 BC tablet)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Encyclopaedia Judaica: Tattenai (Porten)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "KEIBI: Olmstead 1944",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "WEB 1 Esdras 6",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VGNQZ2DKBAJN56WFVS7XPG",
+      "statement": "A Tattenai (Tattannu) governor of Beyond the River (Ebir-nāri) is attested in a Babylonian document of 502 BC.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Kidner (via Guzik) reports a Babylonian record of 502 BC naming \"Ta-at[-tan-ni] governor of Ebernari\" — the name probably, the office certainly. Porten's Encyclopaedia Judaica entry cites Olmstead's article on him (JNES 3, 1944). The tablet and Olmstead's article were not read in this session, so the attestation is recorded as plausible, not corroborated.",
+      "supporting_evidence": [
+        "evd_01M4VGNQZ26CFR1V9AZVYS7T7K",
+        "evd_01M4VGNQZ23BGJS2TFE3ABQSD9"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VGNQZ2E4VMKN9JNGFW6BHA"
+      ],
+      "limitations": [
+        "Primary tablet publication and Olmstead (1944) not read.",
+        "Wikipedia (discovery only) gives further details that were not verified."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VGNQZ3FT4GWX6F05WN7JD5",
+      "statement": "Tattenai's letter credits Sheshbazzar, not Zerubbabel, with laying the Temple's foundation (Ezra 5:16).",
+      "layer": "text",
+      "passage": "Ezra.5.16",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Ezra 5:16 and 1 Esd 6:20 name Sheshbazzar/Sanabassarus; Ezra 3:8–10 names Zerubbabel and Jeshua. The tension bears on the Sheshbazzar–Zerubbabel identity and the date of the foundation, both already under review; it is recorded here as a textual observation.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VGNQZ3DJXQZ4BN4H48PQZK",
+        "evd_01M4VGNQZ3WRR4C98FHD11ZP08"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VGNQZ26CFR1V9AZVYS7T7K",
+      "claim_ids": [
+        "clm_01M4VGNQZ2DKBAJN56WFVS7XPG"
+      ],
+      "source_id": "src_01M4VGNQWK72RCVEBMBA86V57E",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "A Babylonian record of 502 B.C. names Ta-at[-tan-ni], governor of Ebernari.",
+      "locator": "on 5:3 (Kidner)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "kidner-via-guzik"
+    },
+    {
+      "id": "evd_01M4VGNQZ23BGJS2TFE3ABQSD9",
+      "claim_ids": [
+        "clm_01M4VGNQZ2DKBAJN56WFVS7XPG"
+      ],
+      "source_id": "src_01M4VGNQX2P85QMCDP9231XCX1",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Tattenai, governor of Beyond the River; cites Olmstead, JNES 3 (1944) 46.",
+      "locator": "bibliography",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "encyclopaedia-judaica"
+    },
+    {
+      "id": "evd_01M4VGNQZ2E4VMKN9JNGFW6BHA",
+      "claim_ids": [
+        "clm_01M4VGNQZ2DKBAJN56WFVS7XPG"
+      ],
+      "source_id": "src_01M4VGNQX67XQDWHWH02N8VHJ7",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Article devoted to \"Tattenai, Governor of Across the River\" (not read).",
+      "locator": "title",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "olmstead-1944"
+    },
+    {
+      "id": "evd_01M4VGNQZ3DJXQZ4BN4H48PQZK",
+      "claim_ids": [
+        "clm_01M4VGNQZ3FT4GWX6F05WN7JD5"
+      ],
+      "source_id": "src_01M4VGNQWYCN9W791X5FZJ4SJT",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Sanabassarus laid the foundations of the Lord's house.",
+      "locator": "1 Esd 6:20",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VGNQZ3WRR4C98FHD11ZP08",
+      "claim_ids": [
+        "clm_01M4VGNQZ3FT4GWX6F05WN7JD5"
+      ],
+      "source_id": "src_01M4VGNQWK72RCVEBMBA86V57E",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Same person (Guzik) or official governor vs popular leader (Yamauchi).",
+      "locator": "on 5:16",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Olmstead (1944) and the cuneiform tablet not read.",
+    "Persian provincial administration of Ebir-nāri not researched."
+  ]
+}

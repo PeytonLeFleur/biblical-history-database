@@ -1,0 +1,925 @@
+# Accusations to Ahasuerus and the Rehum–Shimshai letter to Artaxerxes; the city's rebuilding stopped (Ezra 4:6–23)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 4:6–23 (narration)
+
+## Biblical account
+
+At the beginning of Ahasuerus's reign an accusation was written. In the days of Artaxerxes, Bishlam, Mithredath and Tabeel wrote, and Rehum the commander and Shimshai the scribe sent an Aramaic letter: the Jews were rebuilding the rebellious city and finishing its walls, would pay no tribute, and the king should search the records. Artaxerxes found that Jerusalem had revolted against kings and had had mighty kings ruling Beyond the River, and ordered the work stopped until he should decree; Rehum and Shimshai stopped it by force.
+
+## Historical setting
+
+**Period:** Reigns of Xerxes (486–465) and Artaxerxes I (465–424), on the majority reading
+
+The letter concerns the city and its walls, not the Temple (Ezra 4:12, 16). On the majority reading the section is a topical insertion recording later opposition; it would precede Nehemiah's commission (Neh 1:3; 2:1–8). [1, 2, 3]
+
+### Rulers
+
+- Xerxes I: Ahasuerus (identification disputed) [1]
+- Artaxerxes I (Longimanus): Artaxerxes (identification disputed) [1, 2]
+
+## Date and chronology
+
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+- **537 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “In the reign of Ahasuerus … In the days of Artaxerxes”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “In the reign of Ahasuerus … In the days of Artaxerxes” (Ezra 4:6–7) → `after` The foundation of the Second Temple laid (Ezra 3:8–13); assumptions: Only the order relative to the foundation is used. The identification of the kings (Xerxes and Artaxerxes I, or Cambyses and Pseudo-Smerdis) is disputed and not imposed on the chronology.
+
+## Geography
+
+- Jerusalem (City whose walls were being rebuilt; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **Xerxes and Artaxerxes I; the section is placed by topic, not in time order** (C. F. Keil (1873), with Kleinert and J. W. Schultz, H. E. Ryle (1893): the compiler inserted vv. 8–23 believing they concerned the Temple, D. Guzik and D. Kidner): The names correspond to Xerxes (Old Persian Khshayarsha) and Artaxerxes; the letter concerns city walls; the passage interrupts the chronology. [1, 2, 3]
+- **Cambyses and Pseudo-Smerdis, in time order between Cyrus and Darius** (Older expositors (as reported by Keil and Ryle), Josephus (Ant. 11.2.1–2: the letter is addressed to "Cambyses")): Keeps the narrative in sequence (529–521); requires the names to be titles or alternative names, which Keil finds unsupported. [1, 2, 5]
+- **Artaxerxes, but before Darius and about the Temple** (1 Esdras 2:16–30): The Greek parallel adds "laying the foundation of a temple" and ends with the Temple work ceasing until Darius's second year. [6]
+
+## Claims and evidence
+
+### The Ahasuerus and Artaxerxes of Ezra 4:6–23 are Xerxes I and Artaxerxes I, and the section concerns the rebuilding of the city walls in their reigns, placed here by topic.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Keil (with Kleinert and Schultz) and Ryle identify the kings with Xerxes and Artaxerxes I: the names match, and the letter concerns the city and its walls, not the Temple. Ryle thinks the compiler inserted vv. 8–23 believing they concerned the Temple. Older expositors (reported by both) took the names as Cambyses and Pseudo-Smerdis to keep the narrative in order; Josephus addresses the letter to Cambyses; 1 Esdras keeps "Artaxerxes" but places the letter before Darius and adds the Temple's foundation.
+
+- *Supporting (indirect):* Ahashverosh and Artachshasta can only be Xerxes and Artaxerxes; identification with Cambyses and Smerdis lacks grounds. (pp. 71–74) [1]
+- *Supporting (indirect):* The second view — Xerxes and Artaxerxes Longimanus; a break in the chronological sequence. (pp. 64–66) [2]
+- *Challenging (direct):* The letter is addressed to Cambyses, after Cyrus's death. (Ant. 11.2.1–2) [5]
+- *Challenging (direct):* Artaxerxes' letter placed before Darius, mentioning the Temple foundation. (1 Esd 2:16–30) [6]
+- *Context (indirect):* Older expositors assigned the names to Cambyses and Pseudo-Smerdis. (p. 71) [1]
+
+## Related passages and events
+
+- this event → **thematic parallel** → Artaxerxes sends Nehemiah to rebuild Jerusalem, Nisan of his twentieth year (Neh 2:1–8) (medium): On the majority reading, the halt of the walls under Artaxerxes I preceded Nehemiah's commission from the same king (Neh 1:3; 2:1–8). [2, 3]
+- this event → **thematic parallel** → Nehemiah 1:3 (medium): The wall of Jerusalem broken down and its gates burned — news that prompted Nehemiah. [3]
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik treats 4:4–23 as a broad overview reaching into Nehemiah's time; Kidner notes that by Artaxerxes's reign the Temple had stood for half a century. [3]
+
+## Unanswered questions and research gaps
+
+- Persian administrative documents on Judah's walls in Artaxerxes I's reign not researched.
+- The Aramaic of the letters (form-critical comparison with Elephantine) not researched.
+
+## Disputes
+
+- The Ahasuerus and Artaxerxes of Ezra 4:6–23 are Xerxes I and Artaxerxes I, and the section concerns the rebuilding of the city walls in their reigns, placed here by topic.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Ryle, Herbert Edward. The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1893. <https://archive.org/details/booksofezranehem1893ryle> — *scholarly commentary; verification: claim checked*
+3. Guzik, David. Ezra 4 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-4/> — *theological commentary; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.2.1–2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+6. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 2:16–30). eBible.org. <https://ebible.org/eng-web/1ES02.htm#v16> — *ancient primary text; verification: claim checked*

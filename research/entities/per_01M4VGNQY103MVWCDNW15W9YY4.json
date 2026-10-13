@@ -1,0 +1,23 @@
+{
+  "kind": "person",
+  "id": "per_01M4VGNQY103MVWCDNW15W9YY4",
+  "slug": "haggai-prophet",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VGNQWK72RCVEBMBA86V57E",
+    "src_01M4VGNQWYCN9W791X5FZJ4SJT"
+  ],
+  "notes": null,
+  "canonical_name": "Haggai the prophet",
+  "aliases": [
+    {
+      "alias": "Aggaeus",
+      "language": "Greek (1 Esdras)",
+      "source_id": "src_01M4VGNQWYCN9W791X5FZJ4SJT",
+      "passage": null
+    }
+  ],
+  "description": "Prophet whose dated oracles in Darius I's second year urged the rebuilding of the Temple (Ezra 5:1; 6:14; Hag 1:1).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

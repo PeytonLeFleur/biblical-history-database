@@ -1,0 +1,134 @@
+{
+  "event_id": "evt_01M4VGNQY7JRGM5N185B10P0AA",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Ezra 4",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.2.1 (local Gutenberg)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Ryle 1893 Introduction",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VGNQYBY3PV1ZDS0YW8DZAQ",
+      "statement": "Work on the Temple stopped from Cyrus's reign until Darius I's second year.",
+      "layer": "reconstruction",
+      "passage": "Ezra.4.24",
+      "classification": "historically_plausible",
+      "reasoning": "Ezra 4:5, 24 state it; Haggai 1:2–4 presupposes a neglected house in 520; Josephus and 1 Esdras repeat the cessation. Whether any substantial work had been done before (the 536 foundation) is disputed separately on the Ezra 3 event. No external document mentions the stoppage.",
+      "supporting_evidence": [
+        "evd_01M4VGNQYBV9K527RACW105Z2K",
+        "evd_01M4VGNQYBW4X8FSR28YKXJ2PM"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VGNQYBG46MF9ZTNXCRX1R0"
+      ],
+      "limitations": [
+        "Josephus and 1 Esdras depend on the biblical account here."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VGNQYBV9K527RACW105Z2K",
+      "claim_ids": [
+        "clm_01M4VGNQYBY3PV1ZDS0YW8DZAQ"
+      ],
+      "source_id": "src_01M4VGNQWQNZN8H6SW1N6G7KTC",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The building stopped until the second year of Darius.",
+      "locator": "Ant. 11.2.2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VGNQYBW4X8FSR28YKXJ2PM",
+      "claim_ids": [
+        "clm_01M4VGNQYBY3PV1ZDS0YW8DZAQ"
+      ],
+      "source_id": "src_01M4VGNQWTQYDX0CRY94K3986D",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The building of the Temple ceased until Darius's second year.",
+      "locator": "1 Esd 2:30",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VGNQYBG46MF9ZTNXCRX1R0",
+      "claim_ids": [
+        "clm_01M4VGNQYBY3PV1ZDS0YW8DZAQ"
+      ],
+      "source_id": "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Nine years and more of inactivity under Cyrus, Cambyses and Pseudo-Smerdis.",
+      "locator": "Introduction",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ryle-1893"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Samaritan origins (2 Kgs 17) not researched in this unit."
+  ]
+}

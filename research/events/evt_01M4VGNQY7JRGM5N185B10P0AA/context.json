@@ -1,0 +1,124 @@
+{
+  "event_id": "evt_01M4VGNQY7JRGM5N185B10P0AA",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The adversaries of Judah and Benjamin, who said they had sacrificed to God since Esarhaddon brought them there, asked to build with the returnees; Zerubbabel, Jeshua and the heads refused, citing Cyrus's command; the people of the land then weakened their hands, frightened them and hired counsellors against them all the days of Cyrus until Darius's reign. The work ceased until Darius's second year (4:24).",
+    "passage": "Ezra.4.1-Ezra.4.5"
+  },
+  "setting": {
+    "period": "c. 536–520 BC",
+    "body": "Ryle places the stoppage in the latter part of Cyrus's reign and under Cambyses and Pseudo-Smerdis — \"nine years and more\". Josephus says the Cutheans bribed the governors while Cyrus, occupied with wars, knew nothing.",
+    "citations": [
+      "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "src_01M4VGNQWQNZN8H6SW1N6G7KTC"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "King of Persia at the start of the opposition",
+      "citations": []
+    },
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "King in whose second year the work resumed",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VGNQY9VG0AARA6QJ7D6FQW",
+      "subject": "evt_01M4VGNQY7JRGM5N185B10P0AA",
+      "object": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+      "relation": "after",
+      "textual_assertion": "Now when the adversaries … heard that the children of the captivity were building a temple",
+      "passage": "Ezra.4.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VGNQY94H7WRFCC1VSBGCB7",
+      "subject": "evt_01M4VGNQY7JRGM5N185B10P0AA",
+      "object": "evt_01M4VGNQY7DSW2PR19Z4821S9D",
+      "relation": "before",
+      "textual_assertion": "Then the work of God's house … stopped … until the second year of the reign of Darius",
+      "passage": "Ezra.4.24",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple site",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Work stopped c. 536–520 after an early foundation",
+      "proponents": [
+        "H. E. Ryle (1893)",
+        "C. F. Keil (1873)",
+        "D. Guzik (\"some 15 years\")"
+      ],
+      "summary": "Follows Ezra's framework.",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VGNQWDMQDJXST4D7APW8W0"
+      ]
+    },
+    {
+      "label": "Little or no work before 520",
+      "proponents": [
+        "L. W. Batten (1913)"
+      ],
+      "summary": "The foundation itself belongs to 520 (see the Ezra 3 foundation event).",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VGNQWDMQDJXST4D7APW8W0",
+      "layer": "interpretation",
+      "paraphrase": "Guzik identifies the adversaries with the descendants of the Assyrian deportees (2 Kgs 17) and reads 4:24 as resuming 4:5 after a topical parenthesis (Kidner).",
+      "url": "https://enduringword.com/bible-commentary/ezra-4/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

@@ -1,0 +1,146 @@
+{
+  "event_id": "evt_01M4VGNQY7DSW2PR19Z4821S9D",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Haggai",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.5.1",
+        "Ezra.6.14",
+        "Hag.1.1",
+        "Hag.1.3",
+        "Hag.1.12",
+        "Hag.1.13",
+        "Hag.2.1",
+        "Hag.2.10",
+        "Hag.2.13",
+        "Hag.2.14",
+        "Hag.2.20"
+      ]
+    },
+    {
+      "name": "Zechariah son of Iddo",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.6.21",
+        "1Chr.27.21",
+        "1Kgs.4.14",
+        "2Chr.9.29",
+        "2Chr.12.15",
+        "2Chr.13.22",
+        "Ezra.5.1",
+        "Ezra.6.14",
+        "Ezra.8.17",
+        "Ezra.10.43",
+        "Neh.12.4",
+        "Neh.12.16",
+        "Zech.1.1",
+        "Zech.1.7"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VGNQZKDM98NNSPVNYETQS6",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Hag.1.1-Hag.1.15"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Haggai's dated account of the resumption.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZKNQZBANXQD47WB0KV",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Zech.4.9"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it.\"",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZK34P5YYJG9GV58RWX",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY70FPAY89RJB0RX83Z"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Tattenai came \"at the same time\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZK5WV053PKCQD9ZJN4",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.6.14"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The elders built and prospered through the prophesying of Haggai and Zechariah.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VGNQY96X6GQAXE9HB9C8R8"
+  ]
+}

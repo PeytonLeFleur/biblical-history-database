@@ -1,0 +1,925 @@
+# Opposition from the people of the land; the Temple work ceases until Darius's second year (Ezra 4:1–5, 24)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 4:1–5 (narration)
+- Ezra 4:24 (narration): Resumes the thread of 4:5 (Kidner via Guzik).
+
+## Biblical account
+
+The adversaries of Judah and Benjamin, who said they had sacrificed to God since Esarhaddon brought them there, asked to build with the returnees; Zerubbabel, Jeshua and the heads refused, citing Cyrus's command; the people of the land then weakened their hands, frightened them and hired counsellors against them all the days of Cyrus until Darius's reign. The work ceased until Darius's second year (4:24).
+
+## Historical setting
+
+**Period:** c. 536–520 BC
+
+Ryle places the stoppage in the latter part of Cyrus's reign and under Cambyses and Pseudo-Smerdis — "nine years and more". Josephus says the Cutheans bribed the governors while Cyrus, occupied with wars, knew nothing. [1, 2]
+
+### Rulers
+
+- Cyrus II (the Great): King of Persia at the start of the opposition
+- Darius I (the Great): King in whose second year the work resumed
+
+## Date and chronology
+
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+- **537 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → cst_01M4VEBZB2553YTBN5MH9M4K6S → “Now when the adversaries … heard that the children of the captivity were building a temple”
+  - Latest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “Then the work of God's house … stopped … until the second year of the reign of Darius”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Now when the adversaries … heard that the children of the captivity were building a temple” (Ezra 4:1) → `after` The foundation of the Second Temple laid (Ezra 3:8–13)
+- “Then the work of God's house … stopped … until the second year of the reign of Darius” (Ezra 4:24) → `before` Haggai and Zechariah stir the people; the Temple work resumes (Darius's second year, 520 BC)
+
+## Geography
+
+- Jerusalem (Temple site; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Competing reconstructions
+
+- **Work stopped c. 536–520 after an early foundation** (H. E. Ryle (1893), C. F. Keil (1873), D. Guzik ("some 15 years")): Follows Ezra's framework. [1, 4, 5]
+- **Little or no work before 520** (L. W. Batten (1913)): The foundation itself belongs to 520 (see the Ezra 3 foundation event). [6]
+
+## Claims and evidence
+
+### Work on the Temple stopped from Cyrus's reign until Darius I's second year.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+Ezra 4:5, 24 state it; Haggai 1:2–4 presupposes a neglected house in 520; Josephus and 1 Esdras repeat the cessation. Whether any substantial work had been done before (the 536 foundation) is disputed separately on the Ezra 3 event. No external document mentions the stoppage.
+
+- *Supporting (direct):* The building stopped until the second year of Darius. (Ant. 11.2.2) [2]
+- *Supporting (direct):* The building of the Temple ceased until Darius's second year. (1 Esd 2:30) [7]
+- *Context (indirect):* Nine years and more of inactivity under Cyrus, Cambyses and Pseudo-Smerdis. (Introduction) [1]
+
+*Limitations:* Josephus and 1 Esdras depend on the biblical account here.
+
+## Related passages and events
+
+- this event → **preceded by** → The foundation of the Second Temple laid (Ezra 3:8–13) (high): The adversaries heard that the returnees were building the Temple.
+- this event → **thematic parallel** → 2 Kings 17:24–41 (medium): Peoples settled in Samaria by Assyria who "feared the LORD and served their own gods". [5]
+- this event → **thematic parallel** → Haggai 1:2–4 (high): "This people says, The time hasn't come" — the neglected house of 520.
+- this event → **followed by** → Haggai and Zechariah stir the people; the Temple work resumes (Darius's second year, 520 BC) (high): The work resumed in Darius's second year.
+- this event → **direct reference** → Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (high): The returnees refused help on the ground of Cyrus's command (4:3).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik identifies the adversaries with the descendants of the Assyrian deportees (2 Kgs 17) and reads 4:24 as resuming 4:5 after a topical parenthesis (Kidner). [5]
+
+## Unanswered questions and research gaps
+
+- Samaritan origins (2 Kgs 17) not researched in this unit.
+
+## Sources
+
+1. Ryle, Herbert Edward. The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1893. <https://archive.org/details/booksofezranehem1893ryle> — *scholarly commentary; verification: claim checked*
+2. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.2.1–2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+5. Guzik, David. Ezra 4 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-4/> — *theological commentary; verification: claim checked*
+6. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+7. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 2:16–30). eBible.org. <https://ebible.org/eng-web/1ES02.htm#v16> — *ancient primary text; verification: claim checked*

@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VGNQWTQYDX0CRY94K3986D",
+  "title": "World English Bible — Apocrypha/Deuterocanon (1 Esdras 2:16–30)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible (translators)"
+  ],
+  "publisher": "eBible.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/eng-web/1ES02.htm#v16",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 1 Esdras 2:16–30",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched https://ebible.org/eng-web/1ES02.htm",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "2:16–29: Rathumus and Samellius write to \"King Artaxerxes\" that the Jews are building the city, its walls and \"laying the foundation of a temple\"; the king forbids the city's building; 2:30: the building of the Temple ceased \"until the second year of the reign of King Darius\" — the letter is placed before Darius",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Greek parallel to Ezra 4:7–24; quoted only briefly.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

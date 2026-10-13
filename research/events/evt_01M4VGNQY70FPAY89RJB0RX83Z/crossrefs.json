@@ -1,0 +1,117 @@
+{
+  "event_id": "evt_01M4VGNQY70FPAY89RJB0RX83Z",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Tattenai",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.5.3",
+        "Ezra.5.6",
+        "Ezra.6.6",
+        "Ezra.6.13"
+      ]
+    },
+    {
+      "name": "Shethar Bozenai",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.5.3",
+        "Ezra.5.6",
+        "Ezra.6.6",
+        "Ezra.6.13"
+      ]
+    },
+    {
+      "name": "Sheshbazzar",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.1.8",
+        "Ezra.1.11",
+        "Ezra.5.14",
+        "Ezra.5.16"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VGNQZQTJE4RZ1ST082JC7M",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY70FPAY89RJB0RX83Z"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Darius had the archives searched and confirmed Cyrus's decree (Ezra 6:1–12).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZQ08Y71BRKQPEHNV2W",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY70FPAY89RJB0RX83Z"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The elders appeal to Cyrus's first-year decree (5:13–15).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZQ0PXJFKGH4MQV1WT9",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY70FPAY89RJB0RX83Z"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.3.8-Ezra.3.10"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Ezra 3 credits Zerubbabel and Jeshua with the foundation that 5:16 credits to Sheshbazzar.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VGNQY93TACKWSBMDRXTSF8",
+    "cst_01M4VGNQY9HSS9H4M6JDDBW76K",
+    "cst_01M4VGNQY9P658RYG18T3KEGWC"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "event_id": "evt_01M4VGNQY7JRGM5N185B10P0AA",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Esarhaddon",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "people of the land",
+      "books_searched": 66,
+      "hits": [
+        "2Chr.23.13",
+        "2Chr.23.20",
+        "2Chr.23.21",
+        "2Chr.26.21",
+        "2Chr.33.25",
+        "2Chr.36.1",
+        "2Kgs.11.14",
+        "2Kgs.11.18",
+        "2Kgs.11.19",
+        "2Kgs.11.20",
+        "2Kgs.15.5",
+        "2Kgs.16.15",
+        "2Kgs.21.24",
+        "2Kgs.23.30",
+        "2Kgs.23.35",
+        "2Kgs.24.14",
+        "2Kgs.25.3",
+        "2Kgs.25.19",
+        "Dan.9.6",
+        "Exod.5.5",
+        "Ezek.7.27",
+        "Ezek.12.19",
+        "Ezek.22.29",
+        "Ezek.33.2",
+        "Ezek.39.13",
+        "Ezek.45.16",
+        "Ezek.45.22",
+        "Ezek.46.3",
+        "Ezek.46.9",
+        "Ezra.4.4",
+        "Gen.23.7",
+        "Gen.23.12",
+        "Gen.23.13",
+        "Gen.42.6",
+        "Hag.2.4",
+        "Jer.1.18",
+        "Jer.34.19",
+        "Jer.37.2",
+        "Jer.44.21",
+        "Jer.52.6",
+        "Jer.52.25",
+        "Lev.20.2",
+        "Lev.20.4",
+        "Num.14.9",
+        "Zech.7.5"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VGNQZ3V5C2E4GWN1D9SXG5",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7JRGM5N185B10P0AA"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The adversaries heard that the returnees were building the Temple.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZ3TG1YGRQC69NVN9C1",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7JRGM5N185B10P0AA"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Kgs.17.24-2Kgs.17.41"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Peoples settled in Samaria by Assyria who \"feared the LORD and served their own gods\".",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VGNQWDMQDJXST4D7APW8W0"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZ3VR0MWPCH5DXQ2P38",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7JRGM5N185B10P0AA"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Hag.1.2-Hag.1.4"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"This people says, The time hasn't come\" — the neglected house of 520.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZ3NBS80RJ0MWVBZPHQ",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7JRGM5N185B10P0AA"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The work resumed in Darius's second year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VGNQZ3TKWTXSNV4D0BZFNP",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7JRGM5N185B10P0AA"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The returnees refused help on the ground of Cyrus's command (4:3).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VGNQY9VG0AARA6QJ7D6FQW",
+    "cst_01M4VGNQY94H7WRFCC1VSBGCB7"
+  ]
+}

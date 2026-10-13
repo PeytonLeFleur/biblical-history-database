@@ -1,0 +1,141 @@
+{
+  "event_id": "evt_01M4VGNQY70FPAY89RJB0RX83Z",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Tattenai governor Beyond the River, Shethar-bozenai and their companions asked who had decreed the building and the builders' names; the work continued until a report reached Darius. Their letter described the house of great stones and timber, quoted the elders: Nebuchadnezzar had destroyed the house; Cyrus in his first year decreed its rebuilding and gave the vessels to Sheshbazzar, whom he made governor and who laid the foundation; since then it had been building. They asked that the royal archives in Babylon be searched.",
+    "passage": "Ezra.5.3-Ezra.5.17"
+  },
+  "setting": {
+    "period": "Darius I's reign, after the resumption (c. 520–519 BC)",
+    "body": "\"Beyond the River\" (Akkadian Ebir-nāri) was the Persian province west of the Euphrates. A Babylonian document of 502 BC reportedly names a Tattannu governor of Ebir-nāri (Kidner via Guzik; Olmstead 1944, not read).",
+    "citations": [
+      "src_01M4VGNQX2P85QMCDP9231XCX1",
+      "src_01M4VGNQWK72RCVEBMBA86V57E"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "Recipient of the letter",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VGNQY93TACKWSBMDRXTSF8",
+      "subject": "evt_01M4VGNQY70FPAY89RJB0RX83Z",
+      "object": "evt_01M4VGNQY7DSW2PR19Z4821S9D",
+      "relation": "after",
+      "textual_assertion": "At the same time Tattenai … came to them",
+      "passage": "Ezra.5.3",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VGNQY9HSS9H4M6JDDBW76K",
+      "subject": "evt_01M4VGNQY70FPAY89RJB0RX83Z",
+      "object": "evt_01M4V10B5RQN4G6MC31Q1P4HWT",
+      "relation": "before",
+      "textual_assertion": "Then Darius the king made a decree, and search was made",
+      "passage": "Ezra.6.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VGNQY9P658RYG18T3KEGWC",
+      "subject": "evt_01M4VGNQY70FPAY89RJB0RX83Z",
+      "object": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "relation": "within_reign",
+      "textual_assertion": "The copy of the letter that Tattenai … sent to Darius the king",
+      "passage": "Ezra.5.6",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Building inspected",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Beyond the River (ʿăbar naharā; Ebir-nāri)",
+      "gloss": "The Persian province west of the Euphrates, including Judah.",
+      "citations": [
+        "src_01M4VGNQX2P85QMCDP9231XCX1"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Sheshbazzar and Zerubbabel the same person",
+      "proponents": [
+        "D. Guzik (probably)"
+      ],
+      "summary": "Under owner review on the vessels record (not duplicated here).",
+      "citations": [
+        "src_01M4VGNQWK72RCVEBMBA86V57E"
+      ]
+    },
+    {
+      "label": "Sheshbazzar the official governor, Zerubbabel the popular leader",
+      "proponents": [
+        "E. M. Yamauchi (via Guzik)"
+      ],
+      "summary": "Explains why the Persian letter names Sheshbazzar.",
+      "citations": [
+        "src_01M4VGNQWK72RCVEBMBA86V57E"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VGNQWK72RCVEBMBA86V57E",
+      "layer": "interpretation",
+      "paraphrase": "Guzik presents Tattenai as a fair administrator who preserved a copy of his letter, and notes the possible Babylonian attestation of his name and office (Kidner).",
+      "url": "https://enduringword.com/bible-commentary/ezra-5/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

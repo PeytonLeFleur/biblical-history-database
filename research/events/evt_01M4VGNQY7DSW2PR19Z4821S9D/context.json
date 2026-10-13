@@ -1,0 +1,105 @@
+{
+  "event_id": "evt_01M4VGNQY7DSW2PR19Z4821S9D",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel; Zerubbabel and Jeshua began to build the house of God, and the prophets were with them, helping them.",
+    "passage": "Ezra.5.1-Ezra.5.2"
+  },
+  "setting": {
+    "period": "Autumn 520 BC (Darius I, year 2)",
+    "body": "Haggai dates his first oracle to 1/VI of Darius's second year and the start of work to 24/VI (Hag 1:1, 15); on Parker and Dubberstein's table these are 29 August and 21 September 520. Zechariah's first oracle is in the eighth month (Zech 1:1). Darius had spent 522–521 suppressing revolts (Behistun).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "King of Persia",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VGNQY96X6GQAXE9HB9C8R8",
+      "subject": "evt_01M4VGNQY7DSW2PR19Z4821S9D",
+      "object": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the second year of Darius the king, in the sixth month, in the first day of the month",
+      "passage": "Hag.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 2,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Babylonian Nisan-based regnal years (as for Ezra 6:15): year 2 = 3 April 520 – 22 March 519 (Parker & Dubberstein table). Month VI began 29 August 520, so 1/VI = 29 Aug and 24/VI (Hag 1:15) = 21 Sep 520."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple site",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Resumption of a work begun in 536",
+      "proponents": [
+        "H. E. Ryle (1893)",
+        "C. F. Keil (1873)"
+      ],
+      "summary": "\"Began to build\" (5:2) means the building proper after an earlier foundation.",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "label": "The real beginning of the rebuilding",
+      "proponents": [
+        "L. W. Batten (1913)"
+      ],
+      "summary": "The foundation was laid on 24/IX of Darius's second year (Hag 2:18).",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VGNQWK72RCVEBMBA86V57E",
+      "layer": "interpretation",
+      "paraphrase": "Guzik summarises Haggai's rebuke (Hag 1:2–10) and contrasts Zechariah's concern with the people's spiritual state; Adeney notes that Darius was occupied securing his throne.",
+      "url": "https://enduringword.com/bible-commentary/ezra-5/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

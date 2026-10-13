@@ -1,0 +1,23 @@
+{
+  "kind": "person",
+  "id": "per_01M4VGNQXW6FWYJSAT427KGY76",
+  "slug": "shimshai-the-scribe",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VGNQWDMQDJXST4D7APW8W0",
+    "src_01M4VGNQWTQYDX0CRY94K3986D"
+  ],
+  "notes": null,
+  "canonical_name": "Shimshai the scribe",
+  "aliases": [
+    {
+      "alias": "Samellius",
+      "language": "Greek (1 Esdras)",
+      "source_id": "src_01M4VGNQWTQYDX0CRY94K3986D",
+      "passage": null
+    }
+  ],
+  "description": "Scribe who co-wrote the letter to Artaxerxes (Ezra 4:8–23).",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VGNQZ2TE57S517JRS97V0Y",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VGNQYC9RC6097S0GK561MD",
+  "record_revision": 1,
+  "reason": "Disputed: are the kings of Ezra 4:6–23 Xerxes and Artaxerxes I (a topical insertion about the walls) or Cambyses and Pseudo-Smerdis (Josephus; older expositors)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T20:53:41.986Z",
+  "decisions": [],
+  "is_fixture": false
+}

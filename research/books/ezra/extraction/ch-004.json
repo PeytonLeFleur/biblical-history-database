@@ -1,0 +1,371 @@
+{
+  "book": "Ezra",
+  "chapter": 4,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.4.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY79RWAD9YX2BRXQ4PF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY79RWAD9YX2BRXQ4PF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY79RWAD9YX2BRXQ4PF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY79RWAD9YX2BRXQ4PF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY79RWAD9YX2BRXQ4PF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY72X3AQSFQB32NF0MG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.4.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7XPRGTVE94WRQBBP8"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VGNQY79RWAD9YX2BRXQ4PF",
+      "title": "Offer of help refused; the people of the land frustrate the work from Cyrus to Darius",
+      "passage": "Ezra.4.1-Ezra.4.5",
+      "description": "The adversaries, who had sacrificed since Esarhaddon brought them, asked to build; Zerubbabel, Jeshua and the heads refused; the people of the land discouraged and hired counsellors against them all the days of Cyrus until Darius.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zerubbabel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jeshua",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Cyrus king of Persia",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Darius king of Persia",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.4.5",
+          "phrase": "all the days of Cyrus king of Persia, even until the reign of Darius king of Persia",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "2Kgs.17.24-2Kgs.17.41"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY7JRGM5N185B10P0AA"
+    },
+    {
+      "id": "cnd_01M4VGNQY72X3AQSFQB32NF0MG",
+      "title": "An accusation written in the reign of Ahasuerus",
+      "passage": "Ezra.4.6",
+      "description": "At the beginning of Ahasuerus's reign they wrote an accusation against Judah and Jerusalem.",
+      "record_type": "historical_reference",
+      "literary_classification": "historical_reference",
+      "narrative_mode": "reference_to_other_event",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Ahasuerus",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [
+        "Ahasuerus = Xerxes (Keil; Ryle; Guzik) or Cambyses (older expositors, as reported by Keil and Ryle)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY7T5X4NA6JGMH4GG25"
+    },
+    {
+      "id": "cnd_01M4VGNQY70RNQ2WYRMZ7EMBCY",
+      "title": "Rehum and Shimshai write to Artaxerxes; the king orders the city's rebuilding stopped",
+      "passage": "Ezra.4.7-Ezra.4.23",
+      "description": "In Artaxerxes's days Bishlam, Mithredath, Tabeel, then Rehum and Shimshai wrote in Aramaic that the Jews were rebuilding the rebellious city and its walls; the king found that the city had rebelled and ordered the work stopped until his decree; they stopped it by force.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Artaxerxes king of Persia",
+          "matched_entity_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Rehum the chancellor",
+          "matched_entity_id": "per_01M4VGNQXQY77543Q0RBDS1E9M",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Shimshai the scribe",
+          "matched_entity_id": "per_01M4VGNQXW6FWYJSAT427KGY76",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.1.3",
+        "Neh.2.1-Neh.2.8"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Which kings (Xerxes and Artaxerxes I, or Cambyses and Pseudo-Smerdis); the letter concerns the city walls, not the Temple (in Ezra)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY7T5X4NA6JGMH4GG25"
+    },
+    {
+      "id": "cnd_01M4VGNQY7XPRGTVE94WRQBBP8",
+      "title": "The Temple work ceased until Darius's second year",
+      "passage": "Ezra.4.24",
+      "description": "The work of the house of God ceased until the second year of Darius king of Persia.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius king of Persia",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.4.24",
+          "phrase": "until the second year of the reign of Darius king of Persia",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY7JRGM5N185B10P0AA"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-ezra-4-5.md"
+}

@@ -1,0 +1,289 @@
+{
+  "book": "Ezra",
+  "chapter": 5,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.5.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY733BMMK2H8RS3TERF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY733BMMK2H8RS3TERF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7HRQ8R54F9JAMT484"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7HRQ8R54F9JAMT484"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7HRQ8R54F9JAMT484"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.5.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VGNQY733BMMK2H8RS3TERF",
+      "title": "Haggai and Zechariah prophesy; Zerubbabel and Jeshua resume building",
+      "passage": "Ezra.5.1-Ezra.5.2",
+      "description": "Haggai and Zechariah son of Iddo prophesied to the Jews; Zerubbabel and Jeshua began to build the house of God with the prophets helping them.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Haggai the prophet",
+          "matched_entity_id": "per_01M4VGNQY103MVWCDNW15W9YY4",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Zechariah the son of Iddo",
+          "matched_entity_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Zerubbabel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jeshua",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Hag.1.1-Hag.1.15",
+        "Zech.1.1",
+        "Ezra.6.14"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+    },
+    {
+      "id": "cnd_01M4VGNQY7HRQ8R54F9JAMT484",
+      "title": "Tattenai and Shethar-bozenai question the builders; the work continues pending Darius's reply",
+      "passage": "Ezra.5.3-Ezra.5.5",
+      "description": "Tattenai governor beyond the River and Shethar-bozenai asked who authorised the building and the names of the builders; the eye of God was on the elders and the work was not stopped until word came from Darius.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Tattenai, the governor beyond the River",
+          "matched_entity_id": "per_01M4VGNQXCE4D1FEHQSRD6H0QS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Shetharbozenai",
+          "matched_entity_id": "per_01M4VGNQXJ7TXVP7GX7KW6ETWW",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY70FPAY89RJB0RX83Z"
+    },
+    {
+      "id": "cnd_01M4VGNQY7NR8PXF2TWC3XX2SC",
+      "title": "Tattenai's letter to Darius: the elders' account and the request to search for Cyrus's decree",
+      "passage": "Ezra.5.6-Ezra.5.17",
+      "description": "The letter reports the work with great stones and timber, the elders' account of the destruction by Nebuchadnezzar, Cyrus's decree in his first year, the vessels given to Sheshbazzar, who laid the foundation, and asks that the royal archives in Babylon be searched.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Tattenai",
+          "matched_entity_id": "per_01M4VGNQXCE4D1FEHQSRD6H0QS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Darius the king",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Cyrus the king",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Sheshbazzar",
+          "matched_entity_id": "per_01M4V85GFRVBMSHYGJ4XGM2TR0",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.1.1-Ezra.1.11",
+        "Ezra.3.8-Ezra.3.13",
+        "Ezra.6.1-Ezra.6.5"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Ezra 5:16 credits Sheshbazzar with the foundation; Ezra 3:8–10 credits Zerubbabel and Jeshua."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VGNQY70FPAY89RJB0RX83Z"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-ezra-4-5.md"
+}

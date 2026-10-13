@@ -1,0 +1,22 @@
+{
+  "kind": "person",
+  "id": "per_01M4VGNQXJ7TXVP7GX7KW6ETWW",
+  "slug": "shethar-bozenai",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VGNQWYCN9W791X5FZJ4SJT"
+  ],
+  "notes": null,
+  "canonical_name": "Shethar-bozenai",
+  "aliases": [
+    {
+      "alias": "Sathrabuzanes",
+      "language": "Greek (1 Esdras 6)",
+      "source_id": "src_01M4VGNQWYCN9W791X5FZJ4SJT",
+      "passage": null
+    }
+  ],
+  "description": "Colleague of Tattenai in the inquiry and letter to Darius (Ezra 5:3, 6; 6:6, 13).",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}
