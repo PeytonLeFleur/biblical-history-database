@@ -1,0 +1,132 @@
+{
+  "event_id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The princes reported that the people, priests and Levites had married women of the peoples of the land with their abominations; Ezra tore his clothes and sat appalled, then confessed the nation's guilt at the evening offering. As the people wept, Shecaniah proposed putting away the foreign wives and children by covenant; Ezra made the leaders swear; a summons gave three days on pain of forfeiture. On 20/IX the men of Judah and Benjamin sat in the rain before the temple and agreed to proceed town by town; a commission sat from 1/X and finished by 1/I. The list names priests, Levites, singers, gatekeepers and laymen.",
+    "passage": "Ezra.9.1-Ezra.10.44"
+  },
+  "setting": {
+    "period": "Ninth month of the king's seventh year to the first month of the eighth (458–457 BC on the Artaxerxes I reading)",
+    "body": "Ryle and Keil note that the ninth month corresponds to December, the season of heavy rains in Palestine. The date depends on the identity of the king (disputed on the Ezra 7 decree event).",
+    "citations": [
+      "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "The king (identification disputed)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VR9YNR2K3WBZRWJ8EJNXS8",
+      "subject": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6",
+      "object": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+      "relation": "after",
+      "textual_assertion": "Now when these things were done, the princes came near to me",
+      "passage": "Ezra.9.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VR9YNR8MZ4SRCWAVRRY0NY",
+      "subject": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6",
+      "object": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+      "relation": "months_later",
+      "textual_assertion": "It was the ninth month, on the twentieth day of the month",
+      "passage": "Ezra.10.9",
+      "offset": {
+        "min": 3,
+        "max": 6
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Arrival on 1/V (7:9); the assembly on 20/IX of the same year, about 4½ months later; the commission ended on 1/I of the next year. 3–6 months is an operator margin for the assembly."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "The square before the house of God",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "The \"wall in Judah and Jerusalem\" (9:9)",
+      "proponents": [
+        "Most scholars (Yamauchi, via Guzik): figurative protection",
+        "Some critics (as reported by Yamauchi): Nehemiah's wall, implying Nehemiah came first"
+      ],
+      "summary": "Bears on the order of Ezra and Nehemiah, disputed on the Ezra 7 decree event.",
+      "citations": [
+        "src_01M4VR9YNH7SQHW1VXT027348S"
+      ]
+    },
+    {
+      "label": "Assessment of the measure",
+      "proponents": [
+        "D. Guzik: the lesser of two evils",
+        "W. F. Adeney (via Guzik): excessive zeal"
+      ],
+      "summary": "Theological evaluations; recorded as interpretation.",
+      "citations": [
+        "src_01M4VR9YNQD0WBM932V8HBD6Q3"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VR9YNH7SQHW1VXT027348S",
+      "layer": "interpretation",
+      "paraphrase": "Guzik stresses that the issue was religious rather than ethnic, citing Deut 7 and Exod 34.",
+      "url": "https://enduringword.com/bible-commentary/ezra-9/",
+      "accessed": "2026-10-13"
+    },
+    {
+      "source_id": "src_01M4VR9YNQD0WBM932V8HBD6Q3",
+      "layer": "interpretation",
+      "paraphrase": "Guzik weighs divorce as the lesser evil and notes Adeney's view that the measure went too far.",
+      "url": "https://enduringword.com/bible-commentary/ezra-10/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Whether 10:15 records opposition to the measure or the officials in charge of it."
+  ],
+  "not_applicable": {}
+}

@@ -11,12 +11,12 @@
 **2. Milestone 7: full canon expansion** (SPEC Part 20).
 - The owner review need not block it, but publication levels stay at *researched* until the reviews are decided.
 - Prioritise books whose historical contexts overlap the existing records, to strengthen entity resolution and chronology. Suggested order:
-  1. ~~**2 Kings 22–23**~~ (#23), ~~**2 Chronicles 34–35**~~ (#24) and ~~**Ezra 2–3**~~ (#25) and ~~**Ezra 4–5**~~ (#27) and ~~**Ezra 6**~~ (#28) and ~~**Haggai 1–2**~~ (#29) and ~~**Zechariah 1–8**~~ (#30–#33) and ~~**Ezra 7–8**~~ (#34) are done.
+  1. ~~**2 Kings 22–23**~~ (#23), ~~**2 Chronicles 34–35**~~ (#24) and ~~**Ezra 2–3**~~ (#25) and ~~**Ezra 4–5**~~ (#27) and ~~**Ezra 6**~~ (#28) and ~~**Haggai 1–2**~~ (#29) and ~~**Zechariah 1–8**~~ (#30–#33) , ~~**Ezra 7–8**~~ (#34) and ~~**Ezra 9–10**~~ (#35) are done; Ezra and Haggai are complete.
   2. **Ezra 2–6 and Haggai–Zechariah 1–8:** the return and the Temple's rebuilding, using the existing Darius I decree and the 516/515 completion.
   3. **Nehemiah 1–2 and Ezra 7:** the Artaxerxes decrees already exist as events; complete their chapters.
   4. **Esther:** Xerxes I (P&D reigns).
   5. **Jeremiah 26–45 and Ezekiel 1, 24, 33, 40:** Ezekiel's dated oracles against the 586/587 models.
   6. **The rest of the canon,** in the order of SPEC Part 20.
-- Next command: `pnpm research:chapter ezra 9` (Ezra 9–10: the mixed marriages crisis, the assembly in the rain of 20/IX, the list of those who divorced; completes Ezra). Then Nehemiah 1–13 (reuse the M5 Nehemiah event; read the Elephantine papyri for Sanballat and Johanan), then Zechariah 9–14 and Malachi.
+- Next command: `pnpm research:chapter nehemiah 1` (Nehemiah 1–2: Hanani's report in Chislev of Artaxerxes's 20th year and the commission in Nisan. The M5 event "Artaxerxes commissions Nehemiah (Neh 2)" exists and must be completed, not duplicated; read Cowley's *Aramaic Papyri* (1923, public domain) for Sanballat and the high priest Johanan). Then Nehemiah 3–13, Zechariah 9–14, Malachi, Esther.
 
 **Carried-over gaps** (see `docs/PROJECT_STATUS.md`, "Daniel completion state"): sources that are blocked or unavailable, and the engine's Nisan-window limitation for Nehemiah 2.
