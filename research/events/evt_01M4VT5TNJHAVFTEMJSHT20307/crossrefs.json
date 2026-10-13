@@ -1,0 +1,62 @@
+{
+  "event_id": "evt_01M4VT5TNJHAVFTEMJSHT20307",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Ashdodites",
+      "books_searched": 66,
+      "hits": [
+        "Josh.13.3",
+        "Neh.4.7"
+      ]
+    },
+    {
+      "name": "Sanballat",
+      "books_searched": 66,
+      "hits": [
+        "Neh.2.10",
+        "Neh.2.19",
+        "Neh.4.1",
+        "Neh.4.7",
+        "Neh.6.1",
+        "Neh.6.2",
+        "Neh.6.5",
+        "Neh.6.12",
+        "Neh.6.14",
+        "Neh.13.28"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VT5TPH0E2SRVWYD8YHB7FM",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJHAVFTEMJSHT20307"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The opposition arose during the building.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VT5TNMDQW395JPRABJV9ZE",
+    "cst_01M4VT5TNMFJRWFK57YESEY3KE"
+  ]
+}

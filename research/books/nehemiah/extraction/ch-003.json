@@ -1,0 +1,391 @@
+{
+  "book": "Neh",
+  "chapter": 3,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.3.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ49DD4DDDSVN3SAGT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ49DD4DDDSVN3SAGT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ49DD4DDDSVN3SAGT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ49DD4DDDSVN3SAGT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ49DD4DDDSVN3SAGT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJNVDRQ5HE2MC01408"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJZEPHNXQ9411QM3E3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJZEPHNXQ9411QM3E3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJZEPHNXQ9411QM3E3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJZEPHNXQ9411QM3E3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.3.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJZEPHNXQ9411QM3E3"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VT5TNJ49DD4DDDSVN3SAGT",
+      "title": "North wall: the Sheep Gate (Eliashib and the priests), the towers of Hammeah and Hananel, the Fish Gate",
+      "passage": "Neh.3.1-Neh.3.5",
+      "description": "Eliashib the high priest and the priests built and consecrated the Sheep Gate as far as the towers of Hammeah and Hananel; the men of Jericho, Zaccur; the sons of Hassenaah built the Fish Gate; Meremoth, Meshullam, Zadok; the Tekoites, though their nobles did not work.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Eliashib the high priest",
+          "matched_entity_id": "per_01M4VT5TNJHKHAH0YZGRHEBGTZ",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "the men of Jericho",
+          "matched_entity_id": "loc_01M4V7CG3VP1TB3CR7PF3GKRW1",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.12.39",
+        "Jer.31.38",
+        "John.5.2"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+    },
+    {
+      "id": "cnd_01M4VT5TNJNVDRQ5HE2MC01408",
+      "title": "West side: the Old Gate, the Broad Wall, the Tower of the Furnaces, the Valley Gate, the Dung Gate",
+      "passage": "Neh.3.6-Neh.3.14",
+      "description": "The Old Gate; men of Gibeon and Mizpah under the governor beyond the River; goldsmiths and perfumers fortified Jerusalem to the Broad Wall; district rulers; the Tower of the Furnaces; the Valley Gate (Hanun and Zanoah) with a thousand cubits of wall to the Dung Gate (Malchijah of Beth-haccherem).",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Mizpah",
+          "matched_entity_id": "loc_01M4V7CG3ZDKM95SN9B8FSNAVZ",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.2.13",
+        "Neh.12.38"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Location of \"the Broad Wall\" (3:8): the excavated 8th-century wall in the Jewish Quarter (Guzik) or elsewhere."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+    },
+    {
+      "id": "cnd_01M4VT5TNJP3DFQB1QX6FGVNCB",
+      "title": "South and east: the Fountain Gate, the Pool of Shelah, the stairs of the City of David, the tombs of David, the Water Gate",
+      "passage": "Neh.3.15-Neh.3.27",
+      "description": "Shallun, ruler of Mizpah, built the Fountain Gate and the wall of the Pool of Shelah by the King's Garden to the stairs from the City of David; Nehemiah son of Azbuk of Beth-zur to the tombs of David and the artificial pool; Levites; rulers of Keilah; the angle, the Ophel, the Water Gate and the projecting tower.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Mizpah",
+          "matched_entity_id": "loc_01M4V7CG3ZDKM95SN9B8FSNAVZ",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.2.14",
+        "Isa.22.9-Isa.22.11",
+        "John.9.7"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+    },
+    {
+      "id": "cnd_01M4VT5TNJZEPHNXQ9411QM3E3",
+      "title": "East wall to the north: the Horse Gate, the East Gate, the Miphkad Gate, back to the Sheep Gate",
+      "passage": "Neh.3.28-Neh.3.32",
+      "description": "Priests above the Horse Gate, each opposite his house; Zadok; Shemaiah keeper of the East Gate; Meshullam; goldsmiths to the house of the temple servants opposite the Miphkad Gate and the upper room of the corner; goldsmiths and merchants to the Sheep Gate.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Jer.31.40"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-3-4.md"
+}

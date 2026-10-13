@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VT5TNXFY0FHKAJVDW6HQM8",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VT5TNN24S7B71Q1F7G3P3P",
+  "record_revision": 1,
+  "reason": "Disputed: is the \"Broad Wall\" of Neh 3:8 the excavated 8th-century wall on the Western Hill?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T23:39:46.237Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,273 @@
+{
+  "event_id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Finkelstein, JHS 9 (2009) art. 24 (PDF)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Lipschits, JHS 9 (2009) art. 20 (PDF)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 3",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VT5TNN6T9ERD76Y0NV9A33",
+      "statement": "Archaeology has identified the wall Nehemiah rebuilt around Jerusalem in the mid-5th century.",
+      "layer": "evidence",
+      "passage": "Neh.3.1-Neh.3.32",
+      "classification": "disputed",
+      "reasoning": "E. Mazar (2007) claimed a fragment under the northern tower in the City of David; Finkelstein and Lipschits both judge her evidence insufficient (a terminus post quem only). Lipschits sees indirect signs of a Persian-period construction phase on the eastern slope (De Groot and Ariel); Finkelstein finds no Persian wall at all and suggests Neh 3 may reflect the Hasmonean First Wall. Kenyon had earlier assigned a scarp wall to Nehemiah (as reported by Lipschits). Mazar's own publications were not read.",
+      "supporting_evidence": [],
+      "counterevidence": [
+        "evd_01M4VT5TNNZACK3JCR9XZZ09YR",
+        "evd_01M4VT5TNNAMKDGDTFNHGQJ8VB"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VT5TNN82FQZ4DRQDFM990A"
+      ],
+      "limitations": [
+        "E. Mazar 2007–2009 and Kenyon not read directly; Finkelstein JSOT 2008 known through his rejoinder."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VT5TNN74G1BK62FGWCM6QF",
+      "statement": "Persian-period Jerusalem was a small settlement confined largely to the City of David.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Finkelstein (2–2.5 ha, a few hundred people) and Lipschits (Western Hill abandoned; minimal finds) agree on a small settlement; they differ on the wall. Finkelstein reports that Barkay argues for a much larger area (not read).",
+      "supporting_evidence": [
+        "evd_01M4VT5TNNGWY2Z58GEDTY55WW",
+        "evd_01M4VT5TNN6YJXEXTE9A46E8R2"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Barkay's maximalist estimate known only through Finkelstein."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VT5TNN24S7B71Q1F7G3P3P",
+      "statement": "The \"Broad Wall\" of Neh 3:8 is the wide 8th-century wall excavated in the Jewish Quarter, repaired by Nehemiah's builders.",
+      "layer": "reconstruction",
+      "passage": "Neh.3.8",
+      "classification": "disputed",
+      "reasoning": "Guzik identifies the visible wide wall with Neh 3:8 and treats the find as confirmation. Lipschits, summarising the common archaeological view, holds that the Western Hill (where that wall stands) was abandoned throughout the Persian period, which makes a Persian-period repair there unlikely; the name could refer to a different stretch. The excavation reports (Avigad) were not read.",
+      "supporting_evidence": [
+        "evd_01M4VT5TNNXWZ7QMET8PZQ102W"
+      ],
+      "counterevidence": [
+        "evd_01M4VT5TNN3Q941R1PJR9KGXZE"
+      ],
+      "contextual_evidence": [],
+      "limitations": [
+        "Avigad's publications not read."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VT5TNNS87805AZCGEK9ZV9",
+      "statement": "Eliashib, the high priest of Neh 3:1, was the grandfather of the Johanan attested as high priest in 408/407 BC.",
+      "layer": "reconstruction",
+      "passage": "Neh.3.1",
+      "classification": "historically_plausible",
+      "reasoning": "Neh 12:10–11, 22 give Eliashib → Joiada → Johanan; the Elephantine letter attests Johanan as high priest in 408/407 (Cowley), consistent with Eliashib in office in 445.",
+      "supporting_evidence": [
+        "evd_01M4VT5TNNAWZP6N9KKN6QBN3N"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VT5TNN82FQZ4DRQDFM990A",
+      "claim_ids": [
+        "clm_01M4VT5TNN6T9ERD76Y0NV9A33"
+      ],
+      "source_id": "src_01M4VT5TNBMGGSC7GPAED82F2V",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "No secure wall; Persian-period construction on the eastern slope may indicate the \"missing\" wall (De Groot and Ariel).",
+      "locator": "§§ on the City of David",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "lipschits-2009"
+    },
+    {
+      "id": "evd_01M4VT5TNNZACK3JCR9XZZ09YR",
+      "claim_ids": [
+        "clm_01M4VT5TNN6T9ERD76Y0NV9A33"
+      ],
+      "source_id": "src_01M4VT5TN88RD5WQY6GD40EXP7",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "No Persian-period city wall has been found; Mazar's tower is Hasmonean; Neh 3 may reflect the Hasmonean First Wall.",
+      "locator": "Introduction; \"Built on quicksand\"",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "finkelstein-2009"
+    },
+    {
+      "id": "evd_01M4VT5TNNAMKDGDTFNHGQJ8VB",
+      "claim_ids": [
+        "clm_01M4VT5TNN6T9ERD76Y0NV9A33"
+      ],
+      "source_id": "src_01M4VT5TNBMGGSC7GPAED82F2V",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Mazar's evidence is \"certainly not sufficient\" to identify Nehemiah's wall.",
+      "locator": "§§ on the City of David",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "lipschits-2009"
+    },
+    {
+      "id": "evd_01M4VT5TNNGWY2Z58GEDTY55WW",
+      "claim_ids": [
+        "clm_01M4VT5TNN74G1BK62FGWCM6QF"
+      ],
+      "source_id": "src_01M4VT5TN88RD5WQY6GD40EXP7",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Ca. 2–2.5 ha; no more than a few hundred people.",
+      "locator": "Introduction",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "finkelstein-2009"
+    },
+    {
+      "id": "evd_01M4VT5TNN6YJXEXTE9A46E8R2",
+      "claim_ids": [
+        "clm_01M4VT5TNN74G1BK62FGWCM6QF"
+      ],
+      "source_id": "src_01M4VT5TNBMGGSC7GPAED82F2V",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Western Hill entirely abandoned in the Persian period; minimal data for a large city.",
+      "locator": "§2; Western Hill",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "lipschits-2009"
+    },
+    {
+      "id": "evd_01M4VT5TNNXWZ7QMET8PZQ102W",
+      "claim_ids": [
+        "clm_01M4VT5TNN24S7B71Q1F7G3P3P"
+      ],
+      "source_id": "src_01M4VT5TMX88S9M9KF16CQSF5M",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The Broad Wall, over 6 m wide, can be seen today; archaeology confirms the text.",
+      "locator": "on 3:8",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4VT5TNN3Q941R1PJR9KGXZE",
+      "claim_ids": [
+        "clm_01M4VT5TNN24S7B71Q1F7G3P3P"
+      ],
+      "source_id": "src_01M4VT5TNBMGGSC7GPAED82F2V",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The Western Hill was abandoned in the Persian and early Hellenistic periods; resettled only in the 2nd century BCE.",
+      "locator": "Western Hill",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "lipschits-2009"
+    },
+    {
+      "id": "evd_01M4VT5TNNAWZP6N9KKN6QBN3N",
+      "claim_ids": [
+        "clm_01M4VT5TNNS87805AZCGEK9ZV9"
+      ],
+      "source_id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Johanan the high priest in 408/407.",
+      "locator": "No. 30 line 18",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "elephantine-papyri"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Gate locations not mapped.",
+    "Excavation reports (Kenyon, Shiloh, Mazar, Avigad) not read directly."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "event_id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Eliashib",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.3.24",
+        "1Chr.24.12",
+        "Ezra.10.6",
+        "Ezra.10.24",
+        "Ezra.10.27",
+        "Ezra.10.36",
+        "Neh.3.1",
+        "Neh.3.20",
+        "Neh.3.21",
+        "Neh.12.10",
+        "Neh.12.22",
+        "Neh.12.23",
+        "Neh.13.4",
+        "Neh.13.7",
+        "Neh.13.28"
+      ]
+    },
+    {
+      "name": "Sheep Gate",
+      "books_searched": 66,
+      "hits": [
+        "John.5.2",
+        "Neh.3.1",
+        "Neh.3.32",
+        "Neh.12.39"
+      ]
+    },
+    {
+      "name": "Broad Wall",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Fish Gate",
+      "books_searched": 66,
+      "hits": [
+        "2Chr.33.14",
+        "Neh.3.3",
+        "Neh.12.39",
+        "Zeph.1.10"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VT5TPD362SE90QFWVV1SRZ",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KHNJMCTTA8A1P6494"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The call to build (2:17–18) led to the work.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VT5TPD30NW8T04JW2P7BWS",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The walls broken down in 587/586 (2 Kgs 25:10) rebuilt.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VT5TPDX6EZBW1RSMYSR7J6",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7T5X4NA6JGMH4GG25"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "The earlier attempt on the walls halted under Artaxerxes (Ezra 4:23), on the majority reading.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VT5TPDZYPZYST2P497NW9P",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.31.38-Jer.31.40"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Jeremiah's promise of the city rebuilt from the Tower of Hananel to the Horse Gate.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VT5TPDFTYWSGPN447Q0TXV",
+      "type": "genealogical_connection",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4VT5TNJHKHAH0YZGRHEBGTZ"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4VS7B2DVMCBW1XZQ13TT97V"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Eliashib → Joiada → Johanan (Neh 12:10–11, 22).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VT5TNMEZBS920NPVAY80MH",
+    "cst_01M4VT5TNM3YEPJ5D7GBC93B89"
+  ]
+}

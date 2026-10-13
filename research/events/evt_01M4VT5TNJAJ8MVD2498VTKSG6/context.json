@@ -1,0 +1,150 @@
+{
+  "event_id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The account runs counter-clockwise from the Sheep Gate in the north: the towers of Hammeah and Hananel, the Fish Gate, the Old Gate, the Broad Wall, the Tower of the Furnaces, the Valley Gate, a thousand cubits to the Dung Gate, the Fountain Gate and the Pool of Shelah by the King's Garden, the stairs of the City of David, David's tombs, the Ophel and the Water Gate, the Horse Gate, the East Gate, the Miphkad Gate and back to the Sheep Gate. Builders include the high priest and priests, Levites, men of Jericho, Tekoa, Gibeon, Mizpah, Zanoah, Beth-haccherem, Beth-zur and Keilah, goldsmiths, perfumers and merchants, and district rulers.",
+    "passage": "Neh.3.1-Neh.3.32"
+  },
+  "setting": {
+    "period": "Summer–autumn 445 BC (completed on 25 Elul after 52 days, Neh 6:15)",
+    "body": "Archaeologists agree that Persian-period Jerusalem was small and largely confined to the City of David; Lipschits notes that a mid-5th-century refortification would have made Jerusalem a bîrāh replacing Mizpah as the provincial centre.",
+    "citations": [
+      "src_01M4VT5TNBMGGSC7GPAED82F2V",
+      "src_01M4VT5TN88RD5WQY6GD40EXP7"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+      "reign_id": null,
+      "role": "Governor directing the work",
+      "citations": [
+        "src_01M4VT5TMX88S9M9KF16CQSF5M"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VT5TNMEZBS920NPVAY80MH",
+      "subject": "evt_01M4VT5TNJAJ8MVD2498VTKSG6",
+      "object": "evt_01M4VS7B2KHNJMCTTA8A1P6494",
+      "relation": "after",
+      "textual_assertion": "Let us rise up and build … So they strengthened their hands for the good work",
+      "passage": "Neh.2.18",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VT5TNM3YEPJ5D7GBC93B89",
+      "subject": "evt_01M4VT5TNJAJ8MVD2498VTKSG6",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "within_reign",
+      "textual_assertion": "Nehemiah's governorship under Artaxerxes (Neh 5:14)",
+      "passage": "Neh.5.14",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Walls and gates rebuilt",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4V7CG3ZDKM95SN9B8FSNAVZ",
+      "role": "Home district of builders (3:7, 15, 19)",
+      "hypotheses": [],
+      "confidence": "probable"
+    },
+    {
+      "location_id": "loc_01M4V7CG3VP1TB3CR7PF3GKRW1",
+      "role": "Home of builders (3:2)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "ḥāzaq (\"repaired\", \"strengthened\")",
+      "gloss": "The recurring verb of the chapter (Kidner via Guzik), implying repair of existing lines as much as new building.",
+      "citations": [
+        "src_01M4VT5TMX88S9M9KF16CQSF5M"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "A mid-5th-century wall on the line of the earlier city (largely the City of David)",
+      "proponents": [
+        "K. Kenyon (as reported by Lipschits): a wall on the eastern scarp",
+        "O. Lipschits (2009): the \"missing\" wall perhaps along the eastern slope (De Groot and Ariel's construction phase)"
+      ],
+      "summary": "No secure fortification has been identified, but indirect evidence of Persian-period construction exists.",
+      "citations": [
+        "src_01M4VT5TNBMGGSC7GPAED82F2V"
+      ]
+    },
+    {
+      "label": "E. Mazar's \"Nehemiah's wall\" in the City of David (2007)",
+      "proponents": [
+        "E. Mazar (as reported by Finkelstein and Lipschits)"
+      ],
+      "summary": "Dated by fill under the northern tower; rejected as insufficient by Finkelstein and Lipschits.",
+      "citations": [
+        "src_01M4VT5TN88RD5WQY6GD40EXP7",
+        "src_01M4VT5TNBMGGSC7GPAED82F2V"
+      ]
+    },
+    {
+      "label": "No Persian-period wall has been found; Neh 3 may reflect the Hasmonean First Wall",
+      "proponents": [
+        "I. Finkelstein (2008; 2009)"
+      ],
+      "summary": "Persian Jerusalem was a few hundred people on 2–2.5 ha.",
+      "citations": [
+        "src_01M4VT5TN88RD5WQY6GD40EXP7"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VT5TMX88S9M9KF16CQSF5M",
+      "layer": "interpretation",
+      "paraphrase": "Guzik presents the chapter as a model of shared work, with the high priest first and the Tekoite nobles as a negative example.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-3/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Mapping the gates and the course of the wall is not attempted here (no gate place records yet)."
+  ],
+  "not_applicable": {}
+}

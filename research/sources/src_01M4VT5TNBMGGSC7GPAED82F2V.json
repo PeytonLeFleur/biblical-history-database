@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VT5TNBMGGSC7GPAED82F2V",
+  "title": "Persian Period Finds from Jerusalem: Facts and Interpretations",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Lipschits, Oded"
+  ],
+  "publisher": "Journal of Hebrew Scriptures 9, article 20 (2009)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://jhsonline.org/index.php/jhs/article/download/7232/5944",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Open access (JHS)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the PDF",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "§2: Jerusalem destroyed and left deserted for nearly 50 years; Nehemiah's refortification in the mid-5th century would have made it a bîrāh replacing Mizpah; archaeological data \"minimal\"; the Western Hill \"entirely abandoned\" in the Persian and early Hellenistic periods, resettled in the 2nd century BCE (the common view); on the City of David: Kenyon assigned a wall to Nehemiah and the tower to the Hasmoneans; Mazar's fill under the tower is \"certainly not sufficient grounds\" to date the tower to the 5th century or identify it as Nehemiah's wall; De Groot and Ariel's Persian-period construction phase on the eastern slope may indicate the \"missing\" wall",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read in full (PDF).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}
