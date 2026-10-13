@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V10B6G4PSBYSYMT9QMSHEP",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6DVKQQMSVEE0SNMD8B",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): \"An anointed one … cut off\"",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.144Z",
+  "decisions": [],
+  "is_fixture": false
+}

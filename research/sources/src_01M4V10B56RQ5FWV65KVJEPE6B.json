@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V10B56RQ5FWV65KVJEPE6B",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 9",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Jerome",
+    "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem 9",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read the chapter 9 commentary in the downloaded page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Darius = the Mede who with Cyrus conquered Babylon, not Darius I or III; Jerome declines to choose and reports the views of Africanus (Artaxerxes' 20th year, lunar years, to Christ), Eusebius (two schemes: high-priestly \"christs\" from Cyrus; from Darius's 6th year to Herod/Hyrcanus), Hippolytus (last week at the end of the world), Apollinaris (from Christ's birth; future rebuilding), Clement (Cyrus to Vespasian), Origen (seek the data), Tertullian (Darius's first year to Christ's birth and to Vespasian) and \"the Hebrews\" (Vespasian and Hadrian)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

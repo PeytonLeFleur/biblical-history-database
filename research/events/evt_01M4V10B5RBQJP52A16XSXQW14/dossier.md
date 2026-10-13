@@ -1,0 +1,674 @@
+# Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 1:1–4 (narration)
+- 2 Chronicles 36:22–23 (parallel_account)
+- Ezra 6:3–5 (reference): The Ecbatana memorandum.
+
+## Biblical account
+
+Cyrus, stirred by the LORD to fulfil Jeremiah's word, proclaims in writing throughout his kingdom that the God of heaven has charged him to build a house at Jerusalem, and that any of his people may go up and build it, helped by their neighbours' gifts.
+
+## Historical setting
+
+**Period:** Achaemenid Persian rule over Judah
+
+The Cyrus Cylinder (Babylon, c. 539–530) records that Cyrus returned the images of gods to their sanctuaries and gathered and returned their inhabitants for cities across the Tigris and in Sumer and Akkad; it does not name Judah or Jerusalem. [1, 2]
+
+### Rulers
+
+- Cyrus II (the Great): Issuer [2]
+
+## Date and chronology
+
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+- **538 BC – 537 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+  - Latest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Now in the first year of Cyrus king of Persia” (Ezra 1:1) → `in_regnal_year` reign of Cyrus II (the Great); assumptions: "First year of Cyrus" counted as his first Babylonian year (24 Mar 538 – Mar 537); counting from his rule in Persia would be meaningless here, since the decree presupposes the conquest of Babylon. [2]
+
+## Geography
+
+- Jerusalem (Object of the decree; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Competing reconstructions
+
+- **538 BC (Cyrus's first Babylonian year)** (D. Guzik, S. R. Driver (edict of Cyrus, 538)): Year 1 = 24 Mar 538 – Mar 537 on Nisan reckoning. [4, 5, 2]
+
+## Claims and evidence
+
+### Cyrus permitted deported peoples to return and restored their sanctuaries, as Ezra 1 describes for Judah.
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+The Cyrus Cylinder states that Cyrus returned the gods to their places and gathered and returned the inhabitants of a list of cities in Mesopotamia and beyond the Tigris. This shows a policy consistent with Ezra 1, but the Cylinder does not mention Judah or Jerusalem, so it does not corroborate the Judean decree itself.
+
+- *Supporting (indirect):* "I returned the images of the gods … to their places"; "I gathered all their inhabitants and returned to them their dwellings" — for Babylonian and trans-Tigridian cities; Judah not named. (Lines 30–33) [1]
+- *Context (contextual):* Cyrus's first Babylonian year began 1 Nisan = 24 Mar 538. (p. 14 and table) [2]
+
+*Limitations:* The Cylinder's list is regional (Mesopotamia and east of the Tigris).
+
+## Related passages and events
+
+- this event → **same event** → 2 Chronicles 36:22–23 (high): Parallel wording of the proclamation.
+- this event → **followed by** → Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12) (high): Darius finds and confirms Cyrus's memorandum (Ezra 6:1–12).
+
+## Unanswered questions and research gaps
+
+- Modern studies of the Cyrus decree's authenticity not read.
+- The Aramaic memorandum (Ezra 6:3–5) and the Hebrew proclamation (Ezra 1:2–4) differ in form; their relation was not researched.
+
+## Sources
+
+1. Cogan, Mordechai (trans., COS 2003), Schaudig, Hanspeter (edition), van der Spek, R. J.. Cyrus Cylinder — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/> — *ancient primary text; verification: claim checked*
+2. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*
+5. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*

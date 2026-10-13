@@ -1,0 +1,97 @@
+{
+  "event_id": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The house was finished on 3 Adar in Darius's sixth year and dedicated with joy and many sacrifices; priests and Levites were set in their divisions.",
+    "passage": "Ezra.6.15-Ezra.6.18"
+  },
+  "setting": {
+    "period": "Achaemenid Persian rule over Judah",
+    "body": "On Babylonian Nisan reckoning Darius's sixth year ran from spring 516 to spring 515, placing 3 Adar in late February or March 515.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "Reigning king",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V10B62NBXSSKGAPCE38HN2",
+      "subject": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+      "object": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "relation": "in_regnal_year",
+      "textual_assertion": "This house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king",
+      "passage": "Ezra.6.15",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 6,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Babylonian Nisan-based years: year 6 = spring 516 – spring 515, so Adar falls in Feb–Mar 515 (Parker & Dubberstein table)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Object of the decree",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Spring 515 BC",
+      "proponents": [
+        "Operator conversion with Parker & Dubberstein"
+      ],
+      "summary": "Adar of year 6 of Darius I.",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    },
+    {
+      "label": "Interval from 587/586: about 70 years",
+      "proponents": [
+        "Temple-desolation reading of Jeremiah's seventy years"
+      ],
+      "summary": "See Jeremiah's seventy years.",
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {
+    "commentary": "Enduring Word on Ezra/Nehemiah was not consulted in this Daniel session; Guzik's dates are recorded on the seventy-weeks prophecy."
+  }
+}

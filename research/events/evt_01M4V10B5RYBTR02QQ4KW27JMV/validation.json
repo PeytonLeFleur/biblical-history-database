@@ -1,0 +1,62 @@
+{
+  "event_id": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V10B6BWHY0132W1X7Z8RAV",
+    "rev_01M4V10B6C33P4A67R33F6WABN",
+    "rev_01M4V10B78XPDN44BGF9QT8EQA",
+    "rev_01M4V10B79ACE1VSMET4MYC97V",
+    "rev_01M4V10B7APP7CEJPJGK8XE33P"
+  ],
+  "research_gaps": [
+    "Scofield Reference Bible (1917) notes on Daniel 9 not found online in the 1917 series.",
+    "Hoehner (1977) not accessible.",
+    "Josephus B.J. on Onias not read directly.",
+    "Old Greek and Theodotion of 9:24–27 not read (only as quoted by Driver).",
+    "Qumran use of the seventy weeks (e.g. 11QMelchizedek) not researched."
+  ],
+  "disputes": [
+    "Onias III, the legitimate high priest, was murdered near Antioch at the instigation of Menelaus (c. 171 BC).",
+    "1 Nisan of Artaxerxes I's twentieth year fell on 14 March 445 BC."
+  ],
+  "export_eligible": true
+}

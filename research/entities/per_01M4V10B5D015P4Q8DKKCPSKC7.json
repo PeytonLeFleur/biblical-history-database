@@ -1,0 +1,29 @@
+{
+  "kind": "person",
+  "id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+  "slug": "artaxerxes-i",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
+  "notes": null,
+  "canonical_name": "Artaxerxes I (Longimanus)",
+  "aliases": [
+    {
+      "alias": "Artaxerxes Longimanus",
+      "language": "English (from Greek)",
+      "source_id": "src_01M4TSKK83SFG091RT082Z4EXG",
+      "passage": null
+    },
+    {
+      "alias": "Artaxerxes",
+      "language": "Hebrew/Aramaic",
+      "source_id": null,
+      "passage": "Ezra.7.1"
+    }
+  ],
+  "description": "Achaemenid king (accession 465/464, died 424/423 BC). The Artaxerxes of Ezra 7 and Nehemiah 2 is identified with him by most interpreters consulted; an identification of Ezra's Artaxerxes with Artaxerxes II is noted by Newton (Funccius) and is not adopted here.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

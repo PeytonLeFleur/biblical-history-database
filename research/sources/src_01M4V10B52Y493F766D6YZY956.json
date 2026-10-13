@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V10B52Y493F766D6YZY956",
+  "title": "Daniel 9 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-9/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the commentary on Daniel 9",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Darius not identified beyond the text; prayer 3–4 years before 70 years from 605 ran out; Jeremiah's 70 years literal (Jer 25:11–13; 29:10), deportations 605/597/587; four candidate decrees (Cyrus 538, Darius 517, Artaxerxes 458, Artaxerxes 445) and only Neh 2 orders the street and wall; 1 Nisan 445 = 14 March; Anderson's 360-day years, 173,880 days to 6 April AD 32 (triumphal entry); notes AD 32 is controversial (most prefer 30 or 33); gap between weeks 69 and 70; the prince who is to come = Antichrist, heir of Rome; covenant with \"the many\" = Israel",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

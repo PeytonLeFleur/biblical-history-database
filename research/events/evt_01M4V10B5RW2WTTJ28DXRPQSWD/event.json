@@ -1,0 +1,59 @@
+{
+  "id": "evt_01M4V10B5RW2WTTJ28DXRPQSWD",
+  "slug": "gabriel-brings-the-seventy-weeks-dan-9",
+  "title": "Gabriel comes at the evening offering with the word of the seventy weeks (Dan 9:20–27)",
+  "summary": "While Daniel is still praying, Gabriel arrives about the time of the evening offering and gives him the word of the seventy weeks. This record is the narrated encounter; the prophecy and its interpretations are a separate record.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4V10B5RJNBFFGDX6CDZRKSM"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "apocalyptic_vision",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.9.20-Dan.9.23",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

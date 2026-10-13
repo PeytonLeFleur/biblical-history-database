@@ -1,0 +1,66 @@
+{
+  "id": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+  "slug": "daniel-prays-over-jeremiahs-seventy-years-dan-9",
+  "title": "Daniel reads Jeremiah's seventy years and prays (Dan 9:1–19)",
+  "summary": "In the first year of Darius the Mede, Daniel understands from the books that Jeremiah's seventy years for Jerusalem's desolation are nearing completion, and with fasting confesses Israel's sin and asks God to restore his city and sanctuary.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4V10B5RNMFMTTS3P6TCFZ3R",
+    "cnd_01M4V10B5RHSGDH5WH5KESH4N9",
+    "cnd_01M4V10B5RPCC19YSH039WDK7J"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.9.1-Dan.9.2",
+      "mention_type": "superscription",
+      "notes": "First year of Darius son of Ahasuerus."
+    },
+    {
+      "passage": "Dan.9.3-Dan.9.19",
+      "mention_type": "narration",
+      "notes": "The prayer."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

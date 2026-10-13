@@ -1,0 +1,511 @@
+{
+  "event_id": "evt_01M4V10B5RW2WTTJ28DXRPQSWD",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V10B6D4DS533EHHTKHYJ82",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4RSRHM7B6RCC44X9Z519KP5"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"An anointed one, a prince\" (9:25) is Cyrus, called the LORD's anointed in Isa 45:1.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver (Graetz and Bevan: Jeshua instead)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6DVKQQMSVEE0SNMD8B",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4V10B5J7ZTZ26HVWHXM17W3"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"An anointed one … cut off\" (9:26) is the murdered high priest Onias III.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TSKK81W6HP2HFZ7744DHRG"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver; Montgomery",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6DXWCXVGTATF987FVD",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TSKK8XVDZBQ6226SB3WHWE"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"The prince who comes\" and the one who stops the sacrifice (9:26–27) is Antiochus IV.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TSKK81W6HP2HFZ7744DHRG"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver; Montgomery",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6D3XVHWF8W08ZAE0QZ",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"The people of the prince who comes\" who destroy city and sanctuary (9:26) are the Romans (AD 70).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4V10B52Y493F766D6YZY956",
+          "src_01M4V10B56RQ5FWV65KVJEPE6B"
+        ]
+      },
+      "interpretive_approach": "mixed",
+      "proposed_by": "Newton; Guzik; Eusebius and \"the Hebrews\" (per Jerome)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6DTHRQ7TZ0QZX3YFMW",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Luke.19.37-Luke.19.40"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The sixty-nine weeks end \"unto Messiah the Prince\" at Jesus' entry into Jerusalem (6 April AD 32 in Anderson's reckoning).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V10B58H26PE3KJR06XESP7",
+          "src_01M4V10B52Y493F766D6YZY956"
+        ]
+      },
+      "interpretive_approach": "futurist",
+      "proposed_by": "Anderson; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6DVGR34JYPAATGCCVQ",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Luke.23.44-Luke.23.46"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"The Anointed One will be cut off\" (9:26) is the crucifixion of Jesus.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4V10B56RQ5FWV65KVJEPE6B",
+          "src_01M4TTS0H8BP0WSKFR1FQAZ7MF"
+        ]
+      },
+      "interpretive_approach": "mixed",
+      "proposed_by": "Newton; Africanus (per Jerome); Miller",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6D9KTN7M7SABRGA2ZD",
+      "type": "prophecy_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Cyrus's decree as the \"going out of the word\" or as the end of the first seven weeks.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V10B56RQ5FWV65KVJEPE6B"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver (as the 7-week mark); Eusebius, Clement (per Jerome)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6DWXYR71MMZYWPMGYM",
+      "type": "prophecy_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Artaxerxes' decree to Ezra (458/457) as the start of the 490 years.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4TTS0H8BP0WSKFR1FQAZ7MF"
+        ]
+      },
+      "interpretive_approach": "historicist",
+      "proposed_by": "Newton; Miller",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6DP2ZRY6H196XKT89Y",
+      "type": "prophecy_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Artaxerxes' commission to Nehemiah (445/444) as the start of the 69 weeks.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V10B56RQ5FWV65KVJEPE6B",
+          "src_01M4V10B58H26PE3KJR06XESP7",
+          "src_01M4V10B52Y493F766D6YZY956"
+        ]
+      },
+      "interpretive_approach": "futurist",
+      "proposed_by": "Africanus (per Jerome); Anderson; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6D34G3NMFT3A2SBHZK",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Jeremiah's seventy years end with Babylon's fall (Jer 25:12).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V10B52Y493F766D6YZY956"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6DRWFSD681DCG71V2J",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Cyrus's first-year proclamation accomplishes Jeremiah's word.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "2 Chronicles 36:22; Ezra 1:1 (text); Driver",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6D1JWVMFXJBWBZENQM",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The seventy years of the Temple's desolation end with its completion in Darius's sixth year.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V10B56RQ5FWV65KVJEPE6B"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Zechariah 1:12 (text); Jerome",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V10B6ESJYWG0D0GD4PFZK2",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RW2WTTJ28DXRPQSWD"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TTS0HJDA2YJWP49F063JPG"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Gabriel \"whom I had seen in the vision at the beginning\" (9:21; 8:16).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6EEC2Y490D055NZBS7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJXX550DZHSC4HAMTK"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Montgomery equates the half-week with the 2,300 evenings and mornings (1,150 days); Clement (per Jerome) added the 2,300 days to the 490 years.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK81W6HP2HFZ7744DHRG",
+          "src_01M4V10B56RQ5FWV65KVJEPE6B"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6E5V6Z0K5608VSXQ9R",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJHRJFX1S7T5Q8M43B"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "In the Maccabean reading the one who stops the sacrifice is the same king as the little horn of ch. 8.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6ERZAN3N2JQXTTS03F",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.24.15"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jesus cites \"the abomination of desolation, spoken of through Daniel the prophet\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6EWKZEA0GM6E7X0REQ",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.11.31"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The continual burnt offering removed and \"the abomination that makes desolate\" set up.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6EYBY3TZMPYMT43242",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Lev.25.8"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Seven sabbaths of years (49) — the jubilee pattern behind \"seven weeks\" (Newton).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK83SFG091RT082Z4EXG"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6EZJSQKH8PRF1RMRTD",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RW2WTTJ28DXRPQSWD"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Luke.1.19"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Gabriel reappears in Luke 1:19, 26.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V10B62N1B31NHQAVA5J4S5"
+  ]
+}

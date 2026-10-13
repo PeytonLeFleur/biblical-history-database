@@ -1,0 +1,276 @@
+{
+  "event_id": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 9",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Jerome on Daniel 9 (local text): catalogue of seventy-weeks interpretations",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Driver 1900 pp. 126–150; Montgomery 1927 on 9:24–27; Newton ch. 10; Miller 1842 (local OCR texts)",
+      "engine": "local text",
+      "useful_results": 4,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: Anderson, The Coming Prince",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": "First download returned HTTP 500; retried successfully."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: Scofield Reference Bible 1917 (Daniel volume)",
+      "engine": "archive.org",
+      "useful_results": 0,
+      "notes": "Only NT volumes of the 1917 series found; Scofield notes not read."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Parker & Dubberstein: Darius I, Xerxes, Artaxerxes I evidence and year tables",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "WEB 2 Maccabees 4 (USFM)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Cyrus Cylinder lines 30–34 (Livius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": "Judah and Jerusalem are not named."
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V10B64TNJDFVD6BCKBYYPV",
+      "statement": "Onias III, the legitimate high priest, was murdered near Antioch at the instigation of Menelaus (c. 171 BC).",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "disputed",
+      "reasoning": "2 Maccabees narrates the murder at Daphne; Driver reports that historians generally accept it (Ewald, Schürer, Graetz). But 2 Maccabees alone records it, and Josephus elsewhere (B.J.) has Onias flee to Egypt and found the Leontopolis temple; Wellhausen rejected the 2 Maccabees account (as reported by Driver). The identification of Onias with the \"anointed one\" of 9:26 is a separate, interpretive question.",
+      "supporting_evidence": [
+        "evd_01M4V10B643XQBK5G6JCY3PJDB",
+        "evd_01M4V10B645EKR4DCDH1801S2S"
+      ],
+      "counterevidence": [
+        "evd_01M4V10B64TWT2G287CBHAMCEP"
+      ],
+      "contextual_evidence": [],
+      "limitations": [
+        "Josephus not read directly on this point."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V10B645T6JQZTT3GX6AK4A",
+      "statement": "1 Nisan of Artaxerxes I's twentieth year fell on 14 March 445 BC.",
+      "layer": "reconstruction",
+      "passage": "Neh.2.1",
+      "classification": "disputed",
+      "reasoning": "Anderson derives 14 March from the astronomical new moon of 13 March 445 (Airy). Parker & Dubberstein's Babylonian calendar table, based on cuneiform intercalations and computed first visibility, gives 13 April 445 for 1 Nisan of year 20. The Judean calendar of Nehemiah's day need not have matched the Babylonian, so the table does not settle it, but the 14 March date is not the Babylonian one.",
+      "supporting_evidence": [
+        "evd_01M4V10B64Y3P1MJP169E0TW6M"
+      ],
+      "counterevidence": [
+        "evd_01M4V10B643M07DARMR8CHGDDF"
+      ],
+      "contextual_evidence": [],
+      "limitations": [
+        "Babylonian vs Judean intercalation not researched."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V10B64R2AWKKZA96V0F6RF",
+      "statement": "Gabriel brought Daniel the word of the seventy weeks.",
+      "layer": "text",
+      "passage": "Dan.9.21",
+      "classification": "not_empirically_testable",
+      "reasoning": "An angelic revelation cannot be assessed historically. This is not a theological verdict.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V10B64ARCSCAC7XX5YK3H5",
+      "statement": "Ancient Jewish and Christian chronographers overestimated the length of the Persian period.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Driver and Montgomery (after Schürer) cite Demetrius and Josephus as overestimating the interval from the exile to the Hellenistic period by decades — the basis on which critical scholars explain the 67-year excess in a Maccabean reading. Demetrius's figures are textually uncertain (Behrmann, as reported by Driver), and the primary texts were not read here.",
+      "supporting_evidence": [
+        "evd_01M4V10B6494N24T765BP3FKFJ"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Demetrius and Josephus not read directly on this point."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V10B643XQBK5G6JCY3PJDB",
+      "claim_ids": [
+        "clm_01M4V10B64TNJDFVD6BCKBYYPV"
+      ],
+      "source_id": "src_01M4V10B5ARS1VB0TJSYPGYT09",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Onias, in sanctuary at Daphne near Antioch, is lured out and killed by Andronicus at Menelaus's request; the king later executes Andronicus.",
+      "locator": "2 Macc 4:33–38",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "2-maccabees"
+    },
+    {
+      "id": "evd_01M4V10B645EKR4DCDH1801S2S",
+      "claim_ids": [
+        "clm_01M4V10B64TNJDFVD6BCKBYYPV"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The account \"is accepted generally by historians\" (Ewald, Schürer, Graetz).",
+      "locator": "p. 140 n. 1",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V10B64TWT2G287CBHAMCEP",
+      "claim_ids": [
+        "clm_01M4V10B64TNJDFVD6BCKBYYPV"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "2 Maccabees alone records it; Josephus (B.J. 1.1.1; 7.10.2–3) has Onias himself flee to Egypt and found the temple at Leontopolis; Wellhausen rejected the account.",
+      "locator": "p. 140 n. 1",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus-via-driver"
+    },
+    {
+      "id": "evd_01M4V10B64Y3P1MJP169E0TW6M",
+      "claim_ids": [
+        "clm_01M4V10B645T6JQZTT3GX6AK4A"
+      ],
+      "source_id": "src_01M4V10B58H26PE3KJR06XESP7",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "New moon 13 March 445 BC at 7h 9m (Jerusalem), from Airy's letter of 26 June 1877; \"the 1st Nisan may be assigned to the 14th March\".",
+      "locator": "pp. 123–124 and note",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "anderson-airy"
+    },
+    {
+      "id": "evd_01M4V10B643M07DARMR8CHGDDF",
+      "claim_ids": [
+        "clm_01M4V10B645T6JQZTT3GX6AK4A"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "1 Nisan of year 20 = 13 April 445 BC in the Babylonian calendar.",
+      "locator": "Table, Artaxerxes I year 20",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4V10B6494N24T765BP3FKFJ",
+      "claim_ids": [
+        "clm_01M4V10B64ARCSCAC7XX5YK3H5"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Josephus reckons 639 years from Cyrus's second year to AD 70 and other overestimates; Demetrius reckons 573 years from the fall of Samaria to Ptolemy IV — about 73 too many.",
+      "locator": "p. 147",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Scofield Reference Bible (1917) notes on Daniel 9 not found online in the 1917 series.",
+    "Hoehner (1977) not accessible.",
+    "Josephus B.J. on Onias not read directly.",
+    "Old Greek and Theodotion of 9:24–27 not read (only as quoted by Driver).",
+    "Qumran use of the seventy weeks (e.g. 11QMelchizedek) not researched."
+  ]
+}

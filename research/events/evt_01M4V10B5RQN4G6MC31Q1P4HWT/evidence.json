@@ -1,0 +1,85 @@
+{
+  "event_id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Parker & Dubberstein: Darius I, Xerxes, Artaxerxes I evidence and year tables",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V10B6C9N62M13V3D7A5P68",
+      "statement": "Darius I reigned from 522/521 to 486 BC, so his second and sixth years fall in 520/519 and 516/515.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Babylonian contracts dated by Darius from early 521 to late 486, with a gap during the revolts, fix his regnal years.",
+      "supporting_evidence": [
+        "evd_01M4V10B6CGY82ARKK6GJHRYKA"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "The decree itself is attested only in Ezra."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V10B6CGY82ARKK6GJHRYKA",
+      "claim_ids": [
+        "clm_01M4V10B6C9N62M13V3D7A5P68"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Darius I recognised in Babylonia from Feb 521 (possibly Dec 522); died Nov 486; year 1 began Nisan 521.",
+      "locator": "pp. 12–15; table",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "The Ecbatana archive and the Aramaic letters in Ezra 4–6 not researched from modern studies."
+  ]
+}

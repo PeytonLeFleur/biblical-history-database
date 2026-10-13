@@ -1,0 +1,95 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7",
+  "slug": "jeremiahs-seventy-years",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "Jeremiah's seventy years (Jer 25:11–12; 29:10; read in Dan 9:2)",
+  "passage": "Jer.25.11-Jer.25.12",
+  "speaker": "Jeremiah",
+  "vision_id": null,
+  "description": "The nations will serve the king of Babylon seventy years; when they are completed Babylon will be punished (Jer 25:11–12) and the exiles visited and returned (29:10). Daniel reads it as seventy years \"for the desolations of Jerusalem\" (Dan 9:2).",
+  "in_text_interpretation": "Later biblical texts apply it differently: 2 Chr 36:21–22 to the land's sabbath rest until the kingdom of Persia and Cyrus's first year; Zech 1:12 (Darius's second year) to \"these seventy years\" of indignation against Jerusalem; Dan 9:24 extends it to seventy weeks.",
+  "interpretations": [
+    {
+      "id": "ful_01M4V10B5SNRJ69SACJYADEKGN",
+      "label": "Babylonian supremacy: c. 609/605 to 539/538 BC",
+      "approach": "preterist",
+      "framework": "Historical-critical and conservative",
+      "proponents": [
+        "S. R. Driver (1900): \"the 70 years of the Chaldaean supremacy\"",
+        "D. Guzik (counting from 605, the first deportation)"
+      ],
+      "summary": "Textual reasoning: Jer 25:11 speaks of the nations serving the king of Babylon; 25:12 ends the period with Babylon's punishment. Historical evidence: Babylon fell in Oct 539 (Nabonidus Chronicle) and Cyrus's first Babylonian year began Nisan 538. Objection: 605–539 is 66 years, so \"seventy\" is taken as round or the end point moved later (Guzik: the period still had \"three or four years\" to run at Dan 9).",
+      "referents": [
+        {
+          "symbol": "Seventy years",
+          "referent": "From Babylon's rise over Judah to its fall"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+        "evt_01M4V10B5RBQJP52A16XSXQW14"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4V10B52Y493F766D6YZY956"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5SH05GBCYZEMREKJKR",
+      "label": "Desolation of the Temple: 587/586 to 516/515 BC",
+      "approach": "preterist",
+      "framework": "Inner-biblical reading (Zechariah); patristic",
+      "proponents": [
+        "Zechariah 1:12; 7:5 (text, in Darius I's 2nd and 4th years)",
+        "Jerome (\"seventy years for the desolation of the Temple\")"
+      ],
+      "summary": "Textual reasoning: in Darius I's second year (Zech 1:7, 12) the angel still speaks of \"these seventy years\" of indignation against Jerusalem, and the Temple was finished in Darius's sixth year (Ezra 6:15). From the destruction (587/586) to the completion (Adar 515) is about 70 years (operator arithmetic). Objection: Jeremiah's own wording is about serving Babylon, not the Temple.",
+      "referents": [
+        {
+          "symbol": "Seventy years",
+          "referent": "From the Temple's destruction to its rebuilding"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B",
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5S9QV2AM1SPKA773XH",
+      "label": "The land's sabbaths, ended by Cyrus's decree (Chronicler)",
+      "approach": "preterist",
+      "framework": "Inner-biblical reading (Chronicles)",
+      "proponents": [
+        "2 Chronicles 36:20–22 (text)",
+        "S. R. Driver (on Dan 9:2 and 9:24)"
+      ],
+      "summary": "The Chronicler joins Jeremiah's seventy years to the land enjoying its sabbaths (Lev 26:34–35) \"until the reign of the kingdom of Persia\", and dates Cyrus's proclamation to his first year \"that the LORD's word by Jeremiah's mouth might be accomplished\". Driver notes that Dan 9:24 develops this sabbatical reading into seventy weeks of years.",
+      "referents": [
+        {
+          "symbol": "Seventy years",
+          "referent": "The land's sabbath rest until Cyrus"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5RBQJP52A16XSXQW14"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

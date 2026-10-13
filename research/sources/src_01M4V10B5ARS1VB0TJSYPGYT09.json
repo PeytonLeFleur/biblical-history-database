@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V10B5ARS1VB0TJSYPGYT09",
+  "title": "World English Bible — Apocrypha/Deuterocanon (2 Maccabees 4)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 2 Macc 4",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read 2 Maccabees 4 in the downloaded USFM (53-2MAeng-web.usfm)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "4:7–10 Jason supplants his brother Onias under Antiochus Epiphanes; 4:23–26 Menelaus outbids Jason after three years; 4:33–38 Onias, having taken refuge at Daphne near Antioch, is killed by Andronicus at Menelaus's request, and the king later has Andronicus executed",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

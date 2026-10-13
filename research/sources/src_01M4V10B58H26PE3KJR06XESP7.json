@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V10B58H26PE3KJR06XESP7",
+  "title": "The Coming Prince, or the Seventy Weeks of Daniel (11th edition)",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Anderson, Sir Robert"
+  ],
+  "publisher": "Pickering & Inglis (Glasgow), n.d. (first ed. 1881)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/comingprince01ande",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (author d. 1918)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Summary pp. vi–vii: decree of Artaxerxes in Nisan of his 20th year, 445 BC; 1 Nisan 445 = 14 March (new moon 13 March 445, 7h 9m, from a calculation sent by G. B. Airy, Royal Observatory, 26 June 1877); 69 weeks = 173,880 days of 360-day years, ending 6 April AD 32, the entry into Jerusalem (Zech 9:9); p. 77: \"a gap or parenthesis\" before the seventieth week, which is \"of necessity still future\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (eleventh edition). Archive metadata gives 1900; the volume itself is undated.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_01M4V10B5RW2WTTJ28DXRPQSWD",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 9",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Jerome on Daniel 9 (local text): catalogue of seventy-weeks interpretations",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V10B6CQXMPWDVY9YQ66131",
+      "statement": "Gabriel appeared to Daniel at the time of the evening offering.",
+      "layer": "text",
+      "passage": "Dan.9.21",
+      "classification": "not_empirically_testable",
+      "reasoning": "An angelic appearance cannot be assessed historically. This is not a theological verdict.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

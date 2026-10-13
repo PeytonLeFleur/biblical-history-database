@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_01M4V10B5RW2WTTJ28DXRPQSWD",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "While Daniel is still praying, Gabriel comes in swift flight about the time of the evening offering, says that a word went out at the beginning of Daniel's supplications because he is greatly loved, and gives him the word of the seventy weeks (recorded separately as a prophecy).",
+    "passage": "Dan.9.20-Dan.9.27"
+  },
+  "setting": {
+    "period": "As the prayer (same day)",
+    "body": "The \"evening offering\" names a time of day in a period when, on the text's setting, the Temple lay in ruins; Jerome takes it to show that Daniel prayed from the morning to the evening sacrifice.",
+    "citations": [
+      "src_01M4V10B56RQ5FWV65KVJEPE6B"
+    ]
+  },
+  "rulers": [],
+  "kingdoms": [],
+  "constraints": [
+    {
+      "id": "cst_01M4V10B62N1B31NHQAVA5J4S5",
+      "subject": "evt_01M4V10B5RW2WTTJ28DXRPQSWD",
+      "object": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+      "relation": "days_later",
+      "textual_assertion": "While I was speaking … about the time of the evening offering",
+      "passage": "Dan.9.20-Dan.9.21",
+      "offset": {
+        "min": 0,
+        "max": 0
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [
+    {
+      "term": "evening offering (minchah)",
+      "gloss": "The afternoon/evening grain offering, used here as a time marker.",
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4V10B52Y493F766D6YZY956",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that the answer was sent at the beginning of the prayer and that Gabriel came at the hour of the evening sacrifice.",
+      "url": "https://enduringword.com/bible-commentary/daniel-9/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "competing_reconstructions": "No competing reconstructions of the encounter itself; interpretations of the prophecy are on the prophecy record."
+  }
+}

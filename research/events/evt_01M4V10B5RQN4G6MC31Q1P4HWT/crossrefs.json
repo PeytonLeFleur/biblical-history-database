@@ -1,0 +1,61 @@
+{
+  "event_id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V10B6E65QCQ7FSC41MPSZ1",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Temple was finished under the decree (Ezra 6:14–15).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6EQVNWWDCVQMQBPA8D",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Hag.1.1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Haggai's call to rebuild in Darius's second year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V10B62G8NJPA3YY2F4355R",
+    "cst_01M4V10B625G08HZKETKM6ZVGT"
+  ]
+}

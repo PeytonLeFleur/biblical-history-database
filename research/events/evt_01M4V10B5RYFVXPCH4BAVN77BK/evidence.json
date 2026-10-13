@@ -1,0 +1,110 @@
+{
+  "event_id": "evt_01M4V10B5RYFVXPCH4BAVN77BK",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Driver 1900 pp. 126–150; Montgomery 1927 on 9:24–27; Newton ch. 10; Miller 1842 (local OCR texts)",
+      "engine": "local text",
+      "useful_results": 4,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Parker & Dubberstein: Darius I, Xerxes, Artaxerxes I evidence and year tables",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V10B6DAHV4DKQ6SN97EHT5",
+      "statement": "Ezra's journey (1 Nisan – 1 Ab of Artaxerxes' seventh year) fell between 8 April and 4 August 458 BC.",
+      "layer": "reconstruction",
+      "passage": "Ezra.7.9",
+      "classification": "historically_plausible",
+      "reasoning": "If the king is Artaxerxes I and years are counted from Nisan, Parker & Dubberstein's table gives these dates. Both assumptions are common but not proven: Newton reports a view placing Ezra under Artaxerxes II, and Miller counts the decree as 457.",
+      "supporting_evidence": [
+        "evd_01M4V10B6DN6X4FXNF3RS1WZ3P"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V10B6DS3RMTQWKFZEQ3MG4"
+      ],
+      "limitations": [
+        "Identity of Artaxerxes not independently established."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V10B6DN6X4FXNF3RS1WZ3P",
+      "claim_ids": [
+        "clm_01M4V10B6DAHV4DKQ6SN97EHT5"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "1 Nisan = 8 Apr 458; month V begins 4 Aug 458.",
+      "locator": "Artaxerxes I table, year 7",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4V10B6DS3RMTQWKFZEQ3MG4",
+      "claim_ids": [
+        "clm_01M4V10B6DAHV4DKQ6SN97EHT5"
+      ],
+      "source_id": "src_01M4TSKK83SFG091RT082Z4EXG",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Ezra's seventh year of Artaxerxes Longimanus = Ol. 80.3, Julian Period 4257; mentions Funccius placing Ezra under Artaxerxes Mnemon.",
+      "locator": "ch. 10",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "newton"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Modern Ezra–Nehemiah chronology not read."
+  ]
+}

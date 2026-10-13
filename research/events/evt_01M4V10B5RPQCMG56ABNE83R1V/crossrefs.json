@@ -1,0 +1,36 @@
+{
+  "event_id": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V10B6E73BMV8KDHSQRP1TE",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Zech.1.12"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"These seventy years\" of indignation, spoken in Darius's second year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V10B62NBXSSKGAPCE38HN2"
+  ]
+}

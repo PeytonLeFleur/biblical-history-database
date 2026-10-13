@@ -1,0 +1,108 @@
+{
+  "event_id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Darius orders the archives searched; a scroll found at Achmetha in Media records Cyrus's first-year decree for the Temple; Darius orders the governor not to hinder the work and to pay its costs from royal revenue.",
+    "passage": "Ezra.6.1-Ezra.6.12"
+  },
+  "setting": {
+    "period": "Achaemenid Persian rule over Judah",
+    "body": "Darius I became king in 522 after killing Bardiya (Behistun) and was recognised in Babylonia from early 521. Haggai and Zechariah date their prophecies about the rebuilding to his second year (Hag 1:1; Zech 1:1).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "Issuer",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V10B62G8NJPA3YY2F4355R",
+      "subject": "evt_01M4V10B5RQN4G6MC31Q1P4HWT",
+      "object": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "relation": "years_later",
+      "textual_assertion": "It stopped until the second year of the reign of Darius … Then Darius the king made a decree",
+      "passage": "Ezra.4.24-Ezra.6.1",
+      "offset": {
+        "min": 1,
+        "max": 7
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "After work resumed in Darius's 2nd year (Ezra 4:24; 5:1–5) and before the Temple's completion in his 6th (6:15); offset measured from the accession window (Sep 522 – Feb 521)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "operator_inference"
+    },
+    {
+      "id": "cst_01M4V10B625G08HZKETKM6ZVGT",
+      "subject": "evt_01M4V10B5RQN4G6MC31Q1P4HWT",
+      "object": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+      "relation": "before",
+      "textual_assertion": "They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes",
+      "passage": "Ezra.6.14-Ezra.6.15",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Object of the decree",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "c. 520–517 BC",
+      "proponents": [
+        "D. Guzik (517)"
+      ],
+      "summary": "Between the resumption of work in Darius's second year and the completion in his sixth.",
+      "citations": [
+        "src_01M4V10B52Y493F766D6YZY956"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [
+    "Ecbatana (Achmetha) not yet entered as a place record."
+  ],
+  "not_applicable": {
+    "commentary": "Enduring Word on Ezra/Nehemiah was not consulted in this Daniel session; Guzik's dates are recorded on the seventy-weeks prophecy."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "event_id": "evt_01M4V10B5RYFVXPCH4BAVN77BK",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Artaxerxes' letter authorises Ezra, priest and scribe, to go up with any Israelites who wish, to carry silver and gold for the Temple, to draw on the provincial treasury, and to appoint magistrates and judges who know the law of God.",
+    "passage": "Ezra.7.1-Ezra.7.26"
+  },
+  "setting": {
+    "period": "Achaemenid Persian rule over Judah",
+    "body": "Artaxerxes I acceded in late 465/early 464 (Elephantine papyrus Cowley 6); his seventh Babylonian year began 8 Apr 458 and its fifth month (Ab) on 4 Aug 458. Driver notes that the decree says nothing about rebuilding Jerusalem.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "Issuer",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V10B625DT4XFPS2V7DDAC6",
+      "subject": "evt_01M4V10B5RYFVXPCH4BAVN77BK",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "in_regnal_year",
+      "textual_assertion": "went up to Jerusalem in the seventh year of Artaxerxes the king",
+      "passage": "Ezra.7.7-Ezra.7.9",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 7,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Artaxerxes of Ezra 7 = Artaxerxes I (the majority view among sources read; Newton reports Funccius placing Ezra under Artaxerxes II).",
+        "Nisan reckoning: year 7 began 1 Nisan = 8 Apr 458; Ezra arrived 1 Ab = 4 Aug 458 (Parker & Dubberstein table)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN",
+        "src_01M4TSKK83SFG091RT082Z4EXG"
+      ],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Object of the decree",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "458 BC (Nisan reckoning)",
+      "proponents": [
+        "Parker & Dubberstein table (operator conversion)",
+        "D. Guzik (458)"
+      ],
+      "summary": "Departure 1 Nisan = 8 Apr 458; arrival 1 Ab = 4 Aug 458.",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN",
+        "src_01M4V10B52Y493F766D6YZY956"
+      ]
+    },
+    {
+      "label": "457 BC",
+      "proponents": [
+        "W. Miller (1842)",
+        "I. Newton (Julian Period 4257 for the journey; autumn reckoning)"
+      ],
+      "summary": "Counts the decree's execution from the following autumn or uses a different year count.",
+      "citations": [
+        "src_01M4TTS0H8BP0WSKFR1FQAZ7MF",
+        "src_01M4TSKK83SFG091RT082Z4EXG"
+      ]
+    },
+    {
+      "label": "Ezra under Artaxerxes II",
+      "proponents": [
+        "Funccius (reported by Newton)"
+      ],
+      "summary": "Would move the decree to 398 BC; not researched further here.",
+      "citations": [
+        "src_01M4TSKK83SFG091RT082Z4EXG"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [
+    "The Ezra–Nehemiah order (Artaxerxes I or II for Ezra) not researched from modern studies."
+  ],
+  "not_applicable": {
+    "commentary": "Enduring Word on Ezra/Nehemiah was not consulted in this Daniel session; Guzik's dates are recorded on the seventy-weeks prophecy."
+  }
+}

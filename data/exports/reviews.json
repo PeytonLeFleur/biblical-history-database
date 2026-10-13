@@ -609,5 +609,369 @@
   "status": "open",
   "created_at": "2026-10-13T14:31:00.440Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6BWHY0132W1X7Z8RAV",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V10B64TNJDFVD6BCKBYYPV",
+  "record_revision": 1,
+  "reason": "Disputed: the murder of Onias III (2 Macc 4) vs Josephus's account",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.139Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6C33P4A67R33F6WABN",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V10B645T6JQZTT3GX6AK4A",
+  "record_revision": 1,
+  "reason": "Disputed: 1 Nisan 445 BC — 14 March (Anderson) or 13 April (Parker & Dubberstein)",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.140Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6F9YZEVXESG01WHE99",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6D4DS533EHHTKHYJ82",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): \"An anointed one, a prince\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.143Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6G4PSBYSYMT9QMSHEP",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6DVKQQMSVEE0SNMD8B",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): \"An anointed one … cut off\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.144Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6H2W4SPYE37G69NY3K",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6D3XVHWF8W08ZAE0QZ",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): \"The people of the prince who comes\" who destroy city and sanctuary",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.145Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6H9S2WN9RMRQ1JN57A",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6DXWCXVGTATF987FVD",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): \"The prince who comes\" and the one who stops the sacrifice",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.145Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6JFS15ZRCKNBYVVZDV",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6DTHRQ7TZ0QZX3YFMW",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): The sixty-nine weeks end \"unto Messiah the Prince\" at Jesus' entry into Jerusalem",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.146Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6K9TBGKKE8NA6XB52Y",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6DVGR34JYPAATGCCVQ",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): \"The Anointed One will be cut off\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.147Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6MVCGZSP93JF04TRMJ",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6D9KTN7M7SABRGA2ZD",
+  "record_revision": 1,
+  "reason": "Proposed starting point (Dan 9): Cyrus's decree as the \"going out of the word\" or as the end of the first seven weeks",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.148Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6N61WVDDD67GD6BB6V",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6DWXYR71MMZYWPMGYM",
+  "record_revision": 1,
+  "reason": "Proposed starting point (Dan 9): Artaxerxes' decree to Ezra",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.149Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6NAFJ3BE46HNZNBQPC",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6DP2ZRY6H196XKT89Y",
+  "record_revision": 1,
+  "reason": "Proposed starting point (Dan 9): Artaxerxes' commission to Nehemiah",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.149Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6PHGDMQGEQGYE95FBR",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6D34G3NMFT3A2SBHZK",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): Jeremiah's seventy years end with Babylon's fall",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.150Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6QB53GY3KP98EJAZ87",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6DRWFSD681DCG71V2J",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): Cyrus's first-year proclamation accomplishes Jeremiah's word",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.151Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6RF3NGPQKC0NV64HEM",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V10B6D1JWVMFXJBWBZENQM",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 9): The seventy years of the Temple's desolation end with its completion in Darius's sixth year",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.152Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6WND5AN16D7SJ5NEJ0",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5XE7E3Q7AQ674BPR8Y",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Maccabean: 587 BC to Cyrus, to the murder of Onias III (171), to Antiochus IV (164)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.156Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6XGPCNTZ8TAMVQV5RH",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5XHV2YQ4XTG8T54ZE2",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Maccabean variant: overlapping weeks from Jer 25 (605 BC)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.157Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6YST4H050F9DXYF8ZS",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5X3V9AT8Z0VK1NW4DH",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Messianic, continuous: from Artaxerxes' seventh year (Ezra 7) to Christ",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.158Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6ZQT6N2EX96P8P9PH8",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5X5XXMNAWVPKQY7HMD",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Africanus: Artaxerxes' 20th year to Christ in lunar years (reported by Jerome)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.159Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B6ZZ9PC98J0ZP595FH1",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5X4X336H9438F49GFT",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Messianic with a gap: 69 weeks from Artaxerxes' twentieth year to the triumphal entry; the 70th week future",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.159Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B70M0A60KNHRAV139ZT",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5XGFRSWZN3GRRWPK01",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Eusebius (1): the anointed are the high priests from Jeshua to Alexander Jannaeus (reported by Jerome)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.160Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B712TWPS0A1R0HDKB58",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5XJYZVWTHG4HHBF445",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Eusebius (2): from Darius's sixth year to Herod; the half-week is Christ's ministry (reported by Jerome)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.161Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B72NCY4N8C1R03Z1DHK",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5X6XBRCGN5ZZDYP061",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Hippolytus: 62 weeks to Christ's birth; the last week at the end of the world (reported by Jerome)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.162Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B73CST0SABGG25Z2SNP",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5XC0EXBARWSWXV12TZ",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Clement of Alexandria: Cyrus to Vespasian and Titus (reported by Jerome)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.163Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B74ZNKXJ60G92Z8D290",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5XDHBH0WRMNJRFNA2B",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Tertullian: from Darius's first year to Christ's birth (62½ weeks) and to Vespasian (70 weeks) (reported by Jerome)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.164Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B75PFJE0R149A36G5WN",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5X12W621N4733XP53J",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): \"The Hebrews\": from Darius the Mede to the destructions under Vespasian and Hadrian (reported by Jerome)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.165Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B78XPDN44BGF9QT8EQA",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5SNRJ69SACJYADEKGN",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Jeremiah's seventy years): Babylonian supremacy: c. 609/605 to 539/538 BC",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.168Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B79ACE1VSMET4MYC97V",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5SH05GBCYZEMREKJKR",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Jeremiah's seventy years): Desolation of the Temple: 587/586 to 516/515 BC",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.169Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V10B7APP7CEJPJGK8XE33P",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5S9QV2AM1SPKA773XH",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Jeremiah's seventy years): The land's sabbaths, ended by Cyrus's decree (Chronicler)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.170Z",
+  "decisions": []
  }
 ]

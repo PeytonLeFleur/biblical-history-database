@@ -1,0 +1,187 @@
+{
+  "event_id": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "seventy years",
+      "books_searched": 66,
+      "hits": [
+        "Jer.25.11",
+        "Jer.25.12",
+        "Jer.29.10",
+        "2Chr.36.21",
+        "Zech.1.12",
+        "Zech.7.5",
+        "Dan.9.2",
+        "Isa.23.15",
+        "Isa.23.17"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V10B6DHA5VMSSA0HSAQBWF",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Daniel reads Jeremiah's word of seventy years (9:2).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6DJRC9ATV4SXG3E3RM",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The seventy-year word was given in Jehoiakim's fourth year (Jer 25:1, 11).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6DXD39CA3HNPBC4HZJ",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.29.10"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The letter promising return \"after seventy years are accomplished for Babylon\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6D7983HN5RQP69V6Y5",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Neh.9.6-Neh.9.37"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Another post-exilic prayer of national confession in Deuteronomic language.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6D5BZXW647Q0K1C50P",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Deut.28.15-Deut.28.68"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"The curse and the oath written in the law of Moses\" (9:11).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6DWVQ5XZXP3G92P63G",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Darius had been made king over the Chaldeans (9:1; 5:31).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Darius the son of Ahasuerus, of the offspring of the Medes (9:1)",
+      "resolved_to": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+      "basis": "Same figure as Dan 5:31; 6:1 (identity disputed, review open)",
+      "confidence": "high"
+    },
+    {
+      "name_as_written": "Jeremiah the prophet (9:2)",
+      "resolved_to": "per_01M4V10B5GEQP115CCSGSG9JXY",
+      "basis": "Name and the seventy-year prophecy",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4V10B62Q0Y1WJ86PV0XH027",
+    "cst_01M4V10B62HW5AA681J2XMWYZJ",
+    "cst_01M4V10B629NP51XAKQ559FAGX"
+  ]
+}

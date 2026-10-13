@@ -1,0 +1,69 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+  "slug": "artaxerxes-i-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": "Babylonian (Nisan) reckoning: year 1 began 1 Nisan = 13 Apr 464; year 7 began 8 Apr 458; year 20 began 13 Apr 445 (Parker & Dubberstein table, p. 30). A Tishri-based Judean count is discussed under the Nehemiah event.",
+  "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+  "model_id": null,
+  "title": "King of Persia (Babylonian dating)",
+  "start": {
+    "earliest": -464,
+    "latest": -463
+  },
+  "end": {
+    "earliest": -423,
+    "latest": -422
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -464,
+      "month": 3,
+      "day": 25
+    },
+    "to": {
+      "year": -463,
+      "month": 1,
+      "day": 3
+    },
+    "basis": "Aramaic papyrus Cowley 6 from Syene is dated 18 Kislev, \"year 21, the accession year of Artaxerxes\" (3 Jan 464); since Xerxes's year 21 had begun, Artaxerxes acceded after 1 Nisan 465 (Xerxes's month XII of year 20 ended 24 Mar 465) and before 3 Jan 464 (Parker & Dubberstein 1942, p. 15).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -423,
+      "month": 12,
+      "day": 24
+    },
+    "to": {
+      "year": -422,
+      "month": 2,
+      "day": 26
+    },
+    "basis": "Last secure tablet of Artaxerxes I dated 12 Kislev year 41 (24 Dec 424); one tablet of 17 Shebat year 41 (26 Feb 423) may be a scribal error; Darius II recognised by mid-February 423 (Parker & Dubberstein 1942, pp. 15–16).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "regnal_convention": {
+    "reckoning": "accession",
+    "new_year": "nisan",
+    "alternative_group": null,
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  }
+}
