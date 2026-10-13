@@ -619,6 +619,246 @@ The scene returns to the river of 10:4; Jerome identifies the two figures as the
 - **536 BC – 535 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
   - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
   - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+- **536 BC – 535 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
+  - Latest bound from: cst_01M4V1HGVDHHMARD8QXBQ7PX6T|cst_01M4V1HGVDHHMARD8QXBQ7PX6T#own-convention → “Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river”
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

@@ -1,0 +1,65 @@
+{
+  "id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3",
+  "slug": "release-of-jehoiachin-by-evil-merodach",
+  "title": "Evil-merodach (Amēl-Marduk) releases Jehoiachin (561 BC)",
+  "summary": "In his accession year Amēl-Marduk released Jehoiachin from prison, gave him precedence over other captive kings and a lifelong daily allowance.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4V7CG4KN9A8NHV8JRXD5XNC"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "royal",
+    "political"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "2Kgs.25.27-2Kgs.25.30",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "Jer.52.31-Jer.52.34",
+      "mention_type": "parallel_account",
+      "notes": "Twenty-fifth day of the month."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

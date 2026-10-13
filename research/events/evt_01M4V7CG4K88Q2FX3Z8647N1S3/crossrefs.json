@@ -1,0 +1,96 @@
+{
+  "event_id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Evil-merodach",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.25.27",
+        "Jer.52.31"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG5FFT5FW4DVYGDJMXF4",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.31-Jer.52.34"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel account (twenty-fifth day).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG5FZD7JRB26G77QB4GJ",
+      "type": "artifact_association",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3"
+      },
+      "to": {
+        "kind": "artifact",
+        "id": "art_01M4RSRHMG3X170BXKM9NM94W0"
+      },
+      "confidence": "medium",
+      "layer": "evidence",
+      "rationale": "Earlier ration lists show the same royal captive maintained at Babylon.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG5FKDVQGA9FCX0XPT91",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "low",
+      "layer": "text",
+      "rationale": "The exile narrative continues with Cyrus's decree (2 Chr 36:22; Ezra 1).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7CG4QX0RBQ3EF2HRMPVJQ",
+    "cst_01M4V7CG4QFKXTBPPQ3TXAHKKT"
+  ]
+}

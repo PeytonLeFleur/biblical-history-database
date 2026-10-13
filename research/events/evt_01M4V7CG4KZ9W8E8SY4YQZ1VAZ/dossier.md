@@ -1,0 +1,929 @@
+# Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 25:8–21 (narration)
+- Jeremiah 52:12–27 (parallel_account): Tenth day of the month.
+- 2 Chronicles 36:17–20 (parallel_account)
+
+## Biblical account
+
+On 7/V of Nebuchadnezzar's nineteenth year Nebuzaradan burned the Temple, palace and great houses; the army broke down the walls; the rest were deported and the poorest left; the bronze pillars, stands and sea were broken up and taken; the chief priest Seraiah and others were executed at Riblah.
+
+## Historical setting
+
+**Period:** Ab 587 or 586 BC
+
+On the Babylonian (accession-year) count Nebuchadnezzar's nineteenth year began in Nisan 586; on a non-accession count, in Nisan 587. The fifth month is Ab (July/August). [1, 2]
+
+### Rulers
+
+- Nebuchadnezzar II: King of Babylon
+
+## Date and chronology
+
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **589 BC – 584 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → “Now in the fifth month, on the seventh day of the month”
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Now in the fifth month, on the seventh day of the month” (2 Kings 25:8) → `days_later` The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year); assumptions: From 9/IV to 7/V (Kings) or 10/V (Jer 52:12): 27–31 days with 29/30-day months.
+- “which was the nineteenth year of King Nebuchadnezzar” (2 Kings 25:8) → `in_regnal_year` reign of Nebuchadnezzar II; assumptions: Babylonian accession-year counting: year 19 = Nisan 586 – Nisan 585. [1, 2]
+- “which was the nineteenth year of King Nebuchadnezzar” (2 Kings 25:8) → `in_regnal_year` reign of Nebuchadnezzar II; assumptions: Non-accession counting in 2 Kings (Young 2004): year 19 = Nisan 587 – Nisan 586. [1]
+
+## Geography
+
+- Jerusalem (City and Temple burned; confidence: certain)
+  - Pleiades representative point: certain [3]
+- Riblah (Executions; confidence: certain)
+  - Riblah (Pleiades 431124909): certain [4]
+
+## Competing reconstructions
+
+- **Day of the burning: 7th (2 Kgs 25:8), 10th (Jer 52:12) or 1st (Josephus) of Ab** (2 Kings, Jeremiah 52, Josephus, Ant. 10.8.5): The texts differ; no external source settles it. [5]
+- **Year: Nebuchadnezzar's 19th (2 Kgs 25:8; Jer 52:12) or 18th (Jer 52:29; Josephus)** (R. C. Young (2004): different counting conventions): Jer 52:28–30 numbers the deportations in Babylonian accession-year style (7th, 18th, 23rd years), one less than Kings. [1, 5]
+
+## Claims and evidence
+
+### The Temple was burned on the seventh day of the fifth month (2 Kgs 25:8).
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+2 Kings gives the 7th, Jeremiah 52:12 the 10th and Josephus the 1st of the fifth month; Josephus also gives Nebuchadnezzar's eighteenth year (as Jer 52:29 does for the deportation). No external source dates the burning.
+
+- *Supporting (indirect):* Fifth month, seventh day, nineteenth year. (on 25:8) [6]
+- *Challenging (direct):* Fire set to the Temple on the first day of the fifth month, in Nebuchadnezzar's eighteenth year. (Ant. 10.8.5) [5]
+
+## Related passages and events
+
+- this event → **same event** → Jeremiah 52:12–27 (high): Parallel account (tenth day of the month; fuller inventory).
+- this event → **same event** → 2 Chronicles 36:17–20 (high): Chronicles' summary of the destruction.
+- this event → **thematic parallel** → pro_01M4V10B5R3FQYBVQ98B9H88R7 (medium): The Temple-desolation reading of Jeremiah's seventy years starts here (Zech 1:12; Jerome).
+- this event → **thematic parallel** → Daniel 9:2 (high): "The desolations of Jerusalem" for which Daniel prays.
+- this event → **thematic parallel** → Lamentations 1:1–4 (medium): Lament over the desolate city.
+- this event → **followed by** → Gedaliah governs from Mizpah and is assassinated (2 Kgs 25:22–26) (high): Gedaliah was appointed over the remnant.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik dates the burning to the fifth month, seventh day of Nebuchadnezzar's nineteenth year and refers to Jer 52:17–23 for the inventory. [6]
+
+## Unanswered questions and research gaps
+
+- Rabbinic traditions on the 9th of Ab not researched.
+
+## Disputes
+
+- The Temple was burned on the seventh day of the fifth month (2 Kgs 25:8).
+
+## Sources
+
+1. Young, Rodger C.. When Did Jerusalem Fall?. Journal of the Evangelical Theological Society 47/1 (2004) 21–38. <https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-1_47-1-pp021-038_JETS.pdf> — *scholarly commentary; verification: claim checked*
+2. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Pleiades contributors. Rablê (Riblah) — Pleiades place 431124909. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/431124909> — *institutional database; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+6. Guzik, David. 2 Kings 25 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-25/> — *theological commentary; verification: claim checked*

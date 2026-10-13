@@ -1,0 +1,31 @@
+{
+  "kind": "place",
+  "id": "loc_01M4V7CG3VP1TB3CR7PF3GKRW1",
+  "slug": "jericho",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V7CG2QMRT8W9F5VAS25EX6"
+  ],
+  "notes": null,
+  "primary_name": "Jericho",
+  "place_type": "settlement",
+  "modern_name": "Tell es-Sultan (ancient site), near Ariha",
+  "modern_country": "Palestinian territories (West Bank)",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4V7CG3Q5H9EZZ2JC865TFCG",
+      "label": "Jericho (Pleiades 687917)",
+      "lat": 31.871016814381463,
+      "lon": 35.44414173292347,
+      "coordinate_precision": "settlement",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4V7CG2QMRT8W9F5VAS25EX6",
+      "proponents": [],
+      "reasoning": "Pleiades representative point; \"the plains of Jericho\" is the surrounding plain."
+    }
+  ],
+  "description": "City in the Jordan valley; Zedekiah was overtaken in its plains (2 Kgs 25:5)."
+}

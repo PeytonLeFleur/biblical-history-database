@@ -625,6 +625,246 @@ Susa was the capital of Elam and later a principal residence of the Persian king
 - **551 BC – 549 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
   - Earliest bound from: reign of Belshazzar (Belshazzar's years counted from the entrusting of the kingship) (reign start) → “In the third year of the reign of King Belshazzar”
   - Latest bound from: reign of Belshazzar (Belshazzar's years counted from the entrusting of the kingship) (reign start) → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
+- **? – 539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: —
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the third year of the reign of King Belshazzar”
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

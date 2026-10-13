@@ -1,0 +1,24 @@
+{
+  "kind": "person",
+  "id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+  "slug": "zedekiah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4V7CG286A5RCXZEPAMNZ968",
+    "src_01M4V7CG2F5QV3X4F372GXP728"
+  ],
+  "notes": null,
+  "canonical_name": "Zedekiah",
+  "aliases": [
+    {
+      "alias": "Mattaniah",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "2Kgs.24.17"
+    }
+  ],
+  "description": "Last king of Judah (597–587/586), Jehoiachin's uncle Mattaniah, installed by Nebuchadnezzar (ABC 5: \"a king of his own choice\"); rebelled, captured and blinded at Riblah.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

@@ -624,6 +624,246 @@ Nabonidus spent about ten years at Tayma, entrusting "the kingship" to his eldes
 - **539 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
   - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
   - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TPW4C5XQGQ06YBD8DD93JW
+  - Latest bound from: reign of Nabonidus (reign end) → “Belshazzar the king made a great feast”
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

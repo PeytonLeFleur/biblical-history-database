@@ -1,0 +1,394 @@
+{
+  "book": "2Kgs",
+  "chapter": 24,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "2Kgs.24.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KDKJXWJA6X1X9HV5B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KDKJXWJA6X1X9HV5B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KDKJXWJA6X1X9HV5B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KDKJXWJA6X1X9HV5B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KNCMJ245F5W64B5DR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KNCMJ245F5W64B5DR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KNCMJ245F5W64B5DR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4K4N905HYSNSMMBRGA"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4K4N905HYSNSMMBRGA"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KABB9DMQZFC2E8VN2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KABB9DMQZFC2E8VN2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KABB9DMQZFC2E8VN2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KABB9DMQZFC2E8VN2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KABB9DMQZFC2E8VN2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KABB9DMQZFC2E8VN2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KABB9DMQZFC2E8VN2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KXMNH0X3ZCHK5KXD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KXMNH0X3ZCHK5KXD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KXMNH0X3ZCHK5KXD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.24.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KXMNH0X3ZCHK5KXD1"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V7CG4KDKJXWJA6X1X9HV5B",
+      "title": "Jehoiakim becomes Nebuchadnezzar's servant, then rebels; raiding bands",
+      "passage": "2Kgs.24.1-2Kgs.24.4",
+      "description": "Nebuchadnezzar came up; Jehoiakim served him three years, then rebelled; Chaldean, Aramean, Moabite and Ammonite bands raided Judah.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "military"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Nebuchadnezzar king of Babylon",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jehoiakim",
+          "matched_entity_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.24.1",
+          "phrase": "In his days … three years",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Dan.1.1-Dan.1.2",
+        "2Chr.36.5-2Chr.36.8",
+        "Jer.25.1"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "When the three years of service began (605 or 604) — bears on Dan 1:1."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D"
+    },
+    {
+      "id": "cnd_01M4V7CG4KNCMJ245F5W64B5DR",
+      "title": "Formula on Jehoiakim's acts; Jehoiakim's death; Egypt no longer comes out",
+      "passage": "2Kgs.24.5-2Kgs.24.7",
+      "description": "Regnal summary; Jehoiakim \"slept with his fathers\" and Jehoiachin reigned; the king of Babylon held all from the brook of Egypt to the Euphrates.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal",
+        "death"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Jehoiakim",
+          "matched_entity_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "the king of Egypt",
+          "matched_entity_id": "per_01M4RSRHM3EYYN9YJSRMAW06DS",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Jer.22.18-Jer.22.19",
+        "2Chr.36.6"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"Slept with his fathers\" vs Jer 22:18–19, 2 Chr 36:6 and Josephus."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4KZG172HQ703TM1H1Z"
+    },
+    {
+      "id": "cnd_01M4V7CG4K4N905HYSNSMMBRGA",
+      "title": "Jehoiachin's three-month reign",
+      "passage": "2Kgs.24.8-2Kgs.24.9",
+      "description": "Jehoiachin, eighteen, reigned three months; his mother Nehushta.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Jehoiachin",
+          "matched_entity_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.24.8",
+          "phrase": "he reigned in Jerusalem three months",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "2Chr.36.9"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Eighteen (Kings) vs eight (2 Chr 36:9 MT)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4KZG172HQ703TM1H1Z"
+    },
+    {
+      "id": "cnd_01M4V7CG4KABB9DMQZFC2E8VN2",
+      "title": "Siege and capture of Jerusalem; deportation of Jehoiachin, treasures and leading men",
+      "passage": "2Kgs.24.10-2Kgs.24.16",
+      "description": "Nebuchadnezzar's servants besieged the city; Jehoiachin surrendered in the king's eighth year; the treasures and gold vessels were taken; ten thousand captives, the mighty men seven thousand and craftsmen one thousand.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "military",
+        "migration"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Nebuchadnezzar",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jehoiachin",
+          "matched_entity_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.24.12",
+          "phrase": "in the eighth year of his reign",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "2Chr.36.10",
+        "Jer.52.28",
+        "Ezek.1.2",
+        "Esth.2.6",
+        "Dan.1.2"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Eighth year (Kings) vs seventh year (ABC 5; Jer 52:28).",
+        "10,000 (24:14) vs 7,000 + 1,000 (24:16) vs 3,023 (Jer 52:28)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+    },
+    {
+      "id": "cnd_01M4V7CG4KXMNH0X3ZCHK5KXD1",
+      "title": "Mattaniah made king and renamed Zedekiah",
+      "passage": "2Kgs.24.17-2Kgs.24.20",
+      "description": "The king of Babylon made Mattaniah king and renamed him Zedekiah; twenty-one, he reigned eleven years and rebelled.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal",
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Mattaniah … Zedekiah",
+          "matched_entity_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "the king of Babylon",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.24.18",
+          "phrase": "he reigned eleven years",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Jer.52.1-Jer.52.3",
+        "2Chr.36.10-2Chr.36.13",
+        "Ezek.17.11-Ezek.17.21"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-2-kings-24-25.md"
+}

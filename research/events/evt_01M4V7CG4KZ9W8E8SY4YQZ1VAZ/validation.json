@@ -1,0 +1,57 @@
+{
+  "event_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V10B78XPDN44BGF9QT8EQA",
+    "rev_01M4V10B79ACE1VSMET4MYC97V",
+    "rev_01M4V10B7APP7CEJPJGK8XE33P",
+    "rev_01M4V7CG56NETDGVVJHTKAHT1K",
+    "rev_01M4V7CWP6ZQJXEVT2R3FZ7MA9"
+  ],
+  "research_gaps": [
+    "Rabbinic traditions on the 9th of Ab not researched."
+  ],
+  "disputes": [
+    "The Temple was burned on the seventh day of the fifth month (2 Kgs 25:8)."
+  ],
+  "export_eligible": true
+}

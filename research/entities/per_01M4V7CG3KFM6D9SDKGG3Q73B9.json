@@ -1,0 +1,24 @@
+{
+  "kind": "person",
+  "id": "per_01M4V7CG3KFM6D9SDKGG3Q73B9",
+  "slug": "amel-marduk",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+    "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+  ],
+  "notes": null,
+  "canonical_name": "Amēl-Marduk (Evil-merodach)",
+  "aliases": [
+    {
+      "alias": "Evil-merodach",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "2Kgs.25.27"
+    }
+  ],
+  "description": "King of Babylon, son of Nebuchadnezzar II; acceded October 562 and died August 560 BC (Parker & Dubberstein); released Jehoiachin in his accession year (2 Kgs 25:27). Josephus gives him eighteen years.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+}

@@ -1,0 +1,69 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4V7CG4BM5XNPY21NQ7ZHPB4",
+  "slug": "amel-marduk-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": "Accession year Oct 562 – Mar 561; year 1 from 6 Apr 561 (Parker & Dubberstein table).",
+  "person_id": "per_01M4V7CG3KFM6D9SDKGG3Q73B9",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "model_id": null,
+  "title": "King of Babylon",
+  "start": {
+    "earliest": -561,
+    "latest": -561
+  },
+  "end": {
+    "earliest": -559,
+    "latest": -559
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -561,
+      "month": 9,
+      "day": 25
+    },
+    "to": {
+      "year": -561,
+      "month": 10,
+      "day": 7
+    },
+    "basis": "Last tablets of Nebuchadnezzar 25 Sep and 7 Oct 562 (Uruk); first tablet of Amel-Marduk's accession year 7 Oct 562 (Sippar?) (Parker & Dubberstein p. 10).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -559,
+      "month": 8,
+      "day": 7
+    },
+    "to": {
+      "year": -559,
+      "month": 8,
+      "day": 13
+    },
+    "basis": "Last tablet 7 Aug 560; first tablet of Nergal-shar-usur six days later (Parker & Dubberstein p. 10).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "regnal_convention": {
+    "reckoning": "accession",
+    "new_year": "nisan",
+    "alternative_group": null,
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  }
+}

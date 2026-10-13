@@ -1,0 +1,899 @@
+# Nebuchadnezzar installs Mattaniah as King Zedekiah (2 Kgs 24:17–20)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 24:17–20 (narration)
+- Jeremiah 52:1–3 (parallel_account)
+
+## Biblical account
+
+Nebuchadnezzar made Mattaniah, Jehoiachin's uncle, king and renamed him Zedekiah; twenty-one, he reigned eleven years, did evil, and rebelled against Babylon.
+
+## Historical setting
+
+**Period:** Spring 597 BC
+
+ABC 5 records that Nebuchadnezzar "appointed there a king of his own choice" after capturing the city. [1]
+
+### Rulers
+
+- Zedekiah: Installed [1]
+- Nebuchadnezzar II: Overlord [1]
+
+## Date and chronology
+
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+- **597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “The king of Babylon made Mattaniah … king in his place”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “The king of Babylon made Mattaniah … king in his place” (2 Kings 24:17) → `days_later` Capture of Jerusalem and deportation of Jehoiachin (March 597 BC); assumptions: ABC 5 records the appointment in the same entry as the capture; the 45-day margin covers the "turn of the year" (2 Chr 36:10). [1]
+
+## Claims and evidence
+
+### Nebuchadnezzar appointed a new king of his own choice in Jerusalem in 597.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+ABC 5 records the appointment; 2 Kgs 24:17 names him Zedekiah (Mattaniah). The chronicle does not give the name.
+
+- *Supporting (direct):* He appointed there a king of his own choice, received heavy tribute and sent it to Babylon. (rev. 13′) [1]
+
+## Related passages and events
+
+- this event → **same event** → Jeremiah 52:1–3 (high): Parallel: Zedekiah's age, reign and rebellion.
+- this event → **same event** → 2 Chronicles 36:10–13 (high): Parallel in Chronicles (Zedekiah "his brother").
+- this event → **followed by** → The final siege of Jerusalem begins (10/X of Zedekiah's ninth year) (high): Zedekiah's rebellion led to the final siege.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that Mattaniah was renamed Zedekiah and reigned eleven years. [2]
+
+## Sources
+
+1. Lendering, Jona (ed.). ABC 5 (Jerusalem Chronicle / Chronicle of the early years of Nebuchadnezzar) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/> — *ancient primary text; verification: claim checked*
+2. Guzik, David. 2 Kings 24 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-24/> — *theological commentary; verification: claim checked*

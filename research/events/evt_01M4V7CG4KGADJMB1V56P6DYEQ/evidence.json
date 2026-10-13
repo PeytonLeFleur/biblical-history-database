@@ -1,0 +1,152 @@
+{
+  "event_id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Young 2004 (JETS)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.8.2",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word 2 Kings 25",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversions from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7CG523GVC1NERBZ95X4F9",
+      "statement": "Jerusalem fell in the summer of 587 BC (rather than 586).",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "disputed",
+      "reasoning": "Babylonian records of the destruction are lost. Young argues from Ezekiel's dates and the reckoning of 2 Kings that the city fell in Tammuz 587, listing Wiseman and Kitchen with him; Thiele and the popular literature give 586. Hughes counted eleven scholars on each side (as reported by Young). Both chronology models are kept.",
+      "supporting_evidence": [
+        "evd_01M4V7CG52PCQ89XZA6XMMPBFW"
+      ],
+      "counterevidence": [
+        "evd_01M4V7CG52NHJ1F7TFD2TY6TQN",
+        "evd_01M4V7CG52H3HKFGCEQ0YZFBZQ"
+      ],
+      "contextual_evidence": [
+        "evd_01M4V7CG520FS7GWFW7MR585XG"
+      ],
+      "limitations": [
+        "Thiele (1983) known here only through Young."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7CG52PCQ89XZA6XMMPBFW",
+      "claim_ids": [
+        "clm_01M4V7CG523GVC1NERBZ95X4F9"
+      ],
+      "source_id": "src_01M4V7CG2F5QV3X4F372GXP728",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Conclusion: Jerusalem fell in Tammuz 587; Wiseman and Kitchen also favour 587.",
+      "locator": "pp. 21–22, 38",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "young-2004"
+    },
+    {
+      "id": "evd_01M4V7CG52NHJ1F7TFD2TY6TQN",
+      "claim_ids": [
+        "clm_01M4V7CG523GVC1NERBZ95X4F9"
+      ],
+      "source_id": "src_01M4V7CG2F5QV3X4F372GXP728",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Thiele preferred 586, \"the date most widely used in the popular literature\"; Hughes lists eleven scholars for each date.",
+      "locator": "p. 21",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "thiele-via-young"
+    },
+    {
+      "id": "evd_01M4V7CG52H3HKFGCEQ0YZFBZQ",
+      "claim_ids": [
+        "clm_01M4V7CG523GVC1NERBZ95X4F9"
+      ],
+      "source_id": "src_01M4V7CG286A5RCXZEPAMNZ968",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Guzik dates the final destruction to 586.",
+      "locator": "on 24 (overview)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4V7CG520FS7GWFW7MR585XG",
+      "claim_ids": [
+        "clm_01M4V7CG523GVC1NERBZ95X4F9"
+      ],
+      "source_id": "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "City taken 9/IV of Zedekiah's 11th year.",
+      "locator": "Ant. 10.8.2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Thiele (1983) not read directly; Hughes (1990) not read."
+  ]
+}

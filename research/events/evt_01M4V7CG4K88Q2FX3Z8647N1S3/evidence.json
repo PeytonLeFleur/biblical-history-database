@@ -1,0 +1,146 @@
+{
+  "event_id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Parker & Dubberstein (Amel-Marduk)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.11.2",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "COJS ration list",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversions from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7CG577H8MQAADKSQGG8P7",
+      "statement": "Amēl-Marduk (Evil-merodach) became king in October 562 BC and reigned about two years.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Babylonian contracts date his accession from 7 Oct 562 and his death to 7–13 Aug 560 (Parker & Dubberstein). Josephus's eighteen years is contradicted by the documentary record.",
+      "supporting_evidence": [
+        "evd_01M4V7CG57F9W0T4YF73EXNMWK"
+      ],
+      "counterevidence": [
+        "evd_01M4V7CG57YHJTYW7YCHNSXZK7"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V7CG57CD0WCNPMTCG7J14C",
+      "statement": "Jehoiachin was released in the twelfth month of Amēl-Marduk's accession year (early 561 BC).",
+      "layer": "reconstruction",
+      "passage": "2Kgs.25.27",
+      "classification": "historically_plausible",
+      "reasoning": "The accession year (Oct 562 – Mar 561) contains one twelfth month (Addaru, Feb–Mar 561); 2 Kings and Jer 52 differ by two days. No Babylonian text records the release.",
+      "supporting_evidence": [
+        "evd_01M4V7CG575ECV2YQE19R5JEYN"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7CG57F9W0T4YF73EXNMWK",
+      "claim_ids": [
+        "clm_01M4V7CG577H8MQAADKSQGG8P7"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "First tablet 7 Oct 562; last 7 Aug 560; Nergal-shar-usur from 13 Aug 560.",
+      "locator": "p. 10",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-contracts"
+    },
+    {
+      "id": "evd_01M4V7CG57YHJTYW7YCHNSXZK7",
+      "claim_ids": [
+        "clm_01M4V7CG577H8MQAADKSQGG8P7"
+      ],
+      "source_id": "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Evil-Merodach reigned eighteen years.",
+      "locator": "Ant. 10.11.2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4V7CG575ECV2YQE19R5JEYN",
+      "claim_ids": [
+        "clm_01M4V7CG57CD0WCNPMTCG7J14C"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Addaru of 562/561 falls in February–March 561.",
+      "locator": "Nebuchadnezzar/Amel-Marduk tables",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

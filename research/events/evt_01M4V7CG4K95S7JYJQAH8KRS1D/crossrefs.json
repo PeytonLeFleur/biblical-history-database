@@ -1,0 +1,142 @@
+{
+  "event_id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Jehoiakim",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.24.1",
+        "2Kgs.24.5",
+        "2Kgs.24.6",
+        "2Chr.36.5",
+        "Dan.1.1",
+        "Jer.25.1",
+        "Jer.36.1",
+        "Jer.22.18"
+      ]
+    },
+    {
+      "name": "Nebuchadnezzar/Nebuchadrezzar",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.24.1",
+        "2Kgs.24.10",
+        "2Kgs.25.1",
+        "Dan.1.1",
+        "Jer.25.1",
+        "Jer.52.4",
+        "Ezek.26.7"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG57XBY308TCZVR9JZ9P",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.36.6"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Chronicles' parallel: Nebuchadnezzar came up against Jehoiakim (manner differs).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V7CG573HQNGW2NHKNVW7PD",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "Daniel 1:1–2 dates a Babylonian move against Jehoiakim in his third year; the possible identity with 2 Kgs 24:1 is already under owner review on the Dan 1:1 record (not duplicated here).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKK20JJA4YS6CSHSHGZ"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG57ZWG4ESS3K7MZE042",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB"
+      },
+      "confidence": "high",
+      "layer": "evidence",
+      "rationale": "2 Kgs 24:7: Egypt lost Syria-Palestine to Babylon after Carchemish.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG57F1BV7BZ2NCHYPWGZ",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZG172HQ703TM1H1Z"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jehoiakim's rebellion precedes his death.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7CG4PNV6FFZ1G3BV7N4YJ",
+    "cst_01M4V7CG4PSKZGE87F1Q0APA1A",
+    "cst_01M4V7CG4PTY57PC6ET938GBQC"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+  "title": "Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Josephus",
+    "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 10.6.3; 10.8.2–5; 10.11.2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "10.6.3: Nebuchadnezzar slew Jehoiakim and had him thrown before the walls unburied, took 3,000 captives including Ezekiel; Jehoiachin reigned three months and ten days; 10.8.2: city taken 9/IV of Zedekiah's 11th year; 10.8.5: Temple fired on the first day of the fifth month, Zedekiah's 11th and Nebuchadnezzar's 18th year; 10.11.2: Evil-Merodach freed Jeconiah and reigned eighteen years",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

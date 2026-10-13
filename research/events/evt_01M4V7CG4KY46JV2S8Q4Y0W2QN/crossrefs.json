@@ -1,0 +1,185 @@
+{
+  "event_id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG5852HHA02N92N5FX61",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.36.10"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel: \"at the turn of the year\" Nebuchadnezzar brought Jehoiachin to Babylon.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG582715AGSKXN3HWQYD",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.28"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The deportation of \"the seventh year\" (3,023 Jews) — the same event counted differently (Young).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V7CG584KAGREAKR7JBQR5R",
+      "type": "artifact_association",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "to": {
+        "kind": "artifact",
+        "id": "art_01M4RSRHMG3X170BXKM9NM94W0"
+      },
+      "confidence": "high",
+      "layer": "evidence",
+      "rationale": "Ration lists for the captive king Ya'u-kīnu at Babylon.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG58Y0H1B4G9YRXVZG1Z",
+      "type": "source_attestation",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "to": {
+        "kind": "document",
+        "id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G"
+      },
+      "confidence": "high",
+      "layer": "evidence",
+      "rationale": "ABC 5 records the capture of \"the city of Judah\" on 2 Adar year 7.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG585WTGCRXK20NWMSBH",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Dan 1:3 has royal and noble youths at the Babylonian court; the ration lists attest Judean royals there from 592.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG58A0PVJQF3H43P5ZKW",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.1.2"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Temple vessels taken to Babylon (cf. Dan 5:2–3; Ezra 1:7).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG586687TQF41ZAB8MNJ",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Nebuchadnezzar installed Zedekiah after the capture.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7CG4P8XNS89VKMHZDJHMT",
+    "cst_01M4V7CG4QGTHGXVEC8CQC3CH4"
+  ]
+}

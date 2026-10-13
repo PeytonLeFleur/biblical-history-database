@@ -1,0 +1,48 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4V7CG47VRNNGB04RH1J6KTQ",
+  "slug": "zedekiah-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4V7CG2F5QV3X4F372GXP728"
+  ],
+  "notes": "End in summer 587 or 586 BC depending on reckoning (see the two chronology models).",
+  "person_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": null,
+  "title": "King of Judah (vassal of Babylon)",
+  "start": {
+    "earliest": -596,
+    "latest": -596
+  },
+  "end": {
+    "earliest": -586,
+    "latest": -585
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": "rgn_01M4V7CG43A9BS405RJNJMF4R0",
+  "stated_length_years": 11,
+  "stated_length_passage": "2Kgs.24.18",
+  "start_window": {
+    "from": {
+      "year": -596,
+      "month": 3,
+      "day": 15
+    },
+    "to": {
+      "year": -596,
+      "month": 4,
+      "day": 30
+    },
+    "basis": "ABC 5: after capturing the city on 2 Adar year 7 (15/16 Mar 597) Nebuchadnezzar \"appointed there a king of his own choice\"; 2 Kgs 24:17. Upper bound (end of April 597) is an operator margin covering Nisan 597.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+    ]
+  },
+  "end_window": null,
+  "regnal_convention": null
+}

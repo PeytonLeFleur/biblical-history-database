@@ -1,0 +1,162 @@
+{
+  "event_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On 7/V of Nebuchadnezzar's nineteenth year Nebuzaradan burned the Temple, palace and great houses; the army broke down the walls; the rest were deported and the poorest left; the bronze pillars, stands and sea were broken up and taken; the chief priest Seraiah and others were executed at Riblah.",
+    "passage": "2Kgs.25.8-2Kgs.25.21"
+  },
+  "setting": {
+    "period": "Ab 587 or 586 BC",
+    "body": "On the Babylonian (accession-year) count Nebuchadnezzar's nineteenth year began in Nisan 586; on a non-accession count, in Nisan 587. The fifth month is Ab (July/August).",
+    "citations": [
+      "src_01M4V7CG2F5QV3X4F372GXP728",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "King of Babylon",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7CG4QZ8PVM82DQPXR78S2",
+      "subject": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+      "object": "evt_01M4V7CG4KGADJMB1V56P6DYEQ",
+      "relation": "days_later",
+      "textual_assertion": "Now in the fifth month, on the seventh day of the month",
+      "passage": "2Kgs.25.8",
+      "offset": {
+        "min": 26,
+        "max": 33
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "From 9/IV to 7/V (Kings) or 10/V (Jer 52:12): 27–31 days with 29/30-day months."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4V7CG4QJKJK4FYNRCR42354",
+      "subject": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "which was the nineteenth year of King Nebuchadnezzar",
+      "passage": "2Kgs.25.8",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 19,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": "chr_01M4V7CG4F23R6DXYEYX6J5KR9",
+      "alternative_group": null,
+      "assumptions": [
+        "Babylonian accession-year counting: year 19 = Nisan 586 – Nisan 585."
+      ],
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728",
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4V7CG4QRYH7KD1EEVC2SYY2",
+      "subject": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "which was the nineteenth year of King Nebuchadnezzar",
+      "passage": "2Kgs.25.8",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 19,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "non_accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": "chr_01M4V7CG4K02KPRNP2BAQKVQT8",
+      "alternative_group": null,
+      "assumptions": [
+        "Non-accession counting in 2 Kings (Young 2004): year 19 = Nisan 587 – Nisan 586."
+      ],
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728"
+      ],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "City and Temple burned",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4V7CG3QJN0W3XYGQ7FFJDPT",
+      "role": "Executions",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Day of the burning: 7th (2 Kgs 25:8), 10th (Jer 52:12) or 1st (Josephus) of Ab",
+      "proponents": [
+        "2 Kings",
+        "Jeremiah 52",
+        "Josephus, Ant. 10.8.5"
+      ],
+      "summary": "The texts differ; no external source settles it.",
+      "citations": [
+        "src_01M4V7CG2JYBNMG4AEMGZ1WTHK"
+      ]
+    },
+    {
+      "label": "Year: Nebuchadnezzar's 19th (2 Kgs 25:8; Jer 52:12) or 18th (Jer 52:29; Josephus)",
+      "proponents": [
+        "R. C. Young (2004): different counting conventions"
+      ],
+      "summary": "Jer 52:28–30 numbers the deportations in Babylonian accession-year style (7th, 18th, 23rd years), one less than Kings.",
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728",
+        "src_01M4V7CG2JYBNMG4AEMGZ1WTHK"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG2CMR06J1QJ07Q1NXAB",
+      "layer": "interpretation",
+      "paraphrase": "Guzik dates the burning to the fifth month, seventh day of Nebuchadnezzar's nineteenth year and refers to Jer 52:17–23 for the inventory.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-25/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

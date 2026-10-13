@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V7CG2F5QV3X4F372GXP728",
+  "title": "When Did Jerusalem Fall?",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Young, Rodger C."
+  ],
+  "publisher": "Journal of the Evangelical Theological Society 47/1 (2004) 21–38",
+  "journal": null,
+  "published_date": null,
+  "url": "https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-1_47-1-pp021-038_JETS.pdf",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Freely available PDF from ETS; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the PDF",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Babylonian records for the destruction are lost; scholars divide on 586 vs 587 (Hughes lists eleven for each; Thiele 586; Wiseman and Kitchen 587); conclusion: Jerusalem fell in Tammuz 587; Ezekiel and 2 Kgs 24–25 use Tishri years, 2 Kings non-accession years for Nebuchadnezzar; the siege began c. January 589",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

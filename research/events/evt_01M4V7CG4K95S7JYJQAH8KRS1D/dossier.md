@@ -1,0 +1,929 @@
+# Jehoiakim submits to Nebuchadnezzar for three years, then rebels (2 Kgs 24:1–4)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 24:1–4 (narration)
+- 2 Chronicles 36:6 (parallel_account): Chronicles: Nebuchadnezzar bound him in fetters to carry him to Babylon.
+
+## Biblical account
+
+In Jehoiakim's days Nebuchadnezzar came up and Jehoiakim served him three years before rebelling; bands of Chaldeans, Arameans, Moabites and Ammonites were sent against Judah.
+
+## Historical setting
+
+**Period:** Late reign of Jehoiakim (605–598)
+
+After Carchemish (605) the Babylonian Chronicle records Nebuchadnezzar's yearly campaigns in Ḫatti; it records no siege of Jerusalem before 597. In 601 Nebuchadnezzar fought Egypt with heavy losses on both sides (ABC 5), a likely occasion for a vassal's revolt. [1, 2]
+
+### Rulers
+
+- Jehoiakim: King of Judah [1]
+- Nebuchadnezzar II: King of Babylon [1]
+
+## Date and chronology
+
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+- **605 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4RSRHMPGPKTFABRVQG1QHR1 (anchor) → “the king of Babylon had taken … all that belonged to the king of Egypt”
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “the king of Babylon had taken … all that belonged to the king of Egypt” (2 Kings 24:7) → `after` Battle of Carchemish (605 BC); assumptions: Babylonian control of Syria-Palestine follows Carchemish (605).
+- “Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem” (2 Kings 24:1–10) → `before` Capture of Jerusalem and deportation of Jehoiachin (March 597 BC)
+- “In his days … Jehoiakim became his servant” (2 Kings 24:1) → `within_reign` reign of Jehoiakim
+
+## Geography
+
+- Carchemish (Background: Babylonian victory over Egypt; confidence: certain)
+  - Carchemish (Pleiades 658465): certain [3]
+
+## Competing reconstructions
+
+- **Submission in 605/604 (Dan 1:1 campaign)** (D. J. Wiseman (1965), D. Guzik): The three years of service began after Carchemish when Nebuchadnezzar's army overran Ḫatti; Dan 1:1 records the same campaign. [2, 4]
+- **Submission in 604/603 (Ashkelon campaign) or later** (Discussed in the Dan 1:1 dossier): The chronicle's campaign of Kislev 604 (Ashkelon) is another occasion; the identity of the Dan 1:1 event with 2 Kgs 24:1 is under review on the Dan 1 record. [1]
+
+## Claims and evidence
+
+### Nebuchadnezzar campaigned yearly in Syria-Palestine after Carchemish and received tribute from its kings.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+The Babylonian Chronicle records annual campaigns in Ḫatti from 605 and tribute from "all the kings of Ḫatti"; Judah is not named before 597.
+
+- *Supporting (direct):* Campaigns in Ḫatti in years 1–6; heavy tribute; battle with Egypt in year 4 (601). (obv. 12–20; rev. 1–8) [1]
+
+### Jehoiakim's submission to Babylon began with the 605/604 campaign of Dan 1:1.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+Wiseman links Dan 1:1 to the Ḫatti campaign after Carchemish; the chronicle neither confirms nor excludes Judah's submission then. The identity question is already under owner review on the Dan 1:1 record and is not re-queued.
+
+- *Supporting (indirect):* An incursion into Judah could be included in the chronicle's claim that all Ḫatti was conquered (605). (pp. 16–18) [2]
+- *Context (direct):* After Carchemish Nebuchadnezzar "conquered the whole of Ḫatti". (obv. 12–13) [1]
+
+*Limitations:* No external text names Jehoiakim.
+
+## Related passages and events
+
+- this event → **same event** → 2 Chronicles 36:6 (medium): Chronicles' parallel: Nebuchadnezzar came up against Jehoiakim (manner differs).
+- this event → **thematic parallel** → Nebuchadnezzar's campaign against Jerusalem in Jehoiakim's third year (Dan 1:1–2) (medium): Daniel 1:1–2 dates a Babylonian move against Jehoiakim in his third year; the possible identity with 2 Kgs 24:1 is already under owner review on the Dan 1:1 record (not duplicated here). [2]
+- this event → **preceded by** → Battle of Carchemish (605 BC) (high): 2 Kgs 24:7: Egypt lost Syria-Palestine to Babylon after Carchemish. [1]
+- this event → **followed by** → Death of Jehoiakim and the three-month reign of Jehoiachin (2 Kgs 24:5–9) (high): Jehoiakim's rebellion precedes his death.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik places Nebuchadnezzar's first strike in 605, when "a few choice captives (such as Daniel)" were taken. [4]
+
+## Unanswered questions and research gaps
+
+- Josephus Ant. 10.6.1 (Jehoiakim's tribute) not used.
+
+## Sources
+
+1. Lendering, Jona (ed.). ABC 5 (Jerusalem Chronicle / Chronicle of the early years of Nebuchadnezzar) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/> — *ancient primary text; verification: claim checked*
+2. Wiseman, D. J.. Some Historical Problems in the Book of Daniel (in Notes on Some Problems in the Book of Daniel, pp. 9–18). Tyndale Press. 1965. <https://ocb.uni-tuebingen.de/Record/KEI00121498> — *scholarly commentary; verification: claim checked*
+3. Pleiades contributors. Carchemish — Pleiades place 658465. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/658465> — *institutional database; verification: claim checked*
+4. Guzik, David. 2 Kings 24 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-24/> — *theological commentary; verification: claim checked*

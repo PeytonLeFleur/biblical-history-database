@@ -623,6 +623,246 @@ Antiochus went east in 166/165 to raise funds; after failing to plunder a sanctu
 - **164 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
   - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+- **164 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
+  - Latest bound from: syn_01M4V26XK6GQF2K5WHZ95HHKJW (anchor)
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

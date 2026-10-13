@@ -5339,5 +5339,265 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4V7CG286A5RCXZEPAMNZ968",
+  "title": "2 Kings 24 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/2-kings-24/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on 2 Kings 24",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "First campaign 605 (a few choice captives such as Daniel); Jehoiakim died about December 598 (quoting Wiseman); 2 Chr 36:6 and Jer 22:19 noted; Jehoiachin 18 (Kings) vs 8 (2 Chr 36:9, \"probably a copyist's error\"); 10,000 and 7,000 + 1,000 deportees; Ezekiel among the captives; Zedekiah 21, eleven years; final destruction 586",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V7CG2CMR06J1QJ07Q1NXAB",
+  "title": "2 Kings 25 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/2-kings-25/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on 2 Kings 25",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Siege from 10/X of Zedekiah's 9th year about a year and a half (Wiseman); breach 9/IV of the 11th year; capture at Jericho, judgment at Riblah; Temple burned 7/V of Nebuchadnezzar's 19th year; Gedaliah killed in the 7th month and flight to Egypt; Jehoiachin released 27/XII of the 37th year by Evil-Merodach; no discussion of 587 vs 586 or of Jer 52:12",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V7CG2F5QV3X4F372GXP728",
+  "title": "When Did Jerusalem Fall?",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Young, Rodger C."
+  ],
+  "publisher": "Journal of the Evangelical Theological Society 47/1 (2004) 21–38",
+  "journal": null,
+  "published_date": null,
+  "url": "https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-1_47-1-pp021-038_JETS.pdf",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Freely available PDF from ETS; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the PDF",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Babylonian records for the destruction are lost; scholars divide on 586 vs 587 (Hughes lists eleven for each; Thiele 586; Wiseman and Kitchen 587); conclusion: Jerusalem fell in Tammuz 587; Ezekiel and 2 Kgs 24–25 use Tishri years, 2 Kings non-accession years for Nebuchadnezzar; the siege began c. January 589",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+  "title": "Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Josephus",
+   "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 10.6.3; 10.8.2–5; 10.11.2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "10.6.3: Nebuchadnezzar slew Jehoiakim and had him thrown before the walls unburied, took 3,000 captives including Ezekiel; Jehoiachin reigned three months and ten days; 10.8.2: city taken 9/IV of Zedekiah's 11th year; 10.8.5: Temple fired on the first day of the fifth month, Zedekiah's 11th and Nebuchadnezzar's 18th year; 10.11.2: Evil-Merodach freed Jeconiah and reigned eighteen years",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V7CG2NGAJ0682Y2G99E33H",
+  "title": "Rablê (Riblah) — Pleiades place 431124909",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/431124909",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched https://pleiades.stoa.org/places/431124909/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "reprPoint lon 36.5491417, lat 34.4321487",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 36.5491417, lat 34.4321487.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V7CG2QMRT8W9F5VAS25EX6",
+  "title": "Jericho — Pleiades place 687917",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/687917",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched https://pleiades.stoa.org/places/687917/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "reprPoint lon 35.44414173292347, lat 31.871016814381463",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 35.44414173292347, lat 31.871016814381463.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V7CG2TVKKRE3FP5M3EDDM4",
+  "title": "Tell en-Nasbeh (Mizpah in Benjamin?) — Pleiades place 666067876",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/666067876",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched https://pleiades.stoa.org/places/666067876/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Names: Tall al-Naṣbah (certain); Mizpah in Benjamin (less-certain); reprPoint lon 35.2165, lat 31.8854",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Name \"Mizpah in Benjamin\" attached with association certainty \"less-certain\"; representative point lon 35.2165, lat 31.8854.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

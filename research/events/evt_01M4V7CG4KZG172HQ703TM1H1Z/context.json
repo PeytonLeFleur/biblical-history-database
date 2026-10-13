@@ -1,0 +1,95 @@
+{
+  "event_id": "evt_01M4V7CG4KZG172HQ703TM1H1Z",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Jehoiakim \"slept with his fathers\" and Jehoiachin, eighteen, reigned three months; Egypt no longer campaigned beyond its border.",
+    "passage": "2Kgs.24.5-2Kgs.24.9"
+  },
+  "setting": {
+    "period": "Winter 598/597",
+    "body": "Wiseman (via Guzik) dates Jehoiakim's death about December 598, three months before the chronicle's capture of Jerusalem (March 597).",
+    "citations": [
+      "src_01M4V7CG286A5RCXZEPAMNZ968",
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "reign_id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "role": "Died",
+      "citations": []
+    },
+    {
+      "person_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+      "reign_id": "rgn_01M4V7CG43A9BS405RJNJMF4R0",
+      "role": "Successor",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [
+    {
+      "term": "slept with his fathers",
+      "gloss": "Regnal-death formula in Kings; does not by itself state the manner of death.",
+      "citations": [
+        "src_01M4V7CG286A5RCXZEPAMNZ968"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Natural death in Jerusalem (\"slept with his fathers\")",
+      "proponents": [
+        "2 Kings 24:6 (text)"
+      ],
+      "summary": "The regnal formula used for peaceful deaths.",
+      "citations": [
+        "src_01M4V7CG286A5RCXZEPAMNZ968"
+      ]
+    },
+    {
+      "label": "Dishonoured death / unburied",
+      "proponents": [
+        "Jer 22:18–19; 36:30 (text)",
+        "Josephus, Ant. 10.6.3 (killed by Nebuchadnezzar and thrown before the walls)"
+      ],
+      "summary": "Jeremiah foretells \"the burial of a donkey\"; Josephus narrates his execution.",
+      "citations": [
+        "src_01M4V7CG2JYBNMG4AEMGZ1WTHK"
+      ]
+    },
+    {
+      "label": "Bound for Babylon",
+      "proponents": [
+        "2 Chronicles 36:6 (text)"
+      ],
+      "summary": "Chronicles says Nebuchadnezzar bound him in fetters to carry him to Babylon, without saying he arrived.",
+      "citations": [
+        "src_01M4V7CG286A5RCXZEPAMNZ968"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG286A5RCXZEPAMNZ968",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes the divergent accounts of Jehoiakim's end and treats Chronicles' \"eight years old\" for Jehoiachin as a probable copyist's error (some manuscripts read eighteen).",
+      "url": "https://enduringword.com/bible-commentary/2-kings-24/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "constraints": "Dated through the capture event (three months later).",
+    "locations": "Jerusalem implied; no location research needed."
+  }
+}

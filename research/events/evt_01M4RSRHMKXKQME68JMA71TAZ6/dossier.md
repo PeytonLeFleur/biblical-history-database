@@ -619,6 +619,246 @@ A private episode within the court training described in Daniel 1.
 - **607 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: period
   - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
   - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **606 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNPM17PYY7TJW4P6FD|cst_01M4RSRHMNPM17PYY7TJW4P6FD#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMNRVZH824817JVJARJ|cst_01M4RSRHMNRVZH824817JVJARJ#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **608 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN3P3NJHMWSTYBAKA4|cst_01M4RSRHMN3P3NJHMWSTYBAKA4#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
+- **607 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RSRHMN5E29BQZXV30WBP7Z|cst_01M4RSRHMN5E29BQZXV30WBP7Z#own-convention → cst_01M4RSRHMVS9020EHMWDWWSFR6 → “the steward whom the prince of the eunuchs had appointed over Daniel”
+  - Latest bound from: —
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

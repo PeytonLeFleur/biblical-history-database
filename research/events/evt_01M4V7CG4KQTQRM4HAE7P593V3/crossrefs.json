@@ -1,0 +1,108 @@
+{
+  "event_id": "evt_01M4V7CG4KQTQRM4HAE7P593V3",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG59XRHX5ZAAY5E9F57R",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KQTQRM4HAE7P593V3"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.4-Jer.52.5"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel: same date.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG59PFRXC0GYX7ZDYX2S",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KQTQRM4HAE7P593V3"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.39.1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel in Jeremiah 39.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG59MCMEV6S7F9FFTMQ0",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KQTQRM4HAE7P593V3"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.24.1-Ezek.24.2"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Ezekiel is told to write down the very day the king of Babylon besieged Jerusalem.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG59X08H63RBB9BJP0VB",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KQTQRM4HAE7P593V3"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The siege ended with the breach.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7CG4PX2D5RSJJ13YE9YES"
+  ]
+}

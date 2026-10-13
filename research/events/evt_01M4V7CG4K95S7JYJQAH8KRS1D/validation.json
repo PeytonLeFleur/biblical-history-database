@@ -1,0 +1,52 @@
+{
+  "event_id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V7CWNSXPWP2NYEPJYCM9S3",
+    "rev_01M4V7CWNX7YNJBM0AKNK2RSQ0"
+  ],
+  "research_gaps": [
+    "Josephus Ant. 10.6.1 (Jehoiakim's tribute) not used."
+  ],
+  "disputes": [],
+  "export_eligible": true
+}

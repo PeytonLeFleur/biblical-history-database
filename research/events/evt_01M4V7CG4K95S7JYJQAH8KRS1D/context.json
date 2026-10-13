@@ -1,0 +1,148 @@
+{
+  "event_id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In Jehoiakim's days Nebuchadnezzar came up and Jehoiakim served him three years before rebelling; bands of Chaldeans, Arameans, Moabites and Ammonites were sent against Judah.",
+    "passage": "2Kgs.24.1-2Kgs.24.4"
+  },
+  "setting": {
+    "period": "Late reign of Jehoiakim (605–598)",
+    "body": "After Carchemish (605) the Babylonian Chronicle records Nebuchadnezzar's yearly campaigns in Ḫatti; it records no siege of Jerusalem before 597. In 601 Nebuchadnezzar fought Egypt with heavy losses on both sides (ABC 5), a likely occasion for a vassal's revolt.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "src_01M4RSRHKK20JJA4YS6CSHSHGZ"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "reign_id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    },
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "King of Babylon",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+    "kgd_01M4RSRHM0ETGRBDHFPX8477ET"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7CG4PNV6FFZ1G3BV7N4YJ",
+      "subject": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+      "object": "evt_01M4RSRHMK3M1T8QP83M1FMEQB",
+      "relation": "after",
+      "textual_assertion": "the king of Babylon had taken … all that belonged to the king of Egypt",
+      "passage": "2Kgs.24.7",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Babylonian control of Syria-Palestine follows Carchemish (605)."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    },
+    {
+      "id": "cst_01M4V7CG4PSKZGE87F1Q0APA1A",
+      "subject": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+      "object": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+      "relation": "before",
+      "textual_assertion": "Then he turned and rebelled … At that time the servants of Nebuchadnezzar … came up to Jerusalem",
+      "passage": "2Kgs.24.1-2Kgs.24.10",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4V7CG4PTY57PC6ET938GBQC",
+      "subject": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "within_reign",
+      "textual_assertion": "In his days … Jehoiakim became his servant",
+      "passage": "2Kgs.24.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM9M410W5353093YPSM",
+      "role": "Background: Babylonian victory over Egypt",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Submission in 605/604 (Dan 1:1 campaign)",
+      "proponents": [
+        "D. J. Wiseman (1965)",
+        "D. Guzik"
+      ],
+      "summary": "The three years of service began after Carchemish when Nebuchadnezzar's army overran Ḫatti; Dan 1:1 records the same campaign.",
+      "citations": [
+        "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+        "src_01M4V7CG286A5RCXZEPAMNZ968"
+      ]
+    },
+    {
+      "label": "Submission in 604/603 (Ashkelon campaign) or later",
+      "proponents": [
+        "Discussed in the Dan 1:1 dossier"
+      ],
+      "summary": "The chronicle's campaign of Kislev 604 (Ashkelon) is another occasion; the identity of the Dan 1:1 event with 2 Kgs 24:1 is under review on the Dan 1 record.",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG286A5RCXZEPAMNZ968",
+      "layer": "interpretation",
+      "paraphrase": "Guzik places Nebuchadnezzar's first strike in 605, when \"a few choice captives (such as Daniel)\" were taken.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-24/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

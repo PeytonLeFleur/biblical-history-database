@@ -1,0 +1,31 @@
+{
+  "kind": "place",
+  "id": "loc_01M4V7CG3ZDKM95SN9B8FSNAVZ",
+  "slug": "mizpah-in-benjamin",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V7CG2TVKKRE3FP5M3EDDM4"
+  ],
+  "notes": null,
+  "primary_name": "Mizpah (in Benjamin)",
+  "place_type": "settlement",
+  "modern_name": "Tell en-Nasbeh (proposed)",
+  "modern_country": "Palestinian territories (West Bank)",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4V7CG3VXGPCAFSFQNCFFABA",
+      "label": "Tell en-Nasbeh (Pleiades 666067876)",
+      "lat": 31.885435649999998,
+      "lon": 35.2165359,
+      "coordinate_precision": "site",
+      "confidence": "probable",
+      "geom_source_id": "src_01M4V7CG2TVKKRE3FP5M3EDDM4",
+      "proponents": [],
+      "reasoning": "Pleiades attaches the name \"Mizpah in Benjamin\" to Tell en-Nasbeh with association certainty \"less-certain\"; recorded as probable, not certain."
+    }
+  ],
+  "description": "Seat of Gedaliah's administration after 587/586 (2 Kgs 25:23; Jer 40:6)."
+}

@@ -1,0 +1,122 @@
+{
+  "event_id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On 9/IV of the eleventh year, with famine severe, a breach was made; Zedekiah fled toward the Arabah, was overtaken in the plains of Jericho, judged at Riblah, his sons killed and his eyes put out, and he was taken to Babylon in bronze fetters.",
+    "passage": "2Kgs.25.3-2Kgs.25.7"
+  },
+  "setting": {
+    "period": "Summer 587 or 586 BC",
+    "body": "Babylonian records of the destruction have not been found; the year depends on how the biblical regnal years are counted (Young 2004). Riblah, south of Homs, was Nebuchadnezzar's base in Syria.",
+    "citations": [
+      "src_01M4V7CG2F5QV3X4F372GXP728"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+      "reign_id": "rgn_01M4V7CG47VRNNGB04RH1J6KTQ",
+      "role": "Captured",
+      "citations": []
+    },
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "Judge at Riblah",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7CG4P21X1HRG0FGCD35EA",
+      "subject": "evt_01M4V7CG4KGADJMB1V56P6DYEQ",
+      "object": "evt_01M4V7CG4KQTQRM4HAE7P593V3",
+      "relation": "months_later",
+      "textual_assertion": "So the city was besieged until the eleventh year … On the ninth day of the fourth month",
+      "passage": "2Kgs.25.2-2Kgs.25.3",
+      "offset": {
+        "min": 17,
+        "max": 31
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "From 10/X of year 9 to 9/IV of year 11 is about 18 months with Nisan years and about 30 months with Tishri years; both are allowed (Young 2004 discusses the options)."
+      ],
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728"
+      ],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Breached city",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4V7CG3VP1TB3CR7PF3GKRW1",
+      "role": "Where Zedekiah was overtaken (its plains)",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4V7CG3QJN0W3XYGQ7FFJDPT",
+      "role": "Babylonian headquarters; judgment of Zedekiah",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Tammuz 587 BC",
+      "proponents": [
+        "R. C. Young (2004)",
+        "D. J. Wiseman and K. A. Kitchen (as listed by Young)"
+      ],
+      "summary": "Ezekiel and 2 Kings use Tishri years; 2 Kings counts Nebuchadnezzar's years without an accession year.",
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728"
+      ]
+    },
+    {
+      "label": "Tammuz 586 BC",
+      "proponents": [
+        "E. R. Thiele (as reported by Young)",
+        "D. Guzik (586)"
+      ],
+      "summary": "Nebuchadnezzar's nineteenth year counted Babylonian-style; \"the date most widely used in the popular literature\" (Young).",
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728",
+        "src_01M4V7CG286A5RCXZEPAMNZ968"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG2CMR06J1QJ07Q1NXAB",
+      "layer": "interpretation",
+      "paraphrase": "Guzik follows the narrative to Riblah and links Zedekiah's blinding with Ezek 12:13.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-25/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

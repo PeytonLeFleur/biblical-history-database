@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V7CWP0N3MZJ6F2P7GN6TV9",
+  "record_kind": "event",
+  "record_id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:34.720Z",
+  "decisions": [],
+  "is_fixture": false
+}

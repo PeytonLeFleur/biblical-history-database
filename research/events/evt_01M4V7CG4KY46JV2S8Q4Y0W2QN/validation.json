@@ -1,0 +1,53 @@
+{
+  "event_id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V7CWP2GA6TJ4X5ZBN3KSJ8",
+    "rev_01M4V7CWP4F4P0DTGKBYVXEH3E"
+  ],
+  "research_gaps": [
+    "Weidner (1939) edition of the ration tablets not read.",
+    "The number of deportees is not confirmed externally."
+  ],
+  "disputes": [],
+  "export_eligible": true
+}
