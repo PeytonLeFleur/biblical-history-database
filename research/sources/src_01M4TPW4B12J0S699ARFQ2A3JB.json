@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TPW4B12J0S699ARFQ2A3JB",
+  "title": "Fall of Babylon — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Fall_of_Babylon",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Cuneiform texts say \"without battle\"; Briant calls this \"prima facie unlikely\" and Michalowski notes no contemporary evidence supports it; Herodotus and Xenophon describe a diverted river and festival; Tolini proposes a forced entry through the Enlil Gate; Belshazzar's death per Xenophon \"not widely accepted\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Its Julian date (12 Oct 539) is cited to a 2025 newspaper and a 2025 popular article, not to a chronology table; not relied on for the date.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

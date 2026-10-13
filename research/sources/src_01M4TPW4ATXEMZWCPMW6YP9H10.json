@@ -1,0 +1,39 @@
+{
+  "id": "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+  "title": "Cyrus Cylinder — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Cogan, Mordechai (trans., COS 2003)",
+    "Schaudig, Hanspeter (edition)",
+    "van der Spek, R. J."
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Cyrus Cylinder (BM 90920)",
+  "license": "Translation after Cogan; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Line 17: Marduk made Cyrus enter Babylon \"without fighting or battle\"; Nabonidus presented as impious (lines 3–8); no mention of Belshazzar, Ugbaru/Gubaru, a feast, or a Median king named Darius",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Page states only that the cylinder is in the British Museum.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

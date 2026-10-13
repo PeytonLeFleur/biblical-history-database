@@ -1,0 +1,70 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+  "slug": "cyrus-ii-reign-babylon",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ],
+  "notes": "Cyrus's reign as king of Persia began c. 559 BC; this record covers only his rule over Babylon, which the Babylonian documents date by.",
+  "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+  "model_id": null,
+  "title": "King of Babylon and of the lands (Babylonian dating)",
+  "start": {
+    "earliest": -538,
+    "latest": -538
+  },
+  "end": {
+    "earliest": -529,
+    "latest": -529
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -538,
+      "month": 10,
+      "day": 12
+    },
+    "to": {
+      "year": -538,
+      "month": 10,
+      "day": 13
+    },
+    "basis": "Babylonian texts date Cyrus from the fall of Babylon, 16 Tašrītu (13 Oct 539 in Parker & Dubberstein; 12 Oct in other conversions); his accession year runs to Nisan 538, and year 1 begins 1 Nisan = 24 Mar 538.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -529,
+      "month": 8,
+      "day": 12
+    },
+    "to": {
+      "year": -529,
+      "month": 8,
+      "day": 31
+    },
+    "basis": "Last Cyrus-dated tablets 12 Aug 530; first Cambyses tablet as sole king 31 Aug 530 (Parker & Dubberstein 1942, p. 12).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "regnal_convention": {
+    "reckoning": "accession",
+    "new_year": "nisan",
+    "alternative_group": null,
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  }
+}

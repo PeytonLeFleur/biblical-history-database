@@ -2132,5 +2132,606 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4ANVR01F7B65HENPWZG",
+  "title": "Daniel 5 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-5/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on Daniel 5",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Belshazzar eldest son of Nabonidus and co-regent from 553 BC (Nabonidus Cylinder, BM); \"father\" = grandfather or predecessor; third ruler because Belshazzar was second; mene/tekel/peres read as verbs (after Adam Clarke); Herodotus on the diverted Euphrates; Darius the Mede = Gubaru, a sub-king under Cyrus; cites Isa 44:28–45:7 and Jer 51:57–58 as fulfilled",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+  "title": "Nabonidus Cylinder from Ur — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Beaulieu, Paul-Alain (trans.)",
+   "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/nabonidus-cylinder-from-ur/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Nabonidus Cylinder from Ur (ziggurat foundation text)",
+  "license": "Translation by P.-A. Beaulieu; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Nabonidus prays to Sin for \"the eldest son — my offspring\" Bel-šar-uṣur (Belshazzar), that reverence be placed in his heart",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Page gives no museum number. Dated c. 540 BC, probably Nabonidus's last building inscription.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+  "title": "Verse Account of Nabonidus — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Oppenheim, A. Leo (trans., ANET 1950)",
+   "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/anet/verse-account-of-nabonidus/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Verse Account of Nabonidus",
+  "license": "Translation after Oppenheim in ANET; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Col. ii 5–6: Nabonidus gave the army to his eldest son and \"entrusted the kingship to him\", then went to Tayma, killed its prince and built a palace there; col. iv lacuna has \"the king is mad\"; cols. iv–vi praise Cyrus",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Page gives no museum number. The text is hostile to Nabonidus and favourable to Cyrus.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+  "title": "Cyrus Cylinder — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Cogan, Mordechai (trans., COS 2003)",
+   "Schaudig, Hanspeter (edition)",
+   "van der Spek, R. J."
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Cyrus Cylinder (BM 90920)",
+  "license": "Translation after Cogan; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Line 17: Marduk made Cyrus enter Babylon \"without fighting or battle\"; Nabonidus presented as impious (lines 3–8); no mention of Belshazzar, Ugbaru/Gubaru, a feast, or a Median king named Darius",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Page states only that the cylinder is in the British Museum.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4AVX4G2CV6Q0YQCR5DJ",
+  "title": "Cyrus Cylinder — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Cyrus_Cylinder",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read (first 100,000 characters)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Found at Babylon (Esagila foundation deposit per the article; Rassam gave conflicting locations) in March 1879 by Hormuzd Rassam; British Museum BM 90920, reg. 1880,0617.1941 (cited to the BM database); baked clay, Akkadian; dated 539–538 or 539–530 BC",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4AXDY6KJMV1CBN03N7N",
+  "title": "Nabonidus Cylinder — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Nabonidus_Cylinder",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Four cylinders found by J. G. Taylor in 1854 in the foundation of the ziggurat at Ur; name Belshazzar as eldest son; no museum numbers given for the Ur cylinders",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4AY6AQG3ZA8NDG70BFB",
+  "title": "Belshazzar — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Belshazzar",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Called mār šarri, never šarru; documents not dated by his years; Nabonidus left Babylon May 553, returned Oct 543 (best supported); fate unknown (\"none of the sources record it\"); possible descent from Nebuchadnezzar through his mother (Shea 1982 on Nitocris); critical view via Collins, Laughlin, Seow",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4AZ36MRBPK409CVFJ9G",
+  "title": "Darius the Mede — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Darius_the_Mede",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Identifications: Gubaru/Ugbaru; Cyrus (Wiseman 1965, Frye 1994, Colless 1992); Cambyses II; son of Astyages (Josephus, Jerome); Cyaxares II (Jerome, Calvin, Ussher, Keil, Hengstenberg; Hirsch defends Xenophon); Darius I projected (Newsom & Breed 2014); literary figure (Rowley 1935; Hill 2009); \"most scholars view this Darius as a literary fiction\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4B12J0S699ARFQ2A3JB",
+  "title": "Fall of Babylon — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Fall_of_Babylon",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Cuneiform texts say \"without battle\"; Briant calls this \"prima facie unlikely\" and Michalowski notes no contemporary evidence supports it; Herodotus and Xenophon describe a diverted river and festival; Tolini proposes a forced entry through the Enlil Gate; Belshazzar's death per Xenophon \"not widely accepted\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Its Julian date (12 Oct 539) is cited to a 2025 newspaper and a 2025 popular article, not to a chronology table; not relied on for the date.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4B24WCAYH9QR7BGTDVP",
+  "title": "Belshazzar's feast — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Belshazzar%27s_feast",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Seow 2003 pp. 80–84: mənê = mina, təqêl = shekel, parsîn = half-pieces, pun on Persia; verbs numbered/weighed/divided; possible total of 62 shekels = Darius's age; Collins 1984: a court-contest legend where historical accuracy is not essential; Belshazzar never king (Seow 2003 pp. 4–6)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+  "title": "Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24)",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Parker, Richard A.",
+   "Dubberstein, Waldo H."
+  ],
+  "publisher": "University of Chicago Press (Oriental Institute)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the OCR text of the 1942 edition",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "p. 11: Nabonidus Chronicle iii 14–18: Sippar fell VII/14/17 = 11 Oct 539, Babylon fell VII/16/17 = 13 Oct, Cyrus entered VIII/3 = 29 Oct; last Nabonidus tablet from Uruk dated the day after the fall (VII/17/17 = 14 Oct); Nabonidus's first texts 25 May 556, sole ruler by end of June 556; Neriglissar's last text 12 Apr 556; Cyrus's last texts Aug 530 (12 Aug), Cambyses's first 31 Aug 530; year tables: Cyrus year 1 Nisan 1 = 24 Mar 538",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text of the Oriental Institute PDF; OCR has digit errors (e.g. \"589\" for 539) checked against context. The 1956 revised edition was not consulted.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+  "title": "Nabonidus and Belshazzar: A Study of the Closing Events of the Neo-Babylonian Empire",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Dougherty, Raymond Philip"
+  ],
+  "publisher": "Yale University Press (Yale Oriental Series Researches 15)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/nabonidusbelshaz0000raym",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Published 1929; US public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the OCR text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "pp. 96–97: oath formulas dated in Nabonidus's 12th year swear by Nabonidus, king of Babylon, \"and Belshazzar, the son of the king\" (Pinches; two Yale tablets) — no other oath in the name of a king's son; pp. 196–197: \"third ruler\" read as third after Nabonidus and Belshazzar (first suggested by Grotius); notes Torrey's alternative reading; Genouillac's Nabonidus-behind-Nebuchadnezzar thesis called \"extremely hypothetical\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4B76Q4APZ5JCJX4ME8M",
+  "title": "Herodotus, Histories 1.188–191 (trans. G. C. Macaulay)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Herodotus",
+   "Macaulay, G. C. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2707",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2707",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Herodotus, Histories 1.188–191",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the Gutenberg text (pglaf mirror) and read 1.188–191",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "1.188: the king attacked was Labynetos son of Labynetos; 1.190–191: after a siege Cyrus diverted the river into the lake, the Persians entered by the riverbed at about mid-thigh depth, and those in the centre, \"holding a festival\", did not know the city was taken",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4B8WE50Y13FDWAB144C",
+  "title": "Xenophon, Cyropaedia 7.5 (trans. H. G. Dakyns)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Xenophon",
+   "Dakyns, Henry Graham (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2085",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2085",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Xenophon, Cyropaedia 7.5",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the Gutenberg text (pglaf mirror) and read Book VII ch. 5",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "7.5.15–16: trenches opened on a night of \"high festival\" so the riverbed became a road; 7.5.26–33: Gobryas and Gadatas reach the palace, the unnamed king is found sword in hand and killed",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4B94PGPS0RF27FB9FR2",
+  "title": "Xenophon, Cyropaedia 1.5 (trans. H. G. Dakyns)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Xenophon",
+   "Dakyns, Henry Graham (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2085",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2085",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Xenophon, Cyropaedia 1.5.2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the Gutenberg text and read Book I ch. 5",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "1.5.2: on Astyages' death his son Cyaxares, brother of Cyrus's mother, took the Median kingdom",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TPW4BBB2NTGHS972QYDRX2",
+  "title": "Josephus, Antiquities 10.11.2–4 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Josephus",
+   "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 10.11.2–4 (Whiston)",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the Gutenberg text (pglaf mirror) and read 10.11.2–4",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "10.11.2: \"Baltasar, who by the Babylonians was called Naboandelus\", fought by Cyrus and Darius king of Media; 10.11.4: Babylon taken by Darius with his kinsman Cyrus, Darius aged 62, \"the son of Astyages\", with \"another name among the Greeks\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_01M4TPW4BX2TGB5X624DQ1S28M",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: Parker & Dubberstein, Babylonian Chronology (SAOC 24)",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": "OCR text of the 1942 edition read."
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion taken from Parker & Dubberstein's astronomically computed tables."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4TPW4CCPTN8YK6KQJNCKXTJ",
+      "statement": "Daniel was active at the Babylonian court until Cyrus's first year.",
+      "layer": "text",
+      "passage": "Dan.1.21",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No source outside the Bible mentions Daniel; the evidence fixes only the calendar of Cyrus's first Babylonian year.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TPW4CCF10ZTVBENACD6WV9"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4TPW4CCF10ZTVBENACD6WV9",
+      "claim_ids": [
+        "clm_01M4TPW4CCPTN8YK6KQJNCKXTJ"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Cyrus year 1 begins 1 Nisan = 24 Mar 538; year 2 begins 12 Mar 537.",
+      "locator": "Year tables (Cyrus)",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "parker-dubberstein"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

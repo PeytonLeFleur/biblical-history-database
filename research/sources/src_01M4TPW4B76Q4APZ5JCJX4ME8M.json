@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TPW4B76Q4APZ5JCJX4ME8M",
+  "title": "Herodotus, Histories 1.188–191 (trans. G. C. Macaulay)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Herodotus",
+    "Macaulay, G. C. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2707",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2707",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Herodotus, Histories 1.188–191",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the Gutenberg text (pglaf mirror) and read 1.188–191",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "1.188: the king attacked was Labynetos son of Labynetos; 1.190–191: after a siege Cyrus diverted the river into the lake, the Persians entered by the riverbed at about mid-thigh depth, and those in the centre, \"holding a festival\", did not know the city was taken",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

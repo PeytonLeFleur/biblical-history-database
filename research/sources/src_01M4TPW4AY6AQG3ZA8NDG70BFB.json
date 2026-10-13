@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TPW4AY6AQG3ZA8NDG70BFB",
+  "title": "Belshazzar — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Belshazzar",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Called mār šarri, never šarru; documents not dated by his years; Nabonidus left Babylon May 553, returned Oct 543 (best supported); fate unknown (\"none of the sources record it\"); possible descent from Nebuchadnezzar through his mother (Shea 1982 on Nitocris); critical view via Collins, Laughlin, Seow",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

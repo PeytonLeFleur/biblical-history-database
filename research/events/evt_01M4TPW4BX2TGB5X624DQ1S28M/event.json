@@ -1,0 +1,59 @@
+{
+  "id": "evt_01M4TPW4BX2TGB5X624DQ1S28M",
+  "slug": "daniel-until-first-year-of-cyrus",
+  "title": "Daniel continues until the first year of King Cyrus (Dan 1:21)",
+  "summary": "Daniel 1:21 states that Daniel continued until the first year of King Cyrus. The statement marks a point in Cyrus's first year in Babylon; Daniel 10:1 later dates a vision to Cyrus's third year.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4RSRHMK07KYBBCHVR3A5P84"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "reference_to_other_event",
+  "categories": [
+    "personal_narrative"
+  ],
+  "priority": "medium",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.1.21",
+      "mention_type": "reference",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

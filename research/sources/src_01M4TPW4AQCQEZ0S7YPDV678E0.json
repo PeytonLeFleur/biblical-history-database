@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+  "title": "Nabonidus Cylinder from Ur — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Beaulieu, Paul-Alain (trans.)",
+    "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/nabonidus-cylinder-from-ur/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Nabonidus Cylinder from Ur (ziggurat foundation text)",
+  "license": "Translation by P.-A. Beaulieu; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Nabonidus prays to Sin for \"the eldest son — my offspring\" Bel-šar-uṣur (Belshazzar), that reverence be placed in his heart",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Page gives no museum number. Dated c. 540 BC, probably Nabonidus's last building inscription.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

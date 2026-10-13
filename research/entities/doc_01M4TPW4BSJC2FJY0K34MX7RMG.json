@@ -1,0 +1,22 @@
+{
+  "kind": "document",
+  "id": "doc_01M4TPW4BSJC2FJY0K34MX7RMG",
+  "slug": "verse-account-of-nabonidus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Verse Account of Nabonidus",
+  "document_type": "Polemical poem (Persian-period, pro-Cyrus)",
+  "language": "Akkadian",
+  "standard_reference": "Verse Account of Nabonidus",
+  "artifact_id": null,
+  "date": {
+    "earliest": -538,
+    "latest": null
+  },
+  "description": "Hostile account of Nabonidus's reign: he entrusts the kingship to his eldest son, goes to Tayma, and is replaced by the pious Cyrus.",
+  "editions": [
+    "src_01M4TPW4ASF7ABS0ZRPC5YKVK7"
+  ]
+}

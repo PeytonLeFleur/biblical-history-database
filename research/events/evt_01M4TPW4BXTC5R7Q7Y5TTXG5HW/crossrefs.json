@@ -1,0 +1,122 @@
+{
+  "event_id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TPW4CBCS5TBNY4DKPR3MH3",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "passage",
+        "ref": "Isa.45.1-Isa.45.7"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Guzik reads Isaiah's naming of Cyrus and the opening of gates before him (Isa 44:28–45:7) as fulfilled in the capture of Babylon.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4ANVR01F7B65HENPWZG"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "D. Guzik; traditional Christian interpretation",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TPW4CBC5J1MZ995C8905JR",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "passage",
+        "ref": "Jer.51.57"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "Guzik reads Jeremiah's oracle that Babylon's princes would be made drunk and \"sleep a perpetual sleep\" as fulfilled at the feast and fall.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4ANVR01F7B65HENPWZG"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "D. Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TPW4CBMDM4MWASJDBV4E8F",
+      "type": "source_attestation",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+      },
+      "to": {
+        "kind": "document",
+        "id": "doc_01M4RV9NRCTVGH19J236HH7GX8"
+      },
+      "confidence": "high",
+      "layer": "evidence",
+      "rationale": "Dated narrative of the capture.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4CBANQ6WE82KA3CZGXB",
+      "type": "artifact_association",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+      },
+      "to": {
+        "kind": "artifact",
+        "id": "art_01M4TPW4BMMPMC59NJBBHFSCD1"
+      },
+      "confidence": "high",
+      "layer": "evidence",
+      "rationale": "Cyrus's own account of his entry into Babylon.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+          "src_01M4TPW4AVX4G2CV6Q0YQCR5DJ"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Ugbaru / Gubaru (ABC 7)",
+      "resolved_to": "per_01M4TPW4BE1XAKPBB09NM5A8MA",
+      "basis": "Kept as two records (Ugbaru, Gubaru) because the identity of the two spellings is debated",
+      "confidence": "low"
+    }
+  ],
+  "new_constraints": []
+}

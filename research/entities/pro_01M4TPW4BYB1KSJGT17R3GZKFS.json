@@ -1,0 +1,59 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4TPW4BYB1KSJGT17R3GZKFS",
+  "slug": "mene-tekel-peres-dan-5",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "MENE, MENE, TEKEL, UPHARSIN (Dan 5:24–28)",
+  "passage": "Dan.5.24-Dan.5.28",
+  "speaker": "Daniel",
+  "vision_id": null,
+  "description": "Writing on the palace wall which Daniel reads as: God has numbered the kingdom and ended it; the king is weighed and found wanting; the kingdom is divided and given to the Medes and Persians.",
+  "in_text_interpretation": "Daniel's reading (5:26–28) and the narrated sequel that night (5:30–31).",
+  "interpretations": [
+    {
+      "id": "ful_01M4TPW4C04R3FVPY64B1MVCK0",
+      "label": "Fulfilled that night in the fall of Babylon",
+      "approach": "preterist",
+      "framework": "Traditional Jewish and Christian",
+      "proponents": [
+        "The narrative itself (5:30–31)",
+        "D. Guzik"
+      ],
+      "summary": "The kingdom of Belshazzar ended when Babylon passed to Cyrus in October 539 BC.",
+      "referents": [
+        {
+          "symbol": "PERES",
+          "referent": "Babylon given to the Medes and Persians"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TPW4ANVR01F7B65HENPWZG"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TPW4C0HDDWMHMX1MA99SVC",
+      "label": "Weights and wordplay",
+      "approach": "preterist",
+      "framework": "Philological",
+      "proponents": [
+        "C.-L. Seow (2003), via Wikipedia"
+      ],
+      "summary": "As nouns the words name weights — a mina, a shekel and half-pieces — which Daniel reinterprets as verbs; parsîn also puns on \"Persia\". If the half-pieces are two half-shekels the total is 62 shekels, the age given for Darius the Mede. This is a reading of the words, not a fulfillment claim.",
+      "referents": [],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TPW4B24WCAYH9QR7BGTDVP"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

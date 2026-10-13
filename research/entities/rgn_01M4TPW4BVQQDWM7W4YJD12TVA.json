@@ -1,0 +1,71 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4TPW4BVQQDWM7W4YJD12TVA",
+  "slug": "nabonidus-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ],
+  "notes": "Babylonian accession-year dating; reign length 17 years (accession year 556/555).",
+  "person_id": "per_01M4RV9NR4E3F6M8CK96RBYNYK",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "model_id": null,
+  "title": "King of Babylon",
+  "start": {
+    "earliest": -555,
+    "latest": -555
+  },
+  "end": {
+    "earliest": -538,
+    "latest": -538
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -555,
+      "month": 4,
+      "day": 12
+    },
+    "to": {
+      "year": -555,
+      "month": 6,
+      "day": 30
+    },
+    "basis": "Between Neriglissar's last text (12 Apr 556) and the end of June 556, by which Nabonidus was sole ruler; his first dated texts are from 25 May 556 (Parker & Dubberstein 1942, p. 11).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -538,
+      "month": 10,
+      "day": 12
+    },
+    "to": {
+      "year": -538,
+      "month": 10,
+      "day": 13
+    },
+    "basis": "Babylon fell on 16 Tašrītu of year 17 (ABC 7 iii 15) = 13 Oct 539 in Parker & Dubberstein (1942, p. 11); other modern conversions give 12 Oct. A Nabonidus-dated tablet from Uruk of the next day reflects delayed news.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+    ]
+  },
+  "regnal_convention": {
+    "reckoning": "accession",
+    "new_year": "nisan",
+    "alternative_group": null,
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  }
+}

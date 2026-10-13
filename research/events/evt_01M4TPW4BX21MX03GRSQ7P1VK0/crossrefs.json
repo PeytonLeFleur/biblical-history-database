@@ -1,0 +1,177 @@
+{
+  "event_id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TPW4CAGRSBJCNJ41YSNZWH",
+      "type": "possible_identity",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TPW4BE1XAKPBB09NM5A8MA"
+      },
+      "confidence": "speculative",
+      "layer": "reconstruction",
+      "rationale": "Proposed because Ugbaru led the entry into Babylon (ABC 7); he died within a month.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4AZ36MRBPK409CVFJ9G",
+          "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4CASQBWH5VSMTR50H1P",
+      "type": "possible_identity",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TPW4BGGC0KY0GYZNGGGAR0"
+      },
+      "confidence": "speculative",
+      "layer": "reconstruction",
+      "rationale": "Guzik and other conservative interpreters identify Darius with Gubaru, who appointed officials (cf. Dan 6:1).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4ANVR01F7B65HENPWZG",
+          "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4CAY0HYSN57CNGQWY5G",
+      "type": "possible_identity",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4RSRHM7B6RCC44X9Z519KP5"
+      },
+      "confidence": "speculative",
+      "layer": "reconstruction",
+      "rationale": "Wiseman, Frye and Colless (via Wikipedia) read Dan 6:28 appositionally.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4CA128G8BAXM2RN8CNQ",
+      "type": "possible_identity",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TPW4BK1T3HGF6KVJFSY9TY"
+      },
+      "confidence": "speculative",
+      "layer": "reconstruction",
+      "rationale": "Josephus and Jerome, followed by Calvin, Ussher and Keil, link Darius to the son of Astyages known from Xenophon.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4BBB2NTGHS972QYDRX2",
+          "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4CAMJMAGFBA3A1NWQY8",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.51.11"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Critical scholars argue the author drew the Medes into the story from prophecies that the Medes would take Babylon (Jer 51:11, 28; Isa 13:17).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4CANWWCVNZCHRB9EZ3X",
+      "type": "historical_consequence",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "Daniel links the end of Belshazzar's rule to the transfer of the kingdom (5:28–31); the dating to the night of the capture is an assumption.",
+      "provenance": {
+        "method": "operator_inference",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Darius the Mede",
+      "resolved_to": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+      "basis": "Kept as a distinct record; candidate identities linked as possible_identity only",
+      "confidence": "low"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4TPW4C5XQGQ06YBD8DD93JW",
+    "cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4TPW4BE1XAKPBB09NM5A8MA",
+  "slug": "ugbaru",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ],
+  "notes": null,
+  "canonical_name": "Ugbaru (governor of Gutium)",
+  "aliases": [],
+  "description": "Governor of Gutium who entered Babylon with Cyrus's army \"without a battle\" on 16 Tašrītu and died on the night of 11 Arahsamna (ABC 7 iii 15–22). Often equated with the Gobryas of Xenophon.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

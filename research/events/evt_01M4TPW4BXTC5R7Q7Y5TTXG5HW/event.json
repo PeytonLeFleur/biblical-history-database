@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+  "slug": "fall-of-babylon-539-bc",
+  "title": "Fall of Babylon to Cyrus (October 539 BC)",
+  "summary": "After defeating the Babylonian army at Opis and taking Sippar, Cyrus's forces under Ugbaru, governor of Gutium, entered Babylon without a battle on 16 Tašrītu of Nabonidus's 17th year; Nabonidus was captured, and Cyrus entered the city on 3 Arahsamna.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4TPW4BYGPGXFRM57NBHH10C"
+  ],
+  "external_reason": "External historical event documented by the Nabonidus Chronicle (ABC 7) and the Cyrus Cylinder; implied by Daniel 5:28–31.",
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "reference_to_other_event",
+  "categories": [
+    "military",
+    "political"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.5.28-Dan.5.31",
+      "mention_type": "reference",
+      "notes": "Implied; Daniel does not narrate the capture."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

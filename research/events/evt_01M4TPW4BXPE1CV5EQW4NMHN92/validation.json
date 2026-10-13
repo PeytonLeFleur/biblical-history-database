@@ -1,0 +1,57 @@
+{
+  "event_id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4TPW4C88MF9EEPV7AX51VDR",
+    "rev_01M4TPWXYGG4ZV9KGZVFX231YB"
+  ],
+  "research_gaps": [
+    "Old Greek Daniel 5 not read.",
+    "Shea (1982) on Nitocris not read.",
+    "Montgomery's and Torrey's \"third ruler\" arguments not read directly.",
+    "Museum numbers for the Ur cylinders and the Verse Account not verified."
+  ],
+  "disputes": [
+    "Belshazzar was \"king\" of Babylon and the son of Nebuchadnezzar (Dan 5:1–2, 11, 18, 22)."
+  ],
+  "export_eligible": true
+}

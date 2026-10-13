@@ -1,0 +1,31 @@
+{
+  "kind": "person",
+  "id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+  "slug": "belshazzar",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+    "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+    "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+    "src_01M4TPW4AY6AQG3ZA8NDG70BFB"
+  ],
+  "notes": null,
+  "canonical_name": "Belshazzar",
+  "aliases": [
+    {
+      "alias": "Bēl-šarra-uṣur",
+      "language": "Akkadian",
+      "source_id": "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+      "passage": null
+    },
+    {
+      "alias": "Baltasar",
+      "language": "Greek/English (Josephus, Whiston)",
+      "source_id": "src_01M4TPW4BBB2NTGHS972QYDRX2",
+      "passage": null
+    }
+  ],
+  "description": "Eldest son of Nabonidus (Bēl-šarra-uṣur), styled \"son of the king\" in Babylonian texts; exercised royal authority in Babylonia while Nabonidus was at Tayma. Called king in Daniel 5 and 7–8.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+}
