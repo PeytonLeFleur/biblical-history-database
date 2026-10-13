@@ -1,0 +1,125 @@
+{
+  "event_id": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Polybius 29.27 (LacusCurtius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Driver on 11:29–30",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Battle sites not researched archaeologically in this session."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V26XMFT70JAEK7SS5EK9KT",
+      "statement": "The Roman envoy Popillius Laenas compelled Antiochus IV to withdraw from Egypt by drawing a circle round him.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "strongly_supported",
+      "reasoning": "Polybius, a contemporary, gives the account; Jerome's version agrees in substance. Jerome calls the envoy \"Marcus\", Polybius's editors and Driver \"Gaius\".",
+      "supporting_evidence": [
+        "evd_01M4V26XMFQ17ZKNSD7TCHZF1R",
+        "evd_01M4V26XMFP3HRCRJ6A4XXKPJF"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V26XMF1N6S4A7R7S6P63Y8"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V26XMFQ17ZKNSD7TCHZF1R",
+      "claim_ids": [
+        "clm_01M4V26XMFT70JAEK7SS5EK9KT"
+      ],
+      "source_id": "src_01M4V26XG9RPBA54WT2HK3WF4J",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Popilius drew a circle round Antiochus; after brief hesitation he said he would do all the Romans demanded.",
+      "locator": "29.27.5–6",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "polybius"
+    },
+    {
+      "id": "evd_01M4V26XMFP3HRCRJ6A4XXKPJF",
+      "claim_ids": [
+        "clm_01M4V26XMFT70JAEK7SS5EK9KT"
+      ],
+      "source_id": "src_01M4V26XG2J788VAQZ1TYKC6N0",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Laenas drew a circle in the sand around Antiochus, who withdrew.",
+      "locator": "on 11:29–30",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "jerome-porphyry"
+    },
+    {
+      "id": "evd_01M4V26XMF1N6S4A7R7S6P63Y8",
+      "claim_ids": [
+        "clm_01M4V26XMFT70JAEK7SS5EK9KT"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Eleusis, four miles from Alexandria; Livy 45.12.",
+      "locator": "p. 181",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "livy-via-driver"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Livy 45.12 not read directly."
+  ]
+}

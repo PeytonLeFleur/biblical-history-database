@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XGVR4QZD3TJKSPZEGBR",
+  "slug": "ptolemy-i-soter",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy I Soter",
+  "aliases": [],
+  "description": "Son of Lagus; satrap and then king of Egypt (d. 283/282 BC).",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+}

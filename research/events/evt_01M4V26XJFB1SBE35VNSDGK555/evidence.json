@@ -1,0 +1,200 @@
+{
+  "event_id": "evt_01M4V26XJFB1SBE35VNSDGK555",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Polybius 31.9 (LacusCurtius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "BM 35603 (Livius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "WEB 1 Maccabees 6",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Battle sites not researched archaeologically in this session."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V26XMTV1F5HH90S5YVYW24",
+      "statement": "Antiochus IV died at Tabae in Persia in 164 BC after a failed attempt to plunder a temple in Elymaïs.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "A Greek historian, the Babylonian king list and 1 Maccabees agree.",
+      "supporting_evidence": [
+        "evd_01M4V26XMTSTXA5C177C9RWFC3",
+        "evd_01M4V26XMT8H4A5ARZSVRJ27JK",
+        "evd_01M4V26XMT3E7CKXCFEFVC1YRX"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V26XMTN0QETZ9GQSY116CD",
+      "statement": "Daniel 11:40–45 accurately describes the circumstances of Antiochus IV's last campaign and death.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "disputed",
+      "reasoning": "Porphyry's reconstruction (via Jerome) is the only source for a fourth Egyptian campaign; Driver judges it suspect. Futurist interpreters avoid the problem by referring 11:36–45 to a future figure. Recorded as disputed.",
+      "supporting_evidence": [
+        "evd_01M4V26XMTHJ5X7VXQ52DJ91EP"
+      ],
+      "counterevidence": [
+        "evd_01M4V26XMT2P8CT34J59H588B4",
+        "evd_01M4V26XMTVFWBXQAV97V2MVQ0"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V26XMTSTXA5C177C9RWFC3",
+      "claim_ids": [
+        "clm_01M4V26XMTV1F5HH90S5YVYW24"
+      ],
+      "source_id": "src_01M4V26XGBF1RG8YQBJ62G9798",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Thwarted at the sanctuary of Artemis in Elymaïs; died at Tabae in Persia.",
+      "locator": "31.9",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "polybius"
+    },
+    {
+      "id": "evd_01M4V26XMT8H4A5ARZSVRJ27JK",
+      "claim_ids": [
+        "clm_01M4V26XMTV1F5HH90S5YVYW24"
+      ],
+      "source_id": "src_01M4V26XGJKSDPV1SX90XVZV14",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "It was heard that Antiochus IV died.",
+      "locator": "rev., year 148 Kislimu",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-king-list"
+    },
+    {
+      "id": "evd_01M4V26XMT3E7CKXCFEFVC1YRX",
+      "claim_ids": [
+        "clm_01M4V26XMTV1F5HH90S5YVYW24"
+      ],
+      "source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Failed to take Elymaïs, fell sick and died in the 149th year (Macedonian epoch).",
+      "locator": "1 Macc 6:1–16",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-maccabees"
+    },
+    {
+      "id": "evd_01M4V26XMTHJ5X7VXQ52DJ91EP",
+      "claim_ids": [
+        "clm_01M4V26XMTN0QETZ9GQSY116CD"
+      ],
+      "source_id": "src_01M4V26XG2J788VAQZ1TYKC6N0",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Porphyry claims a fourth Egyptian campaign, a march east against Artaxias, a camp at \"Apedno\" between Tigris and Euphrates, and death at Tabae.",
+      "locator": "on 11:40–45 (Porphyry)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "porphyry-via-jerome"
+    },
+    {
+      "id": "evd_01M4V26XMT2P8CT34J59H588B4",
+      "claim_ids": [
+        "clm_01M4V26XMTN0QETZ9GQSY116CD"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "No hint of a final conquest of Egypt outside Jerome; Egypt was under Roman protection; Antiochus was in financial difficulty; he died in Persia, not between the sea and the holy mountain.",
+      "locator": "pp. 196–197; Introduction p. xc",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V26XMTVFWBXQAV97V2MVQ0",
+      "claim_ids": [
+        "clm_01M4V26XMTN0QETZ9GQSY116CD"
+      ],
+      "source_id": "src_01M4V26XGBF1RG8YQBJ62G9798",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Death at Tabae in Persia.",
+      "locator": "31.9",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "polybius"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "2 Maccabees 9 not read.",
+    "Appian Syr. 66 (death of Antiochus) not read."
+  ]
+}

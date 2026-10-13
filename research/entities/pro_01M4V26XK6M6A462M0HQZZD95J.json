@@ -1,0 +1,139 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6M6A462M0HQZZD95J",
+  "slug": "kings-of-the-south-and-north-dan-11-5-20",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The kings of the south and the north (Dan 11:5–20)",
+  "passage": "Dan.11.5-Dan.11.20",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "A sequence of wars and marriage alliances between the king of the south and the king of the north, ending with a raiser of taxes who is destroyed \"not in anger, and not in battle\".",
+  "in_text_interpretation": "The text calls them only \"the king of the south\" and \"the king of the north\"; it names Egypt (11:8) and \"the glorious land\" (11:16) and no persons.",
+  "interpretations": [
+    {
+      "id": "ful_01M4V26XKHJDWRAARA7PS1YYD5",
+      "label": "Ptolemies and Seleucids from Ptolemy I to Seleucus IV",
+      "approach": "preterist",
+      "framework": "Agreed by Porphyry and Jerome; followed by historicist, critical and evangelical commentators",
+      "proponents": [
+        "Porphyry (per Jerome: \"no point of controversy\" up to 11:20)",
+        "Jerome",
+        "I. Newton",
+        "S. R. Driver",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the sequence matches the Ptolemaic (south) and Seleucid (north) kings as seen from Judaea. 11:5 Ptolemy I and his former officer Seleucus I; 11:6 Berenice, daughter of Ptolemy II, married to Antiochus II and killed after his death; 11:7–9 her brother Ptolemy III invades and carries off gods and treasure; 11:10 the sons of Seleucus II — Seleucus III and Antiochus III; 11:11–12 Ptolemy IV wins at Raphia (Polybius 5.82–87) but does not follow up; 11:13–16 Antiochus III returns, defeats Scopas at Panium and takes Judaea (Polybius 16.18–19, 39); 11:17 Cleopatra I given to Ptolemy V; 11:18 Antiochus turns to the coastlands and is stopped by a Roman commander (Lucius Scipio, Magnesia); 11:19 he dies in his own land (BM 35603: \"killed in Elam\"); 11:20 Seleucus IV, whose minister Heliodorus was sent for the Temple money, killed by conspiracy (Appian, Syr. 45). Historical evidence: Polybius, Appian, the Babylonian king list. Objection: the correlations are made by the interpreters; Daniel names no one.",
+      "referents": [
+        {
+          "symbol": "King of the south (11:5)",
+          "referent": "Ptolemy I"
+        },
+        {
+          "symbol": "One of his princes",
+          "referent": "Seleucus I"
+        },
+        {
+          "symbol": "Daughter of the king of the south",
+          "referent": "Berenice"
+        },
+        {
+          "symbol": "King of the north (11:6)",
+          "referent": "Antiochus II"
+        },
+        {
+          "symbol": "Shoot from her roots",
+          "referent": "Ptolemy III"
+        },
+        {
+          "symbol": "His sons (11:10)",
+          "referent": "Seleucus III and Antiochus III"
+        },
+        {
+          "symbol": "King of the south (11:11)",
+          "referent": "Ptolemy IV"
+        },
+        {
+          "symbol": "Daughter of women (11:17)",
+          "referent": "Cleopatra I"
+        },
+        {
+          "symbol": "A commander (11:18)",
+          "referent": "Lucius Cornelius Scipio"
+        },
+        {
+          "symbol": "Raiser of taxes (11:20)",
+          "referent": "Seleucus IV Philopator"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+        "evt_01M4V26XJFEATDTW928Q7YE19Q",
+        "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+        "evt_01M4V26XJFV4SE5BXJ3X0QF67S"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0",
+        "src_01M4TSKK83SFG091RT082Z4EXG",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+        "src_01M4V26XG4J1EZGM5AZCY5A43P",
+        "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+        "src_01M4V26XGDYMER5DXT6N1DD3YC",
+        "src_01M4V26XGJKSDPV1SX90XVZV14"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V26XKH81BN7MYK3HJZC3XR",
+      "label": "Variants at 11:20: Ptolemy V (Porphyry), Trypho (\"the Hebrews\"), Seleucus III (Guzik)",
+      "approach": "preterist",
+      "framework": "Minority variants reported by Jerome; Guzik",
+      "proponents": [
+        "Porphyry (per Jerome)",
+        "Jewish teachers reported by Jerome",
+        "D. Guzik"
+      ],
+      "summary": "Porphyry took the raiser of taxes to be Ptolemy V Epiphanes; \"the Hebrews\" took the vile one of 11:20–21 to be Trypho; Guzik names \"Seleucus III, the eldest son of Antiochus III\". Objections: Jerome answers that Ptolemy did not rise \"in the place\" of Antiochus III; the Babylonian king list makes Seleucus IV (not Seleucus III, who preceded Antiochus III) the son who succeeded Antiochus III and reigned 12 years.",
+      "referents": [
+        {
+          "symbol": "Raiser of taxes (11:20)",
+          "referent": "Ptolemy V / Trypho / \"Seleucus III\""
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0",
+        "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+        "src_01M4V26XGJKSDPV1SX90XVZV14"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V26XKHHG6KYC7QDE4Y4Y1B",
+      "label": "11:14: the Onias temple at Leontopolis (Jerome)",
+      "approach": "preterist",
+      "framework": "Patristic",
+      "proponents": [
+        "Jerome"
+      ],
+      "summary": "\"The children of the violent among your people … to establish the vision\" are the Jews who followed the high priest Onias to Egypt and built a rival temple (citing Isa 19:19); Driver instead refers the verse to Jews who sided with Antiochus III (not read in full). The dating of the Leontopolis temple (later than Antiochus III) is a problem for Jerome's reading.",
+      "referents": [
+        {
+          "symbol": "Children of the violent",
+          "referent": "Onias's followers in Egypt"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

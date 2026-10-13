@@ -1,0 +1,65 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6WA1HHE7SNBA2JNX6",
+  "slug": "four-persian-kings-dan-11-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "Four kings of Persia; the fourth stirs up all against Greece (Dan 11:2)",
+  "passage": "Dan.11.2",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "Three more kings will arise in Persia; the fourth, far richer, will stir up all against the realm of Greece.",
+  "in_text_interpretation": "The text names Persia and Greece (Yavan) but no king.",
+  "interpretations": [
+    {
+      "id": "ful_01M4V26XK7RYV8QX14B5C2E57B",
+      "label": "Cambyses, (Pseudo-)Smerdis, Darius I, Xerxes",
+      "approach": "preterist",
+      "framework": "Patristic and historical-critical",
+      "proponents": [
+        "Jerome",
+        "S. R. Driver (counting Gaumata, or with Cyrus included)"
+      ],
+      "summary": "After Cyrus (10:1) come Cambyses, the Magian Smerdis/Gaumata and Darius I; the fourth is Xerxes, whose wealth and invasion of Greece match the verse (Herodotus 7). Driver prefers counting Cyrus as the first, so that Gaumata may be omitted and Xerxes is still the fourth. Jerome rejects identifying the fourth with Darius III, who was \"the fourteenth\" king after Cyrus.",
+      "referents": [
+        {
+          "symbol": "The fourth king",
+          "referent": "Xerxes I"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V26XK7DPVG5K7TS2GHETF2",
+      "label": "Cyrus, Cambyses, Darius I; Xerxes the fourth",
+      "approach": "historicist",
+      "framework": "Protestant historicist",
+      "proponents": [
+        "I. Newton (1733)",
+        "D. Guzik (the count may omit Cyrus or Smerdis)"
+      ],
+      "summary": "Newton counts Cyrus, Cambyses and Darius Hystaspes as the three and Xerxes as the fourth. Guzik names only Xerxes and leaves the count open. Objection (all readings): Daniel then passes over the remaining Persian kings to Alexander — Jerome: Scripture \"summarizes only the most important matters\".",
+      "referents": [
+        {
+          "symbol": "The fourth king",
+          "referent": "Xerxes I"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK83SFG091RT082Z4EXG",
+        "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

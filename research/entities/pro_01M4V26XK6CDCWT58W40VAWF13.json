@@ -1,0 +1,107 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6CDCWT58W40VAWF13",
+  "slug": "king-who-exalts-himself-dan-11-36-45",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The king who exalts himself (Dan 11:36–45)",
+  "passage": "Dan.11.36-Dan.11.45",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "The king does according to his will, magnifies himself above every god, honours a god of fortresses; at the time of the end he overruns the glorious land and Egypt, is troubled by news from east and north, plants his tents between the sea and the glorious holy mountain, and comes to his end with no one to help.",
+  "in_text_interpretation": "No name or date; \"at the time of the end\" (11:40).",
+  "interpretations": [
+    {
+      "id": "ful_01M4V26XKRSDFY6BH17TBHVR5C",
+      "label": "Antiochus IV continued; 11:40–45 an unfulfilled or idealised forecast of his end",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "S. R. Driver (1900)",
+        "J. A. Montgomery (1927)",
+        "Porphyry (per Jerome, with a fourth Egyptian campaign)"
+      ],
+      "summary": "Textual reasoning: \"the king\" continues the subject of 11:21–35; Antiochus's divine titles and Hellenising religious policy fit 11:36–39. But 11:40–45 (a final conquest of Egypt, death between the sea and the holy mountain) does not match the record: Antiochus went east in 166/165 and died at Tabae in Persia (Polybius 31.9; BM 35603, 164 BC). Driver: the prophecy correctly foretold his speedy doom, while the circumstances \"do not correspond to what we know of the historical reality\" — like details in earlier prophets. Porphyry's fourth Egyptian expedition is known only through Jerome and conflicts with Roman protection of Egypt (Bevan, via Driver).",
+      "referents": [
+        {
+          "symbol": "The king",
+          "referent": "Antiochus IV"
+        },
+        {
+          "symbol": "He will come to his end",
+          "referent": "Death of Antiochus IV (164 BC)"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V26XJFB1SBE35VNSDGK555"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4V26XG2J788VAQZ1TYKC6N0",
+        "src_01M4V26XGBF1RG8YQBJ62G9798",
+        "src_01M4V26XGJKSDPV1SX90XVZV14"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V26XKR2ED2DS1NWFVE087F",
+      "label": "A future Antichrist (transition at 11:36)",
+      "approach": "futurist",
+      "framework": "Patristic; Jewish (per Jerome); modern dispensational",
+      "proponents": [
+        "Jerome",
+        "Jewish teachers reported by Jerome",
+        "D. Guzik (Antiochus a \"trailer\", the Antichrist the \"feature\")"
+      ],
+      "summary": "The king of 11:36–45 is the end-time Antichrist who sits in the Temple as God (2 Thess 2:4); he dies between the seas at the holy mountain (Jerome: near the Mount of Olives, with Apedno = \"his throne\"). Guzik places the transition at 11:36 and speculates that the king of the north may be Russia. Future reference; not a claim of historical fulfilment. Objection (Driver): there is no break in the text at 11:36.",
+      "referents": [
+        {
+          "symbol": "The king",
+          "referent": "The Antichrist"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0",
+        "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V26XKRRND4RG6CACBGX5XN",
+      "label": "The Byzantine \"Greek\" empire; king of the south = Saracens, king of the north = Turks (historicist)",
+      "approach": "historicist",
+      "framework": "Protestant historicist",
+      "proponents": [
+        "I. Newton (1733)"
+      ],
+      "summary": "After the division of the Roman empire, \"the king\" is the empire of the Greeks, which honoured \"Mahuzzims\" (the saints and their relics) and forbade marriage to monks; at the time of the end the Saracens (south) and Turks (north) attacked it, and the Turkish empire took Egypt, Libya and Ethiopia. Objection: requires the subject to change several times without textual signal.",
+      "referents": [
+        {
+          "symbol": "The king",
+          "referent": "The Byzantine empire"
+        },
+        {
+          "symbol": "King of the south",
+          "referent": "The Saracens"
+        },
+        {
+          "symbol": "King of the north",
+          "referent": "The Turks"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK83SFG091RT082Z4EXG"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

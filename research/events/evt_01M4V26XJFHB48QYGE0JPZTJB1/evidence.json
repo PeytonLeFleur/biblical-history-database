@@ -1,0 +1,127 @@
+{
+  "event_id": "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Appian Syr. 31–35 (Livius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Driver on 11:18",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Battle sites not researched archaeologically in this session."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V26XM8H4M7MHB82NCB26ZB",
+      "statement": "Antiochus III was defeated by the Romans at Magnesia (190 BC) and forced to give up Asia Minor west of the Taurus.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "strongly_supported",
+      "reasoning": "Two independent literary lines (Livy via Driver; Jerome/Porphyry), with Appian's battle narrative as context. Livy was not read directly.",
+      "supporting_evidence": [
+        "evd_01M4V26XM87HBXQHJJ7KDPX9Z9",
+        "evd_01M4V26XM8555HNS6V3DDXDZFP"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V26XM8PH9DM2MB724A6GM2"
+      ],
+      "limitations": [
+        "Livy 37 not read directly."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V26XM87HBXQHJJ7KDPX9Z9",
+      "claim_ids": [
+        "clm_01M4V26XM8H4M7MHB82NCB26ZB"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Decisive battle in autumn 190 at Magnesia; Antiochus's army defeated by Lucius Cornelius Scipio (Livy 37.39–44); renounced claims west of the Taurus.",
+      "locator": "pp. 175–176 (on 11:18)",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "livy-via-driver"
+    },
+    {
+      "id": "evd_01M4V26XM8555HNS6V3DDXDZFP",
+      "claim_ids": [
+        "clm_01M4V26XM8H4M7MHB82NCB26ZB"
+      ],
+      "source_id": "src_01M4V26XG2J788VAQZ1TYKC6N0",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Vanquished by Lucius Scipio with Africanus and confined beyond the Taurus.",
+      "locator": "on 11:17–19",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "jerome-porphyry"
+    },
+    {
+      "id": "evd_01M4V26XM8PH9DM2MB724A6GM2",
+      "claim_ids": [
+        "clm_01M4V26XM8H4M7MHB82NCB26ZB"
+      ],
+      "source_id": "src_01M4V26XGFKAR388VN0GJQ9KVG",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "Battle narrative: the phalanx \"broke into disorderly flight\".",
+      "locator": "Syr. 34–35",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "appian"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Livy 37.39–44 and the treaty of Apamea (Polybius 21.42) not read directly."
+  ]
+}

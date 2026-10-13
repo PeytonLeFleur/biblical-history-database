@@ -1,0 +1,57 @@
+{
+  "id": "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+  "slug": "battle-of-magnesia-190-bc",
+  "title": "Battle of Magnesia: Rome defeats Antiochus III (190 BC)",
+  "summary": "After his invasion of Greece, Antiochus III was defeated by the Romans under Lucius Scipio at Magnesia near Smyrna and forced to give up Asia Minor west of the Taurus.",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": "Proposed as the \"prince\" who ends Antiochus's reproach (Dan 11:18).",
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "reference_to_other_event",
+  "categories": [
+    "military"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.11.18",
+      "mention_type": "reference",
+      "notes": "Proposed correlation only."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_applicable",
+      "updated": "2026-10-13",
+      "reason": "External historical event, researched because interpreters read Daniel 11 as foretelling it; no biblical narrative of it in the 66-book index."
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

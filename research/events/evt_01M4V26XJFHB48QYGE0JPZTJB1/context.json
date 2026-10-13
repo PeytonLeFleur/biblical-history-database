@@ -1,0 +1,65 @@
+{
+  "event_id": "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The king of the north turns to the coastlands and takes many, but a commander puts an end to his insolence.",
+    "passage": "Dan.11.18"
+  },
+  "setting": {
+    "period": "Roman–Seleucid War (192–188 BC)",
+    "body": "Antiochus III crossed into Greece, was defeated at Thermopylae (191) and then at Magnesia near Smyrna by Lucius Scipio (190); by the subsequent treaty he gave up Asia Minor west of the Taurus (Driver after Livy; Jerome).",
+    "citations": [
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "src_01M4V26XG2J788VAQZ1TYKC6N0",
+      "src_01M4V26XGFKAR388VN0GJQ9KVG"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XHH65QF71XTTV8HGQAH",
+      "reign_id": null,
+      "role": "Seleucid king (defeated)",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    },
+    {
+      "person_id": "per_01M4V26XJ97W0YXX24J3C0BFEC",
+      "reign_id": null,
+      "role": "Roman commander",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A",
+    "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+  ],
+  "constraints": [],
+  "synchronisms": [
+    {
+      "id": "syn_01M4V26XJSMXTSNK5JN3TAZKR4",
+      "type": "documentary_correlation",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4V26XG2J788VAQZ1TYKC6N0",
+        "src_01M4V26XGFKAR388VN0GJQ9KVG"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {
+    "commentary": "Interpretive commentary is recorded on the Daniel 11 prophecy records.",
+    "competing_reconstructions": "No competing reconstruction of the event itself found in the sources read."
+  }
+}

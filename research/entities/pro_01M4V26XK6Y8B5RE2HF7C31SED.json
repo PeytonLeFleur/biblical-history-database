@@ -1,0 +1,50 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6Y8B5RE2HF7C31SED",
+  "slug": "mighty-king-and-fourfold-division-dan-11-3-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "A mighty king and the fourfold division of his kingdom (Dan 11:3–4)",
+  "passage": "Dan.11.3-Dan.11.4",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "A mighty king rules with great dominion; at his height his kingdom is broken toward the four winds, not to his posterity.",
+  "in_text_interpretation": "The text does not name the king; it parallels the goat's great horn (8:8, 21–22), which the text calls \"the first king\" of Greece.",
+  "interpretations": [
+    {
+      "id": "ful_01M4V26XKDGG7V8F56X4K7YRV8",
+      "label": "Alexander the Great and the partition among his generals",
+      "approach": "preterist",
+      "framework": "Common to patristic, historicist, critical and evangelical interpreters",
+      "proponents": [
+        "Jerome",
+        "I. Newton",
+        "S. R. Driver",
+        "D. Guzik"
+      ],
+      "summary": "Alexander died young and his heirs did not inherit; the empire was divided among his generals (Jerome: Ptolemy, Philip Arrhidaeus, Seleucus, Antigonus; Newton: Ptolemy, Antigonus, Lysimachus, Cassander, with Seleucus later). \"Others besides these\" (11:4) = lesser kingdoms (Jerome). Acceptance: no dissent found among sources consulted.",
+      "referents": [
+        {
+          "symbol": "Mighty king",
+          "referent": "Alexander the Great"
+        },
+        {
+          "symbol": "Four winds",
+          "referent": "The successor kingdoms (lists differ)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0",
+        "src_01M4TSKK83SFG091RT082Z4EXG",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+        "src_01M4TTS0H4CEAKS7ZHP91RP73B"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

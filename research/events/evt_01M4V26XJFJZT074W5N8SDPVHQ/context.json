@@ -1,0 +1,63 @@
+{
+  "event_id": "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Daniel speaks of the king of the south, angered, defeating the great army of the king of the north but not prevailing. (The text names no one; the correlation is the interpreters'.)",
+    "passage": "Dan.11.11-Dan.11.12"
+  },
+  "setting": {
+    "period": "Fourth Syrian War (219–217 BC)",
+    "body": "Antiochus III had recovered much of Coele-Syria; Ptolemy IV met him near Raphia. Polybius describes Antiochus's wing succeeding while his left and phalanx broke; Antiochus withdrew with heavy losses, Ptolemy recovered Coele-Syria and agreed a one-year truce.",
+    "citations": [
+      "src_01M4V26XG4J1EZGM5AZCY5A43P",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XHH65QF71XTTV8HGQAH",
+      "reign_id": null,
+      "role": "Seleucid king (defeated)",
+      "citations": [
+        "src_01M4V26XG4J1EZGM5AZCY5A43P"
+      ]
+    },
+    {
+      "person_id": "per_01M4V26XHM6Z1B9HD7PTKQWK26",
+      "reign_id": null,
+      "role": "Ptolemaic king (victor)",
+      "citations": [
+        "src_01M4V26XG4J1EZGM5AZCY5A43P"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A",
+    "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+  ],
+  "constraints": [],
+  "synchronisms": [
+    {
+      "id": "syn_01M4V26XJJJEK05H05Z4NT8AK5",
+      "type": "documentary_correlation",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4V26XG4J1EZGM5AZCY5A43P",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {
+    "commentary": "Interpretive commentary is recorded on the Daniel 11 prophecy records.",
+    "competing_reconstructions": "No competing reconstruction of the event itself found in the sources read."
+  }
+}

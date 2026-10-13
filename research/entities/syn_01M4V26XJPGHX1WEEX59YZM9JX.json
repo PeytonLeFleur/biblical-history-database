@@ -1,0 +1,36 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJPGHX1WEEX59YZM9JX",
+  "slug": "panium-c-200-198-bc",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "title": "Battle of Panium, c. 200–198 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFEATDTW928Q7YE19Q",
+  "external_entity": "Polybius 16.18–19, 16.39",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+  "proposed_synchronization": "Antiochus III defeated Scopas at Paneion; Driver dates the decisive defeat and Scopas's surrender to 198 BC; Scopas was sent out in 200.",
+  "independent_date": {
+    "earliest": -199,
+    "latest": -197
+  },
+  "precision": "year",
+  "dating_method": "Driver's dating of Polybius's narrative",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "Range 200–198 kept because the battle and the siege of Sidon are dated differently in the literature (only Driver read)."
+  ],
+  "evidence_strength": "weak",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFEATDTW928Q7YE19Q",
+  "window": null,
+  "reviewer_status": "machine_proposed"
+}

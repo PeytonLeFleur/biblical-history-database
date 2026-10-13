@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XJ3HN3YFVRQ5D3AH3X1",
+  "slug": "ptolemy-vi-philometor",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy VI Philometor",
+  "aliases": [],
+  "description": "Ptolemaic king (180–145 BC), son of Cleopatra I and nephew of Antiochus IV, whose invasions of Egypt (170–168) were ended by Roman intervention.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+}

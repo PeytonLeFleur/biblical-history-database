@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V26XGDYMER5DXT6N1DD3YC",
+  "title": "Appian, Syrian Wars 41–45 — Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Appian",
+    "White, Horace (trans., 1899)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-9/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Appian, Syriaca 45",
+  "license": "Translation H. White (1899), public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched the Livius page (part 9, §§41–45)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "§45: \"Seleucus was assassinated as the result of a conspiracy of a certain Heliodorus\"; Eumenes and Attalus expelled Heliodorus and installed Antiochus",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Translator attribution taken from the Livius series; not stated on the fetched section.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

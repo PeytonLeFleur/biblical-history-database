@@ -1,0 +1,62 @@
+{
+  "id": "evt_01M4V26XJFNDVRK064BRXG17HH",
+  "slug": "desecration-of-the-temple-15-chislev-145-se",
+  "title": "Desecration of the Temple: the \"abomination of desolation\" (15 Chislev 145 SE, 168/167 BC)",
+  "summary": "Under Antiochus IV the regular offerings were stopped and on 15 Chislev of Seleucid year 145 an \"abomination of desolation\" was built on the altar at Jerusalem; pagan sacrifices began ten days later.",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": "Proposed as the fulfilment of Dan 11:31 (and 8:11–13; 9:27; 12:11) by preterist interpreters; cited by Matt 24:15 for a later desolation.",
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "reference_to_other_event",
+  "categories": [
+    "religious"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.11.31",
+      "mention_type": "reference",
+      "notes": "Proposed correlation only."
+    },
+    {
+      "passage": "Matt.24.15",
+      "mention_type": "reference",
+      "notes": "Jesus refers to \"the abomination of desolation, spoken of through Daniel\"."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_applicable",
+      "updated": "2026-10-13",
+      "reason": "External historical event, researched because interpreters read Daniel 11 as foretelling it; no biblical narrative of it in the 66-book index."
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

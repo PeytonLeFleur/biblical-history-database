@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XHM6Z1B9HD7PTKQWK26",
+  "slug": "ptolemy-iv-philopator",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG4J1EZGM5AZCY5A43P",
+    "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy IV Philopator",
+  "aliases": [],
+  "description": "Ptolemaic king (222–204 BC); victor at Raphia.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+}

@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "He returns to the south, but the latter time is not as the former, for ships of Kittim come against him; he is grieved and returns in indignation against the holy covenant.",
+    "passage": "Dan.11.29-Dan.11.30"
+  },
+  "setting": {
+    "period": "Sixth Syrian War (170–168 BC)",
+    "body": "Antiochus IV invaded Egypt in 170/169 and again in 168. Near Alexandria, at Eleusis, the Roman envoy Popillius Laenas handed him the Senate's decree, drew a circle round him and demanded an answer before he stepped out; Antiochus agreed to withdraw (Polybius 29.27). Driver: Kittim (Cyprus/western coastlands) here stands for the Roman envoys.",
+    "citations": [
+      "src_01M4V26XG9RPBA54WT2HK3WF4J",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+      "reign_id": "rgn_01M4TSKK8ZQ9SVQ7AZ0FG80084",
+      "role": "Seleucid king",
+      "citations": [
+        "src_01M4V26XG9RPBA54WT2HK3WF4J"
+      ]
+    },
+    {
+      "person_id": "per_01M4V26XJ67R4RQFRPJVQ4QSQS",
+      "reign_id": null,
+      "role": "Roman envoy",
+      "citations": [
+        "src_01M4V26XG9RPBA54WT2HK3WF4J"
+      ]
+    },
+    {
+      "person_id": "per_01M4V26XJ3HN3YFVRQ5D3AH3X1",
+      "reign_id": null,
+      "role": "Ptolemaic king",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A",
+    "kgd_01M4V26XGNRWKHR7D5X6RN1ASB",
+    "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+  ],
+  "constraints": [],
+  "synchronisms": [
+    {
+      "id": "syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ",
+      "type": "documentary_correlation",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4V26XG9RPBA54WT2HK3WF4J",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {
+    "commentary": "Interpretive commentary is recorded on the Daniel 11 prophecy records.",
+    "competing_reconstructions": "No competing reconstruction of the event itself found in the sources read."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V26XPGK23KN9557NHRB35Z",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKRSDFY6BH17TBHVR5C",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Antiochus IV continued; 11:40–45 an unfulfilled or idealised forecast of his end",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.272Z",
+  "decisions": [],
+  "is_fixture": false
+}

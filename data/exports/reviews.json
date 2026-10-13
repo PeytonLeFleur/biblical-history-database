@@ -1012,5 +1012,408 @@
   "status": "open",
   "created_at": "2026-10-13T16:29:14.999Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XMP7GAH3ACGN8W3K3CK",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V26XMMG122X4N6NDVR04EJ",
+  "record_revision": 1,
+  "reason": "Disputed: desecration in Dec 168 or Dec 167 BC (Seleucid-era epoch)",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.214Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XMVDEP2F48DG25C99R3",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V26XMTN0QETZ9GQSY116CD",
+  "record_revision": 1,
+  "reason": "Disputed: do Dan 11:40–45 match the end of Antiochus IV?",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.219Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XMY4FQP7921AGZD3DH4",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWWN0E8DN05FJATD48",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The rich fourth king who stirs up all against Greece",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.222Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XMZD0HVS10P47EQKVGH",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWH293WHJZ56Y6EP66",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The mighty king whose kingdom is divided to the four winds",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.223Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN039KGBXEHY8ARZWRN",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMW0P8MKCEE61QGP4Z2",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): \"The king of the south\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.224Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN1WC35QFMV4WXY8FEG",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWMKGYM7V4E8VYYYHQ",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): \"The king of the north\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.225Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN22D12501Q2P7A0VWP",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMW7HT0AA3BT0HFHAQG",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): \"The daughter of the king of the south\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.226Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN4HYXWDCHHRSBNV5A9",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWQY6QPXMD2YM630S2",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): \"A shoot from her roots\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.228Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN5ZT8WVJ4EMZWC6DNA",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWWC4ZBB0CTRRJMEXR",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The southern victory of 11:11–12 is Raphia",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.229Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN635K61WBK7CPE0HHT",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWGJ04XAVQVJHS3VX2",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The northern capture of a fortified city and the glorious land",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.230Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN776S473T22JXR8D8K",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWYACZVS94Q9BG0JK8",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): \"The daughter of women\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.231Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN88Q66F89BF03PPF8D",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMW6S2GJJSVWM61C24G",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The commander who ends his reproach",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.232Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XN9PVJZMQD4S8F1KXPC",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMW2HAYXPY2S4YFSG4X",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The raiser of taxes destroyed \"not in battle\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.233Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNA8QPHEFDAK52VVM4A",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMW0M4T3SKV5XNJH1SE",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The contemptible person",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.234Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNCFSJTEHXQAM7F917A",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWPQ1Q9SJA3JRDFDA2",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): \"The prince of the covenant\" broken",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.236Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNDJ71X363WR2ZV8WXQ",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWQ2TB2CEFV952MJG4",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The \"ships of Kittim\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.237Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNE8S4434EY7CR5TT3J",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMW4CF6EKSH03H4NQGD",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): \"The abomination that makes desolate\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.238Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNFHTG52DY7V4TCEJM9",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWT44D2TYK0D6CKPNP",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): \"A little help\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.239Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNGDFQ5VCG7ZX8BBC3C",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMW24796VWSEA8YDPZM",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The \"arms\" that profane the sanctuary",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.240Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNJ1BRTVRR94X1XP7EF",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWP6D7QDW2VS2WRFZ7",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The king's end with no one to help",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.242Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNQMNPAK6R0WVX645YZ",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XK7RYV8QX14B5C2E57B",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Cambyses, (Pseudo-)Smerdis, Darius I, Xerxes",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.247Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNR08ZYPM6VTR5SD6EP",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XK7DPVG5K7TS2GHETF2",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Cyrus, Cambyses, Darius I; Xerxes the fourth",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.248Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XNXMHFGHQNSCDYVMX0T",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKDGG7V8F56X4K7YRV8",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Alexander the Great and the partition among his generals",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.253Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XP2QHMBX0JZ2767XY7G",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKHJDWRAARA7PS1YYD5",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Ptolemies and Seleucids from Ptolemy I to Seleucus IV",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.258Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XP30CH5S6DQNZSRJTBA",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKH81BN7MYK3HJZC3XR",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Variants at 11:20: Ptolemy V (Porphyry), Trypho (\"the Hebrews\"), Seleucus III (Guzik)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.259Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XP4HJ4XE610JBBAGRSF",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKHHG6KYC7QDE4Y4Y1B",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): 11:14: the Onias temple at Leontopolis (Jerome)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.260Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XP9Q7BA5KG4RD8EGESX",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKMGX507Q353NARNRW8",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Antiochus IV Epiphanes, 175–167 BC",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.265Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XPA6G3JBQPT1964JXDX",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKMA432RK56P3XBPSXQ",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Jewish readings reported by Jerome: the Romans (11:31) and Julian (11:34)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.266Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XPBGWV04DBBRMM5SDT0",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKM15AA5RN3ZF2CV3G5",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): From 11:31 the Romans; the little help is Constantine (historicist)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.267Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XPGK23KN9557NHRB35Z",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKRSDFY6BH17TBHVR5C",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): Antiochus IV continued; 11:40–45 an unfulfilled or idealised forecast of his end",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.272Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V26XPHVQ22XHXM19BR6S4X",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V26XKRRND4RG6CACBGX5XN",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 11): The Byzantine \"Greek\" empire; king of the south = Saracens, king of the north = Turks (historicist)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.273Z",
+  "decisions": []
  }
 ]

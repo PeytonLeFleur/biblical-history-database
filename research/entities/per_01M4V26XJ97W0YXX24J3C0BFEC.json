@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XJ97W0YXX24J3C0BFEC",
+  "slug": "lucius-cornelius-scipio",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+    "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Lucius Cornelius Scipio (Asiaticus)",
+  "aliases": [],
+  "description": "Roman consul who defeated Antiochus III at Magnesia in 190 BC (Driver after Livy 37); Jerome mentions him with his brother Africanus.",
+  "kingdom_id": "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+}

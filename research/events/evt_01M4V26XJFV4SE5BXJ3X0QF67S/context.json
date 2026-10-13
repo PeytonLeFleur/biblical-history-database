@@ -1,0 +1,62 @@
+{
+  "event_id": "evt_01M4V26XJFV4SE5BXJ3X0QF67S",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "One who sends an exactor through the glory of the kingdom is destroyed within a few days, not in anger or battle; in his place a contemptible person arises.",
+    "passage": "Dan.11.20-Dan.11.21"
+  },
+  "setting": {
+    "period": "Seleucid dynasty, 175 BC",
+    "body": "Seleucus IV, son of Antiochus III, reigned 12 years (BM 35603) and was killed in a conspiracy of Heliodorus (Appian, Syr. 45); Antiochus IV, his brother, was installed with the help of Eumenes and Attalus. The king list records Seleucus's death and Antiochus's accession in Ululu 137 SE.",
+    "citations": [
+      "src_01M4V26XGJKSDPV1SX90XVZV14",
+      "src_01M4V26XGDYMER5DXT6N1DD3YC"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XHX40WQWS3VNS46N0T3",
+      "reign_id": null,
+      "role": "Seleucid king (killed)",
+      "citations": [
+        "src_01M4V26XGJKSDPV1SX90XVZV14"
+      ]
+    },
+    {
+      "person_id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+      "reign_id": "rgn_01M4TSKK8ZQ9SVQ7AZ0FG80084",
+      "role": "Successor",
+      "citations": [
+        "src_01M4V26XGJKSDPV1SX90XVZV14"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+  ],
+  "constraints": [],
+  "synchronisms": [
+    {
+      "id": "syn_01M4V26XJWCN4PEHYEQ919J2J4",
+      "type": "documentary_correlation",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4V26XGJKSDPV1SX90XVZV14",
+        "src_01M4V26XGDYMER5DXT6N1DD3YC"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {
+    "commentary": "Interpretive commentary is recorded on the Daniel 11 prophecy records.",
+    "competing_reconstructions": "No competing reconstruction of the event itself found in the sources read."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V26XG2J788VAQZ1TYKC6N0",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Jerome",
+    "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem 11",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read the chapter 11 commentary in the downloaded page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "11:2 Cambyses, Smerdis, Darius, Xerxes; 11:3–20 historical order agreed with Porphyry (Ptolemy I … Seleucus Philopator); from 11:21 Porphyry applies all to Antiochus Epiphanes, \"our school\" to the Antichrist with Antiochus as type; Jewish readings: 11:31 Romans/Vespasian and Titus, 11:34 Julian, 11:36 the Antichrist; Porphyry's fourth Egyptian expedition, Apedno, death at Tabae; Popilius Laenas's circle",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,130 @@
+{
+  "event_id": "evt_01M4V26XJFNDVRK064BRXG17HH",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Forces from him profane the sanctuary, take away the continual burnt offering and set up the abomination that makes desolate. (Daniel names no king; 1 Maccabees narrates the event.)",
+    "passage": "Dan.11.31"
+  },
+  "setting": {
+    "period": "Reign of Antiochus IV (175–164 BC)",
+    "body": "After his return from Egypt Antiochus IV plundered the Temple (1 Macc 1:20–24, year 143); later a royal decree banned Jewish practice, and on 15 Chislev 145 an \"abomination of desolation\" was built on the altar, with pagan sacrifice from 25 Chislev (1 Macc 1:54, 59). Josephus dates it to 145 SE in the 153rd Olympiad.",
+    "citations": [
+      "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "src_01M4TTS0H2RP38CMPKF6HT28VX",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+      "reign_id": "rgn_01M4TSKK8ZQ9SVQ7AZ0FG80084",
+      "role": "Seleucid king",
+      "citations": [
+        "src_01M4TSKK87BBJJJP35SD5PZGDP"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V26XMGZNWXHEZ0HBPMQRTJ",
+      "subject": "evt_01M4V26XJFNDVRK064BRXG17HH",
+      "object": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+      "relation": "after",
+      "textual_assertion": "After his return from Egypt … the king sent letters … that they should profane the sanctuary (1 Macc 1:20–54)",
+      "passage": "Dan.11.30-Dan.11.31",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "1 Maccabees places the plunder of the Temple after the first Egyptian campaign (143 SE) and the desecration two years later; Jerome says the profanation came two years after the plunder."
+      ],
+      "citations": [
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4V26XG2J788VAQZ1TYKC6N0"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4V26XMGDR7QZ8A1BMDZTCEC",
+      "subject": "evt_01M4TTS0HJERGH3WATWMDAZ2W6",
+      "object": "evt_01M4V26XJFNDVRK064BRXG17HH",
+      "relation": "months_later",
+      "textual_assertion": "at the time and on the day the Gentiles had profaned it, on that day it was dedicated (1 Macc 4:54)",
+      "passage": "John.10.22",
+      "offset": {
+        "min": 36,
+        "max": 38
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "From 15 Chislev 145 to 25 Chislev 148: three years and ten days (Driver); 36–38 months allows for intercalary months."
+      ],
+      "citations": [
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [
+    {
+      "id": "syn_01M4V26XK3YN61525VMG08ZJBP",
+      "type": "documentary_correlation",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4TTS0H2RP38CMPKF6HT28VX",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "December 168 BC",
+      "proponents": [
+        "J. A. Montgomery (1927)",
+        "S. R. Driver (Macedonian epoch)"
+      ],
+      "summary": "Seleucid era from autumn 312.",
+      "citations": [
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    },
+    {
+      "label": "December 167 BC",
+      "proponents": [
+        "Spring-311 epoch (operator conversion; many modern works, not verified directly)"
+      ],
+      "summary": "Seleucid era from spring 311.",
+      "citations": [
+        "src_01M4TSKK87BBJJJP35SD5PZGDP"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {
+    "commentary": "Interpretive commentary is recorded on the Daniel 11 prophecy records."
+  }
+}

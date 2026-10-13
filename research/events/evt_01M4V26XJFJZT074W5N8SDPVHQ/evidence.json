@@ -1,0 +1,107 @@
+{
+  "event_id": "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Polybius 5.79–87 (LacusCurtius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Jerome on 11:11–12",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Battle sites not researched archaeologically in this session."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V26XKZXZCYG35CMEQAQSNX",
+      "statement": "Ptolemy IV defeated Antiochus III at Raphia and recovered Coele-Syria, then granted a truce.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "strongly_supported",
+      "reasoning": "Polybius is a near-contemporary historian; Jerome's account (from Porphyry and Greek historians) agrees. Both lines are literary; no inscription was read here.",
+      "supporting_evidence": [
+        "evd_01M4V26XKZJ4ZEBVABCR57E824",
+        "evd_01M4V26XKZ5E0MZWFWA8147V0K"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V26XKZJ4ZEBVABCR57E824",
+      "claim_ids": [
+        "clm_01M4V26XKZXZCYG35CMEQAQSNX"
+      ],
+      "source_id": "src_01M4V26XG4J1EZGM5AZCY5A43P",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Antiochus withdrew to Raphia with about 10,000 foot lost; Ptolemy took Raphia and recovered Coele-Syria; a truce for a year.",
+      "locator": "5.85–87",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "polybius"
+    },
+    {
+      "id": "evd_01M4V26XKZ5E0MZWFWA8147V0K",
+      "claim_ids": [
+        "clm_01M4V26XKZXZCYG35CMEQAQSNX"
+      ],
+      "source_id": "src_01M4V26XG2J788VAQZ1TYKC6N0",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Antiochus lost his army at Raphia and conceded Syria.",
+      "locator": "on 11:11–12",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "jerome-porphyry"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "The Raphia decree (Pithom stele) not read."
+  ]
+}

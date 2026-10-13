@@ -1,0 +1,36 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJJJEK05H05Z4NT8AK5",
+  "slug": "raphia-217-bc",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG4J1EZGM5AZCY5A43P",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "title": "Battle of Raphia dated to 217 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+  "external_entity": "Polybius 5.79–87",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XG4J1EZGM5AZCY5A43P",
+  "proposed_synchronization": "The battle took place in the campaigning season of 217 BC (Driver, from Polybius).",
+  "independent_date": {
+    "earliest": -216,
+    "latest": -216
+  },
+  "precision": "year",
+  "dating_method": "Polybius's narrative chronology as dated by Driver",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "Year from Driver (\"in the next spring (217)\"); Polybius's Olympiad reckoning not converted here."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+  "window": null,
+  "reviewer_status": "machine_proposed"
+}

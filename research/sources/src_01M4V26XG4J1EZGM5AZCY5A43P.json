@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V26XG4J1EZGM5AZCY5A43P",
+  "title": "Polybius, Histories 5.82–87 (Loeb III, 1923) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Polybius",
+    "Paton, W. R. (trans.)"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/5*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Polybius 5.82–87",
+  "license": "Loeb; page states the text is in the public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched the LacusCurtius page for book 5",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "85.12–13 Antiochus withdraws to Raphia; 86.5 nearly 10,000 foot and 300 horse lost; 86.8 Ptolemy takes Raphia and other towns; 87.3–4 Ptolemy recovers Coele-Syria and grants a year's truce",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Book 5; the page does not name the translator (Loeb Polybius is Paton's) and says it has not been proofread.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

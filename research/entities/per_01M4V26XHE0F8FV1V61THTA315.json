@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XHE0F8FV1V61THTA315",
+  "slug": "seleucus-iii-ceraunus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Seleucus III Ceraunus",
+  "aliases": [],
+  "description": "Seleucid king (225–223 BC), elder son of Seleucus II; murdered on campaign.",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+}
