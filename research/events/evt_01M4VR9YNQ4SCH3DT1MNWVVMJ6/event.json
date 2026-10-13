@@ -1,0 +1,65 @@
+{
+  "id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6",
+  "slug": "mixed-marriages-crisis-and-the-assembly-in-the-rain",
+  "title": "The mixed-marriages crisis: Ezra's confession, the assembly in the rain (20/IX) and the commission (Ezra 9–10)",
+  "summary": "Months after Ezra's arrival the leaders reported widespread marriage with the peoples of the land; after Ezra's confession the people covenanted to put away the foreign wives; an assembly met in heavy rain on the twentieth of the ninth month and a commission examined the cases until the first of the first month; 113 offenders are listed.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VR9YNQ3RB368WQCBMXWSA5",
+    "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7",
+    "cnd_01M4VR9YNQCJS08W64R1ABN6J1",
+    "cnd_01M4VR9YNQEYX1EMBD7X1YW7KB",
+    "cnd_01M4VR9YNQFG38X6EACT8N2W5Y"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious",
+    "legal",
+    "social"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Ezra.9.1-Ezra.10.44",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

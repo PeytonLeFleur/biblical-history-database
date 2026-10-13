@@ -1,0 +1,189 @@
+{
+  "book": "Ezra",
+  "chapter": 9,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.9.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQ3RB368WQCBMXWSA5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQ3RB368WQCBMXWSA5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQ3RB368WQCBMXWSA5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQ3RB368WQCBMXWSA5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.9.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VR9YNQ3RB368WQCBMXWSA5",
+      "title": "The leaders report intermarriage with the peoples of the lands; Ezra appalled",
+      "passage": "Ezra.9.1-Ezra.9.4",
+      "description": "The princes report that the people, priests and Levites have taken wives from the Canaanites, Hittites, Ammonites, Moabites, Egyptians and others; Ezra tears his garments, pulls his hair and sits appalled until the evening offering.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "social"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Deut.7.1-Deut.7.4",
+        "Exod.34.11-Exod.34.16",
+        "Neh.13.23-Neh.13.27",
+        "Mal.2.10-Mal.2.16"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+    },
+    {
+      "id": "cnd_01M4VR9YNQPKXKY52PY6MZWAQ7",
+      "title": "Ezra's prayer of confession",
+      "passage": "Ezra.9.5-Ezra.9.15",
+      "description": "At the evening offering Ezra confesses the people's guilt from the days of their fathers, the LORD's mercy in giving a remnant \"a wall in Judah and in Jerusalem\" under the kings of Persia, and the breach of the commandment against intermarriage.",
+      "record_type": "teaching",
+      "literary_classification": "mixed",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.9.6-Neh.9.37",
+        "Dan.9.4-Dan.9.19"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"A wall (gādēr) in Judah and in Jerusalem\" (9:9): figurative protection or Nehemiah's wall."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-ezra-9-10.md"
+}

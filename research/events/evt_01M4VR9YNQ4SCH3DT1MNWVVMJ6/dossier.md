@@ -1,0 +1,930 @@
+# The mixed-marriages crisis: Ezra's confession, the assembly in the rain (20/IX) and the commission (Ezra 9–10)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 9:1–10:44 (narration)
+
+## Biblical account
+
+The princes reported that the people, priests and Levites had married women of the peoples of the land with their abominations; Ezra tore his clothes and sat appalled, then confessed the nation's guilt at the evening offering. As the people wept, Shecaniah proposed putting away the foreign wives and children by covenant; Ezra made the leaders swear; a summons gave three days on pain of forfeiture. On 20/IX the men of Judah and Benjamin sat in the rain before the temple and agreed to proceed town by town; a commission sat from 1/X and finished by 1/I. The list names priests, Levites, singers, gatekeepers and laymen.
+
+## Historical setting
+
+**Period:** Ninth month of the king's seventh year to the first month of the eighth (458–457 BC on the Artaxerxes I reading)
+
+Ryle and Keil note that the ninth month corresponds to December, the season of heavy rains in Palestine. The date depends on the identity of the king (disputed on the Ezra 7 decree event). [1, 2]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): The king (identification disputed) [2]
+
+## Date and chronology
+
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → cst_01M4VQCQM3TK134DNVKGJVBZC5 → “It was the ninth month, on the twentieth day of the month”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention → “It was the ninth month, on the twentieth day of the month”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Now when these things were done, the princes came near to me” (Ezra 9:1) → `after` Ezra's caravan from the Ahava to Jerusalem (Ezra 7:7–10; 8)
+- “It was the ninth month, on the twentieth day of the month” (Ezra 10:9) → `months_later` Ezra's caravan from the Ahava to Jerusalem (Ezra 7:7–10; 8); assumptions: Arrival on 1/V (7:9); the assembly on 20/IX of the same year, about 4½ months later; the commission ended on 1/I of the next year. 3–6 months is an operator margin for the assembly.
+
+## Geography
+
+- Jerusalem (The square before the house of God; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Competing reconstructions
+
+- **The "wall in Judah and Jerusalem" (9:9)** (Most scholars (Yamauchi, via Guzik): figurative protection, Some critics (as reported by Yamauchi): Nehemiah's wall, implying Nehemiah came first): Bears on the order of Ezra and Nehemiah, disputed on the Ezra 7 decree event. [4]
+- **Assessment of the measure** (D. Guzik: the lesser of two evils, W. F. Adeney (via Guzik): excessive zeal): Theological evaluations; recorded as interpretation. [5]
+
+## Claims and evidence
+
+### The list of Ezra 10:18–44 names 113 men: 17 priests, 10 Levites and 86 laymen.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: text
+
+Ryle's count of the names; not independently recounted in this unit because several names are ambiguous in form. No external record exists.
+
+- *Supporting (indirect):* 17 priests, 10 Levites, 86 of Israel — 113 in all. (p. 139) [1]
+
+*Limitations:* Count not recomputed from the WEB text.
+
+### The assembly of 20/IX met in the December rainy season.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+The ninth month (Kislev) falls in November–December, when Palestine's winter rains fall; Keil and Ryle both note this. Consistent with the "heavy rain" of 10:9.
+
+- *Supporting (indirect):* The ninth month corresponds to December (the rainy season). (on 10:9) [2]
+- *Supporting (indirect):* Rains prevail during December in Palestine. (on 10:9) [1]
+
+## Related passages and events
+
+- this event → **preceded by** → Ezra's caravan from the Ahava to Jerusalem (Ezra 7:7–10; 8) (high): "When these things were done" — after the arrival and offerings.
+- this event → **thematic parallel** → Nehemiah 13:23–27 (high): Nehemiah confronts the same problem a generation later (or earlier, on the late-Ezra view).
+- this event → **thematic parallel** → Malachi 2:10–16 (medium): Malachi condemns marrying "the daughter of a foreign god" and divorce.
+- this event → **thematic parallel** → Deuteronomy 7:1–4 (high): The law against intermarriage that 9:1–2 echoes.
+- this event → **thematic parallel** → Artaxerxes' decree to Ezra in his seventh year (Ezra 7) (medium): Ezra exercises the judicial authority granted in the king's letter (7:25–26).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik stresses that the issue was religious rather than ethnic, citing Deut 7 and Exod 34. [4]
+- Guzik weighs divorce as the lesser evil and notes Adeney's view that the measure went too far. [5]
+
+## Unanswered questions and research gaps
+
+- Elephantine evidence on mixed marriages in Persian-period Jewish communities not researched.
+- Whether 10:15 records opposition to the measure or the officials in charge of it.
+
+## Sources
+
+1. Ryle, Herbert Edward. The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1893. <https://archive.org/details/booksofezranehem1893ryle> — *scholarly commentary; verification: claim checked*
+2. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Guzik, David. Ezra 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-9/> — *theological commentary; verification: claim checked*
+5. Guzik, David. Ezra 10 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-10/> — *theological commentary; verification: claim checked*

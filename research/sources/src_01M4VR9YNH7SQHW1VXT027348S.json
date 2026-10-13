@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VR9YNH7SQHW1VXT027348S",
+  "title": "Ezra 9 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/ezra-9/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the commentary on Ezra 9",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "The problem not primarily ethnic but religious (\"the abominations\" of the peoples); recalls Exod 34:11–16 and Deut 7:1–4; Ezra plucks his own hair, Nehemiah others' (Neh 13:25); Yamauchi: some critics read the \"wall\" of 9:9 as Nehemiah's wall and an argument for Nehemiah's priority, but most take it figuratively",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

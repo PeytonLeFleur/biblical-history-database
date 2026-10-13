@@ -1,0 +1,167 @@
+{
+  "event_id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Shecaniah",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.3.21",
+        "1Chr.3.22",
+        "1Chr.24.11",
+        "2Chr.31.15",
+        "Ezra.8.3",
+        "Ezra.8.5",
+        "Ezra.10.2",
+        "Neh.3.29",
+        "Neh.6.18",
+        "Neh.12.3"
+      ]
+    },
+    {
+      "name": "foreign women/wives",
+      "books_searched": 66,
+      "hits": [
+        "1Kgs.11.1",
+        "1Kgs.11.8",
+        "Ezra.10.2",
+        "Ezra.10.10",
+        "Ezra.10.11",
+        "Ezra.10.14",
+        "Ezra.10.17",
+        "Ezra.10.18",
+        "Ezra.10.44",
+        "Neh.13.26",
+        "Neh.13.27"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VR9YP3ESM7F8W9DHXQNS4F",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"When these things were done\" — after the arrival and offerings.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VR9YP3BTXGETDPZ9B28FE0",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Neh.13.23-Neh.13.27"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Nehemiah confronts the same problem a generation later (or earlier, on the late-Ezra view).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VR9YP3NCDKYQT44HKA3YSC",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Mal.2.10-Mal.2.16"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Malachi condemns marrying \"the daughter of a foreign god\" and divorce.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VR9YP3XD33KX67SVR4TTZ3",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Deut.7.1-Deut.7.4"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The law against intermarriage that 9:1–2 echoes.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VR9YP30BB6JHW4C7A51917",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Ezra exercises the judicial authority granted in the king's letter (7:25–26).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VR9YNR2K3WBZRWJ8EJNXS8",
+    "cst_01M4VR9YNR8MZ4SRCWAVRRY0NY"
+  ]
+}
