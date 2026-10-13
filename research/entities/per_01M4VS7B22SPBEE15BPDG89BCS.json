@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4VS7B22SPBEE15BPDG89BCS",
+  "slug": "tobiah-the-ammonite",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VS7B0Y79HNZN3A47TBJP4F"
+  ],
+  "notes": null,
+  "canonical_name": "Tobiah the Ammonite",
+  "aliases": [],
+  "description": "Opponent of Nehemiah, called \"the servant\" (official) and Ammonite (Neh 2:10, 19; 6; 13:4–8).",
+  "kingdom_id": null
+}

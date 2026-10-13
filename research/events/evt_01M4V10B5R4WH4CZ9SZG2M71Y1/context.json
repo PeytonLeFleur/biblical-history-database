@@ -4,7 +4,7 @@
   "resume_from": null,
   "text_summary": {
     "layer": "text",
-    "body": "Nehemiah, the king's cupbearer, sad at news of Jerusalem's broken wall, asks Artaxerxes in Nisan of his twentieth year to send him to build the city of his fathers' tombs; the king grants letters to the governors beyond the River and to the keeper of the king's forest for timber for the citadel gates, the city wall and a house.",
+    "body": "In Nisan of Artaxerxes's twentieth year Nehemiah, serving the king wine, could not hide his sadness; asked why, he said the city of his fathers' tombs lay waste; asked what he wanted, he prayed and requested to be sent to rebuild it; the king, with the queen beside him, set a time and granted letters to the governors beyond the River and to Asaph, keeper of the king's forest, for timber.",
     "passage": "Neh.2.1-Neh.2.8"
   },
   "setting": {
@@ -56,6 +56,30 @@
         "src_01M4TPW4B43MDDS6CJYXV48RHN"
       ],
       "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VS7B2NN69BZS5FHCS5EM9F",
+      "subject": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1",
+      "object": "evt_01M4VS7B2KTEVQSFKHBVW0GME2",
+      "relation": "months_later",
+      "textual_assertion": "in the month Chislev … in the month Nisan",
+      "passage": "Neh.1.1-Neh.2.1",
+      "offset": {
+        "min": 3,
+        "max": 5
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Chislev (IX) to Nisan (I) is about four months, whether the \"twentieth year\" of 1:1 is read on an autumn-based year (Keil) or emended to the nineteenth (Batten); both put the report in Chislev 446."
+      ],
+      "citations": [],
+      "verification": "text_direct"
     }
   ],
   "synchronisms": [],
@@ -102,6 +126,28 @@
       "summary": "Either a textual emendation or a count of regnal years from the king's accession anniversary rather than a calendar new year. Noss & Thomas advise translating the text as it stands.",
       "citations": [
         "src_01M4V612HSMXZXVN8ZVTYTFH7W"
+      ]
+    },
+    {
+      "label": "Nehemiah under Xerxes (25th year)",
+      "proponents": [
+        "Josephus, Ant. 11.5.6–8"
+      ],
+      "summary": "Josephus also has the wall take two years and four months (against Neh 6:15's fifty-two days).",
+      "citations": [
+        "src_01M4VS7B16XH8HCZS3XB23FBQG"
+      ]
+    },
+    {
+      "label": "1 Nisan 445 = 14 March (Anderson) or 13 April (Parker & Dubberstein)",
+      "proponents": [
+        "D. Guzik, following Sir Robert Anderson: \"March 14, 445 B.C.\"",
+        "Parker & Dubberstein table: 13 April 445"
+      ],
+      "summary": "See the seventy-weeks prophecy record, where Anderson's reckoning is evaluated.",
+      "citations": [
+        "src_01M4VS7B0Y79HNZN3A47TBJP4F",
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
       ]
     }
   ],

@@ -1,0 +1,23 @@
+{
+  "kind": "person",
+  "id": "per_01M4VS7B1QA1MFQVDKJF2F9KAB",
+  "slug": "sanballat-the-horonite",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+    "src_01M4VS7B0Y79HNZN3A47TBJP4F"
+  ],
+  "notes": null,
+  "canonical_name": "Sanballat the Horonite",
+  "aliases": [
+    {
+      "alias": "Sanballat governor of Samaria",
+      "language": "Aramaic (Elephantine)",
+      "source_id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "passage": null
+    }
+  ],
+  "description": "Leading opponent of Nehemiah (Neh 2:10, 19; 4; 6); father-in-law of a son of the high priest Joiada (13:28). An Elephantine letter of 408/407 BC refers to \"Delaiah and Shelemiah the sons of Sanballat governor of Samaria\"; Cowley identifies him with Nehemiah's Sanballat.",
+  "kingdom_id": null
+}

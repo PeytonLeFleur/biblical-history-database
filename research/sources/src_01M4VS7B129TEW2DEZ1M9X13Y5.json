@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+  "title": "Aramaic Papyri of the Fifth Century B.C.",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Cowley, A. E."
+  ],
+  "publisher": "Clarendon Press, Oxford, 1923",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/aramaicpapyrioff00ahikuoft",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1923)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "No. 30 (pp. 108–114): letter of Yedoniah and the priests of Yeb to Bigvai, governor of Judah, about the destroyed temple; line 18: \"Johanan the high priest and his colleagues the priests who are in Jerusalem\"; line 29: a letter sent \"to Delaiah and Shelemiah the sons of Sanballat governor of Samaria\"; line 30: \"the 20th of Marheshwan, the 17th year of Darius the king\" (Cowley: Darius II = 408 B.C.); Cowley: Nehemiah's Sanballat is \"no doubt\" the same; since Bigvai was governor in 408 the 32nd year of Neh 13:6 must be Artaxerxes I = 433 B.C., \"a fixed point in the history of Nehemiah\"; Johanan of Neh 12:22–23; Josephus telescopes the history; No. 21: no evidence identifies Hananiah of the Passover letter with any Hananiah of Nehemiah",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (No. 30 and its introduction; No. 21 introduction).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

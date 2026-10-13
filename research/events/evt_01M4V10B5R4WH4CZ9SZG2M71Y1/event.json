@@ -4,7 +4,9 @@
   "title": "Artaxerxes sends Nehemiah to rebuild Jerusalem, Nisan of his twentieth year (Neh 2:1–8)",
   "summary": "In Nisan of Artaxerxes' twentieth year his cupbearer Nehemiah asks to be sent to Judah to build the city of his fathers' tombs; the king grants letters for safe passage and timber for the gates, the wall and a house.",
   "is_fixture": false,
-  "candidate_ids": [],
+  "candidate_ids": [
+    "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+  ],
   "external_reason": "Candidate starting point for Dan 9:25 (Africanus; Anderson; Guzik).",
   "is_period": false,
   "literary_classification": "historical_narrative",
@@ -22,18 +24,13 @@
       "passage": "Neh.2.1-Neh.2.8",
       "mention_type": "narration",
       "notes": null
-    },
-    {
-      "passage": "Neh.1.1",
-      "mention_type": "reference",
-      "notes": "Chislev \"in the twentieth year\" precedes Nisan of the twentieth year."
     }
   ],
   "stages": {
     "scripture_extraction": {
-      "status": "not_applicable",
+      "status": "complete",
       "updated": "2026-10-13",
-      "reason": "External to Daniel: researched as a candidate starting point of Dan 9:25; Nehemiah is not yet extracted chapter by chapter."
+      "reason": null
     },
     "historical_reconstruction": {
       "status": "complete",
@@ -56,7 +53,7 @@
       "reason": null
     }
   },
-  "revision": 1,
+  "revision": 2,
   "created_at": "2026-10-13",
   "updated_at": "2026-10-13",
   "last_reviewed_at": null

@@ -16,6 +16,13 @@
       "engine": "local text",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Nehemiah 1–2 unit: Cowley No. 30; Josephus Ant. 11.5.6; Keil",
+      "engine": "local text",
+      "useful_results": 3,
+      "notes": null
     }
   ],
   "domains": {
@@ -61,6 +68,26 @@
       "reviewer_status": "machine_proposed",
       "review_required": false,
       "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VS7B2R1TBGMPWVSNTQZ9XD",
+      "statement": "Nehemiah's king was Artaxerxes I, so his commission fell in 445 BC.",
+      "layer": "reconstruction",
+      "passage": "Neh.2.1",
+      "classification": "strongly_supported",
+      "reasoning": "The Elephantine letter of 408/407 shows Bigvai as governor of Judah and the sons of Sanballat active, so Nehemiah's 32nd year (Neh 13:6) must belong to Artaxerxes I (433), placing the twentieth year in 445 (Cowley); Keil and the commentators read the same. Josephus's Xerxes is out of line with both the biblical names and the papyri.",
+      "supporting_evidence": [
+        "evd_01M4VS7B2RQPACQPK98PWADRDA",
+        "evd_01M4VS7B2R9F8FAZA3F6GN5S6Y"
+      ],
+      "counterevidence": [
+        "evd_01M4VS7B2RBHW9MD46CJQFKATY"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
     }
   ],
   "evidence": [
@@ -79,6 +106,54 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4VS7B2RQPACQPK98PWADRDA",
+      "claim_ids": [
+        "clm_01M4VS7B2R1TBGMPWVSNTQZ9XD"
+      ],
+      "source_id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Bigvai was governor in 408, so the 32nd year of Neh 13:6 must be Artaxerxes I = 433 B.C., \"a fixed point\".",
+      "locator": "p. 109",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "elephantine-papyri"
+    },
+    {
+      "id": "evd_01M4VS7B2R9F8FAZA3F6GN5S6Y",
+      "claim_ids": [
+        "clm_01M4VS7B2R1TBGMPWVSNTQZ9XD"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The twentieth year of Artaxerxes (Longimanus).",
+      "locator": "pp. 163–164",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VS7B2RBHW9MD46CJQFKATY",
+      "claim_ids": [
+        "clm_01M4VS7B2R1TBGMPWVSNTQZ9XD"
+      ],
+      "source_id": "src_01M4VS7B16XH8HCZS3XB23FBQG",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Nehemiah was cupbearer to Xerxes and arrived in his twenty-fifth year.",
+      "locator": "Ant. 11.5.6",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
     }
   ],
   "artifacts": [],

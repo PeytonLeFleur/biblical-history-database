@@ -1,16 +1,15 @@
 # Artaxerxes sends Nehemiah to rebuild Jerusalem, Nisan of his twentieth year (Neh 2:1–8)
 
-> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 2 · last reviewed: not reviewed
 > Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
 
 ## Biblical references
 
 - Nehemiah 2:1–8 (narration)
-- Nehemiah 1:1 (reference): Chislev "in the twentieth year" precedes Nisan of the twentieth year.
 
 ## Biblical account
 
-Nehemiah, the king's cupbearer, sad at news of Jerusalem's broken wall, asks Artaxerxes in Nisan of his twentieth year to send him to build the city of his fathers' tombs; the king grants letters to the governors beyond the River and to the keeper of the king's forest for timber for the citadel gates, the city wall and a house.
+In Nisan of Artaxerxes's twentieth year Nehemiah, serving the king wine, could not hide his sadness; asked why, he said the city of his fathers' tombs lay waste; asked what he wanted, he prayed and requested to be sent to rebuild it; the king, with the queen beside him, set a time and granted letters to the governors beyond the River and to Asaph, keeper of the king's forest, for timber.
 
 ## Historical setting
 
@@ -871,6 +870,7 @@ On Babylonian reckoning Artaxerxes I's twentieth year began 1 Nisan = 13 Apr 445
 **Chronological statements:**
 
 - “In the month Nisan, in the twentieth year of Artaxerxes the king” (Nehemiah 2:1) → `in_regnal_year` reign of Artaxerxes I (Longimanus); assumptions: Nisan reckoning: year 20 began 1 Nisan = 13 Apr 445 (Parker & Dubberstein table).; Neh 1:1 places Chislev "in the twentieth year" before Nisan of the twentieth year, which suggests an autumn (Tishri) year count; on that count the Nisan in question is spring 444. Not modelled here; recorded as a competing reconstruction. [1]
+- “in the month Chislev … in the month Nisan” (Nehemiah 1:1–2:1) → `months_later` Hanani's report at Susa and Nehemiah's prayer (Chislev, Artaxerxes's 20th year); assumptions: Chislev (IX) to Nisan (I) is about four months, whether the "twentieth year" of 1:1 is read on an autumn-based year (Keil) or emended to the nineteenth (Batten); both put the report in Chislev 446.
 
 ## Geography
 
@@ -882,6 +882,8 @@ On Babylonian reckoning Artaxerxes I's twentieth year began 1 Nisan = 13 Apr 445
 - **Spring 445 BC (Nisan reckoning)** (Parker & Dubberstein table (operator conversion), Anderson (14 Mar 445), D. Guzik): Year 20 counted from Nisan 445. [1, 2, 4]
 - **Spring 444 BC (Tishri reckoning)** (Autumn new-year solution, one of three listed by Noss & Thomas (UBS Handbook, 2005)): Neh 1:1 (Chislev, year 20) precedes 2:1 (Nisan, year 20); counting years from an autumn new year makes this consistent and puts the Nisan in 444. [5]
 - **Emend Neh 1:1 to "the nineteenth year", or count from the accession day** (Commentators listed by Noss & Thomas (2005)): Either a textual emendation or a count of regnal years from the king's accession anniversary rather than a calendar new year. Noss & Thomas advise translating the text as it stands. [5]
+- **Nehemiah under Xerxes (25th year)** (Josephus, Ant. 11.5.6–8): Josephus also has the wall take two years and four months (against Neh 6:15's fifty-two days). [6]
+- **1 Nisan 445 = 14 March (Anderson) or 13 April (Parker & Dubberstein)** (D. Guzik, following Sir Robert Anderson: "March 14, 445 B.C.", Parker & Dubberstein table: 13 April 445): See the seventy-weeks prophecy record, where Anderson's reckoning is evaluated. [7, 1]
 
 ## Claims and evidence
 
@@ -893,9 +895,20 @@ Babylonian tablets and the Syene papyrus fix Artaxerxes I's accession in 465/464
 
 - *Supporting (direct):* Accession year attested 3 Jan 464 (Cowley 6); year 20 begins 13 Apr 445. (pp. 15–16; table) [1]
 
+### Nehemiah's king was Artaxerxes I, so his commission fell in 445 BC.
+
+**Classification:** Strongly supported (machine proposed) · layer: reconstruction
+
+The Elephantine letter of 408/407 shows Bigvai as governor of Judah and the sons of Sanballat active, so Nehemiah's 32nd year (Neh 13:6) must belong to Artaxerxes I (433), placing the twentieth year in 445 (Cowley); Keil and the commentators read the same. Josephus's Xerxes is out of line with both the biblical names and the papyri.
+
+- *Supporting (indirect):* Bigvai was governor in 408, so the 32nd year of Neh 13:6 must be Artaxerxes I = 433 B.C., "a fixed point". (p. 109) [8]
+- *Supporting (indirect):* The twentieth year of Artaxerxes (Longimanus). (pp. 163–164) [9]
+- *Challenging (direct):* Nehemiah was cupbearer to Xerxes and arrived in his twenty-fifth year. (Ant. 11.5.6) [6]
+
 ## Related passages and events
 
 - this event → **direct reference** → Nehemiah 6:15 (high): The wall completed on 25 Elul after 52 days.
+- this event → **preceded by** → Hanani's report at Susa and Nehemiah's prayer (Chislev, Artaxerxes's 20th year) (high): Hanani's report in Chislev led to the petition in Nisan.
 
 ## Unanswered questions and research gaps
 
@@ -909,3 +922,7 @@ Babylonian tablets and the Syene papyrus fix Artaxerxes I's accession in 465/464
 3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
 4. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*
 5. Noss, Philip A., Thomas, Kenneth J.. A Handbook on Nehemiah (UBS Helps for Translators) — on Neh 2:1. United Bible Societies, 2005 (via Translation Insights and Perspectives). <https://tips.translation.bible/story/translation-commentary-on-nehemiah-21/> — *scholarly commentary; verification: claim checked*
+6. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.5.6–8 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+7. Guzik, David. Nehemiah 2 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-2/> — *theological commentary; verification: claim checked*
+8. Cowley, A. E.. Aramaic Papyri of the Fifth Century B.C.. Clarendon Press, Oxford, 1923. <https://archive.org/details/aramaicpapyrioff00ahikuoft> — *academic monograph; verification: claim checked*
+9. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*

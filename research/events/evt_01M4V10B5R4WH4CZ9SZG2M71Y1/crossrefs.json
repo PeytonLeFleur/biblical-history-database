@@ -1646,10 +1646,35 @@
       "proposed_by": null,
       "target_research_state": "unresearched",
       "review_required": false
+    },
+    {
+      "id": "rel_01M4VS7B38NCE4MASQS7V2YCZY",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KTEVQSFKHBVW0GME2"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Hanani's report in Chislev led to the petition in Nisan.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
     }
   ],
   "entity_resolutions": [],
   "new_constraints": [
-    "cst_01M4V10B62C0NDKBMER7XX1JX3"
+    "cst_01M4V10B62C0NDKBMER7XX1JX3",
+    "cst_01M4VS7B2NN69BZS5FHCS5EM9F"
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4VS7B27C2ZJSP12B4V8M9TS",
+  "slug": "geshem-the-arab",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VS7B0Y79HNZN3A47TBJP4F"
+  ],
+  "notes": null,
+  "canonical_name": "Geshem the Arab",
+  "aliases": [],
+  "description": "Opponent who mocked the rebuilding (Neh 2:19; 6:1–6).",
+  "kingdom_id": null
+}

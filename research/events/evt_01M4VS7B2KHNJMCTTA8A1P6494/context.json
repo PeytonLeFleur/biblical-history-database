@@ -1,0 +1,113 @@
+{
+  "event_id": "evt_01M4VS7B2KHNJMCTTA8A1P6494",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Nehemiah delivered the king's letters to the governors beyond the River, escorted by army officers and horsemen; Sanballat the Horonite and Tobiah the Ammonite official were grieved. After three days in Jerusalem he went out at night with a few men through the Valley Gate, past the Dragon's Well, to the Dung Gate, the Fountain Gate and the King's Pool, then up the valley, and returned by the Valley Gate. He then called the leaders to rise up and build; Sanballat, Tobiah and Geshem the Arab mocked them and asked if they were rebelling against the king.",
+    "passage": "Neh.2.9-Neh.2.20"
+  },
+  "setting": {
+    "period": "Summer 445 BC or soon after",
+    "body": "Sanballat later appears as governor of Samaria in an Elephantine letter of 408/407 BC, which names his sons Delaiah and Shelemiah.",
+    "citations": [
+      "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "src_01M4VS7B0Y79HNZN3A47TBJP4F"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King whose letters Nehemiah carried",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VS7B2NDKK5TFD61NCAR7GA",
+      "subject": "evt_01M4VS7B2KHNJMCTTA8A1P6494",
+      "object": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1",
+      "relation": "after",
+      "textual_assertion": "Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days",
+      "passage": "Neh.2.9-Neh.2.11",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VS7B2N0AYMCJVXZ68M694Y",
+      "subject": "evt_01M4VS7B2KHNJMCTTA8A1P6494",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "within_reign",
+      "textual_assertion": "the king's letters",
+      "passage": "Neh.2.9",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Walls and gates inspected",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "the Horonite",
+      "gloss": "Probably \"from Beth-horon\"; the origin is not researched here.",
+      "citations": []
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Ezra declined an escort; Nehemiah accepted one",
+      "proponents": [
+        "Ezra 8:22; Neh 2:9 (text)",
+        "D. Kidner (via Guzik)"
+      ],
+      "summary": "A contrast of approaches, not a contradiction.",
+      "citations": [
+        "src_01M4VS7B0Y79HNZN3A47TBJP4F"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VS7B0Y79HNZN3A47TBJP4F",
+      "layer": "interpretation",
+      "paraphrase": "Guzik follows the inspection counter-clockwise from the Valley Gate and presents Nehemiah as a model of planning before announcing.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-2/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The route of the night ride and the locations of the gates are not mapped here (see Neh 3)."
+  ],
+  "not_applicable": {}
+}
