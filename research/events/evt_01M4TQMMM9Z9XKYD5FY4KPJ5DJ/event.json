@@ -1,0 +1,62 @@
+{
+  "id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ",
+  "slug": "darius-decree-god-of-daniel",
+  "title": "The accusers punished; Darius's decree honouring the God of Daniel (Dan 6:24–27)",
+  "summary": "The accusers, with their wives and children, are thrown to the lions; Darius decrees that all his dominion should fear the living God of Daniel.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4TQMMM92ZXE0Q6HWS11F31K",
+    "cnd_01M4TQMMM96K8436AC7HQM8NVQ"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "legal",
+    "religious",
+    "royal"
+  ],
+  "priority": "medium",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV",
+  "mentions": [
+    {
+      "passage": "Dan.6.24-Dan.6.27",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

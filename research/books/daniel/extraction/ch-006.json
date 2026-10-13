@@ -1,0 +1,499 @@
+{
+  "book": "Dan",
+  "chapter": 6,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Dan.6.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM983Z3S604H1ADR9DV"
+      ],
+      "notes": "Aramaic numbering 6:2."
+    },
+    {
+      "ref": "Dan.6.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM983Z3S604H1ADR9DV"
+      ],
+      "notes": "Aramaic numbering 6:3."
+    },
+    {
+      "ref": "Dan.6.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM983Z3S604H1ADR9DV"
+      ],
+      "notes": "Aramaic numbering 6:4."
+    },
+    {
+      "ref": "Dan.6.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9ENFMSC26D776YA77"
+      ],
+      "notes": "Aramaic numbering 6:5."
+    },
+    {
+      "ref": "Dan.6.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9ENFMSC26D776YA77"
+      ],
+      "notes": "Aramaic numbering 6:6."
+    },
+    {
+      "ref": "Dan.6.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9ENFMSC26D776YA77"
+      ],
+      "notes": "Aramaic numbering 6:7."
+    },
+    {
+      "ref": "Dan.6.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9ENFMSC26D776YA77"
+      ],
+      "notes": "Aramaic numbering 6:8."
+    },
+    {
+      "ref": "Dan.6.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9ENFMSC26D776YA77"
+      ],
+      "notes": "Aramaic numbering 6:9."
+    },
+    {
+      "ref": "Dan.6.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9ENFMSC26D776YA77"
+      ],
+      "notes": "Aramaic numbering 6:10."
+    },
+    {
+      "ref": "Dan.6.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9NG8H8VYXX4JXQE4F"
+      ],
+      "notes": "Aramaic numbering 6:11."
+    },
+    {
+      "ref": "Dan.6.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9NG8H8VYXX4JXQE4F"
+      ],
+      "notes": "Aramaic numbering 6:12."
+    },
+    {
+      "ref": "Dan.6.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9NG8H8VYXX4JXQE4F"
+      ],
+      "notes": "Aramaic numbering 6:13."
+    },
+    {
+      "ref": "Dan.6.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9NG8H8VYXX4JXQE4F"
+      ],
+      "notes": "Aramaic numbering 6:14."
+    },
+    {
+      "ref": "Dan.6.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9NG8H8VYXX4JXQE4F"
+      ],
+      "notes": "Aramaic numbering 6:15."
+    },
+    {
+      "ref": "Dan.6.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9NG8H8VYXX4JXQE4F"
+      ],
+      "notes": "Aramaic numbering 6:16."
+    },
+    {
+      "ref": "Dan.6.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9JG92M359RY72CHF0"
+      ],
+      "notes": "Aramaic numbering 6:17."
+    },
+    {
+      "ref": "Dan.6.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9JG92M359RY72CHF0"
+      ],
+      "notes": "Aramaic numbering 6:18."
+    },
+    {
+      "ref": "Dan.6.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9JG92M359RY72CHF0"
+      ],
+      "notes": "Aramaic numbering 6:19."
+    },
+    {
+      "ref": "Dan.6.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9JG92M359RY72CHF0"
+      ],
+      "notes": "Aramaic numbering 6:20."
+    },
+    {
+      "ref": "Dan.6.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9JG92M359RY72CHF0"
+      ],
+      "notes": "Aramaic numbering 6:21."
+    },
+    {
+      "ref": "Dan.6.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9JG92M359RY72CHF0"
+      ],
+      "notes": "Aramaic numbering 6:22."
+    },
+    {
+      "ref": "Dan.6.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9JG92M359RY72CHF0"
+      ],
+      "notes": "Aramaic numbering 6:23."
+    },
+    {
+      "ref": "Dan.6.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM9JG92M359RY72CHF0"
+      ],
+      "notes": "Aramaic numbering 6:24."
+    },
+    {
+      "ref": "Dan.6.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM92ZXE0Q6HWS11F31K"
+      ],
+      "notes": "Aramaic numbering 6:25."
+    },
+    {
+      "ref": "Dan.6.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM96K8436AC7HQM8NVQ"
+      ],
+      "notes": "Aramaic numbering 6:26."
+    },
+    {
+      "ref": "Dan.6.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM96K8436AC7HQM8NVQ"
+      ],
+      "notes": "Aramaic numbering 6:27."
+    },
+    {
+      "ref": "Dan.6.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM96K8436AC7HQM8NVQ"
+      ],
+      "notes": "Aramaic numbering 6:28."
+    },
+    {
+      "ref": "Dan.6.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TQMMM98WGVTSQGPCPWR2VM"
+      ],
+      "notes": "Aramaic numbering 6:29."
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4TQMMM983Z3S604H1ADR9DV",
+      "title": "Darius sets 120 satraps and three chief officials over the kingdom; Daniel distinguished",
+      "passage": "Dan.6.1-Dan.6.3",
+      "description": "Darius appoints 120 satraps under three chief officials, of whom Daniel is one; the king plans to set Daniel over the whole realm.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Esth.1.1",
+        "Dan.3.2"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "English 6:1 = Aramaic 6:2.",
+        "Scope of \"the kingdom\" (Babylonia or the empire) and of the term satrap."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86"
+    },
+    {
+      "id": "cnd_01M4TQMMM9ENFMSC26D776YA77",
+      "title": "The officials' plot and the thirty-day decree",
+      "passage": "Dan.6.4-Dan.6.9",
+      "description": "Unable to fault Daniel, the officials persuade Darius to sign an irrevocable 30-day decree forbidding petitions to any god or man except the king.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "legal",
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.6.7",
+          "phrase": "for thirty days",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Esth.1.19",
+        "Esth.8.8"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"The law of the Medes and Persians, which doesn't alter\" (6:8)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV"
+    },
+    {
+      "id": "cnd_01M4TQMMM9NG8H8VYXX4JXQE4F",
+      "title": "Daniel prays toward Jerusalem and is accused",
+      "passage": "Dan.6.10-Dan.6.15",
+      "description": "Daniel continues to pray three times a day at open windows toward Jerusalem; the officials accuse him and hold the king to the unalterable decree.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "legal"
+      ],
+      "parent_candidate_id": "cnd_01M4TQMMM9ENFMSC26D776YA77",
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.6.14",
+          "phrase": "until the going down of the sun",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "1Kgs.8.48",
+        "Ps.55.17"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV"
+    },
+    {
+      "id": "cnd_01M4TQMMM9JG92M359RY72CHF0",
+      "title": "Daniel in the lions' den and his deliverance",
+      "passage": "Dan.6.16-Dan.6.23",
+      "description": "Daniel is cast into the den, sealed with the king's signet; the king fasts overnight and at dawn finds him unharmed, his God having sent an angel to shut the lions' mouths.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "miracle_claim",
+        "legal"
+      ],
+      "parent_candidate_id": "cnd_01M4TQMMM9ENFMSC26D776YA77",
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.6.19",
+          "phrase": "very early in the morning",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Heb.11.33"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV"
+    },
+    {
+      "id": "cnd_01M4TQMMM92ZXE0Q6HWS11F31K",
+      "title": "The accusers and their families thrown to the lions",
+      "passage": "Dan.6.24",
+      "description": "The king has the accusers, their children and wives cast into the den, where the lions overpower them.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "legal",
+        "death"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Deut.24.16"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ"
+    },
+    {
+      "id": "cnd_01M4TQMMM96K8436AC7HQM8NVQ",
+      "title": "Darius's decree to all peoples to fear the God of Daniel",
+      "passage": "Dan.6.25-Dan.6.27",
+      "description": "Darius writes to all peoples ordering reverence for the living God whose kingdom will not be destroyed.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "royal"
+      ],
+      "parent_candidate_id": "cnd_01M4TQMMM92ZXE0Q6HWS11F31K",
+      "participants": [
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.3.28-Dan.3.29",
+        "Dan.4.1-Dan.4.3",
+        "Dan.2.44"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ"
+    },
+    {
+      "id": "cnd_01M4TQMMM98WGVTSQGPCPWR2VM",
+      "title": "Summary: Daniel prospered in the reign of Darius and the reign of Cyrus",
+      "passage": "Dan.6.28",
+      "description": "A closing notice that Daniel prospered under Darius and under Cyrus the Persian.",
+      "record_type": "historical_reference",
+      "literary_classification": "historical_reference",
+      "narrative_mode": "reference_to_other_event",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Cyrus the Persian",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.1.21",
+        "Dan.10.1"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "Read as successive reigns or appositionally (\"the reign of Darius, that is, the reign of Cyrus\")."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-daniel-06.md"
+}

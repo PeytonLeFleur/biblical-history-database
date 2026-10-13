@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TQMMKP0TTZYQAFE83Q8G3C",
+  "title": "Daniel in the lions' den — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_in_the_lions%27_den",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Tales of chs. 1–6 originally independent folktales of the Persian and Hellenistic periods (Collins 1984); collected mid-2nd century BC (Seow 2003); chs. 4–6 differ markedly in the oldest texts (Redditt 2008); closest parallel is Daniel 3 (Seow 2003); no discussion of satrapy counts, Persian law or lion-keeping",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

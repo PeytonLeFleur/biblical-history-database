@@ -1,0 +1,29 @@
+{
+  "kind": "person",
+  "id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+  "slug": "darius-i",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+    "src_01M4TQMMKS7CTR3NT9GWHMYQ0M"
+  ],
+  "notes": null,
+  "canonical_name": "Darius I (the Great)",
+  "aliases": [
+    {
+      "alias": "Dārayavauš",
+      "language": "Old Persian",
+      "source_id": "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+      "passage": null
+    },
+    {
+      "alias": "Dareios",
+      "language": "Greek (Herodotus)",
+      "source_id": "src_01M4TQMMKS7CTR3NT9GWHMYQ0M",
+      "passage": null
+    }
+  ],
+  "description": "Achaemenid king (522–486 BC), author of the Behistun inscription; organised the satrapies and their tribute (Herodotus 3.89). Distinct from \"Darius the Mede\" of Daniel 5–6.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

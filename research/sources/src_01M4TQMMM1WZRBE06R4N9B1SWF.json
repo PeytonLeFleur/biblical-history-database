@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+  "title": "Studies in the Book of Daniel: A Discussion of the Historical Questions",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Wilson, Robert Dick"
+  ],
+  "publisher": "G. P. Putnam's Sons",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/cu31924029306657",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Published 1917; public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 141–144: Darius the Mede identified with Gobryas; Daniel's 120 \"satraps\" compared with the Chronicle's statement that Gobryas appointed governors (pīḫātu) in Babylon; \"satrap\" ambiguous and applied in Daniel to Nebuchadnezzar's officers; Esther's 127 provinces, Behistun's 23 lands and Xenophon's six satraps compared; argues 120 officials in Babylonia alone are possible",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (Cornell copy).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

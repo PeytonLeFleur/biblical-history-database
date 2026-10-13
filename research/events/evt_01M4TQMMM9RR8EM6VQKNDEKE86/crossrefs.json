@@ -1,0 +1,112 @@
+{
+  "event_id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TQMMMDHETKY2NEVEF6X1KG",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Darius receives the kingdom (5:31) and then organises it (6:1).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TQMMMD322APDAG8PF74J18",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Esth.1.1"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Esther gives 127 provinces for the Persian empire under Ahasuerus; compared with Daniel's 120 satraps.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TQMMM1WZRBE06R4N9B1SWF"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TQMMMDD1KWVHQKMFHR5YTM",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.10.1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Daniel is still active in Cyrus's third year, consistent with 6:28.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TQMMMD0G0FM0J4JR4GBH0M",
+      "type": "possible_identity",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TQMMM6E5V26KMYAVJFRYGM"
+      },
+      "confidence": "speculative",
+      "layer": "reconstruction",
+      "rationale": "Critical scholars see Darius I as the model for the literary Darius the Mede (a source of the portrait, not a claim that the narrative describes Darius I's reign).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4TQMMMARJYJ2P9RMCHQ90GW"
+  ]
+}

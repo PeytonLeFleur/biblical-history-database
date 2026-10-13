@@ -1,0 +1,94 @@
+{
+  "event_id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Finding no fault in Daniel, the officials have the king sign a thirty-day decree, unalterable \"according to the law of the Medes and Persians\". Daniel keeps praying three times daily toward Jerusalem; he is accused, and the king, bound by his decree, has him thrown into the lions' den, sealed with royal signets. At dawn Daniel is found unharmed: his God sent an angel to shut the lions' mouths.",
+    "passage": "Dan.6.4-Dan.6.23"
+  },
+  "setting": {
+    "period": "Reign of Darius the Mede (undated)",
+    "body": "The idea that a sealed royal edict could not be revoked appears also in Esther (1:19; 8:8), another biblical text set at the Persian court. No Persian source states such a rule; Diodorus's story of Darius III, often cited, says only that the king could not undo an execution already carried out. Mesopotamian kings did keep captured lions: Assyrian reliefs show lions released from cages for royal hunts, and Ashurnasirpal II describes caging lion cubs. No evidence of a Persian-period lion pit at Babylon has been found in the sources consulted.",
+    "citations": [
+      "src_01M4TQMMKZDH4RWTD6VQTHTX83",
+      "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+      "src_01M4TQMMM4BBN7KX5W1QFBCE3Y"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+      "reign_id": null,
+      "role": "King (as narrated)",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4TQMMMA0M1P6VX89GYP2FEF",
+      "subject": "evt_01M4TQMMM9KS5T4ENWDVJY73YV",
+      "object": "evt_01M4TQMMM9RR8EM6VQKNDEKE86",
+      "relation": "after",
+      "textual_assertion": "Then the presidents and the local governors sought to find occasion against Daniel",
+      "passage": "Dan.6.4",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Historical episode at the Persian court",
+      "proponents": [
+        "D. Guzik",
+        "traditional interpreters"
+      ],
+      "summary": "Signed Persian decrees bound even the king; the plot exploited this to remove Daniel.",
+      "citations": [
+        "src_01M4TQMMKK6Z1CTC9CNKEXBHKJ"
+      ]
+    },
+    {
+      "label": "Court tale paralleling Daniel 3",
+      "proponents": [
+        "C.-L. Seow (2003)",
+        "J. J. Collins (1984)",
+        "via Wikipedia"
+      ],
+      "summary": "A folktale of the Persian or Hellenistic period with the same pattern as the furnace story: jealous rivals, an edict, deliverance and royal confession.",
+      "citations": [
+        "src_01M4TQMMKP0TTZYQAFE83Q8G3C"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4TQMMKK6Z1CTC9CNKEXBHKJ",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the decree as flattering the king's pride while promoting unity, notes that the claim \"all\" officials agreed was false since Daniel was not consulted, and treats the den, the sealed stone and the dawn rescue as foreshadowing Christ's burial and resurrection.",
+      "url": "https://enduringword.com/bible-commentary/daniel-6/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The Greek addition Bel and the Dragon has a second lions'-den story (not indexed here).",
+    "Old Greek Daniel 6 differences not read."
+  ],
+  "not_applicable": {}
+}

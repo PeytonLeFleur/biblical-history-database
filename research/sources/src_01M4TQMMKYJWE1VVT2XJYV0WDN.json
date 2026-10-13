@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TQMMKYJWE1VVT2XJYV0WDN",
+  "title": "Ammianus Marcellinus, Res Gestae 23.6.81 (trans. J. C. Rolfe, Loeb 1940)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Ammianus Marcellinus",
+    "Rolfe, John C. (trans.)"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ammian/23*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Ammianus Marcellinus 23.6.81",
+  "license": "Public domain translation (Loeb 1940)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "23.6.81: among the Persians some laws are \"detestable\", providing that \"because of the guilt of a single person all his relatives are put to death\" (Rolfe; Guzik quotes a different translation with \"formidable\")",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

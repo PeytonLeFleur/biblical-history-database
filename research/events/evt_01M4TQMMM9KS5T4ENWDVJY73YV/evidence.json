@@ -1,0 +1,231 @@
+{
+  "event_id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 6",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Behistun inscription Old Persian §§4–9 (Livius T 02, T 03)",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Livius section page 1–10 returned HTTP 500; T 06 covers §§12–13."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Herodotus 3.89, 3.118–119; Xenophon Cyropaedia 8.6 (Gutenberg)",
+      "engine": "local text",
+      "useful_results": 3,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Ammianus 23.6.81; Diodorus 17.30 (LacusCurtius)",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Diodorus 17C page covered 40–63; 17B used."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: R. D. Wilson, Studies in the Book of Daniel (1917)",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": "OCR text read, pp. 141–144."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Wikipedia: Daniel in the lions' den; Satrap; Lion Hunt of Ashurbanipal",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Satrap article tagged as needing citations; its satrapy counts were not used."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Bible Hub Strong's H324",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4TQMMMESD4YE2V9P7R6C133",
+      "statement": "A signed decree of the Medes and Persians could not be altered, even by the king.",
+      "layer": "reconstruction",
+      "passage": "Dan.6.8-Dan.6.15",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Attested only in Daniel and Esther (1:19; 8:8), both biblical. Diodorus 17.30, commonly cited, describes a king unable to undo an execution, not a legal rule. Behistun speaks of lands obeying the king's decrees, which says nothing about irrevocability.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TQMMME7TK1TB3MXMF1ECZX",
+        "evd_01M4TQMMME43EQ074ZW0GS3VMR"
+      ],
+      "limitations": [
+        "Modern Achaemenid legal studies not consulted."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TQMMMEP19QPXRGR500DZTT",
+      "statement": "Mesopotamian kings kept captive lions.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Assyrian reliefs (as summarised by Wikipedia, citing Reade 1998 and Oates & Oates 2001) show caged lions released for royal hunts, and Ashurnasirpal II is reported to have caged lion cubs at Kalhu. The reliefs and the inscription were not examined directly here, and the evidence is Assyrian, not Persian.",
+      "supporting_evidence": [
+        "evd_01M4TQMMMEPQ2ZVZX1FCPC34SN"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Secondary summary only; British Museum records and the Ashurnasirpal text not read.",
+        "Assyrian evidence (9th–7th centuries BC); nothing found for a Persian-period lion pit at Babylon."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TQMMMEY6WVQ59EM6GCMR6A",
+      "statement": "A royal decree forbade petitions to any god or man except the king for thirty days.",
+      "layer": "text",
+      "passage": "Dan.6.7-Dan.6.9",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No such decree is known outside Daniel.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TQMMMEFVFDYN4CRX9BE71C"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TQMMMEXG1G7KG4EENC9PKP",
+      "statement": "Daniel was delivered from the lions by an angel sent by God.",
+      "layer": "text",
+      "passage": "Dan.6.22",
+      "classification": "not_empirically_testable",
+      "reasoning": "A claim of divine action that historical methods cannot assess. This is not a theological verdict.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4TQMMME7TK1TB3MXMF1ECZX",
+      "claim_ids": [
+        "clm_01M4TQMMMESD4YE2V9P7R6C133"
+      ],
+      "source_id": "src_01M4TQMMKZDH4RWTD6VQTHTX83",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Darius III regretted executing Charidemus, but \"all his royal power was not able to undo what was done\" — irreversibility of a death, with no law mentioned.",
+      "locator": "17.30.6",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "diodorus"
+    },
+    {
+      "id": "evd_01M4TQMMME43EQ074ZW0GS3VMR",
+      "claim_ids": [
+        "clm_01M4TQMMMESD4YE2V9P7R6C133"
+      ],
+      "source_id": "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Darius I says the lands \"have conformed to my decrees\" — royal law as binding on subjects, not on the king.",
+      "locator": "DB i 18–26 (§8)",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "behistun"
+    },
+    {
+      "id": "evd_01M4TQMMMEPQ2ZVZX1FCPC34SN",
+      "claim_ids": [
+        "clm_01M4TQMMMEP19QPXRGR500DZTT"
+      ],
+      "source_id": "src_01M4TQMMM4BBN7KX5W1QFBCE3Y",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Captured lions released from cages for Ashurbanipal's hunts; Ashurnasirpal II caged lion cubs at Kalhu.",
+      "locator": "Description (Reade 1998; Oates & Oates 2001)",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "assyrian-reliefs"
+    },
+    {
+      "id": "evd_01M4TQMMMEFVFDYN4CRX9BE71C",
+      "claim_ids": [
+        "clm_01M4TQMMMEY6WVQ59EM6GCMR6A"
+      ],
+      "source_id": "src_01M4TQMMKP0TTZYQAFE83Q8G3C",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Scholars treat the tale as a folktale of the Persian or Hellenistic period, closely paralleling Daniel 3.",
+      "locator": "Composition and genre",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [
+    "doc_01M4TQMMM83G0TTXHK0NC6SZ8Z"
+  ],
+  "research_gaps": [
+    "No modern study of Achaemenid royal law consulted.",
+    "Archaeological evidence for animal enclosures at Persian-period Babylon not searched in excavation reports."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "event_id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4TQMMMDQYHAQFECAK94Y4A3"
+  ],
+  "research_gaps": [
+    "Naqsh-i Rustam inscription not read.",
+    "Modern studies of Achaemenid administration of Babylonia not consulted this session."
+  ],
+  "disputes": [
+    "Darius the Mede set 120 satraps over the kingdom."
+  ],
+  "export_eligible": true
+}

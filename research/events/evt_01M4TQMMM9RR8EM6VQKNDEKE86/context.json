@@ -1,0 +1,129 @@
+{
+  "event_id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Darius sets 120 satraps over the kingdom and three chief officials over them, so that the king suffers no loss; Daniel excels, and the king plans to place him over the whole realm. The chapter ends: Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian (6:28).",
+    "passage": "Dan.6.1-Dan.6.3"
+  },
+  "setting": {
+    "period": "Early Persian rule over Babylonia (from Oct 539 BC)",
+    "body": "After the capture, Cyrus's official Gubaru appointed district officers in Babylon (ABC 7 iii 20). Xenophon has Cyrus send satraps from Babylon to the conquered lands (Cyropaedia 8.6). Darius I later fixed twenty tribute-paying satrapies (Herodotus 3.89) and lists 23 lands at Behistun (§6). The Aramaic ʾăḥašdarpan corresponds to Old Persian khshathra-pāvan, \"protector of the realm\"; Daniel also uses it of Nebuchadnezzar's officers (3:2).",
+    "citations": [
+      "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "src_01M4TQMMKWN7N51NSGCZSG9VQ3",
+      "src_01M4TQMMKS7CTR3NT9GWHMYQ0M",
+      "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+      "src_01M4TQMMM23GMDX16EMJEGD3RJ"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+      "reign_id": null,
+      "role": "King (as narrated)",
+      "citations": []
+    },
+    {
+      "person_id": "per_01M4TPW4BGGC0KY0GYZNGGGAR0",
+      "reign_id": null,
+      "role": "Cyrus's official who appointed governors in Babylon",
+      "citations": [
+        "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+      ]
+    },
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "King of Babylon and the lands",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4TQMMMARJYJ2P9RMCHQ90GW",
+      "subject": "evt_01M4TQMMM9RR8EM6VQKNDEKE86",
+      "object": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+      "relation": "after",
+      "textual_assertion": "Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors",
+      "passage": "Dan.5.31-Dan.6.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Seat of the kingdom (implied)",
+      "hypotheses": [],
+      "confidence": "possible"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "120 officials within Babylonia under Gobryas",
+      "proponents": [
+        "R. D. Wilson (1917)"
+      ],
+      "summary": "Wilson identifies Darius the Mede with Gobryas and compares the 120 \"satraps\" with the governors Gubaru appointed in Babylon; the term was elastic, so 120 sub-governors in one large province is possible.",
+      "citations": [
+        "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+        "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+      ]
+    },
+    {
+      "label": "Darius I's satrapy system projected back",
+      "proponents": [
+        "C. Newsom & B. Breed (2014), via Wikipedia",
+        "critical scholarship generally"
+      ],
+      "summary": "The organisation of the empire into satrapies is associated with Darius I; the author of Daniel is thought to have modelled his Darius on the later king. The count of 120 matches no known satrapy list (cf. 127 provinces in Esther 1:1).",
+      "citations": [
+        "src_01M4TPW4AZ36MRBPK409CVFJ9G",
+        "src_01M4TQMMKS7CTR3NT9GWHMYQ0M"
+      ]
+    },
+    {
+      "label": "The two reigns in 6:28 are one (Darius = Cyrus)",
+      "proponents": [
+        "D. J. Wiseman (1965)",
+        "via Wikipedia and Guzik"
+      ],
+      "summary": "Reads 6:28 appositionally: \"the reign of Darius, that is, the reign of Cyrus the Persian\".",
+      "citations": [
+        "src_01M4TPW4AZ36MRBPK409CVFJ9G",
+        "src_01M4TQMMKK6Z1CTC9CNKEXBHKJ"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4TQMMKK6Z1CTC9CNKEXBHKJ",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that no Darius is known for this time and place, weighs Cyrus, Cambyses and Gubaru, and prefers Gubaru, suggesting \"Darius\" may be an honorific. He reads the three chief officials as answerable directly to the king, with Daniel distinguished by \"an excellent spirit\".",
+      "url": "https://enduringword.com/bible-commentary/daniel-6/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The Naqsh-i Rustam list of lands (cited by Wilson) was not read.",
+    "Gubaru's later contracts as governor of Babylon were not read."
+  ],
+  "not_applicable": {}
+}
