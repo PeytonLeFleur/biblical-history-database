@@ -16,6 +16,13 @@
       "engine": "local text",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Isaiah 44–45; Skinner 1898 (archive.org); Cyrus Cylinder lines 11–15 (Livius)",
+      "engine": "web fetch / local text",
+      "useful_results": 4,
+      "notes": null
     }
   ],
   "domains": {
@@ -65,6 +72,30 @@
       "reviewer_status": "machine_proposed",
       "review_required": false,
       "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V8NR3T7E3VJH2ECHN9NTN9",
+      "statement": "Isaiah 44:24–45:13 was written before Cyrus's rise (by Isaiah of Jerusalem in the eighth century BC).",
+      "layer": "reconstruction",
+      "passage": "Isa.44.28",
+      "classification": "disputed",
+      "reasoning": "The traditional view (Josephus; Guzik and Motyer) takes the naming of Cyrus as prediction by Isaiah; the critical view (Skinner, after Driver and earlier Döderlein) dates the oracle to Cyrus's career, 550–539, from its historical presuppositions, ideas and style. The theological premise on each side (whether detailed prediction is possible) is stated by the sources themselves. The Cyrus Cylinder shows that \"taking the hand\" and \"calling the name\" of Cyrus was the language of his Babylonian propaganda, which bears on interpretation but does not decide the date.",
+      "supporting_evidence": [
+        "evd_01M4V8NR3T9ECP0R7H46HXX0NX",
+        "evd_01M4V8NR3TTJ4M8NPNB8RKHPBM"
+      ],
+      "counterevidence": [
+        "evd_01M4V8NR3TJGWTMP9177SXXWFJ"
+      ],
+      "contextual_evidence": [
+        "evd_01M4V8NR3TR09D373A002HGRNG"
+      ],
+      "limitations": [
+        "Modern studies (after 1915) not read."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
     }
   ],
   "evidence": [
@@ -99,6 +130,70 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4V8NR3T9ECP0R7H46HXX0NX",
+      "claim_ids": [
+        "clm_01M4V8NR3T7E3VJH2ECHN9NTN9"
+      ],
+      "source_id": "src_01M4V85GFFAGD0T70XA32HF091",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Cyrus learned his charge by reading Isaiah's book, written 140 years before the Temple's destruction.",
+      "locator": "Ant. 11.1.1–2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4V8NR3TTJ4M8NPNB8RKHPBM",
+      "claim_ids": [
+        "clm_01M4V8NR3T7E3VJH2ECHN9NTN9"
+      ],
+      "source_id": "src_01M4V8NR3AEKAJSPSVDDNM0W3D",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Named more than 200 years before his birth; the name is integral to the poem (Guzik; Motyer).",
+      "locator": "on 44:24–28",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4V8NR3TJGWTMP9177SXXWFJ",
+      "claim_ids": [
+        "clm_01M4V8NR3T7E3VJH2ECHN9NTN9"
+      ],
+      "source_id": "src_01M4V8NR3JHP1XEB9T6DZE6WZC",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Cyrus already a famous conqueror but Babylon not yet taken: chs. 40–48 date 550–539, almost certainly after 546; an exilic author was the near-unanimous critical verdict by 1898.",
+      "locator": "Introduction pp. xv–xvii, xxxiii–xl",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V8NR3TR09D373A002HGRNG",
+      "claim_ids": [
+        "clm_01M4V8NR3T7E3VJH2ECHN9NTN9"
+      ],
+      "source_id": "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Marduk took a righteous king \"by the hand\" and \"called out his name: Cyrus\"; went \"at his side\" like a friend — language close to Isa 45:1–4, attributed to a different god.",
+      "locator": "lines 12, 15",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "cyrus-cylinder"
     }
   ],
   "artifacts": [],

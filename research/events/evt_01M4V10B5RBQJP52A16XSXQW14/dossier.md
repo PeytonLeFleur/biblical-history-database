@@ -1,6 +1,6 @@
 # Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5)
 
-> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
 > Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
 
 ## Biblical references
@@ -882,6 +882,7 @@ The Cyrus Cylinder (Babylon, c. 539–530) records that Cyrus returned the image
 
 - **538 BC (Cyrus's first Babylonian year)** (D. Guzik, S. R. Driver (edict of Cyrus, 538)): Year 1 = 24 Mar 538 – Mar 537 on Nisan reckoning. [4, 5, 2]
 - **Cyrus moved by Isaiah's prophecy (Josephus)** (Josephus, Ant. 11.1.1–2, D. Guzik (perhaps shown by Daniel)): Josephus says Cyrus learned his charge "by his reading the book which Isaiah left behind"; no Persian source mentions it. The Cyrus Cylinder presents Marduk, not the LORD, as Cyrus's divine patron in Babylon. [6, 7]
+- **Cyrus's mission foretold in Isaiah (dating disputed)** (Josephus; Guzik (Isaiah of Jerusalem), Skinner (an exilic prophet, 550–539)): Isa 44:28 and 45:13 announce the rebuilding and release that Ezra 1 records; whether the oracle predates Cyrus is disputed (claim under review). [6, 8, 9]
 
 ## Claims and evidence
 
@@ -896,10 +897,28 @@ The Cyrus Cylinder states that Cyrus returned the gods to their places and gathe
 
 *Limitations:* The Cylinder's list is regional (Mesopotamia and east of the Tigris).
 
+### Isaiah 44:24–45:13 was written before Cyrus's rise (by Isaiah of Jerusalem in the eighth century BC).
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+The traditional view (Josephus; Guzik and Motyer) takes the naming of Cyrus as prediction by Isaiah; the critical view (Skinner, after Driver and earlier Döderlein) dates the oracle to Cyrus's career, 550–539, from its historical presuppositions, ideas and style. The theological premise on each side (whether detailed prediction is possible) is stated by the sources themselves. The Cyrus Cylinder shows that "taking the hand" and "calling the name" of Cyrus was the language of his Babylonian propaganda, which bears on interpretation but does not decide the date.
+
+- *Supporting (direct):* Cyrus learned his charge by reading Isaiah's book, written 140 years before the Temple's destruction. (Ant. 11.1.1–2) [6]
+- *Supporting (indirect):* Named more than 200 years before his birth; the name is integral to the poem (Guzik; Motyer). (on 44:24–28) [8]
+- *Challenging (indirect):* Cyrus already a famous conqueror but Babylon not yet taken: chs. 40–48 date 550–539, almost certainly after 546; an exilic author was the near-unanimous critical verdict by 1898. (Introduction pp. xv–xvii, xxxiii–xl) [9]
+- *Context (direct):* Marduk took a righteous king "by the hand" and "called out his name: Cyrus"; went "at his side" like a friend — language close to Isa 45:1–4, attributed to a different god. (lines 12, 15) [1]
+
+*Limitations:* Modern studies (after 1915) not read.
+
 ## Related passages and events
 
 - this event → **same event** → 2 Chronicles 36:22–23 (high): Parallel wording of the proclamation.
 - this event → **followed by** → Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12) (high): Darius finds and confirms Cyrus's memorandum (Ezra 6:1–12).
+- pro_01M4V8NR3JTP298H55VVAEQQJS → **proposed fulfillment** → this event (high): Cyrus says of Jerusalem "She will be built" and frees the exiles (Isa 44:28; 45:13) — fulfilled in his first-year decree (Ezra 1:1–4). [6, 8, 9]
+- pro_01M4V8NR3JTP298H55VVAEQQJS → **proposed fulfillment** → Fall of Babylon to Cyrus (October 539 BC) (medium): Doors and gates opened before Cyrus (Isa 45:1–2) — Babylon's capture in 539 (Herodotus's river-gate account). [10, 11]
+- pro_01M4V8NR3JTP298H55VVAEQQJS → **thematic parallel** → Cyrus Cylinder (text) (high): The Cylinder has Marduk take Cyrus by the hand and call his name (lines 12, 15); Isaiah has the LORD hold his right hand and call him by name (45:1–4). [1]
+- pro_01M4V8NR3JTP298H55VVAEQQJS → **thematic parallel** → pro_01M4V10B5RTYN24Y82472GYNTF (medium): Driver identifies the "anointed one, a prince" of Dan 9:25 with Cyrus, "Jehovah's anointed" (Isa 45:1). [5]
+- pro_01M4V8NR3JTP298H55VVAEQQJS → **thematic parallel** → Philippians 2:10–11 (high): Isa 45:23 ("to me every knee shall bow") applied to Jesus.
 
 ## Commentary (interpretation, not historical evidence)
 
@@ -910,6 +929,10 @@ The Cyrus Cylinder states that Cyrus returned the gods to their places and gathe
 - Modern studies of the Cyrus decree's authenticity not read.
 - The Aramaic memorandum (Ezra 6:3–5) and the Hebrew proclamation (Ezra 1:2–4) differ in form; their relation was not researched.
 
+## Disputes
+
+- Isaiah 44:24–45:13 was written before Cyrus's rise (by Isaiah of Jerusalem in the eighth century BC).
+
 ## Sources
 
 1. Cogan, Mordechai (trans., COS 2003), Schaudig, Hanspeter (edition), van der Spek, R. J.. Cyrus Cylinder — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/> — *ancient primary text; verification: claim checked*
@@ -919,3 +942,7 @@ The Cyrus Cylinder states that Cyrus returned the gods to their places and gathe
 5. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
 6. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.1.1–3 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
 7. Guzik, David. Ezra 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-1/> — *theological commentary; verification: claim checked*
+8. Guzik, David. Isaiah 44 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/isaiah-44/> — *theological commentary; verification: claim checked*
+9. Skinner, John. The Book of the Prophet Isaiah, Chapters XL–LXVI (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1898 (1915 printing). <https://archive.org/details/bookofprophetisa02skinuoft> — *scholarly commentary; verification: claim checked*
+10. Guzik, David. Isaiah 45 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/isaiah-45/> — *theological commentary; verification: claim checked*
+11. Herodotus, Macaulay, G. C. (trans.). Herodotus, Histories 1.188–191 (trans. G. C. Macaulay). Project Gutenberg #2707. <https://www.gutenberg.org/ebooks/2707> — *ancient primary text; verification: claim checked*

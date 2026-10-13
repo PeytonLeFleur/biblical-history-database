@@ -1,0 +1,358 @@
+{
+  "book": "Isa",
+  "chapter": 44,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Isa.44.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RABBTZ2ZS0F8EHS8G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RABBTZ2ZS0F8EHS8G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RABBTZ2ZS0F8EHS8G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RABBTZ2ZS0F8EHS8G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RABBTZ2ZS0F8EHS8G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3REDYNV1K4R5ARDCD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3REDYNV1K4R5ARDCD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3REDYNV1K4R5ARDCD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RN92YPH70NYX8XY9K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RPFHKKVE0P26PANBE"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RPFHKKVE0P26PANBE"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RPFHKKVE0P26PANBE"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD6XZX7FSAJ1CAGSG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD6XZX7FSAJ1CAGSG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD6XZX7FSAJ1CAGSG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD6XZX7FSAJ1CAGSG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.44.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD6XZX7FSAJ1CAGSG"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V8NR3RABBTZ2ZS0F8EHS8G",
+      "title": "The Spirit poured on Jacob's offspring",
+      "passage": "Isa.44.1-Isa.44.5",
+      "description": "Promise of water on the thirsty and the Spirit on Jacob's descendants.",
+      "record_type": "prophecy",
+      "literary_classification": "poetry",
+      "narrative_mode": "poetic",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Joel.2.28-Joel.2.29",
+        "John.7.38-John.7.39"
+      ],
+      "research_priority": "background",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V8NR3REDYNV1K4R5ARDCD1",
+      "title": "No God besides the LORD, the first and the last",
+      "passage": "Isa.44.6-Isa.44.8",
+      "description": "The LORD challenges any rival to declare what is to come.",
+      "record_type": "teaching",
+      "literary_classification": "poetry",
+      "narrative_mode": "poetic",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Rev.1.17",
+        "Rev.22.13"
+      ],
+      "research_priority": "background",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V8NR3RN92YPH70NYX8XY9K",
+      "title": "Satire on the making of idols",
+      "passage": "Isa.44.9-Isa.44.20",
+      "description": "The craftsman burns half a tree for warmth and bread and makes a god of the rest.",
+      "record_type": "teaching",
+      "literary_classification": "poetry",
+      "narrative_mode": "poetic",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Jer.10.3-Jer.10.5",
+        "Ps.115.4-Ps.115.8"
+      ],
+      "research_priority": "background",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V8NR3RPFHKKVE0P26PANBE",
+      "title": "Israel redeemed; the heavens sing",
+      "passage": "Isa.44.21-Isa.44.23",
+      "description": "The LORD has blotted out Israel's transgressions; creation is summoned to rejoice.",
+      "record_type": "prophecy",
+      "literary_classification": "poetry",
+      "narrative_mode": "poetic",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "background",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V8NR3RD6XZX7FSAJ1CAGSG",
+      "title": "The LORD who says of Cyrus \"He is my shepherd\"",
+      "passage": "Isa.44.24-Isa.44.28",
+      "description": "The Creator who confirms his servants' word says of Jerusalem that it will be inhabited and rebuilt, and of Cyrus that he will fulfil his pleasure and say of the Temple, \"Your foundation will be laid.\"",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Cyrus",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.1.1-Ezra.1.4",
+        "2Chr.36.22-2Chr.36.23",
+        "Ezra.3.10"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Date of composition (Isaiah of Jerusalem vs an exilic prophet)."
+      ],
+      "job_id": null,
+      "event_id": null
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-isaiah-44-45.md"
+}

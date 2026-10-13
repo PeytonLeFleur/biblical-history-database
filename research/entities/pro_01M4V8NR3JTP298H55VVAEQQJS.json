@@ -1,0 +1,81 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V8NR3JTP298H55VVAEQQJS",
+  "slug": "cyrus-the-lords-shepherd-and-anointed-isa-44-45",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V8NR3AEKAJSPSVDDNM0W3D",
+    "src_01M4V8NR3FRFX87YB304C1N9X1",
+    "src_01M4V8NR3JHP1XEB9T6DZE6WZC",
+    "src_01M4V85GFFAGD0T70XA32HF091"
+  ],
+  "notes": null,
+  "title": "Cyrus the LORD's shepherd and anointed (Isa 44:24–45:13)",
+  "passage": "Isa.44.24-Isa.45.13",
+  "speaker": "The LORD (through the prophet)",
+  "vision_id": null,
+  "description": "The LORD names Cyrus \"my shepherd\", who will fulfil his purpose, say of Jerusalem \"She will be built\" and of the Temple \"Your foundation will be laid\" (44:28); calls him \"his anointed\", whose right hand he has held, to subdue nations and open doors and gates (45:1–3), for Israel's sake though Cyrus has not known him (45:4–5); he will build the LORD's city and free the exiles, not for price or reward (45:13).",
+  "in_text_interpretation": "The text names Cyrus explicitly (44:28; 45:1) and states the purposes: Jerusalem rebuilt, the Temple founded, exiles freed. It does not name Babylon in these verses (cf. 47:1; 48:14).",
+  "interpretations": [
+    {
+      "id": "ful_01M4V8NR3JGD6QVRB50WX7E9DS",
+      "label": "Predictive prophecy of Isaiah of Jerusalem, fulfilled by Cyrus (539–538)",
+      "approach": "preterist",
+      "framework": "Traditional Jewish and Christian",
+      "proponents": [
+        "Josephus (Ant. 11.1.1–2: Cyrus read his name in Isaiah, \"one hundred and forty years before the temple was demolished\")",
+        "D. Guzik (more than 200 years before Cyrus's birth; citing Poole and Motyer)"
+      ],
+      "summary": "Textual reasoning: the book is headed as Isaiah's (1:1), and the passage presents the naming of Cyrus as proof that the LORD foretells (44:24–26). Fulfilment: Cyrus took Babylon (539) and in his first year authorised the return and the Temple (Ezra 1; 2 Chr 36:22–23). Guzik: the name is woven into the poem and cannot be a later insertion; Motyer: no basis to limit prediction. Josephus says Cyrus himself was moved by reading it. Objection: critical scholarship dates the passage to Cyrus's own career (below). Note: the Whiston text of Josephus gives 140 years before the destruction; Guzik (via Bultema) reports 220.",
+      "referents": [
+        {
+          "symbol": "My shepherd / his anointed",
+          "referent": "Cyrus II"
+        },
+        {
+          "symbol": "Doors and gates opened",
+          "referent": "Babylon's capture (539)"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+        "evt_01M4V10B5RBQJP52A16XSXQW14"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V85GFFAGD0T70XA32HF091",
+        "src_01M4V8NR3AEKAJSPSVDDNM0W3D",
+        "src_01M4V8NR3FRFX87YB304C1N9X1"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V8NR3J1XXCBNJ1RZQECNVF",
+      "label": "An exilic prophet announcing Cyrus's imminent conquest (c. 546–539), fulfilled shortly after",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "J. Skinner (1898), summarising S. R. Driver",
+        "J. C. Döderlein (1775), with Ibn Ezra as a guarded forerunner (per Skinner)"
+      ],
+      "summary": "Textual reasoning: Cyrus is addressed as an already famous conqueror whose victories have shaken the world (41:2–3, 25) while Babylon's capture is still future (45:2–3; 48:14), so chs. 40–48 date between 550 and 539, almost certainly after the fall of Sardis (546); 46:1 may allude to Nabonidus's moving of the gods in 539 (Sellin, via Skinner). The announced events followed: Babylon fell in 539 and Cyrus's decree allowed the return. Objection: Guzik and Motyer reject the premise that detailed prediction is impossible; Skinner records that the case rests on internal evidence.",
+      "referents": [
+        {
+          "symbol": "My shepherd / his anointed",
+          "referent": "Cyrus II (contemporary with the prophet)"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+        "evt_01M4V10B5RBQJP52A16XSXQW14"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V8NR3JHP1XEB9T6DZE6WZC",
+        "src_01M4V8NR3AEKAJSPSVDDNM0W3D"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

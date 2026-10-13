@@ -40,10 +40,30 @@
     }
   ],
   "publication_level": "researched",
-  "open_reviews": [],
+  "open_reviews": [
+    "rev_01M4V10B6WND5AN16D7SJ5NEJ0",
+    "rev_01M4V10B6XGPCNTZ8TAMVQV5RH",
+    "rev_01M4V10B6YST4H050F9DXYF8ZS",
+    "rev_01M4V10B6ZQT6N2EX96P8P9PH8",
+    "rev_01M4V10B6ZZ9PC98J0ZP595FH1",
+    "rev_01M4V10B70M0A60KNHRAV139ZT",
+    "rev_01M4V10B712TWPS0A1R0HDKB58",
+    "rev_01M4V10B72NCY4N8C1R03Z1DHK",
+    "rev_01M4V10B73CST0SABGG25Z2SNP",
+    "rev_01M4V10B74ZNKXJ60G92Z8D290",
+    "rev_01M4V10B75PFJE0R149A36G5WN",
+    "rev_01M4V613AKSDCWC157N3KX8VXZ",
+    "rev_01M4V8NR3Y56FKA6B2H48J10GD",
+    "rev_01M4V8NR42BN8XCRRRR17FDV1F",
+    "rev_01M4V8NR443NNQR4ZFRYN7TJFB",
+    "rev_01M4V8NR4BXXZVG4XM290XK0JT",
+    "rev_01M4V8NR4D8M8S86WXT1Z5EGB7"
+  ],
   "research_gaps": [
     "Modern studies of the Cyrus decree's authenticity not read."
   ],
-  "disputes": [],
+  "disputes": [
+    "Isaiah 44:24–45:13 was written before Cyrus's rise (by Isaiah of Jerusalem in the eighth century BC)."
+  ],
   "export_eligible": true
 }

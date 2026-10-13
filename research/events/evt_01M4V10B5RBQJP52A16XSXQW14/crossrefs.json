@@ -1625,6 +1625,31 @@
         "Zeph.1.4",
         "Zeph.2.7"
       ]
+    },
+    {
+      "name": "Cyrus (Isaiah and all books)",
+      "books_searched": 66,
+      "hits": [
+        "2Chr.36.22",
+        "2Chr.36.23",
+        "Ezra.1.1",
+        "Ezra.1.2",
+        "Ezra.1.7",
+        "Ezra.1.8",
+        "Ezra.3.7",
+        "Ezra.4.3",
+        "Ezra.4.5",
+        "Ezra.5.13",
+        "Ezra.5.14",
+        "Ezra.5.17",
+        "Ezra.6.3",
+        "Ezra.6.14",
+        "Isa.44.28",
+        "Isa.45.1",
+        "Dan.1.21",
+        "Dan.6.28",
+        "Dan.10.1"
+      ]
     }
   ],
   "relationships": [
@@ -1674,6 +1699,137 @@
       "interpretive_approach": null,
       "proposed_by": null,
       "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V8NR3ZQQTB55ERMRKNQ35C",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V8NR3JTP298H55VVAEQQJS"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "Cyrus says of Jerusalem \"She will be built\" and frees the exiles (Isa 44:28; 45:13) — fulfilled in his first-year decree (Ezra 1:1–4).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V85GFFAGD0T70XA32HF091",
+          "src_01M4V8NR3AEKAJSPSVDDNM0W3D",
+          "src_01M4V8NR3JHP1XEB9T6DZE6WZC"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Josephus; Guzik; Skinner (all, on different dating premises)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V8NR3ZRXNH3KHWG7WE531N",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V8NR3JTP298H55VVAEQQJS"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Doors and gates opened before Cyrus (Isa 45:1–2) — Babylon's capture in 539 (Herodotus's river-gate account).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V8NR3FRFX87YB304C1N9X1",
+          "src_01M4TPW4B76Q4APZ5JCJX4ME8M"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Guzik (with Herodotus)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V8NR3ZTRGGKNH3JWG3Z81Y",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V8NR3JTP298H55VVAEQQJS"
+      },
+      "to": {
+        "kind": "document",
+        "id": "doc_01M4TPW4BPQ1TJC6NY0A8CQ96D"
+      },
+      "confidence": "high",
+      "layer": "evidence",
+      "rationale": "The Cylinder has Marduk take Cyrus by the hand and call his name (lines 12, 15); Isaiah has the LORD hold his right hand and call him by name (45:1–4).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V8NR3ZG6PM6XJWXQ5W95QP",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V8NR3JTP298H55VVAEQQJS"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Driver identifies the \"anointed one, a prince\" of Dan 9:25 with Cyrus, \"Jehovah's anointed\" (Isa 45:1).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V8NR3ZVCRZAYQDP0N0GDB5",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V8NR3JTP298H55VVAEQQJS"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Phil.2.10-Phil.2.11"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Isa 45:23 (\"to me every knee shall bow\") applied to Jesus.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
       "review_required": false
     }
   ],

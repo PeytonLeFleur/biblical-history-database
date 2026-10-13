@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V8NR3AEKAJSPSVDDNM0W3D",
+  "title": "Isaiah 44 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/isaiah-44/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the commentary on Isaiah 44",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Cyrus named \"more than 200 years before\" his birth (Poole); \"my shepherd\" = the LORD's appointed carer (Motyer); Ezra records only the foundation laid under Cyrus; many modern scholars take the passage as the strongest argument for an exilic author; Guzik: the name cannot have been inserted later; Motyer: we cannot limit predictive prophecy; Josephus's Cyrus-read-Isaiah report via Bultema (220 years)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}
