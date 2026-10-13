@@ -1,0 +1,207 @@
+{
+  "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Shebat",
+      "books_searched": 66,
+      "hits": [
+        "Zech.1.7"
+      ]
+    },
+    {
+      "name": "myrtle",
+      "books_searched": 66,
+      "hits": [
+        "Isa.41.19",
+        "Isa.55.13",
+        "Neh.8.15",
+        "Zech.1.8",
+        "Zech.1.10",
+        "Zech.1.11"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VKPC3Q6CPR52HY00QVKTSH",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"Indignation these seventy years\" (1:12) — Jeremiah's seventy years, already read in Dan 9:2.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VKPC3Q6TQC4A7SB26NZ66Q",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VKPC234CNWTENVWCSMJH4B"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The second vision's interpretation.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VKPC3QGX1PYDPJ5DH1B444",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VKPC23ZXHDX0J587JRG60S"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The third vision and its oracle.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VKPC3Q69HW0SHBX690GZ2N",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The seventy years of indignation counted from the Temple's destruction (Keil, after Vitringa).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VKPC3QNYCJXQ04N7AR2F39",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "\"My house shall be built in it\" (1:16) — completed in Darius's sixth year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VKPC3QEWX38JW07RFP2NHD",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.7.7-Dan.7.8"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Horns as kingdoms (Keil).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VKPC3QWM4XYK3SMPSSP06P",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.18.4"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"Come out of her\" — Babylon literal and figurative (Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VKPC238R5GJTHVYCDF0R3N"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VKPC33DQPRFTNT9FJYGYVQ",
+    "cst_01M4VKPC33SWHDQBQR309HJES3"
+  ]
+}

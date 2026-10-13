@@ -1,0 +1,42 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VKPC23ZXHDX0J587JRG60S",
+  "slug": "jerusalem-without-walls-zech-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VKPC238R5GJTHVYCDF0R3N",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "Jerusalem without walls; flee from Babylon; many nations joined to the LORD (Zech 2:4–13)",
+  "passage": "Zech.2.4-Zech.2.13",
+  "speaker": "The LORD (through the angel and the prophet)",
+  "vision_id": "vis_01M4VKPC23TWVFJ9Y2QGRH5EXC",
+  "description": "Jerusalem will overflow its walls and the LORD will be its wall of fire; the exiles must flee the land of the north and escape from Babylon; the plunderers will become plunder; the LORD will dwell in Zion, many nations will join themselves to him, and he will again choose Jerusalem.",
+  "in_text_interpretation": "The text states the purposes but names no date or agent.",
+  "interpretations": [
+    {
+      "id": "ful_01M4VKPC2VFBZGC2GQFP04X2CE",
+      "label": "Partial fulfilment in the Persian-era resettlement; ultimate fulfilment in the Messiah's reign",
+      "approach": "mixed",
+      "framework": "Traditional Christian (futurist emphasis)",
+      "proponents": [
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the promises of overflowing population and divine protection exceed the small post-exilic city. Historical evidence: Jerusalem was resettled and its walls rebuilt under Nehemiah (Neh 2–6; 11). Guzik sees the ultimate fulfilment in the Messiah's future reign. Objection: the wall-less city of 2:4 stands in tension with Nehemiah's rebuilding of the walls.",
+      "referents": [
+        {
+          "symbol": "Jerusalem without walls",
+          "referent": "Restored Jerusalem, ultimately under the Messiah"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VKPC238R5GJTHVYCDF0R3N"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

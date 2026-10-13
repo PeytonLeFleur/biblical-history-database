@@ -1,0 +1,295 @@
+{
+  "book": "Zech",
+  "chapter": 1,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.1.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31FS8T65ZBW91HD59H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31FS8T65ZBW91HD59H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31FS8T65ZBW91HD59H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31FS8T65ZBW91HD59H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31FS8T65ZBW91HD59H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31FS8T65ZBW91HD59H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31SQ98CW612DS5ZMEM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31WPYQ861MGM8Z4YT9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31WPYQ861MGM8Z4YT9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31WPYQ861MGM8Z4YT9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.1.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31WPYQ861MGM8Z4YT9"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VKPC31FS8T65ZBW91HD59H",
+      "title": "Call to return (8th month, Darius year 2): \"Return to me, and I will return to you\"",
+      "passage": "Zech.1.1-Zech.1.6",
+      "description": "The LORD was angry with the fathers who ignored the former prophets; return to me and I will return to you; the fathers and prophets are gone, but the words overtook them, and they repented.",
+      "record_type": "teaching",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zechariah the son of Berechiah, the son of Iddo",
+          "matched_entity_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Zech.1.1",
+          "phrase": "In the eighth month, in the second year of Darius",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Ezra.5.1",
+        "Ezra.6.14",
+        "Matt.23.35"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"Son of Berechiah, son of Iddo\" (1:1) vs \"son of Iddo\" (Ezra 5:1; 6:14)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23E13MFWG57MHGXF4E"
+    },
+    {
+      "id": "cnd_01M4VKPC31SQ98CW612DS5ZMEM",
+      "title": "First night vision: the rider among the myrtles; \"these seventy years\"; comfort for Jerusalem",
+      "passage": "Zech.1.7-Zech.1.17",
+      "description": "On 24/XI (Shebat) of Darius's second year Zechariah sees the rider among the myrtles and the patrol reporting the earth at rest; the angel of the LORD pleads for Jerusalem after seventy years of indignation; the LORD is jealous for Jerusalem, angry with the nations at ease; his house will be built and the line stretched over Jerusalem.",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zechariah",
+          "matched_entity_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Zech.1.7",
+          "phrase": "On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year of Darius",
+          "kind": "regnal"
+        },
+        {
+          "ref": "Zech.1.12",
+          "phrase": "these seventy years",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Jer.25.11-Jer.25.12",
+        "Dan.9.2",
+        "Hag.1.1-Hag.1.15"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Starting point of \"these seventy years\".",
+        "Identity of the man among the myrtles."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    },
+    {
+      "id": "cnd_01M4VKPC31WPYQ861MGM8Z4YT9",
+      "title": "Second night vision: four horns and four craftsmen",
+      "passage": "Zech.1.18-Zech.1.21",
+      "description": "Four horns that scattered Judah, Israel and Jerusalem; four craftsmen come to terrify and cast them down.",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.7.7-Dan.7.8",
+        "Dan.8.3-Dan.8.9"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Which powers the horns represent."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-1-2.md"
+}

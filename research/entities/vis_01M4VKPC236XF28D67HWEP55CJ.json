@@ -1,0 +1,32 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4VKPC236XF28D67HWEP55CJ",
+  "slug": "four-horns-and-four-craftsmen-zech-1",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VKPC1XSDRD4906C2B77VBH",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "Four horns and four craftsmen (second night vision)",
+  "passage": "Zech.1.18-Zech.1.21",
+  "recipient_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+  "experience_event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "symbols": [
+    {
+      "symbol": "Four horns",
+      "description": "Horns",
+      "passage": "Zech.1.18-Zech.1.19",
+      "in_text_interpretation": "\"The horns which have scattered Judah, Israel, and Jerusalem\" (1:19); \"the horns of the nations\" (1:21). The nations are not named."
+    },
+    {
+      "symbol": "Four craftsmen (smiths)",
+      "description": "Workmen",
+      "passage": "Zech.1.20-Zech.1.21",
+      "in_text_interpretation": "They come \"to terrify them, to cast down the horns of the nations\" (1:21). Not identified."
+    }
+  ],
+  "description": "Zechariah sees four horns, then four craftsmen who come to terrify and cast down the horns."
+}

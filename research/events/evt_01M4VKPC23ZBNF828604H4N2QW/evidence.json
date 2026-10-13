@@ -1,0 +1,166 @@
+{
+  "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Zechariah 1–2",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Mitchell ICC 1912 pp. 116–132 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil Minor Prophets pp. 230–240 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Prophetic and visionary material; no material remains are associated."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VKPC35F75RAQB7DAD6RM2W",
+      "statement": "Zechariah's night visions are dated to 24 Shebat of Darius I's second year (early 519 BC).",
+      "layer": "reconstruction",
+      "passage": "Zech.1.7",
+      "classification": "historically_plausible",
+      "reasoning": "The superscription gives the date; on Babylonian reckoning month XI of Darius's second year fell in January–February 519, and Mitchell gives \"toward the middle of February\" 519. The day-level conversion was not read from the table.",
+      "supporting_evidence": [
+        "evd_01M4VKPC35J5Z6ZSJR2Q7AB81T",
+        "evd_01M4VKPC35M6B8QW1D6AMP032Q"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VKPC35RE3642Y7MADGDW1R",
+      "statement": "The \"seventy years\" of Zech 1:12 refer to Jeremiah's seventy years, counted to Darius's second year.",
+      "layer": "interpretation",
+      "passage": "Zech.1.12",
+      "classification": "not_empirically_testable",
+      "reasoning": "Keil (after Vitringa and Hengstenberg) holds that the seventy years were completed twice — under Cyrus and, nearly, from the Temple's destruction to Darius's second year (587/586 to 520/519 is 66–68 years). Mitchell suggests counting from 605 or a loose count. The question concerns the meaning of the text; it is recorded here and on the existing prophecy record of Jeremiah's seventy years.",
+      "supporting_evidence": [
+        "evd_01M4VKPC35WTXCTD0QPAQR8294"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VKPC35A9ZXRNR79ZCK7NZC"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VKPC35J5Z6ZSJR2Q7AB81T",
+      "claim_ids": [
+        "clm_01M4VKPC35F75RAQB7DAD6RM2W"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Year 2 ran from 3 April 520 to 22 March 519.",
+      "locator": "table, Darius I year 2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4VKPC35M6B8QW1D6AMP032Q",
+      "claim_ids": [
+        "clm_01M4VKPC35F75RAQB7DAD6RM2W"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The night before 24/XI of Darius's second year, \"toward the middle of February\" 519 B.C.",
+      "locator": "pp. 116–117 (on 1:7)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "mitchell-1912"
+    },
+    {
+      "id": "evd_01M4VKPC35WTXCTD0QPAQR8294",
+      "claim_ids": [
+        "clm_01M4VKPC35RE3642Y7MADGDW1R"
+      ],
+      "source_id": "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Completed twice: also nearly seventy years from the Temple's destruction to Darius's second year.",
+      "locator": "on 1:12",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1868"
+    },
+    {
+      "id": "evd_01M4VKPC35A9ZXRNR79ZCK7NZC",
+      "claim_ids": [
+        "clm_01M4VKPC35RE3642Y7MADGDW1R"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Reckoned from 605 or including the years since Babylon's fall.",
+      "locator": "pp. 124–125",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "mitchell-1912"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Persian revolts of 521–519 (Behistun) not re-examined for 1:11.",
+    "Post-1912 studies of the night visions not read."
+  ]
+}

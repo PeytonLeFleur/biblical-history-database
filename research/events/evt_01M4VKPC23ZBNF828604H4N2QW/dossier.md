@@ -1,0 +1,936 @@
+# Zechariah's night visions (24 Shebat, Darius year 2; Zech 1:7–6:8)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Zechariah 1:7–2:13 (narration): Visions 1–3 and the oracle of 2:6–13; chapters 3–6 to follow.
+
+## Biblical account
+
+On 24 Shebat of Darius's second year Zechariah saw (1) a man on a red horse among myrtles with a patrol reporting the earth at rest, and heard the angel of the LORD plead for Jerusalem after "these seventy years" and the LORD promise to return with mercy and rebuild; (2) four horns that scattered Judah and four craftsmen to cast them down; (3) a man measuring Jerusalem, told that it would be unwalled for its multitude with the LORD as a wall of fire. An oracle calls the exiles to flee Babylon and promises the LORD's dwelling in Zion and the joining of many nations.
+
+## Historical setting
+
+**Period:** January–February 519 BC
+
+Mitchell dates 24 Shebat of Darius's second year to February 519. He doubts that the report "the whole earth rests" describes the empire at that date, given the revolts against Darius, and reads it otherwise. [1, 2]
+
+### Rulers
+
+- Darius I (the Great): King of Persia (dating) [2]
+
+## Date and chronology
+
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → “eleventh month, after the ninth”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “On the twenty-fourth day of the eleventh month, which is the month Shebat, in the second year of Darius” (Zechariah 1:7) → `in_regnal_year` reign of Darius I (the Great); assumptions: Babylonian Nisan-based regnal years: year 2 = 3 April 520 – 22 March 519 (Parker & Dubberstein). Shebat (month XI) fell in January–February 519; Mitchell gives "toward the middle of February" 519. [2]
+- “eleventh month, after the ninth” (Zechariah 1:7) → `after` Haggai's oracles of 24/IX, Darius year 2: "from this day I will bless you"; Zerubbabel the signet
+
+## Geography
+
+- Jerusalem (Object of the visions; confidence: certain)
+  - Pleiades representative point: certain [3]
+- Babylon ("The daughter of Babylon" from which the exiles must flee (2:7); confidence: certain)
+  - Babylon (Pleiades 893951): certain [4]
+
+## Competing reconstructions
+
+- **"These seventy years" (1:12): from the destruction of 587/586 to Darius's second year** (C. F. Keil (1868), after Vitringa and Hengstenberg: the seventy years were "completed twice"): Jeremiah's seventy years had ended under Cyrus, but nearly seventy years had also passed since the Temple's destruction while it still lay in ruins. [5]
+- **"These seventy years" counted from 605 or loosely** (H. G. Mitchell (1912)): Either from the date of Jeremiah's prophecy (605) or by inadvertently including the years since the fall of Babylon. [1]
+- **The man among the myrtles** (D. Guzik: the Angel of the LORD, a pre-incarnate appearance of Christ, C. F. Keil: the angel of Jehovah, of one essence with Jehovah): Theological identifications; the text calls him the angel of the LORD (1:11). [6, 5]
+
+## Claims and evidence
+
+### Zechariah's night visions are dated to 24 Shebat of Darius I's second year (early 519 BC).
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+The superscription gives the date; on Babylonian reckoning month XI of Darius's second year fell in January–February 519, and Mitchell gives "toward the middle of February" 519. The day-level conversion was not read from the table.
+
+- *Supporting (direct):* Year 2 ran from 3 April 520 to 22 March 519. (table, Darius I year 2) [2]
+- *Supporting (indirect):* The night before 24/XI of Darius's second year, "toward the middle of February" 519 B.C. (pp. 116–117 (on 1:7)) [1]
+
+### The "seventy years" of Zech 1:12 refer to Jeremiah's seventy years, counted to Darius's second year.
+
+**Classification:** Not empirically testable (machine proposed) · layer: interpretation
+
+Keil (after Vitringa and Hengstenberg) holds that the seventy years were completed twice — under Cyrus and, nearly, from the Temple's destruction to Darius's second year (587/586 to 520/519 is 66–68 years). Mitchell suggests counting from 605 or a loose count. The question concerns the meaning of the text; it is recorded here and on the existing prophecy record of Jeremiah's seventy years.
+
+- *Supporting (indirect):* Completed twice: also nearly seventy years from the Temple's destruction to Darius's second year. (on 1:12) [5]
+- *Context (indirect):* Reckoned from 605 or including the years since Babylon's fall. (pp. 124–125) [1]
+
+## Related passages and events
+
+- this event → **direct reference** → pro_01M4V10B5R3FQYBVQ98B9H88R7 (high): "Indignation these seventy years" (1:12) — Jeremiah's seventy years, already read in Dan 9:2.
+- this event → **direct reference** → pro_01M4VKPC234CNWTENVWCSMJH4B (high): The second vision's interpretation.
+- this event → **direct reference** → pro_01M4VKPC23ZXHDX0J587JRG60S (high): The third vision and its oracle.
+- this event → **thematic parallel** → Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (medium): The seventy years of indignation counted from the Temple's destruction (Keil, after Vitringa). [5]
+- this event → **thematic parallel** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (medium): "My house shall be built in it" (1:16) — completed in Darius's sixth year.
+- this event → **thematic parallel** → Daniel 7:7–8 (medium): Horns as kingdoms (Keil). [5]
+- this event → **thematic parallel** → Revelation 18:4 (medium): "Come out of her" — Babylon literal and figurative (Guzik). [7]
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik reads the horsemen as an imperial-style patrol and the horns, if read prophetically, as Babylon, Medo-Persia, Greece and Rome. [6]
+- Guzik sees a short-term fulfilment of 2:1–5 under Ezra and Nehemiah and an ultimate one under the Messiah. [7]
+
+## Unanswered questions and research gaps
+
+- Persian revolts of 521–519 (Behistun) not re-examined for 1:11.
+- Post-1912 studies of the night visions not read.
+
+## Sources
+
+1. Mitchell, Hinckley G., Smith, J. M. P., Bewer, J. A.. A Critical and Exegetical Commentary on Haggai, Zechariah, Malachi and Jonah (International Critical Commentary). T. & T. Clark / Scribner, 1912. <https://archive.org/details/criticalexegetic25mitcuoft> — *scholarly commentary; verification: claim checked*
+2. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
+5. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Twelve Minor Prophets, vol. 2 (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1868 (1878 printing). <https://archive.org/details/thetwelveminorpr02keiluoft> — *scholarly commentary; verification: claim checked*
+6. Guzik, David. Zechariah 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-1/> — *theological commentary; verification: claim checked*
+7. Guzik, David. Zechariah 2 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-2/> — *theological commentary; verification: claim checked*
