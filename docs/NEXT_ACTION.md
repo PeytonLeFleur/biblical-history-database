@@ -1,31 +1,22 @@
 # Next Action
 
-**Milestone 6: Cross-book historical validation** (SPEC Part 22, Milestone 6).
+**1. Owner editorial review: the owner only.**
+- Daniel is complete in research, cross-book validation, technical validation and deployment.
+- Only the owner's decisions remain: **157 Daniel-related open review items**, plus 1 Amos item.
+- Work through `docs/reviews/DANIEL_OWNER_REVIEW_PACKAGE.md`. Each item gives its evidence, research state and an advisory recommendation.
+- Decide with `pnpm review:approve <rev_id>`, `pnpm review:reject <rev_id>` or `pnpm review:return <rev_id>`.
+- **Claude must never run approve or reject.**
+- Returned items come back to Claude as research tasks.
 
-Milestone 5 is complete: Daniel 1–12, 357/357 verses. Open owner reviews: 117. Do not decide them. Owner review is the human step that remains.
+**2. Milestone 7: full canon expansion** (SPEC Part 20).
+- The owner review need not block it, but publication levels stay at *researched* until the reviews are decided.
+- Prioritise books whose historical contexts overlap the existing records, to strengthen entity resolution and chronology. Suggested order:
+  1. **2 Kings 22–23 and 2 Chronicles 34–35:** Josiah; Megiddo in 609, linked to the Necho record; Carchemish background.
+  2. **Ezra 2–6 and Haggai–Zechariah 1–8:** the return and the Temple's rebuilding, using the existing Darius I decree and the 516/515 completion.
+  3. **Nehemiah 1–2 and Ezra 7:** the Artaxerxes decrees already exist as events; complete their chapters.
+  4. **Esther:** Xerxes I (P&D reigns).
+  5. **Jeremiah 26–45 and Ezekiel 1, 24, 33, 40:** Ezekiel's dated oracles against the 586/587 models.
+  6. **The rest of the canon,** in the order of SPEC Part 20.
+- Start with `pnpm research:chapter 2-kings 22`. Then validate, audit, export, build and run e2e; open a PR per unit, merge after CI, and verify the deployed site.
 
-Research the overlapping passages, reusing (not duplicating) the canonical events and entities established in Daniel. The table lists what already exists for each passage.
-
-| Passage | Already in the database |
-|---|---|
-| 2 Kings 24 | the Dan 1:1 campaign; Jehoiakim; Nebuchadnezzar II; Jerusalem 597 (ABC 5 synchronism) |
-| 2 Kings 25; Jeremiah 52 | the destruction of Jerusalem (not yet an event; create once and link from Dan 9's Jeremiah reading) |
-| 2 Chronicles 36 | Jeremiah's seventy years; Cyrus's decree (Ezra 1 event) |
-| Jeremiah 25 | the Jer 25:1 event (still *preliminary*: complete it) and the Jer 25:1 synchronism |
-| Ezra 1 | the Cyrus decree event; the Cyrus Cylinder |
-| Isaiah 44:28 – 45:1 | Cyrus as "anointed" (Driver's reading of Dan 9:25) |
-
-**Tests to run:**
-- shared events
-- shared rulers
-- the Babylonian exile chronology
-- Jerusalem's destruction (587/586)
-- Cyrus
-- the royal decrees
-- prophetic references
-- historical synchronisms
-- cross-book entity resolution
-
-Start with `pnpm research:chapter 2-kings 24` (check the CLI's book slug). Then validate, audit, export, build, run e2e, open a PR per unit, merge after CI, and verify the deployed site.
-
-Carried-over gaps: see the Milestone 5 summary in `docs/PROJECT_STATUS.md`.
+**Carried-over gaps** (see `docs/PROJECT_STATUS.md`, "Daniel completion state"): sources that are blocked or unavailable, and the engine's Nisan-window limitation for Nehemiah 2.

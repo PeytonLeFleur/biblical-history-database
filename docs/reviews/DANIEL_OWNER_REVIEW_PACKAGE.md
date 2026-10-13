@@ -9,17 +9,19 @@ _Generated from the research files on 2026-10-13. This package informs the owner
 - Recommendations are the research assistant's; they are advisory.
 
 ## Summary
-- Open review items: **136** — Daniel-related: **135**; outside Daniel: **1** (Amos 1, unchanged and not assessed here).
+- Open review items: **158** — Daniel-related: **157**; outside Daniel: **1** (Amos 1, unchanged and not assessed here).
+
+- Of the Daniel-related items, **22** come from Milestone 6 cross-book validation (2 Kings 24–25, 2 Chronicles 36, Jeremiah 25 and 52, Ezra 1, Isaiah 44–45) and are marked in each entry.
 
 | Group | Items | Research complete | Research limited |
 |---|---|---|---|
-| A. Disputed claims | 19 | 19 | 0 |
-| B. Proposed fulfillment interpretations | 53 | 52 | 1 |
-| C. Proposed identifications and starting points | 48 | 48 | 0 |
-| D. Possible identities | 10 | 10 | 0 |
-| E. Critical-priority events | 5 | 5 | 0 |
+| A. Disputed claims | 25 | 25 | 0 |
+| B. Proposed fulfillment interpretations | 56 | 55 | 1 |
+| C. Proposed identifications and starting points | 54 | 54 | 0 |
+| D. Possible identities | 11 | 11 | 0 |
+| E. Critical-priority events | 11 | 11 | 0 |
 
-## A. Disputed claims (19)
+## A. Disputed claims (25)
 
 ### A1. Disputed: a 605/604 BC siege or submission of Jerusalem (Dan 1:1)
 `rev_01M4RSRHN6DZGXZ34Y95KJQYTR` · record `clm_01M4RSRHN6PBF6VASE82GKGQ72` · revision 1 · triggers: disputed · status **open**
@@ -346,7 +348,103 @@ _Generated from the research files on 2026-10-13. This package informs the owner
 **Research state:** Research complete within accessible sources — limitations listed  
 **Recommended assessment:** Confirm the `disputed` classification (no available evidence resolves it). Approving records that the dispute is fairly represented; it does not decide the question.
 
-## B. Proposed fulfillment interpretations (53)
+### A20. Disputed: the manner of Jehoiakim's death (2 Kgs 24:6; Jer 22:18–19; 2 Chr 36:6; Josephus)
+`rev_01M4V7CG4Z9MQN6C94DV8QQHFW` · record `clm_01M4V7CG4V0RHN8KHNQ53073ZM` · revision 1 · triggers: disputed · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Claim:** Jehoiakim died peacefully in Jerusalem before the siege of 597.  
+**Event:** Death of Jehoiakim and the three-month reign of Jehoiachin (2 Kgs 24:5–9) (`death-of-jehoiakim-and-reign-of-jehoiachin`) · **Layer:** reconstruction · **Current classification:** `disputed`
+- *Against* — Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston) [claim_checked], Ant. 10.6.3: Nebuchadnezzar slew Jehoiakim and commanded him to be thrown before the walls without burial.
+- *Context* — 2 Kings 24 — Enduring Word Bible Commentary [claim_checked], on 24:5–6: Notes the Kings, Chronicles and Jeremiah accounts; death about December 598 (Wiseman).
+
+**Reasoning on file:** 2 Kgs 24:6 uses the ordinary formula; Jer 22:18–19 and 36:30 foretell a dishonoured, unburied body; 2 Chr 36:6 has him bound for Babylon; Josephus says Nebuchadnezzar killed him and had him thrown before the walls. Guzik (quoting Wiseman) dates his death to about December 598. No external source records his end.
+
+**Limitations:** Texts disagree; no external evidence.
+
+**Research state:** Research complete within accessible sources — limitations listed  
+**Recommended assessment:** Confirm the `disputed` classification (no available evidence resolves it). Approving records that the dispute is fairly represented; it does not decide the question.
+
+### A21. Disputed: start of the final siege — January 589 or 588 BC
+`rev_01M4V7CG52WV5WT3AR90AFGX8X` · record `clm_01M4V7CG504J2M36B22VZ049W7` · revision 1 · triggers: disputed · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Claim:** The final siege of Jerusalem began about January 589 BC.  
+**Event:** The final siege of Jerusalem begins (10/X of Zedekiah's ninth year) (`siege-of-jerusalem-begins-zedekiah-9`) · **Layer:** reconstruction · **Current classification:** `disputed`
+- *Supporting* — When Did Jerusalem Fall? [claim_checked], Table 2; pp. 31–33: Ezek 24:1–2 and 2 Kgs 25:1: 10/X of the ninth year = Tebeth/January 589.
+- *Against* — 2 Kings 25 — Enduring Word Bible Commentary [claim_checked], on 25:1–2: Wiseman: the siege lasted about a year and a half.
+
+**Reasoning on file:** Young dates 10/X of Zedekiah's ninth year to January 589 (Tishri years); a Nisan-year count gives January 588 (Wiseman's "about a year and a half" fits the shorter siege). No Babylonian record survives.
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Confirm the `disputed` classification (no available evidence resolves it). Approving records that the dispute is fairly represented; it does not decide the question.
+
+### A22. Disputed: Jerusalem fell in 587 or 586 BC
+`rev_01M4V7CG54D29EF5PFJ3SCHRXF` · record `clm_01M4V7CG523GVC1NERBZ95X4F9` · revision 1 · triggers: disputed · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Claim:** Jerusalem fell in the summer of 587 BC (rather than 586).  
+**Event:** The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year) (`fall-of-jerusalem-and-capture-of-zedekiah`) · **Layer:** reconstruction · **Current classification:** `disputed`
+- *Supporting* — When Did Jerusalem Fall? [claim_checked], pp. 21–22, 38: Conclusion: Jerusalem fell in Tammuz 587; Wiseman and Kitchen also favour 587.
+- *Against* — When Did Jerusalem Fall? [claim_checked], p. 21: Thiele preferred 586, "the date most widely used in the popular literature"; Hughes lists eleven scholars for each date.
+- *Against* — 2 Kings 24 — Enduring Word Bible Commentary [claim_checked], on 24 (overview): Guzik dates the final destruction to 586.
+- *Context* — Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston) [claim_checked], Ant. 10.8.2: City taken 9/IV of Zedekiah's 11th year.
+
+**Reasoning on file:** Babylonian records of the destruction are lost. Young argues from Ezekiel's dates and the reckoning of 2 Kings that the city fell in Tammuz 587, listing Wiseman and Kitchen with him; Thiele and the popular literature give 586. Hughes counted eleven scholars on each side (as reported by Young). Both chronology models are kept.
+
+**Limitations:** Thiele (1983) known here only through Young.
+
+**Research state:** Research complete within accessible sources — limitations listed  
+**Recommended assessment:** Confirm the `disputed` classification (no available evidence resolves it). Approving records that the dispute is fairly represented; it does not decide the question.
+
+### A23. Disputed: day of the Temple's burning (7th, 10th or 1st of Ab)
+`rev_01M4V7CG56NETDGVVJHTKAHT1K` · record `clm_01M4V7CG55QXFEDWW1FP4607WH` · revision 1 · triggers: disputed · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Claim:** The Temple was burned on the seventh day of the fifth month (2 Kgs 25:8).  
+**Event:** Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (`burning-of-the-temple-and-jerusalem`) · **Layer:** reconstruction · **Current classification:** `disputed`
+- *Supporting* — 2 Kings 25 — Enduring Word Bible Commentary [claim_checked], on 25:8: Fifth month, seventh day, nineteenth year.
+- *Against* — Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston) [claim_checked], Ant. 10.8.5: Fire set to the Temple on the first day of the fifth month, in Nebuchadnezzar's eighteenth year.
+
+**Reasoning on file:** 2 Kings gives the 7th, Jeremiah 52:12 the 10th and Josephus the 1st of the fifth month; Josephus also gives Nebuchadnezzar's eighteenth year (as Jer 52:29 does for the deportation). No external source dates the burning.
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Confirm the `disputed` classification (no available evidence resolves it). Approving records that the dispute is fairly represented; it does not decide the question.
+
+### A24. Disputed: was Sheshbazzar the same person as Zerubbabel?
+`rev_01M4V85GG6ZE6CXDP31JC8T0Z3` · record `clm_01M4V85GG22XV9829969BWFQB3` · revision 1 · triggers: disputed · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Claim:** Sheshbazzar and Zerubbabel were the same person.  
+**Event:** Cyrus returns the Temple vessels to Sheshbazzar; the first return (Ezra 1:5–11) (`cyrus-returns-the-temple-vessels-to-sheshbazzar`) · **Layer:** reconstruction · **Current classification:** `disputed`
+- *Supporting* — Ezra 1 — Enduring Word Bible Commentary [claim_checked], on 1:8: Clarke: Sheshbazzar was Zerubbabel's Chaldean name; Kidner: his official name.
+- *Against* — Josephus, Antiquities 11.1.1–3 (trans. W. Whiston) [claim_checked], Ant. 11.1.3: Vessels given to Sanabassar; Cyrus's letter also sends "Zorobabel, the governor of the Jews".
+
+**Reasoning on file:** Both are credited with the foundation of the Temple (Ezra 3:8–10; 5:16), which supports identity (Clarke, Kidner via Guzik); Josephus names both Sanabassar and Zorobabel in Cyrus's time, and Ezra never equates them, which supports two persons.
+
+**Limitations:** Modern studies not read.
+
+**Research state:** Research complete within accessible sources — limitations listed  
+**Recommended assessment:** Confirm the `disputed` classification (no available evidence resolves it). Approving records that the dispute is fairly represented; it does not decide the question.
+
+### A25. Disputed: date of the Cyrus oracle (Isa 44:24–45:13) — Isaiah of Jerusalem or an exilic prophet
+`rev_01M4V8NR3Y56FKA6B2H48J10GD` · record `clm_01M4V8NR3T7E3VJH2ECHN9NTN9` · revision 1 · triggers: disputed · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Claim:** Isaiah 44:24–45:13 was written before Cyrus's rise (by Isaiah of Jerusalem in the eighth century BC).  
+**Event:** Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (`cyrus-decree-for-the-temple-ezra-1`) · **Layer:** reconstruction · **Current classification:** `disputed`
+- *Supporting* — Josephus, Antiquities 11.1.1–3 (trans. W. Whiston) [claim_checked], Ant. 11.1.1–2: Cyrus learned his charge by reading Isaiah's book, written 140 years before the Temple's destruction.
+- *Supporting* — Isaiah 44 — Enduring Word Bible Commentary [claim_checked], on 44:24–28: Named more than 200 years before his birth; the name is integral to the poem (Guzik; Motyer).
+- *Against* — The Book of the Prophet Isaiah, Chapters XL–LXVI (Cambridge Bible for Schools and Colleges) [claim_checked], Introduction pp. xv–xvii, xxxiii–xl: Cyrus already a famous conqueror but Babylon not yet taken: chs. 40–48 date 550–539, almost certainly after 546; an exilic author was the near-unanimous critical verdict by 1898.
+- *Context* — Cyrus Cylinder — English translation on Livius.org [claim_checked], lines 12, 15: Marduk took a righteous king "by the hand" and "called out his name: Cyrus"; went "at his side" like a friend — language close to Isa 45:1–4, attributed to a different god.
+
+**Reasoning on file:** The traditional view (Josephus; Guzik and Motyer) takes the naming of Cyrus as prediction by Isaiah; the critical view (Skinner, after Driver and earlier Döderlein) dates the oracle to Cyrus's career, 550–539, from its historical presuppositions, ideas and style. The theological premise on each side (whether detailed prediction is possible) is stated by the sources themselves. The Cyrus Cylinder shows that "taking the hand" and "calling the name" of Cyrus was the language of his Babylonian propaganda, which bears on interpretation but does not decide the date.
+
+**Limitations:** Modern studies (after 1915) not read.
+
+**Research state:** Research complete within accessible sources — limitations listed  
+**Recommended assessment:** Confirm the `disputed` classification (no available evidence resolves it). Approving records that the dispute is fairly represented; it does not decide the question.
+
+## B. Proposed fulfillment interpretations (56)
 
 ### B1. Proposed fulfillment (Dan 2): Babylon, Medo-Persia, Greece, Rome; the stone is the messianic kingdom
 `rev_01M4RTK74VHKZVJPZGG1SEFHTJ` · record `ful_01M4RTK7448RVXKGHK6QYA0E8B` · revision 1 · triggers: proposed_fulfillment · status **open**
@@ -368,12 +466,12 @@ The metals are a historical succession ending with Rome; God's kingdom (the Mess
 
 **Prophecy:** The four kingdoms and the everlasting kingdom (Dan 2:36–45) (`four-kingdoms-and-the-stone-dan-2`)  
 **Interpretation:** Babylon, Media, Persia, Greece (Seleucids and Ptolemies); the stone is God's imminent kingdom · approach `preterist` · Historical-critical  
-**Proponents:** Modern critical consensus, e.g. J. J. Collins (per Wikipedia); Porphyry (3rd c. AD); Ephrem the Syrian; Polychronius; Cosmas Indicopleustes  
+**Proponents:** S. R. Driver (1900): Introduction pp. x–xi ("in all probability the Median, Persian, and Greek"); Additional Note pp. 98–102 (this "Grecian" view first in Ephrem Syrus, then Ewald, Bleek, Delitzsch, Kuenen, Bevan); Modern critical consensus, e.g. J. J. Collins (per Wikipedia); Porphyry (3rd c. AD); Ephrem the Syrian; Polychronius; Cosmas Indicopleustes  
 **Referents:** Silver → Media; Bronze → Persia; Iron → Alexander and the Hellenistic kingdoms; Iron and clay → Seleucid–Ptolemaic marriages; Stone → God's kingdom expected to replace Hellenistic rule  
 
-Following Daniel's own sequence of Median and Persian rulers (5:31; 6:28), the four kingdoms are Babylon, Media, Persia and the Hellenistic kingdoms; the mixed iron and clay reflects Seleucid–Ptolemaic marriage alliances (c. 250 or 193 BC); the chapter in its present form dates from the early Seleucid period at the earliest.
+Following Daniel's own sequence of Median and Persian rulers (5:31; 6:28), the four kingdoms are Babylon, Media, Persia and the Hellenistic kingdoms; the mixed iron and clay reflects Seleucid–Ptolemaic marriage alliances (c. 250 or 193 BC); the chapter in its present form dates from the early Seleucid period at the earliest. Driver (1900) holds this view and records that God's kingdom was expected to follow immediately on the fourth empire's overthrow in Antiochus Epiphanes (Introduction p. lxxxvii).
 
-**Sources:** Daniel 2 — Wikipedia [claim_checked]; Four kingdoms of Daniel — Wikipedia [claim_checked]; Daniel: A Commentary on the Book of Daniel (Hermeneia) [metadata_verified]
+**Sources:** Daniel 2 — Wikipedia [claim_checked]; Four kingdoms of Daniel — Wikipedia [claim_checked]; Daniel: A Commentary on the Book of Daniel (Hermeneia) [metadata_verified]; The Book of Daniel (Cambridge Bible for Schools and Colleges) [claim_checked]
 
 **Research state:** Research limited — some cited sources not read directly  
 **Recommended assessment:** Approve only as an attributed view; consider returning for primary-source verification of: Daniel: A Commentary on the Book of Daniel (Hermeneia) [metadata_verified]
@@ -848,12 +946,12 @@ Textual reasoning: in Darius I's second year (Zech 1:7, 12) the angel still spea
 
 **Prophecy:** Jeremiah's seventy years (Jer 25:11–12; 29:10; read in Dan 9:2) (`jeremiahs-seventy-years`)  
 **Interpretation:** The land's sabbaths, ended by Cyrus's decree (Chronicler) · approach `preterist` · Inner-biblical reading (Chronicles)  
-**Proponents:** 2 Chronicles 36:20–22 (text); S. R. Driver (on Dan 9:2 and 9:24)  
+**Proponents:** 2 Chronicles 36:20–22 (text); S. R. Driver (on Dan 9:2 and 9:24); D. Guzik (2 Chronicles 36)  
 **Referents:** Seventy years → The land's sabbath rest until Cyrus  
 
-The Chronicler joins Jeremiah's seventy years to the land enjoying its sabbaths (Lev 26:34–35) "until the reign of the kingdom of Persia", and dates Cyrus's proclamation to his first year "that the LORD's word by Jeremiah's mouth might be accomplished". Driver notes that Dan 9:24 develops this sabbatical reading into seventy weeks of years.
+The Chronicler joins Jeremiah's seventy years to the land enjoying its sabbaths (Lev 26:34–35) "until the reign of the kingdom of Persia", and dates Cyrus's proclamation to his first year "that the LORD's word by Jeremiah's mouth might be accomplished". Driver notes that Dan 9:24 develops this sabbatical reading into seventy weeks of years. Guzik: about 490 years of neglected sabbath years left the land owing seventy, collected in the exile; he gives no start or end year.
 
-**Sources:** The Book of Daniel (Cambridge Bible for Schools and Colleges) [claim_checked]
+**Sources:** The Book of Daniel (Cambridge Bible for Schools and Colleges) [claim_checked]; 2 Chronicles 36 — Enduring Word Bible Commentary [claim_checked]
 
 **Research state:** Research complete — awaiting owner decision  
 **Recommended assessment:** Approve as accurately attributed and sourced. Approval affirms fair representation, not the fulfilment itself.
@@ -1143,7 +1241,55 @@ The 1,290 days denote in general the sorest affliction of Israel by Antiochus �
 **Research state:** Research complete — awaiting owner decision  
 **Recommended assessment:** Approve as accurately attributed and sourced. Approval affirms fair representation, not the fulfilment itself.
 
-## C. Proposed identifications and starting points (48)
+### B54. Proposed fulfillment (Jer 25 cup of wrath): Babylon's conquests of the listed nations in the sixth century, ending with Babylon's own fall
+`rev_01M4V85GGRXK76MM44YGDS9AX5` · record `ful_01M4V85GG7NEYEY9HEN0JA998Z` · revision 1 · triggers: proposed_fulfillment · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Prophecy:** The cup of the wine of wrath for the nations (Jer 25:15–38) (`cup-of-wrath-for-the-nations-jer-25`)  
+**Interpretation:** Babylon's conquests of the listed nations in the sixth century, ending with Babylon's own fall · approach `preterist` · Historical (Feinberg; partly Guzik)  
+**Proponents:** C. L. Feinberg (via Guzik): the "many nations and great kings" are the Medes and Persians; Josephus (Ant. 10.9.7) for the campaign against Ammon, Moab and Egypt in Nebuchadnezzar's 23rd year  
+**Referents:** The nations who drink → Kingdoms conquered by Nebuchadnezzar; The king of Sheshach drinks last → Babylon's fall (539)  
+
+Judah, its neighbours and Egypt fell under Nebuchadnezzar; Babylon itself fell to the Medes and Persians (cf. 25:12–14). Josephus reports a campaign of Nebuchadnezzar's 23rd year against Coele-Syria, Ammon, Moab and Egypt. Objection: Guzik judges the list too complete for one historical sequence.
+
+**Sources:** Jeremiah 25 — Enduring Word Bible Commentary [claim_checked]; Josephus, Antiquities 10.9.7 (trans. W. Whiston) [claim_checked]
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as accurately attributed and sourced. Approval affirms fair representation, not the fulfilment itself.
+
+### B55. Proposed fulfillment (Isa 44–45 Cyrus): Predictive prophecy of Isaiah of Jerusalem, fulfilled by Cyrus (539–538)
+`rev_01M4V8NR4BXXZVG4XM290XK0JT` · record `ful_01M4V8NR3JGD6QVRB50WX7E9DS` · revision 1 · triggers: proposed_fulfillment · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Prophecy:** Cyrus the LORD's shepherd and anointed (Isa 44:24–45:13) (`cyrus-the-lords-shepherd-and-anointed-isa-44-45`)  
+**Interpretation:** Predictive prophecy of Isaiah of Jerusalem, fulfilled by Cyrus (539–538) · approach `preterist` · Traditional Jewish and Christian  
+**Proponents:** Josephus (Ant. 11.1.1–2: Cyrus read his name in Isaiah, "one hundred and forty years before the temple was demolished"); D. Guzik (more than 200 years before Cyrus's birth; citing Poole and Motyer)  
+**Referents:** My shepherd / his anointed → Cyrus II; Doors and gates opened → Babylon's capture (539)  
+
+Textual reasoning: the book is headed as Isaiah's (1:1), and the passage presents the naming of Cyrus as proof that the LORD foretells (44:24–26). Fulfilment: Cyrus took Babylon (539) and in his first year authorised the return and the Temple (Ezra 1; 2 Chr 36:22–23). Guzik: the name is woven into the poem and cannot be a later insertion; Motyer: no basis to limit prediction. Josephus says Cyrus himself was moved by reading it. Objection: critical scholarship dates the passage to Cyrus's own career (below). Note: the Whiston text of Josephus gives 140 years before the destruction; Guzik (via Bultema) reports 220.
+
+**Sources:** Josephus, Antiquities 11.1.1–3 (trans. W. Whiston) [claim_checked]; Isaiah 44 — Enduring Word Bible Commentary [claim_checked]; Isaiah 45 — Enduring Word Bible Commentary [claim_checked]
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as accurately attributed and sourced. Approval affirms fair representation, not the fulfilment itself.
+
+### B56. Proposed fulfillment (Isa 44–45 Cyrus): An exilic prophet announcing Cyrus's imminent conquest (c. 546–539), fulfilled shortly after
+`rev_01M4V8NR4D8M8S86WXT1Z5EGB7` · record `ful_01M4V8NR3J1XXCBNJ1RZQECNVF` · revision 1 · triggers: proposed_fulfillment · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Prophecy:** Cyrus the LORD's shepherd and anointed (Isa 44:24–45:13) (`cyrus-the-lords-shepherd-and-anointed-isa-44-45`)  
+**Interpretation:** An exilic prophet announcing Cyrus's imminent conquest (c. 546–539), fulfilled shortly after · approach `preterist` · Historical-critical  
+**Proponents:** J. Skinner (1898), summarising S. R. Driver; J. C. Döderlein (1775), with Ibn Ezra as a guarded forerunner (per Skinner)  
+**Referents:** My shepherd / his anointed → Cyrus II (contemporary with the prophet)  
+
+Textual reasoning: Cyrus is addressed as an already famous conqueror whose victories have shaken the world (41:2–3, 25) while Babylon's capture is still future (45:2–3; 48:14), so chs. 40–48 date between 550 and 539, almost certainly after the fall of Sardis (546); 46:1 may allude to Nabonidus's moving of the gods in 539 (Sellin, via Skinner). The announced events followed: Babylon fell in 539 and Cyrus's decree allowed the return. Objection: Guzik and Motyer reject the premise that detailed prediction is impossible; Skinner records that the case rests on internal evidence.
+
+**Sources:** The Book of the Prophet Isaiah, Chapters XL–LXVI (Cambridge Bible for Schools and Colleges) [claim_checked]; Isaiah 44 — Enduring Word Bible Commentary [claim_checked]
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as accurately attributed and sourced. Approval affirms fair representation, not the fulfilment itself.
+
+## C. Proposed identifications and starting points (54)
 
 ### C1. Proposed fulfillment: Isaiah 39:7 → royal youths at the Babylonian court
 `rev_01M4RSRHN8HPRV7KVMQKR48P8D` · record `rel_01M4RSRHN7V4WS4X22HWBYDW8H` · revision 1 · triggers: proposed_fulfillment · status **open**
@@ -1769,7 +1915,83 @@ The "awakening" of 12:2 is the Maccabean loyalists' return to victory, read meta
 **Research state:** Research complete — awaiting owner decision  
 **Recommended assessment:** Approve as an attributed minority identification (low confidence stated).
 
-## D. Possible identities (10)
+### C49. Same event (medium confidence): Chronicles' parallel: Nebuchadnezzar came up against Jehoiakim 
+`rev_01M4V7CWNX7YNJBM0AKNK2RSQ0` · record `rel_01M4V7CG57XBY308TCZVR9JZ9P` · revision 1 · triggers: same_event · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**same_event** · event: Jehoiakim submits to Nebuchadnezzar for three years, then rebels (2 Kgs 24:1–4) → 2Chr.36.6 · confidence `medium` · layer `text`  
+
+Chronicles' parallel: Nebuchadnezzar came up against Jehoiakim (manner differs).
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as an attributed identification; the interpretation itself remains contested where the prophecy record shows alternatives.
+
+### C50. Same event (medium confidence): The deportation of "the seventh year" 
+`rev_01M4V7CWP4F4P0DTGKBYVXEH3E` · record `rel_01M4V7CG582715AGSKXN3HWQYD` · revision 1 · triggers: same_event · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**same_event** · event: Capture of Jerusalem and deportation of Jehoiachin (March 597 BC) → Jer.52.28 · confidence `medium` · layer `text`  
+
+The deportation of "the seventh year" (3,023 Jews) — the same event counted differently (Young).
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as an attributed identification; the interpretation itself remains contested where the prophecy record shows alternatives.
+
+### C51. Same event (medium confidence): The seventh-year deportation of 3,023 is the 597 deportation, counted from Nebuchadnezzar's first full year
+`rev_01M4V7P2HE7KBB8HREJMAJCJET` · record `rel_01M4V7P26H23J1PC2M0R6E6WDH` · revision 1 · triggers: same_event · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**same_event** · event: Capture of Jerusalem and deportation of Jehoiachin (March 597 BC) → Jer.52.28 · confidence `medium` · layer `reconstruction`  
+
+The seventh-year deportation of 3,023 is the 597 deportation, counted from Nebuchadnezzar's first full year.
+
+**Sources:** When Did Jerusalem Fall? [claim_checked]; Jeremiah 52 — Enduring Word Bible Commentary [claim_checked]
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as an attributed identification; the interpretation itself remains contested where the prophecy record shows alternatives.
+
+### C52. Same event (medium confidence): The eighteenth-year deportation of 832 from Jerusalem belongs to the destruction 
+`rev_01M4V7P2HG3Q1PXYBXBKJYHPQW` · record `rel_01M4V7P26HA2AN48JJ5Q3PR9Z5` · revision 1 · triggers: same_event · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**same_event** · event: Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) → Jer.52.29 · confidence `medium` · layer `reconstruction`  
+
+The eighteenth-year deportation of 832 from Jerusalem belongs to the destruction (Kings' nineteenth year).
+
+**Sources:** When Did Jerusalem Fall? [claim_checked]; Jeremiah 52 — Enduring Word Bible Commentary [claim_checked]
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as an attributed identification; the interpretation itself remains contested where the prophecy record shows alternatives.
+
+### C53. Proposed identification (Isa 44–45): Cyrus says of Jerusalem "She will be built" and frees the exiles
+`rev_01M4V8NR42BN8XCRRRR17FDV1F` · record `rel_01M4V8NR3ZQQTB55ERMRKNQ35C` · revision 1 · triggers: proposed_fulfillment · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**proposed_fulfillment** · prophecy: Cyrus the LORD's shepherd and anointed (Isa 44:24–45:13) → event: Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) · confidence `high` · layer `interpretation`  
+**Approach:** preterist · **Proposed by:** Josephus; Guzik; Skinner (all, on different dating premises)  
+
+Cyrus says of Jerusalem "She will be built" and frees the exiles (Isa 44:28; 45:13) — fulfilled in his first-year decree (Ezra 1:1–4).
+
+**Sources:** Josephus, Antiquities 11.1.1–3 (trans. W. Whiston) [claim_checked]; Isaiah 44 — Enduring Word Bible Commentary [claim_checked]; The Book of the Prophet Isaiah, Chapters XL–LXVI (Cambridge Bible for Schools and Colleges) [claim_checked]
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as an attributed identification; the interpretation itself remains contested where the prophecy record shows alternatives.
+
+### C54. Proposed identification (Isa 44–45): Doors and gates opened before Cyrus
+`rev_01M4V8NR443NNQR4ZFRYN7TJFB` · record `rel_01M4V8NR3ZRXNH3KHWG7WE531N` · revision 1 · triggers: proposed_fulfillment · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**proposed_fulfillment** · prophecy: Cyrus the LORD's shepherd and anointed (Isa 44:24–45:13) → event: Fall of Babylon to Cyrus (October 539 BC) · confidence `medium` · layer `interpretation`  
+**Approach:** preterist · **Proposed by:** Guzik (with Herodotus)  
+
+Doors and gates opened before Cyrus (Isa 45:1–2) — Babylon's capture in 539 (Herodotus's river-gate account).
+
+**Sources:** Isaiah 45 — Enduring Word Bible Commentary [claim_checked]; Herodotus, Histories 1.188–191 (trans. G. C. Macaulay) [claim_checked]
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Approve as an attributed identification; the interpretation itself remains contested where the prophecy record shows alternatives.
+
+## D. Possible identities (11)
 
 ### D1. Possible identity (Rule 04): Ezekiel's "Daniel" (dnʾl) may be this exile or, as many scholars argue, the legendary Ugaritic Danel
 `rev_01M4V612J09K6CKPFNAB43FP4M` · record `rel_01M4RSRHN76RD9MNQEMHQNEJ23` · revision 1 · triggers: possible_identity · status **open**
@@ -1891,7 +2113,20 @@ Critical scholars see Darius I as the model for the literary Darius the Mede (a 
 **Research state:** Research complete — awaiting owner decision  
 **Recommended assessment:** Keep as `possible_identity` (do not merge). Approving records that the link is fairly stated as unproven.
 
-## E. Critical-priority events (5)
+### D11. Possible identity: Sheshbazzar may be Zerubbabel 
+`rev_01M4V85GWT02YGGRX3ZYXJBF14` · record `rel_01M4V85GGSXZSMJSTVYATGVBXA` · revision 1 · triggers: possible_identity · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**possible_identity** · person: Sheshbazzar → Ezra.3.8 · confidence `low` · layer `reconstruction`  
+
+Sheshbazzar may be Zerubbabel (Ezra 3:8–10 vs 5:16) — claim under review.
+
+**Sources:** Ezra 1 — Enduring Word Bible Commentary [claim_checked]
+
+**Research state:** Research complete — awaiting owner decision  
+**Recommended assessment:** Keep as `possible_identity` (do not merge). Approving records that the link is fairly stated as unproven.
+
+## E. Critical-priority events (11)
 
 ### E1. Critical-priority finding: Belshazzar slain; Darius the Mede receives the kingdom (Dan 5:30–31)
 `rev_01M4V612JBK8NDE0WN607TZ00Z` · record `evt_01M4TPW4BX21MX03GRSQ7P1VK0` · revision 1 · triggers: critical_priority · status **open**
@@ -1951,6 +2186,82 @@ The book presents stories about Daniel in the third person (chs. 1–6) and visi
 **Recorded research gaps:** Wilson's philological volume (promised) and Pusey not read.; Collins (Hermeneia, 1993) not accessible.; Other Qumran Daniel manuscripts (1QDan, 4QDana–e, 6QDan) not dated individually here.
 
 **Research state:** Research complete — five stages done; gaps listed  
+**Recommended assessment:** Review the dossier as a whole (SPEC 9.3 #1 critical priority). Approval would mark the record human-reviewed at its current revision.
+
+### E6. Critical-priority finding: Jehoiakim submits to Nebuchadnezzar for three years, then rebels (2 Kgs 24:1–4)
+`rev_01M4V7CWNSXPWP2NYEPJYCM9S3` · record `evt_01M4V7CG4K95S7JYJQAH8KRS1D` · revision 1 · triggers: critical_priority · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Event:** Jehoiakim submits to Nebuchadnezzar for three years, then rebels (2 Kgs 24:1–4) (`jehoiakim-submits-to-nebuchadnezzar-and-rebels`) · priority `critical` · status `needs_review`
+
+After Nebuchadnezzar came up, Jehoiakim became his vassal for three years and then rebelled; raiding bands from Babylon and Judah's neighbours struck Judah.
+
+**Recorded research gaps:** Josephus Ant. 10.6.1 (Jehoiakim's tribute) not used.
+
+**Research state:** Research complete — five stages done; gaps listed  
+**Recommended assessment:** Review the dossier as a whole (SPEC 9.3 #1 critical priority). Approval would mark the record human-reviewed at its current revision.
+
+### E7. Critical-priority finding: The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year)
+`rev_01M4V7CWP0N3MZJ6F2P7GN6TV9` · record `evt_01M4V7CG4KGADJMB1V56P6DYEQ` · revision 1 · triggers: critical_priority · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Event:** The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year) (`fall-of-jerusalem-and-capture-of-zedekiah`) · priority `critical` · status `needs_review`
+
+With famine in the city the wall was breached; Zedekiah fled, was overtaken near Jericho, judged at Riblah, his sons killed and his eyes put out.
+
+**Recorded research gaps:** Thiele (1983) not read directly; Hughes (1990) not read.
+
+**Research state:** Research complete — five stages done; gaps listed  
+**Recommended assessment:** Review the dossier as a whole (SPEC 9.3 #1 critical priority). Approval would mark the record human-reviewed at its current revision.
+
+### E8. Critical-priority finding: Capture of Jerusalem and deportation of Jehoiachin (March 597 BC)
+`rev_01M4V7CWP2GA6TJ4X5ZBN3KSJ8` · record `evt_01M4V7CG4KY46JV2S8Q4Y0W2QN` · revision 1 · triggers: critical_priority · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Event:** Capture of Jerusalem and deportation of Jehoiachin (March 597 BC) (`capture-of-jerusalem-and-deportation-597-bc`) · priority `critical` · status `needs_review`
+
+Nebuchadnezzar's army besieged Jerusalem; Jehoiachin surrendered and was taken to Babylon with the royal family, officials, soldiers, craftsmen and the Temple treasures. The Babylonian Chronicle dates the capture to 2 Adar of Nebuchadnezzar's seventh year.
+
+**Recorded research gaps:** Weidner (1939) edition of the ration tablets not read.; The number of deportees is not confirmed externally.
+
+**Research state:** Research complete — five stages done; gaps listed  
+**Recommended assessment:** Review the dossier as a whole (SPEC 9.3 #1 critical priority). Approval would mark the record human-reviewed at its current revision.
+
+### E9. Critical-priority finding: Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year)
+`rev_01M4V7CWP6ZQJXEVT2R3FZ7MA9` · record `evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ` · revision 1 · triggers: critical_priority · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Event:** Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (`burning-of-the-temple-and-jerusalem`) · priority `critical` · status `needs_review`
+
+A month after the breach, Nebuzaradan burned the Temple, palace and houses, broke down the walls, deported the remaining population, removed the bronze furnishings and had the leaders executed at Riblah.
+
+**Recorded research gaps:** Rabbinic traditions on the 9th of Ab not researched.
+
+**Research state:** Research complete — five stages done; gaps listed  
+**Recommended assessment:** Review the dossier as a whole (SPEC 9.3 #1 critical priority). Approval would mark the record human-reviewed at its current revision.
+
+### E10. Critical-priority finding: The deportation of Nebuchadnezzar's twenty-third year (Jer 52:30)
+`rev_01M4V7P2HAVCNT4QGDY2QWBYNT` · record `evt_01M4V7P26BWJJ0XTGZC1SCD4G0` · revision 1 · triggers: critical_priority · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Event:** The deportation of Nebuchadnezzar's twenty-third year (Jer 52:30) (`third-deportation-nebuchadnezzar-23rd-year`) · priority `critical` · status `needs_review`
+
+Jeremiah 52:28–30 lists three deportations — 3,023 Jews in Nebuchadnezzar's seventh year, 832 from Jerusalem in his eighteenth and 745 by Nebuzaradan in his twenty-third, 4,600 in all. The first two are the deportations of 597 and 587/586 recorded with 2 Kings 24–25; this record covers the third, which Kings does not mention.
+
+**Recorded research gaps:** Josephus Ant. 10.9.7; Enduring Word Jeremiah 52; Young 2004
+
+**Research state:** Research complete — five stages done; gaps listed  
+**Recommended assessment:** Review the dossier as a whole (SPEC 9.3 #1 critical priority). Approval would mark the record human-reviewed at its current revision.
+
+### E11. Critical-priority finding: The word to Jeremiah in Jehoiakim's fourth year, Nebuchadnezzar's first (Jer 25:1–14)
+`rev_01M4V85GWE27KME9FFV1AH2XPG` · record `evt_01M4RSRHMKYF9NMNX34XX3FMEZ` · revision 1 · triggers: critical_priority · status **open**
+
+_Milestone 6 cross-book item (record outside the Daniel text, related to Daniel)._  
+**Event:** The word to Jeremiah in Jehoiakim's fourth year, Nebuchadnezzar's first (Jer 25:1–14) (`jeremiah-word-jer-25-1`) · priority `critical` · status `needs_review`
+
+Jeremiah dates a word to all Judah in Jehoiakim's fourth year, "the first year of Nebuchadnezzar", after twenty-three years of preaching: Nebuchadnezzar, the LORD's servant, will come against the land; the nations will serve Babylon seventy years; then Babylon itself will be punished.
+
+**Research state:** Research complete — five stages done  
 **Recommended assessment:** Review the dossier as a whole (SPEC 9.3 #1 critical priority). Approval would mark the record human-reviewed at its current revision.
 
 ## Outside Daniel (listed only)
