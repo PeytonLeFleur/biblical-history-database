@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V2NXX80DGVYQ5KV905Q2SB",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V2NXWCD7VDSGV6T4QEAQKA",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 12): Day counts from the desecration of 15 Chislev 145 (Dec 168): 1,290 days to c. June 164, the death of Antiochus",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:49:08.008Z",
+  "decisions": [],
+  "is_fixture": false
+}

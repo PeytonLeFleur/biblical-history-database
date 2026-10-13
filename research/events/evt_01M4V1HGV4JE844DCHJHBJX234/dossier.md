@@ -9,6 +9,7 @@
 - Daniel 10:2–21 (narration)
 - Daniel 11:1 (narration): End of the speech.
 - Daniel 11:2–45 (narration): The revelation spoken in the vision; its content is recorded as prophecy records.
+- Daniel 12:1–4 (narration): End of the revelation (recorded as prophecy records).
 
 ## Biblical account
 

@@ -1,0 +1,427 @@
+{
+  "event_id": "evt_01M4V2NXW2WJYJVM53E884RT6R",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "time, times and half a time",
+      "books_searched": 66,
+      "hits": [
+        "Dan.7.25",
+        "Dan.12.7",
+        "Rev.12.14"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V2NXWKN60PAERET87GZYV7",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW2B7GPXHYM6XGVC4W0"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFB1SBE35VNSDGK555"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "The end of the 1,290 days from the desecration coincides roughly with the death of Antiochus IV (164 BC).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver (after Cornill)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V2NXWKBBHCQZH9Y83KZHTT",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW2B7GPXHYM6XGVC4W0"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "The 1,335th day marks the cleansing of the Temple after victory over Antiochus's generals.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Porphyry (via Jerome)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V2NXWK102Z46HKGV3Z3Q7W",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      },
+      "confidence": "speculative",
+      "layer": "interpretation",
+      "rationale": "The \"awakening\" of 12:2 is the Maccabean loyalists' return to victory, read metaphorically.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Porphyry (via Jerome)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V2NXWK8EMDQNP994NNR6FC",
+      "type": "direct_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW2B7GPXHYM6XGVC4W0"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFNDVRK064BRXG17HH"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The text's starting point — \"the continual burnt offering taken away and the abomination that makes desolate set up\" — repeats 11:31; preterist interpreters identify it with 15 Chislev 145 SE, futurists with a future event.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWKY5E3VES8HWBHR31X",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW2B7GPXHYM6XGVC4W0"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJXX550DZHSC4HAMTK"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Another number for the period of the removed continual offering (2,300 evenings and mornings, 8:14).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWKHTNZ8X1JR3FNFC8R",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW2B7GPXHYM6XGVC4W0"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"A time, times and half a time\" (7:25; 12:7).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWKFVXKA1TTGKWNZY33",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW2B7GPXHYM6XGVC4W0"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Half a week with the sacrifice made to cease (9:27) — linked by futurist and preterist readers alike.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V2NXVXA93J01GRHC1AQBXW",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWK7ASYCT80DP6HR242",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW2B7GPXHYM6XGVC4W0"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.12.6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "1,260 days in Revelation (also 11:3; \"time, times and half a time\" in 12:14).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWK57R8WA7E4S4TVQSP",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Isa.26.19"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"Your dead shall live … awake and sing, you who dwell in the dust\" (Driver).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWK36PDKR7Z76J6V0EW",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "John.5.28-John.5.29"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Those in the tombs come out, to a resurrection of life or of judgment.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWK1SY230QKXT68NK6Y",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.24.21"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"Great tribulation, such as has not been from the beginning of the world\" echoes 12:1.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWKQFW4RWNEAD8BHBW3",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.20.12"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The dead judged from what is written in the books (cf. \"written in the book\", 12:1).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWKJ3E9PXZERYC51JZX",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Michael, \"your prince\" (10:21), now \"the great prince who stands for the children of your people\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWK5WPE3XDEGMTPA21J",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6CDCWT58W40VAWF13"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "\"At that time\" ties 12:1 to the end of the wilful king (11:45).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWKTAX7KW34EDTRJDYV",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V2NXW2PXA8PYFMKM3DB4NS"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.22.10"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Contrast: \"Don't seal up the words of the prophecy of this book\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V2NXWKFK26V5GVYT09S82Y",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V2NXW2WJYJVM53E884RT6R"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The same vision by the river (10:4; 12:5–6).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "the river (12:5–7)",
+      "resolved_to": "loc_01M4V1HGV08ZPS4M5XMQFFZ8ZM",
+      "basis": "Same vision as 10:4 (Hiddekel); Jerome",
+      "confidence": "medium"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4V2NXWGCRVAAS84JMGHKQ5W"
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "book": "Dan",
+  "chapter": 12,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Dan.12.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2S4062ZKH1PK3H2YF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2S4062ZKH1PK3H2YF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2S4062ZKH1PK3H2YF"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2B95AHV2W72H951DQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2G2TERT8VCRR8Y03P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2G2TERT8VCRR8Y03P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2G2TERT8VCRR8Y03P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2G2TERT8VCRR8Y03P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2G2TERT8VCRR8Y03P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2G2TERT8VCRR8Y03P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW28E2TGFAKRVAJQKB6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW28E2TGFAKRVAJQKB6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.12.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V2NXW2F8SN7YS5JQB28K96"
+      ],
+      "notes": "End of the Hebrew/Aramaic book; the Greek additions (Susanna; Bel and the Dragon) follow as chs. 13–14 in the Old Greek and Theodotion and are not part of the 66-book index."
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V2NXW2S4062ZKH1PK3H2YF",
+      "title": "Michael stands up; a time of trouble; many who sleep in the dust awake",
+      "passage": "Dan.12.1-Dan.12.3",
+      "description": "At that time Michael, the great prince, stands up; a time of trouble unequalled; Daniel's people delivered, all written in the book; many sleepers in the dust awake, some to everlasting life, some to everlasting contempt; the wise shine like the firmament and the stars.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.12.1",
+          "phrase": "At that time",
+          "kind": "vague"
+        }
+      ],
+      "related_passages": [
+        "Isa.26.19",
+        "Jer.30.7",
+        "Matt.24.21",
+        "John.5.28-John.5.29",
+        "Rev.20.12",
+        "Isa.66.24",
+        "Ezek.37.1-Ezek.37.14"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"Many\" — some of Israel (Driver) or all (Guzik, with Baldwin).",
+        "Literal bodily resurrection or national revival (Porphyry)."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V2NXW2B95AHV2W72H951DQ",
+      "title": "Shut up the words and seal the book until the time of the end",
+      "passage": "Dan.12.4",
+      "description": "Daniel is to seal the book to the time of the end; many will run to and fro and knowledge will increase.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.12.4",
+          "phrase": "even to the time of the end",
+          "kind": "vague"
+        }
+      ],
+      "related_passages": [
+        "Dan.8.26",
+        "Isa.29.11",
+        "Rev.5.1-Rev.5.5",
+        "Rev.22.10",
+        "Amos.8.12"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "\"Run to and fro\": travel, or diligent searching of the book."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V2NXW2G2TERT8VCRR8Y03P",
+      "title": "Two figures by the river; the oath of the man in linen",
+      "passage": "Dan.12.5-Dan.12.10",
+      "description": "Daniel sees two others on the banks; one asks the man in linen how long until the end; he swears by him who lives forever: a time, times and a half, when the power of the holy people is shattered. Daniel does not understand and is told the words are sealed; many will be purified, the wicked will not understand.",
+      "record_type": "event",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "the river",
+          "matched_entity_id": "loc_01M4V1HGV08ZPS4M5XMQFFZ8ZM",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Dan.12.7",
+          "phrase": "a time, times, and a half",
+          "kind": "vague"
+        }
+      ],
+      "related_passages": [
+        "Dan.7.25",
+        "Rev.10.5-Rev.10.6",
+        "Rev.12.14"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The two figures are not identified (Jerome: angels of the Greeks and Persians).",
+        "The river is unnamed here; Jerome assumes the Tigris of 10:4."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V2NXW2WJYJVM53E884RT6R"
+    },
+    {
+      "id": "cnd_01M4V2NXW28E2TGFAKRVAJQKB6",
+      "title": "1,290 days from the removal of the continual offering; blessed who reaches 1,335",
+      "passage": "Dan.12.11-Dan.12.12",
+      "description": "From the taking away of the continual burnt offering and the setting up of the abomination there will be 1,290 days; blessed is he who waits and comes to the 1,335 days.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.12.11",
+          "phrase": "one thousand two hundred ninety days",
+          "kind": "relative"
+        },
+        {
+          "ref": "Dan.12.12",
+          "phrase": "the one thousand three hundred thirty-five days",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Dan.8.14",
+        "Dan.9.27",
+        "Dan.11.31",
+        "Rev.11.2-Rev.11.3",
+        "Rev.12.6",
+        "Rev.13.5"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "The relation of 1,290 and 1,335 to each other, to 3½ years and to the 1,150 / 2,300 of 8:14."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V2NXW2F8SN7YS5JQB28K96",
+      "title": "Go your way; you will rest and stand in your lot at the end of the days",
+      "passage": "Dan.12.13",
+      "description": "Daniel is told to go his way until the end; he will rest and rise to his allotted portion at the end of the days.",
+      "record_type": "event",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.12.13",
+          "phrase": "at the end of the days",
+          "kind": "vague"
+        }
+      ],
+      "related_passages": [
+        "Dan.12.2"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "Theodotion: \"you shall rise again in your turn\" (Jerome)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V2NXW2WJYJVM53E884RT6R"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-daniel-12.md"
+}

@@ -1,0 +1,271 @@
+{
+  "event_id": "evt_01M4V2NXW2WJYJVM53E884RT6R",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 12",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Jerome on Daniel 12 (local text)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Driver and Montgomery on 12:2, 12:11–12 (local OCR)",
+      "engine": "local text",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Miller 1842 on the 1290 and 1335 days (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Newton (1733) on Dan 12:11–12",
+      "engine": "local text",
+      "useful_results": 0,
+      "notes": "No treatment of the 1,290/1,335 days found in the text read."
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Vision report."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V2NXWJZFHJ0S38VBZW2H6C",
+      "statement": "The Temple lay desecrated for three years and ten days (15 Chislev 145 – 25 Chislev 148), not three and a half years.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "strongly_supported",
+      "reasoning": "1 Maccabees gives both dates; Josephus's Antiquities says the Temple was desolate three years. Josephus's Jewish War gives 3½ years, which Montgomery takes as an accommodation to Daniel. Jerome uses the three years against Porphyry's 1,290-day reading.",
+      "supporting_evidence": [
+        "evd_01M4V2NXWJ6TNDJBJ6D5AZDZQX",
+        "evd_01M4V2NXWJ7623BTSDPM1WYBC6"
+      ],
+      "counterevidence": [
+        "evd_01M4V2NXWJGWEFSHBF1T5FW0XF"
+      ],
+      "contextual_evidence": [],
+      "limitations": [
+        "Josephus B.J. known only through Montgomery here."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V2NXWJANBC9324NZKEMG0N",
+      "statement": "1,290 days counted from 15 Chislev 145 SE end about June 164 BC, close to the death of Antiochus IV.",
+      "layer": "reconstruction",
+      "passage": "Dan.12.11",
+      "classification": "historically_plausible",
+      "reasoning": "Driver (after Cornill: 6 June 164) computes the end from a December 168 start; the death was reported in Babylon in Kislimu 148 (≈ Nov–Dec 164). The arithmetic is sound if the desecration is in 168; on a 167 start it would end in mid-163, after the death was known. Depends on a disputed epoch.",
+      "supporting_evidence": [
+        "evd_01M4V2NXWJ1BEDV541QTS7JD9M"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V2NXWJJQNCQHHJ2S1Q0N6E"
+      ],
+      "limitations": [
+        "Depends on the 168/167 question (review open)."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V2NXWJ87RZCC1JEC6K6RXB",
+      "statement": "Daniel 12:2 is the first Old Testament text to teach a resurrection of the wicked as well as the righteous.",
+      "layer": "reconstruction",
+      "passage": "Dan.12.2",
+      "classification": "historically_plausible",
+      "reasoning": "Driver traces national resurrection (Hos 6:2; Ezek 37) and individual resurrection limited to Israel (Isa 26:19) before Dan 12:2; Jerome reads 12:2 as the resurrection of all the dead. This is a claim about the history of ideas resting on one modern commentator, not on independent evidence.",
+      "supporting_evidence": [
+        "evd_01M4V2NXWJVVYW0BCW2P4V0VQS"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V2NXWJM7FST7JQ1HD0SJ5T"
+      ],
+      "limitations": [
+        "Dating of Isa 24–27 and of Daniel affects the claim."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V2NXWJ364WP2VYW7B2XHEA",
+      "statement": "An angel swore the duration of the end; the dead will rise.",
+      "layer": "text",
+      "passage": "Dan.12.2-Dan.12.7",
+      "classification": "not_empirically_testable",
+      "reasoning": "Visionary content and a future resurrection cannot be assessed historically. This is not a theological verdict.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V2NXWJ6TNDJBJ6D5AZDZQX",
+      "claim_ids": [
+        "clm_01M4V2NXWJZFHJ0S38VBZW2H6C"
+      ],
+      "source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Desecration 15 Chislev 145; rededication 25 Chislev 148.",
+      "locator": "1 Macc 1:54; 4:52–54",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-maccabees"
+    },
+    {
+      "id": "evd_01M4V2NXWJ7623BTSDPM1WYBC6",
+      "claim_ids": [
+        "clm_01M4V2NXWJZFHJ0S38VBZW2H6C"
+      ],
+      "source_id": "src_01M4TTS0H2RP38CMPKF6HT28VX",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The Temple desolate three years; desolation 145, rededication 148.",
+      "locator": "Ant. 12.7.6",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4V2NXWJGWEFSHBF1T5FW0XF",
+      "claim_ids": [
+        "clm_01M4V2NXWJZFHJ0S38VBZW2H6C"
+      ],
+      "source_id": "src_01M4TSKK81W6HP2HFZ7744DHRG",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Josephus B.J. 1.1.1 states the profanation lasted 3½ years — an accommodation to Daniel (Montgomery).",
+      "locator": "Introduction, p. 97 n.",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus-bj-via-montgomery"
+    },
+    {
+      "id": "evd_01M4V2NXWJ1BEDV541QTS7JD9M",
+      "claim_ids": [
+        "clm_01M4V2NXWJANBC9324NZKEMG0N"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Terminus a quo 15 Chisleu 168; 1,290 days end in June (Cornill: 6 June) 164; Antiochus died in 164.",
+      "locator": "p. 205 (on 12:11)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V2NXWJJQNCQHHJ2S1Q0N6E",
+      "claim_ids": [
+        "clm_01M4V2NXWJANBC9324NZKEMG0N"
+      ],
+      "source_id": "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Porphyry already referred the 1,290 days to Antiochus's desolation.",
+      "locator": "on 12:11",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "porphyry-via-jerome"
+    },
+    {
+      "id": "evd_01M4V2NXWJVVYW0BCW2P4V0VQS",
+      "claim_ids": [
+        "clm_01M4V2NXWJ87RZCC1JEC6K6RXB"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "\"A resurrection of the wicked is taught for the first time\"; \"many\" limits it to Israelites.",
+      "locator": "Introduction pp. xcii–xciii; p. 201",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V2NXWJM7FST7JQ1HD0SJ5T",
+      "claim_ids": [
+        "clm_01M4V2NXWJ87RZCC1JEC6K6RXB"
+      ],
+      "source_id": "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Resurrection of all the dead, \"some unto eternal life and others unto eternal shame\".",
+      "locator": "on 12:2, 13",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "jerome"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Josephus, Jewish War 1.1.1 not read directly.",
+    "2 Maccabees 7 (resurrection hope of the martyrs) not read.",
+    "Qumran Daniel witnesses for ch. 12 not read."
+  ]
+}

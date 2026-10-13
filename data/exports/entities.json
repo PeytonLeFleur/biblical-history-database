@@ -3965,6 +3965,298 @@
   ]
  },
  {
+  "kind": "prophecy",
+  "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN",
+  "slug": "michael-time-of-trouble-resurrection-dan-12-1-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "Michael, the time of trouble and the resurrection (Dan 12:1–3)",
+  "passage": "Dan.12.1-Dan.12.3",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "Michael stands up for Daniel's people in an unequalled time of trouble; those written in the book are delivered; many who sleep in the dust awake, some to everlasting life and some to everlasting contempt; the wise shine like the stars.",
+  "in_text_interpretation": "The text says \"many\" (not \"all\") will awake, in two groups; it names Michael \"the great prince who stands for the children of your people\" and gives no date beyond \"at that time\".",
+  "interpretations": [
+   {
+    "id": "ful_01M4V2NXW3KJMW7F9SNH81CRMB",
+    "label": "Bodily resurrection of the dead at the end; two resurrections",
+    "approach": "futurist",
+    "framework": "Traditional Christian (Jerome); dispensational premillennial (Guzik)",
+    "proponents": [
+     "Jerome",
+     "D. Guzik (citing Baldwin: \"many\" can mean all)"
+    ],
+    "summary": "After the Antichrist is destroyed, the dead rise, some to life and some to shame (Jerome); Guzik adds that the resurrections to life and to condemnation are separated in time (John 5:29; Rev 20:4–6) and that the time of trouble is the Great Tribulation (Jer 30:7; Matt 24:21). Jerome argues the trouble cannot be Antiochus's, since the Babylonian destruction was worse. Future reference; not a claim of historical fulfilment.",
+    "referents": [
+     {
+      "symbol": "Time of trouble",
+      "referent": "The Great Tribulation / the Antichrist's persecution"
+     },
+     {
+      "symbol": "Many who sleep … awake",
+      "referent": "Bodily resurrection"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+     "src_01M4V2NXVXA93J01GRHC1AQBXW"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V2NXW3JJNJJVBRCNBQZSEQ",
+    "label": "A resurrection of prominent Israelites (martyrs and apostates) expected after Antiochus's fall",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "S. R. Driver (1900)",
+     "J. A. Montgomery (1927)"
+    ],
+    "summary": "Textual reasoning: the first Old Testament passage to teach a resurrection of the wicked as well as the righteous and differing destinies (cf. Isa 26:19, limited to Israel); \"many\" = those who had conspicuously helped or hindered God's kingdom under Antiochus. Driver: the writer expected the kingdom to follow the tyrant's fall, which it did not — like earlier prophets whose ideal hopes were not realised at once. Later developments: 1 Enoch, 2 Macc 7, the Targums. No historical fulfilment is claimed.",
+    "referents": [
+     {
+      "symbol": "Many",
+      "referent": "Prominent martyrs and apostates of Antiochus's persecution"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK81W6HP2HFZ7744DHRG",
+     "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V2NXW35B6NYTXN4VM3TX30",
+    "label": "Metaphorical: the Maccabean loyalists \"rise\" from caves to victory (Porphyry, via Jerome)",
+    "approach": "preterist",
+    "framework": "Anti-Christian philosophical critique (3rd century), known through Jerome",
+    "proponents": [
+     "Porphyry (reported by Jerome)"
+    ],
+    "summary": "The persecution under Antiochus and Lysias was the unequalled trouble; after Antiochus died in Persia the faithful hidden in caves (1 Macc 2) rose \"as if\" from the dead to victory, while the apostates rose to disgrace. Jerome objects that Porphyry cannot say who \"shone like the stars\" and that the Babylonian catastrophe was greater.",
+    "referents": [
+     {
+      "symbol": "Those who awake to life",
+      "referent": "The Maccabean loyalists after victory"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4TTS0HJERGH3WATWMDAZ2W6",
+     "evt_01M4V26XJFB1SBE35VNSDGK555"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4V2NXW2B7GPXHYM6XGVC4W0",
+  "slug": "time-times-half-1290-1335-days-dan-12",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "A time, times and a half; 1,290 and 1,335 days (Dan 12:7, 11–12)",
+  "passage": "Dan.12.7-Dan.12.12",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "The man in linen swears it will be \"a time, times and a half\"; from the removal of the continual offering and the setting up of the abomination there will be 1,290 days; blessed is the one who reaches 1,335 days. Arithmetic recorded (operator): 1,290 − 1,260 = 30; 1,335 − 1,290 = 45; 3½ years of 360 days = 1,260; 8:14's 2,300 offerings = 1,150 days.",
+  "in_text_interpretation": "The text gives the starting point of the 1,290 days — the removal of the continual offering and the setting up of the abomination (cf. 11:31) — but not the end-point of either number; \"a time, times and a half\" also appears in 7:25.",
+  "interpretations": [
+   {
+    "id": "ful_01M4V2NXWCD7VDSGV6T4QEAQKA",
+    "label": "Day counts from the desecration of 15 Chislev 145 (Dec 168): 1,290 days to c. June 164, the death of Antiochus",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "S. R. Driver (1900)",
+     "C. H. Cornill (as cited by Driver: 6 June 164)"
+    ],
+    "summary": "Textual reasoning: the starting point is the event of 11:31 (1 Macc 1:54). 1,290 days from Dec 168 end in June 164; Antiochus died in 164 (exact date unknown), and the writer may have pictured his death at that point; the further 45 days to 1,335 mark when blessedness would begin — \"impossible to say with any certainty\" (Driver). Objections: the Temple was rededicated after about 3 years and 10 days (1 Macc 4:52), not 1,290 days; the result depends on dating the desecration to 168 (disputed) and on an unknown date of death.",
+    "referents": [
+     {
+      "symbol": "Start of 1,290 days",
+      "referent": "Desecration, 15 Chislev 145 SE"
+     },
+     {
+      "symbol": "End of 1,290 days",
+      "referent": "Death of Antiochus IV (c. 164)"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4V26XJFNDVRK064BRXG17HH",
+     "evt_01M4V26XJFB1SBE35VNSDGK555"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK87BBJJJP35SD5PZGDP"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V2NXWCAWXD8YN3NEC1TRWY",
+    "label": "Successive glosses lengthening the 1,150 days as the end was delayed",
+    "approach": "preterist",
+    "framework": "Historical-critical (redactional)",
+    "proponents": [
+     "J. A. Montgomery (1927)"
+    ],
+    "summary": "The 1,290 and the 1,335 days are \"successive later insertions, due to the retardation of the term of 1150 days\" (8:14); Montgomery notes general agreement on 168 and 165 for the desecration and rededication, and that Josephus's 3½ years (B.J.) accommodates Daniel while 1 Maccabees keeps three years. No fulfilment is claimed.",
+    "referents": [],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK81W6HP2HFZ7744DHRG"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V2NXWCD6FWG0FX57R2G90C",
+    "label": "Porphyry: 1,290 days of the desolation under Antiochus; 45 more days of victory and cleansing (via Jerome)",
+    "approach": "preterist",
+    "framework": "Anti-Christian philosophical critique (3rd century), known through Jerome",
+    "proponents": [
+     "Porphyry (reported by Jerome)"
+    ],
+    "summary": "The 1,290 days were the desolation of the Temple under Antiochus; the extra 45 days were Judas Maccabaeus's victory over Antiochus's generals and the cleansing of the Temple. Jerome objects that 1 Maccabees and Josephus give three years, not three and a half.",
+    "referents": [
+     {
+      "symbol": "1,335 days",
+      "referent": "The cleansing of the Temple"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+     "src_01M4TSKK87BBJJJP35SD5PZGDP",
+     "src_01M4TTS0H2RP38CMPKF6HT28VX"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V2NXWC6G50S47057ZQ4H9A",
+    "label": "The Antichrist's 3½ years; 45 more days to Christ's coming / to the judgment of the nations",
+    "approach": "futurist",
+    "framework": "Patristic (Jerome); dispensational (Guzik)",
+    "proponents": [
+     "Jerome",
+     "D. Guzik (tentative, citing Smith)"
+    ],
+    "summary": "Jerome: the Antichrist persecutes 1,290 days and dies; the Lord comes in glory within the further 45 days. Guzik: 1,260 days to Christ's return, 1,290 to the installation of his government, 1,335 to the judgment of the nations (Matt 25:31–46); he admits the relationship is difficult. Future reference; not a claim of historical fulfilment.",
+    "referents": [
+     {
+      "symbol": "Time, times and a half",
+      "referent": "The last 3½ years of the 70th week"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+     "src_01M4V2NXVXA93J01GRHC1AQBXW"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V2NXWCCR5K9HJSS290D83T",
+    "label": "Year-day: 1,290 years from AD 508 to 1798; 1,335 years to AD 1843",
+    "approach": "historicist",
+    "framework": "Millerite (19th-century American Adventism)",
+    "proponents": [
+     "W. Miller (1842)"
+    ],
+    "summary": "A prophetic day is a year; the \"daily\" taken away is pagan worship, removed in AD 508; 1,290 years end in 1798 with the end of papal civil power; 1,335 years end in 1843 with Christ's return and the first resurrection. Objection: the expected return in 1843 did not occur; Guzik and Driver read the numbers as days.",
+    "referents": [
+     {
+      "symbol": "1,290 days",
+      "referent": "AD 508–1798"
+     },
+     {
+      "symbol": "1,335 days",
+      "referent": "AD 508–1843"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TTS0H8BP0WSKFR1FQAZ7MF"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4V2NXW2PXA8PYFMKM3DB4NS",
+  "slug": "seal-the-book-dan-12-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "Seal the book until the time of the end (Dan 12:4, 9)",
+  "passage": "Dan.12.4",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "Daniel is to close and seal the book to the time of the end; many will run to and fro and knowledge will increase.",
+  "in_text_interpretation": "12:9 repeats that the words are shut up and sealed until the time of the end, and 12:10 that the wise will understand.",
+  "interpretations": [
+   {
+    "id": "ful_01M4V2NXW8TTMZGRCJYVTYQT95",
+    "label": "Many will read and search the obscure book",
+    "approach": "idealist",
+    "framework": "Patristic",
+    "proponents": [
+     "Jerome"
+    ],
+    "summary": "\"Many shall pass through\" = many will read the book and disagree about its fulfilment because of its obscurity (cf. Isa 29:11; Rev 5).",
+    "referents": [],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V2NXW8J8FR78M27HXDBM36",
+    "label": "End-time increase of prophetic knowledge (and, for some, travel and information)",
+    "approach": "futurist",
+    "framework": "Evangelical futurist",
+    "proponents": [
+     "D. Guzik (citing Wood and Newell; quoting Adam Clarke)"
+    ],
+    "summary": "Guzik notes the common reading of modern travel and the information explosion, prefers \"searching for knowledge\", and suggests that the growth of prophetic study over the last 150 years indicates the period has begun. This is a tentative fulfilment claim about modern times.",
+    "referents": [
+     {
+      "symbol": "Knowledge will increase",
+      "referent": "Modern study of prophecy"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V2NXVXA93J01GRHC1AQBXW"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
   "kind": "reign",
   "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
   "slug": "uzziah-reign-albright",

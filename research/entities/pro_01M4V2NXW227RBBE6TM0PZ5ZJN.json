@@ -1,0 +1,95 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V2NXW227RBBE6TM0PZ5ZJN",
+  "slug": "michael-time-of-trouble-resurrection-dan-12-1-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "Michael, the time of trouble and the resurrection (Dan 12:1–3)",
+  "passage": "Dan.12.1-Dan.12.3",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "Michael stands up for Daniel's people in an unequalled time of trouble; those written in the book are delivered; many who sleep in the dust awake, some to everlasting life and some to everlasting contempt; the wise shine like the stars.",
+  "in_text_interpretation": "The text says \"many\" (not \"all\") will awake, in two groups; it names Michael \"the great prince who stands for the children of your people\" and gives no date beyond \"at that time\".",
+  "interpretations": [
+    {
+      "id": "ful_01M4V2NXW3KJMW7F9SNH81CRMB",
+      "label": "Bodily resurrection of the dead at the end; two resurrections",
+      "approach": "futurist",
+      "framework": "Traditional Christian (Jerome); dispensational premillennial (Guzik)",
+      "proponents": [
+        "Jerome",
+        "D. Guzik (citing Baldwin: \"many\" can mean all)"
+      ],
+      "summary": "After the Antichrist is destroyed, the dead rise, some to life and some to shame (Jerome); Guzik adds that the resurrections to life and to condemnation are separated in time (John 5:29; Rev 20:4–6) and that the time of trouble is the Great Tribulation (Jer 30:7; Matt 24:21). Jerome argues the trouble cannot be Antiochus's, since the Babylonian destruction was worse. Future reference; not a claim of historical fulfilment.",
+      "referents": [
+        {
+          "symbol": "Time of trouble",
+          "referent": "The Great Tribulation / the Antichrist's persecution"
+        },
+        {
+          "symbol": "Many who sleep … awake",
+          "referent": "Bodily resurrection"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+        "src_01M4V2NXVXA93J01GRHC1AQBXW"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V2NXW3JJNJJVBRCNBQZSEQ",
+      "label": "A resurrection of prominent Israelites (martyrs and apostates) expected after Antiochus's fall",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "S. R. Driver (1900)",
+        "J. A. Montgomery (1927)"
+      ],
+      "summary": "Textual reasoning: the first Old Testament passage to teach a resurrection of the wicked as well as the righteous and differing destinies (cf. Isa 26:19, limited to Israel); \"many\" = those who had conspicuously helped or hindered God's kingdom under Antiochus. Driver: the writer expected the kingdom to follow the tyrant's fall, which it did not — like earlier prophets whose ideal hopes were not realised at once. Later developments: 1 Enoch, 2 Macc 7, the Targums. No historical fulfilment is claimed.",
+      "referents": [
+        {
+          "symbol": "Many",
+          "referent": "Prominent martyrs and apostates of Antiochus's persecution"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V2NXW35B6NYTXN4VM3TX30",
+      "label": "Metaphorical: the Maccabean loyalists \"rise\" from caves to victory (Porphyry, via Jerome)",
+      "approach": "preterist",
+      "framework": "Anti-Christian philosophical critique (3rd century), known through Jerome",
+      "proponents": [
+        "Porphyry (reported by Jerome)"
+      ],
+      "summary": "The persecution under Antiochus and Lysias was the unequalled trouble; after Antiochus died in Persia the faithful hidden in caves (1 Macc 2) rose \"as if\" from the dead to victory, while the apostates rose to disgrace. Jerome objects that Porphyry cannot say who \"shone like the stars\" and that the Babylonian catastrophe was greater.",
+      "referents": [
+        {
+          "symbol": "Those who awake to life",
+          "referent": "The Maccabean loyalists after victory"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TTS0HJERGH3WATWMDAZ2W6",
+        "evt_01M4V26XJFB1SBE35VNSDGK555"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

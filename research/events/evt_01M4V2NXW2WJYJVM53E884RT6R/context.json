@@ -1,0 +1,105 @@
+{
+  "event_id": "evt_01M4V2NXW2WJYJVM53E884RT6R",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Two figures stand on either bank; one asks the man in linen, who is above the waters, how long until the end of these wonders. Raising both hands to heaven he swears by the one who lives forever: a time, times and a half, when the shattering of the holy people's power is complete. Daniel asks the outcome and is told to go his way; the words are sealed; the wise will understand. From the removal of the continual offering and the abomination there will be 1,290 days; blessed is the one who reaches 1,335. Daniel will rest and stand in his lot at the end of the days.",
+    "passage": "Dan.12.5-Dan.12.13"
+  },
+  "setting": {
+    "period": "As the vision of ch. 10 (Cyrus's third year, 536/535 BC) on the text's own dating",
+    "body": "The scene returns to the river of 10:4; Jerome identifies the two figures as the angels of the Greeks and Persians and the man in linen as the angel who presented Daniel's prayers. The numbers take as their starting point the removal of the continual offering and the abomination of 11:31.",
+    "citations": [
+      "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+    ]
+  },
+  "rulers": [],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V2NXWGCRVAAS84JMGHKQ5W",
+      "subject": "evt_01M4V2NXW2WJYJVM53E884RT6R",
+      "object": "evt_01M4V1HGV4JE844DCHJHBJX234",
+      "relation": "days_later",
+      "textual_assertion": "Then I, Daniel, looked, and behold, two others stood … the man clothed in linen, who was above the waters of the river",
+      "passage": "Dan.12.5-Dan.12.6",
+      "offset": {
+        "min": 0,
+        "max": 1
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The closing dialogue continues the vision that began on 24 Nisan (10:4) by the same river; the margin allows for a vision spanning the night."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4V1HGV08ZPS4M5XMQFFZ8ZM",
+      "role": "The river of the vision (unnamed in ch. 12; assumed from 10:4)",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "a time, times and a half",
+      "gloss": "Three and a half \"times\", read as 3½ years by Porphyry, Jerome and Guzik (cf. 4:16 \"seven times\"; 7:25).",
+      "citations": [
+        "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+        "src_01M4V2NXVXA93J01GRHC1AQBXW"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "The two figures are angels of Greece and Persia",
+      "proponents": [
+        "Jerome"
+      ],
+      "summary": "Linked to the princes of ch. 10.",
+      "citations": [
+        "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+      ]
+    },
+    {
+      "label": "The two figures are unnamed attendant angels",
+      "proponents": [
+        "D. Guzik"
+      ],
+      "summary": "Two angels on either bank; no national identity given.",
+      "citations": [
+        "src_01M4V2NXVXA93J01GRHC1AQBXW"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V2NXVXA93J01GRHC1AQBXW",
+      "layer": "interpretation",
+      "paraphrase": "Guzik takes the oath's \"time, times and half a time\" as the last 3½ years of the seventieth week, tentatively assigns 1,260/1,290/1,335 days to Christ's return, the setting up of his government and the judgment of the nations, and reads Daniel's rest and lot as a promise of resurrection.",
+      "url": "https://enduringword.com/bible-commentary/daniel-12/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Old Greek and Theodotion variants at 12:7 and 12:11–13 read only as quoted by Jerome.",
+    "4QDan(c) or other Qumran witnesses to ch. 12 not read."
+  ],
+  "not_applicable": {
+    "rulers": "No ruler is named in the scene."
+  }
+}

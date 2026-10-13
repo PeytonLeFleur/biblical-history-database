@@ -1,0 +1,56 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V2NXW2PXA8PYFMKM3DB4NS",
+  "slug": "seal-the-book-dan-12-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "Seal the book until the time of the end (Dan 12:4, 9)",
+  "passage": "Dan.12.4",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "Daniel is to close and seal the book to the time of the end; many will run to and fro and knowledge will increase.",
+  "in_text_interpretation": "12:9 repeats that the words are shut up and sealed until the time of the end, and 12:10 that the wise will understand.",
+  "interpretations": [
+    {
+      "id": "ful_01M4V2NXW8TTMZGRCJYVTYQT95",
+      "label": "Many will read and search the obscure book",
+      "approach": "idealist",
+      "framework": "Patristic",
+      "proponents": [
+        "Jerome"
+      ],
+      "summary": "\"Many shall pass through\" = many will read the book and disagree about its fulfilment because of its obscurity (cf. Isa 29:11; Rev 5).",
+      "referents": [],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4V2NXW12Q6HGNW1RG5B2FJV"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V2NXW8J8FR78M27HXDBM36",
+      "label": "End-time increase of prophetic knowledge (and, for some, travel and information)",
+      "approach": "futurist",
+      "framework": "Evangelical futurist",
+      "proponents": [
+        "D. Guzik (citing Wood and Newell; quoting Adam Clarke)"
+      ],
+      "summary": "Guzik notes the common reading of modern travel and the information explosion, prefers \"searching for knowledge\", and suggests that the growth of prophetic study over the last 150 years indicates the period has begun. This is a tentative fulfilment claim about modern times.",
+      "referents": [
+        {
+          "symbol": "Knowledge will increase",
+          "referent": "Modern study of prophecy"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V2NXVXA93J01GRHC1AQBXW"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}
