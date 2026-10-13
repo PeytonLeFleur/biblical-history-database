@@ -1,0 +1,314 @@
+{
+  "event_id": "evt_01M4V61390F0RC9NJ8XNPMSP62",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Driver 1900 Introduction (Authorship and Date); Montgomery §21; Wilson 1917 (local texts)",
+      "engine": "local text",
+      "useful_results": 3,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Jerome prologue (Porphyry)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "4Q114 4QDanc radiocarbon date",
+      "engine": "web search",
+      "useful_results": 1,
+      "notes": "Primary article (PLOS ONE 2025) read; magazine reports not used."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Sirach 49; 1 Maccabees 2 (WEB USFM)",
+      "engine": "local text",
+      "useful_results": 2,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": true,
+      "not_applicable_reason": null
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V6139JGHA33VMGC49D0JH0",
+      "statement": "A manuscript containing Daniel 8–11 (4QDanᶜ, 4Q114) was copied between about 230 and 160 BC.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Radiocarbon dating of the cleaned specimen (2σ, 230–160 BCE) in a peer-reviewed study. The calibrated range is not the complete range reported, and radiocarbon dates the parchment, not the composition.",
+      "supporting_evidence": [
+        "evd_01M4V6139K7VZD7A8XX77AWHQ0"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "A single specimen; calibration ranges are probabilistic."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V6139JAH2N5WQW2B4BATZR",
+      "statement": "The book of Daniel was composed in the sixth century BC by Daniel.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "disputed",
+      "reasoning": "Scholarly arguments on both sides are recorded separately from theological commitments. For an early date: the historical objections are arguments from silence or from reckoning conventions (Wilson); Josephus's Alexander tradition presupposes the book in the fourth century; 4Q114's radiocarbon range begins before the persecution. For a late date: language (Greek instrument names, Persian words), the book's place among the Writings, Ben Sira's silence, and the precision of ch. 11 up to the persecution with divergence at 11:40–45 (Driver; Montgomery; Porphyry). Montgomery dates the stories earlier than the visions. The radiocarbon range overlaps both views and does not decide them. Theological positions (Jesus' reference to \"Daniel the prophet\"; the possibility of predictive prophecy) are noted on the dossier and not weighed as historical evidence. The linguistic argument is itself contested: Kitchen (1965) concludes that the Aramaic permits any date from the late sixth century onward and cannot decide the question, and Mitchell & Joyce (1965) that the instrument names do not exclude the sixth century.",
+      "supporting_evidence": [
+        "evd_01M4V6139K3ESHJ6ZFQCPZ974M",
+        "evd_01M4V6139KKXP1A5BYP4PAM97P"
+      ],
+      "counterevidence": [
+        "evd_01M4V6139K20BWCVF0ASA338D1",
+        "evd_01M4V6139KDD3PGE2Z7KQKERTE",
+        "evd_01M4V6139KWEZGC5M3TFDPG6K4"
+      ],
+      "contextual_evidence": [
+        "evd_01M4V6139K5R1Z156Z63D50R1T",
+        "evd_01M4V6139KH5JDTYTFP31TSGDF",
+        "evd_01M4V6139KDFAM97BNCCH0HY0B",
+        "evd_01M4V66VTDWGWAAFMNHEEVBSDD",
+        "evd_01M4V66VTD37J3WZ6FVN6D2YDJ"
+      ],
+      "limitations": [
+        "Only one radiocarbon date read.",
+        "Pusey, Hengstenberg, Collins and Goldingay not read directly."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V6139J2BGC3D3AT7QQPK91",
+      "statement": "Daniel's visions were divinely revealed predictions of events still future when given.",
+      "layer": "interpretation",
+      "passage": null,
+      "classification": "not_empirically_testable",
+      "reasoning": "A theological claim about revelation; historical method cannot test it. Recorded so that the theological commitment is kept apart from the dating evidence. This is not a theological verdict.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V6139K7VZD7A8XX77AWHQ0",
+      "claim_ids": [
+        "clm_01M4V6139JGHA33VMGC49D0JH0"
+      ],
+      "source_id": "src_01M4V612H4WMYWSAQEPE8V8WTT",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Accepted 2σ calibrated range 230–160 BCE; overlaps the period in which the final part of Daniel was \"presumably authored\".",
+      "locator": "4Q114 entry",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "radiocarbon"
+    },
+    {
+      "id": "evd_01M4V6139K3ESHJ6ZFQCPZ974M",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Objections to the historical statements rest on silence and unexamined assumptions; a date \"say 535 B.C.\" is weighed against 164 B.C.",
+      "locator": "pp. iii–vi; p. 179",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "conservative-scholarship"
+    },
+    {
+      "id": "evd_01M4V6139KKXP1A5BYP4PAM97P",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4TTS0H16R2RHYVNTR09K9TR",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Alexander was shown the Book of Daniel at Jerusalem (a tradition known only from Josephus).",
+      "locator": "Ant. 11.8.5",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4V6139K5R1Z156Z63D50R1T",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4V612HBQ0CKTBVFSJ0MJGAR",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Mattathias's speech cites the three in the furnace and Daniel among the lions — the stories were known when 1 Maccabees was written (c. 100 BC).",
+      "locator": "1 Macc 2:59–60",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-maccabees"
+    },
+    {
+      "id": "evd_01M4V6139KH5JDTYTFP31TSGDF",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4V612H4WMYWSAQEPE8V8WTT",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "A copy of chs. 8–11 dated 230–160 BCE; the range reaches both before and into the Maccabean period.",
+      "locator": "4Q114 entry",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "radiocarbon"
+    },
+    {
+      "id": "evd_01M4V6139K20BWCVF0ASA338D1",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Persian words presuppose an established Persian empire; Greek words (kitharis, psalterion, symphonia) \"demand\" a date after Alexander; placement among the Writings; Ben Sira's silence; historical difficulties.",
+      "locator": "Introduction pp. xlvii–lxiii",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V6139KDD3PGE2Z7KQKERTE",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4TSKK81W6HP2HFZ7744DHRG",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Chs. 1–6 pre-Maccabean (3rd century); chs. 7–12 from 168–165 BC.",
+      "locator": "§21 d",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "montgomery-1927"
+    },
+    {
+      "id": "evd_01M4V6139KWEZGC5M3TFDPG6K4",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4V612H65VZ3MZ0JQCE3FZT5",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Porphyry argued the book was composed in Judaea under Antiochus Epiphanes.",
+      "locator": "Prologue",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "porphyry-via-jerome"
+    },
+    {
+      "id": "evd_01M4V6139KDFAM97BNCCH0HY0B",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4V612H9KETG4S4P3GY7AMN7",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Ben Sira's list names Jeremiah, Ezekiel, the Twelve, Zerubbabel, Jeshua and Nehemiah but not Daniel — nor Ezra, which limits the weight of the silence.",
+      "locator": "Sir 49:6–13",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ben-sira"
+    },
+    {
+      "id": "evd_01M4V66VTDWGWAAFMNHEEVBSDD",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4V66VT6MGRSHTTHGDBDG2HE",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The Aramaic allows any date from the late sixth to the second century; a second-century date cannot rest on three Greek words; the date \"cannot be decided upon linguistic grounds alone\".",
+      "locator": "pp. 31–79 (summary, p. 79)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "conservative-scholarship-kitchen"
+    },
+    {
+      "id": "evd_01M4V66VTD37J3WZ6FVN6D2YDJ",
+      "claim_ids": [
+        "clm_01M4V6139JAH2N5WQW2B4BATZR"
+      ],
+      "source_id": "src_01M4V66VT95XT35Z03MCCTEWSJ",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The instrument names are not decisive; a sixth-century date for the orchestra \"cannot be categorically denied\".",
+      "locator": "pp. 19–27",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "conservative-scholarship-mitchell"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Wilson's philological volume (promised) and Pusey not read.",
+    "Collins (Hermeneia, 1993) not accessible.",
+    "Other Qumran Daniel manuscripts (1QDan, 4QDana–e, 6QDan) not dated individually here."
+  ]
+}

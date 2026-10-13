@@ -2,7 +2,31 @@
   "event_id": "evt_01M4V26XJFNDVRK064BRXG17HH",
   "status": "complete",
   "resume_from": null,
-  "name_searches": [],
+  "name_searches": [
+    {
+      "name": "Antiochus [antiochus-iv-epiphanes]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Epiphanes [antiochus-iv-epiphanes]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "king of the north [seleucid-empire]",
+      "books_searched": 66,
+      "hits": [
+        "Dan.11.6",
+        "Dan.11.7",
+        "Dan.11.8",
+        "Dan.11.11",
+        "Dan.11.13",
+        "Dan.11.15",
+        "Dan.11.40"
+      ]
+    }
+  ],
   "relationships": [
     {
       "id": "rel_01M4V26XMKV0HGKK52PK6P13CT",
@@ -44,6 +68,30 @@
       "confidence": "high",
       "layer": "text",
       "rationale": "Jesus cites Daniel's \"abomination of desolation\" for a coming desolation.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V61371Z549HTEVTMRJ02ZH",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFNDVRK064BRXG17HH"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Mark.13.14"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Mark's parallel to Matt 24:15: \"the abomination of desolation, spoken of by Daniel the prophet\".",
       "provenance": {
         "method": "text_reading",
         "dataset": null,

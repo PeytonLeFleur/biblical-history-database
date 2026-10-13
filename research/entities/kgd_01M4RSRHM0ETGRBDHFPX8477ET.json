@@ -4,7 +4,11 @@
   "slug": "egypt-saite",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+    "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
   "notes": null,
   "name": "Egypt (Twenty-sixth Dynasty)",
   "description": "Saite dynasty of Egypt, including Necho II."

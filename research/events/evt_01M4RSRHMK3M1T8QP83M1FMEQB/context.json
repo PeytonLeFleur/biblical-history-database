@@ -8,7 +8,7 @@
     "passage": "Jer.46.2"
   },
   "setting": {
-    "period": "Late Iron Age; end of the Assyrian-Egyptian alliance (609\u2013605 BC)",
+    "period": "Late Iron Age; end of the Assyrian-Egyptian alliance (609–605 BC)",
     "body": "After the fall of Nineveh and Harran, Egypt under Necho II held the upper Euphrates. In Nabopolassar's 21st year (605) the crown prince Nebuchadnezzar crossed the river, defeated the Egyptian army at Carchemish, pursued its remnants into the district of Hamath, and then returned to Babylon on his father's death to take the throne on 1 Ululu (7 Sep 605).",
     "citations": [
       "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
@@ -57,7 +57,7 @@
       "offset": null,
       "unit": null,
       "regnal_year": 4,
-      "alternative_option": "accession year \u00b7 Nisan",
+      "alternative_option": "accession year · Nisan",
       "regnal_convention": {
         "reckoning": "accession",
         "new_year": "nisan"
@@ -81,7 +81,7 @@
       "offset": null,
       "unit": null,
       "regnal_year": 4,
-      "alternative_option": "accession year \u00b7 Tishri",
+      "alternative_option": "accession year · Tishri",
       "regnal_convention": {
         "reckoning": "accession",
         "new_year": "tishri"
@@ -105,7 +105,7 @@
       "offset": null,
       "unit": null,
       "regnal_year": 4,
-      "alternative_option": "non-accession year \u00b7 Tishri",
+      "alternative_option": "non-accession year · Tishri",
       "regnal_convention": {
         "reckoning": "non_accession",
         "new_year": "tishri"
@@ -129,7 +129,7 @@
       "offset": null,
       "unit": null,
       "regnal_year": 4,
-      "alternative_option": "non-accession year \u00b7 Nisan",
+      "alternative_option": "non-accession year · Nisan",
       "regnal_convention": {
         "reckoning": "non_accession",
         "new_year": "nisan"
@@ -171,7 +171,7 @@
       "proponents": [
         "Modelled as alternatives; see the reckoning table"
       ],
-      "summary": "Whether Carchemish (Mar\u2013Aug 605) falls in Jehoiakim's \"fourth year\" depends on how Jeremiah counted Jehoiakim's years and on when in 609 Jehoiakim acceded. Each reckoning option is computed by the chronology engine.",
+      "summary": "Whether Carchemish (Mar–Aug 605) falls in Jehoiakim's \"fourth year\" depends on how Jeremiah counted Jehoiakim's years and on when in 609 Jehoiakim acceded. Each reckoning option is computed by the chronology engine.",
       "citations": [
         "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
         "src_01M4RSRHKDJ3GDT201E0SGMSM2"
@@ -182,5 +182,7 @@
   "open_questions": [
     "Exact Julian date of Nisan 1, 605 (Parker & Dubberstein tables not yet imported)."
   ],
-  "not_applicable": {}
+  "not_applicable": {
+    "commentary": "External military event; Enduring Word discusses it only as background to Dan 1:1, recorded on that event."
+  }
 }

@@ -4,7 +4,16 @@
   "slug": "babylon",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RSRHKSNX6HS6J0FDKPETW8",
+    "src_01M4RSRHKN0V607MATVNE8J925",
+    "src_01M4RSRHKPDX1NK68B6VM1ZNEE",
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+    "src_01M4RSRHKMX8FXN8V23422QTP8",
+    "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+    "src_01M4RTK73MY7ZP1T97R06C13XY"
+  ],
   "notes": null,
   "primary_name": "Babylon",
   "place_type": "settlement",

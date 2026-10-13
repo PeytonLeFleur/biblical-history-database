@@ -51,10 +51,11 @@
       "layer": "evidence",
       "passage": null,
       "classification": "strongly_supported",
-      "reasoning": "Polybius, a contemporary, gives the account; Jerome's version agrees in substance. Jerome calls the envoy \"Marcus\", Polybius's editors and Driver \"Gaius\".",
+      "reasoning": "Polybius (a contemporary) and Livy (read directly; Livy draws on Polybius for eastern affairs, so the two are not fully independent) agree on the circle and the withdrawal; Jerome's version agrees in substance. Jerome calls the envoy \"Marcus\"; Driver gives \"C. Popillius\"; Livy here names only \"Popilius\" (several Popilii appear in books 44–45).",
       "supporting_evidence": [
         "evd_01M4V26XMFQ17ZKNSD7TCHZF1R",
-        "evd_01M4V26XMFP3HRCRJ6A4XXKPJF"
+        "evd_01M4V26XMFP3HRCRJ6A4XXKPJF",
+        "evd_01M4V6138CDA02D02SASX58F5Y"
       ],
       "counterevidence": [],
       "contextual_evidence": [
@@ -114,12 +115,26 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "livy-via-driver"
+    },
+    {
+      "id": "evd_01M4V6138CDA02D02SASX58F5Y",
+      "claim_ids": [
+        "clm_01M4V26XMFT70JAEK7SS5EK9KT"
+      ],
+      "source_id": "src_01M4V612HNC5THP1WNSPTN6FTK",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The Roman envoys met Antiochus at Eleusine, four miles from Alexandria; Popilius drew a line round him with a wand; he replied he would do as the senate directed.",
+      "locator": "Livy 45.12",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "livy"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
-  "research_gaps": [
-    "Livy 45.12 not read directly."
-  ]
+  "research_gaps": []
 }

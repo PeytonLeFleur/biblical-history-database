@@ -1,7 +1,7 @@
 {
   "event_id": "evt_01M4RSRHMKFBYZNZXBYS1VGB10",
   "revision": 1,
-  "validated_at": "2026-10-12",
+  "validated_at": "2026-10-13",
   "checks": [
     {
       "name": "repository_validation",
@@ -41,7 +41,9 @@
   ],
   "publication_level": "researched",
   "open_reviews": [
-    "rev_01M4RSRHN8HPRV7KVMQKR48P8D"
+    "rev_01M4RSRHN8HPRV7KVMQKR48P8D",
+    "rev_01M4V612J09K6CKPFNAB43FP4M",
+    "rev_01M4V612J2E3QDQ2AK0XNRBM5T"
   ],
   "research_gaps": [
     "Weidner (1939) edition of the ration tablets not consulted.",

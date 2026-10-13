@@ -99,11 +99,12 @@
         "evd_01M4V10B645EKR4DCDH1801S2S"
       ],
       "counterevidence": [
-        "evd_01M4V10B64TWT2G287CBHAMCEP"
+        "evd_01M4V10B64TWT2G287CBHAMCEP",
+        "evd_01M4V6137M46P9KTVE2YY5SPSN"
       ],
       "contextual_evidence": [],
       "limitations": [
-        "Josephus not read directly on this point."
+        "Whether Josephus's Onias in B.J. 1.1.1 is Onias III or his son (as in Ant. 12.9.7) is itself disputed."
       ],
       "reviewer_status": "requires_review",
       "review_required": true,
@@ -115,16 +116,19 @@
       "layer": "reconstruction",
       "passage": "Neh.2.1",
       "classification": "disputed",
-      "reasoning": "Anderson derives 14 March from the astronomical new moon of 13 March 445 (Airy). Parker & Dubberstein's Babylonian calendar table, based on cuneiform intercalations and computed first visibility, gives 13 April 445 for 1 Nisan of year 20. The Judean calendar of Nehemiah's day need not have matched the Babylonian, so the table does not settle it, but the 14 March date is not the Babylonian one.",
+      "reasoning": "Anderson derives 14 March from the astronomical new moon of 13 March 445 BC computed for him at Greenwich, assuming no intercalary month. Parker & Dubberstein's Babylonian table (built from attested and reconstructed intercalations) places 1 Nisan of year 19 on 26 Mar 446 and of year 20 on 13 Apr 445 — 384 days apart, i.e. a thirteen-month year with an intercalary month (operator arithmetic from the table; whether that intercalation is attested or reconstructed was not checked in the plate). The Judean calendar of Nehemiah's day need not have intercalated as Babylon did, so the table does not prove Anderson wrong, but his date is not the Babylonian one. Separately, the 173,880-day interval: in the proleptic Julian calendar 14 Mar 445 BC to 6 Apr AD 32 is 173,882 days (Julian day numbers; operator calculation); Anderson reaches 173,880 by counting the end-days inclusively and adding only 116 leap days, applying the Gregorian three-in-four-centuries correction to Julian dates (his own footnote).",
       "supporting_evidence": [
         "evd_01M4V10B64Y3P1MJP169E0TW6M"
       ],
       "counterevidence": [
         "evd_01M4V10B643M07DARMR8CHGDDF"
       ],
-      "contextual_evidence": [],
+      "contextual_evidence": [
+        "evd_01M4V6137MAC3DZYYWC5K9J8RF"
+      ],
       "limitations": [
-        "Babylonian vs Judean intercalation not researched."
+        "Judean vs Babylonian intercalation not established for 446/445.",
+        "P&D Plate I (attested vs reconstructed intercalations) not read in the OCR."
       ],
       "reviewer_status": "requires_review",
       "review_required": true,
@@ -261,6 +265,38 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V6137MAC3DZYYWC5K9J8RF",
+      "claim_ids": [
+        "clm_01M4V10B645T6JQZTT3GX6AK4A"
+      ],
+      "source_id": "src_01M4V10B58H26PE3KJR06XESP7",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "476 years × 365 + 24 days (inclusive) + 116 leap days = 173,880; the note explains the Gregorian correction of three leap years in four centuries.",
+      "locator": "p. 128 and note",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "anderson-airy"
+    },
+    {
+      "id": "evd_01M4V6137M46P9KTVE2YY5SPSN",
+      "claim_ids": [
+        "clm_01M4V10B64TNJDFVD6BCKBYYPV"
+      ],
+      "source_id": "src_01M4V612HGJCFWB5SBV98K3KN4",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "\"Onias, the high priest, fled to Ptolemy\" and built a temple in the nome of Heliopolis — a different end for the high priest named Onias.",
+      "locator": "B.J. 1.1.1",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus-wars"
     }
   ],
   "artifacts": [],
@@ -269,7 +305,6 @@
   "research_gaps": [
     "Scofield Reference Bible (1917) notes on Daniel 9 not found online in the 1917 series.",
     "Hoehner (1977) not accessible.",
-    "Josephus B.J. on Onias not read directly.",
     "Old Greek and Theodotion of 9:24–27 not read (only as quoted by Driver).",
     "Qumran use of the seventy weeks (e.g. 11QMelchizedek) not researched."
   ]

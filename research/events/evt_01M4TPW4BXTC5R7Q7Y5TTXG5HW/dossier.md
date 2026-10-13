@@ -681,6 +681,9 @@ The Chronicle records that Nabonidus fled and was later arrested in Babylon.
 - Jeremiah 51:57 → **proposed fulfillment** → this event (low): Guzik reads Jeremiah's oracle that Babylon's princes would be made drunk and "sleep a perpetual sleep" as fulfilled at the feast and fall. [8]
 - this event → **source attestation** → Babylonian Chronicle ABC 7 (Nabonidus Chronicle) (high): Dated narrative of the capture. [1]
 - this event → **artifact association** → Cyrus Cylinder (high): Cyrus's own account of his entry into Babylon. [3, 9]
+- this event → **thematic parallel** → Isaiah 13:17–19 (medium): Oracle naming the Medes stirred up against Babylon (found by the "Medes" name search). Motif only; no fulfilment claim recorded here.
+- this event → **thematic parallel** → Isaiah 21:2 (medium): Elam and Media summoned against Babylon; "Fallen, fallen is Babylon" (21:9). Motif only.
+- this event → **thematic parallel** → Jeremiah 51:28 (medium): "The kings of the Medes" prepared against Babylon. Motif only.
 
 ## Commentary (interpretation, not historical evidence)
 

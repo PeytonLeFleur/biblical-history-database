@@ -128,12 +128,13 @@
         "Conservative interpreters (Gubaru view)",
         "R. D. Wilson (1917), pp. 141–144"
       ],
-      "summary": "Darius was a sub-king installed by Cyrus, known from the Chronicle as Ugbaru (who entered Babylon and died within a month) or Gubaru (who appointed officials). Problems: neither is called a Mede or king, and the Chronicle's two spellings may be two men.",
+      "summary": "Darius was a sub-king installed by Cyrus, known from the Chronicle as Ugbaru (who entered Babylon and died within a month) or Gubaru (who appointed officials). Problems: neither is called a Mede or king, and the Chronicle's two spellings may be two men. Wiseman (1965) objects that no text calls Gubaru king — Babylonian contracts of 535–524 BC name him only as governor (pīḫatu) — and that no governor of Babylon other than a usurper bore a royal title.",
       "citations": [
         "src_01M4TPW4ANVR01F7B65HENPWZG",
         "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
         "src_01M4TPW4AZ36MRBPK409CVFJ9G",
-        "src_01M4TQMMM1WZRBE06R4N9B1SWF"
+        "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+        "src_01M4RSRHKK20JJA4YS6CSHSHGZ"
       ]
     },
     {
@@ -143,7 +144,7 @@
         "R. N. Frye (1994)",
         "B. Colless (1992)"
       ],
-      "summary": "Reads Dan 6:28 as \"the reign of Darius, that is, the reign of Cyrus the Persian\". Wiseman's argument is known here only through Wikipedia (his essay is registered at metadata level).",
+      "summary": "Reads Dan 6:28 appositionally: \"the reign of Darius, that is, the reign of Cyrus the Persian\". Wiseman (1965, read directly) proposes this as a working hypothesis: Cyrus, son of a Median princess and ruler of Media from 550, could be called a Mede; he received Babylon at about sixty-two. Frye and Colless are known here only through Wikipedia.",
       "citations": [
         "src_01M4TPW4AZ36MRBPK409CVFJ9G",
         "src_01M4RSRHKK20JJA4YS6CSHSHGZ"
@@ -188,6 +189,16 @@
       "citations": [
         "src_01M4TPW4AZ36MRBPK409CVFJ9G",
         "src_01M4TPW4B24WCAYH9QR7BGTDVP"
+      ]
+    },
+    {
+      "label": "A literary figure (no historical Darius the Mede)",
+      "proponents": [
+        "H. H. Rowley (1935), as summarised by Wiseman (1965)"
+      ],
+      "summary": "Rowley concluded the Darius of Daniel was fictitious, from a confusion between Babylon's fall in 539 and its capture under Darius I in 520. Rowley not read directly.",
+      "citations": [
+        "src_01M4RSRHKK20JJA4YS6CSHSHGZ"
       ]
     }
   ],

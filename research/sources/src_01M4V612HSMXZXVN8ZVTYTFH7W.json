@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V612HSMXZXVN8ZVTYTFH7W",
+  "title": "A Handbook on Nehemiah (UBS Helps for Translators) — on Neh 2:1",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Noss, Philip A.",
+    "Thomas, Kenneth J."
+  ],
+  "publisher": "United Bible Societies, 2005 (via Translation Insights and Perspectives)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://tips.translation.bible/story/translation-commentary-on-nehemiah-21/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "© United Bible Societies; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched the commentary excerpt",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Nisan could not follow Chislev in the same calendar year; proposals: emend 1:1 to \"the nineteenth year\", count regnal years from the accession, or an autumn new year; translators should render the text as it stands",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Excerpt quoted with permission on the TIPs site.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

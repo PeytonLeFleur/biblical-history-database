@@ -643,13 +643,15 @@ The scene returns to the river of 10:4; Jerome identifies the two figures as the
 
 **Classification:** Strongly supported (machine proposed) · layer: evidence
 
-1 Maccabees gives both dates; Josephus's Antiquities says the Temple was desolate three years. Josephus's Jewish War gives 3½ years, which Montgomery takes as an accommodation to Daniel. Jerome uses the three years against Porphyry's 1,290-day reading.
+1 Maccabees gives both dates (15 Chislev 145; 25 Chislev 148), and Josephus's Antiquities says three years. Three sources give round figures that differ: Josephus's Jewish War "three years and six months" (which Montgomery takes as an accommodation to Daniel) and 2 Maccabees "two years" (2 Macc 10:3, perhaps counting from a different starting point). The dated account of 1 Maccabees is preferred because it supplies both termini; the other figures are recorded as counterevidence.
 
 - *Supporting (direct):* Desecration 15 Chislev 145; rededication 25 Chislev 148. (1 Macc 1:54; 4:52–54) [4]
 - *Supporting (direct):* The Temple desolate three years; desolation 145, rededication 148. (Ant. 12.7.6) [5]
 - *Challenging (indirect):* Josephus B.J. 1.1.1 states the profanation lasted 3½ years — an accommodation to Daniel (Montgomery). (Introduction, p. 97 n.) [6]
+- *Challenging (direct):* The daily sacrifice stopped "for three years and six months". (B.J. 1.1.1) [7]
+- *Challenging (direct):* Sacrifices offered "after they had ceased for two years". (2 Macc 10:3) [8]
 
-*Limitations:* Josephus B.J. known only through Montgomery here.
+*Limitations:* 2 Maccabees' starting point for its "two years" is not stated.
 
 ### 1,290 days counted from 15 Chislev 145 SE end about June 164 BC, close to the death of Antiochus IV.
 
@@ -657,7 +659,7 @@ The scene returns to the river of 10:4; Jerome identifies the two figures as the
 
 Driver (after Cornill: 6 June 164) computes the end from a December 168 start; the death was reported in Babylon in Kislimu 148 (≈ Nov–Dec 164). The arithmetic is sound if the desecration is in 168; on a 167 start it would end in mid-163, after the death was known. Depends on a disputed epoch.
 
-- *Supporting (indirect):* Terminus a quo 15 Chisleu 168; 1,290 days end in June (Cornill: 6 June) 164; Antiochus died in 164. (p. 205 (on 12:11)) [7]
+- *Supporting (indirect):* Terminus a quo 15 Chisleu 168; 1,290 days end in June (Cornill: 6 June) 164; Antiochus died in 164. (p. 205 (on 12:11)) [9]
 - *Context (indirect):* Porphyry already referred the 1,290 days to Antiochus's desolation. (on 12:11) [1]
 
 *Limitations:* Depends on the 168/167 question (review open).
@@ -668,7 +670,7 @@ Driver (after Cornill: 6 June 164) computes the end from a December 168 start; t
 
 Driver traces national resurrection (Hos 6:2; Ezek 37) and individual resurrection limited to Israel (Isa 26:19) before Dan 12:2; Jerome reads 12:2 as the resurrection of all the dead. This is a claim about the history of ideas resting on one modern commentator, not on independent evidence.
 
-- *Supporting (indirect):* "A resurrection of the wicked is taught for the first time"; "many" limits it to Israelites. (Introduction pp. xcii–xciii; p. 201) [7]
+- *Supporting (indirect):* "A resurrection of the wicked is taught for the first time"; "many" limits it to Israelites. (Introduction pp. xcii–xciii; p. 201) [9]
 - *Context (indirect):* Resurrection of all the dead, "some unto eternal life and others unto eternal shame". (on 12:2, 13) [1]
 
 *Limitations:* Dating of Isa 24–27 and of Daniel affects the claim.
@@ -682,15 +684,15 @@ Visionary content and a future resurrection cannot be assessed historically. Thi
 
 ## Related passages and events
 
-- pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **proposed fulfillment** → Death of Antiochus IV at Tabae in Persia (164 BC) (low): The end of the 1,290 days from the desecration coincides roughly with the death of Antiochus IV (164 BC). [7]
+- pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **proposed fulfillment** → Death of Antiochus IV at Tabae in Persia (164 BC) (low): The end of the 1,290 days from the desecration coincides roughly with the death of Antiochus IV (164 BC). [9]
 - pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **proposed fulfillment** → Rededication of the Temple by Judas Maccabaeus (25 Chislev 148 SE, 165/164 BC) (low): The 1,335th day marks the cleansing of the Temple after victory over Antiochus's generals. [1]
 - pro_01M4V2NXW227RBBE6TM0PZ5ZJN → **proposed fulfillment** → Rededication of the Temple by Judas Maccabaeus (25 Chislev 148 SE, 165/164 BC) (speculative): The "awakening" of 12:2 is the Maccabean loyalists' return to victory, read metaphorically. [1]
-- pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **direct reference** → Desecration of the Temple: the "abomination of desolation" (15 Chislev 145 SE, 168/167 BC) (medium): The text's starting point — "the continual burnt offering taken away and the abomination that makes desolate set up" — repeats 11:31; preterist interpreters identify it with 15 Chislev 145 SE, futurists with a future event. [7, 1]
+- pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **direct reference** → Desecration of the Temple: the "abomination of desolation" (15 Chislev 145 SE, 168/167 BC) (medium): The text's starting point — "the continual burnt offering taken away and the abomination that makes desolate set up" — repeats 11:31; preterist interpreters identify it with 15 Chislev 145 SE, futurists with a future event. [9, 1]
 - pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **thematic parallel** → pro_01M4TTS0HJXX550DZHSC4HAMTK (high): Another number for the period of the removed continual offering (2,300 evenings and mornings, 8:14).
 - pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **thematic parallel** → pro_01M4TSKK93WKW4EN8EJXKHK5P6 (high): "A time, times and half a time" (7:25; 12:7).
-- pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **thematic parallel** → pro_01M4V10B5RTYN24Y82472GYNTF (medium): Half a week with the sacrifice made to cease (9:27) — linked by futurist and preterist readers alike. [3, 7]
+- pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **thematic parallel** → pro_01M4V10B5RTYN24Y82472GYNTF (medium): Half a week with the sacrifice made to cease (9:27) — linked by futurist and preterist readers alike. [3, 9]
 - pro_01M4V2NXW2B7GPXHYM6XGVC4W0 → **thematic parallel** → Revelation 12:6 (high): 1,260 days in Revelation (also 11:3; "time, times and half a time" in 12:14).
-- pro_01M4V2NXW227RBBE6TM0PZ5ZJN → **thematic parallel** → Isaiah 26:19 (high): "Your dead shall live … awake and sing, you who dwell in the dust" (Driver). [7]
+- pro_01M4V2NXW227RBBE6TM0PZ5ZJN → **thematic parallel** → Isaiah 26:19 (high): "Your dead shall live … awake and sing, you who dwell in the dust" (Driver). [9]
 - pro_01M4V2NXW227RBBE6TM0PZ5ZJN → **thematic parallel** → John 5:28–29 (high): Those in the tombs come out, to a resurrection of life or of judgment.
 - pro_01M4V2NXW227RBBE6TM0PZ5ZJN → **thematic parallel** → Matthew 24:21 (high): "Great tribulation, such as has not been from the beginning of the world" echoes 12:1.
 - pro_01M4V2NXW227RBBE6TM0PZ5ZJN → **thematic parallel** → Revelation 20:12 (medium): The dead judged from what is written in the books (cf. "written in the book", 12:1).
@@ -705,8 +707,6 @@ Visionary content and a future resurrection cannot be assessed historically. Thi
 
 ## Unanswered questions and research gaps
 
-- Josephus, Jewish War 1.1.1 not read directly.
-- 2 Maccabees 7 (resurrection hope of the martyrs) not read.
 - Qumran Daniel witnesses for ch. 12 not read.
 - Old Greek and Theodotion variants at 12:7 and 12:11–13 read only as quoted by Jerome.
 - 4QDan(c) or other Qumran witnesses to ch. 12 not read.
@@ -719,4 +719,6 @@ Visionary content and a future resurrection cannot be assessed historically. Thi
 4. World English Bible. World English Bible — Apocrypha/Deuterocanon (1 Maccabees; 2 Esdras). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*
 5. Josephus, Whiston, William (trans.). Josephus, Antiquities 12.7.6–7 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
 6. Montgomery, James A.. A Critical and Exegetical Commentary on the Book of Daniel (ICC). T. & T. Clark. <https://archive.org/details/criticalexegetic22montuoft> — *scholarly commentary; verification: claim checked*
-7. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
+7. Josephus, Whiston, William (trans.). Josephus, The Wars of the Jews 1.1.1 (trans. W. Whiston). Project Gutenberg #2850. <https://www.gutenberg.org/ebooks/2850> — *ancient primary text; verification: claim checked*
+8. World English Bible contributors. World English Bible — Apocrypha/Deuterocanon (2 Maccabees 3, 6, 7, 9–11). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*
+9. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*

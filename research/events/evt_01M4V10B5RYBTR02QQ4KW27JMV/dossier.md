@@ -659,19 +659,21 @@ Daniel dates the prayer by Darius the Mede, whom no external source names (see t
 - *Supporting (direct):* Onias, in sanctuary at Daphne near Antioch, is lured out and killed by Andronicus at Menelaus's request; the king later executes Andronicus. (2 Macc 4:33–38) [6]
 - *Supporting (indirect):* The account "is accepted generally by historians" (Ewald, Schürer, Graetz). (p. 140 n. 1) [2]
 - *Challenging (indirect):* 2 Maccabees alone records it; Josephus (B.J. 1.1.1; 7.10.2–3) has Onias himself flee to Egypt and found the temple at Leontopolis; Wellhausen rejected the account. (p. 140 n. 1) [2]
+- *Challenging (direct):* "Onias, the high priest, fled to Ptolemy" and built a temple in the nome of Heliopolis — a different end for the high priest named Onias. (B.J. 1.1.1) [7]
 
-*Limitations:* Josephus not read directly on this point.
+*Limitations:* Whether Josephus's Onias in B.J. 1.1.1 is Onias III or his son (as in Ant. 12.9.7) is itself disputed.
 
 ### 1 Nisan of Artaxerxes I's twentieth year fell on 14 March 445 BC.
 
 **Classification:** Disputed (requires review) · layer: reconstruction
 
-Anderson derives 14 March from the astronomical new moon of 13 March 445 (Airy). Parker & Dubberstein's Babylonian calendar table, based on cuneiform intercalations and computed first visibility, gives 13 April 445 for 1 Nisan of year 20. The Judean calendar of Nehemiah's day need not have matched the Babylonian, so the table does not settle it, but the 14 March date is not the Babylonian one.
+Anderson derives 14 March from the astronomical new moon of 13 March 445 BC computed for him at Greenwich, assuming no intercalary month. Parker & Dubberstein's Babylonian table (built from attested and reconstructed intercalations) places 1 Nisan of year 19 on 26 Mar 446 and of year 20 on 13 Apr 445 — 384 days apart, i.e. a thirteen-month year with an intercalary month (operator arithmetic from the table; whether that intercalation is attested or reconstructed was not checked in the plate). The Judean calendar of Nehemiah's day need not have intercalated as Babylon did, so the table does not prove Anderson wrong, but his date is not the Babylonian one. Separately, the 173,880-day interval: in the proleptic Julian calendar 14 Mar 445 BC to 6 Apr AD 32 is 173,882 days (Julian day numbers; operator calculation); Anderson reaches 173,880 by counting the end-days inclusively and adding only 116 leap days, applying the Gregorian three-in-four-centuries correction to Julian dates (his own footnote).
 
-- *Supporting (direct):* New moon 13 March 445 BC at 7h 9m (Jerusalem), from Airy's letter of 26 June 1877; "the 1st Nisan may be assigned to the 14th March". (pp. 123–124 and note) [7]
+- *Supporting (direct):* New moon 13 March 445 BC at 7h 9m (Jerusalem), from Airy's letter of 26 June 1877; "the 1st Nisan may be assigned to the 14th March". (pp. 123–124 and note) [8]
 - *Challenging (direct):* 1 Nisan of year 20 = 13 April 445 BC in the Babylonian calendar. (Table, Artaxerxes I year 20) [1]
+- *Context (direct):* 476 years × 365 + 24 days (inclusive) + 116 leap days = 173,880; the note explains the Gregorian correction of three leap years in four centuries. (p. 128 and note) [8]
 
-*Limitations:* Babylonian vs Judean intercalation not researched.
+*Limitations:* Judean vs Babylonian intercalation not established for 446/445. P&D Plate I (attested vs reconstructed intercalations) not read in the OCR.
 
 ### Gabriel brought Daniel the word of the seventy weeks.
 
@@ -701,13 +703,12 @@ Driver and Montgomery (after Schürer) cite Demetrius and Josephus as overestima
 
 ## Commentary (interpretation, not historical evidence)
 
-- Guzik leaves Darius unidentified, reads Jeremiah's seventy years literally from the first deportation in 605, and presents the prayer as a model of confession that takes God's promises as a reason to pray. [8]
+- Guzik leaves Darius unidentified, reads Jeremiah's seventy years literally from the first deportation in 605, and presents the prayer as a model of confession that takes God's promises as a reason to pray. [9]
 
 ## Unanswered questions and research gaps
 
 - Scofield Reference Bible (1917) notes on Daniel 9 not found online in the 1917 series.
 - Hoehner (1977) not accessible.
-- Josephus B.J. on Onias not read directly.
 - Old Greek and Theodotion of 9:24–27 not read (only as quoted by Driver).
 - Qumran use of the seventy weeks (e.g. 11QMelchizedek) not researched.
 - The patronymic "son of Ahasuerus" is unexplained by external sources.
@@ -726,5 +727,6 @@ Driver and Montgomery (after Schürer) cite Demetrius and Josephus as overestima
 4. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
 5. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 9. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
 6. World English Bible contributors. World English Bible — Apocrypha/Deuterocanon (2 Maccabees 4). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*
-7. Anderson, Sir Robert. The Coming Prince, or the Seventy Weeks of Daniel (11th edition). Pickering & Inglis (Glasgow), n.d. (first ed. 1881). <https://archive.org/details/comingprince01ande> — *theological commentary; verification: claim checked*
-8. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*
+7. Josephus, Whiston, William (trans.). Josephus, The Wars of the Jews 1.1.1 (trans. W. Whiston). Project Gutenberg #2850. <https://www.gutenberg.org/ebooks/2850> — *ancient primary text; verification: claim checked*
+8. Anderson, Sir Robert. The Coming Prince, or the Seventy Weeks of Daniel (11th edition). Pickering & Inglis (Glasgow), n.d. (first ed. 1881). <https://archive.org/details/comingprince01ande> — *theological commentary; verification: claim checked*
+9. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*

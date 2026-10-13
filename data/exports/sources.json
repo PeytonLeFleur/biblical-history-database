@@ -980,16 +980,28 @@
   "isbn": null,
   "standard_reference": null,
   "license": null,
-  "verification_level": "metadata_verified",
+  "verification_level": "claim_checked",
   "verification_log": [
    {
     "level": "metadata_verified",
     "date": "2026-10-12",
     "method": "Tübingen OCB catalogue record KEI00121498",
     "notes": null
+   },
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the chapter PDF from biblicalstudies.org.uk (reproduced with the author's permission): https://biblicalstudies.org.uk/pdf/tp/notes-daniel/daniel_wiseman.pdf",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "pp. 9–18: rejects the Gubaru theory (no evidence Gubaru bore a royal title; contracts of 535–524 call him governor) and proposes Darius the Mede = Cyrus, reading 6:28 appositionally; on Dan 1:1, Daniel's accession-year reckoning vs Jeremiah's non-accession reckoning removes the discrepancy, and the extant data \"does not allow any dogmatic assertion against the historical accuracy of this verse\"",
+    "notes": null
    }
   ],
-  "accessed_at": null,
+  "accessed_at": "2026-10-13",
   "access_notes": "Bibliographic record verified (Tübingen catalogue). The PDF on biblicalstudies.org.uk returned HTTP 403 to automated access; content NOT read. Its treatment of Dan 1:1 is known here only from secondary mentions.",
   "reports_on_source_id": null,
   "outlet": null,
@@ -4634,6 +4646,690 @@
     "level": "claim_checked",
     "date": "2026-10-13",
     "method": "Porphyry reads 12:1–3 metaphorically of the Maccabean loyalists rising from caves \"as if\" from the dead; Jerome: bodily resurrection after the Antichrist; time, times and half = 3½ years (Porphyry and Jerome agree on the idiom); the Temple was defiled three years (1 Macc; Josephus), so the 1,290 days belong to the Antichrist; 1,335 = 45 more days before Christ's coming (Porphyry: victory over Antiochus's generals and the cleansing); Theodotion: \"you shall rise again in your turn\"; the two figures on the banks = angels of the Greeks and Persians",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612H01FEGBWQMX3MG073D",
+  "title": "Biblical Commentary on the Book of Daniel (Keil & Delitzsch, Biblical Commentary on the Old Testament)",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Keil, C. F.",
+   "Easton, M. G. (trans.)"
+  ],
+  "publisher": "T. & T. Clark (Edinburgh), 1872",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/bookofprophetdan00keil",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1872)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the OCR text (chs. 9 and 12)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "pp. 373–374, 399–402: the seventy \"sevens\" are symbolic, not chronological (after Kliefoth and Leyrer); seven sevens from the word to restore Jerusalem (Isa 44:28, Cyrus) to the Messiah, sixty-two of building in troubled times, the last week the final enemy; pp. 500–502: the 1,290 and 1,335 days are symbolic; no event 45 days after Antiochus's death marks a better time (1 Macc 6:18–54; 7:26–50)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612H4WMYWSAQEPE8V8WTT",
+  "title": "Dating ancient manuscripts using radiocarbon and AI-based writing style analysis",
+  "source_type": "scientific_paper",
+  "authors": [
+   "Popović, Mladen",
+   "Dhali, Maruf A.",
+   "Schomaker, Lambert",
+   "van der Plicht, Johannes",
+   "Rasmussen, Kaare Lund",
+   "La Nasa, Jacopo",
+   "Degano, Ilaria",
+   "Colombini, Maria Perla",
+   "Tigchelaar, Eibert"
+  ],
+  "publisher": "PLOS ONE 20(6): e0323185 (2025)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323185",
+  "doi": "10.1371/journal.pone.0323185",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the article",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "4Q114 (4QDanᶜ): accepted 2σ calibrated range 230–160 BCE (not the complete calibrated range); the range \"overlaps with the period in which the final part of the biblical book of Daniel was presumably authored\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Open-access article read online.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612H65VZ3MZ0JQCE3FZT5",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — prologue",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Jerome",
+   "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem, prologue",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read the prologue in the downloaded page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Porphyry's twelfth book argued that the book was composed in Judaea under Antiochus Epiphanes, narrating the past, accurate to Antiochus and false beyond; answered by Eusebius, Apollinaris and Methodius; Jerome: this very attack \"testifies to Daniel's accuracy\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612H9KETG4S4P3GY7AMN7",
+  "title": "World English Bible — Apocrypha/Deuterocanon (Sirach 44–49)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: Sirach 44–49",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read Sirach 49 in the downloaded USFM (46-SIReng-web.usfm)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Sir 49:6–13 names Jeremiah, Ezekiel, the Twelve, Zerubbabel, Jeshua and Nehemiah; neither Daniel nor Ezra is named in the praise of famous men",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612HBQ0CKTBVFSJ0MJGAR",
+  "title": "World English Bible — Apocrypha/Deuterocanon (1 Maccabees 2)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 1 Macc 2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read 1 Maccabees 2 in the downloaded USFM",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "2:59–60: Hananiah, Azariah and Mishael saved from the flame; Daniel delivered from the mouth of lions — cited in Mattathias's dying speech",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612HD88HXET8YJ4PPW5EN",
+  "title": "World English Bible — Apocrypha/Deuterocanon (2 Maccabees 3, 6, 7, 9–11)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 2 Macc 3, 6, 7, 9–11",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded USFM (53-2MAeng-web.usfm)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "3:7–28 Heliodorus sent by King Seleucus for the Temple treasury; 6:2 the sanctuary renamed for Olympian Zeus; 7:9, 14 martyrs' hope of being \"raised up\"; 9:1–29 Antiochus retreats from Persepolis and dies in the mountains; 10:1–8 the Temple recovered and cleansed on 25 Chislev, sacrifices \"after they had ceased for two years\"; 11:21, 33, 38 letters dated year 148; 11:23 Antiochus V: \"our father passed to the gods\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612HGJCFWB5SBV98K3KN4",
+  "title": "Josephus, The Wars of the Jews 1.1.1 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Josephus",
+   "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2850",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2850",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, B.J. 1.1.1 (Whiston)",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Antiochus spoiled the Temple and stopped the daily sacrifice \"for three years and six months\"; Onias the high priest fled to Ptolemy and built a temple in the nome of Heliopolis",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612HJRE5TTM7C48FCSNDW",
+  "title": "Josephus, Antiquities 12.3.3 and 12.9.1 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Josephus",
+   "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 12.3.3; 12.9.1 (Whiston)",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "12.3.3: Antiochus III overcame Scopas \"at the fountains of Jordan\", the Jews received him into Jerusalem; Josephus quotes Polybius book 16; 12.9.1: Antiochus IV died in Persia after hearing of the Jews' success; Josephus disputes Polybius's explanation (the temple of Diana)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612HNC5THP1WNSPTN6FTK",
+  "title": "Livy, History of Rome 37.38–44 and 45.12 (trans. W. A. McDevitte)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Livy",
+   "McDevitte, William A. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #44318",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/44318",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Livy 37.38–44; 45.12",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the Gutenberg text (books 37 to the end)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Book 37 (consuls L. Cornelius Scipio and C. Laelius): Antiochus camps near Magnesia at Sipylus; the army routed, 44: up to 50,000 foot and 3,000 horse said killed; 45.12: Roman envoys met Antiochus at Eleusine four miles from Alexandria; Popilius drew a line round the king with a wand; he replied \"I will do as the senate directs\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612HQZA31B8ZK7KFZM2FF",
+  "title": "Seleucid Era — Encyclopaedia Iranica",
+  "source_type": "historical_reference",
+  "authors": [
+   "Strootman, Rolf"
+  ],
+  "publisher": "Encyclopaedia Iranica (online), 2015",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.iranicaonline.org/articles/seleucid-era/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Two calendars: the Babylonian year began in spring with Nisannu, the Macedonian year at the autumn equinox; year 1 SE = 312/311 BCE",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Published 25 Mar 2015; does not say which calendar 1 or 2 Maccabees uses.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612HSMXZXVN8ZVTYTFH7W",
+  "title": "A Handbook on Nehemiah (UBS Helps for Translators) — on Neh 2:1",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Noss, Philip A.",
+   "Thomas, Kenneth J."
+  ],
+  "publisher": "United Bible Societies, 2005 (via Translation Insights and Perspectives)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://tips.translation.bible/story/translation-commentary-on-nehemiah-21/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "© United Bible Societies; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched the commentary excerpt",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Nisan could not follow Chislev in the same calendar year; proposals: emend 1:1 to \"the nineteenth year\", count regnal years from the accession, or an autumn new year; translators should render the text as it stands",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Excerpt quoted with permission on the TIPs site.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V612HWTQEVMFANE0915BMY",
+  "title": "Ulai — International Standard Bible Encyclopedia",
+  "source_type": "historical_reference",
+  "authors": [
+   "Pinches, T. G."
+  ],
+  "publisher": "ISBE, ed. J. Orr (1915; Eerdmans reprint 1939) — internationalstandardbible.com",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.internationalstandardbible.com/U/ulai.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1915 edition); paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the article",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "\"There is but little doubt that the Ulai is the Kerkhah\"; Assyrian Ulaa/Ulaia, with Ashurbanipal's reliefs of the campaign against Te-umman",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "The web page gives the 1939 Eerdmans printing.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V66VT6MGRSHTTHGDBDG2HE",
+  "title": "The Aramaic of Daniel",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Kitchen, K. A."
+  ],
+  "publisher": "In D. J. Wiseman (ed.), Notes on Some Problems in the Book of Daniel, Tyndale Press, 1965, pp. 31–79",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblicalstudies.org.uk/pdf/tp/notes-daniel/daniel_kitchen.pdf",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Reproduced online with permission; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the chapter PDF",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "p. 79 summary: the date of Daniel \"cannot be decided upon linguistic grounds alone\"; a second-century date cannot be based on three Greek words, and a late sixth-century date is early enough for the Persian words; nine-tenths of the vocabulary is attested in the fifth century or earlier",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V66VT95XT35Z03MCCTEWSJ",
+  "title": "The Musical Instruments in Nebuchadnezzar's Orchestra",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Mitchell, T. C.",
+   "Joyce, R."
+  ],
+  "publisher": "In D. J. Wiseman (ed.), Notes on Some Problems in the Book of Daniel, Tyndale Press, 1965, pp. 19–27",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblicalstudies.org.uk/pdf/tp/notes-daniel/daniel_mitchell.pdf",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Reproduced online with permission; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the chapter PDF",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "The instruments are poorly identifiable; kitharis occurs already in Homer; with such scanty material \"a sixth-century date for the orchestra cannot be categorically denied\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V6J8YWT2RHB66F1AJWPJAK",
+  "title": "The Royal Inscriptions of Nabopolassar (625–605 BC) and Nebuchadnezzar II (604–562 BC), Kings of Babylon, Part 1 (RINBE 1/1)",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Novotny, Jamie",
+   "Weiershäuser, Frauke"
+  ],
+  "publisher": "Eisenbrauns (University Park, PA), 2024",
+  "journal": null,
+  "published_date": null,
+  "url": "https://epub.ub.uni-muenchen.de/118421/1/RINBE1-1_OA.pdf",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Open Access PDF (LMU); © The Pennsylvania State University; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the open-access PDF from LMU",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Introduction p. 13: at Babylon Nebuchadnezzar worked on no fewer than thirteen temples and the ziggurat, renovated one palace and built two more, completed the inner and outer walls \"nearly doubling Babylon's size\", redug a canal, and raised the processional ways three times; Nbk. 2, the East India House Inscription (BM 129397), a 1,592-word text whose prologue summarises his building at Babylon and Borsippa",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read the Introduction in the open-access PDF.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V6J8Z05GZD06N61MV18FV3",
+  "title": "The Royal Inscriptions of Amēl-Marduk (561–560 BC), Neriglissar (559–556 BC), and Nabonidus (555–539 BC), Kings of Babylon (RINBE 2)",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Weiershäuser, Frauke",
+   "Novotny, Jamie"
+  ],
+  "publisher": "Eisenbrauns (University Park, PA), 2020",
+  "journal": null,
+  "published_date": null,
+  "url": "https://epub.ub.uni-muenchen.de/73674/1/RINBE2_OAPDF.pdf",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Open Access PDF (LMU); paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the open-access PDF from LMU",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Introduction n. 46: the Ḫarrān Stele gives Nabonidus ten years in Arabia, the Qumran Prayer of Nabonidus seven years in Tēmā; Nabonidus claims to have begun building projects on instruction received in dreams, \"one acceptable means\" of divine communication; Nabonidus 3 (Babylon Stele) vi 12′–36′: in a dream Nebuchadnezzar (II) asks Nabonidus to report what he has seen (Jupiter, the moon and Marduk)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read the Introduction and Nabonidus 3 (Babylon Stele) in the open-access PDF.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4",
+  "title": "Babylonian Ration List: King Jehoiakhin in Exile, 592/1 BCE — Center for Online Judaic Studies",
+  "source_type": "museum_catalog",
+  "authors": [
+   "Center for Online Judaic Studies"
+  ],
+  "publisher": "cojs.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://cojs.org/babylonian_ration_list-_king_jehoiakhin_in_exile-_592-1_bce/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "© Center for Online Judaic Studies; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Monthly ration lists name \"Ya'u-kīnu, king of the land of Yahudu\" with other dignitaries including his five sons; dated to Nebuchadnezzar's 13th year (592/1 BCE); held in Berlin",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Educational presentation of the tablet (Staatliche Museen zu Berlin); does not name the translation used; Weidner's 1939 edition not read.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V6J8Z6JAM3YR75D53V5SJX",
+  "title": "Herodotus, Histories 1.107–108 (trans. G. C. Macaulay)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Herodotus",
+   "Macaulay, G. C. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2707",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2707",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Herodotus, Histories 1.107–108",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Astyages delivers his dreams \"to the interpreters of dreams\" of the Magi, who interpret them of his daughter's offspring",
     "notes": null
    }
   ],

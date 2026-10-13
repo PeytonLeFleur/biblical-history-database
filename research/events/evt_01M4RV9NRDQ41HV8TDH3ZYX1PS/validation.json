@@ -1,7 +1,7 @@
 {
   "event_id": "evt_01M4RV9NRDQ41HV8TDH3ZYX1PS",
   "revision": 1,
-  "validated_at": "2026-10-12",
+  "validated_at": "2026-10-13",
   "checks": [
     {
       "name": "repository_validation",
@@ -41,7 +41,8 @@
   ],
   "publication_level": "researched",
   "open_reviews": [
-    "rev_01M4RV9NRNGJH8Z2QE3JX3Z994"
+    "rev_01M4RV9NRNGJH8Z2QE3JX3Z994",
+    "rev_01M4V612J97NNPVT85BJH4M8WY"
   ],
   "research_gaps": [
     "BM 34113 (Grayson BHLT) not accessed; museum page blocked.",

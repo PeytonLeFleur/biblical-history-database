@@ -2,7 +2,36 @@
   "event_id": "evt_01M4V26XJFV4SE5BXJ3X0QF67S",
   "status": "complete",
   "resume_from": null,
-  "name_searches": [],
+  "name_searches": [
+    {
+      "name": "Seleucus [seleucus-iv-philopator]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Antiochus [antiochus-iv-epiphanes]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Epiphanes [antiochus-iv-epiphanes]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "king of the north [seleucid-empire]",
+      "books_searched": 66,
+      "hits": [
+        "Dan.11.6",
+        "Dan.11.7",
+        "Dan.11.8",
+        "Dan.11.11",
+        "Dan.11.13",
+        "Dan.11.15",
+        "Dan.11.40"
+      ]
+    }
+  ],
   "relationships": [],
   "entity_resolutions": [],
   "new_constraints": []

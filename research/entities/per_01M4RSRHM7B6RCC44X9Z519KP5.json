@@ -4,7 +4,16 @@
   "slug": "cyrus-ii",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4TPW4AY6AQG3ZA8NDG70BFB",
+    "src_01M4TQMMKWN7N51NSGCZSG9VQ3",
+    "src_01M4TQMMKS7CTR3NT9GWHMYQ0M",
+    "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+    "src_01M4TQMMM23GMDX16EMJEGD3RJ"
+  ],
   "notes": null,
   "canonical_name": "Cyrus II (the Great)",
   "aliases": [

@@ -234,6 +234,8 @@ export function validateRepository(store: ResearchStore, opts: { allowFixtures?:
     for (const [k, st] of Object.entries(ev.stages)) {
       if ((st.status === 'not_applicable' || st.status === 'blocked') && !st.reason) err(`${base}/event.json`, `stage ${k} is ${st.status} without a reason`);
     }
+    // SPEC 9.3 #1: findings with critical priority go to the owner review queue.
+    if (ev.priority === 'critical' && !reviewedIds.has(ev.id)) err(`${base}/event.json`, 'critical-priority event has no review item (SPEC 9.3 #1)');
     const known = (x: string) => eventIds.includes(x) || entityIds.has(x);
     const ctx = attempt(`${base}/context.json`, () => store.context(id));
     if (ctx) {
@@ -281,6 +283,10 @@ export function validateRepository(store: ResearchStore, opts: { allowFixtures?:
         // SPEC 9.3 #5: a proposed prophetic fulfillment always goes to the owner review queue.
         if (r.type === 'proposed_fulfillment' && (!r.review_required || !reviewedIds.has(r.id))) {
           err(`${base}/crossrefs.json`, `${r.id} proposed_fulfillment must be review_required with a queued review item`);
+        }
+        // Rule 04: uncertain identities (possible_identity, or same_event below high confidence) always go to review.
+        if ((r.type === 'possible_identity' || (r.type === 'same_event' && r.confidence !== 'high')) && (!r.review_required || !reviewedIds.has(r.id))) {
+          err(`${base}/crossrefs.json`, `${r.id} ${r.type} must be review_required with a queued review item`);
         }
         const key = [JSON.stringify(r.from), JSON.stringify(r.to)].sort().join('|');
         const set = pairs.get(key) ?? new Set();

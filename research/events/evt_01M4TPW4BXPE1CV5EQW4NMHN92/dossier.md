@@ -674,9 +674,10 @@ The Verse Account says Nabonidus "entrusted the kingship" to his eldest son; the
 Babylonian documents call him "son of the king", never king, and do not date by his years; he was Nabonidus's son. Conservative interpreters read "king" as functional co-regency (kingship entrusted to him) and "father" as ancestor or royal predecessor, possibly through a mother descended from Nebuchadnezzar (a proposal, e.g. Shea 1982, via Wikipedia). Critical scholars read both as historical errors of a later author.
 
 - *Supporting (direct):* Nabonidus gave the army to his eldest son and "entrusted the kingship to him" before going to Tayma. (col. ii 5–6) [1]
-- *Challenging (indirect):* Contemporary texts call him mār šarri ("son of the king"); no document is dated by his regnal years and he never bore the title šarru. (Title and status) [12]
-- *Challenging (indirect):* Belshazzar was Nabonidus's son, not Nebuchadnezzar's, and never became king; Darius the Mede is unknown to history. (Historical problems (Seow 2003, pp. 4–6)) [11]
+- *Challenging (direct):* A contract names "Bēl-rīṣūa, the servant of Belshazzar, the son of the king" — the title in Babylonian documents is "son of the king". (p. 81 (contract)) [3]
 - *Context (indirect):* Josephus equates Daniel's Baltasar with Naboandelus (Nabonidus), showing an ancient attempt to reconcile Daniel with Babylonian king-lists. (Ant. 10.11.2) [13]
+- *Context (indirect):* Contemporary texts call him mār šarri ("son of the king"); no document is dated by his regnal years and he never bore the title šarru. (Title and status) [12]
+- *Context (indirect):* Belshazzar was Nabonidus's son, not Nebuchadnezzar's, and never became king; Darius the Mede is unknown to history. (Historical problems (Seow 2003, pp. 4–6)) [11]
 
 *Limitations:* Shea 1982 not read.
 

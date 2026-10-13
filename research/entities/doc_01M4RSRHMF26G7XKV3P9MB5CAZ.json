@@ -4,7 +4,9 @@
   "slug": "berossus-babyloniaca",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RSRHKGZKPHPEASER435NC6"
+  ],
   "notes": null,
   "name": "Berossus, Babyloniaca (fragments)",
   "document_type": "Historiography (fragmentary; preserved in later authors)",

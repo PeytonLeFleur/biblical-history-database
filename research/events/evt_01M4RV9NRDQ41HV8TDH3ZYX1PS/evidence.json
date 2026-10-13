@@ -88,11 +88,13 @@
       "classification": "independently_corroborated",
       "reasoning": "His own foundation inscriptions (e.g. the East India House Inscription, found at Babylon) and the record of his restoration of Esagila, Etemenanki, the Ishtar Gate and palaces attest the building programme.",
       "supporting_evidence": [
+        "evd_01M4V6J8ZAQXQ46FQJWQRJTAKQ"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
         "evd_01M4RV9NRM594FB8ATNBBYJ482",
         "evd_01M4RV9NRMFAG15FC6VCAS8XWT"
       ],
-      "counterevidence": [],
-      "contextual_evidence": [],
       "limitations": [
         "Corroborates the setting of the boast, not the episode."
       ],
@@ -144,15 +146,16 @@
       "statement": "A Qumran text (4Q242) narrates Nabonidus's seven-year affliction at Tayma and its healing by God.",
       "layer": "evidence",
       "passage": null,
-      "classification": "independently_corroborated",
-      "reasoning": "The manuscript exists (Israel Museum) and its content is described in the scholarly literature summarised by Wikipedia; it is a Jewish literary text of the 1st century BC (manuscript date), not a Babylonian record.",
+      "classification": "strongly_supported",
+      "reasoning": "The content of 4Q242 is known here through two secondary lines — the critical edition of Nabonidus's inscriptions (RINBE 2, citing COS 1) for the seven years at Tēmā, and the encyclopedia summary for the illness and its cure. The Qumran text itself was not read. Reclassified from independently_corroborated during the final Daniel audit because no direct reading of the text was made.",
       "supporting_evidence": [
-        "evd_01M4RV9NRMQMA75M3RE0586A3G"
+        "evd_01M4RV9NRMQMA75M3RE0586A3G",
+        "evd_01M4V6J8ZAGGRS459QB571X32N"
       ],
       "counterevidence": [],
       "contextual_evidence": [],
       "limitations": [
-        "Secondary summary; editions not read."
+        "4Q242 not read in an edition or translation directly."
       ],
       "reviewer_status": "machine_proposed",
       "review_required": false,
@@ -181,7 +184,7 @@
         "clm_01M4RV9NRMK5MMJ4VPDPYXFX58"
       ],
       "source_id": "src_01M4RV9NQJFHHHV4S9K9WRY17E",
-      "stance": "supports",
+      "stance": "contextual",
       "strength": "direct",
       "finding": "A foundation tablet of Nebuchadnezzar from Babylon records his temple building and care for the shrines of Babylon and Borsippa.",
       "locator": "Description",
@@ -197,7 +200,7 @@
         "clm_01M4RV9NRMK5MMJ4VPDPYXFX58"
       ],
       "source_id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
-      "stance": "supports",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "Nebuchadnezzar restored Esagila, completed Etemenanki, rebuilt the Ishtar Gate and Processional Street, and built the North and Summer palaces; most of his inscriptions concern building.",
       "locator": "Building works section",
@@ -256,6 +259,38 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "prayer-of-nabonidus"
+    },
+    {
+      "id": "evd_01M4V6J8ZAQXQ46FQJWQRJTAKQ",
+      "claim_ids": [
+        "clm_01M4RV9NRMK5MMJ4VPDPYXFX58"
+      ],
+      "source_id": "src_01M4V6J8YWT2RHB66F1AJWPJAK",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "At Babylon he worked on at least thirteen temples and the ziggurat, palaces, the inner and outer walls (nearly doubling the city), a canal and the processional ways; the East India House Inscription summarises his building.",
+      "locator": "Introduction p. 13; Nbk. 2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "neo-babylonian-royal-inscriptions"
+    },
+    {
+      "id": "evd_01M4V6J8ZAGGRS459QB571X32N",
+      "claim_ids": [
+        "clm_01M4RV9NRMX5JZZHTC99D5HVMS"
+      ],
+      "source_id": "src_01M4V6J8Z05GZD06N61MV18FV3",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The Prayer of Nabonidus (cited after COS 1) gives Nabonidus seven years in Tēmā, against ten years in Arabia in the Ḫarrān Stele.",
+      "locator": "Introduction n. 46",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "rinbe"
     }
   ],
   "artifacts": [

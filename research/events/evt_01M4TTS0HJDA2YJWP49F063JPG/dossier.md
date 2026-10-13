@@ -641,7 +641,7 @@ Susa was the capital of Elam and later a principal residence of the Persian king
   - Susa (Pleiades 912936): certain [2]
 - Ulai (Eulaeus) (River by which Daniel stood in the vision; confidence: possible)
   - Saimarreh/Eulaeus? (Pleiades 903109, uncertain): possible [3]
-  - Karkheh/Eulaeus? (Pleiades 912877, uncertain): possible [4]
+  - Karkheh/Eulaeus? (Pleiades 912877, uncertain): probable [4]
 
 ## Competing reconstructions
 

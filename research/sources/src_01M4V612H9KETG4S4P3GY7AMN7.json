@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V612H9KETG4S4P3GY7AMN7",
+  "title": "World English Bible — Apocrypha/Deuterocanon (Sirach 44–49)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: Sirach 44–49",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read Sirach 49 in the downloaded USFM (46-SIReng-web.usfm)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Sir 49:6–13 names Jeremiah, Ezekiel, the Twelve, Zerubbabel, Jeshua and Nehemiah; neither Daniel nor Ezra is named in the praise of famous men",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

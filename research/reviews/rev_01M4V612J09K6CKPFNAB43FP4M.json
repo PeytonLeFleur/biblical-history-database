@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V612J09K6CKPFNAB43FP4M",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4RSRHN76RD9MNQEMHQNEJ23",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Ezekiel's \"Daniel\" (dnʾl) may be this exile or, as many scholars argue, the legendary Ugaritic Danel",
+  "triggers": [
+    "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.944Z",
+  "decisions": [],
+  "is_fixture": false
+}

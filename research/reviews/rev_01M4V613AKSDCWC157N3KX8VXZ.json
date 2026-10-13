@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V613AKSDCWC157N3KX8VXZ",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V6137SM92QXS8DAKMKNEBP",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Symbolic weeks: from Cyrus's word to Christ, the age of the church, and the last enemy",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:39.731Z",
+  "decisions": [],
+  "is_fixture": false
+}

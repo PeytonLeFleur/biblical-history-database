@@ -654,12 +654,13 @@ Two years after Cyrus's first-year decree (Ezra 1), Daniel is still in Babylonia
 
 **Classification:** Disputed (requires review) · layer: reconstruction
 
-Driver argues the title was given to Persian kings only after the empire, to distinguish them from Greek rulers. The Behistun inscription (§1, Livius translation) has Darius call himself "the king of Persia" among his titles (other renderings: "king in Persia"). The Hebrew usage in Ezra and Daniel versus royal Persian titulary is not settled by these two sources.
+Driver argues the title was given to Persian kings only after the empire, to distinguish them from Greek rulers. The Behistun inscription (§1, Livius translation) has Darius call himself "the king of Persia" among his titles (other renderings: "king in Persia"). The Hebrew usage in Ezra and Daniel versus royal Persian titulary is not settled by these two sources. Re-checked: the Old Persian of DB §1 reads xšâyathiya Pârsaiy (Livius transliteration). Pârsaiy is the locative ("king in Persia", operator note on standard Old Persian grammar), which Livius renders "of Persia"; so Darius used a Persia-title, but in the locative form, which narrows rather than removes the challenge to Driver's argument. Driver's point concerns the Hebrew/Aramaic usage "king of Persia" as a distinguishing title; Ezra–Nehemiah use it too.
 
 - *Supporting (indirect):* "King of Persia": a title not borne by the Persian kings while the empire lasted, though often given them afterwards. (p. 152 (on 10:1)) [2]
 - *Challenging (direct):* Darius: "the great king, king of kings, the king of Persia, the king of countries" (Livius translation). (DB §1) [7]
+- *Context (direct):* xšâyathiya Pârsaiy — "king in/of Persia" (Livius renders "of"). (DB col. i line 2 (transliteration)) [7]
 
-*Limitations:* Old Persian wording not checked directly.
+*Limitations:* Driver's claim is about Hebrew usage, Behistun about Persian titulary; neither source addresses the other directly.
 
 ### Daniel saw a heavenly messenger and heard of conflicts among heavenly princes.
 
@@ -716,6 +717,8 @@ Driver identifies the first month as Nisan, so the festivals of 14–21 Nisan fe
 - pro_01M4V26XK6CDCWT58W40VAWF13 → **thematic parallel** → 2 Thessalonians 2:3–4 (medium): The man of lawlessness who exalts himself above every god (Jerome; Guzik). [8, 10]
 - pro_01M4V26XK6WA1HHE7SNBA2JNX6 → **direct reference** → Achaemenid Persian Empire (high): The text names Persia (11:2).
 - pro_01M4V26XK6WA1HHE7SNBA2JNX6 → **direct reference** → Macedonian empire of Alexander the Great (medium): The text names "the realm of Greece" (Yavan, 11:2).
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **thematic parallel** → Numbers 24:24 (medium): "Ships shall come from the coast of Kittim" — the only other ship-of-Kittim oracle (name search "Kittim").
+- pro_01M4V26XK6WA1HHE7SNBA2JNX6 → **thematic parallel** → Ezra 4:5–7 (medium): Ezra names Cyrus, Darius, Ahasuerus and Artaxerxes as kings of Persia — the canonical list against which Dan 11:2 is read.
 
 ## Commentary (interpretation, not historical evidence)
 
@@ -723,7 +726,6 @@ Driver identifies the first month as Nisan, so the festivals of 14–21 Nisan fe
 
 ## Unanswered questions and research gaps
 
-- Old Persian wording of DB §1 not checked.
 - Deut 32:8 at Qumran not read directly.
 - Old Greek of Daniel 10 not read.
 - Old Greek and Theodotion differences in ch. 10 not read beyond Jerome's notes.

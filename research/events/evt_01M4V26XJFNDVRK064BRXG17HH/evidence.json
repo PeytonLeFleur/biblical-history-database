@@ -54,7 +54,8 @@
       "reasoning": "1 Maccabees and Josephus agree on the year and act (Josephus partly depends on 1 Maccabees).",
       "supporting_evidence": [
         "evd_01M4V26XMM0BQ6909M39Q2XQWG",
-        "evd_01M4V26XMM5DQAFV88VDCSRCDX"
+        "evd_01M4V26XMM5DQAFV88VDCSRCDX",
+        "evd_01M4V6138F2D6200VXCDPPK6DJ"
       ],
       "counterevidence": [],
       "contextual_evidence": [],
@@ -78,7 +79,9 @@
       "counterevidence": [
         "evd_01M4V26XMMSC8AR23RZE24V51E"
       ],
-      "contextual_evidence": [],
+      "contextual_evidence": [
+        "evd_01M4V6138FT68P3434PCEZ052X"
+      ],
       "limitations": [],
       "reviewer_status": "requires_review",
       "review_required": true,
@@ -149,13 +152,44 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "montgomery-1927"
+    },
+    {
+      "id": "evd_01M4V6138FT68P3434PCEZ052X",
+      "claim_ids": [
+        "clm_01M4V26XMMG122X4N6NDVR04EJ"
+      ],
+      "source_id": "src_01M4V612HQZA31B8ZK7KFZM2FF",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The era was reckoned in a Babylonian (spring, Nisannu) and a Macedonian (autumn) calendar; year 1 SE = 312/311 BCE. Does not say which 1 Maccabees uses.",
+      "locator": "Seleucid Era",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "iranica"
+    },
+    {
+      "id": "evd_01M4V6138F2D6200VXCDPPK6DJ",
+      "claim_ids": [
+        "clm_01M4V26XMMQBQRX59JAE8X3SAV"
+      ],
+      "source_id": "src_01M4V612HD88HXET8YJ4PPW5EN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The sanctuary in Jerusalem was polluted and called by the name of Olympian Zeus.",
+      "locator": "2 Macc 6:2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "2-maccabees"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
   "research_gaps": [
-    "Modern study of the Seleucid-era epochs not read (carried over).",
-    "2 Maccabees 6 not read."
+    "No accessible study states which Seleucid-era epoch 1 Maccabees uses; the question remains open (Iranica read; specialist literature not accessible)."
   ]
 }

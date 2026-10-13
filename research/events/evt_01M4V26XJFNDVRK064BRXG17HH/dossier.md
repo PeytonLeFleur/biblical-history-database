@@ -648,6 +648,7 @@ After his return from Egypt Antiochus IV plundered the Temple (1 Macc 1:20–24,
 
 - *Supporting (direct):* 15 Chislev 145: an abomination of desolation built on the altar; sacrifice on the idol altar from the 25th. (1 Macc 1:54–59) [1]
 - *Supporting (direct):* Desolation in 145 SE, 153rd Olympiad; "according to the prophecy of Daniel". (Ant. 12.5.4; 12.7.6) [2]
+- *Supporting (direct):* The sanctuary in Jerusalem was polluted and called by the name of Olympian Zeus. (2 Macc 6:2) [6]
 
 *Limitations:* Josephus partly dependent on 1 Maccabees.
 
@@ -659,16 +660,17 @@ Same Seleucid-era epoch question as the rededication; the synchronism window spa
 
 - *Supporting (indirect):* 153rd Olympiad (168–164 BC) — consistent with either year (operator note). (Ant. 12.5.4) [2]
 - *Challenging (indirect):* Profanation Chislev 145 = 168. (on 8:14 and 12:11) [5]
+- *Context (indirect):* The era was reckoned in a Babylonian (spring, Nisannu) and a Macedonian (autumn) calendar; year 1 SE = 312/311 BCE. Does not say which 1 Maccabees uses. (Seleucid Era) [7]
 
 ## Related passages and events
 
 - this event → **followed by** → Rededication of the Temple by Judas Maccabaeus (25 Chislev 148 SE, 165/164 BC) (high): Three years and ten days later the altar was rededicated (1 Macc 4:52–54). [1]
 - this event → **thematic parallel** → Matthew 24:15 (high): Jesus cites Daniel's "abomination of desolation" for a coming desolation.
+- this event → **thematic parallel** → Mark 13:14 (medium): Mark's parallel to Matt 24:15: "the abomination of desolation, spoken of by Daniel the prophet".
 
 ## Unanswered questions and research gaps
 
-- Modern study of the Seleucid-era epochs not read (carried over).
-- 2 Maccabees 6 not read.
+- No accessible study states which Seleucid-era epoch 1 Maccabees uses; the question remains open (Iranica read; specialist literature not accessible).
 
 ## Disputes
 
@@ -681,3 +683,5 @@ Same Seleucid-era epoch question as the rededication; the synchronism window spa
 3. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
 4. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
 5. Montgomery, James A.. A Critical and Exegetical Commentary on the Book of Daniel (ICC). T. & T. Clark. <https://archive.org/details/criticalexegetic22montuoft> — *scholarly commentary; verification: claim checked*
+6. World English Bible contributors. World English Bible — Apocrypha/Deuterocanon (2 Maccabees 3, 6, 7, 9–11). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*
+7. Strootman, Rolf. Seleucid Era — Encyclopaedia Iranica. Encyclopaedia Iranica (online), 2015. <https://www.iranicaonline.org/articles/seleucid-era/> — *historical reference; verification: claim checked*

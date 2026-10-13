@@ -54,7 +54,8 @@
       "reasoning": "Polybius (partly via Josephus) and Jerome agree; the exact year is uncertain in the sources read.",
       "supporting_evidence": [
         "evd_01M4V26XM4T6N91WCR0GFB1R4M",
-        "evd_01M4V26XM4HN7PAY7GBHHFWPTD"
+        "evd_01M4V26XM4HN7PAY7GBHHFWPTD",
+        "evd_01M4V6138D7DJCSW6KS9BGE0JK"
       ],
       "counterevidence": [],
       "contextual_evidence": [],
@@ -96,12 +97,28 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "jerome-porphyry"
+    },
+    {
+      "id": "evd_01M4V6138D7DJCSW6KS9BGE0JK",
+      "claim_ids": [
+        "clm_01M4V26XM4ZQ9BABZ21K5Q1CNE"
+      ],
+      "source_id": "src_01M4V612HJRE5TTM7C48FCSNDW",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Antiochus overcame Scopas at the fountains of Jordan; the Jews received him into Jerusalem; Josephus quotes Polybius book 16.",
+      "locator": "Ant. 12.3.3",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "polybius"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
   "research_gaps": [
-    "Josephus Ant. 12.3.3 not read directly."
+    "Exact year (200 or 198) not fixed by the sources read."
   ]
 }

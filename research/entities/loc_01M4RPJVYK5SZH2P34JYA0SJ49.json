@@ -4,7 +4,11 @@
   "slug": "gezer",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RPJVYFQR5C9FRY6HYP9NQP",
+    "src_01M4RPJVYDW55BD6H47AFG78AA",
+    "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
   "notes": null,
   "primary_name": "Gezer",
   "place_type": "settlement",

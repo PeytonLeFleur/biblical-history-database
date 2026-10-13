@@ -62,6 +62,28 @@
       "reviewer_status": "machine_proposed",
       "review_required": false,
       "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V613848K8MPBTG9YGQJB8P",
+      "statement": "The son of Antiochus III who succeeded him and was killed in 175 BC was Seleucus IV, not Seleucus III.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "The Babylonian king list records Antiochus III's death in SE 125 and the accession of his son Seleucus (IV) for twelve years; Appian names Seleucus, killed through Heliodorus; Jerome calls the king of 11:20 \"Seleucus surnamed Philopator, the son of Antiochus the Great\". Seleucus III (Ceraunus) was Antiochus III's elder brother and predecessor (Jerome on 11:10). Guzik's naming of \"Seleucus III\" at 11:20 therefore appears to be a slip for Seleucus IV; it is recorded as a variant on the prophecy record, not corrected in his name.",
+      "supporting_evidence": [
+        "evd_01M4V61384DN759KRBM1Q209P1",
+        "evd_01M4V613849TPJG9NHD44NQYKB",
+        "evd_01M4V61384HM7837B2BBXPYW3A",
+        "evd_01M4V61384V02BG348Y0EHJJCB"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V61384F99JY8KAQGYZX0YR"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
     }
   ],
   "evidence": [
@@ -96,12 +118,90 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "babylonian-king-list"
+    },
+    {
+      "id": "evd_01M4V61384DN759KRBM1Q209P1",
+      "claim_ids": [
+        "clm_01M4V613848K8MPBTG9YGQJB8P"
+      ],
+      "source_id": "src_01M4V26XGJKSDPV1SX90XVZV14",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Antiochus III killed in Elam (125); his son Seleucus ascends, reigns 12 years; Seleucus dies 137.",
+      "locator": "rev., years 125 and 137",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-king-list"
+    },
+    {
+      "id": "evd_01M4V613849TPJG9NHD44NQYKB",
+      "claim_ids": [
+        "clm_01M4V613848K8MPBTG9YGQJB8P"
+      ],
+      "source_id": "src_01M4V26XGDYMER5DXT6N1DD3YC",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Seleucus assassinated in Heliodorus's conspiracy; Antiochus installed by Eumenes and Attalus.",
+      "locator": "Syr. 45",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "appian"
+    },
+    {
+      "id": "evd_01M4V61384HM7837B2BBXPYW3A",
+      "claim_ids": [
+        "clm_01M4V613848K8MPBTG9YGQJB8P"
+      ],
+      "source_id": "src_01M4V26XG2J788VAQZ1TYKC6N0",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Seleucus Ceraunus and Antiochus the Great were sons of Seleucus Callinicus; the king of 11:20 is Seleucus Philopator, son of Antiochus the Great.",
+      "locator": "on 11:10, 11:20",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "jerome-porphyry"
+    },
+    {
+      "id": "evd_01M4V61384F99JY8KAQGYZX0YR",
+      "claim_ids": [
+        "clm_01M4V613848K8MPBTG9YGQJB8P"
+      ],
+      "source_id": "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Names \"Seleucus III, the eldest son of Antiochus III\".",
+      "locator": "on 11:20",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4V61384V02BG348Y0EHJJCB",
+      "claim_ids": [
+        "clm_01M4V613848K8MPBTG9YGQJB8P"
+      ],
+      "source_id": "src_01M4V612HD88HXET8YJ4PPW5EN",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "King Seleucus funded the sacrifices and sent his chancellor Heliodorus for the Temple treasury.",
+      "locator": "2 Macc 3:3, 7",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "2-maccabees"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
-  "research_gaps": [
-    "2 Maccabees 3 (Heliodorus at the Temple) not read."
-  ]
+  "research_gaps": []
 }

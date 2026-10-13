@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V612H65VZ3MZ0JQCE3FZT5",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — prologue",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Jerome",
+    "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem, prologue",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read the prologue in the downloaded page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Porphyry's twelfth book argued that the book was composed in Judaea under Antiochus Epiphanes, narrating the past, accurate to Antiochus and false beyond; answered by Eusebius, Apollinaris and Methodius; Jerome: this very attack \"testifies to Daniel's accuracy\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

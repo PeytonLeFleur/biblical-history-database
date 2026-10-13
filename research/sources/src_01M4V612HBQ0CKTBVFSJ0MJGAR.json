@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V612HBQ0CKTBVFSJ0MJGAR",
+  "title": "World English Bible — Apocrypha/Deuterocanon (1 Maccabees 2)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 1 Macc 2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read 1 Maccabees 2 in the downloaded USFM",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "2:59–60: Hananiah, Azariah and Mishael saved from the flame; Daniel delivered from the mouth of lions — cited in Mattathias's dying speech",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

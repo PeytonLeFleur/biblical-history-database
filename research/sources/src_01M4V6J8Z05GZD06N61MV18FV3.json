@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V6J8Z05GZD06N61MV18FV3",
+  "title": "The Royal Inscriptions of Amēl-Marduk (561–560 BC), Neriglissar (559–556 BC), and Nabonidus (555–539 BC), Kings of Babylon (RINBE 2)",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Weiershäuser, Frauke",
+    "Novotny, Jamie"
+  ],
+  "publisher": "Eisenbrauns (University Park, PA), 2020",
+  "journal": null,
+  "published_date": null,
+  "url": "https://epub.ub.uni-muenchen.de/73674/1/RINBE2_OAPDF.pdf",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Open Access PDF (LMU); paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the open-access PDF from LMU",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Introduction n. 46: the Ḫarrān Stele gives Nabonidus ten years in Arabia, the Qumran Prayer of Nabonidus seven years in Tēmā; Nabonidus claims to have begun building projects on instruction received in dreams, \"one acceptable means\" of divine communication; Nabonidus 3 (Babylon Stele) vi 12′–36′: in a dream Nebuchadnezzar (II) asks Nabonidus to report what he has seen (Jupiter, the moon and Marduk)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read the Introduction and Nabonidus 3 (Babylon Stele) in the open-access PDF.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

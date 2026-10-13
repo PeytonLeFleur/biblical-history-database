@@ -2,7 +2,83 @@
   "event_id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ",
   "status": "complete",
   "resume_from": null,
-  "name_searches": [],
+  "name_searches": [
+    {
+      "name": "Darius [darius-the-mede]",
+      "books_searched": 66,
+      "hits": [
+        "Dan.5.31",
+        "Dan.6.1",
+        "Dan.6.6",
+        "Dan.6.9",
+        "Dan.6.25",
+        "Dan.6.28",
+        "Dan.9.1",
+        "Dan.11.1",
+        "Ezra.4.5",
+        "Ezra.4.24",
+        "Ezra.5.5",
+        "Ezra.5.6",
+        "Ezra.5.7",
+        "Ezra.6.1",
+        "Ezra.6.12",
+        "Ezra.6.13",
+        "Ezra.6.14",
+        "Ezra.6.15",
+        "Hag.1.1",
+        "Hag.1.15",
+        "Hag.2.10",
+        "Neh.12.22",
+        "Zech.1.1",
+        "Zech.1.7",
+        "Zech.7.1"
+      ]
+    },
+    {
+      "name": "Persia [achaemenid-persian-empire]",
+      "books_searched": 66,
+      "hits": [
+        "2Chr.36.20",
+        "2Chr.36.22",
+        "2Chr.36.23",
+        "Dan.8.20",
+        "Dan.10.1",
+        "Dan.10.13",
+        "Dan.10.20",
+        "Dan.11.2",
+        "Esth.1.3",
+        "Esth.1.14",
+        "Esth.1.18",
+        "Esth.10.2",
+        "Ezek.27.10",
+        "Ezek.38.5",
+        "Ezra.1.1",
+        "Ezra.1.2",
+        "Ezra.1.8",
+        "Ezra.3.7",
+        "Ezra.4.3",
+        "Ezra.4.5",
+        "Ezra.4.7",
+        "Ezra.4.24",
+        "Ezra.6.14",
+        "Ezra.7.1",
+        "Ezra.9.9"
+      ]
+    },
+    {
+      "name": "Persians(s) [achaemenid-persian-empire]",
+      "books_searched": 66,
+      "hits": [
+        "Dan.5.28",
+        "Dan.6.8",
+        "Dan.6.12",
+        "Dan.6.15",
+        "Dan.6.28",
+        "Esth.1.19",
+        "Neh.12.22"
+      ]
+    }
+  ],
   "relationships": [
     {
       "id": "rel_01M4TQMMMFNY1BP7GW36WXE6QE",

@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V612HJRE5TTM7C48FCSNDW",
+  "title": "Josephus, Antiquities 12.3.3 and 12.9.1 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Josephus",
+    "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 12.3.3; 12.9.1 (Whiston)",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "12.3.3: Antiochus III overcame Scopas \"at the fountains of Jordan\", the Jews received him into Jerusalem; Josephus quotes Polybius book 16; 12.9.1: Antiochus IV died in Persia after hearing of the Jews' success; Josephus disputes Polybius's explanation (the temple of Diana)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

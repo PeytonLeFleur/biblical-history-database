@@ -1,7 +1,7 @@
 {
   "event_id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3",
   "revision": 1,
-  "validated_at": "2026-10-12",
+  "validated_at": "2026-10-13",
   "checks": [
     {
       "name": "repository_validation",
@@ -42,7 +42,9 @@
   "publication_level": "researched",
   "open_reviews": [
     "rev_01M4RSRHN6DZGXZ34Y95KJQYTR",
-    "rev_01M4RSRHN7YH4H61RHE151TK0P"
+    "rev_01M4RSRHN7YH4H61RHE151TK0P",
+    "rev_01M4V612J4RS4VBJPZ94P74RPA",
+    "rev_01M4V612J6JM3P5NJQAJW41TEY"
   ],
   "research_gaps": [
     "Read Wiseman (1965) and Collins (1984, 1993) directly.",

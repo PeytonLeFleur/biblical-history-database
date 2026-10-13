@@ -3,11 +3,12 @@
   "id": "loc_01M4TTS0HJGY825103AG016ZWM",
   "slug": "ulai-river",
   "is_fixture": false,
-  "revision": 2,
+  "revision": 3,
   "citations": [
     "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
-    "src_01M4V1HGTXESMP3F4ZB46SXAQY"
+    "src_01M4V1HGTXESMP3F4ZB46SXAQY",
+    "src_01M4V612HWTQEVMFANE0915BMY"
   ],
   "notes": null,
   "primary_name": "Ulai (Eulaeus)",
@@ -39,7 +40,7 @@
       "confidence": "possible",
       "geom_source_id": "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
       "proponents": [],
-      "reasoning": "Pleiades marks the identification with a question mark; the point lies far upstream of Susa, whereas Daniel places the Ulai at Susa. The stream or canal at Susa is not precisely located in the sources read."
+      "reasoning": "Pleiades marks the identification with a question mark; the point lies far upstream of Susa, whereas Daniel places the Ulai at Susa. The stream or canal at Susa is not precisely located in the sources read. The Saimarreh is the upper course of the Karkheh system, so this point and the Karkheh point refer to the same river system at different places."
     },
     {
       "id": "lhy_01M4V1HGV4A9FCJM49WVMXN0VS",
@@ -47,10 +48,10 @@
       "lat": 32.715031646573316,
       "lon": 47.80347713752152,
       "coordinate_precision": "region",
-      "confidence": "possible",
+      "confidence": "probable",
       "geom_source_id": "src_01M4V1HGTXESMP3F4ZB46SXAQY",
       "proponents": [],
-      "reasoning": "A second Pleiades record also equates a river with the Eulaeus/Ulaya, again with a question mark; its representative point lies on the Karkheh west of Susa, nearer Daniel's \"Ulai\" at Susa than the Saimarreh candidate. Neither identification is confirmed by the sources read."
+      "reasoning": "Pleiades equates the Karkheh with the Eulaeus/Ulaya (with a \"?\"), and its point lies near Susa, where Daniel places the Ulai; T. G. Pinches (ISBE) judged \"there is but little doubt\" that the Ulai is the Kerkhah and notes the Assyrian Ulaia in Ashurbanipal's reliefs. Caveats: the river beds near Susa have shifted, and other candidates (the Shaur channel east of Susa, a canal, or the Karun/Coprates) are proposed in reference works not read in full. Kept below \"certain\"."
     }
   ],
   "description": "River or canal at Susa where Daniel saw himself in the vision (8:2, 16). Exact course uncertain."

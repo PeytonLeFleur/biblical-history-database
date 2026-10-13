@@ -639,11 +639,22 @@ A Greek historian and a contemporary Babylonian king list agree on the successio
 - *Supporting (direct):* Seleucus assassinated in a conspiracy of Heliodorus; Eumenes and Attalus installed Antiochus. (Syr. 45) [2]
 - *Supporting (direct):* Seleucus IV died on 10 Ululu 137; the same month Antiochus IV ascended. (rev., year 137 Ululu) [1]
 
-## Unanswered questions and research gaps
+### The son of Antiochus III who succeeded him and was killed in 175 BC was Seleucus IV, not Seleucus III.
 
-- 2 Maccabees 3 (Heliodorus at the Temple) not read.
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+The Babylonian king list records Antiochus III's death in SE 125 and the accession of his son Seleucus (IV) for twelve years; Appian names Seleucus, killed through Heliodorus; Jerome calls the king of 11:20 "Seleucus surnamed Philopator, the son of Antiochus the Great". Seleucus III (Ceraunus) was Antiochus III's elder brother and predecessor (Jerome on 11:10). Guzik's naming of "Seleucus III" at 11:20 therefore appears to be a slip for Seleucus IV; it is recorded as a variant on the prophecy record, not corrected in his name.
+
+- *Supporting (direct):* Antiochus III killed in Elam (125); his son Seleucus ascends, reigns 12 years; Seleucus dies 137. (rev., years 125 and 137) [1]
+- *Supporting (direct):* Seleucus assassinated in Heliodorus's conspiracy; Antiochus installed by Eumenes and Attalus. (Syr. 45) [2]
+- *Supporting (indirect):* Seleucus Ceraunus and Antiochus the Great were sons of Seleucus Callinicus; the king of 11:20 is Seleucus Philopator, son of Antiochus the Great. (on 11:10, 11:20) [3]
+- *Supporting (indirect):* King Seleucus funded the sacrifices and sent his chancellor Heliodorus for the Temple treasury. (2 Macc 3:3, 7) [4]
+- *Context (indirect):* Names "Seleucus III, the eldest son of Antiochus III". (on 11:20) [5]
 
 ## Sources
 
 1. van der Spek, R. J. (trans.). Babylonian King List of the Hellenistic Period (BM 35603) — Livius.org, Seleucus IV entries. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/babylonian-king-list-of-the-hellenistic-period/> — *ancient primary text; verification: claim checked*
 2. Appian, White, Horace (trans., 1899). Appian, Syrian Wars 41–45 — Livius.org. Livius.org. <https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-9/> — *ancient primary text; verification: claim checked*
+3. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
+4. World English Bible contributors. World English Bible — Apocrypha/Deuterocanon (2 Maccabees 3, 6, 7, 9–11). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*
+5. Guzik, David. Daniel 11 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-11/> — *theological commentary; verification: claim checked*

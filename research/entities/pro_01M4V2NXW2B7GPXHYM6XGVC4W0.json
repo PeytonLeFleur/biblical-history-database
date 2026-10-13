@@ -4,7 +4,15 @@
   "slug": "time-times-half-1290-1335-days-dan-12",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+    "src_01M4TSKK87BBJJJP35SD5PZGDP",
+    "src_01M4TSKK81W6HP2HFZ7744DHRG",
+    "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+    "src_01M4TTS0H2RP38CMPKF6HT28VX",
+    "src_01M4V2NXVXA93J01GRHC1AQBXW",
+    "src_01M4TTS0H8BP0WSKFR1FQAZ7MF"
+  ],
   "notes": null,
   "title": "A time, times and a half; 1,290 and 1,335 days (Dan 12:7, 11–12)",
   "passage": "Dan.12.7-Dan.12.12",
@@ -134,6 +142,30 @@
       "is_proposed_fulfillment": true,
       "citations": [
         "src_01M4TTS0H8BP0WSKFR1FQAZ7MF"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V6137YX1M5KVMEXD47HBBH",
+      "label": "Symbolic numbers: a God-measured period of the affliction under Antiochus, not reckonable",
+      "approach": "mixed",
+      "framework": "Symbolic reading (Keil)",
+      "proponents": [
+        "C. F. Keil (1872)"
+      ],
+      "summary": "The 1,290 days denote in general the sorest affliction of Israel by Antiochus — a moderate period exactly measured by God — and the extra 45 days a short further time until the oppression wholly ceases; neither number can be reckoned chronologically (both slightly exceed 3½ years of 360 days). Keil objects to the Antiochus-death reading: 2,300 evening-mornings are whole days, and no event 45 days after Antiochus's death began a better time — the war continued under Antiochus V (1 Macc 6:18–54) and the victory over Nicanor came two years later (1 Macc 7:26–50). Objection: Driver and Montgomery treat the numbers as calendar days (or glosses).",
+      "referents": [
+        {
+          "symbol": "1,290 days",
+          "referent": "The God-measured time of affliction under Antiochus"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V26XJFNDVRK064BRXG17HH"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V612H01FEGBWQMX3MG073D"
       ],
       "reviewer_status": "machine_proposed"
     }

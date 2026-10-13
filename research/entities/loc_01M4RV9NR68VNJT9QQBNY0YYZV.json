@@ -4,7 +4,16 @@
   "slug": "tayma",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RV9NQP9N299ANT0FNV18MD",
+    "src_01M4RV9NQJFHHHV4S9K9WRY17E",
+    "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4RV9NQEX541YPGG8RK52KR0",
+    "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+    "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+    "src_01M4TPW4B5HK2YRXXSPZDQA5X3"
+  ],
   "notes": null,
   "primary_name": "Tayma",
   "place_type": "oasis",

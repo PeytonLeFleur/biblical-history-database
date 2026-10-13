@@ -654,6 +654,8 @@ Driver and Montgomery date it to Dec 165 on a Macedonian (autumn 312) Seleucid e
 
 - *Supporting (indirect):* Rededication in the 154th Olympiad, i.e. from summer 164 BC on the standard Olympiad epoch (operator calculation). (Ant. 12.7.6) [2]
 - *Challenging (indirect):* Chislev Era Sel. 148 = December 165; profanation Chislev 145 = 168. (on 8:14 and 12:11) [5]
+- *Context (indirect):* The era was reckoned in a Babylonian (spring, Nisannu) and a Macedonian (autumn) calendar; year 1 SE = 312/311 BCE. Does not say which 1 Maccabees uses. (Seleucid Era) [7]
+- *Context (direct):* Cleansing on 25 Chislev; letters dated year 148 (Dioscorinthius, Xanthicus). (2 Macc 10:5; 11:21, 33, 38) [8]
 
 *Limitations:* No modern study of the epochs read directly.
 
@@ -663,8 +665,7 @@ Driver and Montgomery date it to Dec 165 on a Macedonian (autumn 312) Seleucid e
 
 ## Unanswered questions and research gaps
 
-- 2 Maccabees 10 not read.
-- Modern discussion of the 1 Maccabees Seleucid-era epochs not read.
+- No accessible study states which Seleucid-era epoch 1 Maccabees uses; the question remains open (Iranica read; specialist literature not accessible).
 - Read 2 Maccabees 10 and a modern treatment of the Seleucid-era epochs in 1 Maccabees.
 
 ## Disputes
@@ -679,3 +680,5 @@ Driver and Montgomery date it to Dec 165 on a Macedonian (autumn 312) Seleucid e
 4. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
 5. Montgomery, James A.. A Critical and Exegetical Commentary on the Book of Daniel (ICC). T. & T. Clark. <https://archive.org/details/criticalexegetic22montuoft> — *scholarly commentary; verification: claim checked*
 6. Guzik, David. Daniel 8 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-8/> — *theological commentary; verification: claim checked*
+7. Strootman, Rolf. Seleucid Era — Encyclopaedia Iranica. Encyclopaedia Iranica (online), 2015. <https://www.iranicaonline.org/articles/seleucid-era/> — *historical reference; verification: claim checked*
+8. World English Bible contributors. World English Bible — Apocrypha/Deuterocanon (2 Maccabees 3, 6, 7, 9–11). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*

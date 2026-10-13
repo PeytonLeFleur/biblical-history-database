@@ -4,7 +4,13 @@
   "slug": "michael-time-of-trouble-resurrection-dan-12-1-3",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+    "src_01M4V2NXVXA93J01GRHC1AQBXW",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+    "src_01M4TSKK81W6HP2HFZ7744DHRG",
+    "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+  ],
   "notes": null,
   "title": "Michael, the time of trouble and the resurrection (Dan 12:1–3)",
   "passage": "Dan.12.1-Dan.12.3",
@@ -50,7 +56,7 @@
         "S. R. Driver (1900)",
         "J. A. Montgomery (1927)"
       ],
-      "summary": "Textual reasoning: the first Old Testament passage to teach a resurrection of the wicked as well as the righteous and differing destinies (cf. Isa 26:19, limited to Israel); \"many\" = those who had conspicuously helped or hindered God's kingdom under Antiochus. Driver: the writer expected the kingdom to follow the tyrant's fall, which it did not — like earlier prophets whose ideal hopes were not realised at once. Later developments: 1 Enoch, 2 Macc 7, the Targums. No historical fulfilment is claimed.",
+      "summary": "Textual reasoning: the first Old Testament passage to teach a resurrection of the wicked as well as the righteous and differing destinies (cf. Isa 26:19, limited to Israel); \"many\" = those who had conspicuously helped or hindered God's kingdom under Antiochus. Driver: the writer expected the kingdom to follow the tyrant's fall, which it did not — like earlier prophets whose ideal hopes were not realised at once. Later developments: 1 Enoch, 2 Macc 7, the Targums. No historical fulfilment is claimed. The same hope appears in the martyr narrative of 2 Macc 7 (\"the King of the world will raise us … up\", 7:9; cf. 7:14).",
       "referents": [
         {
           "symbol": "Many",
@@ -62,7 +68,8 @@
       "citations": [
         "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
         "src_01M4TSKK81W6HP2HFZ7744DHRG",
-        "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+        "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+        "src_01M4V612HD88HXET8YJ4PPW5EN"
       ],
       "reviewer_status": "machine_proposed"
     },

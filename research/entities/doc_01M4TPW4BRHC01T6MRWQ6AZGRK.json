@@ -4,7 +4,10 @@
   "slug": "nabonidus-cylinder-from-ur",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+    "src_01M4TPW4AXDY6KJMV1CBN03N7N"
+  ],
   "notes": null,
   "name": "Nabonidus Cylinder from Ur",
   "document_type": "Royal building inscription (ziggurat foundation text)",

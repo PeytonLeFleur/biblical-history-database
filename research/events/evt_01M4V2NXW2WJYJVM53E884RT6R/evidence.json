@@ -72,17 +72,19 @@
       "layer": "evidence",
       "passage": null,
       "classification": "strongly_supported",
-      "reasoning": "1 Maccabees gives both dates; Josephus's Antiquities says the Temple was desolate three years. Josephus's Jewish War gives 3½ years, which Montgomery takes as an accommodation to Daniel. Jerome uses the three years against Porphyry's 1,290-day reading.",
+      "reasoning": "1 Maccabees gives both dates (15 Chislev 145; 25 Chislev 148), and Josephus's Antiquities says three years. Three sources give round figures that differ: Josephus's Jewish War \"three years and six months\" (which Montgomery takes as an accommodation to Daniel) and 2 Maccabees \"two years\" (2 Macc 10:3, perhaps counting from a different starting point). The dated account of 1 Maccabees is preferred because it supplies both termini; the other figures are recorded as counterevidence.",
       "supporting_evidence": [
         "evd_01M4V2NXWJ6TNDJBJ6D5AZDZQX",
         "evd_01M4V2NXWJ7623BTSDPM1WYBC6"
       ],
       "counterevidence": [
-        "evd_01M4V2NXWJGWEFSHBF1T5FW0XF"
+        "evd_01M4V2NXWJGWEFSHBF1T5FW0XF",
+        "evd_01M4V6138AVYRYAAND294R8HR5",
+        "evd_01M4V6138AJEEBKAFFXMP9H790"
       ],
       "contextual_evidence": [],
       "limitations": [
-        "Josephus B.J. known only through Montgomery here."
+        "2 Maccabees' starting point for its \"two years\" is not stated."
       ],
       "reviewer_status": "machine_proposed",
       "review_required": false,
@@ -258,14 +260,44 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "jerome"
+    },
+    {
+      "id": "evd_01M4V6138AVYRYAAND294R8HR5",
+      "claim_ids": [
+        "clm_01M4V2NXWJZFHJ0S38VBZW2H6C"
+      ],
+      "source_id": "src_01M4V612HGJCFWB5SBV98K3KN4",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "The daily sacrifice stopped \"for three years and six months\".",
+      "locator": "B.J. 1.1.1",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus-wars"
+    },
+    {
+      "id": "evd_01M4V6138AJEEBKAFFXMP9H790",
+      "claim_ids": [
+        "clm_01M4V2NXWJZFHJ0S38VBZW2H6C"
+      ],
+      "source_id": "src_01M4V612HD88HXET8YJ4PPW5EN",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Sacrifices offered \"after they had ceased for two years\".",
+      "locator": "2 Macc 10:3",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "2-maccabees"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
   "research_gaps": [
-    "Josephus, Jewish War 1.1.1 not read directly.",
-    "2 Maccabees 7 (resurrection hope of the martyrs) not read.",
     "Qumran Daniel witnesses for ch. 12 not read."
   ]
 }

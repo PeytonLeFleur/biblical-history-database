@@ -655,8 +655,9 @@ Nebuchadnezzar was renowned as a builder at Babylon; most of his roughly fifty k
 
 His own foundation inscriptions (e.g. the East India House Inscription, found at Babylon) and the record of his restoration of Esagila, Etemenanki, the Ishtar Gate and palaces attest the building programme.
 
-- *Supporting (direct):* A foundation tablet of Nebuchadnezzar from Babylon records his temple building and care for the shrines of Babylon and Borsippa. (Description) [1]
-- *Supporting (indirect):* Nebuchadnezzar restored Esagila, completed Etemenanki, rebuilt the Ishtar Gate and Processional Street, and built the North and Summer palaces; most of his inscriptions concern building. (Building works section) [2]
+- *Supporting (direct):* At Babylon he worked on at least thirteen temples and the ziggurat, palaces, the inner and outer walls (nearly doubling the city), a canal and the processional ways; the East India House Inscription summarises his building. (Introduction p. 13; Nbk. 2) [11]
+- *Context (direct):* A foundation tablet of Nebuchadnezzar from Babylon records his temple building and care for the shrines of Babylon and Borsippa. (Description) [1]
+- *Context (indirect):* Nebuchadnezzar restored Esagila, completed Etemenanki, rebuilt the Ishtar Gate and Processional Street, and built the North and Summer palaces; most of his inscriptions concern building. (Building works section) [2]
 
 *Limitations:* Corroborates the setting of the boast, not the episode.
 
@@ -682,13 +683,14 @@ The Nabonidus Chronicle directly records "the king was in Tayma" in years 7, 9, 
 
 ### A Qumran text (4Q242) narrates Nabonidus's seven-year affliction at Tayma and its healing by God.
 
-**Classification:** Independently corroborated (machine proposed) · layer: evidence
+**Classification:** Strongly supported (machine proposed) · layer: evidence
 
-The manuscript exists (Israel Museum) and its content is described in the scholarly literature summarised by Wikipedia; it is a Jewish literary text of the 1st century BC (manuscript date), not a Babylonian record.
+The content of 4Q242 is known here through two secondary lines — the critical edition of Nabonidus's inscriptions (RINBE 2, citing COS 1) for the seven years at Tēmā, and the encyclopedia summary for the illness and its cure. The Qumran text itself was not read. Reclassified from independently_corroborated during the final Daniel audit because no direct reading of the text was made.
 
 - *Supporting (direct):* 4Q242 has Nabonidus report an ulcer lasting seven years at Tayma, forgiven and healed by God, with a Judean urging him to proclaim it. (Content) [4]
+- *Supporting (indirect):* The Prayer of Nabonidus (cited after COS 1) gives Nabonidus seven years in Tēmā, against ten years in Arabia in the Ḫarrān Stele. (Introduction n. 46) [12]
 
-*Limitations:* Secondary summary; editions not read.
+*Limitations:* 4Q242 not read in an edition or translation directly.
 
 ### The king was humbled and restored through the decree of heaven.
 
@@ -734,3 +736,5 @@ Divine causation cannot be assessed historically. This is not a theological verd
 8. British Museum. BM 34113 — British Museum collection record (historical-literary text). British Museum. <https://www.britishmuseum.org/collection/object/W_SP-213> — *museum catalog; verification: discovered*
 9. Wikipedia contributors. Daniel 4 — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Daniel_4> — *popular summary; verification: claim checked*
 10. Livius.org (J. Lendering). Daniel on Nebuchadnezzar's madness — Livius.org. Livius.org. <https://www.livius.org/sources/content/bible/daniel-on-nebuchadnezzars-madness/> — *popular summary; verification: claim checked*
+11. Novotny, Jamie, Weiershäuser, Frauke. The Royal Inscriptions of Nabopolassar (625–605 BC) and Nebuchadnezzar II (604–562 BC), Kings of Babylon, Part 1 (RINBE 1/1). Eisenbrauns (University Park, PA), 2024. <https://epub.ub.uni-muenchen.de/118421/1/RINBE1-1_OA.pdf> — *academic monograph; verification: claim checked*
+12. Weiershäuser, Frauke, Novotny, Jamie. The Royal Inscriptions of Amēl-Marduk (561–560 BC), Neriglissar (559–556 BC), and Nabonidus (555–539 BC), Kings of Babylon (RINBE 2). Eisenbrauns (University Park, PA), 2020. <https://epub.ub.uni-muenchen.de/73674/1/RINBE2_OAPDF.pdf> — *academic monograph; verification: claim checked*
