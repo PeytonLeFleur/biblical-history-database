@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VPFFKE09XDH139CM6B4GJ8",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4VPFFJF8RDCDPE54AGT3DJV",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Zech 8 restoration): Fulfilled ultimately in the Messiah's future (millennial) reign in Jerusalem",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T22:35:08.270Z",
+  "decisions": [],
+  "is_fixture": false
+}

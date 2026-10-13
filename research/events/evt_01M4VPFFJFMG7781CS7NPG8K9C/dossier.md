@@ -1,0 +1,941 @@
+# The Bethel delegation and the question of fasting; Zechariah's answer (4/IX, Darius year 4)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Zechariah 7:1–8:23 (narration)
+
+## Biblical account
+
+On 4 Chislev of Darius's fourth year Bethel sent Sharezer and Regem-melech to ask the priests and prophets whether to weep in the fifth month as they had for so many years. The LORD asked whether their fasts in the fifth and seventh months these seventy years had been for him, recalled the former prophets' call to justice and mercy and the scattering that followed refusal, then promised to return to Zion, fill Jerusalem with old and young, bless the work begun since the foundation, and turn the fasts of the 4th, 5th, 7th and 10th months into feasts, with the nations seeking the LORD in Jerusalem.
+
+## Historical setting
+
+**Period:** November–December 518 BC
+
+Mitchell dates the delegation to 518, "more than two years after work was begun on the temple", and notes that Darius's fourth year was the sixty-ninth after the destruction of Jerusalem. Guzik gives "December 4, 518", apparently equating the 4th day of the 9th month with 4 December; on Babylonian reckoning Chislev of that year fell in November–December. [1, 2, 3]
+
+### Rulers
+
+- Darius I (the Great): King of Persia (dating) [2]
+
+## Date and chronology
+
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+- **518 BC – 517 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+  - Latest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “In the fourth year of King Darius … the fourth day of the ninth month, the month of Chislev” (Zechariah 7:1) → `in_regnal_year` reign of Darius I (the Great); assumptions: Babylonian Nisan-based regnal years: year 4 began 11 April 518 (Parker & Dubberstein table); Chislev (month IX) fell in November–December 518. The day-level date is not computed. [2]
+- “fourth year, after the visions of the second” (Zechariah 7:1) → `after` Zechariah's night visions (24 Shebat, Darius year 2; Zech 1:7–6:8)
+- “Darius year 4, before the completion in year 6” (Zechariah 7:1) → `before` The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15); assumptions: Ezra 6:15 dates the completion to Darius's sixth year.
+
+## Geography
+
+- Bethel (Home of the delegation (if a place-name); confidence: probable)
+  - Beitin (Pleiades 260940008): probable [4]
+- Jerusalem (Temple where the question was put; confidence: certain)
+  - Pleiades representative point: certain [5]
+
+## Competing reconstructions
+
+- **The four fasts and the events they commemorated** (C. F. Keil (1868), partly from Jewish tradition, D. Guzik): 4th month (9 Tammuz): the breach; 5th month: the burning of the Temple; 7th month: Gedaliah's murder (by tradition the 3rd); 10th month (10 Tebeth): the start of the siege. [6, 3]
+
+## Claims and evidence
+
+### The Bethel delegation came in Chislev of Darius I's fourth year (November–December 518 BC).
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+The superscription dates it; Parker and Dubberstein's table starts year 4 on 11 April 518, so Chislev fell in November–December 518; Mitchell agrees on 518. Guzik's "December 4" appears to read the day of the Hebrew month as a Julian day and is not adopted.
+
+- *Supporting (direct):* Year 4 began 11 April 518. (table, Darius I year 4) [2]
+- *Supporting (indirect):* The fourth year of Darius, that is, 518 B.C.; the fourth of the ninth month. (pp. 194–195) [1]
+- *Context (indirect):* "December 4, 518 B.C." (on 7:1) [3]
+
+*Limitations:* Day-level Julian conversion not read from the table.
+
+### The four fasts of Zech 8:19 commemorated the start of the siege (10th month), the breach (4th), the burning of the Temple (5th) and the murder of Gedaliah (7th).
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+The months match the dates in 2 Kgs 25 and Jer 39; 52 for the siege, breach and burning; the seventh-month link to Gedaliah (2 Kgs 25:25) rests on Jewish tradition, as Keil states. The text of Zechariah itself does not name the events.
+
+- *Supporting (indirect):* Fasts in the 5th month (Temple burned), 7th (Gedaliah, by Jewish tradition), 4th (the conquest, 9 Tammuz), 10th (the siege begun). (pp. 305–306) [6]
+- *Supporting (indirect):* Fifth-month fast for the Temple (2 Kgs 25:8–9); seventh for Gedaliah. (on 7:3, 7:5) [3]
+
+*Limitations:* The Jewish traditions behind the day of each fast were not read in their sources.
+
+## Related passages and events
+
+- this event → **direct reference** → The final siege of Jerusalem begins (10/X of Zedekiah's ninth year) (high): The fast of the tenth month — the siege begun on 10 Tebeth (2 Kgs 25:1). [6]
+- this event → **direct reference** → The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year) (high): The fast of the fourth month — the breach on 9 Tammuz (2 Kgs 25:3–4). [6]
+- this event → **direct reference** → Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (high): The fast of the fifth month — the burning of the Temple (2 Kgs 25:8–9). [6]
+- this event → **direct reference** → Gedaliah governs from Mizpah and is assassinated (2 Kgs 25:22–26) (high): The fast of the seventh month — Gedaliah's murder (2 Kgs 25:25), by Jewish tradition. [6]
+- this event → **direct reference** → pro_01M4V10B5R3FQYBVQ98B9H88R7 (high): "These seventy years" of fasting (7:5) — the second use in Zechariah (cf. 1:12).
+- this event → **direct reference** → pro_01M4VPFFJF6TNFXJVAZPXB011E (high): The restoration oracles of chapter 8.
+- this event → **thematic parallel** → Isaiah 58:3–7 (medium): Fasting without justice rebuked.
+- this event → **thematic parallel** → Haggai 2:15–19 (high): Blessing dated from the day the foundation was laid (Zech 8:9–12; Hag 2:18–19).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik reads the answer as a rebuke of self-pitying ritual and a call to everyday obedience. [3]
+- Guzik sees the nations seeking the LORD in Jerusalem as fulfilled in the Messiah's millennial reign. [7]
+
+## Unanswered questions and research gaps
+
+- Rabbinic sources on the four fasts not read.
+- "Bethel" in 7:2: the sending town, or part of the name "Bethel-sharezer" (Mitchell discusses the translations).
+
+## Sources
+
+1. Mitchell, Hinckley G., Smith, J. M. P., Bewer, J. A.. A Critical and Exegetical Commentary on Haggai, Zechariah, Malachi and Jonah (International Critical Commentary). T. & T. Clark / Scribner, 1912. <https://archive.org/details/criticalexegetic25mitcuoft> — *scholarly commentary; verification: claim checked*
+2. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+3. Guzik, David. Zechariah 7 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-7/> — *theological commentary; verification: claim checked*
+4. Pleiades contributors. Beitin (Bethel) — Pleiades place 260940008. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/260940008> — *institutional database; verification: claim checked*
+5. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+6. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Twelve Minor Prophets, vol. 2 (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1868 (1878 printing). <https://archive.org/details/thetwelveminorpr02keiluoft> — *scholarly commentary; verification: claim checked*
+7. Guzik, David. Zechariah 8 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-8/> — *theological commentary; verification: claim checked*

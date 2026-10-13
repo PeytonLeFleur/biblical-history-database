@@ -1,0 +1,262 @@
+{
+  "book": "Zech",
+  "chapter": 8,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.8.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPQVCVXFKNNC07627T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPQVCVXFKNNC07627T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPQVCVXFKNNC07627T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPQVCVXFKNNC07627T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPQVCVXFKNNC07627T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPQVCVXFKNNC07627T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPQVCVXFKNNC07627T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPQVCVXFKNNC07627T"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPM0D4SDP300WR460J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPS3XHMS9FECCA027B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPS3XHMS9FECCA027B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPS3XHMS9FECCA027B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPS3XHMS9FECCA027B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPS3XHMS9FECCA027B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.8.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPS3XHMS9FECCA027B"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VPFFJPQVCVXFKNNC07627T",
+      "title": "Restoration oracles: the LORD returns to Zion; old and young in the streets; the people gathered",
+      "passage": "Zech.8.1-Zech.8.8",
+      "description": "The LORD is jealous for Zion and will dwell in Jerusalem, the City of Truth; old men and women and children will fill its streets; he will save his people from east and west.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+    },
+    {
+      "id": "cnd_01M4VPFFJPM0D4SDP300WR460J",
+      "title": "Let your hands be strong: blessing since the foundation was laid",
+      "passage": "Zech.8.9-Zech.8.17",
+      "description": "Those who heard the prophets since the day the foundation of the house was laid should be strong; before those days there was no wage and no peace; now the seed will prosper; speak truth and judge justly.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Hag.2.15-Hag.2.19",
+        "Ezra.3.10"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+    },
+    {
+      "id": "cnd_01M4VPFFJPS3XHMS9FECCA027B",
+      "title": "The fasts of the 4th, 5th, 7th and 10th months become feasts; nations seek the LORD",
+      "passage": "Zech.8.18-Zech.8.23",
+      "description": "The four fasts will be joy and gladness; many peoples and strong nations will seek the LORD in Jerusalem; ten men of every language will grasp a Jew's robe.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "2Kgs.25.1",
+        "2Kgs.25.3-2Kgs.25.4",
+        "2Kgs.25.8",
+        "2Kgs.25.25",
+        "Isa.2.2-Isa.2.4"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-7-8.md"
+}

@@ -1,0 +1,202 @@
+{
+  "book": "Zech",
+  "chapter": 7,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.7.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPX28CDEDY4VJ9W48P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPX28CDEDY4VJ9W48P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPX28CDEDY4VJ9W48P"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.7.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VPFFJPK1P81X9JZTGN5J90"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VPFFJPX28CDEDY4VJ9W48P",
+      "title": "The Bethel delegation asks whether to keep weeping in the fifth month (4/IX, Darius year 4)",
+      "passage": "Zech.7.1-Zech.7.3",
+      "description": "In Darius's fourth year, on the fourth of the ninth month (Chislev), Bethel sent Sharezer and Regem-melech to entreat the LORD and ask the priests and prophets whether to weep in the fifth month as for so many years.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zechariah",
+          "matched_entity_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "King Darius",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Bethel",
+          "matched_entity_id": "loc_01M4VCA0A1SAEPH8RZ7HYTKBS9",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "the house of the LORD",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Zech.7.1",
+          "phrase": "In the fourth year of King Darius … in the fourth day of the ninth month, the month of Chislev",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "2Kgs.25.8-2Kgs.25.9",
+        "Jer.52.12-Jer.52.13"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Whether \"Bethel\" is the town or part of a personal name (Bethel-sharezer)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+    },
+    {
+      "id": "cnd_01M4VPFFJPK1P81X9JZTGN5J90",
+      "title": "Did you fast for me these seventy years? Obey the former prophets",
+      "passage": "Zech.7.4-Zech.7.14",
+      "description": "Fasting in the fifth and seventh months these seventy years was not for the LORD; execute true judgment and mercy; the fathers refused to listen and were scattered with a whirlwind, the pleasant land made desolate.",
+      "record_type": "teaching",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Isa.58.3-Isa.58.7",
+        "Jer.25.11"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"These seventy years\" counted from the destruction (69th year in Darius's fourth year, per Mitchell)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-7-8.md"
+}
