@@ -1,0 +1,907 @@
+# The returned exiles keep the Passover after the Temple's dedication (Ezra 6:19–22)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 6:19–22 (narration)
+
+## Biblical account
+
+The exiles kept the Passover on 14/I; the priests and Levites, all purified, slaughtered it for everyone; the returned exiles and all who had separated themselves from the uncleanness of the nations to seek the LORD ate it, and kept Unleavened Bread seven days with joy, because the LORD had turned the heart of the king of Assyria to them to strengthen their hands in the work.
+
+## Historical setting
+
+**Period:** Spring 515 BC (Darius I, year 7), after the completion
+
+The first Passover at the rebuilt Temple. The Hebrew of 6:19–22 resumes after the Aramaic section ends at 6:18. [1]
+
+### Rulers
+
+- Darius I (the Great): "The king of Assyria" (6:22), on the usual reading [1, 2]
+
+## Date and chronology
+
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+- **516 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “The children of the captivity kept the Passover on the fourteenth day of the first month”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “The children of the captivity kept the Passover on the fourteenth day of the first month” (Ezra 6:19) → `days_later` The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15); assumptions: From 3 (or 23) Adar to 14 Nisan of the following year is about 20–41 days with 29/30-day months, or longer if the year had an intercalary Adar; 30–60 days is an operator margin taking the Hebrew "3 Adar" with a possible second Adar.
+
+## Geography
+
+- Jerusalem (Temple; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Claims and evidence
+
+### The returned community kept the Passover at the rebuilt Temple in the spring after its completion.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known only from Ezra 6:19–22 (1 Esdras 7 parallels it). No external evidence.
+
+- *Context (indirect):* The king of Assur is Darius, ruler of the former realm of Assyria. (on 6:22) [1]
+
+## Related passages and events
+
+- this event → **preceded by** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (high): The Passover followed the completion and dedication.
+- this event → **thematic parallel** → The Passover of Josiah's eighteenth year (medium): Like Josiah's Passover, the Levites slaughter for all (2 Chr 35:11).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik treats the Passover as the joyful climax of the rebuilding. [4]
+
+## Unanswered questions and research gaps
+
+- Who "had separated themselves from the filthiness of the nations" (6:21): proselytes or Judeans who had remained in the land?
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Ryle, Herbert Edward. The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1893. <https://archive.org/details/booksofezranehem1893ryle> — *scholarly commentary; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Guzik, David. Ezra 6 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-6/> — *theological commentary; verification: claim checked*

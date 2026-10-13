@@ -4,7 +4,7 @@
   "resume_from": null,
   "text_summary": {
     "layer": "text",
-    "body": "Darius orders the archives searched; a scroll found at Achmetha in Media records Cyrus's first-year decree for the Temple; Darius orders the governor not to hinder the work and to pay its costs from royal revenue.",
+    "body": "Darius had the archives searched; at Achmetha in Media a scroll recorded Cyrus's first-year decree for the house (sixty cubits high and wide, three courses of great stones and one of timber, costs from the king's house, the vessels restored). Darius ordered Tattenai and his colleagues to keep away, to fund the work from the tribute of Beyond the River, to supply daily sacrifices so the priests might pray for the king and his sons, and threatened impalement on a beam for anyone altering the decree.",
     "passage": "Ezra.6.1-Ezra.6.12"
   },
   "setting": {
@@ -83,6 +83,12 @@
       "role": "Object of the decree",
       "hypotheses": [],
       "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4VHGTGF39V69962YBD3ZV0N",
+      "role": "Archive where the memorandum was found",
+      "hypotheses": [],
+      "confidence": "certain"
     }
   ],
   "terminology": [],
@@ -95,6 +101,30 @@
       "summary": "Between the resumption of work in Darius's second year and the completion in his sixth.",
       "citations": [
         "src_01M4V10B52Y493F766D6YZY956"
+      ]
+    },
+    {
+      "label": "Authentic memorandum from the Ecbatana archive",
+      "proponents": [
+        "C. F. Keil (1873)",
+        "H. E. Ryle (1893)",
+        "R. de Vaux (via Guzik)"
+      ],
+      "summary": "Its location fits Cyrus's movements in 538; its specifications differ in purpose from the proclamation of Ezra 1.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VHGTFT8KAZAS7J885744PE"
+      ]
+    },
+    {
+      "label": "At least one of the two versions is not original",
+      "proponents": [
+        "L. W. Batten (1913)"
+      ],
+      "summary": "The Hebrew and Aramaic versions cannot both be originals.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
       ]
     }
   ],

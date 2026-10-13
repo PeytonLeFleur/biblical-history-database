@@ -4,8 +4,8 @@
   "resume_from": null,
   "text_summary": {
     "layer": "text",
-    "body": "The house was finished on 3 Adar in Darius's sixth year and dedicated with joy and many sacrifices; priests and Levites were set in their divisions.",
-    "passage": "Ezra.6.15-Ezra.6.18"
+    "body": "Tattenai acted on Darius's decree; the elders built and prospered through Haggai and Zechariah, and finished the house by the command of God and the decree of Cyrus, Darius and Artaxerxes, on 3 Adar of Darius's sixth year; the exiles dedicated it with 100 bulls, 200 rams, 400 lambs and 12 male goats for the tribes of Israel, and set the priests and Levites in their divisions.",
+    "passage": "Ezra.6.13-Ezra.6.18"
   },
   "setting": {
     "period": "Achaemenid Persian rule over Judah",
@@ -66,7 +66,16 @@
       "confidence": "certain"
     }
   ],
-  "terminology": [],
+  "terminology": [
+    {
+      "term": "Artaxerxes in Ezra 6:14",
+      "gloss": "A later king named alongside Cyrus and Darius; Kidner (via Guzik) and Batten treat it as completing the picture or as a gloss.",
+      "citations": [
+        "src_01M4VHGTFT8KAZAS7J885744PE",
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    }
+  ],
   "competing_reconstructions": [
     {
       "label": "Spring 515 BC",
@@ -86,6 +95,20 @@
       "summary": "See Jeremiah's seventy years.",
       "citations": [
         "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ]
+    },
+    {
+      "label": "Third or twenty-third of Adar; sixth or ninth year",
+      "proponents": [
+        "Ezra 6:15 (third; sixth year)",
+        "1 Esdras 7:5 (twenty-third; sixth year)",
+        "Josephus Ant. 11.4.7 (twenty-third; ninth year)"
+      ],
+      "summary": "Keil explains the 1 Esdras reading as an adjustment to give an eight-day dedication ending the year.",
+      "citations": [
+        "src_01M4VHGTG4G0895CGDV3HJ1RA5",
+        "src_01M4VHGTG0R3ZWYM7T2M8SC2DV",
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
       ]
     }
   ],

@@ -1631,6 +1631,13 @@
         "Zeph.1.4",
         "Zeph.2.7"
       ]
+    },
+    {
+      "name": "Achmetha",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.6.2"
+      ]
     }
   ],
   "relationships": [
@@ -1676,6 +1683,80 @@
         "method": "text_reading",
         "dataset": null,
         "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VHGTH0Z9EMTWMXZ1RNYFMG",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY70FPAY89RJB0RX83Z"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Darius searched the archives in response to Tattenai's letter.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VHGTH0JXT3EYFGT9F9TJAB",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The memorandum records Cyrus's first-year decree (cf. Ezra 1:2–4).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VHGTH0JY5PZ4K2MX7SPC50",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+      },
+      "to": {
+        "kind": "document",
+        "id": "doc_01M4TPW4BPQ1TJC6NY0A8CQ96D"
+      },
+      "confidence": "medium",
+      "layer": "evidence",
+      "rationale": "Royal support for restoring local cults and requests for prayers for the king.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+        ]
       },
       "interpretive_approach": null,
       "proposed_by": null,

@@ -4,7 +4,10 @@
   "title": "Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12)",
   "summary": "After work resumed in Darius's second year and the governor Tattenai enquired, Darius had the archives searched, found Cyrus's memorandum at Ecbatana, and ordered the work to proceed at royal expense.",
   "is_fixture": false,
-  "candidate_ids": [],
+  "candidate_ids": [
+    "cnd_01M4VHGTGFK3V978XKMPDCVB1G",
+    "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS"
+  ],
   "external_reason": "Candidate starting point for Dan 9:25 (Guzik lists it, 517 BC).",
   "is_period": false,
   "literary_classification": "historical_narrative",
@@ -14,7 +17,7 @@
     "religious"
   ],
   "priority": "medium",
-  "research_status": "publishable",
+  "research_status": "needs_review",
   "publication_level": "researched",
   "parent_event_id": null,
   "mentions": [
@@ -26,9 +29,9 @@
   ],
   "stages": {
     "scripture_extraction": {
-      "status": "not_applicable",
+      "status": "complete",
       "updated": "2026-10-13",
-      "reason": "External to Daniel: researched as a candidate starting point of Dan 9:25; Ezra is not yet extracted chapter by chapter."
+      "reason": null
     },
     "historical_reconstruction": {
       "status": "complete",
@@ -51,7 +54,7 @@
       "reason": null
     }
   },
-  "revision": 1,
+  "revision": 2,
   "created_at": "2026-10-13",
   "updated_at": "2026-10-13",
   "last_reviewed_at": null

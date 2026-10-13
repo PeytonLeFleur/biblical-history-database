@@ -1,0 +1,422 @@
+{
+  "book": "Ezra",
+  "chapter": 6,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.6.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFK3V978XKMPDCVB1G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFK3V978XKMPDCVB1G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFK3V978XKMPDCVB1G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFK3V978XKMPDCVB1G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFK3V978XKMPDCVB1G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGF64B1T3VWE9ZD6XQJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGF64B1T3VWE9ZD6XQJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGF64B1T3VWE9ZD6XQJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFCQ3G0WYZ74PGPA2W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFCQ3G0WYZ74PGPA2W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFCQ3G0WYZ74PGPA2W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFJFCCXAZ4NYB4ZZ1M"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFJFCCXAZ4NYB4ZZ1M"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFJFCCXAZ4NYB4ZZ1M"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.6.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VHGTGFJFCCXAZ4NYB4ZZ1M"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VHGTGFK3V978XKMPDCVB1G",
+      "title": "Search of the archives; the memorandum of Cyrus's decree found at Achmetha",
+      "passage": "Ezra.6.1-Ezra.6.5",
+      "description": "Darius ordered a search in the archives at Babylon; a scroll was found at Achmetha in Media recording Cyrus's first-year decree: the house to be rebuilt, sixty cubits high and wide, three courses of great stones and one of timber, costs from the king's house, the vessels restored.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius the king",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Cyrus the king",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nebuchadnezzar",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Achmetha",
+          "matched_entity_id": "loc_01M4VHGTGF39V69962YBD3ZV0N",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.6.3",
+          "phrase": "In the first year of Cyrus the king",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Ezra.1.2-Ezra.1.4",
+        "Ezra.5.17"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Differences between the Hebrew (Ezra 1:2–4) and Aramaic (6:3–5) versions of the decree.",
+        "Sixty cubits high and wide exceed Solomon's Temple (1 Kgs 6:2)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+    },
+    {
+      "id": "cnd_01M4VHGTGFWGB1GPZ61BBXMKYS",
+      "title": "Darius's decree: hands off, royal funding, sacrifices for the king, penalty clause",
+      "passage": "Ezra.6.6-Ezra.6.12",
+      "description": "Darius ordered Tattenai and his colleagues to leave the work alone, to pay its costs from the tribute of Beyond the River, to supply sacrificial animals and goods daily so that prayers be offered for the king and his sons, and decreed impalement for any who altered the edict.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal",
+        "religious",
+        "economic"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Tattenai",
+          "matched_entity_id": "per_01M4VGNQXCE4D1FEHQSRD6H0QS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Shetharbozenai",
+          "matched_entity_id": "per_01M4VGNQXJ7TXVP7GX7KW6ETWW",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.7.21-Ezra.7.23"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+    },
+    {
+      "id": "cnd_01M4VHGTGF64B1T3VWE9ZD6XQJ",
+      "title": "The Temple completed on 3 Adar of Darius's sixth year",
+      "passage": "Ezra.6.13-Ezra.6.15",
+      "description": "Tattenai complied; the elders built and prospered through Haggai and Zechariah, by the command of God and the decree of Cyrus, Darius and Artaxerxes; the house was finished on the third day of Adar in Darius's sixth year.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Tattenai",
+          "matched_entity_id": "per_01M4VGNQXCE4D1FEHQSRD6H0QS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Haggai the prophet",
+          "matched_entity_id": "per_01M4VGNQY103MVWCDNW15W9YY4",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Zechariah the son of Iddo",
+          "matched_entity_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Darius the king",
+          "matched_entity_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.6.15",
+          "phrase": "on the third day of the month Adar, which was in the sixth year of the reign of Darius the king",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [
+        "Third (Ezra; LXX per Keil) or twenty-third (1 Esd 7:5; Josephus) of Adar; Josephus gives Darius's ninth year.",
+        "Artaxerxes named in 6:14, though he reigned later."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+    },
+    {
+      "id": "cnd_01M4VHGTGFCQ3G0WYZ74PGPA2W",
+      "title": "Dedication of the house with 100 bulls, 200 rams, 400 lambs and 12 goats; priests and Levites set in their courses",
+      "passage": "Ezra.6.16-Ezra.6.18",
+      "description": "The returned exiles dedicated the house with joy, offering sin offerings of twelve male goats for all Israel, and set the priests and Levites in their divisions as written in the book of Moses.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "1Kgs.8.62-1Kgs.8.64",
+        "2Chr.7.5"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+    },
+    {
+      "id": "cnd_01M4VHGTGFJFCCXAZ4NYB4ZZ1M",
+      "title": "Passover and Unleavened Bread kept by the returned exiles and those who separated themselves",
+      "passage": "Ezra.6.19-Ezra.6.22",
+      "description": "On 14/I the returned exiles kept the Passover, the purified priests and Levites slaughtering for all; those who had separated from the uncleanness of the nations joined them; they kept Unleavened Bread seven days with joy, for the LORD had turned the heart of \"the king of Assyria\" to them.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.6.19",
+          "phrase": "on the fourteenth day of the first month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "2Chr.35.1-2Chr.35.19",
+        "Exod.12.1-Exod.12.20"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "\"The king of Assyria\" for the Persian king."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VHGTGFZMJ59MAMPFATN8SY"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-ezra-6.md"
+}

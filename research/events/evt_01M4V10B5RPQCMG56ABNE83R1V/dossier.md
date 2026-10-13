@@ -1,15 +1,15 @@
 # The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15)
 
-> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 2 · last reviewed: not reviewed
 > Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
 
 ## Biblical references
 
-- Ezra 6:15–18 (narration)
+- Ezra 6:13–18 (narration): 6:13–14 completion under Darius's decree; 6:16–18 dedication.
 
 ## Biblical account
 
-The house was finished on 3 Adar in Darius's sixth year and dedicated with joy and many sacrifices; priests and Levites were set in their divisions.
+Tattenai acted on Darius's decree; the elders built and prospered through Haggai and Zechariah, and finished the house by the command of God and the decree of Cyrus, Darius and Artaxerxes, on 3 Adar of Darius's sixth year; the exiles dedicated it with 100 bulls, 200 rams, 400 lambs and 12 male goats for the tribes of Israel, and set the priests and Levites in their divisions.
 
 ## Historical setting
 
@@ -880,6 +880,7 @@ On Babylonian Nisan reckoning Darius's sixth year ran from spring 516 to spring 
 
 - **Spring 515 BC** (Operator conversion with Parker & Dubberstein): Adar of year 6 of Darius I. [1]
 - **Interval from 587/586: about 70 years** (Temple-desolation reading of Jeremiah's seventy years): See Jeremiah's seventy years. [3]
+- **Third or twenty-third of Adar; sixth or ninth year** (Ezra 6:15 (third; sixth year), 1 Esdras 7:5 (twenty-third; sixth year), Josephus Ant. 11.4.7 (twenty-third; ninth year)): Keil explains the 1 Esdras reading as an adjustment to give an eight-day dedication ending the year. [4, 5, 6]
 
 ## Claims and evidence
 
@@ -893,16 +894,40 @@ The completion is recorded only in Ezra; the conversion to 515 BC uses Parker & 
 
 *Limitations:* 1 Esdras 7:5 (a parallel) not read.
 
+### The Temple was finished on the third day of Adar (Ezra 6:15), not the twenty-third (1 Esd 7:5; Josephus), in Darius's sixth year (not his ninth, as in Josephus).
+
+**Classification:** Disputed (requires review) · layer: text
+
+The Hebrew (and, per Keil, the LXX) has the third day; 1 Esdras has the twenty-third; Josephus has the twenty-third of Adar in the ninth year. Keil rejects Bertheau's preference for the twenty-third. No external evidence dates the completion; the year (sixth) is the common reading of Ezra and 1 Esdras.
+
+- *Supporting (indirect):* The Hebrew and the LXX read the third day; Bertheau's preference for 1 Esdras's twenty-third is arbitrary. (on 6:15 (n.)) [6]
+- *Challenging (direct):* Finished by the twenty-third day of Adar, in the sixth year. (1 Esd 7:5) [4]
+- *Challenging (direct):* Dedication sacrifices on the twenty-third of Adar in the ninth year of Darius; built in seven years. (Ant. 11.4.7) [5]
+- *Context (indirect):* Esdras reads the 23rd day; the year phrase needs emendation. (on 6:15) [7]
+
+*Limitations:* Textual variants beyond these witnesses not researched.
+
 ## Related passages and events
 
 - this event → **thematic parallel** → Zechariah 1:12 (high): "These seventy years" of indignation, spoken in Darius's second year.
+- this event → **preceded by** → The foundation of the Second Temple laid (Ezra 3:8–13) (high): Completion of the work whose foundation Ezra 3 narrates.
+- this event → **followed by** → The returned exiles keep the Passover after the Temple's dedication (Ezra 6:19–22) (high): The Passover of the following first month.
+- this event → **thematic parallel** → 1 Kings 8:62–64 (medium): Solomon's dedication sacrifices, vastly larger.
 
 ## Unanswered questions and research gaps
 
 - 1 Esdras 7 and Josephus Ant. 11.4.7 not read.
+
+## Disputes
+
+- The Temple was finished on the third day of Adar (Ezra 6:15), not the twenty-third (1 Esd 7:5; Josephus), in Darius's sixth year (not his ninth, as in Josephus).
 
 ## Sources
 
 1. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
 2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
 3. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 9. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
+4. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 7). eBible.org. <https://ebible.org/eng-web/1ES07.htm> — *ancient primary text; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.4.6–7 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+6. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+7. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*

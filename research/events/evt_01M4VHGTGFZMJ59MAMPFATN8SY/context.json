@@ -1,0 +1,94 @@
+{
+  "event_id": "evt_01M4VHGTGFZMJ59MAMPFATN8SY",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The exiles kept the Passover on 14/I; the priests and Levites, all purified, slaughtered it for everyone; the returned exiles and all who had separated themselves from the uncleanness of the nations to seek the LORD ate it, and kept Unleavened Bread seven days with joy, because the LORD had turned the heart of the king of Assyria to them to strengthen their hands in the work.",
+    "passage": "Ezra.6.19-Ezra.6.22"
+  },
+  "setting": {
+    "period": "Spring 515 BC (Darius I, year 7), after the completion",
+    "body": "The first Passover at the rebuilt Temple. The Hebrew of 6:19–22 resumes after the Aramaic section ends at 6:18.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "\"The king of Assyria\" (6:22), on the usual reading",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VHGTGHFA2N582Y4809T44M",
+      "subject": "evt_01M4VHGTGFZMJ59MAMPFATN8SY",
+      "object": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+      "relation": "days_later",
+      "textual_assertion": "The children of the captivity kept the Passover on the fourteenth day of the first month",
+      "passage": "Ezra.6.19",
+      "offset": {
+        "min": 30,
+        "max": 60
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "From 3 (or 23) Adar to 14 Nisan of the following year is about 20–41 days with 29/30-day months, or longer if the year had an intercalary Adar; 30–60 days is an operator margin taking the Hebrew \"3 Adar\" with a possible second Adar."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "\"the king of Assyria\" (6:22)",
+      "gloss": "Keil: Darius as ruler of the former realm of Assyria. Ryle lists three explanations: the Persian kings as successors of Assyria; \"Assyria\" for all Western Asia; or not Darius personally.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VHGTFT8KAZAS7J885744PE",
+      "layer": "interpretation",
+      "paraphrase": "Guzik treats the Passover as the joyful climax of the rebuilding.",
+      "url": "https://enduringword.com/bible-commentary/ezra-6/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Who \"had separated themselves from the filthiness of the nations\" (6:21): proselytes or Judeans who had remained in the land?"
+  ],
+  "not_applicable": {
+    "competing_reconstructions": "The event itself is not disputed beyond the term \"king of Assyria\"."
+  }
+}

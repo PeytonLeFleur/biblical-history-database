@@ -1,0 +1,46 @@
+{
+  "kind": "place",
+  "id": "loc_01M4VHGTGF39V69962YBD3ZV0N",
+  "slug": "ecbatana",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VHGTG8AGN4T0QEETZP45RB",
+    "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+  ],
+  "notes": null,
+  "primary_name": "Ecbatana (Achmetha)",
+  "place_type": "settlement",
+  "modern_name": "Hamadan",
+  "modern_country": "Iran",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Hagmatana",
+      "language": "Old Persian",
+      "period": null,
+      "source_id": "src_01M4VHGTG8AGN4T0QEETZP45RB"
+    },
+    {
+      "name": "Achmetha",
+      "language": "Aramaic (Ezra 6:2)",
+      "period": null,
+      "source_id": "src_01M4VHGTG8AGN4T0QEETZP45RB"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4VHGTG8BHZ5T8D4C802CHDM",
+      "label": "Hamadan (Pleiades 903021)",
+      "lat": 34.80555515,
+      "lon": 48.51640575,
+      "coordinate_precision": "settlement",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4VHGTG8AGN4T0QEETZP45RB",
+      "proponents": [],
+      "reasoning": "Pleiades associates Ecbatana, Hagmatana and Achmeta with Hamadan with certainty; Keil and Ryle give the same identification."
+    }
+  ],
+  "description": "Median capital and Persian summer residence where the memorandum of Cyrus's decree was found (Ezra 6:2)."
+}

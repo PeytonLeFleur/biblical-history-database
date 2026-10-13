@@ -1,6 +1,6 @@
 {
   "event_id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT",
-  "revision": 1,
+  "revision": 2,
   "validated_at": "2026-10-13",
   "checks": [
     {
@@ -40,10 +40,16 @@
     }
   ],
   "publication_level": "researched",
-  "open_reviews": [],
-  "research_gaps": [
-    "The Ecbatana archive and the Aramaic letters in Ezra 4–6 not researched from modern studies."
+  "open_reviews": [
+    "rev_01M4VHGTGYDNNBZPVJ0YB20XFZ"
   ],
-  "disputes": [],
+  "research_gaps": [
+    "The Ecbatana archive and the Aramaic letters in Ezra 4–6 not researched from modern studies.",
+    "Bickerman and de Vaux on the authenticity of the Cyrus edicts not read directly.",
+    "Xanthos trilingual not read."
+  ],
+  "disputes": [
+    "The Aramaic memorandum of Cyrus's decree (Ezra 6:3–5) is an authentic Persian archival record."
+  ],
   "export_eligible": true
 }
