@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 5 (Daniel research pilot): **complete** — all 12 chapters, 357/357 verses. **Next: Milestone 6 (cross-book historical validation).**
+**Current milestone:** 6 (cross-book historical validation): **complete**. Daniel (M5) is complete, audited and cross-validated. **What remains for Daniel is owner editorial review only (157 open items).** Next: owner review, then Milestone 7 (full canon expansion).
 **Last updated:** 2026-10-13
 
 ## Milestone 1: Repository and foundation ✅
@@ -132,10 +132,93 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
   - Grayson's BHLT
   - Gubaru's contracts
 
+## Daniel final audit (PR #16) ✅
+Every Daniel record was audited mechanically and rule by rule. Session log: `research/logs/2026-10-13-daniel-final-audit.md`.
+
+**Defects corrected:**
+- 37 events lacked 66-book name searches (backfilled).
+- 59 entities lacked record-level citations.
+- 14 review items were missing; the validator now enforces SPEC 9.3 #1 and the Rule 04 identity reviews (new test).
+- 11 claim sides rested on Wikipedia alone; they were replaced with primary or scholarly sources read directly (RINBE 1–2, Wiseman 1965, Driver, Dougherty, Herodotus, COJS). The 4Q242 claim was downgraded to *strongly supported*.
+- Composition of Daniel is now a full event, with three reconstructions and the 4Q114 radiocarbon range from Popović et al. 2025.
+- Keil's symbolic readings were added.
+
+**Re-evaluated:**
+- Anderson's 445 BC (173,882 Julian days, and his Gregorian correction)
+- Seleucus IV (not III)
+- the Behistun locative "in Persia"
+- Antiochus's death vs the rededication (disputed: 2 Macc vs 1 Macc and Josephus)
+- the length of the desecration
+- Nehemiah 2
+- the Ulai (Karkheh probable)
+
+**Read directly:** Livy, 2 Maccabees, Josephus.
+
+## Milestone 6: Cross-book historical validation ✅
+| Unit | PR | Verses | Result |
+|---|---|---|---|
+| 2 Kings 24–25 | #17 | 50/50 | 9 events. ABC 5 anchors the 597 capture (2 Adar, Nebuchadnezzar's 7th year). Reigns of Jehoiachin, Zedekiah and Amēl-Marduk. Two models: 586 (accession) and 587 (non-accession, Young 2004). Disputed: Jehoiakim's death, the siege start (589/588), 587 vs 586, the day of the burning. |
+| Jeremiah 52; 2 Chronicles 36 | #18 | 34/34; 23/23 | Parallels attached to the existing events (no duplicates). New events: the 23rd-year deportation and Necho's deposition of Jehoahaz. Same-event links for the 7th- and 18th-year deportations under review. The Chronicler's 490-year sabbath reading added to the seventy years. |
+| Jeremiah 25; Ezra 1 | #19 | 38/38; 11/11 | The Jer 25:1 event moved from *preliminary* to researched. The Cyrus decree gets Ezra 1 and Josephus's "Cyrus read Isaiah". The returned vessels: Ezra's items total 2,499 against a stated 5,400 (1 Esdras: 5,469 vs 5,479). Sheshbazzar = Zerubbabel? disputed. New prophecy: the cup of wrath. |
+| Isaiah 44–45 | #20 | 53/53 | New prophecy: Cyrus the LORD's shepherd and anointed. Traditional and exilic dating both attributed. The disputed dating claim sits on the Cyrus decree event. Parallels: Cyrus Cylinder lines 12 and 15. Josephus's 140 years vs Bultema's 220 recorded. |
+
+**SPEC tests covered:**
+- **Shared events:** reused; the duplicate detector flags 0 pairs among 53 events.
+- **Shared rulers:** Nebuchadnezzar, Jehoiakim, Cyrus; the reigns are reused.
+- **Exile chronology:** the 586 and 587 models.
+- **Jerusalem's destruction:** 587/586 disputed.
+- **Cyrus and the royal decrees.**
+- **Prophetic references:** the seventy years, the cup of wrath, the Cyrus oracle.
+- **Synchronisms:** ABC 5 for 597.
+- **Entity resolution:** Sheshbazzar is kept as a `possible_identity`, not merged.
+
+**Limitations (not read directly):** Thiele (1983), Hughes (1990), Weidner (1939), and modern studies of Isaiah 40–48.
+
+## Daniel completion state (2026-10-13)
+| State | Status |
+|---|---|
+| Research complete | ✅ 357/357 verses; every Daniel event researched; the audit's defects corrected |
+| Cross-book complete | ✅ Milestone 6, all seven SPEC passages (166 verses) |
+| Technical validation complete | ✅ validate, chronology, lint, typecheck, Vitest 92/92, Playwright 64/64, import, build |
+| Deployed | ✅ GitHub Pages (PRs #12–#21 merged and deployed) |
+| Owner editorial review complete | ❌ **157 open Daniel-related items** (25 disputed claims, 56 fulfillment interpretations, 54 identifications, 11 possible identities, 11 critical events). Owner only. Package: `docs/reviews/DANIEL_OWNER_REVIEW_PACKAGE.md` |
+
+**Genuinely unresolved scholarly questions** (documented, not forced):
+- Darius the Mede
+- the date and authorship of Daniel
+- the Seleucid-era epoch in 1 Maccabees
+- 587 vs 586
+- the order of Antiochus's death and the rededication
+- the 70-weeks starting point
+- the date of the Cyrus oracle
+
+**Unavailable sources:**
+- **Blocked:** Shea, AUSS 1982 (Cloudflare); British Museum pages (403).
+- **No public-domain English translation:** the Old Greek Daniel.
+- **Not accessible:** Collins (1993), Hoehner (1977), Horn & Wood (1954).
+- **Not located:** Scofield's Daniel volume (1917).
+
+**Engine limitation:** the conservative Nisan window (1 Mar – 1 May) leaves Nehemiah 2 at 446–444 rather than a single year.
+
 ## Test results (local, 2026-10-13)
-lint ✓ · typecheck ✓ · Vitest **91/91** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,370 pages
+lint ✓ · typecheck ✓ · Vitest **92/92** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,392 pages
 
 ## Research progress
-- Verse coverage: **372 / 31,102** reviewed (Amos 1; Daniel 1–12). Chapters extracted: 13.
-- **Events: 40** (38 researched, 2 preliminary). **Sources: 126.** **Entities: 139** (46 people, 21 prophecies with 71 attributed interpretations, 5 visions, 12 reigns, 12 synchronisms, 12 places, 12 documents, 10 kingdoms, 4 artifacts, 4 chronology models, 1 site). **Claims: 98** (18 disputed).
-- **Open owner reviews: 117** (51 proposed fulfillments, 48 identification/relationship links, 18 disputed claims). None approved or rejected by Claude. The Amos review is unchanged.
+- Verse coverage: **581 / 31,102** reviewed (Amos 1; Daniel 1–12; 2 Kings 24–25; 2 Chronicles 36; Jeremiah 25, 52; Ezra 1; Isaiah 44–45). Chapters extracted: 21.
+- **Events: 53** (52 researched; 1 preliminary: Amos's prophetic words). **Sources: 161.**
+- **Entities: 158:**
+  - 55 people
+  - 23 prophecies, with 78 attributed interpretations
+  - 15 places
+  - 15 reigns
+  - 12 synchronisms
+  - 12 documents
+  - 10 kingdoms
+  - 6 chronology models
+  - 5 visions
+  - 4 artifacts
+  - 1 site
+- **Claims: 126** (26 disputed). **Relationships: 262.**
+- **Open owner reviews: 158.**
+  - 157 are Daniel-related, of which 22 came from Milestone 6; 1 is Amos, unchanged.
+  - None was approved or rejected by Claude.

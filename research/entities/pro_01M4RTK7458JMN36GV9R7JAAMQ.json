@@ -125,11 +125,12 @@
       "approach": "preterist",
       "framework": "Historical-critical",
       "proponents": [
+        "S. R. Driver (1900): Introduction pp. x–xi (\"in all probability the Median, Persian, and Greek\"); Additional Note pp. 98–102 (this \"Grecian\" view first in Ephrem Syrus, then Ewald, Bleek, Delitzsch, Kuenen, Bevan)",
         "Modern critical consensus, e.g. J. J. Collins (per Wikipedia)",
         "Porphyry (3rd c. AD)",
         "Ephrem the Syrian; Polychronius; Cosmas Indicopleustes"
       ],
-      "summary": "Following Daniel's own sequence of Median and Persian rulers (5:31; 6:28), the four kingdoms are Babylon, Media, Persia and the Hellenistic kingdoms; the mixed iron and clay reflects Seleucid–Ptolemaic marriage alliances (c. 250 or 193 BC); the chapter in its present form dates from the early Seleucid period at the earliest.",
+      "summary": "Following Daniel's own sequence of Median and Persian rulers (5:31; 6:28), the four kingdoms are Babylon, Media, Persia and the Hellenistic kingdoms; the mixed iron and clay reflects Seleucid–Ptolemaic marriage alliances (c. 250 or 193 BC); the chapter in its present form dates from the early Seleucid period at the earliest. Driver (1900) holds this view and records that God's kingdom was expected to follow immediately on the fourth empire's overthrow in Antiochus Epiphanes (Introduction p. lxxxvii).",
       "referents": [
         {
           "symbol": "Silver",
@@ -157,7 +158,8 @@
       "citations": [
         "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
         "src_01M4RTK73J9V0R4YX9KBZ0SBXZ",
-        "src_01M4RSRHKJWXG4RS4SNQ7KSSCB"
+        "src_01M4RSRHKJWXG4RS4SNQ7KSSCB",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
       ],
       "reviewer_status": "machine_proposed"
     }
