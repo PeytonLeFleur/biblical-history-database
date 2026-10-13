@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4V7P26BWJJ0XTGZC1SCD4G0",
+  "slug": "third-deportation-nebuchadnezzar-23rd-year",
+  "title": "The deportation of Nebuchadnezzar's twenty-third year (Jer 52:30)",
+  "summary": "Jeremiah 52:28–30 lists three deportations — 3,023 Jews in Nebuchadnezzar's seventh year, 832 from Jerusalem in his eighteenth and 745 by Nebuzaradan in his twenty-third, 4,600 in all. The first two are the deportations of 597 and 587/586 recorded with 2 Kings 24–25; this record covers the third, which Kings does not mention.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4V7P26BMXHX7R8HGA3JBDP7"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "migration",
+    "military"
+  ],
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Jer.52.28-Jer.52.30",
+      "mention_type": "narration",
+      "notes": "The list; this event is the third entry."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

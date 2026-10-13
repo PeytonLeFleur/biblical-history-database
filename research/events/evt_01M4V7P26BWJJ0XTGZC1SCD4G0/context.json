@@ -1,0 +1,128 @@
+{
+  "event_id": "evt_01M4V7P26BWJJ0XTGZC1SCD4G0",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "A closing list numbers those Nebuchadnezzar carried away: 3,023 Jews in his seventh year, 832 persons from Jerusalem in his eighteenth, and 745 Jews taken by Nebuzaradan in his twenty-third — 4,600 persons in all.",
+    "passage": "Jer.52.28-Jer.52.30"
+  },
+  "setting": {
+    "period": "Nebuchadnezzar's 23rd year (582/581 BC on the Babylonian count)",
+    "body": "Josephus reports that in Nebuchadnezzar's twenty-third year, the fifth after the destruction, he campaigned in Coele-Syria against Ammon and Moab and then Egypt, and took Jews captive to Babylon. No Babylonian chronicle survives for these years.",
+    "citations": [
+      "src_01M4V7P26606N1Q0K5M0F22H1P",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "King of Babylon",
+      "citations": [
+        "src_01M4V7P26606N1Q0K5M0F22H1P"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7P26ET8B0MNP80CDASR5C",
+      "subject": "evt_01M4V7P26BWJJ0XTGZC1SCD4G0",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the twenty-third year of Nebuchadnezzar",
+      "passage": "Jer.52.30",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 23,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Jer 52:28–30 counts Nebuchadnezzar's years Babylonian-style (its \"seventh year\" = the 597 capture, ABC 5); year 23 = Nisan 582 – Nisan 581 (Parker & Dubberstein)."
+      ],
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728",
+        "src_01M4V7P25ZRW561NGDW1BFWZ58"
+      ],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4V7P26EEBKTRHDR90ZF9XH9",
+      "subject": "evt_01M4V7P26BWJJ0XTGZC1SCD4G0",
+      "object": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+      "relation": "after",
+      "textual_assertion": "in the twenty-third year … carried away captive",
+      "passage": "Jer.52.30",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Judah (place not stated)",
+      "hypotheses": [],
+      "confidence": "possible"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Jer 52:28–30 counts with an accession year",
+      "proponents": [
+        "Cundall (via Guzik)",
+        "R. C. Young (2004)"
+      ],
+      "summary": "Its 7th and 18th years are Kings' 8th and 19th; the 23rd year is 582/581.",
+      "citations": [
+        "src_01M4V7P25ZRW561NGDW1BFWZ58",
+        "src_01M4V7CG2F5QV3X4F372GXP728"
+      ]
+    },
+    {
+      "label": "The figures count adult males or a portion of the exiles",
+      "proponents": [
+        "R. K. Harrison and C. L. Feinberg (via Guzik)"
+      ],
+      "summary": "3,023 may be a head count of deported adult males; the total of exiles was much higher (cf. 2 Kgs 24:14, 16).",
+      "citations": [
+        "src_01M4V7P25ZRW561NGDW1BFWZ58"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7P25ZRW561NGDW1BFWZ58",
+      "layer": "interpretation",
+      "paraphrase": "Guzik, citing Harrison and Feinberg, takes the 4,600 as a partial count of adult males and accepts Cundall's accession-year explanation of the year numbers.",
+      "url": "https://enduringword.com/bible-commentary/jeremiah-52/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Whether the 745 were taken from Judah or from Jews elsewhere (e.g. Egypt) is not stated."
+  ],
+  "not_applicable": {}
+}

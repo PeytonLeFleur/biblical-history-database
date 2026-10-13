@@ -7,6 +7,7 @@
 
 - 2 Kings 24:1–4 (narration)
 - 2 Chronicles 36:6 (parallel_account): Chronicles: Nebuchadnezzar bound him in fetters to carry him to Babylon.
+- 2 Chronicles 36:5–8 (parallel_account)
 
 ## Biblical account
 

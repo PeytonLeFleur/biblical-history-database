@@ -1,0 +1,19 @@
+{
+  "id": "job_01M4V7P1NBPY17JMVGSDT1BK2C",
+  "subject_kind": "chapter",
+  "subject_id": "2Chr.36",
+  "book": "2Chr",
+  "chapter": 36,
+  "stage": "scripture_extraction",
+  "status": "queued",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [],
+  "created_at": "2026-10-13T18:16:34.731Z",
+  "updated_at": "2026-10-13T18:16:34.731Z",
+  "is_fixture": false
+}

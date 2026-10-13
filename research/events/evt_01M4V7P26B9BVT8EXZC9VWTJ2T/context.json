@@ -1,0 +1,91 @@
+{
+  "event_id": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The people made Jehoahaz king; he reigned three months until the king of Egypt removed him, fined the land 100 talents of silver and one of gold, made Eliakim king under the name Jehoiakim and took Jehoahaz to Egypt.",
+    "passage": "2Chr.36.1-2Chr.36.4"
+  },
+  "setting": {
+    "period": "609 BC",
+    "body": "The Babylonian Chronicle (ABC 3) records an Egyptian army crossing the Euphrates to besiege Harran in Du'ûzu–Ulûlu 609, the campaign during which Josiah was killed (2 Kgs 23:29). Kings adds that Necho held Jehoahaz at Riblah.",
+    "citations": [
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM3EYYN9YJSRMAW06DS",
+      "reign_id": null,
+      "role": "Pharaoh, overlord of Judah",
+      "citations": [
+        "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+      ]
+    },
+    {
+      "person_id": "per_01M4V7P26BCXFTVVNAB4HKEZR1",
+      "reign_id": null,
+      "role": "Deposed king",
+      "citations": []
+    },
+    {
+      "person_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "reign_id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "role": "Installed king",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0ETGRBDHFPX8477ET",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7P26EE34JTP9RJ83SCY67",
+      "subject": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T",
+      "object": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "relation": "within_reign",
+      "textual_assertion": "The king of Egypt made Eliakim … king over Judah",
+      "passage": "2Chr.36.4",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The installation marks the start of Jehoiakim's reign (window Aug 609 – Jan 608, from ABC 3 and the three months of Jehoahaz)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4V7CG3QJN0W3XYGQ7FFJDPT",
+      "role": "Where Necho held Jehoahaz (2 Kgs 23:33)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7P263VPH7WJ4DPRR4E23G",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that Jehoahaz was the people's, not God's, choice and that Necho imposed tribute and took him to Egypt.",
+      "url": "https://enduringword.com/bible-commentary/2-chronicles-36/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "competing_reconstructions": "Kings and Chronicles agree on the sequence; no competing reconstruction found."
+  }
+}

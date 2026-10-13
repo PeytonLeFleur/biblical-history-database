@@ -7,6 +7,7 @@
 
 - 2 Kings 24:17–20 (narration)
 - Jeremiah 52:1–3 (parallel_account)
+- 2 Chronicles 36:11–13 (parallel_account)
 
 ## Biblical account
 

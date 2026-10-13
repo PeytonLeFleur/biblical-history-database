@@ -1,0 +1,29 @@
+{
+  "kind": "person",
+  "id": "per_01M4V7P26BCXFTVVNAB4HKEZR1",
+  "slug": "jehoahaz-son-of-josiah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V7P263VPH7WJ4DPRR4E23G",
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+  ],
+  "notes": null,
+  "canonical_name": "Jehoahaz (son of Josiah)",
+  "aliases": [
+    {
+      "alias": "Joahaz",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "2Chr.36.2"
+    },
+    {
+      "alias": "Shallum",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "Jer.22.11"
+    }
+  ],
+  "description": "King of Judah for three months in 609 BC after Josiah's death; deposed by Necho II and taken to Egypt (2 Kgs 23:31–34; 2 Chr 36:1–4).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

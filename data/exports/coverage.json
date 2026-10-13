@@ -122,8 +122,8 @@
   "slug": "2-chronicles",
   "chapters": 36,
   "verses": 822,
-  "verses_reviewed": 0,
-  "chapters_extracted": 0
+  "verses_reviewed": 23,
+  "chapters_extracted": 1
  },
  {
   "osis": "Ezra",
@@ -212,8 +212,8 @@
   "slug": "jeremiah",
   "chapters": 52,
   "verses": 1364,
-  "verses_reviewed": 0,
-  "chapters_extracted": 0
+  "verses_reviewed": 34,
+  "chapters_extracted": 1
  },
  {
   "osis": "Lam",

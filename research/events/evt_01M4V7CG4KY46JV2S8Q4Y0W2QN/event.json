@@ -5,7 +5,8 @@
   "summary": "Nebuchadnezzar's army besieged Jerusalem; Jehoiachin surrendered and was taken to Babylon with the royal family, officials, soldiers, craftsmen and the Temple treasures. The Babylonian Chronicle dates the capture to 2 Adar of Nebuchadnezzar's seventh year.",
   "is_fixture": false,
   "candidate_ids": [
-    "cnd_01M4V7CG4KABB9DMQZFC2E8VN2"
+    "cnd_01M4V7CG4KABB9DMQZFC2E8VN2",
+    "cnd_01M4V7P26BZQ2RQ0TBD67FN9CZ"
   ],
   "external_reason": null,
   "is_period": false,
@@ -39,6 +40,11 @@
       "passage": "Ezek.1.2",
       "mention_type": "reference",
       "notes": "Ezekiel dates by \"King Jehoiachin's captivity\"."
+    },
+    {
+      "passage": "2Chr.36.9-2Chr.36.10",
+      "mention_type": "parallel_account",
+      "notes": null
     }
   ],
   "stages": {

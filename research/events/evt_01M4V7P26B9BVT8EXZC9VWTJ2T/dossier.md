@@ -1,0 +1,919 @@
+# Necho II deposes Jehoahaz and installs Jehoiakim (609 BC)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Chronicles 36:1–4 (narration)
+- 2 Kings 23:31–35 (parallel_account): Kings: Jehoahaz imprisoned at Riblah.
+
+## Biblical account
+
+The people made Jehoahaz king; he reigned three months until the king of Egypt removed him, fined the land 100 talents of silver and one of gold, made Eliakim king under the name Jehoiakim and took Jehoahaz to Egypt.
+
+## Historical setting
+
+**Period:** 609 BC
+
+The Babylonian Chronicle (ABC 3) records an Egyptian army crossing the Euphrates to besiege Harran in Du'ûzu–Ulûlu 609, the campaign during which Josiah was killed (2 Kgs 23:29). Kings adds that Necho held Jehoahaz at Riblah. [1]
+
+### Rulers
+
+- Necho II: Pharaoh, overlord of Judah [1]
+- Jehoahaz (son of Josiah): Deposed king
+- Jehoiakim: Installed king
+
+## Date and chronology
+
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+- **609 BC – 597 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Jehoiakim (reign start) → “The king of Egypt made Eliakim … king over Judah”
+  - Latest bound from: reign of Jehoiakim (reign end) → “The king of Egypt made Eliakim … king over Judah”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “The king of Egypt made Eliakim … king over Judah” (2 Chronicles 36:4) → `within_reign` reign of Jehoiakim; assumptions: The installation marks the start of Jehoiakim's reign (window Aug 609 – Jan 608, from ABC 3 and the three months of Jehoahaz).
+
+## Geography
+
+- Riblah (Where Necho held Jehoahaz (2 Kgs 23:33); confidence: certain)
+  - Riblah (Pleiades 431124909): certain [2]
+
+## Claims and evidence
+
+### Necho II's army was in Syria in 609 BC when Josiah died and Judah passed under Egyptian control.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+ABC 3 records the Egyptian army crossing the Euphrates to Harran in 609; 2 Kings and 2 Chronicles narrate Necho's deposition of Jehoahaz. The deposition itself is not externally recorded.
+
+- *Supporting (direct):* In Du'ûzu 609 a great Egyptian army crossed the river and marched on Harran. (ll. 66–75) [1]
+
+### Necho deposed Jehoahaz, imposed tribute and installed Jehoiakim.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: reconstruction
+
+Attested by 2 Kgs 23:31–35 and 2 Chr 36:1–4 only; consistent with Egyptian control of the region in 609–605.
+
+- *Context (indirect):* Necho deposed him after three months, tribute 100 talents of silver and a talent of gold. (on 36:1–4) [3]
+
+## Related passages and events
+
+- this event → **same event** → 2 Kings 23:31–35 (high): Kings' account of the same deposition (Riblah; tribute; Eliakim renamed).
+- this event → **direct reference** → Jeremiah 22:10–12 (high): Jeremiah's oracle on Shallum (Jehoahaz), who will not return.
+- this event → **followed by** → Jehoiakim submits to Nebuchadnezzar for three years, then rebels (2 Kgs 24:1–4) (high): Jehoiakim, installed by Necho, later became Nebuchadnezzar's servant.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that Jehoahaz was the people's, not God's, choice and that Necho imposed tribute and took him to Egypt. [3]
+
+## Unanswered questions and research gaps
+
+- ABC 3 (Livius) re-read
+- Enduring Word 2 Chronicles 36
+
+## Sources
+
+1. Lendering, Jona (ed.). ABC 3 (Fall of Nineveh Chronicle) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/> — *ancient primary text; verification: claim checked*
+2. Pleiades contributors. Rablê (Riblah) — Pleiades place 431124909. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/431124909> — *institutional database; verification: claim checked*
+3. Guzik, David. 2 Chronicles 36 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-chronicles-36/> — *theological commentary; verification: claim checked*

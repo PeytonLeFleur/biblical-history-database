@@ -1,0 +1,65 @@
+{
+  "id": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T",
+  "slug": "necho-deposes-jehoahaz-and-installs-jehoiakim",
+  "title": "Necho II deposes Jehoahaz and installs Jehoiakim (609 BC)",
+  "summary": "After Josiah's death the people made his son Jehoahaz king; three months later Pharaoh Necho deposed him, imposed tribute, made his brother Eliakim king as Jehoiakim and took Jehoahaz to Egypt.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4V7P26BW0YWCZX693JHCW75"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "royal",
+    "political"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "2Chr.36.1-2Chr.36.4",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "2Kgs.23.31-2Kgs.23.35",
+      "mention_type": "parallel_account",
+      "notes": "Kings: Jehoahaz imprisoned at Riblah."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

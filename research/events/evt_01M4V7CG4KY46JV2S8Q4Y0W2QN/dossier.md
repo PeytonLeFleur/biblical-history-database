@@ -9,6 +9,7 @@
 - 2 Chronicles 36:10 (parallel_account)
 - Jeremiah 52:28 (reference): "In the seventh year, three thousand twenty-three Jews."
 - Ezekiel 1:2 (reference): Ezekiel dates by "King Jehoiachin's captivity".
+- 2 Chronicles 36:9–10 (parallel_account)
 
 ## Biblical account
 

@@ -5,7 +5,9 @@
   "summary": "The king of Babylon made Jehoiachin's uncle Mattaniah king, renaming him Zedekiah; he reigned eleven years and rebelled.",
   "is_fixture": false,
   "candidate_ids": [
-    "cnd_01M4V7CG4KXMNH0X3ZCHK5KXD1"
+    "cnd_01M4V7CG4KXMNH0X3ZCHK5KXD1",
+    "cnd_01M4V7P26BXYAYN5J0VF92VTT5",
+    "cnd_01M4V7P26CSK90EYH6QQHFK0QE"
   ],
   "external_reason": null,
   "is_period": false,
@@ -27,6 +29,11 @@
     },
     {
       "passage": "Jer.52.1-Jer.52.3",
+      "mention_type": "parallel_account",
+      "notes": null
+    },
+    {
+      "passage": "2Chr.36.11-2Chr.36.13",
       "mention_type": "parallel_account",
       "notes": null
     }
