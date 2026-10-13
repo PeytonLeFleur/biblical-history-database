@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 7 (full canon expansion): **in progress**, unit 1 done (2 Kings 22–23). Milestones 1–6 are complete. Daniel still awaits owner editorial review only (157 open items).
+**Current milestone:** 7 (full canon expansion): **in progress**, units 1–2 done (2 Kings 22–23; 2 Chronicles 34–35). Milestones 1–6 are complete. Daniel still awaits owner editorial review only (157 open items).
 **Last updated:** 2026-10-13
 
 ## Milestone 1: Repository and foundation ✅
@@ -206,25 +206,28 @@ The canon is researched one unit at a time (one or two chapters, each with its o
 | Unit | PR | Verses | Result |
 |---|---|---|---|
 | 2 Kings 22–23 | #23 | 57/57 | 6 events: the law book found; Huldah; covenant and purge; Bethel; Passover; Josiah's death at Megiddo (609, synchronised with ABC 3, critical). Jehoahaz event reused (revision 2). Josiah's reign, Megiddo, Bethel, the Hilkiah bulla, Huldah's oracle and the 1 Kgs 13:2 prophecy. Necho's march to *help* Assyria is independently corroborated (ABC 3; Josephus); Lumby's pre-1923 reading is superseded. 3 disputed claims (law-book date; timing of the reform; place of death). 13 reviews queued. |
+| 2 Chronicles 34–35 | #24 | 60/60 | Chronicles' parallels attached to the five Josiah events (no duplicates). New event: the 8th/12th-year purge (Chronicles only; 631–625 BC), disputed (Keil vs Curtis & Madsen). New disputed claim: Carchemish as Necho's 609 goal (Chronicles, 1 Esdras vs ABC 3's Harran; Curtis: carried back from 605). Necho's warning: no independent corroboration (1 Esdras gives it to Jeremiah). Curtis & Madsen: "in peace" suggests Huldah's oracle predates Josiah's death. 2 reviews queued. |
 
 **Book-level progress:**
 - **2 Kings:** chapters 22–25 researched (4/25).
-- **2 Chronicles:** 36 (1/36). **Jeremiah:** 25 and 52 (2/52). **Ezra:** 1 (1/10). **Isaiah:** 44–45 (2/66).
+- **2 Chronicles:** 34–36 (3/36). **Jeremiah:** 25 and 52 (2/52). **Ezra:** 1 (1/10). **Isaiah:** 44–45 (2/66).
 - **Amos:** 1 (1/9). **Daniel:** 12/12.
 
 **Source limitations added in M7** (details in each session log):
 - City of David bulla reports (Shiloh; Schneider, *BAR* 1991) not read; the bulla is known only through a popular summary.
 - Megiddo and Beitin excavation reports not read.
 - Post-1915 studies of Deuteronomy's date not read.
+- Payne's Megiddo Stratum II and Scythian claims known only through Guzik.
+- Post-1910 studies of Chronicles not read.
 
 ## Test results (local, 2026-10-13)
 lint ✓ · typecheck ✓ · Vitest **92/92** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,403 pages
 
 ## Research progress
-- **Verse coverage:** 638 / 31,102 reviewed, across 23 chapters.
-  - Amos 1; Daniel 1–12; 2 Kings 22–25; 2 Chronicles 36; Jeremiah 25, 52; Ezra 1; Isaiah 44–45.
-- **Events:** 59 (58 researched; 1 preliminary, Amos's prophetic words).
-- **Sources:** 171.
+- **Verse coverage:** 698 / 31,102 reviewed, across 25 chapters.
+  - Amos 1; Daniel 1–12; 2 Kings 22–25; 2 Chronicles 34–36; Jeremiah 25, 52; Ezra 1; Isaiah 44–45.
+- **Events:** 60 (59 researched; 1 preliminary, Amos's prophetic words).
+- **Sources:** 176.
 - **Entities:** 170.
   - 60 people
   - 25 prophecies, with 82 attributed interpretations
@@ -237,8 +240,8 @@ lint ✓ · typecheck ✓ · Vitest **92/92** ✓ · Playwright **64/64** ✓ ·
   - 5 visions
   - 5 artifacts
   - 1 site
-- **Claims:** 139 (29 disputed). **Relationships:** 293.
-- **Open owner reviews:** 171.
+- **Claims:** 142 (31 disputed). **Relationships:** 293.
+- **Open owner reviews:** 173.
   - 158 existing (157 Daniel-related; 1 Amos) are unchanged.
-  - 13 are new from 2 Kings 22–23.
+  - 15 are new from Milestone 7.
   - None was approved or rejected by Claude.

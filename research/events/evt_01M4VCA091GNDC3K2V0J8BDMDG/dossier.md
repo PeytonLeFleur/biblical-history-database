@@ -897,7 +897,9 @@ Kings frames the account with two "eighteenth year" notices (22:3; 23:23). Keil 
 
 - *Challenging (indirect):* The reform cannot all fall within the eighteenth year; the narrative is arranged by subject. (pp. 473–475) [1]
 - *Challenging (direct):* Josiah began to remove idolatry at twelve, before the book was found. (Ant. 10.4.1) [6]
+- *Challenging (indirect):* Chronicles narrates the reform in order of time: begun in the twelfth year, completed after the eighteenth. (pp. 488–490) [7]
 - *Context (indirect):* Ussher placed the Passover at the close of the eighteenth year. (p. 474) [1]
+- *Context (indirect):* Kings knows no reform before the eighteenth year; Chronicles' earlier start is the Chronicler's arrangement. (pp. 501–503) [8]
 
 ## Related passages and events
 
@@ -928,3 +930,5 @@ Kings frames the account with two "eighteenth year" notices (22:3; 23:23). Keil 
 4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
 5. Pleiades contributors. Beitin (Bethel) — Pleiades place 260940008. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/260940008> — *institutional database; verification: claim checked*
 6. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+7. Keil, C. F., Harper, Andrew (trans.). Biblical Commentary on the Books of the Chronicles (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofchronicle00keiliala> — *scholarly commentary; verification: claim checked*
+8. Curtis, Edward Lewis, Madsen, Albert Alonzo. A Critical and Exegetical Commentary on the Books of Chronicles (International Critical Commentary). T. & T. Clark / Scribner, 1910. <https://archive.org/details/criticalexegetic00curtuoft> — *scholarly commentary; verification: claim checked*

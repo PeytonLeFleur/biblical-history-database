@@ -8,7 +8,9 @@
     "src_01M4VCA082VMRB4VA17JHPMEJA",
     "src_01M4VCA08BPB3V3R2BP29D5ZK4",
     "src_01M4VCA08HJ4HR18CN7Y1AZ108",
-    "src_01M4VCA08MNQQVT95W0ZC0JZ9Q"
+    "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+    "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+    "src_01M4VD9NKT6N7B0A4JN2MC1089"
   ],
   "notes": null,
   "title": "Huldah's oracle: judgment on Jerusalem; Josiah gathered in peace (2 Kgs 22:15–20)",
@@ -55,9 +57,10 @@
       "proponents": [
         "C. F. Keil (1872): the phrase is used also of death in battle (1 Kgs 22:34, 40); \"in peace\" = without seeing the devastation",
         "J. R. Lumby (1887): none of the threatened evils would come in his time",
-        "D. Guzik: three senses — before the disaster, at peace with God, in God's favour"
+        "D. Guzik: three senses — before the disaster, at peace with God, in God's favour",
+        "E. L. Curtis and A. A. Madsen (1910): the words were probably written before Josiah's death — \"a testimony to the genuineness of the prophecy\""
       ],
-      "summary": "Textual reasoning: 22:20 explains \"in peace\" by \"your eyes will not see all the evil\". Objection: Josiah was killed by Necho (23:29) — a tension readers have noticed; the harmonisation rests on the meaning of the formula, which Keil supports from 1 Kgs 22. A view that the oracle was composed before Josiah's death and not revised was not found in the sources read and is not attributed here.",
+      "summary": "Textual reasoning: 22:20 explains \"in peace\" by \"your eyes will not see all the evil\". Objection: Josiah was killed by Necho (23:29) — a tension readers have noticed; the harmonisation rests on the meaning of the formula, which Keil supports from 1 Kgs 22. A view that the oracle was composed before Josiah's death and not revised was not found in the sources read and is not attributed here. Curtis and Madsen, writing from a critical standpoint, take the unfulfilled-looking \"in peace\" as evidence that the oracle was written before Josiah fell; Selman (via Guzik) reads it as the exile not coming in his lifetime.",
       "referents": [
         {
           "symbol": "You (the king of Judah)",
@@ -71,7 +74,8 @@
       "citations": [
         "src_01M4VCA08HJ4HR18CN7Y1AZ108",
         "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
-        "src_01M4VCA082VMRB4VA17JHPMEJA"
+        "src_01M4VCA082VMRB4VA17JHPMEJA",
+        "src_01M4VD9NM6XAJ5DNG9TYP4VPSF"
       ],
       "reviewer_status": "machine_proposed"
     }

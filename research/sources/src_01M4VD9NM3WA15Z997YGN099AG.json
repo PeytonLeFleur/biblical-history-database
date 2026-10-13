@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4VD9NM3WA15Z997YGN099AG",
+  "title": "Biblical Commentary on the Books of the Chronicles (Clark's Foreign Theological Library)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Keil, C. F.",
+    "Harper, Andrew (trans.)"
+  ],
+  "publisher": "T. & T. Clark, Edinburgh, 1872",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/booksofchronicle00keiliala",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1872)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text of the 1872 translation",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 488–490: Chronicles keeps the events \"according to their order in time\" — seeking God in the eighth year (aged sixteen), purging from the twelfth year (begun, not completed, then: \"he commenced to cleanse\"; cf. v. 33), law book in the eighteenth; p. 504 n.: the LXX addition \"in the eighth month\" at 2 Kgs 22:3, used by Thenius and Bertheau for autumn-reckoned regnal years, is a \"worthless gloss\"; pp. 504–505: Necho came \"to fight at Carchemish\"; \"the house of my war\" = his hereditary enemy; the God who commanded Necho is the true God, but no special revelation need be supposed",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

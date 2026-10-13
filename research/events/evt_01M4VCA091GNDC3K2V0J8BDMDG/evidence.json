@@ -30,6 +30,13 @@
       "engine": "web fetch",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil, Chronicles 1872; Curtis & Madsen 1910 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": "Added in the 2 Chronicles 34–35 unit."
     }
   ],
   "domains": {
@@ -69,10 +76,12 @@
       "supporting_evidence": [],
       "counterevidence": [
         "evd_01M4VCA0BKNEXHMZ6ZJAMAQVPZ",
-        "evd_01M4VCA0BKWMM59SN6ABGFDTV3"
+        "evd_01M4VCA0BKWMM59SN6ABGFDTV3",
+        "evd_01M4VD9NN946S16DSVA18DW8MV"
       ],
       "contextual_evidence": [
-        "evd_01M4VCA0BKRW3J7T9F2XR9M075"
+        "evd_01M4VCA0BKRW3J7T9F2XR9M075",
+        "evd_01M4VD9NN96K338XVATQDX87TE"
       ],
       "limitations": [],
       "reviewer_status": "requires_review",
@@ -128,6 +137,38 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "ussher-via-keil"
+    },
+    {
+      "id": "evd_01M4VD9NN946S16DSVA18DW8MV",
+      "claim_ids": [
+        "clm_01M4VCA0BKTMSN7BHYRH6BGEK4"
+      ],
+      "source_id": "src_01M4VD9NM3WA15Z997YGN099AG",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Chronicles narrates the reform in order of time: begun in the twelfth year, completed after the eighteenth.",
+      "locator": "pp. 488–490",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1872-chronicles"
+    },
+    {
+      "id": "evd_01M4VD9NN96K338XVATQDX87TE",
+      "claim_ids": [
+        "clm_01M4VCA0BKTMSN7BHYRH6BGEK4"
+      ],
+      "source_id": "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Kings knows no reform before the eighteenth year; Chronicles' earlier start is the Chronicler's arrangement.",
+      "locator": "pp. 501–503",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "curtis-madsen-1910"
     }
   ],
   "artifacts": [],

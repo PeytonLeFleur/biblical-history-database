@@ -10,7 +10,7 @@
 
 ## Biblical account
 
-Josiah commanded the people to keep the Passover as written in the book of the covenant; none like it had been kept since the days of the judges; it was kept in Jerusalem in Josiah's eighteenth year.
+Josiah commanded the people to keep the Passover as written in the book of the covenant; none like it had been kept since the days of the judges; it was kept in Jerusalem in Josiah's eighteenth year. Chronicles (35:1–19) adds the date, the fourteenth day of the first month, the return of the ark to the Temple, and the animals given: 30,000 lambs and kids and 3,000 bulls from the king, 2,600 and 300 from the priests' officials, 5,000 and 500 from the Levite chiefs.
 
 ## Historical setting
 
@@ -881,6 +881,7 @@ Lumby observes that Kings omits Hezekiah's passover (2 Chr 30) and reads the cla
 ## Competing reconstructions
 
 - **Passover in the same regnal year as the discovery** (2 Kgs 23:23 (text)): With a Nisan new year the discovery, covenant and purge would precede 14 Nisan of the same year; with a Tishri new year there could be up to six months. The text's calendar is not stated.
+- **LXX "in the eighth month" at 2 Kgs 22:3 as evidence for autumn regnal years** (O. Thenius and E. Bertheau (as reported by Keil), C. F. Keil (1872) rejects it as a "worthless gloss"): If the discovery fell in the eighth month of a Tishri-based year, there would be time before the Passover of the same regnal year; Keil argues the gloss proves nothing. [5]
 
 ## Claims and evidence
 
@@ -890,7 +891,7 @@ Lumby observes that Kings omits Hezekiah's passover (2 Chr 30) and reads the cla
 
 Stated by 2 Kgs 23:21–23 and 2 Chr 35:1–19; Josephus follows them. No external evidence bears on the feast.
 
-- *Context (direct):* Passover with 30,000 lambs and kids and 3,000 oxen from the king; none like it "from the times of Samuel". (Ant. 10.4.5) [5]
+- *Context (direct):* Passover with 30,000 lambs and kids and 3,000 oxen from the king; none like it "from the times of Samuel". (Ant. 10.4.5) [6]
 - *Context (indirect):* The claim is that no passover of this complete form had been kept since Samuel; Kings omits Hezekiah's. (on 23:22–23) [1]
 
 ## Related passages and events
@@ -901,7 +902,8 @@ Stated by 2 Kgs 23:21–23 and 2 Chr 35:1–19; Josephus follows them. No extern
 
 ## Commentary (interpretation, not historical evidence)
 
-- Guzik treats the Passover as a national observance restored after long neglect. [6]
+- Guzik treats the Passover as a national observance restored after long neglect. [7]
+- Guzik notes that Hezekiah's Passover had to be held in the second month, while Josiah's was on time; Selman counts more than double Hezekiah's offerings and notes that the Levites slaughtered the lambs. [8]
 
 ## Sources
 
@@ -909,5 +911,7 @@ Stated by 2 Kgs 23:21–23 and 2 Chr 35:1–19; Josephus follows them. No extern
 2. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Books of the Kings (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofkings00keil> — *scholarly commentary; verification: claim checked*
 3. Guzik, David. 2 Kings 22 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-22/> — *theological commentary; verification: claim checked*
 4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
-5. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
-6. Guzik, David. 2 Kings 23 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-23/> — *theological commentary; verification: claim checked*
+5. Keil, C. F., Harper, Andrew (trans.). Biblical Commentary on the Books of the Chronicles (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofchronicle00keiliala> — *scholarly commentary; verification: claim checked*
+6. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+7. Guzik, David. 2 Kings 23 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-23/> — *theological commentary; verification: claim checked*
+8. Guzik, David. 2 Chronicles 35 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-chronicles-35/> — *theological commentary; verification: claim checked*

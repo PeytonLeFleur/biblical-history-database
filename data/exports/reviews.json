@@ -2222,5 +2222,31 @@
   "status": "open",
   "created_at": "2026-10-13T19:37:29.575Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4VD9NN2YJB8YFKDXXFPPRRB",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VD9NMDEWMB11S532DERS64",
+  "record_revision": 1,
+  "reason": "Disputed: did Josiah's purge begin in his twelfth year, before the law book was found (2 Chr 34:3), or only after it (2 Kgs 22–23)?",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:54:40.674Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VD9NNDV0SSASCBE7N08PKJ",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VD9NNAMZ7WE9R5W3XVW27T",
+  "record_revision": 1,
+  "reason": "Disputed: was Carchemish Necho's objective in 609 (2 Chr 35:20), or is it carried back from the battle of 605 (ABC 3 names Harran)?",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:54:40.685Z",
+  "decisions": []
  }
 ]

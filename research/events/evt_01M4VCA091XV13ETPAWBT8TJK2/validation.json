@@ -42,14 +42,17 @@
   "publication_level": "researched",
   "open_reviews": [
     "rev_01M4VCA0BSH9EYN1A3A4M7QY86",
-    "rev_01M4VCA0ECPE2N446379DNJKGJ"
+    "rev_01M4VCA0ECPE2N446379DNJKGJ",
+    "rev_01M4VD9NNDV0SSASCBE7N08PKJ"
   ],
   "research_gaps": [
     "Megiddo excavation reports (Iron Age II strata) not read.",
-    "Egyptian sources for Necho II's Asiatic campaigns not researched."
+    "Egyptian sources for Necho II's Asiatic campaigns not researched.",
+    "Payne's claim (via Guzik) that Megiddo Stratum II confirms the battle was not verified."
   ],
   "disputes": [
-    "Josiah died at Megiddo (2 Kgs 23:29) rather than after being brought back to Jerusalem."
+    "Josiah died at Megiddo (2 Kgs 23:29) rather than after being brought back to Jerusalem.",
+    "Necho's objective in 609 was Carchemish on the Euphrates (2 Chr 35:20; 1 Esd 1:25)."
   ],
   "export_eligible": true
 }

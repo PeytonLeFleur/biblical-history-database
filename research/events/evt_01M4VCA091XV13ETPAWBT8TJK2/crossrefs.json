@@ -275,6 +275,57 @@
       "proposed_by": null,
       "target_research_state": "unresearched",
       "review_required": false
+    },
+    {
+      "id": "rel_01M4VD9NNFBT6JCYSPQKGWAYQN",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091XV13ETPAWBT8TJK2"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.18.29-2Chr.18.34"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "Josiah's death told like Ahab's: warning, disguise, archers, \"I am wounded\", the chariot (Curtis and Madsen; Selman via Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+          "src_01M4VD9NKZC2WKHDG4KR0NM73D"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VD9NNFKCCPR754E947FWZZ",
+      "type": "genealogical_connection",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091XV13ETPAWBT8TJK2"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "1Chr.3.15"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Josiah's sons Johanan, Jehoiakim, Zedekiah and Shallum (Jehoahaz) — the succession after his death.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
     }
   ],
   "entity_resolutions": [],

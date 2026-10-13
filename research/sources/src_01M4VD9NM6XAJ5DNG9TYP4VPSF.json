@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+  "title": "A Critical and Exegetical Commentary on the Books of Chronicles (International Critical Commentary)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Curtis, Edward Lewis",
+    "Madsen, Albert Alonzo"
+  ],
+  "publisher": "T. & T. Clark / Scribner, 1910",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/criticalexegetic00curtuoft",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1910)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 501–502: Kings knows no reform before the eighteenth year; the Chronicler makes Josiah pious from his eighth year and moves the purge before the discovery because \"such a pious king … must be represented as pious from his youth\"; p. 503: harmonisation (Bertheau, Zöckler, Oettli) treats Kings as describing the consummation of an earlier reform; p. 511: since Josiah was slain at Megiddo, \"in peace\" suggests Huldah's words were written before his death — \"a testimony to the genuineness of the prophecy\"; pp. 516–518: Necho reigned 609–594; Carchemish is the \"geographical goal\" introduced from the defeat there two years later; Josiah probably acted to preserve Judah's independence; the embassy is \"probably\" a fiction; the death is modelled on Ahab's; the battle was at Megiddo not because Necho came by sea (against Cheyne) but as an old battle-ground; Chronicles says he died after reaching Jerusalem; an assassination reading of Kings is unlikely; Jeremiah's elegy is lost; the \"lamentations\" are not the canonical book; a reference in Zech 12:11 is \"very doubtful\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

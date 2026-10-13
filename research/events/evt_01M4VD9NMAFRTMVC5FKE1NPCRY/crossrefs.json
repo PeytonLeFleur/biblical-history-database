@@ -1,0 +1,225 @@
+{
+  "event_id": "evt_01M4VD9NMAFRTMVC5FKE1NPCRY",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Naphtali",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.2.2",
+        "1Chr.6.62",
+        "1Chr.6.76",
+        "1Chr.7.13",
+        "1Chr.12.34",
+        "1Chr.12.40",
+        "1Chr.27.19",
+        "1Kgs.4.15",
+        "1Kgs.7.14",
+        "1Kgs.15.20",
+        "2Chr.16.4",
+        "2Chr.34.6",
+        "2Kgs.15.29",
+        "Deut.27.13",
+        "Deut.33.23",
+        "Deut.34.2",
+        "Exod.1.4",
+        "Ezek.48.3",
+        "Ezek.48.4",
+        "Ezek.48.34",
+        "Gen.30.8",
+        "Gen.35.25",
+        "Gen.46.24",
+        "Gen.49.21",
+        "Isa.9.1",
+        "Josh.19.32",
+        "Josh.19.39",
+        "Josh.20.7",
+        "Josh.21.6",
+        "Josh.21.32",
+        "Judg.1.33",
+        "Judg.4.6",
+        "Judg.4.10",
+        "Judg.5.18",
+        "Judg.6.35",
+        "Judg.7.23",
+        "Matt.4.13",
+        "Matt.4.15",
+        "Num.1.15",
+        "Num.1.42",
+        "Num.1.43",
+        "Num.2.29",
+        "Num.7.78",
+        "Num.10.27",
+        "Num.13.14",
+        "Num.26.48",
+        "Num.26.50",
+        "Num.34.28",
+        "Ps.68.27",
+        "Rev.7.6"
+      ]
+    },
+    {
+      "name": "Josiah",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.3.14",
+        "1Chr.3.15",
+        "1Kgs.13.2",
+        "2Chr.33.25",
+        "2Chr.34.1",
+        "2Chr.34.33",
+        "2Chr.35.1",
+        "2Chr.35.7",
+        "2Chr.35.16",
+        "2Chr.35.18",
+        "2Chr.35.19",
+        "2Chr.35.20",
+        "2Chr.35.22",
+        "2Chr.35.23",
+        "2Chr.35.24",
+        "2Chr.35.25",
+        "2Chr.35.26",
+        "2Chr.36.1",
+        "2Kgs.21.24",
+        "2Kgs.21.26",
+        "2Kgs.22.1",
+        "2Kgs.22.3",
+        "2Kgs.23.16",
+        "2Kgs.23.19",
+        "2Kgs.23.23",
+        "2Kgs.23.24",
+        "2Kgs.23.28",
+        "2Kgs.23.29",
+        "2Kgs.23.30",
+        "2Kgs.23.34",
+        "Jer.1.2",
+        "Jer.1.3",
+        "Jer.3.6",
+        "Jer.22.11",
+        "Jer.22.18",
+        "Jer.25.1",
+        "Jer.25.3",
+        "Jer.26.1",
+        "Jer.27.1",
+        "Jer.35.1",
+        "Jer.36.1",
+        "Jer.36.2",
+        "Jer.36.9",
+        "Jer.37.1",
+        "Jer.45.1",
+        "Jer.46.2",
+        "Matt.1.10",
+        "Matt.1.11",
+        "Zech.6.10",
+        "Zeph.1.1"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VD9NN8QZMJSAV2EN9DF7KD",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VD9NMAFRTMVC5FKE1NPCRY"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The same kinds of cult objects and places are removed in Kings' eighteenth-year reform; whether Chronicles has relocated that reform or records an earlier phase is the disputed question.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VD9NM3WA15Z997YGN099AG",
+          "src_01M4VD9NM6XAJ5DNG9TYP4VPSF"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VD9NN8AGP00GBSZQV5BRD1",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VD9NMAFRTMVC5FKE1NPCRY"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VCA091CG2RC0X52ZC90GQ5"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Chronicles: \"in the eighteenth year … when he had purged the land and the house\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VD9NN81KKH1QW24ECPE16X",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VD9NMAFRTMVC5FKE1NPCRY"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.1.2"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Jeremiah's call in Josiah's thirteenth year — within the period of the Chronicler's early reform.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VD9NN84C0MJZEGNKSVAPE8",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VD9NMAFRTMVC5FKE1NPCRY"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Zeph.1.4-Zeph.1.6"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Zephaniah (in Josiah's days) threatens the remnant of Baal — consistent with a reform under way.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VD9NMCQN79BSHGYF25EC83",
+    "cst_01M4VD9NMCWTT7F05KZRNK9MF1"
+  ]
+}

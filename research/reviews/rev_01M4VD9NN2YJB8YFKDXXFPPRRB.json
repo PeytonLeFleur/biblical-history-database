@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VD9NN2YJB8YFKDXXFPPRRB",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VD9NMDEWMB11S532DERS64",
+  "record_revision": 1,
+  "reason": "Disputed: did Josiah's purge begin in his twelfth year, before the law book was found (2 Chr 34:3), or only after it (2 Kgs 22–23)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:54:40.674Z",
+  "decisions": [],
+  "is_fixture": false
+}

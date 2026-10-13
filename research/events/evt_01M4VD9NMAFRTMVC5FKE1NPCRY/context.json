@@ -1,0 +1,128 @@
+{
+  "event_id": "evt_01M4VD9NMAFRTMVC5FKE1NPCRY",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In his eighth year, while still young, Josiah began to seek the God of David; in his twelfth year he began to purge Judah and Jerusalem of the high places, Asherim and images; the altars of the Baals were broken down before him, the priests' bones burned on their altars, and the same done in the cities of Manasseh, Ephraim and Simeon as far as Naphtali.",
+    "passage": "2Chr.34.3-2Chr.34.7"
+  },
+  "setting": {
+    "period": "c. 632–627 BC (8th–12th years)",
+    "body": "Payne (via Guzik) connects the twelfth year with Scythian incursions of 628–626 BC (not verified here). Nabopolassar became king of Babylon in 626; ABC 3 records Babylonian–Assyrian warfare from 616, by which time Assyrian control of the former Israelite territories was weakening.",
+    "citations": [
+      "src_01M4VD9NKT6N7B0A4JN2MC1089",
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+      "reign_id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4VD9NM3WA15Z997YGN099AG"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+    "kgd_01M4RPJVYGDD239HH2H3ZH04MY"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VD9NMCQN79BSHGYF25EC83",
+      "subject": "evt_01M4VD9NMAFRTMVC5FKE1NPCRY",
+      "object": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "relation": "years_later",
+      "textual_assertion": "in the twelfth year he began to purge Judah and Jerusalem",
+      "passage": "2Chr.34.3",
+      "offset": {
+        "min": 10,
+        "max": 13
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Twelfth regnal year: 10–11 years after accession (non-accession count) or 11–12 (accession count), lasting a year; offset 10–13 (operator margin)."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    },
+    {
+      "id": "cst_01M4VD9NMCWTT7F05KZRNK9MF1",
+      "subject": "evt_01M4VD9NMAFRTMVC5FKE1NPCRY",
+      "object": "evt_01M4VCA091CG2RC0X52ZC90GQ5",
+      "relation": "before",
+      "textual_assertion": "Now in the eighteenth year of his reign, when he had purged the land and the house",
+      "passage": "2Chr.34.8",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Purged city",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Chronicles keeps the true order: reform from the twelfth year, completed after the eighteenth",
+      "proponents": [
+        "C. F. Keil (1872)",
+        "Bertheau, Zöckler, Oettli (harmonisation, as reported by Curtis)",
+        "Josephus (reform from Josiah's twelfth year of age)"
+      ],
+      "summary": "Kings describes the consummation of a reform begun earlier; Chronicles narrates it in order of time.",
+      "citations": [
+        "src_01M4VD9NM3WA15Z997YGN099AG",
+        "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+        "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+      ]
+    },
+    {
+      "label": "The Chronicler moved the reform before the discovery for theological reasons",
+      "proponents": [
+        "E. L. Curtis and A. A. Madsen (1910)"
+      ],
+      "summary": "A pious king \"must be represented as pious from his youth\"; Kings knows no reform before the eighteenth year.",
+      "citations": [
+        "src_01M4VD9NM6XAJ5DNG9TYP4VPSF"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VD9NKT6N7B0A4JN2MC1089",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the purge as beginning at the centre and working outward, quotes Wiseman that the two-stage sequence may reflect the Chronicler's emphases, and Payne on the Scythians.",
+      "url": "https://enduringword.com/bible-commentary/2-chronicles-34/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Josephus places the reform's start at Josiah's twelfth year of age, not regnal year — a different reading again.",
+    "Payne's Scythian connection was read only through Guzik."
+  ],
+  "not_applicable": {}
+}
