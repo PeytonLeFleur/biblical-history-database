@@ -881,10 +881,11 @@
   "id": "loc_01M4TTS0HJGY825103AG016ZWM",
   "slug": "ulai-river",
   "is_fixture": false,
-  "revision": 1,
+  "revision": 2,
   "citations": [
    "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
-   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V1HGTXESMP3F4ZB46SXAQY"
   ],
   "notes": null,
   "primary_name": "Ulai (Eulaeus)",
@@ -917,9 +918,71 @@
     "geom_source_id": "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
     "proponents": [],
     "reasoning": "Pleiades marks the identification with a question mark; the point lies far upstream of Susa, whereas Daniel places the Ulai at Susa. The stream or canal at Susa is not precisely located in the sources read."
+   },
+   {
+    "id": "lhy_01M4V1HGV4A9FCJM49WVMXN0VS",
+    "label": "Karkheh/Eulaeus? (Pleiades 912877, uncertain)",
+    "lat": 32.715031646573316,
+    "lon": 47.80347713752152,
+    "coordinate_precision": "region",
+    "confidence": "possible",
+    "geom_source_id": "src_01M4V1HGTXESMP3F4ZB46SXAQY",
+    "proponents": [],
+    "reasoning": "A second Pleiades record also equates a river with the Eulaeus/Ulaya, again with a question mark; its representative point lies on the Karkheh west of Susa, nearer Daniel's \"Ulai\" at Susa than the Saimarreh candidate. Neither identification is confirmed by the sources read."
    }
   ],
   "description": "River or canal at Susa where Daniel saw himself in the vision (8:2, 16). Exact course uncertain."
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4V1HGV08ZPS4M5XMQFFZ8ZM",
+  "slug": "tigris-river",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V1HGTTF6S91B9P9HYFB8PM",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "primary_name": "Tigris (Hiddekel)",
+  "place_type": "river",
+  "modern_name": "Tigris (Dicle, Dijlah)",
+  "modern_country": "Turkey; Syria; Iraq",
+  "kingdom_id": null,
+  "ancient_names": [
+   {
+    "name": "Hiddekel",
+    "language": "Hebrew",
+    "period": null,
+    "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+   },
+   {
+    "name": "Idiglat",
+    "language": "Akkadian",
+    "period": null,
+    "source_id": "src_01M4V1HGTTF6S91B9P9HYFB8PM"
+   },
+   {
+    "name": "Tigris",
+    "language": "Greek",
+    "period": null,
+    "source_id": "src_01M4V1HGTTF6S91B9P9HYFB8PM"
+   }
+  ],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4V1HGTXAYW8PXC5F4QVDA9P",
+    "label": "Tigris (Pleiades 912964, representative point)",
+    "lat": 34.92380288490795,
+    "lon": 43.71229749451246,
+    "coordinate_precision": "region",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4V1HGTTF6S91B9P9HYFB8PM",
+    "proponents": [],
+    "reasoning": "Hiddekel is the Tigris (Gen 2:14; Driver: Akkadian Idiglat). The point is Pleiades' representative point for the whole river; where on its banks Daniel stood is not stated."
+   }
+  ],
+  "description": "River of Mesopotamia, Hebrew Hiddekel (Gen 2:14; Dan 10:4)."
  },
  {
   "kind": "person",
@@ -2963,6 +3026,102 @@
   ]
  },
  {
+  "kind": "prophecy",
+  "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS",
+  "slug": "princes-of-persia-and-greece-dan-10",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The princes of Persia and Greece and Michael (Dan 10:13, 20–21)",
+  "passage": "Dan.10.13-Dan.10.21",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "A heavenly conflict: the prince of Persia resists, Michael helps, and the prince of Greece \"will come\". The chapter introduces the revelation of 11:2–12:4.",
+  "in_text_interpretation": "Michael is \"your prince\" — the prince of Daniel's people (10:21; 12:1). The princes of Persia and Greece are not otherwise identified.",
+  "interpretations": [
+   {
+    "id": "ful_01M4V1HGV970KAZFJ0PRAT0WWD",
+    "label": "Patron (guardian) angels of the nations",
+    "approach": "mixed",
+    "framework": "Patristic and historical-critical",
+    "proponents": [
+     "Jerome (citing Deut 32:8: \"according to the number of the angels of God\")",
+     "S. R. Driver (1900)",
+     "J. A. Montgomery (1927)"
+    ],
+    "summary": "Each nation has an angelic prince in heaven whose success matches its own; Michael is Israel's. Textual reasoning: Deut 32:8 in the LXX (and a reading Driver notes some think original) divides the nations \"according to the number of the sons/angels of God\"; Sir 17:17; Isa 24:21. Driver: the doctrine of tutelary angels appears distinctly for the first time here, developed later into seventy angel-princes of the nations (Targum Ps.-Jonathan, as cited by Driver). This is a statement about the text's worldview, not a historical claim.",
+    "referents": [
+     {
+      "symbol": "Prince of Persia",
+      "referent": "Persia's patron angel"
+     },
+     {
+      "symbol": "Michael",
+      "referent": "Israel's patron angel"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V1HGTNZRY1HTKAJS9JSQH9",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK81W6HP2HFZ7744DHRG"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V1HGV9H5FNT6E8NBWT5CBD",
+    "label": "Hostile spiritual powers (high-ranking demons) opposing God's purposes",
+    "approach": "mixed",
+    "framework": "Conservative evangelical",
+    "proponents": [
+     "D. Guzik (citing Walvoord, Wood and Baldwin)"
+    ],
+    "summary": "The prince of Persia is \"a demon of high rank\", not a human ruler; prayer is linked to unseen conflict (cf. Eph 6:12; John 12:31). Guzik rejects reading the prince as a human king.",
+    "referents": [
+     {
+      "symbol": "Prince of Persia",
+      "referent": "An evil angelic power"
+     },
+     {
+      "symbol": "Michael",
+      "referent": "Archangel guarding Israel (Jude 9; Rev 12:7)"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V1HGTHCRQQEWYXYFD65NWF"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V1HGV9AQ7K9331SFGTFC4H",
+    "label": "The coming of the prince of Greece = the Macedonian overthrow of Persia",
+    "approach": "preterist",
+    "framework": "Patristic",
+    "proponents": [
+     "Jerome"
+    ],
+    "summary": "After the Jews were freed, Alexander slew Darius and overthrew the Persians and Medes, so that \"the prince of the Greeks did overcome the prince of the Persians\". Historical evidence: Arrian on Gaugamela (331) and Darius III's death (330). Objection: the text speaks of heavenly princes, and the link to a particular event is the interpreter's.",
+    "referents": [
+     {
+      "symbol": "Prince of Greece will come",
+      "referent": "The rise of Alexander's Macedon against Persia"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V1HGTNZRY1HTKAJS9JSQH9",
+     "src_01M4TTS0H4CEAKS7ZHP91RP73B"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
   "kind": "reign",
   "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
   "slug": "uzziah-reign-albright",
@@ -4136,5 +4295,57 @@
    }
   ],
   "description": "A ram, a goat, four horns and a little horn that attacks the host of heaven and the sanctuary, interpreted by Gabriel. Unlike ch. 7, the text itself names Media, Persia and Greece; later identifications (Alexander, the successors, Antiochus) are interpretations recorded on the prophecy records."
+ },
+ {
+  "kind": "vision",
+  "id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "slug": "vision-by-the-tigris-dan-10",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The vision by the Tigris (Dan 10–12)",
+  "passage": "Dan.10.4-Dan.12.13",
+  "recipient_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+  "experience_event_id": "evt_01M4V1HGV4JE844DCHJHBJX234",
+  "symbols": [
+   {
+    "symbol": "A man clothed in linen, girded with gold of Uphaz",
+    "description": "Body like beryl, face like lightning, eyes like torches, arms and feet like bronze, voice like a multitude",
+    "passage": "Dan.10.5-Dan.10.6",
+    "in_text_interpretation": "Not named. He says he was \"sent\" (10:11); reappears above the river in 12:6–7."
+   },
+   {
+    "symbol": "One in the likeness of the sons of men",
+    "description": "Touches Daniel's lips and strengthens him",
+    "passage": "Dan.10.16-Dan.10.18",
+    "in_text_interpretation": "Not named; whether the same as the man in linen is not stated."
+   },
+   {
+    "symbol": "The prince of the kingdom of Persia",
+    "description": "Withstands the speaker 21 days",
+    "passage": "Dan.10.13",
+    "in_text_interpretation": "Called a \"prince\" (sar); his nature is not explained."
+   },
+   {
+    "symbol": "Michael, one of the chief princes",
+    "description": "Comes to help the speaker",
+    "passage": "Dan.10.13",
+    "in_text_interpretation": "\"Michael your prince\" (10:21); \"the great prince who stands for the children of your people\" (12:1)."
+   },
+   {
+    "symbol": "The prince of Greece",
+    "description": "Will come when the speaker goes out",
+    "passage": "Dan.10.20",
+    "in_text_interpretation": "Not explained."
+   },
+   {
+    "symbol": "The writing of truth",
+    "description": "Source of what the speaker will reveal",
+    "passage": "Dan.10.21",
+    "in_text_interpretation": "Not explained."
+   }
+  ],
+  "description": "The last vision of Daniel, received by the Tigris in Cyrus's third year. Chapter 10 is the frame: a heavenly figure and a conflict of heavenly \"princes\". The revelation proper (11:2–12:4) and the closing dialogue (12:5–13) are recorded with chapters 11 and 12."
  }
 ]

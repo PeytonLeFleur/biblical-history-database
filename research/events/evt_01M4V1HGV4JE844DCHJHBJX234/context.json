@@ -1,0 +1,168 @@
+{
+  "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In Cyrus's third year Daniel mourns three weeks; on the 24th of the first month, by the Tigris, he sees a dazzling man in linen whom his companions do not see. He falls senseless, is raised by a hand, and told that his prayer was heard from the first day but the prince of Persia withstood the messenger 21 days until Michael helped. Strengthened again, he is told that the messenger will return to fight the prince of Persia, that the prince of Greece will come, and that he will reveal what is written in the writing of truth.",
+    "passage": "Dan.10.1-Dan.11.1"
+  },
+  "setting": {
+    "period": "Early Persian rule in Babylonia: Cyrus's third Babylonian year (spring 536 – spring 535)",
+    "body": "Two years after Cyrus's first-year decree (Ezra 1), Daniel is still in Babylonia. The 24th of the first month (Nisan) falls just after Passover and the feast of Unleavened Bread (14–21 Nisan), which on Driver's reading lay within his three weeks of mourning. Hiddekel is the Tigris (Gen 2:14).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "King (\"third year of Cyrus king of Persia\")",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V1HGVDHHMARD8QXBQ7PX6T",
+      "subject": "evt_01M4V1HGV4JE844DCHJHBJX234",
+      "object": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the third year of Cyrus king of Persia",
+      "passage": "Dan.10.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 3,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Cyrus's years counted from his conquest of Babylon, Babylonian style: year 3 = 1 Nisan 536 (30 Mar) to Mar 535 (Parker & Dubberstein table).",
+        "If \"the first month\" (10:4) is that year's Nisan, its 24th day ≈ 22 Apr 536 (operator calculation from the table); a Judean calendar could differ by a month.",
+        "Counting from Cyrus's accession in Persia (c. 559) would give c. 557/556; no source consulted adopts this."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4V1HGVDWS23XYMSHVZZKDXK",
+      "subject": "evt_01M4V1HGV4JE844DCHJHBJX234",
+      "object": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+      "relation": "after",
+      "textual_assertion": "In the third year of Cyrus king of Persia",
+      "passage": "Dan.10.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Cyrus's third year follows the first year of Darius the Mede (Dan 9:1) on every identification consulted."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4V1HGV08ZPS4M5XMQFFZ8ZM",
+      "role": "Where Daniel stood when he saw the vision (exact place unknown)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "prince (sar)",
+      "gloss": "Ruler or commander; here used of heavenly beings assigned to nations (Driver: patron-angels).",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    },
+    {
+      "term": "Uphaz",
+      "gloss": "A source of fine gold (also Jer 10:9); location unknown.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "The man in linen is Gabriel",
+      "proponents": [
+        "J. A. Montgomery (1927)"
+      ],
+      "summary": "The affectionate address (10:11, 19; cf. 9:23) and the announcement of \"yet a vision\" point to the angel of chs. 8–9; he cannot be God because he was \"sent\".",
+      "citations": [
+        "src_01M4TSKK81W6HP2HFZ7744DHRG"
+      ]
+    },
+    {
+      "label": "An unnamed high angel",
+      "proponents": [
+        "Jephet, Calvin, Zöckler (reported by Montgomery)",
+        "D. Guzik (leaning)"
+      ],
+      "summary": "A third angel besides Gabriel and Michael; Guzik reasons that the figure needed Michael's help.",
+      "citations": [
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4V1HGTHCRQQEWYXYFD65NWF"
+      ]
+    },
+    {
+      "label": "A Christophany (the pre-incarnate Son)",
+      "proponents": [
+        "Hippolytus and Ephrem (reported by Montgomery)",
+        "\"Some\" (reported by Guzik)"
+      ],
+      "summary": "The description is echoed in Rev 1:13–15 of the risen Jesus.",
+      "citations": [
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4V1HGTHCRQQEWYXYFD65NWF"
+      ]
+    },
+    {
+      "label": "No conflict with Dan 1:21",
+      "proponents": [
+        "Jerome"
+      ],
+      "summary": "Daniel \"continued\" in his high position until Cyrus's first year (1:21) but lived on; the vision in Cyrus's third year is not excluded.",
+      "citations": [
+        "src_01M4V1HGTNZRY1HTKAJS9JSQH9"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V1HGTHCRQQEWYXYFD65NWF",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that Daniel, about 84, stayed in Babylon after the first return, reads the three weeks as a partial fast, takes the prince of Persia as a high-ranking demon resisting the answer to prayer, and leans toward identifying the man in linen as an angel rather than Christ.",
+      "url": "https://enduringword.com/bible-commentary/daniel-10/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Old Greek and Theodotion differences in ch. 10 not read beyond Jerome's notes.",
+    "Deut 32:8 in 4QDeut(j) (\"sons of God\") not read directly."
+  ],
+  "not_applicable": {}
+}

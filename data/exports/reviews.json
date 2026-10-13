@@ -973,5 +973,44 @@
   "status": "open",
   "created_at": "2026-10-13T16:19:52.170Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4V1HGVHN1GF00TDRT0CDAVV",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V1HGVE28K92SRAG2185K7X",
+  "record_revision": 1,
+  "reason": "Disputed: \"king of Persia\" as a post-imperial title (Driver) vs Behistun §1",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:29:14.993Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V1HGVKPQKF8XD01KP1BCS5",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V1HGVHKTX3MZDP8YAABTR8",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 10): The coming of \"the prince of Greece\"",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:29:14.995Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V1HGVQ9J83KD8R7MKZVTY7",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V1HGV9AQ7K9331SFGTFC4H",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 10): The coming of the prince of Greece = the Macedonian overthrow of Persia",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:29:14.999Z",
+  "decisions": []
  }
 ]

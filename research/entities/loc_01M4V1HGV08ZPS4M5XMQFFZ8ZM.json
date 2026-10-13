@@ -1,0 +1,51 @@
+{
+  "kind": "place",
+  "id": "loc_01M4V1HGV08ZPS4M5XMQFFZ8ZM",
+  "slug": "tigris-river",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V1HGTTF6S91B9P9HYFB8PM",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "primary_name": "Tigris (Hiddekel)",
+  "place_type": "river",
+  "modern_name": "Tigris (Dicle, Dijlah)",
+  "modern_country": "Turkey; Syria; Iraq",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Hiddekel",
+      "language": "Hebrew",
+      "period": null,
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    },
+    {
+      "name": "Idiglat",
+      "language": "Akkadian",
+      "period": null,
+      "source_id": "src_01M4V1HGTTF6S91B9P9HYFB8PM"
+    },
+    {
+      "name": "Tigris",
+      "language": "Greek",
+      "period": null,
+      "source_id": "src_01M4V1HGTTF6S91B9P9HYFB8PM"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4V1HGTXAYW8PXC5F4QVDA9P",
+      "label": "Tigris (Pleiades 912964, representative point)",
+      "lat": 34.92380288490795,
+      "lon": 43.71229749451246,
+      "coordinate_precision": "region",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4V1HGTTF6S91B9P9HYFB8PM",
+      "proponents": [],
+      "reasoning": "Hiddekel is the Tigris (Gen 2:14; Driver: Akkadian Idiglat). The point is Pleiades' representative point for the whole river; where on its banks Daniel stood is not stated."
+    }
+  ],
+  "description": "River of Mesopotamia, Hebrew Hiddekel (Gen 2:14; Dan 10:4)."
+}

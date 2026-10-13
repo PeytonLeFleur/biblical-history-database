@@ -1,0 +1,96 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS",
+  "slug": "princes-of-persia-and-greece-dan-10",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The princes of Persia and Greece and Michael (Dan 10:13, 20–21)",
+  "passage": "Dan.10.13-Dan.10.21",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "A heavenly conflict: the prince of Persia resists, Michael helps, and the prince of Greece \"will come\". The chapter introduces the revelation of 11:2–12:4.",
+  "in_text_interpretation": "Michael is \"your prince\" — the prince of Daniel's people (10:21; 12:1). The princes of Persia and Greece are not otherwise identified.",
+  "interpretations": [
+    {
+      "id": "ful_01M4V1HGV970KAZFJ0PRAT0WWD",
+      "label": "Patron (guardian) angels of the nations",
+      "approach": "mixed",
+      "framework": "Patristic and historical-critical",
+      "proponents": [
+        "Jerome (citing Deut 32:8: \"according to the number of the angels of God\")",
+        "S. R. Driver (1900)",
+        "J. A. Montgomery (1927)"
+      ],
+      "summary": "Each nation has an angelic prince in heaven whose success matches its own; Michael is Israel's. Textual reasoning: Deut 32:8 in the LXX (and a reading Driver notes some think original) divides the nations \"according to the number of the sons/angels of God\"; Sir 17:17; Isa 24:21. Driver: the doctrine of tutelary angels appears distinctly for the first time here, developed later into seventy angel-princes of the nations (Targum Ps.-Jonathan, as cited by Driver). This is a statement about the text's worldview, not a historical claim.",
+      "referents": [
+        {
+          "symbol": "Prince of Persia",
+          "referent": "Persia's patron angel"
+        },
+        {
+          "symbol": "Michael",
+          "referent": "Israel's patron angel"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4V1HGTNZRY1HTKAJS9JSQH9",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V1HGV9H5FNT6E8NBWT5CBD",
+      "label": "Hostile spiritual powers (high-ranking demons) opposing God's purposes",
+      "approach": "mixed",
+      "framework": "Conservative evangelical",
+      "proponents": [
+        "D. Guzik (citing Walvoord, Wood and Baldwin)"
+      ],
+      "summary": "The prince of Persia is \"a demon of high rank\", not a human ruler; prayer is linked to unseen conflict (cf. Eph 6:12; John 12:31). Guzik rejects reading the prince as a human king.",
+      "referents": [
+        {
+          "symbol": "Prince of Persia",
+          "referent": "An evil angelic power"
+        },
+        {
+          "symbol": "Michael",
+          "referent": "Archangel guarding Israel (Jude 9; Rev 12:7)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4V1HGTHCRQQEWYXYFD65NWF"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V1HGV9AQ7K9331SFGTFC4H",
+      "label": "The coming of the prince of Greece = the Macedonian overthrow of Persia",
+      "approach": "preterist",
+      "framework": "Patristic",
+      "proponents": [
+        "Jerome"
+      ],
+      "summary": "After the Jews were freed, Alexander slew Darius and overthrew the Persians and Medes, so that \"the prince of the Greeks did overcome the prince of the Persians\". Historical evidence: Arrian on Gaugamela (331) and Darius III's death (330). Objection: the text speaks of heavenly princes, and the link to a particular event is the interpreter's.",
+      "referents": [
+        {
+          "symbol": "Prince of Greece will come",
+          "referent": "The rise of Alexander's Macedon against Persia"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V1HGTNZRY1HTKAJS9JSQH9",
+        "src_01M4TTS0H4CEAKS7ZHP91RP73B"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

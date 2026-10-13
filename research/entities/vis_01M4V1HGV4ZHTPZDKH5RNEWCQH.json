@@ -1,0 +1,52 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "slug": "vision-by-the-tigris-dan-10",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The vision by the Tigris (Dan 10–12)",
+  "passage": "Dan.10.4-Dan.12.13",
+  "recipient_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+  "experience_event_id": "evt_01M4V1HGV4JE844DCHJHBJX234",
+  "symbols": [
+    {
+      "symbol": "A man clothed in linen, girded with gold of Uphaz",
+      "description": "Body like beryl, face like lightning, eyes like torches, arms and feet like bronze, voice like a multitude",
+      "passage": "Dan.10.5-Dan.10.6",
+      "in_text_interpretation": "Not named. He says he was \"sent\" (10:11); reappears above the river in 12:6–7."
+    },
+    {
+      "symbol": "One in the likeness of the sons of men",
+      "description": "Touches Daniel's lips and strengthens him",
+      "passage": "Dan.10.16-Dan.10.18",
+      "in_text_interpretation": "Not named; whether the same as the man in linen is not stated."
+    },
+    {
+      "symbol": "The prince of the kingdom of Persia",
+      "description": "Withstands the speaker 21 days",
+      "passage": "Dan.10.13",
+      "in_text_interpretation": "Called a \"prince\" (sar); his nature is not explained."
+    },
+    {
+      "symbol": "Michael, one of the chief princes",
+      "description": "Comes to help the speaker",
+      "passage": "Dan.10.13",
+      "in_text_interpretation": "\"Michael your prince\" (10:21); \"the great prince who stands for the children of your people\" (12:1)."
+    },
+    {
+      "symbol": "The prince of Greece",
+      "description": "Will come when the speaker goes out",
+      "passage": "Dan.10.20",
+      "in_text_interpretation": "Not explained."
+    },
+    {
+      "symbol": "The writing of truth",
+      "description": "Source of what the speaker will reveal",
+      "passage": "Dan.10.21",
+      "in_text_interpretation": "Not explained."
+    }
+  ],
+  "description": "The last vision of Daniel, received by the Tigris in Cyrus's third year. Chapter 10 is the frame: a heavenly figure and a conflict of heavenly \"princes\". The revelation proper (11:2–12:4) and the closing dialogue (12:5–13) are recorded with chapters 11 and 12."
+}
