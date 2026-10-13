@@ -1,0 +1,46 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VMFQ8QMWG5F67FBHDEXKP3",
+  "slug": "zerubbabels-hands-will-finish-the-house-zech-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VMFQ8QVHXJEK6B8A5W5KDK",
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+  ],
+  "notes": null,
+  "title": "\"Not by might … but by my Spirit\": Zerubbabel's hands will finish the house (Zech 4:6–10)",
+  "passage": "Zech.4.6-Zech.4.10",
+  "speaker": "The LORD (through the interpreting angel)",
+  "vision_id": "vis_01M4VMFQ8QQXZR2YGKHHWNRE3A",
+  "description": "The great mountain will become a plain before Zerubbabel; he will bring out the capstone; his hands laid the foundation and will finish the house; let no one despise the day of small things.",
+  "in_text_interpretation": "The completion is tied to a named person and a known building; the text gives no date.",
+  "interpretations": [
+    {
+      "id": "ful_01M4VMFQ9C6ZZGZZ5YTVQN5GEK",
+      "label": "Fulfilled when the Temple was completed under Darius (515 BC)",
+      "approach": "preterist",
+      "framework": "Historical narrative",
+      "proponents": [
+        "Ezra 6:14–15 (text)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: Zerubbabel is named and the house is the Temple then under construction. Historical evidence: Ezra 6:15 records completion in Adar of Darius's sixth year, with the elders prospering through Zechariah's prophesying (6:14). Objection: Ezra 6 does not name Zerubbabel at the completion.",
+      "referents": [
+        {
+          "symbol": "This house",
+          "referent": "The Second Temple"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VMFQ8QVHXJEK6B8A5W5KDK"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

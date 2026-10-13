@@ -23,6 +23,13 @@
       "engine": "local text",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Zechariah 3–4: Enduring Word; Mitchell pp. 150–170; Keil pp. 250–280",
+      "engine": "local text",
+      "useful_results": 3,
+      "notes": null
     }
   ],
   "domains": {
@@ -84,6 +91,25 @@
       "contextual_evidence": [
         "evd_01M4VKPC35A9ZXRNR79ZCK7NZC"
       ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VMFQ9N66N1WRGV8567KZQ4",
+      "statement": "The \"two anointed ones\" of Zech 4:14 are Zerubbabel and Joshua.",
+      "layer": "interpretation",
+      "passage": "Zech.4.14",
+      "classification": "not_empirically_testable",
+      "reasoning": "All three sources read (Mitchell, Keil, Guzik) agree; the text does not name them. Revelation 11:4 later uses the image for the two witnesses. Recorded as an interpretive consensus, not an empirical finding.",
+      "supporting_evidence": [
+        "evd_01M4VMFQ9NBFS9MW5K0E2V4WXE",
+        "evd_01M4VMFQ9N0PQHR389M7QBW5WM",
+        "evd_01M4VMFQ9P7G0ZTHKZBK6119JA"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
       "limitations": [],
       "reviewer_status": "machine_proposed",
       "review_required": false,
@@ -154,6 +180,54 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "mitchell-1912"
+    },
+    {
+      "id": "evd_01M4VMFQ9NBFS9MW5K0E2V4WXE",
+      "claim_ids": [
+        "clm_01M4VMFQ9N66N1WRGV8567KZQ4"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The two immediately suggest Zerubbabel, the hereditary prince, and Joshua, the hereditary high priest.",
+      "locator": "pp. 164–165",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "mitchell-1912"
+    },
+    {
+      "id": "evd_01M4VMFQ9N0PQHR389M7QBW5WM",
+      "claim_ids": [
+        "clm_01M4VMFQ9N66N1WRGV8567KZQ4"
+      ],
+      "source_id": "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The two sons of oil can only be the representatives of priesthood and royal government: Joshua and Zerubbabel.",
+      "locator": "p. 275",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1868"
+    },
+    {
+      "id": "evd_01M4VMFQ9P7G0ZTHKZBK6119JA",
+      "claim_ids": [
+        "clm_01M4VMFQ9N66N1WRGV8567KZQ4"
+      ],
+      "source_id": "src_01M4VMFQ8QVHXJEK6B8A5W5KDK",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "In Zechariah's day the two anointed ones were Zerubbabel and Joshua.",
+      "locator": "on 4:14",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
     }
   ],
   "artifacts": [],

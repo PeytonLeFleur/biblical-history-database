@@ -197,6 +197,203 @@
       "proposed_by": null,
       "target_research_state": "unresearched",
       "review_required": false
+    },
+    {
+      "id": "rel_01M4VMFQ9PPQHGV9SC20PQ0G3P",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VMFQ8Q4JJQJF2SCFNPAPJ8"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The fourth vision's oracle.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VMFQ9PXGF38SCF2N4P0TN8",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VMFQ8QMWG5F67FBHDEXKP3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The fifth vision's word to Zerubbabel.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VMFQ9PDDS02W6MWFYYHHDZ",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4VMFQ8QMWG5F67FBHDEXKP3"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "\"His hands shall also finish it\" (Zech 4:9) — the Temple completed in Darius's sixth year (Ezra 6:15).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VMFQ8QVHXJEK6B8A5W5KDK"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Ezra 6:14–15 (text); Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4VMFQ9P9Z930PY58TXFBF51",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"The hands of Zerubbabel have laid the foundation of this house\" (4:9).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VMFQ9PNMHJ5ZX4YVCKT1XY",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7DSW2PR19Z4821S9D"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The word to Zerubbabel encourages the work resumed in 520.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VMFQ9P9FJN6VR8H16ABXRS",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4VMFQ8Q4JJQJF2SCFNPAPJ8"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VJCX9W686JCFMFREKRNS01"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Haggai's signet and Zechariah's Branch both centre Davidic hope on Zerubbabel or on the Messiah, depending on the reading.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+          "src_01M4VJCX9WFDDMH4453WKV1J34"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VMFQ9Q9JQ9M5QEB7G54GDA",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.11.4"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"The two olive trees and the two lampstands\" — the image reused for the two witnesses.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VMFQ9QRMC293DQMK9905WW",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.23.5"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"I will raise to David a righteous Branch\" — the title of Zech 3:8.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
     }
   ],
   "entity_resolutions": [],

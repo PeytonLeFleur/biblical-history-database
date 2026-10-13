@@ -2,7 +2,7 @@
 
 **1. Owner editorial review: the owner only.**
 - Daniel is complete in research, cross-book validation, technical validation and deployment.
-- Only the owner's decisions remain: **157 Daniel-related open review items**, plus 1 Amos item. Milestone 7 adds its own items (26 so far; 184 open in total; `pnpm review:list`).
+- Only the owner's decisions remain: **157 Daniel-related open review items**, plus 1 Amos item. Milestone 7 adds its own items (29 so far; 187 open in total; `pnpm review:list`).
 - Work through `docs/reviews/DANIEL_OWNER_REVIEW_PACKAGE.md`. Each item gives its evidence, research state and an advisory recommendation.
 - Decide with `pnpm review:approve <rev_id>`, `pnpm review:reject <rev_id>` or `pnpm review:return <rev_id>`.
 - **Claude must never run approve or reject.**
@@ -11,12 +11,12 @@
 **2. Milestone 7: full canon expansion** (SPEC Part 20).
 - The owner review need not block it, but publication levels stay at *researched* until the reviews are decided.
 - Prioritise books whose historical contexts overlap the existing records, to strengthen entity resolution and chronology. Suggested order:
-  1. ~~**2 Kings 22–23**~~ (#23), ~~**2 Chronicles 34–35**~~ (#24) and ~~**Ezra 2–3**~~ (#25) and ~~**Ezra 4–5**~~ (#27) and ~~**Ezra 6**~~ (#28) and ~~**Haggai 1–2**~~ (#29) and ~~**Zechariah 1–2**~~ (#30) are done.
+  1. ~~**2 Kings 22–23**~~ (#23), ~~**2 Chronicles 34–35**~~ (#24) and ~~**Ezra 2–3**~~ (#25) and ~~**Ezra 4–5**~~ (#27) and ~~**Ezra 6**~~ (#28) and ~~**Haggai 1–2**~~ (#29) and ~~**Zechariah 1–4**~~ (#30, #31) are done.
   2. **Ezra 2–6 and Haggai–Zechariah 1–8:** the return and the Temple's rebuilding, using the existing Darius I decree and the 516/515 completion.
   3. **Nehemiah 1–2 and Ezra 7:** the Artaxerxes decrees already exist as events; complete their chapters.
   4. **Esther:** Xerxes I (P&D reigns).
   5. **Jeremiah 26–45 and Ezekiel 1, 24, 33, 40:** Ezekiel's dated oracles against the 586/587 models.
   6. **The rest of the canon,** in the order of SPEC Part 20.
-- Next command: `pnpm research:chapter zechariah 3` (Zechariah 3–4: Joshua the high priest and the Branch; the lampstand and the two olive trees, Zerubbabel's hands. Attach to the existing night-visions event; reuse Jeshua and Zerubbabel). Then Zechariah 5–6, 7–8, then Ezra 7–10.
+- Next command: `pnpm research:chapter zechariah 5` (Zechariah 5–6: the flying scroll, the woman in the basket taken to Shinar, the four chariots, and the crowning of Joshua ("the Branch … shall build the temple"). Attach to the night-visions event; reuse Shinar and the Branch prophecy). Then Zechariah 7–8, then Ezra 7–10.
 
 **Carried-over gaps** (see `docs/PROJECT_STATUS.md`, "Daniel completion state"): sources that are blocked or unavailable, and the engine's Nisan-window limitation for Nehemiah 2.

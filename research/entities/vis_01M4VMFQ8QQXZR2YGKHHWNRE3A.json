@@ -1,0 +1,38 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4VMFQ8QQXZR2YGKHHWNRE3A",
+  "slug": "golden-lampstand-and-two-olive-trees-zech-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VMFQ8QVHXJEK6B8A5W5KDK",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "The golden lampstand and the two olive trees (fifth night vision)",
+  "passage": "Zech.4.1-Zech.4.14",
+  "recipient_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+  "experience_event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "symbols": [
+    {
+      "symbol": "Gold lampstand with seven lamps",
+      "description": "Lampstand",
+      "passage": "Zech.4.2",
+      "in_text_interpretation": "The seven are \"the LORD's eyes, which run back and forth through the whole earth\" (4:10)."
+    },
+    {
+      "symbol": "Two olive trees / two olive branches",
+      "description": "Beside the lampstand",
+      "passage": "Zech.4.3",
+      "in_text_interpretation": "\"The two anointed ones (sons of oil) who stand by the Lord of the whole earth\" (4:14); not named."
+    },
+    {
+      "symbol": "Great mountain become a plain",
+      "description": "Obstacle",
+      "passage": "Zech.4.7",
+      "in_text_interpretation": "Levelled before Zerubbabel, who will bring out the capstone (4:7)."
+    }
+  ],
+  "description": "A gold lampstand with a bowl and seven lamps, and two olive trees beside it; a word to Zerubbabel; the trees (and branches) explained as two anointed ones."
+}
