@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4V8NMB4A40Y9J6HMTAV5WR7",
+  "subject_kind": "chapter",
+  "subject_id": "Isa.45",
+  "book": "Isa",
+  "chapter": 45,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-13T18:33:59.001Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-13T18:33:49.669Z",
+  "updated_at": "2026-10-13T18:33:59.001Z",
+  "is_fixture": false
+}

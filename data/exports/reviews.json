@@ -1988,5 +1988,70 @@
   "status": "open",
   "created_at": "2026-10-13T18:25:01.850Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4V8NR3Y56FKA6B2H48J10GD",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V8NR3T7E3VJH2ECHN9NTN9",
+  "record_revision": 1,
+  "reason": "Disputed: date of the Cyrus oracle (Isa 44:24–45:13) — Isaiah of Jerusalem or an exilic prophet",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:33:53.534Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V8NR42BN8XCRRRR17FDV1F",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V8NR3ZQQTB55ERMRKNQ35C",
+  "record_revision": 1,
+  "reason": "Proposed identification (Isa 44–45): Cyrus says of Jerusalem \"She will be built\" and frees the exiles",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:33:53.538Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V8NR443NNQR4ZFRYN7TJFB",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V8NR3ZRXNH3KHWG7WE531N",
+  "record_revision": 1,
+  "reason": "Proposed identification (Isa 44–45): Doors and gates opened before Cyrus",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:33:53.540Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V8NR4BXXZVG4XM290XK0JT",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V8NR3JGD6QVRB50WX7E9DS",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Isa 44–45 Cyrus): Predictive prophecy of Isaiah of Jerusalem, fulfilled by Cyrus (539–538)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:33:53.547Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V8NR4D8M8S86WXT1Z5EGB7",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V8NR3J1XXCBNJ1RZQECNVF",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Isa 44–45 Cyrus): An exilic prophet announcing Cyrus's imminent conquest (c. 546–539), fulfilled shortly after",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:33:53.549Z",
+  "decisions": []
  }
 ]

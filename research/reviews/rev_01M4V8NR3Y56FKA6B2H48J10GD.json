@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V8NR3Y56FKA6B2H48J10GD",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V8NR3T7E3VJH2ECHN9NTN9",
+  "record_revision": 1,
+  "reason": "Disputed: date of the Cyrus oracle (Isa 44:24–45:13) — Isaiah of Jerusalem or an exilic prophet",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:33:53.534Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,331 @@
+{
+  "book": "Isa",
+  "chapter": 45,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Isa.45.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZYN0HGSV3Z4WXK09"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZYN0HGSV3Z4WXK09"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZYN0HGSV3Z4WXK09"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZYN0HGSV3Z4WXK09"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZYN0HGSV3Z4WXK09"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZYN0HGSV3Z4WXK09"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZYN0HGSV3Z4WXK09"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZ9ZTC8P8EFE2VYXQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZDX1M2QAM8E2TWCZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZDX1M2QAM8E2TWCZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZDX1M2QAM8E2TWCZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZDX1M2QAM8E2TWCZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RZDX1M2QAM8E2TWCZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD9XBTQ3SHN6TNNTK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD9XBTQ3SHN6TNNTK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD9XBTQ3SHN6TNNTK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RD9XBTQ3SHN6TNNTK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RMTYNRC5X7670RQNR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RMTYNRC5X7670RQNR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RMTYNRC5X7670RQNR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RMTYNRC5X7670RQNR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RMTYNRC5X7670RQNR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RMTYNRC5X7670RQNR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RMTYNRC5X7670RQNR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Isa.45.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V8NR3RMTYNRC5X7670RQNR"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V8NR3RZYN0HGSV3Z4WXK09",
+      "title": "Cyrus the LORD's anointed: doors and gates opened",
+      "passage": "Isa.45.1-Isa.45.7",
+      "description": "The LORD has held Cyrus's right hand to subdue nations, loosen kings' armour and open doors; he will break bronze doors and give hidden treasures, for Israel's sake though Cyrus does not know him; the LORD forms light and creates darkness.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Cyrus",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.5.6",
+        "Dan.5.30-Dan.5.31",
+        "Jer.51.30"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"I form the light and create darkness\" — polemic against dualism (Guzik/Bultema) or a general creation statement."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V8NR3RZ9ZTC8P8EFE2VYXQ",
+      "title": "Heavens rain righteousness",
+      "passage": "Isa.45.8",
+      "description": "Poetic call for righteousness and salvation to spring up.",
+      "record_type": "prophecy",
+      "literary_classification": "poetry",
+      "narrative_mode": "poetic",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "background",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V8NR3RZDX1M2QAM8E2TWCZ",
+      "title": "Woe to the clay that quarrels with the potter; Cyrus will build my city",
+      "passage": "Isa.45.9-Isa.45.13",
+      "description": "Rebuke of those who question the Maker; the LORD raised Cyrus in righteousness to build his city and free his exiles, not for price or reward.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "him (Cyrus)",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Rom.9.20-Rom.9.21",
+        "Ezra.1.2-Ezra.1.4"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V8NR3RD9XBTQ3SHN6TNNTK",
+      "title": "The nations come to Israel: \"God is with you\"",
+      "passage": "Isa.45.14-Isa.45.17",
+      "description": "The wealth and peoples of Egypt, Cush and Seba come over; idol-makers are shamed; Israel is saved with everlasting salvation.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "low",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V8NR3RMTYNRC5X7670RQNR",
+      "title": "Turn to me and be saved; every knee shall bow",
+      "passage": "Isa.45.18-Isa.45.25",
+      "description": "The Creator who did not speak in secret invites all the ends of the earth to be saved; to him every knee will bow and every tongue swear.",
+      "record_type": "prophecy",
+      "literary_classification": "poetry",
+      "narrative_mode": "poetic",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Phil.2.10-Phil.2.11",
+        "Rom.14.11"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-isaiah-44-45.md"
+}

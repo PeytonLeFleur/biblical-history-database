@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V8NR443NNQR4ZFRYN7TJFB",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V8NR3ZRXNH3KHWG7WE531N",
+  "record_revision": 1,
+  "reason": "Proposed identification (Isa 44–45): Doors and gates opened before Cyrus",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:33:53.540Z",
+  "decisions": [],
+  "is_fixture": false
+}

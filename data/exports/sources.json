@@ -5860,5 +5860,116 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4V8NR3AEKAJSPSVDDNM0W3D",
+  "title": "Isaiah 44 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/isaiah-44/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on Isaiah 44",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Cyrus named \"more than 200 years before\" his birth (Poole); \"my shepherd\" = the LORD's appointed carer (Motyer); Ezra records only the foundation laid under Cyrus; many modern scholars take the passage as the strongest argument for an exilic author; Guzik: the name cannot have been inserted later; Motyer: we cannot limit predictive prophecy; Josephus's Cyrus-read-Isaiah report via Bultema (220 years)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V8NR3FRFX87YB304C1N9X1",
+  "title": "Isaiah 45 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/isaiah-45/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on Isaiah 45",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Cyrus \"His anointed\", a rare non-Israelite (Grogan); conquests via Xenophon (Trapp) and Herodotus; Babylon entered by diverting the Euphrates (Herodotus), inner bronze gates \"inexplicably unlocked\"; largely bloodless (Motyer); \"I form the light and create darkness\" against Persian dualism (Bultema); 45:13 Cyrus frees the exiles \"not for price\"; 45:23 and Phil 2:10–11",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V8NR3JHP1XEB9T6DZE6WZC",
+  "title": "The Book of the Prophet Isaiah, Chapters XL–LXVI (Cambridge Bible for Schools and Colleges)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Skinner, John"
+  ],
+  "publisher": "Cambridge University Press, 1898 (1915 printing)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/bookofprophetisa02skinuoft",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1898)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the Introduction",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "pp. xv–xvii: the first modern challenge to Isaianic authorship was Döderlein (1775), with Ibn Ezra a guarded forerunner; since Delitzsch (1890) an exilic author is \"the unanimous verdict of Old Testament scholarship\", on historical, conceptual and stylistic grounds; pp. xxxiii–xl: Cyrus is already a famous conqueror but Babylon not yet taken, so chs. 40–48 date between 550 and 539, \"almost certainly after 546\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (Introduction).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]
