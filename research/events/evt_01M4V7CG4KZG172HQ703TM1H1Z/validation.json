@@ -1,0 +1,53 @@
+{
+  "event_id": "evt_01M4V7CG4KZG172HQ703TM1H1Z",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V7CG4Z9MQN6C94DV8QQHFW"
+  ],
+  "research_gaps": [
+    "Jehoiachin's age: 18 (Kings) vs 8 (2 Chr 36:9 MT) — textual variants not researched beyond Guzik."
+  ],
+  "disputes": [
+    "Jehoiakim died peacefully in Jerusalem before the siege of 597."
+  ],
+  "export_eligible": true
+}

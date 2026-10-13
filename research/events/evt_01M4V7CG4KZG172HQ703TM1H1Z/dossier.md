@@ -1,0 +1,913 @@
+# Death of Jehoiakim and the three-month reign of Jehoiachin (2 Kgs 24:5–9)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 24:5–9 (narration)
+- 2 Chronicles 36:8–9 (parallel_account): Jehoiachin "eight years old"; "three months and ten days".
+
+## Biblical account
+
+Jehoiakim "slept with his fathers" and Jehoiachin, eighteen, reigned three months; Egypt no longer campaigned beyond its border.
+
+## Historical setting
+
+**Period:** Winter 598/597
+
+Wiseman (via Guzik) dates Jehoiakim's death about December 598, three months before the chronicle's capture of Jerusalem (March 597). [1, 2]
+
+### Rulers
+
+- Jehoiakim: Died
+- Jehoiachin: Successor
+
+## Date and chronology
+
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+- **598 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+  - Latest bound from: syn_01M4RSRHMRDKVY31PHEB4EM78N (anchor) → cst_01M4V7CG4P8XNS89VKMHZDJHMT
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+## Competing reconstructions
+
+- **Natural death in Jerusalem ("slept with his fathers")** (2 Kings 24:6 (text)): The regnal formula used for peaceful deaths. [1]
+- **Dishonoured death / unburied** (Jer 22:18–19; 36:30 (text), Josephus, Ant. 10.6.3 (killed by Nebuchadnezzar and thrown before the walls)): Jeremiah foretells "the burial of a donkey"; Josephus narrates his execution. [3]
+- **Bound for Babylon** (2 Chronicles 36:6 (text)): Chronicles says Nebuchadnezzar bound him in fetters to carry him to Babylon, without saying he arrived. [1]
+
+## Claims and evidence
+
+### Jehoiakim died peacefully in Jerusalem before the siege of 597.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+2 Kgs 24:6 uses the ordinary formula; Jer 22:18–19 and 36:30 foretell a dishonoured, unburied body; 2 Chr 36:6 has him bound for Babylon; Josephus says Nebuchadnezzar killed him and had him thrown before the walls. Guzik (quoting Wiseman) dates his death to about December 598. No external source records his end.
+
+- *Challenging (direct):* Nebuchadnezzar slew Jehoiakim and commanded him to be thrown before the walls without burial. (Ant. 10.6.3) [3]
+- *Context (indirect):* Notes the Kings, Chronicles and Jeremiah accounts; death about December 598 (Wiseman). (on 24:5–6) [1]
+
+*Limitations:* Texts disagree; no external evidence.
+
+## Related passages and events
+
+- this event → **same event** → 2 Chronicles 36:8–9 (high): Parallel: Jehoiachin's accession (age 8 in MT Chronicles; "three months and ten days").
+- this event → **thematic parallel** → Jeremiah 22:18–19 (medium): Jeremiah's oracle of Jehoiakim's dishonoured burial — differs from the Kings formula.
+- this event → **followed by** → Capture of Jerusalem and deportation of Jehoiachin (March 597 BC) (high): Three months later the city was taken.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes the divergent accounts of Jehoiakim's end and treats Chronicles' "eight years old" for Jehoiachin as a probable copyist's error (some manuscripts read eighteen). [1]
+
+## Unanswered questions and research gaps
+
+- Jehoiachin's age: 18 (Kings) vs 8 (2 Chr 36:9 MT) — textual variants not researched beyond Guzik.
+
+## Disputes
+
+- Jehoiakim died peacefully in Jerusalem before the siege of 597.
+
+## Sources
+
+1. Guzik, David. 2 Kings 24 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-24/> — *theological commentary; verification: claim checked*
+2. Lendering, Jona (ed.). ABC 5 (Jerusalem Chronicle / Chronicle of the early years of Nebuchadnezzar) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/> — *ancient primary text; verification: claim checked*
+3. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*

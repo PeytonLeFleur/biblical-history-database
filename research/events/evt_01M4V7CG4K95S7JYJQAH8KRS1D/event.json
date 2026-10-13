@@ -1,0 +1,65 @@
+{
+  "id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+  "slug": "jehoiakim-submits-to-nebuchadnezzar-and-rebels",
+  "title": "Jehoiakim submits to Nebuchadnezzar for three years, then rebels (2 Kgs 24:1–4)",
+  "summary": "After Nebuchadnezzar came up, Jehoiakim became his vassal for three years and then rebelled; raiding bands from Babylon and Judah's neighbours struck Judah.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4V7CG4KDKJXWJA6X1X9HV5B"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political",
+    "military"
+  ],
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "2Kgs.24.1-2Kgs.24.4",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "2Chr.36.6",
+      "mention_type": "parallel_account",
+      "notes": "Chronicles: Nebuchadnezzar bound him in fetters to carry him to Babylon."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

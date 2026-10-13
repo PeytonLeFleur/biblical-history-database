@@ -1,0 +1,92 @@
+{
+  "event_id": "evt_01M4V7CG4K95NPX8VFDZKH577Z",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word 2 Kings 25",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Pleiades: Tell en-Nasbeh",
+      "engine": "pleiades",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversions from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7CG57CJFE4JNAC7JWMYCM",
+      "statement": "Mizpah in Benjamin is Tell en-Nasbeh.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Pleiades records the name \"Mizpah in Benjamin\" for Tell en-Nasbeh with \"less-certain\" association. Excavation reports were not read.",
+      "supporting_evidence": [
+        "evd_01M4V7CG57FXKV5PSQ2RMRMFMP"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Excavation reports not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7CG57FXKV5PSQ2RMRMFMP",
+      "claim_ids": [
+        "clm_01M4V7CG57CJFE4JNAC7JWMYCM"
+      ],
+      "source_id": "src_01M4V7CG2TVKKRE3FP5M3EDDM4",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Mizpah in Benjamin (less-certain) attached to Tall al-Naṣbah.",
+      "locator": "names",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "pleiades"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Seal impressions and inscriptions from Tell en-Nasbeh not researched."
+  ]
+}

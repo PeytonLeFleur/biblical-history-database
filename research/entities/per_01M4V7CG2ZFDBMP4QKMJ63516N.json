@@ -1,0 +1,37 @@
+{
+  "kind": "person",
+  "id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+  "slug": "jehoiachin",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4V7CG286A5RCXZEPAMNZ968"
+  ],
+  "notes": null,
+  "canonical_name": "Jehoiachin",
+  "aliases": [
+    {
+      "alias": "Jeconiah",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "Jer.24.1"
+    },
+    {
+      "alias": "Coniah",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "Jer.22.24"
+    },
+    {
+      "alias": "Ya'u-kīnu",
+      "language": "Akkadian",
+      "source_id": "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4",
+      "passage": null
+    }
+  ],
+  "description": "King of Judah for three months (598/597), son of Jehoiakim; surrendered to Nebuchadnezzar in 597, held at Babylon, released by Amel-Marduk (Evil-merodach) in 561. Babylonian ration lists name him Ya'u-kīnu, king of Yahudu.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

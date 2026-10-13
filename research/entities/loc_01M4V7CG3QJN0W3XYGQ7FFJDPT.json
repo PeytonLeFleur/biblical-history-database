@@ -1,0 +1,38 @@
+{
+  "kind": "place",
+  "id": "loc_01M4V7CG3QJN0W3XYGQ7FFJDPT",
+  "slug": "riblah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V7CG2NGAJ0682Y2G99E33H"
+  ],
+  "notes": null,
+  "primary_name": "Riblah",
+  "place_type": "settlement",
+  "modern_name": "Ribla",
+  "modern_country": "Syria",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Rablê",
+      "language": "Akkadian",
+      "period": null,
+      "source_id": "src_01M4V7CG2NGAJ0682Y2G99E33H"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4V7CG3KAFH0261NS48726G8",
+      "label": "Riblah (Pleiades 431124909)",
+      "lat": 34.4321487,
+      "lon": 36.5491417,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4V7CG2NGAJ0682Y2G99E33H",
+      "proponents": [],
+      "reasoning": "Pleiades: town in Neo-Assyrian sources; modern Riblah about 35 km south of Homs, \"in the land of Hamath\" (2 Kgs 25:21)."
+    }
+  ],
+  "description": "Nebuchadnezzar's headquarters in Syria, where Zedekiah was judged (2 Kgs 25:6, 21)."
+}

@@ -1,0 +1,920 @@
+# The final siege of Jerusalem begins (10/X of Zedekiah's ninth year)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 25:1–2 (narration)
+- Jeremiah 52:4–5 (parallel_account)
+- Ezekiel 24:1–2 (reference): Ezekiel records the day the siege began.
+
+## Biblical account
+
+On 10/X of Zedekiah's ninth year Nebuchadnezzar and his army encamped against Jerusalem and built siege works; the siege lasted until his eleventh year.
+
+## Historical setting
+
+**Period:** c. 589/588 BC
+
+No Babylonian chronicle survives for these years. Ezekiel 24:1–2 records the same day. Young (2004) dates the start to about January 589 on his reckoning; Wiseman (via Guzik) gives a siege of about a year and a half. [1, 2]
+
+### Rulers
+
+- Zedekiah: Besieged king
+
+## Date and chronology
+
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 587 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **589 BC – 587 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: reign of Zedekiah (reign start) → “In the ninth year of his reign, in the tenth month”
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+- **590 BC – 588 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → cst_01M4V7CG4P21X1HRG0FGCD35EA
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “In the ninth year of his reign, in the tenth month” (2 Kings 25:1) → `years_later` reign of Zedekiah; assumptions: Zedekiah's ninth year counted from his installation in spring 597 by either Nisan or Tishri reckoning; margin 7–9 years after the start (operator).
+
+## Geography
+
+- Jerusalem (Besieged city; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Competing reconstructions
+
+- **January 589 (siege about 30 months)** (R. C. Young (2004)): Tishri years for Zedekiah. [1]
+- **January 588 (siege about 18 months)** (D. J. Wiseman (via Guzik): "about a year and a half"): Nisan years for Zedekiah. [2]
+
+## Claims and evidence
+
+### The final siege of Jerusalem began about January 589 BC.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Young dates 10/X of Zedekiah's ninth year to January 589 (Tishri years); a Nisan-year count gives January 588 (Wiseman's "about a year and a half" fits the shorter siege). No Babylonian record survives.
+
+- *Supporting (indirect):* Ezek 24:1–2 and 2 Kgs 25:1: 10/X of the ninth year = Tebeth/January 589. (Table 2; pp. 31–33) [1]
+- *Challenging (indirect):* Wiseman: the siege lasted about a year and a half. (on 25:1–2) [2]
+
+## Related passages and events
+
+- this event → **same event** → Jeremiah 52:4–5 (high): Parallel: same date.
+- this event → **same event** → Jeremiah 39:1 (high): Parallel in Jeremiah 39.
+- this event → **direct reference** → Ezekiel 24:1–2 (high): Ezekiel is told to write down the very day the king of Babylon besieged Jerusalem.
+- this event → **followed by** → The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year) (high): The siege ended with the breach.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik gives the siege dates in Zedekiah's regnal years and quotes Wiseman that it lasted about a year and a half. [2]
+
+## Unanswered questions and research gaps
+
+- No Babylonian chronicle for 594–557 survives.
+
+## Disputes
+
+- The final siege of Jerusalem began about January 589 BC.
+
+## Sources
+
+1. Young, Rodger C.. When Did Jerusalem Fall?. Journal of the Evangelical Theological Society 47/1 (2004) 21–38. <https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-1_47-1-pp021-038_JETS.pdf> — *scholarly commentary; verification: claim checked*
+2. Guzik, David. 2 Kings 25 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-25/> — *theological commentary; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*

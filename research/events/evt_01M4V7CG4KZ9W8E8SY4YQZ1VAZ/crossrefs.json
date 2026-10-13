@@ -1,0 +1,172 @@
+{
+  "event_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Nebuzaradan",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.25.8",
+        "2Kgs.25.11",
+        "2Kgs.25.20",
+        "Jer.39.9",
+        "Jer.40.1",
+        "Jer.52.12",
+        "Jer.52.30"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG59WDGFP9ZATTRTJTBW",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.12-Jer.52.27"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel account (tenth day of the month; fuller inventory).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG59DJ62150S4D7C31RQ",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.36.17-2Chr.36.20"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Chronicles' summary of the destruction.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG5F5K1BT9EGVYDZ75EG",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The Temple-desolation reading of Jeremiah's seventy years starts here (Zech 1:12; Jerome).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG5FA8V6E3C4YJ4KPX0E",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.9.2"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"The desolations of Jerusalem\" for which Daniel prays.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG5FK2H4NRQMYK8RKF37",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Lam.1.1-Lam.1.4"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Lament over the desolate city.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG5F5WG4YB6MYVZWW9N1",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95NPX8VFDZKH577Z"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Gedaliah was appointed over the remnant.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7CG4QZ8PVM82DQPXR78S2",
+    "cst_01M4V7CG4QJKJK4FYNRCR42354",
+    "cst_01M4V7CG4QRYH7KD1EEVC2SYY2"
+  ]
+}

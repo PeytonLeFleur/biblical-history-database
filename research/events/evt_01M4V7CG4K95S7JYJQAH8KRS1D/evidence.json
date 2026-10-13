@@ -1,0 +1,150 @@
+{
+  "event_id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "ABC 5 (Livius) re-read",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Wiseman 1965 (biblicalstudies.org.uk)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word 2 Kings 24",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversions from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7CG4TN7NCHR75AD5A9AXA",
+      "statement": "Nebuchadnezzar campaigned yearly in Syria-Palestine after Carchemish and received tribute from its kings.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "The Babylonian Chronicle records annual campaigns in Ḫatti from 605 and tribute from \"all the kings of Ḫatti\"; Judah is not named before 597.",
+      "supporting_evidence": [
+        "evd_01M4V7CG4TDQ5TR4A5ZF3FK3E6"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V7CG4THTAS48JZGGHR16GG",
+      "statement": "Jehoiakim's submission to Babylon began with the 605/604 campaign of Dan 1:1.",
+      "layer": "reconstruction",
+      "passage": "2Kgs.24.1",
+      "classification": "historically_plausible",
+      "reasoning": "Wiseman links Dan 1:1 to the Ḫatti campaign after Carchemish; the chronicle neither confirms nor excludes Judah's submission then. The identity question is already under owner review on the Dan 1:1 record and is not re-queued.",
+      "supporting_evidence": [
+        "evd_01M4V7CG4T11NT8D5XQ2XJ0EYY"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V7CG4TNV4JFG7TTHZFEM8Q"
+      ],
+      "limitations": [
+        "No external text names Jehoiakim."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7CG4TDQ5TR4A5ZF3FK3E6",
+      "claim_ids": [
+        "clm_01M4V7CG4TN7NCHR75AD5A9AXA"
+      ],
+      "source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Campaigns in Ḫatti in years 1–6; heavy tribute; battle with Egypt in year 4 (601).",
+      "locator": "obv. 12–20; rev. 1–8",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle"
+    },
+    {
+      "id": "evd_01M4V7CG4T11NT8D5XQ2XJ0EYY",
+      "claim_ids": [
+        "clm_01M4V7CG4THTAS48JZGGHR16GG"
+      ],
+      "source_id": "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "An incursion into Judah could be included in the chronicle's claim that all Ḫatti was conquered (605).",
+      "locator": "pp. 16–18",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "wiseman-1965"
+    },
+    {
+      "id": "evd_01M4V7CG4TNV4JFG7TTHZFEM8Q",
+      "claim_ids": [
+        "clm_01M4V7CG4THTAS48JZGGHR16GG"
+      ],
+      "source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "After Carchemish Nebuchadnezzar \"conquered the whole of Ḫatti\".",
+      "locator": "obv. 12–13",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Josephus Ant. 10.6.1 (Jehoiakim's tribute) not used."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "event_id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Zedekiah/Mattaniah",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.24.17",
+        "2Kgs.25.2",
+        "Jer.52.1",
+        "Jer.39.1",
+        "2Chr.36.10",
+        "Jer.21.1",
+        "Ezek.17.15"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG59M8XX3WR86SQR4S67",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.1-Jer.52.3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel: Zedekiah's age, reign and rebellion.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG594B850WK320CMQWX1",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.36.10-2Chr.36.13"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel in Chronicles (Zedekiah \"his brother\").",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG59HHKD9DB53456W4VM",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KQTQRM4HAE7P593V3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zedekiah's rebellion led to the final siege.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7CG4PNANS3KNT013XKSSE"
+  ]
+}

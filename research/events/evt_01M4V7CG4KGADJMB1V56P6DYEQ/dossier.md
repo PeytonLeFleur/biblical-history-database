@@ -1,0 +1,934 @@
+# The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 25:3–7 (narration)
+- Jeremiah 52:6–11 (parallel_account)
+- Jeremiah 39:2–7 (parallel_account)
+
+## Biblical account
+
+On 9/IV of the eleventh year, with famine severe, a breach was made; Zedekiah fled toward the Arabah, was overtaken in the plains of Jericho, judged at Riblah, his sons killed and his eyes put out, and he was taken to Babylon in bronze fetters.
+
+## Historical setting
+
+**Period:** Summer 587 or 586 BC
+
+Babylonian records of the destruction have not been found; the year depends on how the biblical regnal years are counted (Young 2004). Riblah, south of Homs, was Nebuchadnezzar's base in Syria. [1]
+
+### Rulers
+
+- Zedekiah: Captured
+- Nebuchadnezzar II: Judge at Riblah
+
+## Date and chronology
+
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **589 BC – 585 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+  - Latest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → “So the city was besieged until the eleventh year … On the ninth day of the fourth month”
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **586 BC – 585 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+- **587 BC – 586 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+  - Latest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → cst_01M4V7CG4QZ8PVM82DQPXR78S2
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “So the city was besieged until the eleventh year … On the ninth day of the fourth month” (2 Kings 25:2–3) → `months_later` The final siege of Jerusalem begins (10/X of Zedekiah's ninth year); assumptions: From 10/X of year 9 to 9/IV of year 11 is about 18 months with Nisan years and about 30 months with Tishri years; both are allowed (Young 2004 discusses the options). [1]
+
+## Geography
+
+- Jerusalem (Breached city; confidence: certain)
+  - Pleiades representative point: certain [2]
+- Jericho (Where Zedekiah was overtaken (its plains); confidence: certain)
+  - Jericho (Pleiades 687917): certain [3]
+- Riblah (Babylonian headquarters; judgment of Zedekiah; confidence: certain)
+  - Riblah (Pleiades 431124909): certain [4]
+
+## Competing reconstructions
+
+- **Tammuz 587 BC** (R. C. Young (2004), D. J. Wiseman and K. A. Kitchen (as listed by Young)): Ezekiel and 2 Kings use Tishri years; 2 Kings counts Nebuchadnezzar's years without an accession year. [1]
+- **Tammuz 586 BC** (E. R. Thiele (as reported by Young), D. Guzik (586)): Nebuchadnezzar's nineteenth year counted Babylonian-style; "the date most widely used in the popular literature" (Young). [1, 5]
+
+## Claims and evidence
+
+### Jerusalem fell in the summer of 587 BC (rather than 586).
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Babylonian records of the destruction are lost. Young argues from Ezekiel's dates and the reckoning of 2 Kings that the city fell in Tammuz 587, listing Wiseman and Kitchen with him; Thiele and the popular literature give 586. Hughes counted eleven scholars on each side (as reported by Young). Both chronology models are kept.
+
+- *Supporting (indirect):* Conclusion: Jerusalem fell in Tammuz 587; Wiseman and Kitchen also favour 587. (pp. 21–22, 38) [1]
+- *Challenging (indirect):* Thiele preferred 586, "the date most widely used in the popular literature"; Hughes lists eleven scholars for each date. (p. 21) [1]
+- *Challenging (indirect):* Guzik dates the final destruction to 586. (on 24 (overview)) [5]
+- *Context (direct):* City taken 9/IV of Zedekiah's 11th year. (Ant. 10.8.2) [6]
+
+*Limitations:* Thiele (1983) known here only through Young.
+
+## Related passages and events
+
+- this event → **same event** → Jeremiah 52:6–11 (high): Parallel account.
+- this event → **same event** → Jeremiah 39:2–7 (high): Parallel in Jeremiah 39.
+- this event → **thematic parallel** → Ezekiel 12:13 (medium): "He will not see it, though he will die there" — read by Guzik as fulfilled in Zedekiah's blinding. [7]
+- this event → **direct reference** → Ezekiel 33:21 (high): News of the city's fall reaches Ezekiel in the twelfth year of the captivity (Young's key synchronism). [1]
+- this event → **followed by** → Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (high): About a month later the Temple was burned.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik follows the narrative to Riblah and links Zedekiah's blinding with Ezek 12:13. [7]
+
+## Unanswered questions and research gaps
+
+- Thiele (1983) not read directly; Hughes (1990) not read.
+
+## Disputes
+
+- Jerusalem fell in the summer of 587 BC (rather than 586).
+
+## Sources
+
+1. Young, Rodger C.. When Did Jerusalem Fall?. Journal of the Evangelical Theological Society 47/1 (2004) 21–38. <https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-1_47-1-pp021-038_JETS.pdf> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Pleiades contributors. Jericho — Pleiades place 687917. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687917> — *institutional database; verification: claim checked*
+4. Pleiades contributors. Rablê (Riblah) — Pleiades place 431124909. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/431124909> — *institutional database; verification: claim checked*
+5. Guzik, David. 2 Kings 24 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-24/> — *theological commentary; verification: claim checked*
+6. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+7. Guzik, David. 2 Kings 25 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-25/> — *theological commentary; verification: claim checked*

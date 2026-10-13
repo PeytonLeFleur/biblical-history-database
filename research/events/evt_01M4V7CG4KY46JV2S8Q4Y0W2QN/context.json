@@ -1,0 +1,158 @@
+{
+  "event_id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Nebuchadnezzar's servants besieged Jerusalem; the king came; Jehoiachin with his mother, servants and officials surrendered in Nebuchadnezzar's eighth year; the Temple and palace treasures and Solomon's gold vessels were taken; ten thousand captives including craftsmen and smiths, the mighty men seven thousand and craftsmen one thousand.",
+    "passage": "2Kgs.24.10-2Kgs.24.16"
+  },
+  "setting": {
+    "period": "Spring 597 BC",
+    "body": "ABC 5: in year 7, in Kislev, the king of Akkad marched to Ḫatti, encamped against the city of Judah and on 2 Adar seized the city and captured the king; he appointed a king of his own choice and took heavy tribute to Babylon. 2 Adar of year 7 = 15/16 March 597 (Parker & Dubberstein).",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "Besieger",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    },
+    {
+      "person_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+      "reign_id": "rgn_01M4V7CG43A9BS405RJNJMF4R0",
+      "role": "Surrendered",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7CG4P8XNS89VKMHZDJHMT",
+      "subject": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+      "object": "evt_01M4V7CG4KZG172HQ703TM1H1Z",
+      "relation": "months_later",
+      "textual_assertion": "he reigned in Jerusalem three months",
+      "passage": "2Kgs.24.8",
+      "offset": {
+        "min": 3,
+        "max": 4
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "2 Chr 36:9: three months and ten days."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4V7CG4QGTHGXVEC8CQC3CH4",
+      "subject": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+      "object": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "relation": "in_regnal_year",
+      "textual_assertion": "the king of Babylon captured him in the eighth year of his reign",
+      "passage": "2Kgs.24.12",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 8,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "non_accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": "chr_01M4V7CG4K02KPRNP2BAQKVQT8",
+      "alternative_group": null,
+      "assumptions": [
+        "Under non-accession counting the eighth year (Nisan 598 – Nisan 597) contains 2 Adar = March 597 (ABC 5 \"year 7\")."
+      ],
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728",
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [
+    {
+      "id": "syn_01M4RSRHMRDKVY31PHEB4EM78N",
+      "type": "documentary_correlation",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Captured city",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Destination of the deportees",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "\"Eighth year\" (2 Kgs 24:12) vs \"seventh year\" (ABC 5; Jer 52:28)",
+      "proponents": [
+        "R. C. Young (2004): 2 Kings counts Nebuchadnezzar's years without an accession year"
+      ],
+      "summary": "The same event, counted from Nebuchadnezzar's accession year (Kings) or from his first full year (chronicle; Jer 52:28).",
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728",
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    },
+    {
+      "label": "Numbers deported",
+      "proponents": [
+        "2 Kgs 24:14 (10,000)",
+        "2 Kgs 24:16 (7,000 + 1,000)",
+        "Jer 52:28 (3,023, \"in the seventh year\")",
+        "Josephus, Ant. 10.6.3 (3,000, under Jehoiakim)"
+      ],
+      "summary": "The figures may count different groups (all captives; soldiers and craftsmen; adult males of Judah); none is confirmed externally.",
+      "citations": [
+        "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+        "src_01M4V7CG286A5RCXZEPAMNZ968"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG286A5RCXZEPAMNZ968",
+      "layer": "interpretation",
+      "paraphrase": "Guzik counts 597 as Nebuchadnezzar's second major strike, lists the 10,000 and 7,000 + 1,000 figures, and places Ezekiel among the captives.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-24/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

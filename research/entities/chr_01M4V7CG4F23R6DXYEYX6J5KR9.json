@@ -1,0 +1,17 @@
+{
+  "kind": "chronology_model",
+  "id": "chr_01M4V7CG4F23R6DXYEYX6J5KR9",
+  "slug": "jerusalem-fall-586-accession-reckoning",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V7CG2F5QV3X4F372GXP728",
+    "src_01M4RPJVYCVPJATNYT7JYKD0NF"
+  ],
+  "notes": null,
+  "name": "Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)",
+  "scope": "Last years of Judah (597–586/587 BC)",
+  "textual_tradition": "MT",
+  "is_absolute_axis": true,
+  "description": "Counts \"the nineteenth year of Nebuchadnezzar\" (2 Kgs 25:8) in the Babylonian way, with an accession year: year 19 = Nisan 586 – Nisan 585, so the Temple burned in Ab 586. Associated with E. R. Thiele (as reported by Young 2004)."
+}

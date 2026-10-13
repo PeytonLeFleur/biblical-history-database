@@ -623,6 +623,246 @@ Collective punishment of families is attributed to Persian kings by Greek and Ro
 - **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
   - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → cst_01M4TQMMMA0M1P6VX89GYP2FEF → “Then the king arose very early in the morning … The king commanded, and they brought those men”
+  - Latest bound from: —
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

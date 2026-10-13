@@ -1,0 +1,86 @@
+{
+  "event_id": "evt_01M4V7CG4K95NPX8VFDZKH577Z",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Gedaliah son of Ahikam",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.25.22",
+        "2Kgs.25.23",
+        "2Kgs.25.24",
+        "2Kgs.25.25",
+        "Jer.39.14",
+        "Jer.40.5",
+        "Jer.41.2"
+      ]
+    },
+    {
+      "name": "Mizpah",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.25.23",
+        "2Kgs.25.25",
+        "Jer.40.6",
+        "Jer.41.1",
+        "Judg.20.1",
+        "1Sam.7.5"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG5FXQTR1AVFSJKSPSF6",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95NPX8VFDZKH577Z"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.40.5-Jer.41.18"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jeremiah's fuller account of Gedaliah and his murder.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG5F31WJ4HJTNH5K0QG1",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95NPX8VFDZKH577Z"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Zech.7.5"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "The fast of the seventh month, traditionally linked to Gedaliah's death (tradition not researched).",
+      "provenance": {
+        "method": "operator_inference",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7CG4QFZZ89WZZXXBV56A0"
+  ]
+}

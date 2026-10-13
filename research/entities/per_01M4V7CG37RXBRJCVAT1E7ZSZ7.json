@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4V7CG37RXBRJCVAT1E7ZSZ7",
+  "slug": "nebuzaradan",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+  ],
+  "notes": null,
+  "canonical_name": "Nebuzaradan",
+  "aliases": [],
+  "description": "Babylonian \"captain of the guard\" who burned Jerusalem and deported its people (2 Kgs 25:8–20; Jer 52:12–30).",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+}

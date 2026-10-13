@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4V7CG3B9ZAX4JDZ7P5HX3P4",
+  "slug": "gedaliah-son-of-ahikam",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+  ],
+  "notes": null,
+  "canonical_name": "Gedaliah son of Ahikam",
+  "aliases": [],
+  "description": "Appointed by Nebuchadnezzar over those left in Judah; governed from Mizpah and was assassinated by Ishmael son of Nethaniah in the seventh month (2 Kgs 25:22–25; Jer 40–41).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

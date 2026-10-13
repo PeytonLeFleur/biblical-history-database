@@ -1,0 +1,64 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4V7CG43A9BS405RJNJMF4R0",
+  "slug": "jehoiachin-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4V7CG286A5RCXZEPAMNZ968"
+  ],
+  "notes": "A reign of three months; no regnal-year statements depend on it.",
+  "person_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": null,
+  "title": "King of Judah",
+  "start": {
+    "earliest": -597,
+    "latest": -597
+  },
+  "end": {
+    "earliest": -596,
+    "latest": -596
+  },
+  "precision": "month",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+  "stated_length_years": null,
+  "stated_length_passage": "2Kgs.24.8",
+  "start_window": {
+    "from": {
+      "year": -597,
+      "month": 11,
+      "day": 1
+    },
+    "to": {
+      "year": -597,
+      "month": 12,
+      "day": 31
+    },
+    "basis": "Three months (2 Kgs 24:8; \"three months and ten days\", 2 Chr 36:9) before the capture of 2 Adar year 7 (15/16 Mar 597, ABC 5); Wiseman (via Guzik) dates Jehoiakim's death about December 598. Window Nov–Dec 598 is an operator margin.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "src_01M4V7CG286A5RCXZEPAMNZ968"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -596,
+      "month": 3,
+      "day": 15
+    },
+    "to": {
+      "year": -596,
+      "month": 4,
+      "day": 30
+    },
+    "basis": "Surrender at the capture of 2 Adar (15/16 Mar 597; ABC 5); 2 Chr 36:10 sends him to Babylon \"at the turn of the year\" (Nisan 597).",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+    ]
+  },
+  "regnal_convention": null
+}

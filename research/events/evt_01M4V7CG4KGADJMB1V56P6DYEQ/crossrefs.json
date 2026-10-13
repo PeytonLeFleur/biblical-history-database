@@ -1,0 +1,151 @@
+{
+  "event_id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Riblah",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.23.33",
+        "2Kgs.25.6",
+        "2Kgs.25.20",
+        "2Kgs.25.21",
+        "Jer.39.5",
+        "Jer.52.9",
+        "Jer.52.26",
+        "Num.34.11"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG59GFKWW8CC7MG6BR96",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.6-Jer.52.11"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel account.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG59N4ENX7JXTX3XY6NP",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.39.2-Jer.39.7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel in Jeremiah 39.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG591WV3MKWS1FF94GDR",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.12.13"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"He will not see it, though he will die there\" — read by Guzik as fulfilled in Zedekiah's blinding.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG59VJAVX1RDYMTGQE5H",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.33.21"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "News of the city's fall reaches Ezekiel in the twelfth year of the captivity (Young's key synchronism).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V7CG2F5QV3X4F372GXP728"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG590QNDM1WXG52VKFA1",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "About a month later the Temple was burned.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7CG4P21X1HRG0FGCD35EA"
+  ]
+}

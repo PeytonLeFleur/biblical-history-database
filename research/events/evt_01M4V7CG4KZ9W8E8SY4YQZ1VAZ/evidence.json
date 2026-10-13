@@ -1,0 +1,108 @@
+{
+  "event_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.8.5",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Young 2004 (JETS)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversions from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7CG55QXFEDWW1FP4607WH",
+      "statement": "The Temple was burned on the seventh day of the fifth month (2 Kgs 25:8).",
+      "layer": "reconstruction",
+      "passage": "2Kgs.25.8",
+      "classification": "disputed",
+      "reasoning": "2 Kings gives the 7th, Jeremiah 52:12 the 10th and Josephus the 1st of the fifth month; Josephus also gives Nebuchadnezzar's eighteenth year (as Jer 52:29 does for the deportation). No external source dates the burning.",
+      "supporting_evidence": [
+        "evd_01M4V7CG55DTYGN11ZGGTA3EPF"
+      ],
+      "counterevidence": [
+        "evd_01M4V7CG55M6PP3T7HFKQJDW3Z"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7CG55M6PP3T7HFKQJDW3Z",
+      "claim_ids": [
+        "clm_01M4V7CG55QXFEDWW1FP4607WH"
+      ],
+      "source_id": "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Fire set to the Temple on the first day of the fifth month, in Nebuchadnezzar's eighteenth year.",
+      "locator": "Ant. 10.8.5",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4V7CG55DTYGN11ZGGTA3EPF",
+      "claim_ids": [
+        "clm_01M4V7CG55QXFEDWW1FP4607WH"
+      ],
+      "source_id": "src_01M4V7CG2CMR06J1QJ07Q1NXAB",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Fifth month, seventh day, nineteenth year.",
+      "locator": "on 25:8",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Rabbinic traditions on the 9th of Ab not researched."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V7CWP6ZQJXEVT2R3FZ7MA9",
+  "record_kind": "event",
+  "record_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:34.726Z",
+  "decisions": [],
+  "is_fixture": false
+}

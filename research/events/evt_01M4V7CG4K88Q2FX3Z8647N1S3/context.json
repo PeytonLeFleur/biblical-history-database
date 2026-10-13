@@ -1,0 +1,125 @@
+{
+  "event_id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On 27/XII of the thirty-seventh year of Jehoiachin's captivity, Evil-merodach in his accession year released him, spoke kindly, set his throne above the other kings in Babylon, and gave him a daily allowance for life.",
+    "passage": "2Kgs.25.27-2Kgs.25.30"
+  },
+  "setting": {
+    "period": "Early 561 BC",
+    "body": "Nebuchadnezzar died in early October 562; Amēl-Marduk's accession year ran to Nisan 561, so its twelfth month (Addaru) fell in Feb–Mar 561. Ration lists of Nebuchadnezzar's thirteenth year (592/1) already record oil for Ya'u-kīnu, king of Yahudu, and his sons at Babylon.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V7CG3KFM6D9SDKGG3Q73B9",
+      "reign_id": "rgn_01M4V7CG4BM5XNPY21NQ7ZHPB4",
+      "role": "King of Babylon",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    },
+    {
+      "person_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+      "reign_id": null,
+      "role": "Released captive king",
+      "citations": [
+        "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7CG4QX0RBQ3EF2HRMPVJQ",
+      "subject": "evt_01M4V7CG4K88Q2FX3Z8647N1S3",
+      "object": "rgn_01M4V7CG4BM5XNPY21NQ7ZHPB4",
+      "relation": "months_later",
+      "textual_assertion": "Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month",
+      "passage": "2Kgs.25.27",
+      "offset": {
+        "min": 3,
+        "max": 7
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Accession year (from Oct 562); the twelfth month (Addaru) of that year falls in Feb–Mar 561 (Parker & Dubberstein table)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4V7CG4QFKXTBPPQ3TXAHKKT",
+      "subject": "evt_01M4V7CG4K88Q2FX3Z8647N1S3",
+      "object": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+      "relation": "years_later",
+      "textual_assertion": "In the thirty-seventh year of the captivity of Jehoiachin",
+      "passage": "2Kgs.25.27",
+      "offset": {
+        "min": 35,
+        "max": 37
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Place of captivity and release",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "27th (2 Kgs 25:27) or 25th (Jer 52:31) of the twelfth month",
+      "proponents": [
+        "2 Kings",
+        "Jeremiah 52"
+      ],
+      "summary": "A two-day difference between the parallel accounts.",
+      "citations": [
+        "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG2CMR06J1QJ07Q1NXAB",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes the release in the thirty-seventh year and quotes Wiseman that the Hebrew implies an agreement, not merely kind words.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-25/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

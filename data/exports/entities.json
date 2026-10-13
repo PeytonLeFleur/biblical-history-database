@@ -165,6 +165,39 @@
   "description": "Daniel dates visions to Belshazzar's first and third years (7:1; 8:1), but no Babylonian document counts years of Belshazzar. This model assumes Daniel counts from the moment Nabonidus \"entrusted the kingship\" to him (Verse Account ii), which the Chronicle and Smith (via Dougherty) place around Nabonidus's 3rd year. Outside this model the visions are left undated."
  },
  {
+  "kind": "chronology_model",
+  "id": "chr_01M4V7CG4F23R6DXYEYX6J5KR9",
+  "slug": "jerusalem-fall-586-accession-reckoning",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V7CG2F5QV3X4F372GXP728",
+   "src_01M4RPJVYCVPJATNYT7JYKD0NF"
+  ],
+  "notes": null,
+  "name": "Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)",
+  "scope": "Last years of Judah (597–586/587 BC)",
+  "textual_tradition": "MT",
+  "is_absolute_axis": true,
+  "description": "Counts \"the nineteenth year of Nebuchadnezzar\" (2 Kgs 25:8) in the Babylonian way, with an accession year: year 19 = Nisan 586 – Nisan 585, so the Temple burned in Ab 586. Associated with E. R. Thiele (as reported by Young 2004)."
+ },
+ {
+  "kind": "chronology_model",
+  "id": "chr_01M4V7CG4K02KPRNP2BAQKVQT8",
+  "slug": "jerusalem-fall-587-non-accession-reckoning",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V7CG2F5QV3X4F372GXP728"
+  ],
+  "notes": null,
+  "name": "Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)",
+  "scope": "Last years of Judah (597–586/587 BC)",
+  "textual_tradition": "MT",
+  "is_absolute_axis": true,
+  "description": "Counts Nebuchadnezzar's years in 2 Kings without an accession year (year 1 = 605/604), so year 19 = Nisan 587 – Nisan 586 and the Temple burned in Ab 587; the \"eighth year\" of 2 Kgs 24:12 then matches the chronicle's Adar of year 7 (March 597). R. C. Young (2004), with Wiseman and Kitchen."
+ },
+ {
   "kind": "document",
   "id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
   "slug": "abc-5",
@@ -1106,6 +1139,106 @@
   "description": "River of Mesopotamia, Hebrew Hiddekel (Gen 2:14; Dan 10:4)."
  },
  {
+  "kind": "place",
+  "id": "loc_01M4V7CG3QJN0W3XYGQ7FFJDPT",
+  "slug": "riblah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V7CG2NGAJ0682Y2G99E33H"
+  ],
+  "notes": null,
+  "primary_name": "Riblah",
+  "place_type": "settlement",
+  "modern_name": "Ribla",
+  "modern_country": "Syria",
+  "kingdom_id": null,
+  "ancient_names": [
+   {
+    "name": "Rablê",
+    "language": "Akkadian",
+    "period": null,
+    "source_id": "src_01M4V7CG2NGAJ0682Y2G99E33H"
+   }
+  ],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4V7CG3KAFH0261NS48726G8",
+    "label": "Riblah (Pleiades 431124909)",
+    "lat": 34.4321487,
+    "lon": 36.5491417,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4V7CG2NGAJ0682Y2G99E33H",
+    "proponents": [],
+    "reasoning": "Pleiades: town in Neo-Assyrian sources; modern Riblah about 35 km south of Homs, \"in the land of Hamath\" (2 Kgs 25:21)."
+   }
+  ],
+  "description": "Nebuchadnezzar's headquarters in Syria, where Zedekiah was judged (2 Kgs 25:6, 21)."
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4V7CG3VP1TB3CR7PF3GKRW1",
+  "slug": "jericho",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V7CG2QMRT8W9F5VAS25EX6"
+  ],
+  "notes": null,
+  "primary_name": "Jericho",
+  "place_type": "settlement",
+  "modern_name": "Tell es-Sultan (ancient site), near Ariha",
+  "modern_country": "Palestinian territories (West Bank)",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4V7CG3Q5H9EZZ2JC865TFCG",
+    "label": "Jericho (Pleiades 687917)",
+    "lat": 31.871016814381463,
+    "lon": 35.44414173292347,
+    "coordinate_precision": "settlement",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4V7CG2QMRT8W9F5VAS25EX6",
+    "proponents": [],
+    "reasoning": "Pleiades representative point; \"the plains of Jericho\" is the surrounding plain."
+   }
+  ],
+  "description": "City in the Jordan valley; Zedekiah was overtaken in its plains (2 Kgs 25:5)."
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4V7CG3ZDKM95SN9B8FSNAVZ",
+  "slug": "mizpah-in-benjamin",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V7CG2TVKKRE3FP5M3EDDM4"
+  ],
+  "notes": null,
+  "primary_name": "Mizpah (in Benjamin)",
+  "place_type": "settlement",
+  "modern_name": "Tell en-Nasbeh (proposed)",
+  "modern_country": "Palestinian territories (West Bank)",
+  "kingdom_id": null,
+  "ancient_names": [],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4V7CG3VXGPCAFSFQNCFFABA",
+    "label": "Tell en-Nasbeh (Pleiades 666067876)",
+    "lat": 31.885435649999998,
+    "lon": 35.2165359,
+    "coordinate_precision": "site",
+    "confidence": "probable",
+    "geom_source_id": "src_01M4V7CG2TVKKRE3FP5M3EDDM4",
+    "proponents": [],
+    "reasoning": "Pleiades attaches the name \"Mizpah in Benjamin\" to Tell en-Nasbeh with association certainty \"less-certain\"; recorded as probable, not certain."
+   }
+  ],
+  "description": "Seat of Gedaliah's administration after 587/586 (2 Kgs 25:23; Jer 40:6)."
+ },
+ {
   "kind": "person",
   "id": "per_01M4RPJVYG82Y6S92J1Y4G5JTH",
   "slug": "amos-prophet",
@@ -2033,6 +2166,136 @@
   "aliases": [],
   "description": "Son of Mattathias; led the revolt and rededicated the Temple (1 Macc 3–4).",
   "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+  "slug": "jehoiachin",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4V7CG286A5RCXZEPAMNZ968"
+  ],
+  "notes": null,
+  "canonical_name": "Jehoiachin",
+  "aliases": [
+   {
+    "alias": "Jeconiah",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "Jer.24.1"
+   },
+   {
+    "alias": "Coniah",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "Jer.22.24"
+   },
+   {
+    "alias": "Ya'u-kīnu",
+    "language": "Akkadian",
+    "source_id": "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4",
+    "passage": null
+   }
+  ],
+  "description": "King of Judah for three months (598/597), son of Jehoiakim; surrendered to Nebuchadnezzar in 597, held at Babylon, released by Amel-Marduk (Evil-merodach) in 561. Babylonian ration lists name him Ya'u-kīnu, king of Yahudu.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+  "slug": "zedekiah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4V7CG286A5RCXZEPAMNZ968",
+   "src_01M4V7CG2F5QV3X4F372GXP728"
+  ],
+  "notes": null,
+  "canonical_name": "Zedekiah",
+  "aliases": [
+   {
+    "alias": "Mattaniah",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "2Kgs.24.17"
+   }
+  ],
+  "description": "Last king of Judah (597–587/586), Jehoiachin's uncle Mattaniah, installed by Nebuchadnezzar (ABC 5: \"a king of his own choice\"); rebelled, captured and blinded at Riblah.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V7CG37RXBRJCVAT1E7ZSZ7",
+  "slug": "nebuzaradan",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+  ],
+  "notes": null,
+  "canonical_name": "Nebuzaradan",
+  "aliases": [],
+  "description": "Babylonian \"captain of the guard\" who burned Jerusalem and deported its people (2 Kgs 25:8–20; Jer 52:12–30).",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V7CG3B9ZAX4JDZ7P5HX3P4",
+  "slug": "gedaliah-son-of-ahikam",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+  ],
+  "notes": null,
+  "canonical_name": "Gedaliah son of Ahikam",
+  "aliases": [],
+  "description": "Appointed by Nebuchadnezzar over those left in Judah; governed from Mizpah and was assassinated by Ishmael son of Nethaniah in the seventh month (2 Kgs 25:22–25; Jer 40–41).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V7CG3F4JSZENRY54WAHW24",
+  "slug": "ishmael-son-of-nethaniah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+  ],
+  "notes": null,
+  "canonical_name": "Ishmael son of Nethaniah",
+  "aliases": [],
+  "description": "Member of the royal house who assassinated Gedaliah at Mizpah (2 Kgs 25:25; Jer 41).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V7CG3KFM6D9SDKGG3Q73B9",
+  "slug": "amel-marduk",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+   "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+  ],
+  "notes": null,
+  "canonical_name": "Amēl-Marduk (Evil-merodach)",
+  "aliases": [
+   {
+    "alias": "Evil-merodach",
+    "language": "Hebrew (English form)",
+    "source_id": null,
+    "passage": "2Kgs.25.27"
+   }
+  ],
+  "description": "King of Babylon, son of Nebuchadnezzar II; acceded October 562 and died August 560 BC (Parker & Dubberstein); released Jehoiachin in his accession year (2 Kgs 25:27). Josephus gives him eighteen years.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
  },
  {
   "kind": "prophecy",
@@ -5279,6 +5542,187 @@
   }
  },
  {
+  "kind": "reign",
+  "id": "rgn_01M4V7CG43A9BS405RJNJMF4R0",
+  "slug": "jehoiachin-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4V7CG286A5RCXZEPAMNZ968"
+  ],
+  "notes": "A reign of three months; no regnal-year statements depend on it.",
+  "person_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": null,
+  "title": "King of Judah",
+  "start": {
+   "earliest": -597,
+   "latest": -597
+  },
+  "end": {
+   "earliest": -596,
+   "latest": -596
+  },
+  "precision": "month",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+  "stated_length_years": null,
+  "stated_length_passage": "2Kgs.24.8",
+  "start_window": {
+   "from": {
+    "year": -597,
+    "month": 11,
+    "day": 1
+   },
+   "to": {
+    "year": -597,
+    "month": 12,
+    "day": 31
+   },
+   "basis": "Three months (2 Kgs 24:8; \"three months and ten days\", 2 Chr 36:9) before the capture of 2 Adar year 7 (15/16 Mar 597, ABC 5); Wiseman (via Guzik) dates Jehoiakim's death about December 598. Window Nov–Dec 598 is an operator margin.",
+   "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+    "src_01M4V7CG286A5RCXZEPAMNZ968"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -596,
+    "month": 3,
+    "day": 15
+   },
+   "to": {
+    "year": -596,
+    "month": 4,
+    "day": 30
+   },
+   "basis": "Surrender at the capture of 2 Adar (15/16 Mar 597; ABC 5); 2 Chr 36:10 sends him to Babylon \"at the turn of the year\" (Nisan 597).",
+   "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+   ]
+  },
+  "regnal_convention": null
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4V7CG47VRNNGB04RH1J6KTQ",
+  "slug": "zedekiah-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4V7CG2F5QV3X4F372GXP728"
+  ],
+  "notes": "End in summer 587 or 586 BC depending on reckoning (see the two chronology models).",
+  "person_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": null,
+  "title": "King of Judah (vassal of Babylon)",
+  "start": {
+   "earliest": -596,
+   "latest": -596
+  },
+  "end": {
+   "earliest": -586,
+   "latest": -585
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": "rgn_01M4V7CG43A9BS405RJNJMF4R0",
+  "stated_length_years": 11,
+  "stated_length_passage": "2Kgs.24.18",
+  "start_window": {
+   "from": {
+    "year": -596,
+    "month": 3,
+    "day": 15
+   },
+   "to": {
+    "year": -596,
+    "month": 4,
+    "day": 30
+   },
+   "basis": "ABC 5: after capturing the city on 2 Adar year 7 (15/16 Mar 597) Nebuchadnezzar \"appointed there a king of his own choice\"; 2 Kgs 24:17. Upper bound (end of April 597) is an operator margin covering Nisan 597.",
+   "citations": [
+    "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+   ]
+  },
+  "end_window": null,
+  "regnal_convention": null
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4V7CG4BM5XNPY21NQ7ZHPB4",
+  "slug": "amel-marduk-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": "Accession year Oct 562 – Mar 561; year 1 from 6 Apr 561 (Parker & Dubberstein table).",
+  "person_id": "per_01M4V7CG3KFM6D9SDKGG3Q73B9",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "model_id": null,
+  "title": "King of Babylon",
+  "start": {
+   "earliest": -561,
+   "latest": -561
+  },
+  "end": {
+   "earliest": -559,
+   "latest": -559
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+   "from": {
+    "year": -561,
+    "month": 9,
+    "day": 25
+   },
+   "to": {
+    "year": -561,
+    "month": 10,
+    "day": 7
+   },
+   "basis": "Last tablets of Nebuchadnezzar 25 Sep and 7 Oct 562 (Uruk); first tablet of Amel-Marduk's accession year 7 Oct 562 (Sippar?) (Parker & Dubberstein p. 10).",
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -559,
+    "month": 8,
+    "day": 7
+   },
+   "to": {
+    "year": -559,
+    "month": 8,
+    "day": 13
+   },
+   "basis": "Last tablet 7 Aug 560; first tablet of Nergal-shar-usur six days later (Parker & Dubberstein p. 10).",
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "regnal_convention": {
+   "reckoning": "accession",
+   "new_year": "nisan",
+   "alternative_group": null,
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  }
+ },
+ {
   "kind": "site",
   "id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
   "slug": "babylon-excavations",
@@ -5351,7 +5795,7 @@
   "id": "syn_01M4RSRHMRDKVY31PHEB4EM78N",
   "slug": "jerusalem-597-abc-5",
   "is_fixture": false,
-  "revision": 1,
+  "revision": 2,
   "citations": [
    "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
    "src_01M4RSRHKF2D9HDCYYF0HCQPW5"
@@ -5360,7 +5804,7 @@
   "title": "Capture of \"the city of Judah\" on 2 Addaru, Nebuchadnezzar year 7 (ABC 5) = Jehoiachin's surrender (2 Kgs 24:10–15)",
   "type": "documentary_correlation",
   "passage": "2Kgs.24.10-2Kgs.24.15",
-  "biblical_subject": null,
+  "biblical_subject": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
   "external_entity": "Babylonian Chronicle ABC 5, reverse 11′–13′",
   "external_document_id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
   "external_source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
@@ -5374,12 +5818,11 @@
   "direct": true,
   "via": null,
   "assumptions": [
-   "\"City of Judah\" = Jerusalem; the unnamed king = Jehoiachin (identifications by the editors).",
-   "The 2 Kings event itself is to be researched in Milestone 6; this record documents the anchor used for Jehoiakim's reign end."
+   "\"City of Judah\" = Jerusalem; the unnamed king = Jehoiachin (identifications by the editors)."
   ],
   "evidence_strength": "strong",
   "competing_interpretations": [],
-  "anchor_subject": null,
+  "anchor_subject": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
   "window": {
    "from": {
     "year": -596,

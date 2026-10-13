@@ -1,0 +1,96 @@
+{
+  "event_id": "evt_01M4V7CG4K95NPX8VFDZKH577Z",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Gedaliah son of Ahikam, appointed over those left in Judah, assured the remaining captains at Mizpah; in the seventh month Ishmael son of Nethaniah of the royal line killed him with Jews and Chaldeans; all the people fled to Egypt.",
+    "passage": "2Kgs.25.22-2Kgs.25.26"
+  },
+  "setting": {
+    "period": "After the destruction (year not stated)",
+    "body": "Jeremiah 40–43 gives the fuller account. The seventh-month fast of Zech 7:5; 8:19 is traditionally connected with Gedaliah's murder (not researched here).",
+    "citations": [
+      "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V7CG3B9ZAX4JDZ7P5HX3P4",
+      "reign_id": null,
+      "role": "Governor",
+      "citations": [
+        "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7CG4QFZZ89WZZXXBV56A0",
+      "subject": "evt_01M4V7CG4K95NPX8VFDZKH577Z",
+      "object": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+      "relation": "after",
+      "textual_assertion": "But in the seventh month, Ishmael … struck Gedaliah",
+      "passage": "2Kgs.25.25",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The year is not stated; most readers take the same year as the destruction, but that is not modelled."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4V7CG3ZDKM95SN9B8FSNAVZ",
+      "role": "Seat of Gedaliah",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Same year as the destruction",
+      "proponents": [
+        "Common reading (Guzik implies continuity)"
+      ],
+      "summary": "The seventh month after the burning in the fifth.",
+      "citations": [
+        "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+      ]
+    },
+    {
+      "label": "A later year",
+      "proponents": [
+        "Unattributed in the sources read"
+      ],
+      "summary": "The text gives no year; Jer 52:30's deportation in Nebuchadnezzar's 23rd year has been connected with the aftermath by some (not verified).",
+      "citations": []
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG2CMR06J1QJ07Q1NXAB",
+      "layer": "interpretation",
+      "paraphrase": "Guzik narrates Gedaliah's appointment, his assassination in the seventh month and the flight to Egypt.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-25/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

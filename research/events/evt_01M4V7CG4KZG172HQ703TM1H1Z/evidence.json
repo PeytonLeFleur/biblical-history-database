@@ -1,0 +1,110 @@
+{
+  "event_id": "evt_01M4V7CG4KZG172HQ703TM1H1Z",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.6.3 (local)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word 2 Kings 24",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversions from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7CG4V0RHN8KHNQ53073ZM",
+      "statement": "Jehoiakim died peacefully in Jerusalem before the siege of 597.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "disputed",
+      "reasoning": "2 Kgs 24:6 uses the ordinary formula; Jer 22:18–19 and 36:30 foretell a dishonoured, unburied body; 2 Chr 36:6 has him bound for Babylon; Josephus says Nebuchadnezzar killed him and had him thrown before the walls. Guzik (quoting Wiseman) dates his death to about December 598. No external source records his end.",
+      "supporting_evidence": [],
+      "counterevidence": [
+        "evd_01M4V7CG4VEEYAQ94JCR9KR4Z7"
+      ],
+      "contextual_evidence": [
+        "evd_01M4V7CG4VTZXT6RN3PEXZVPTF"
+      ],
+      "limitations": [
+        "Texts disagree; no external evidence."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7CG4VTZXT6RN3PEXZVPTF",
+      "claim_ids": [
+        "clm_01M4V7CG4V0RHN8KHNQ53073ZM"
+      ],
+      "source_id": "src_01M4V7CG286A5RCXZEPAMNZ968",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Notes the Kings, Chronicles and Jeremiah accounts; death about December 598 (Wiseman).",
+      "locator": "on 24:5–6",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4V7CG4VEEYAQ94JCR9KR4Z7",
+      "claim_ids": [
+        "clm_01M4V7CG4V0RHN8KHNQ53073ZM"
+      ],
+      "source_id": "src_01M4V7CG2JYBNMG4AEMGZ1WTHK",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Nebuchadnezzar slew Jehoiakim and commanded him to be thrown before the walls without burial.",
+      "locator": "Ant. 10.6.3",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Jehoiachin's age: 18 (Kings) vs 8 (2 Chr 36:9 MT) — textual variants not researched beyond Guzik."
+  ]
+}

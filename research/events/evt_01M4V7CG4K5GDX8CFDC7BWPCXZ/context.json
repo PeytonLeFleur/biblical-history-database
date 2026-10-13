@@ -1,0 +1,85 @@
+{
+  "event_id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Nebuchadnezzar made Mattaniah, Jehoiachin's uncle, king and renamed him Zedekiah; twenty-one, he reigned eleven years, did evil, and rebelled against Babylon.",
+    "passage": "2Kgs.24.17-2Kgs.24.20"
+  },
+  "setting": {
+    "period": "Spring 597 BC",
+    "body": "ABC 5 records that Nebuchadnezzar \"appointed there a king of his own choice\" after capturing the city.",
+    "citations": [
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+      "reign_id": "rgn_01M4V7CG47VRNNGB04RH1J6KTQ",
+      "role": "Installed",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    },
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "Overlord",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7CG4PNANS3KNT013XKSSE",
+      "subject": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ",
+      "object": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+      "relation": "days_later",
+      "textual_assertion": "The king of Babylon made Mattaniah … king in his place",
+      "passage": "2Kgs.24.17",
+      "offset": {
+        "min": 0,
+        "max": 45
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "ABC 5 records the appointment in the same entry as the capture; the 45-day margin covers the \"turn of the year\" (2 Chr 36:10)."
+      ],
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG286A5RCXZEPAMNZ968",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that Mattaniah was renamed Zedekiah and reigned eleven years.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-24/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "competing_reconstructions": "The installation itself is not disputed; the end of the reign is treated under the fall of Jerusalem."
+  }
+}

@@ -1,0 +1,921 @@
+# Evil-merodach (Amēl-Marduk) releases Jehoiachin (561 BC)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 25:27–30 (narration)
+- Jeremiah 52:31–34 (parallel_account): Twenty-fifth day of the month.
+
+## Biblical account
+
+On 27/XII of the thirty-seventh year of Jehoiachin's captivity, Evil-merodach in his accession year released him, spoke kindly, set his throne above the other kings in Babylon, and gave him a daily allowance for life.
+
+## Historical setting
+
+**Period:** Early 561 BC
+
+Nebuchadnezzar died in early October 562; Amēl-Marduk's accession year ran to Nisan 561, so its twelfth month (Addaru) fell in Feb–Mar 561. Ration lists of Nebuchadnezzar's thirteenth year (592/1) already record oil for Ya'u-kīnu, king of Yahudu, and his sons at Babylon. [1, 2]
+
+### Rulers
+
+- Amēl-Marduk (Evil-merodach): King of Babylon [1]
+- Jehoiachin: Released captive king [2]
+
+## Date and chronology
+
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+- **562 BC – 561 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+  - Latest bound from: reign of Amēl-Marduk (Evil-merodach) (reign start) → “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Evilmerodach king of Babylon, in the year that he began to reign … in the twelfth month” (2 Kings 25:27) → `months_later` reign of Amēl-Marduk (Evil-merodach); assumptions: Accession year (from Oct 562); the twelfth month (Addaru) of that year falls in Feb–Mar 561 (Parker & Dubberstein table). [1]
+- “In the thirty-seventh year of the captivity of Jehoiachin” (2 Kings 25:27) → `years_later` Capture of Jerusalem and deportation of Jehoiachin (March 597 BC)
+
+## Geography
+
+- Babylon (Place of captivity and release; confidence: certain)
+  - Babylon (Pleiades 893951): certain [3]
+
+## Competing reconstructions
+
+- **27th (2 Kgs 25:27) or 25th (Jer 52:31) of the twelfth month** (2 Kings, Jeremiah 52): A two-day difference between the parallel accounts. [4]
+
+## Claims and evidence
+
+### Amēl-Marduk (Evil-merodach) became king in October 562 BC and reigned about two years.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+Babylonian contracts date his accession from 7 Oct 562 and his death to 7–13 Aug 560 (Parker & Dubberstein). Josephus's eighteen years is contradicted by the documentary record.
+
+- *Supporting (direct):* First tablet 7 Oct 562; last 7 Aug 560; Nergal-shar-usur from 13 Aug 560. (p. 10) [1]
+- *Challenging (direct):* Evil-Merodach reigned eighteen years. (Ant. 10.11.2) [5]
+
+### Jehoiachin was released in the twelfth month of Amēl-Marduk's accession year (early 561 BC).
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+The accession year (Oct 562 – Mar 561) contains one twelfth month (Addaru, Feb–Mar 561); 2 Kings and Jer 52 differ by two days. No Babylonian text records the release.
+
+- *Supporting (direct):* Addaru of 562/561 falls in February–March 561. (Nebuchadnezzar/Amel-Marduk tables) [1]
+
+## Related passages and events
+
+- this event → **same event** → Jeremiah 52:31–34 (high): Parallel account (twenty-fifth day).
+- this event → **artifact association** → Jehoiachin's ration tablets (Babylon) (medium): Earlier ration lists show the same royal captive maintained at Babylon. [2]
+- this event → **thematic parallel** → Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (low): The exile narrative continues with Cyrus's decree (2 Chr 36:22; Ezra 1).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes the release in the thirty-seventh year and quotes Wiseman that the Hebrew implies an agreement, not merely kind words. [4]
+
+## Sources
+
+1. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+2. Center for Online Judaic Studies. Babylonian Ration List: King Jehoiakhin in Exile, 592/1 BCE — Center for Online Judaic Studies. cojs.org. <https://cojs.org/babylonian_ration_list-_king_jehoiakhin_in_exile-_592-1_bce/> — *museum catalog; verification: claim checked*
+3. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
+4. Guzik, David. 2 Kings 25 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-25/> — *theological commentary; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.6.3, 10.8.2–5, 10.11.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*

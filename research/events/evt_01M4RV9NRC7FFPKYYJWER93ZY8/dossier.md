@@ -623,6 +623,246 @@ The tree image draws on biblical imagery of rulers as great trees (Ezekiel 31). 
 - **605 BC – 563 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
   - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
   - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
+- **605 BC – 563 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → “I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → cst_01M4RV9NRHR8R67WE00BZ5WY09 → cst_01M4RV9NRH9ZVPWSESX2MY1Z5V
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

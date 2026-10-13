@@ -1,0 +1,100 @@
+{
+  "event_id": "evt_01M4V7CG4KQTQRM4HAE7P593V3",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On 10/X of Zedekiah's ninth year Nebuchadnezzar and his army encamped against Jerusalem and built siege works; the siege lasted until his eleventh year.",
+    "passage": "2Kgs.25.1-2Kgs.25.2"
+  },
+  "setting": {
+    "period": "c. 589/588 BC",
+    "body": "No Babylonian chronicle survives for these years. Ezekiel 24:1–2 records the same day. Young (2004) dates the start to about January 589 on his reckoning; Wiseman (via Guzik) gives a siege of about a year and a half.",
+    "citations": [
+      "src_01M4V7CG2F5QV3X4F372GXP728",
+      "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+      "reign_id": "rgn_01M4V7CG47VRNNGB04RH1J6KTQ",
+      "role": "Besieged king",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V7CG4PX2D5RSJJ13YE9YES",
+      "subject": "evt_01M4V7CG4KQTQRM4HAE7P593V3",
+      "object": "rgn_01M4V7CG47VRNNGB04RH1J6KTQ",
+      "relation": "years_later",
+      "textual_assertion": "In the ninth year of his reign, in the tenth month",
+      "passage": "2Kgs.25.1",
+      "offset": {
+        "min": 7,
+        "max": 9
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Zedekiah's ninth year counted from his installation in spring 597 by either Nisan or Tishri reckoning; margin 7–9 years after the start (operator)."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Besieged city",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "January 589 (siege about 30 months)",
+      "proponents": [
+        "R. C. Young (2004)"
+      ],
+      "summary": "Tishri years for Zedekiah.",
+      "citations": [
+        "src_01M4V7CG2F5QV3X4F372GXP728"
+      ]
+    },
+    {
+      "label": "January 588 (siege about 18 months)",
+      "proponents": [
+        "D. J. Wiseman (via Guzik): \"about a year and a half\""
+      ],
+      "summary": "Nisan years for Zedekiah.",
+      "citations": [
+        "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V7CG2CMR06J1QJ07Q1NXAB",
+      "layer": "interpretation",
+      "paraphrase": "Guzik gives the siege dates in Zedekiah's regnal years and quotes Wiseman that it lasted about a year and a half.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-25/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

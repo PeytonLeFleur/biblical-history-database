@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V7CG54D29EF5PFJ3SCHRXF",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V7CG523GVC1NERBZ95X4F9",
+  "record_revision": 1,
+  "reason": "Disputed: Jerusalem fell in 587 or 586 BC",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:21.892Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,53 @@
+{
+  "event_id": "evt_01M4V7CG4KQTQRM4HAE7P593V3",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V7CG52WV5WT3AR90AFGX8X"
+  ],
+  "research_gaps": [
+    "No Babylonian chronicle for 594–557 survives."
+  ],
+  "disputes": [
+    "The final siege of Jerusalem began about January 589 BC."
+  ],
+  "export_eligible": true
+}

@@ -1,0 +1,508 @@
+{
+  "book": "2Kgs",
+  "chapter": 25,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "2Kgs.25.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KH3H87WJ292QQGZTT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KH3H87WJ292QQGZTT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KH4C8Z02JYVW3T5EB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KH4C8Z02JYVW3T5EB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KH4C8Z02JYVW3T5EB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KH4C8Z02JYVW3T5EB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KH4C8Z02JYVW3T5EB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4K7H2165S182JKVYD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4K7H2165S182JKVYD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4K7H2165S182JKVYD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4K7H2165S182JKVYD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4K7H2165S182JKVYD1"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KN9A8NHV8JRXD5XNC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KN9A8NHV8JRXD5XNC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KN9A8NHV8JRXD5XNC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.25.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V7CG4KN9A8NHV8JRXD5XNC"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V7CG4KH3H87WJ292QQGZTT",
+      "title": "The siege of Jerusalem begins (10/X of Zedekiah's ninth year)",
+      "passage": "2Kgs.25.1-2Kgs.25.2",
+      "description": "Nebuchadnezzar and his army encamped against Jerusalem and built siege works; the siege lasted until Zedekiah's eleventh year.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "military"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Nebuchadnezzar",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "King Zedekiah",
+          "matched_entity_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.25.1",
+          "phrase": "In the ninth year of his reign, in the tenth month, in the tenth day",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Jer.39.1",
+        "Jer.52.4",
+        "Ezek.24.1-Ezek.24.2"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4KQTQRM4HAE7P593V3"
+    },
+    {
+      "id": "cnd_01M4V7CG4KH4C8Z02JYVW3T5EB",
+      "title": "Famine, breach of the wall, Zedekiah captured and blinded at Riblah",
+      "passage": "2Kgs.25.3-2Kgs.25.7",
+      "description": "On 9/IV of the eleventh year famine was severe; the wall was breached; Zedekiah fled toward the Arabah, was overtaken in the plains of Jericho, judged at Riblah, his sons killed and his eyes put out.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "military",
+        "destruction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "the king",
+          "matched_entity_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "the plains of Jericho",
+          "matched_entity_id": "loc_01M4V7CG3VP1TB3CR7PF3GKRW1",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Riblah",
+          "matched_entity_id": "loc_01M4V7CG3QJN0W3XYGQ7FFJDPT",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.25.3",
+          "phrase": "On the ninth day of the fourth month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Jer.39.2-Jer.39.7",
+        "Jer.52.5-Jer.52.11",
+        "Ezek.12.13"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+    },
+    {
+      "id": "cnd_01M4V7CG4KVQ57EESW6K77RA5C",
+      "title": "Nebuzaradan burns the Temple, palace and city; walls broken; deportation",
+      "passage": "2Kgs.25.8-2Kgs.25.21",
+      "description": "On 7/V of Nebuchadnezzar's nineteenth year Nebuzaradan burned the LORD's house and the city, broke down the walls, deported the rest, carried off the bronze and vessels, and brought the chief priest and officials to Riblah, where they were executed.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "destruction",
+        "military",
+        "migration",
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Nebuzaradan the captain of the guard",
+          "matched_entity_id": "per_01M4V7CG37RXBRJCVAT1E7ZSZ7",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nebuchadnezzar",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Riblah in the land of Hamath",
+          "matched_entity_id": "loc_01M4V7CG3QJN0W3XYGQ7FFJDPT",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.25.8",
+          "phrase": "in the fifth month, on the seventh day of the month, which was the nineteenth year of King Nebuchadnezzar",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Jer.52.12-Jer.52.27",
+        "Jer.39.8-Jer.39.10",
+        "2Chr.36.17-2Chr.36.20",
+        "Lam.1.1"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "7th (Kings), 10th (Jer 52:12) or 1st (Josephus) of the month; 19th (Kings, Jer 52:12) vs 18th (Jer 52:29; Josephus) year."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+    },
+    {
+      "id": "cnd_01M4V7CG4K7H2165S182JKVYD1",
+      "title": "Gedaliah governor at Mizpah; his assassination; flight to Egypt",
+      "passage": "2Kgs.25.22-2Kgs.25.26",
+      "description": "Nebuchadnezzar set Gedaliah over those left; in the seventh month Ishmael son of Nethaniah killed him at Mizpah; the people fled to Egypt.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "migration"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Gedaliah",
+          "matched_entity_id": "per_01M4V7CG3B9ZAX4JDZ7P5HX3P4",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Ishmael the son of Nethaniah",
+          "matched_entity_id": "per_01M4V7CG3F4JSZENRY54WAHW24",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Mizpah",
+          "matched_entity_id": "loc_01M4V7CG3ZDKM95SN9B8FSNAVZ",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.25.25",
+          "phrase": "in the seventh month",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Jer.40.5-Jer.43.7",
+        "Zech.7.5",
+        "Zech.8.19"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The year of the assassination is not stated."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4K95NPX8VFDZKH577Z"
+    },
+    {
+      "id": "cnd_01M4V7CG4KN9A8NHV8JRXD5XNC",
+      "title": "Evil-merodach releases Jehoiachin (37th year of captivity)",
+      "passage": "2Kgs.25.27-2Kgs.25.30",
+      "description": "On 27/XII of the thirty-seventh year of Jehoiachin's captivity, Evil-merodach in his accession year released him, gave him precedence and a daily allowance for life.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal",
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Evilmerodach king of Babylon",
+          "matched_entity_id": "per_01M4V7CG3KFM6D9SDKGG3Q73B9",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jehoiachin",
+          "matched_entity_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.25.27",
+          "phrase": "In the thirty-seventh year of the captivity … in the twelfth month, on the twenty-seventh day",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Jer.52.31-Jer.52.34"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "27th (Kings) vs 25th (Jer 52:31) of the month."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-2-kings-24-25.md"
+}

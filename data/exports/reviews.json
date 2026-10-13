@@ -1767,5 +1767,135 @@
   "status": "open",
   "created_at": "2026-10-13T17:47:39.743Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CG4Z9MQN6C94DV8QQHFW",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V7CG4V0RHN8KHNQ53073ZM",
+  "record_revision": 1,
+  "reason": "Disputed: the manner of Jehoiakim's death (2 Kgs 24:6; Jer 22:18–19; 2 Chr 36:6; Josephus)",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:21.887Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CG52WV5WT3AR90AFGX8X",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V7CG504J2M36B22VZ049W7",
+  "record_revision": 1,
+  "reason": "Disputed: start of the final siege — January 589 or 588 BC",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:21.890Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CG54D29EF5PFJ3SCHRXF",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V7CG523GVC1NERBZ95X4F9",
+  "record_revision": 1,
+  "reason": "Disputed: Jerusalem fell in 587 or 586 BC",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:21.892Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CG56NETDGVVJHTKAHT1K",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V7CG55QXFEDWW1FP4607WH",
+  "record_revision": 1,
+  "reason": "Disputed: day of the Temple's burning (7th, 10th or 1st of Ab)",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:21.894Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CWNSXPWP2NYEPJYCM9S3",
+  "record_kind": "event",
+  "record_id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Jehoiakim submits to Nebuchadnezzar for three years, then rebels (2 Kgs 24:1–4)",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:34.714Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CWNX7YNJBM0AKNK2RSQ0",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V7CG57XBY308TCZVR9JZ9P",
+  "record_revision": 1,
+  "reason": "Same event (medium confidence): Chronicles' parallel: Nebuchadnezzar came up against Jehoiakim ",
+  "triggers": [
+   "same_event"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:34.717Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CWP0N3MZJ6F2P7GN6TV9",
+  "record_kind": "event",
+  "record_id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: The breach of Jerusalem and Zedekiah's capture at Riblah (9/IV of Zedekiah's 11th year)",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:34.720Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CWP2GA6TJ4X5ZBN3KSJ8",
+  "record_kind": "event",
+  "record_id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Capture of Jerusalem and deportation of Jehoiachin (March 597 BC)",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:34.722Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CWP4F4P0DTGKBYVXEH3E",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V7CG582715AGSKXN3HWQYD",
+  "record_revision": 1,
+  "reason": "Same event (medium confidence): The deportation of \"the seventh year\" ",
+  "triggers": [
+   "same_event"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:34.724Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V7CWP6ZQJXEVT2R3FZ7MA9",
+  "record_kind": "event",
+  "record_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year)",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:11:34.726Z",
+  "decisions": []
  }
 ]

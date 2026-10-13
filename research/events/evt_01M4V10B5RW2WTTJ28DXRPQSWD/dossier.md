@@ -619,6 +619,246 @@ The "evening offering" names a time of day in a period when, on the text's setti
 - **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
   - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

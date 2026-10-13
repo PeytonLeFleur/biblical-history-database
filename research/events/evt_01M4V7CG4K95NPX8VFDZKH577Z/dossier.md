@@ -1,0 +1,913 @@
+# Gedaliah governs from Mizpah and is assassinated (2 Kgs 25:22–26)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 25:22–26 (narration)
+- Jeremiah 40:5–41:18 (parallel_account)
+
+## Biblical account
+
+Gedaliah son of Ahikam, appointed over those left in Judah, assured the remaining captains at Mizpah; in the seventh month Ishmael son of Nethaniah of the royal line killed him with Jews and Chaldeans; all the people fled to Egypt.
+
+## Historical setting
+
+**Period:** After the destruction (year not stated)
+
+Jeremiah 40–43 gives the fuller account. The seventh-month fast of Zech 7:5; 8:19 is traditionally connected with Gedaliah's murder (not researched here). [1]
+
+### Rulers
+
+- Gedaliah son of Ahikam: Governor [1]
+
+## Date and chronology
+
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **589 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Zedekiah (reign start) → cst_01M4V7CG4PX2D5RSJJ13YE9YES → cst_01M4V7CG4P21X1HRG0FGCD35EA → cst_01M4V7CG4QZ8PVM82DQPXR78S2 → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **586 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QJKJK4FYNRCR42354|cst_01M4V7CG4QJKJK4FYNRCR42354#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+- **587 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V7CG4QRYH7KD1EEVC2SYY2|cst_01M4V7CG4QRYH7KD1EEVC2SYY2#own-convention → “But in the seventh month, Ishmael … struck Gedaliah”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “But in the seventh month, Ishmael … struck Gedaliah” (2 Kings 25:25) → `after` Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year); assumptions: The year is not stated; most readers take the same year as the destruction, but that is not modelled.
+
+## Geography
+
+- Mizpah (in Benjamin) (Seat of Gedaliah; confidence: probable)
+  - Tell en-Nasbeh (Pleiades 666067876): probable [2]
+
+## Competing reconstructions
+
+- **Same year as the destruction** (Common reading (Guzik implies continuity)): The seventh month after the burning in the fifth. [1]
+- **A later year** (Unattributed in the sources read): The text gives no year; Jer 52:30's deportation in Nebuchadnezzar's 23rd year has been connected with the aftermath by some (not verified).
+
+## Claims and evidence
+
+### Mizpah in Benjamin is Tell en-Nasbeh.
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+Pleiades records the name "Mizpah in Benjamin" for Tell en-Nasbeh with "less-certain" association. Excavation reports were not read.
+
+- *Supporting (indirect):* Mizpah in Benjamin (less-certain) attached to Tall al-Naṣbah. (names) [2]
+
+*Limitations:* Excavation reports not read.
+
+## Related passages and events
+
+- this event → **same event** → Jeremiah 40:5–41:18 (high): Jeremiah's fuller account of Gedaliah and his murder.
+- this event → **thematic parallel** → Zechariah 7:5 (low): The fast of the seventh month, traditionally linked to Gedaliah's death (tradition not researched).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik narrates Gedaliah's appointment, his assassination in the seventh month and the flight to Egypt. [1]
+
+## Unanswered questions and research gaps
+
+- Seal impressions and inscriptions from Tell en-Nasbeh not researched.
+
+## Sources
+
+1. Guzik, David. 2 Kings 25 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-25/> — *theological commentary; verification: claim checked*
+2. Pleiades contributors. Tell en-Nasbeh (Mizpah in Benjamin?) — Pleiades place 666067876. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/666067876> — *institutional database; verification: claim checked*

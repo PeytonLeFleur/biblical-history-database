@@ -627,6 +627,246 @@ The Chronicle records the entry of Ugbaru and Cyrus's army on 16 Tašrītu, Cyru
 - **539 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
   - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
   - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+- **539 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → “your kingdom is divided, and given to the Medes and Persians … In that night Belshazzar … was slain. Darius the Mede received the kingdom”
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

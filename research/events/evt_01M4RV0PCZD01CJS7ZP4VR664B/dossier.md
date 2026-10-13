@@ -619,6 +619,246 @@ Nebuchadnezzar's own inscriptions, which mostly concern building works, are devo
 - **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: period
   - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
   - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: period
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → cst_01M4RV0PD1NB1NHDGHTD7TH3X9 → cst_01M4RV0PD1WPWA6Q94WWTVW1SH → “Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach…"”
+  - Latest bound from: —
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

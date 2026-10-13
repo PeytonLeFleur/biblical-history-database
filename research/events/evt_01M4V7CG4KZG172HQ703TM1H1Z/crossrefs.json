@@ -1,0 +1,100 @@
+{
+  "event_id": "evt_01M4V7CG4KZG172HQ703TM1H1Z",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Jehoiachin/Jeconiah/Coniah",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.24.6",
+        "2Kgs.24.8",
+        "2Kgs.24.12",
+        "2Kgs.25.27",
+        "2Chr.36.8",
+        "Jer.22.24",
+        "Jer.24.1",
+        "Jer.52.31",
+        "Ezek.1.2",
+        "Esth.2.6",
+        "Matt.1.11"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7CG58HRA021TVQFDYC026",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZG172HQ703TM1H1Z"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.36.8-2Chr.36.9"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel: Jehoiachin's accession (age 8 in MT Chronicles; \"three months and ten days\").",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG5862JVG61BC1N752YW",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZG172HQ703TM1H1Z"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.22.18-Jer.22.19"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Jeremiah's oracle of Jehoiakim's dishonoured burial — differs from the Kings formula.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7CG58HF0Q2J2V07H47FKS",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZG172HQ703TM1H1Z"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Three months later the city was taken.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": []
+}

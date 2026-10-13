@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4V7CG3F4JSZENRY54WAHW24",
+  "slug": "ishmael-son-of-nethaniah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V7CG2CMR06J1QJ07Q1NXAB"
+  ],
+  "notes": null,
+  "canonical_name": "Ishmael son of Nethaniah",
+  "aliases": [],
+  "description": "Member of the royal house who assassinated Gedaliah at Mizpah (2 Kgs 25:25; Jer 41).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

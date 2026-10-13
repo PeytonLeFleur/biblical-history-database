@@ -1,0 +1,108 @@
+{
+  "event_id": "evt_01M4V7CG4KQTQRM4HAE7P593V3",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Young 2004 (JETS)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word 2 Kings 25",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversions from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7CG504J2M36B22VZ049W7",
+      "statement": "The final siege of Jerusalem began about January 589 BC.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "disputed",
+      "reasoning": "Young dates 10/X of Zedekiah's ninth year to January 589 (Tishri years); a Nisan-year count gives January 588 (Wiseman's \"about a year and a half\" fits the shorter siege). No Babylonian record survives.",
+      "supporting_evidence": [
+        "evd_01M4V7CG504TEDHHZQ71Y63FZD"
+      ],
+      "counterevidence": [
+        "evd_01M4V7CG50FBBGFA6Q1BD2B94H"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7CG504TEDHHZQ71Y63FZD",
+      "claim_ids": [
+        "clm_01M4V7CG504J2M36B22VZ049W7"
+      ],
+      "source_id": "src_01M4V7CG2F5QV3X4F372GXP728",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Ezek 24:1–2 and 2 Kgs 25:1: 10/X of the ninth year = Tebeth/January 589.",
+      "locator": "Table 2; pp. 31–33",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "young-2004"
+    },
+    {
+      "id": "evd_01M4V7CG50FBBGFA6Q1BD2B94H",
+      "claim_ids": [
+        "clm_01M4V7CG504J2M36B22VZ049W7"
+      ],
+      "source_id": "src_01M4V7CG2CMR06J1QJ07Q1NXAB",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Wiseman: the siege lasted about a year and a half.",
+      "locator": "on 25:1–2",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "No Babylonian chronicle for 594–557 survives."
+  ]
+}

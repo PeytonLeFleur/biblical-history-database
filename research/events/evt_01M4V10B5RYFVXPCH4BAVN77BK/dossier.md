@@ -623,6 +623,246 @@ Artaxerxes I acceded in late 465/early 464 (Elephantine papyrus Cowley 6); his s
 - **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
   - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
   - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
+  - Latest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 
