@@ -1,44 +1,46 @@
 # Next Action
 
-**Milestone 5, session 8: Daniel 8 (the ram and the goat, the little horn, the 2,300 evenings and mornings).**
+**Milestone 5, session 9: Daniel 9 (Daniel's prayer and the seventy weeks).**
 
-Context: Daniel 1–7 are complete. Open reviews: 35. Do not decide them. Daniel 8 returns to Hebrew. **Reuse:**
-- the `belshazzar-regency-years` model and the `belshazzar-regency` record (8:1, "third year")
-- Antiochus IV and his reign
-- the Median, Persian, Macedonian and Seleucid kingdoms; Alexander
-- the Daniel 7 prophecy records, to link the little horns. Do not duplicate them.
+Context: Daniel 1–8 are complete. Open reviews: 47. Do not decide them. **Reuse:**
+- Darius the Mede, with his identification review still open
+- Cyrus II and his Babylon reign
+- the Antiochus IV reign
+- the rededication event
+- Jerusalem/Judah
+- the Daniel 7–8 prophecy records, for links
 
-1. Run `pnpm research:chapter daniel 8` (27 verses).
+1. Run `pnpm research:chapter daniel 9` (27 verses).
 2. Records:
-   - **Event:** the vision at Susa by the Ulai (8:1–2), the appearance of Gabriel (8:15–19), and Daniel's illness (8:27).
-     - Date it **only** in the regency model ("third year"), with the counting assumption stated. Leave it undated otherwise.
-   - **Places:** Susa (Pleiades) and the Ulai canal or river. Check whether the vision locates Daniel there in person or only "in the vision" (8:2), and record that ambiguity.
-   - **Vision:** the ram with two horns, the goat with a notable horn, the four horns, the little horn, and the trampled sanctuary.
-     - **This chapter's in-text identifications are explicit:** the ram = "the kings of Media and Persia" (8:20) and the goat = "the king of Greece" (8:21). Record them as text-level identifications, separate from interpretation.
-   - **Prophecy:**
-     - the four kingdoms out of the goat's horn
-     - the "king of fierce countenance" (8:23–25)
-     - "2,300 evenings and mornings" (8:14). Interpretations: 1,150 days (2,300 sacrifices) vs 2,300 days for Antiochus's desecration; and the historicist day-year 2,300 years (Millerite 1844 and Seventh-day Adventist), *only with sourced proponents*.
-   - All proposed fulfillments go to review.
-3. **External events, if verifiable:**
-   - **the desecration of the altar**, 15 Chislev 145 SE (1 Macc 1:54)
-   - **the rededication**, 25 Chislev 148 SE (1 Macc 4:52)
-   - Convert the dates carefully. Note the Macedonian (autumn 312) vs Babylonian (spring 311) Seleucid-era epochs, and do not rely on the WEB's "circa" footnotes.
-4. **Research:**
-   - Alexander's conquest of Persia (Granicus, Issus, Gaugamela; Arrian)
-   - the partition among the Diadochi
-   - Josephus, *Antiquities* 11.8.5 (Alexander shown Daniel's book), recorded as a tradition
-   - Antiochus IV in 1–2 Maccabees and Polybius
-   - try again for Diodorus 34/35.1 and the 1956 edition of Parker & Dubberstein
-5. Validate, audit, export, build, run e2e, open a PR, merge after CI, and verify the deployed site.
+   - **Event: Daniel reads Jeremiah and prays** (9:1–19), "in the first year of Darius son of Ahasuerus, of the offspring of the Medes".
+     - Darius the Mede has no dated reign. Model the first year only as an alternative: relative to the fall of Babylon (Oct 539) **or** via each Darius identification. Record the dependency; do **not** pick one.
+   - **Event: Gabriel's arrival** "about the time of the evening offering" (9:20–23).
+   - **Jeremiah's seventy years** (Jer 25:11–12; 29:10; cf. 2 Chr 36:21; Zech 1:12): the proposed start and end points, each attributed.
+   - **Prophecy: the seventy weeks** (9:24–27). Keep separate:
+     - the text: 7 + 62 + 1 weeks; "an anointed one, a prince"; "the anointed one will be cut off"; the covenant; half a week; "the abomination that makes desolate"
+     - the interpretive models, each with proponents, reasoning and objections:
+       - Messianic (Artaxerxes' decree → Jesus; e.g. Sir Robert Anderson, *The Coming Prince* (1881), if accessible; Hoehner only if accessible)
+       - critical/Maccabean (from 587/538 BC to Onias III, 171 BC, with the last week 171–164; Driver, Montgomery)
+       - dispensational gap (Anderson, Scofield 1917 notes)
+       - historicist (Newton; Miller, with 457 BC + 490 years)
+       - **Jerome's catalogue** of earlier views (Africanus, Eusebius, Hippolytus, Apollinaris, Clement, Origen, Tertullian, and "the Hebrews"). Record each as reported by Jerome.
+   - **Candidate decrees** as starting points. Each needs its own sourced date:
+     - Cyrus (Ezra 1:1–4; 538)
+     - Darius I (Ezra 6)
+     - Artaxerxes I year 7 (Ezra 7) and year 20 (Neh 2:1). Artaxerxes' accession and Babylonian years come from Parker & Dubberstein's Persian section.
+   - Every proposed fulfillment goes to review. No interpretation is presented as fact.
+3. Validate, audit, export, build, run e2e, open a PR, merge after CI, and verify the deployed site.
 
 Carried over:
 - Beaulieu (1989)
 - Collins (direct)
-- Old Greek and Qumran Daniel 5–7
+- Old Greek and Qumran Daniel 5–8
+- 2 Maccabees
+- the Seleucid-era epoch studies
 - Against Apion 1.20
 - Whitcomb (1959)
 - Grayson's BHLT (BM 34113)
 - the Naqsh-i Rustam inscription
 - Gubaru's contracts
 - Calvin on Daniel 7
+- the Ulai's course

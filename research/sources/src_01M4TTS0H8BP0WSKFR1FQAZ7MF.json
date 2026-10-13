@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TTS0H8BP0WSKFR1FQAZ7MF",
+  "title": "Evidence from Scripture and History of the Second Coming of Christ, about the Year 1843",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Miller, William"
+  ],
+  "publisher": "Joshua V. Himes (Boston), 1842",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/evidencefromscri00mill",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1842)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the OCR text, Lecture III (pp. 52–54)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "The 2,300 days are years, beginning with the decree in the 7th year of Artaxerxes (Ezra 7), 457 BC, together with the seventy weeks; 2,300 − 457 = AD 1843",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text, Lecture III.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

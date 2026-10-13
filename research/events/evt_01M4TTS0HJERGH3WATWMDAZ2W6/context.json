@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_01M4TTS0HJERGH3WATWMDAZ2W6",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "John mentions the Feast of the Dedication at Jerusalem in winter, the festival commemorating this rededication.",
+    "passage": "John.10.22"
+  },
+  "setting": {
+    "period": "Seleucid rule over Judaea; reign of Antiochus IV (175–164 BC)",
+    "body": "Antiochus IV's measures culminated in the \"abomination of desolation\" on the altar on 15 Chislev 145 SE (1 Macc 1:54). Three years later, on 25 Chislev 148, Judas Maccabaeus's party dedicated a new altar and instituted an eight-day festival (1 Macc 4:52–59), which Josephus says was called \"Lights\". The Babylonian King List reports Antiochus's death in Kislîmu 148 (Babylonian reckoning).",
+    "citations": [
+      "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "src_01M4TTS0H2RP38CMPKF6HT28VX",
+      "src_01M4TSKK8CH4CYZNJBWJA3DDN9"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+      "reign_id": null,
+      "role": "Seleucid king who suppressed Temple worship",
+      "citations": [
+        "src_01M4TSKK87BBJJJP35SD5PZGDP"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+  ],
+  "constraints": [],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "December 165 BC",
+      "proponents": [
+        "S. R. Driver (1900)",
+        "J. A. Montgomery (1927)",
+        "D. Guzik"
+      ],
+      "summary": "Seleucid era counted from autumn 312 BC.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4TTS0GVB04W3QBM4C5SJ395"
+      ]
+    },
+    {
+      "label": "December 164 BC",
+      "proponents": [
+        "Implied by Josephus's 154th Olympiad (operator calculation); many modern works (not verified directly)"
+      ],
+      "summary": "Seleucid era counted from spring 311 BC.",
+      "citations": [
+        "src_01M4TTS0H2RP38CMPKF6HT28VX"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [
+    "Read 2 Maccabees 10 and a modern treatment of the Seleucid-era epochs in 1 Maccabees."
+  ],
+  "not_applicable": {
+    "commentary": "Enduring Word discusses the event only as the end of Daniel 8:14 (recorded on the vision dossier)."
+  }
+}

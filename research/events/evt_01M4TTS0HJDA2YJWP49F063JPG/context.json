@@ -1,0 +1,161 @@
+{
+  "event_id": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In Belshazzar's third year Daniel sees himself at the citadel of Susa by the Ulai. A two-horned ram is overthrown by a swift goat whose great horn is broken and replaced by four; from one comes a little horn that attacks the host of heaven, removes the continual offering and casts down the sanctuary for 2,300 evenings and mornings. Gabriel explains that the ram is the kings of Media and Persia and the goat the king of Greece, and foretells a fierce king who will be broken without human hand. Daniel falls ill, then returns to the king's business.",
+    "passage": "Dan.8.1-Dan.8.27"
+  },
+  "setting": {
+    "period": "Narrative setting: Belshazzar's regency (third year); composition date disputed (see Daniel 7)",
+    "body": "Susa was the capital of Elam and later a principal residence of the Persian kings (Neh 1:1; Esth 1:2). In Belshazzar's time it lay outside Babylonian control. The Ulai was a stream or canal at Susa; its course is not precisely identified (Pleiades marks the candidate river with a question mark).",
+    "citations": [
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "src_01M4TTS0HAX5NYTKT12DM0D0DW"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+      "reign_id": "rgn_01M4TSKK93V4X5HBK7S4SZ352W",
+      "role": "Regent (\"king\" in Daniel)",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8J4ARWJ6YCJ3F581YJ",
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4TSKK8MQZMPN5VWKA44XX5S"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4TTS0J2QH2FZRYARVEXB6Q9",
+      "subject": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+      "object": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+      "relation": "after",
+      "textual_assertion": "after that which appeared to me at the first",
+      "passage": "Dan.8.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4TTS0J2CC76CKS9B7G7HSYP",
+      "subject": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+      "object": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+      "relation": "before",
+      "textual_assertion": "In the third year of the reign of King Belshazzar",
+      "passage": "Dan.8.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Belshazzar's third year precedes his death (Dan 5:30)."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    },
+    {
+      "id": "cst_01M4TTS0J2JK2ZTWWJ2P0X1BYV",
+      "subject": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+      "object": "rgn_01M4TSKK93V4X5HBK7S4SZ352W",
+      "relation": "years_later",
+      "textual_assertion": "In the third year of the reign of King Belshazzar",
+      "passage": "Dan.8.1",
+      "offset": {
+        "min": 2,
+        "max": 3
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": "chr_01M4TSKK913DZG51R7F571CXXT",
+      "alternative_group": null,
+      "assumptions": [
+        "Only in the regency model: \"third year\" counted from the entrusting of the kingship.",
+        "Offset 2–3 years covers counting the first twelve months as year 1 or an accession-year count."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Where Daniel saw himself in the vision (physical presence disputed)",
+      "hypotheses": [],
+      "confidence": "possible"
+    },
+    {
+      "location_id": "loc_01M4TTS0HJGY825103AG016ZWM",
+      "role": "River by which Daniel stood in the vision",
+      "hypotheses": [],
+      "confidence": "possible"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Daniel at Susa only \"in the vision\"",
+      "proponents": [
+        "S. R. Driver (1900)"
+      ],
+      "summary": "8:2 describes \"where Daniel seemed to find himself in the vision\".",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    },
+    {
+      "label": "Daniel physically at Susa on royal business",
+      "proponents": [
+        "D. Guzik"
+      ],
+      "summary": "He was in Shushan \"on business for the king\" (8:27).",
+      "citations": [
+        "src_01M4TTS0GVB04W3QBM4C5SJ395"
+      ]
+    },
+    {
+      "label": "Dated by the regency count (c. 551–549 BC)",
+      "proponents": [
+        "This project's \"Belshazzar's years\" model"
+      ],
+      "summary": "Two years after the vision of ch. 7 (Jerome: \"two years after the previous revelation\"). Undated outside that model.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4TTS0GVB04W3QBM4C5SJ395",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the ram as Medo-Persia, the goat as Greece under Alexander and the four horns as his generals, and the little horn as Antiochus IV in a near fulfillment and the Antichrist in a far one; he prefers 2,300 literal days ending with the cleansing of the Temple and rejects William Miller's year-day reckoning.",
+      "url": "https://enduringword.com/bible-commentary/daniel-8/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Locate the Ulai precisely (Karkheh, Ab-i Diz or a canal).",
+    "Old Greek variant at 8:14 not read."
+  ],
+  "not_applicable": {}
+}

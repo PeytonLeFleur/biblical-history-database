@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4TT9YRBMH9DK2SF0GKKY1A7",
+  "subject_kind": "chapter",
+  "subject_id": "Dan.8",
+  "book": "Dan",
+  "chapter": 8,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-13T14:31:14.208Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-13T14:22:47.051Z",
+  "updated_at": "2026-10-13T14:31:14.208Z",
+  "is_fixture": false
+}

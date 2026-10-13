@@ -1,0 +1,311 @@
+{
+  "event_id": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TTS0J7X7PYJC6QJ7WNGG2M",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJ5D1K16KS9EDABHHY"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TSKK8VW5AG2BZM9KZK8W3Y"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The great horn, \"the first king\" of Greece (8:21), is Alexander.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TTS0H16R2RHYVNTR09K9TR",
+          "src_01M4TTS0GZ70JV8F7N116GGVPE",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TTS0GVB04W3QBM4C5SJ395"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Josephus; Jerome; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TTS0J79SD3X8GPAW0BFA2N",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJHRJFX1S7T5Q8M43B"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TSKK8XVDZBQ6226SB3WHWE"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The little horn / king of fierce face is Antiochus IV.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TTS0H2RP38CMPKF6HT28VX",
+          "src_01M4TTS0GZ70JV8F7N116GGVPE",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TSKK81W6HP2HFZ7744DHRG"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Josephus; Jerome; Driver; Montgomery; Guzik (near fulfillment)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TTS0J7PNG7R45MBT2GAV7C",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJHRJFX1S7T5Q8M43B"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "The goat's little horn is Rome (historicist).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK83SFG091RT082Z4EXG"
+        ]
+      },
+      "interpretive_approach": "historicist",
+      "proposed_by": "I. Newton (1733)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TTS0J7196VM608DZY54X9C",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJXX550DZHSC4HAMTK"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The cleansing of the sanctuary after 2,300 evenings and mornings is the rededication of 25 Chislev 148 SE.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TTS0GZ70JV8F7N116GGVPE",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TTS0GVB04W3QBM4C5SJ395"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TTS0J739YQ86DXAJY3CGCH",
+      "type": "direct_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJ5D1K16KS9EDABHHY"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8J4ARWJ6YCJ3F581YJ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The text names \"Media\" (8:20).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TTS0J7WEXMBENYQ17EBY6Y",
+      "type": "direct_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJ5D1K16KS9EDABHHY"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The text names \"Persia\" (8:20).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TTS0J7M60AT5HF5P93AWVX",
+      "type": "direct_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJ5D1K16KS9EDABHHY"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8MQZMPN5VWKA44XX5S"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The text names \"Greece\" (Yavan, 8:21); recorded against the Macedonian empire as the Greek power of the period.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TTS0J7MY2RFHH7XJKK493G",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJHRJFX1S7T5Q8M43B"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Whether the little horns of chs. 7 and 8 are the same figure divides the Grecian and Roman schemes (Driver; Jerome; Newton).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TTS0GZ70JV8F7N116GGVPE",
+          "src_01M4TSKK83SFG091RT082Z4EXG"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TTS0J7Z7B4KSPHWXS7ZE00",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJXX550DZHSC4HAMTK"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.12.11-Dan.12.12"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Other numbered periods of the removed continual offering (1,290 and 1,335 days).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TTS0J7136DA64A0E7B5JJ6",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TTS0HJDA2YJWP49F063JPG"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Luke.1.19"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Gabriel, named first in Dan 8:16, reappears in Luke 1:19, 26.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TTS0J7NFT6CKEDWRDV0C1D",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TTS0HJDA2YJWP49F063JPG"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"After that which appeared to me at the first\" (8:1).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Shushan the citadel (8:2)",
+      "resolved_to": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "basis": "Pleiades 912936 (Shushan/Susa)",
+      "confidence": "high"
+    },
+    {
+      "name_as_written": "the river Ulai (8:2)",
+      "resolved_to": "loc_01M4TTS0HJGY825103AG016ZWM",
+      "basis": "Name match (Eulaeus/Ulaya); course uncertain",
+      "confidence": "low"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4TTS0J2QH2FZRYARVEXB6Q9",
+    "cst_01M4TTS0J2CC76CKS9B7G7HSYP",
+    "cst_01M4TTS0J2JK2ZTWWJ2P0X1BYV"
+  ]
+}

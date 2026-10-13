@@ -1,0 +1,101 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4TTS0HJHRJFX1S7T5Q8M43B",
+  "slug": "little-horn-king-of-fierce-face-dan-8",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The little horn and the king of fierce face (Dan 8:9–12, 23–25)",
+  "passage": "Dan.8.23-Dan.8.25",
+  "speaker": "Gabriel",
+  "vision_id": "vis_01M4TTS0HJ1ZF9ZDZ4BNKZQ1V6",
+  "description": "From one of the four kingdoms a fierce, cunning king arises who destroys the holy people, removes the continual offering, opposes the prince of princes, and is broken without human hand.",
+  "in_text_interpretation": "The little horn is a king arising \"in the latter time of their kingdom\" (8:23) — i.e. of the four kingdoms of Greece. He is not named.",
+  "interpretations": [
+    {
+      "id": "ful_01M4TTS0HTR2GM87VTB8K54YFY",
+      "label": "Antiochus IV Epiphanes",
+      "approach": "preterist",
+      "framework": "Ancient Jewish, patristic and critical",
+      "proponents": [
+        "Josephus (Ant. 12.7.6: the desolation \"according to the prophecy of Daniel\")",
+        "Jerome (on 8:23)",
+        "S. R. Driver (1900): \"admitted on all hands\"",
+        "J. A. Montgomery (1927)",
+        "D. Guzik (near fulfillment)"
+      ],
+      "summary": "Textual reasoning: the horn comes from one of the four Greek kingdoms; it removes the continual offering and desolates the sanctuary, which 1 Maccabees records under Antiochus (1:54) until the rededication (4:52). Objection (Newton): a horn signifies a kingdom, not one man, and Antiochus's kingdom was not \"exceedingly great\". Acceptance: Driver says it is \"admitted on all hands\"; even Jerome, who resists Antiochus for ch. 7, accepts him here.",
+      "referents": [
+        {
+          "symbol": "Little horn / king of fierce face",
+          "referent": "Antiochus IV Epiphanes"
+        },
+        {
+          "symbol": "Removal of the continual offering",
+          "referent": "Desecration of 15 Chislev 145 SE (1 Macc 1:54)"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TTS0H2RP38CMPKF6HT28VX",
+        "src_01M4TTS0GZ70JV8F7N116GGVPE",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4TTS0GVB04W3QBM4C5SJ395",
+        "src_01M4TSKK87BBJJJP35SD5PZGDP"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TTS0HTMNWCFW12HY0B1XH8",
+      "label": "Antiochus as a type of the future Antichrist (dual fulfillment)",
+      "approach": "mixed",
+      "framework": "Patristic majority (per Jerome); modern dispensational",
+      "proponents": [
+        "\"Most of our commentators\" (reported by Jerome)",
+        "D. Guzik"
+      ],
+      "summary": "Because the vision concerns \"the time of the end\" (8:17, 19), the near fulfillment in Antiochus prefigures a final Antichrist. The future part is not a claim of historical fulfillment; the Antiochus part is recorded separately.",
+      "referents": [
+        {
+          "symbol": "King of fierce face",
+          "referent": "Antiochus as type; the Antichrist as antitype"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TTS0GZ70JV8F7N116GGVPE",
+        "src_01M4TTS0GVB04W3QBM4C5SJ395"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TTS0HTXW9SYDWVBPC7TF4H",
+      "label": "Rome (historicist)",
+      "approach": "historicist",
+      "framework": "Protestant historicist",
+      "proponents": [
+        "I. Newton (1733)"
+      ],
+      "summary": "The little horn of the goat is a new kingdom that arose out of one of the four — Rome, which conquered Macedonia and the East and later continued as the Greek empire. Newton rejects Antiochus \"not very judiciously\" identified. Objection (Driver): the horn grows \"out of one of them\", i.e. from a Greek kingdom, and its deeds match Antiochus's.",
+      "referents": [
+        {
+          "symbol": "Little horn",
+          "referent": "Rome"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK83SFG091RT082Z4EXG",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

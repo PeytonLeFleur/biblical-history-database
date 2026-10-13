@@ -3511,6 +3511,542 @@
   "slug": "daniel"
  },
  {
+  "book": "Dan",
+  "chapter": 8,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Dan.8.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ238T86918QG45AT5"
+    ],
+    "notes": "Hebrew resumes at 8:1."
+   },
+   {
+    "ref": "Dan.8.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ238T86918QG45AT5"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ74T1TY3CNGQZ939Z"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ74T1TY3CNGQZ939Z"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ5VPPZZEYEJE0KJC0"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ5VPPZZEYEJE0KJC0"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ5VPPZZEYEJE0KJC0"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ5VPPZZEYEJE0KJC0"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJW7D9N7JJ0BGEP2BR"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJW7D9N7JJ0BGEP2BR"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJW7D9N7JJ0BGEP2BR"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJW7D9N7JJ0BGEP2BR"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ077JVHKTCY3TV8R7"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ077JVHKTCY3TV8R7"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ60TRV4TESYMYPHNN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ60TRV4TESYMYPHNN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ60TRV4TESYMYPHNN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ60TRV4TESYMYPHNN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ60TRV4TESYMYPHNN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ6GFQ6EXG22A7QY7S"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ6GFQ6EXG22A7QY7S"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.22",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ6GFQ6EXG22A7QY7S"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.23",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJS8WSB59Z2GZT2RTR"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.24",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJS8WSB59Z2GZT2RTR"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.25",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJS8WSB59Z2GZT2RTR"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.26",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJC19EFZE7JXBCZ2SY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.8.27",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TTS0HJ88GM71FMN3CVFZ4Y"
+    ],
+    "notes": null
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "title": "A second vision in Belshazzar's third year, at Susa by the Ulai",
+    "passage": "Dan.8.1-Dan.8.2",
+    "description": "Daniel sees a vision in the third year of Belshazzar, finding himself (in the vision) in the citadel of Susa by the river Ulai.",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "King Belshazzar",
+      "matched_entity_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "the citadel of Susa",
+      "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "the river Ulai",
+      "matched_entity_id": "loc_01M4TTS0HJGY825103AG016ZWM",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [
+     {
+      "ref": "Dan.8.1",
+      "phrase": "In the third year of the reign of King Belshazzar",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "Dan.7.1"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Whether Daniel was physically at Susa or only saw himself there \"in the vision\" (8:2).",
+     "Return to Hebrew from 8:1."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4TTS0HJDA2YJWP49F063JPG"
+   },
+   {
+    "id": "cnd_01M4TTS0HJ74T1TY3CNGQZ939Z",
+    "title": "The ram with two horns",
+    "passage": "Dan.8.3-Dan.8.4",
+    "description": "A ram with two high horns, the higher coming up last, pushes west, north and south.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.8.20"
+    ],
+    "research_priority": "high",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TTS0HJ5VPPZZEYEJE0KJC0",
+    "title": "The goat from the west; the great horn broken; four horns",
+    "passage": "Dan.8.5-Dan.8.8",
+    "description": "A goat with a notable horn races from the west without touching the ground, breaks the ram's horns; at its height the great horn is broken and four horns rise toward the four winds.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.8.21-Dan.8.22",
+     "Dan.11.3-Dan.11.4"
+    ],
+    "research_priority": "high",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TTS0HJW7D9N7JJ0BGEP2BR",
+    "title": "The little horn against the host, the prince and the sanctuary",
+    "passage": "Dan.8.9-Dan.8.12",
+    "description": "A little horn grows toward the south, east and the glorious land, casts down some of the host and stars, magnifies itself against the prince of the host, removes the continual offering and casts down the sanctuary.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.7.8",
+     "Dan.11.31",
+     "Dan.12.11"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [
+     "\"The prince of the host\" (8:11) and \"prince of princes\" (8:25): God or the high priest."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TTS0HJ077JVHKTCY3TV8R7",
+    "title": "Holy ones ask \"how long?\": 2,300 evenings and mornings",
+    "passage": "Dan.8.13-Dan.8.14",
+    "description": "One holy one asks how long the desolation will last; the answer is 2,300 evenings and mornings, after which the sanctuary will be cleansed.",
+    "record_type": "prophecy",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.8.14",
+      "phrase": "To two thousand and three hundred evenings and mornings",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Dan.12.11-Dan.12.12"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [
+     "2,300 days or 1,150 days (2,300 offerings).",
+     "\"Unto me\" (MT) vs \"unto him\" (versions; Driver)."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TTS0HJ60TRV4TESYMYPHNN",
+    "title": "Gabriel commanded to explain; Daniel falls into a deep sleep",
+    "passage": "Dan.8.15-Dan.8.19",
+    "description": "A voice from between the banks of the Ulai commands Gabriel to explain; the vision concerns \"the time of the end\".",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "banks of the Ulai",
+      "matched_entity_id": "loc_01M4TTS0HJGY825103AG016ZWM",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [
+     {
+      "ref": "Dan.8.17",
+      "phrase": "the vision belongs to the time of the end",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Dan.9.21",
+     "Luke.1.19",
+     "Luke.1.26"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [
+     "First naming of an angel in the Bible (Gabriel)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4TTS0HJDA2YJWP49F063JPG"
+   },
+   {
+    "id": "cnd_01M4TTS0HJ6GFQ6EXG22A7QY7S",
+    "title": "The ram is the kings of Media and Persia; the goat the king of Greece",
+    "passage": "Dan.8.20-Dan.8.22",
+    "description": "Gabriel identifies the ram with the kings of Media and Persia, the goat with the king of Greece, the great horn with the first king, and the four horns with four kingdoms that arise from his nation.",
+    "record_type": "prophecy",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "critical",
+    "ambiguities": [
+     "The first king and the four kingdoms are not named."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TTS0HJS8WSB59Z2GZT2RTR",
+    "title": "The king of fierce face",
+    "passage": "Dan.8.23-Dan.8.25",
+    "description": "In the latter time of their kingdom a fierce, cunning king will arise, destroy the holy people, stand against the prince of princes and be broken \"without human hands\".",
+    "record_type": "prophecy",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.8.23",
+      "phrase": "In the latter time of their kingdom",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Dan.11.21-Dan.11.45"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TTS0HJC19EFZE7JXBCZ2SY",
+    "title": "The vision is true; seal it up for many days",
+    "passage": "Dan.8.26",
+    "description": "The vision of the evenings and mornings is true but belongs to many days to come.",
+    "record_type": "prophecy",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.8.26",
+      "phrase": "it belongs to many days to come",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Dan.12.4"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TTS0HJ88GM71FMN3CVFZ4Y",
+    "title": "Daniel faints, is sick, then does the king's business",
+    "passage": "Dan.8.27",
+    "description": "Daniel is ill for some days, then returns to the king's business, astonished and without understanding.",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "personal_narrative"
+    ],
+    "parent_candidate_id": "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.8.27",
+      "phrase": "was sick for some days",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [],
+    "research_priority": "low",
+    "ambiguities": [
+     "\"The king's business\" is read by some as implying Daniel was at Susa in person."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4TTS0HJDA2YJWP49F063JPG"
+   }
+  ],
+  "session_log": "research/logs/2026-10-13-daniel-08.md",
+  "slug": "daniel"
+ },
+ {
   "book": "Amos",
   "chapter": 1,
   "status": "complete",

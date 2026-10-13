@@ -26,486 +26,486 @@ Belshazzar governed Babylonia while Nabonidus was in Arabia: the Verse Account s
 
 ## Date and chronology
 
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *model-independent*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
-- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
+- **? – 539 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: —
-  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “In the first year of Belshazzar king of Babylon”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TTS0J2CC76CKS9B7G7HSYP → cst_01M4TTS0J2QH2FZRYARVEXB6Q9
 - **553 BC – 551 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
   - Earliest bound from: reign of Belshazzar (Belshazzar's years counted from the entrusting of the kingship) (reign start) → “In the first year of Belshazzar king of Babylon”
   - Latest bound from: reign of Belshazzar (Belshazzar's years counted from the entrusting of the kingship) (reign start) → “In the first year of Belshazzar king of Babylon”

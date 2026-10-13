@@ -1,0 +1,34 @@
+{
+  "event_id": "evt_01M4TTS0HJERGH3WATWMDAZ2W6",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TTS0J8RSZH6274SFMC75PP",
+      "type": "source_attestation",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "John.10.22"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Feast of the Dedication commemorating the rededication.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": []
+}

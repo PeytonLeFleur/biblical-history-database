@@ -453,5 +453,161 @@
   "status": "open",
   "created_at": "2026-10-13T14:10:34.443Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0J68ZKDMTYSYZ6RBCPD",
+  "record_kind": "claim",
+  "record_id": "clm_01M4TTS0J492BV05XDMY89BA6B",
+  "record_revision": 1,
+  "reason": "Disputed: was Daniel physically at Susa (Dan 8:2, 27)?",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.422Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0J77W2945ZF3VE6FVJ6",
+  "record_kind": "claim",
+  "record_id": "clm_01M4TTS0J65EJDYETZ74SVDXJY",
+  "record_revision": 1,
+  "reason": "Disputed: rededication in Dec 165 or Dec 164 BC (Seleucid-era epoch)",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.423Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0J98TKXKYJ3WXFZE0NE",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TTS0J7X7PYJC6QJ7WNGG2M",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 8): The great horn, \"the first king\" of Greece (8:21), is Alexander",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.425Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0J9CDEP994J3VGE4TZ9",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TTS0J79SD3X8GPAW0BFA2N",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 8): The little horn / king of fierce face is Antiochus IV",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.425Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0JA80MM7X7N81P75ZBP",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TTS0J7PNG7R45MBT2GAV7C",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 8): The goat's little horn is Rome (historicist)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.426Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0JBS6R3ZKQ6DWVVK0XJ",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TTS0J7196VM608DZY54X9C",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 8): The cleansing of the sanctuary after 2,300 evenings and mornings is the rededication of 25 Chislev 148 SE",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.427Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0JFYXCNFF46NZZYPTWV",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TTS0HQJ88NC5K4B868X5FZ",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 8): Alexander the Great and his successors",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.431Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0JJ0SB6WW6W7HX64ADH",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TTS0HTR2GM87VTB8K54YFY",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 8): Antiochus IV Epiphanes",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.434Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0JKJHQ3PMD8ZFY6R7C6",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TTS0HTXW9SYDWVBPC7TF4H",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 8): Rome (historicist)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.435Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0JPX9JDF6CS9SRE86CB",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TTS0HW0J94AN1MAYQM9YG4",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 8): 1,150 days (2,300 offerings) of the interrupted sacrifice under Antiochus",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.438Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0JQSSSY4AQCYQG7ZZ73",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TTS0HWK8RDS1DPH7H43PWV",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 8): 2,300 days ending with the cleansing of the Temple",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.439Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TTS0JR2T9Q8B7MT6TSNPZW",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TTS0HWDY675CH8VSE4DS7Q",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 8): 2,300 years from 457 BC to AD 1843 (year-day)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.440Z",
+  "decisions": []
  }
 ]

@@ -1,0 +1,54 @@
+{
+  "event_id": "evt_01M4TTS0HJERGH3WATWMDAZ2W6",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4TTS0J77W2945ZF3VE6FVJ6"
+  ],
+  "research_gaps": [
+    "2 Maccabees 10 not read.",
+    "Modern discussion of the 1 Maccabees Seleucid-era epochs not read."
+  ],
+  "disputes": [
+    "The rededication took place in December 164 BC (rather than 165 BC)."
+  ],
+  "export_eligible": true
+}

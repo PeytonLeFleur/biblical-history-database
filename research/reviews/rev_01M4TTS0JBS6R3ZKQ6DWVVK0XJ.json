@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4TTS0JBS6R3ZKQ6DWVVK0XJ",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TTS0J7196VM608DZY54X9C",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 8): The cleansing of the sanctuary after 2,300 evenings and mornings is the rededication of 25 Chislev 148 SE",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.427Z",
+  "decisions": [],
+  "is_fixture": false
+}

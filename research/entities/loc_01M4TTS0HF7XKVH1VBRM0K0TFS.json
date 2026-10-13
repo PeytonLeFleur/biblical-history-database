@@ -1,0 +1,45 @@
+{
+  "kind": "place",
+  "id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+  "slug": "susa",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TTS0HAX5NYTKT12DM0D0DW",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "primary_name": "Susa (Shushan)",
+  "place_type": "city",
+  "modern_name": "Shush",
+  "modern_country": "Iran",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Shushan",
+      "language": "Hebrew",
+      "period": null,
+      "source_id": "src_01M4TTS0HAX5NYTKT12DM0D0DW"
+    },
+    {
+      "name": "Seleucia ad Eulaeum",
+      "language": "Greek",
+      "period": null,
+      "source_id": "src_01M4TTS0HAX5NYTKT12DM0D0DW"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4TTS0HCDQ50PMFA4737KM74",
+      "label": "Susa (Pleiades 912936)",
+      "lat": 32.189934471571,
+      "lon": 48.253537054323495,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4TTS0HAX5NYTKT12DM0D0DW",
+      "proponents": [],
+      "reasoning": "Pleiades representative point; capital of Elam and a Persian royal residence (Driver)."
+    }
+  ],
+  "description": "Capital of Elam and later a principal Persian royal residence (Neh 1:1; Esth 1:2)."
+}
