@@ -1,0 +1,23 @@
+{
+  "kind": "document",
+  "id": "doc_01M4TPW4BRHC01T6MRWQ6AZGRK",
+  "slug": "nabonidus-cylinder-from-ur",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Nabonidus Cylinder from Ur",
+  "document_type": "Royal building inscription (ziggurat foundation text)",
+  "language": "Akkadian",
+  "standard_reference": "Nabonidus Cylinder from Ur",
+  "artifact_id": null,
+  "date": {
+    "earliest": -542,
+    "latest": -538
+  },
+  "description": "Foundation text for the ziggurat of Sin at Ur, found by J. G. Taylor in 1854 (four cylinders); ends with a prayer for Belshazzar, the eldest son. Museum numbers not verified.",
+  "editions": [
+    "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+    "src_01M4TPW4AXDY6KJMV1CBN03N7N"
+  ]
+}

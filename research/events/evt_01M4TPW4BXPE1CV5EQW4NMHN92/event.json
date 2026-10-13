@@ -1,0 +1,64 @@
+{
+  "id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92",
+  "slug": "belshazzars-feast-dan-5",
+  "title": "Belshazzar's feast and the writing on the wall (Dan 5:1–29)",
+  "summary": "At a great feast Belshazzar drinks from the temple vessels taken from Jerusalem; a hand writes on the palace wall; Daniel, summoned on the queen's advice, rebukes the king and reads the writing as the end of his kingdom, and is made \"third ruler\".",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4TPW4BXE9DGK3FS44FJCQNB",
+    "cnd_01M4TPW4BYMNW8SPDEAT0PADK3",
+    "cnd_01M4TPW4BYJE067W91KMNVC64S",
+    "cnd_01M4TPW4BY23YDFT7FSA4KJSGK"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "royal",
+    "religious",
+    "miracle_claim"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.5.1-Dan.5.29",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

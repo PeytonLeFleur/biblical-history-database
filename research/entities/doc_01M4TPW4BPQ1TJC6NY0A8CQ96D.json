@@ -1,0 +1,22 @@
+{
+  "kind": "document",
+  "id": "doc_01M4TPW4BPQ1TJC6NY0A8CQ96D",
+  "slug": "cyrus-cylinder-text",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Cyrus Cylinder (text)",
+  "document_type": "Royal building inscription",
+  "language": "Akkadian",
+  "standard_reference": "Cyrus Cylinder (BM 90920)",
+  "artifact_id": "art_01M4TPW4BMMPMC59NJBBHFSCD1",
+  "date": {
+    "earliest": -538,
+    "latest": -529
+  },
+  "description": null,
+  "editions": [
+    "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+  ]
+}

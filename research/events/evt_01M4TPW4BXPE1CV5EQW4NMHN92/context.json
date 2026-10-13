@@ -1,0 +1,130 @@
+{
+  "event_id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Belshazzar feasts with a thousand lords and drinks from the Jerusalem temple vessels while praising idols. A hand writes on the plaster wall by the lampstand. The king's experts fail; the queen points to Daniel. Daniel refuses the rewards, recalls Nebuchadnezzar's humbling, condemns Belshazzar's pride and sacrilege, and reads MENE, MENE, TEKEL, UPHARSIN as the end of his kingdom. Belshazzar makes him third ruler.",
+    "passage": "Dan.5.1-Dan.5.29"
+  },
+  "setting": {
+    "period": "Final years of the Neo-Babylonian Empire (Nabonidus, 556–539 BC)",
+    "body": "Nabonidus spent about ten years at Tayma, entrusting \"the kingship\" to his eldest son (Verse Account ii 5–6); the Chronicle records \"the prince\" in Akkad in those years. In Nabonidus's 12th year oaths were sworn by Nabonidus \"and Belshazzar, the son of the king\" (Dougherty pp. 96–97). Nabonidus was back in Babylon for the New Year of year 17, when Cyrus invaded.",
+    "citations": [
+      "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+      "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+      "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+      "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+      "reign_id": null,
+      "role": "Son of the king; acting ruler in Babylon (\"king\" in Daniel)",
+      "citations": [
+        "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+        "src_01M4TPW4B5HK2YRXXSPZDQA5X3"
+      ]
+    },
+    {
+      "person_id": "per_01M4RV9NR4E3F6M8CK96RBYNYK",
+      "reign_id": "rgn_01M4TPW4BVQQDWM7W4YJD12TVA",
+      "role": "King of Babylon",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4TPW4C5107NC0DF9SFQ0SPC",
+      "subject": "evt_01M4TPW4BXPE1CV5EQW4NMHN92",
+      "object": "rgn_01M4TPW4BVQQDWM7W4YJD12TVA",
+      "relation": "within_reign",
+      "textual_assertion": "Belshazzar the king made a great feast",
+      "passage": "Dan.5.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Belshazzar ruled as Nabonidus's son and deputy; the feast falls within Nabonidus's reign."
+      ],
+      "citations": [
+        "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+        "src_01M4TPW4B5HK2YRXXSPZDQA5X3"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Royal palace (as narrated)",
+      "hypotheses": [],
+      "confidence": "probable"
+    },
+    {
+      "location_id": "loc_01M4RV9NR68VNJT9QQBNY0YYZV",
+      "role": "Nabonidus's residence in the regency years",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Historical feast on the night of the fall",
+      "proponents": [
+        "D. Guzik",
+        "R. P. Dougherty (1929)"
+      ],
+      "summary": "The feast is the festival Herodotus and Xenophon place on the night Babylon was taken; the \"third ruler\" reflects Belshazzar's position as second to Nabonidus.",
+      "citations": [
+        "src_01M4TPW4ANVR01F7B65HENPWZG",
+        "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+        "src_01M4TPW4B76Q4APZ5JCJX4ME8M",
+        "src_01M4TPW4B8WE50Y13FDWAB144C"
+      ]
+    },
+    {
+      "label": "Court legend with historical memories",
+      "proponents": [
+        "J. J. Collins (1984)",
+        "C.-L. Seow (2003)",
+        "via Wikipedia"
+      ],
+      "summary": "A tale of court contest written long after the events: it correctly remembers Belshazzar but makes him king and son of Nebuchadnezzar, and introduces an unknown Darius the Mede.",
+      "citations": [
+        "src_01M4TPW4B24WCAYH9QR7BGTDVP",
+        "src_01M4TPW4AY6AQG3ZA8NDG70BFB"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4TPW4ANVR01F7B65HENPWZG",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads Belshazzar as co-regent with Nabonidus (from 553 BC), explains \"father\" as grandfather or royal predecessor, and the \"third ruler\" as the highest rank Belshazzar could give. He interprets the words as verbs of judgement (after Adam Clarke) and sees the kingdom falling from within through pride and sacrilege.",
+      "url": "https://enduringword.com/bible-commentary/daniel-5/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Read the Old Greek version of Daniel 5, which differs from the Aramaic.",
+    "Identity of \"the queen\" (5:10)."
+  ],
+  "not_applicable": {}
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+  "slug": "darius-the-mede",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+  ],
+  "notes": null,
+  "canonical_name": "Darius the Mede",
+  "aliases": [],
+  "description": "Ruler who \"received the kingdom\" after Belshazzar's death, aged about 62 (Dan 5:31); \"son of Ahasuerus, of the offspring of the Medes\" (Dan 9:1). Not named in any known contemporary source; identification disputed (see the Daniel 5 dossier).",
+  "kingdom_id": null
+}

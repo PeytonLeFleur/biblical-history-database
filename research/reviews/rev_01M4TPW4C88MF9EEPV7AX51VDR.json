@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4TPW4C88MF9EEPV7AX51VDR",
+  "record_kind": "claim",
+  "record_id": "clm_01M4TPW4C7Y2193QD6J26GP095",
+  "record_revision": 1,
+  "reason": "Disputed: Belshazzar as \"king\" and \"son of Nebuchadnezzar\" (Dan 5)",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T13:22:48.328Z",
+  "decisions": [],
+  "is_fixture": false
+}

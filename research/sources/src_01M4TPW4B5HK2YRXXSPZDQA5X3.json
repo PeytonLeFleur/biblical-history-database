@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+  "title": "Nabonidus and Belshazzar: A Study of the Closing Events of the Neo-Babylonian Empire",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Dougherty, Raymond Philip"
+  ],
+  "publisher": "Yale University Press (Yale Oriental Series Researches 15)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/nabonidusbelshaz0000raym",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Published 1929; US public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 96–97: oath formulas dated in Nabonidus's 12th year swear by Nabonidus, king of Babylon, \"and Belshazzar, the son of the king\" (Pinches; two Yale tablets) — no other oath in the name of a king's son; pp. 196–197: \"third ruler\" read as third after Nabonidus and Belshazzar (first suggested by Grotius); notes Torrey's alternative reading; Genouillac's Nabonidus-behind-Nebuchadnezzar thesis called \"extremely hypothetical\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

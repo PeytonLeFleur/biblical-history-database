@@ -1,0 +1,106 @@
+{
+  "event_id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Daniel's reading of PERES announces that the kingdom is given to the Medes and Persians; the chapter ends with Belshazzar's death and Darius the Mede receiving the kingdom. The capture itself is not narrated.",
+    "passage": "Dan.5.28-Dan.5.31"
+  },
+  "setting": {
+    "period": "Tašrītu–Arahsamna, Nabonidus year 17 (Oct 539 BC)",
+    "body": "Cyrus defeated the army of Akkad at Opis on the Tigris; Sippar was taken on the 14th (11 Oct) without battle and Nabonidus fled; on the 16th (13 Oct in Parker & Dubberstein) Ugbaru and Cyrus's army entered Babylon without battle; Nabonidus was captured; Cyrus entered on 3 Arahsamna (29 Oct) and peace was proclaimed.",
+    "citations": [
+      "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RV9NR4E3F6M8CK96RBYNYK",
+      "reign_id": "rgn_01M4TPW4BVQQDWM7W4YJD12TVA",
+      "role": "Defeated king",
+      "citations": [
+        "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+      ]
+    },
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "Conqueror",
+      "citations": [
+        "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "City captured",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Peaceful entry (cuneiform sources)",
+      "proponents": [
+        "Nabonidus Chronicle",
+        "Cyrus Cylinder"
+      ],
+      "summary": "Babylon was entered \"without battle\"; the Cylinder frames this as Marduk's choice of Cyrus.",
+      "citations": [
+        "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+        "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+      ]
+    },
+    {
+      "label": "Surprise entry by the river during a festival (Greek sources)",
+      "proponents": [
+        "Herodotus 1.191",
+        "Xenophon, Cyropaedia 7.5"
+      ],
+      "summary": "After a siege, Cyrus diverted the Euphrates and his men entered along the riverbed while the city celebrated; Xenophon adds that the king was killed in his palace.",
+      "citations": [
+        "src_01M4TPW4B76Q4APZ5JCJX4ME8M",
+        "src_01M4TPW4B8WE50Y13FDWAB144C"
+      ]
+    },
+    {
+      "label": "Propaganda and a forced entry",
+      "proponents": [
+        "P. Briant",
+        "P. Michalowski",
+        "G. Tolini",
+        "via Wikipedia"
+      ],
+      "summary": "The \"without battle\" claim is pro-Persian framing; Tolini proposes a forced entry through the Enlil Gate that the river story may echo.",
+      "citations": [
+        "src_01M4TPW4B12J0S699ARFQ2A3JB"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4TPW4ANVR01F7B65HENPWZG",
+      "layer": "interpretation",
+      "paraphrase": "Guzik follows Herodotus on the diverted Euphrates and unlocked gates and sees the fall as fulfilling Isaiah 44:28–45:7 and Jeremiah 51:57–58.",
+      "url": "https://enduringword.com/bible-commentary/daniel-5/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Read Briant (2002) and Tolini (2005) directly.",
+    "Consult Parker & Dubberstein 1956 to confirm the 1942 conversion."
+  ],
+  "not_applicable": {}
+}

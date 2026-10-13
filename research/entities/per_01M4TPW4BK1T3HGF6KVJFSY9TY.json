@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4TPW4BK1T3HGF6KVJFSY9TY",
+  "slug": "cyaxares-ii-xenophon",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B94PGPS0RF27FB9FR2",
+    "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+  ],
+  "notes": null,
+  "canonical_name": "Cyaxares II (in Xenophon)",
+  "aliases": [],
+  "description": "Median king, son of Astyages and uncle of Cyrus, in Xenophon's Cyropaedia (1.5.2). Not attested in Herodotus or cuneiform sources; his historicity is debated.",
+  "kingdom_id": null
+}

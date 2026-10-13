@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TPW4AZ36MRBPK409CVFJ9G",
+  "title": "Darius the Mede — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Darius_the_Mede",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Identifications: Gubaru/Ugbaru; Cyrus (Wiseman 1965, Frye 1994, Colless 1992); Cambyses II; son of Astyages (Josephus, Jerome); Cyaxares II (Jerome, Calvin, Ussher, Keil, Hengstenberg; Hirsch defends Xenophon); Darius I projected (Newsom & Breed 2014); literary figure (Rowley 1935; Hill 2009); \"most scholars view this Darius as a literary fiction\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -72,6 +72,30 @@
   "institution_url": null
  },
  {
+  "kind": "artifact",
+  "id": "art_01M4TPW4BMMPMC59NJBBHFSCD1",
+  "slug": "cyrus-cylinder",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4AVX4G2CV6Q0YQCR5DJ"
+  ],
+  "notes": null,
+  "name": "Cyrus Cylinder",
+  "artifact_type": "Baked clay cylinder (foundation deposit)",
+  "findspot_site_id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
+  "findspot_description": "Babylon, found by Hormuzd Rassam in March 1879; the article places it in the Esagila foundations, though Rassam gave conflicting locations.",
+  "current_institution": "British Museum, London",
+  "accession_number": "BM 90920 (reg. 1880,0617.1941)",
+  "date": {
+   "earliest": -538,
+   "latest": -529
+  },
+  "description": "Akkadian building inscription of Cyrus II proclaiming that Marduk let him enter Babylon without battle and denouncing Nabonidus.",
+  "image": null,
+  "institution_url": null
+ },
+ {
   "kind": "chronology_model",
   "id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
   "slug": "thiele-1983",
@@ -252,6 +276,73 @@
   "description": null,
   "editions": [
    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4TPW4BPQ1TJC6NY0A8CQ96D",
+  "slug": "cyrus-cylinder-text",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Cyrus Cylinder (text)",
+  "document_type": "Royal building inscription",
+  "language": "Akkadian",
+  "standard_reference": "Cyrus Cylinder (BM 90920)",
+  "artifact_id": "art_01M4TPW4BMMPMC59NJBBHFSCD1",
+  "date": {
+   "earliest": -538,
+   "latest": -529
+  },
+  "description": null,
+  "editions": [
+   "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4TPW4BRHC01T6MRWQ6AZGRK",
+  "slug": "nabonidus-cylinder-from-ur",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Nabonidus Cylinder from Ur",
+  "document_type": "Royal building inscription (ziggurat foundation text)",
+  "language": "Akkadian",
+  "standard_reference": "Nabonidus Cylinder from Ur",
+  "artifact_id": null,
+  "date": {
+   "earliest": -542,
+   "latest": -538
+  },
+  "description": "Foundation text for the ziggurat of Sin at Ur, found by J. G. Taylor in 1854 (four cylinders); ends with a prayer for Belshazzar, the eldest son. Museum numbers not verified.",
+  "editions": [
+   "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+   "src_01M4TPW4AXDY6KJMV1CBN03N7N"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4TPW4BSJC2FJY0K34MX7RMG",
+  "slug": "verse-account-of-nabonidus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Verse Account of Nabonidus",
+  "document_type": "Polemical poem (Persian-period, pro-Cyrus)",
+  "language": "Akkadian",
+  "standard_reference": "Verse Account of Nabonidus",
+  "artifact_id": null,
+  "date": {
+   "earliest": -538,
+   "latest": null
+  },
+  "description": "Hostile account of Nabonidus's reign: he entrusts the kingship to his eldest son, goes to Tayma, and is replaced by the pious Cyrus.",
+  "editions": [
+   "src_01M4TPW4ASF7ABS0ZRPC5YKVK7"
   ]
  },
  {
@@ -929,6 +1020,99 @@
   "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
  },
  {
+  "kind": "person",
+  "id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+  "slug": "belshazzar",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+   "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+   "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+   "src_01M4TPW4AY6AQG3ZA8NDG70BFB"
+  ],
+  "notes": null,
+  "canonical_name": "Belshazzar",
+  "aliases": [
+   {
+    "alias": "Bēl-šarra-uṣur",
+    "language": "Akkadian",
+    "source_id": "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+    "passage": null
+   },
+   {
+    "alias": "Baltasar",
+    "language": "Greek/English (Josephus, Whiston)",
+    "source_id": "src_01M4TPW4BBB2NTGHS972QYDRX2",
+    "passage": null
+   }
+  ],
+  "description": "Eldest son of Nabonidus (Bēl-šarra-uṣur), styled \"son of the king\" in Babylonian texts; exercised royal authority in Babylonia while Nabonidus was at Tayma. Called king in Daniel 5 and 7–8.",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4TPW4BE1XAKPBB09NM5A8MA",
+  "slug": "ugbaru",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ],
+  "notes": null,
+  "canonical_name": "Ugbaru (governor of Gutium)",
+  "aliases": [],
+  "description": "Governor of Gutium who entered Babylon with Cyrus's army \"without a battle\" on 16 Tašrītu and died on the night of 11 Arahsamna (ABC 7 iii 15–22). Often equated with the Gobryas of Xenophon.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4TPW4BGGC0KY0GYZNGGGAR0",
+  "slug": "gubaru",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+  ],
+  "notes": null,
+  "canonical_name": "Gubaru (Cyrus's district officer in Babylon)",
+  "aliases": [],
+  "description": "Cyrus's official who appointed district officers in Babylon (ABC 7 iii 20). Whether he is the same man as Ugbaru is debated; the Livius translation spells them differently.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+  "slug": "darius-the-mede",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+  ],
+  "notes": null,
+  "canonical_name": "Darius the Mede",
+  "aliases": [],
+  "description": "Ruler who \"received the kingdom\" after Belshazzar's death, aged about 62 (Dan 5:31); \"son of Ahasuerus, of the offspring of the Medes\" (Dan 9:1). Not named in any known contemporary source; identification disputed (see the Daniel 5 dossier).",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4TPW4BK1T3HGF6KVJFSY9TY",
+  "slug": "cyaxares-ii-xenophon",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4B94PGPS0RF27FB9FR2",
+   "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+  ],
+  "notes": null,
+  "canonical_name": "Cyaxares II (in Xenophon)",
+  "aliases": [],
+  "description": "Median king, son of Astyages and uncle of Cyrus, in Xenophon's Cyropaedia (1.5.2). Not attested in Herodotus or cuneiform sources; his historicity is debated.",
+  "kingdom_id": null
+ },
+ {
   "kind": "prophecy",
   "id": "pro_01M4RTK7458JMN36GV9R7JAAMQ",
   "slug": "four-kingdoms-and-the-stone-dan-2",
@@ -1143,6 +1327,65 @@
      "src_01M4RV9NQDGZSWZ65QX9YDV0T5",
      "src_01M4RV9NQEX541YPGG8RK52KR0",
      "src_01M4RV9NQHMK8RS0CXEFG1ZWH7"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4TPW4BYB1KSJGT17R3GZKFS",
+  "slug": "mene-tekel-peres-dan-5",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "MENE, MENE, TEKEL, UPHARSIN (Dan 5:24–28)",
+  "passage": "Dan.5.24-Dan.5.28",
+  "speaker": "Daniel",
+  "vision_id": null,
+  "description": "Writing on the palace wall which Daniel reads as: God has numbered the kingdom and ended it; the king is weighed and found wanting; the kingdom is divided and given to the Medes and Persians.",
+  "in_text_interpretation": "Daniel's reading (5:26–28) and the narrated sequel that night (5:30–31).",
+  "interpretations": [
+   {
+    "id": "ful_01M4TPW4C04R3FVPY64B1MVCK0",
+    "label": "Fulfilled that night in the fall of Babylon",
+    "approach": "preterist",
+    "framework": "Traditional Jewish and Christian",
+    "proponents": [
+     "The narrative itself (5:30–31)",
+     "D. Guzik"
+    ],
+    "summary": "The kingdom of Belshazzar ended when Babylon passed to Cyrus in October 539 BC.",
+    "referents": [
+     {
+      "symbol": "PERES",
+      "referent": "Babylon given to the Medes and Persians"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TPW4ANVR01F7B65HENPWZG"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TPW4C0HDDWMHMX1MA99SVC",
+    "label": "Weights and wordplay",
+    "approach": "preterist",
+    "framework": "Philological",
+    "proponents": [
+     "C.-L. Seow (2003), via Wikipedia"
+    ],
+    "summary": "As nouns the words name weights — a mina, a shekel and half-pieces — which Daniel reinterprets as verbs; parsîn also puns on \"Persia\". If the half-pieces are two half-shekels the total is 62 shekels, the age given for Darius the Mede. This is a reading of the words, not a fulfillment claim.",
+    "referents": [],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TPW4B24WCAYH9QR7BGTDVP"
     ],
     "reviewer_status": "machine_proposed"
    }
@@ -1410,6 +1653,147 @@
   "regnal_convention": null
  },
  {
+  "kind": "reign",
+  "id": "rgn_01M4TPW4BVQQDWM7W4YJD12TVA",
+  "slug": "nabonidus-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ],
+  "notes": "Babylonian accession-year dating; reign length 17 years (accession year 556/555).",
+  "person_id": "per_01M4RV9NR4E3F6M8CK96RBYNYK",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "model_id": null,
+  "title": "King of Babylon",
+  "start": {
+   "earliest": -555,
+   "latest": -555
+  },
+  "end": {
+   "earliest": -538,
+   "latest": -538
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+   "from": {
+    "year": -555,
+    "month": 4,
+    "day": 12
+   },
+   "to": {
+    "year": -555,
+    "month": 6,
+    "day": 30
+   },
+   "basis": "Between Neriglissar's last text (12 Apr 556) and the end of June 556, by which Nabonidus was sole ruler; his first dated texts are from 25 May 556 (Parker & Dubberstein 1942, p. 11).",
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -538,
+    "month": 10,
+    "day": 12
+   },
+   "to": {
+    "year": -538,
+    "month": 10,
+    "day": 13
+   },
+   "basis": "Babylon fell on 16 Tašrītu of year 17 (ABC 7 iii 15) = 13 Oct 539 in Parker & Dubberstein (1942, p. 11); other modern conversions give 12 Oct. A Nabonidus-dated tablet from Uruk of the next day reflects delayed news.",
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+   ]
+  },
+  "regnal_convention": {
+   "reckoning": "accession",
+   "new_year": "nisan",
+   "alternative_group": null,
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  }
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+  "slug": "cyrus-ii-reign-babylon",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+  ],
+  "notes": "Cyrus's reign as king of Persia began c. 559 BC; this record covers only his rule over Babylon, which the Babylonian documents date by.",
+  "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+  "model_id": null,
+  "title": "King of Babylon and of the lands (Babylonian dating)",
+  "start": {
+   "earliest": -538,
+   "latest": -538
+  },
+  "end": {
+   "earliest": -529,
+   "latest": -529
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+   "from": {
+    "year": -538,
+    "month": 10,
+    "day": 12
+   },
+   "to": {
+    "year": -538,
+    "month": 10,
+    "day": 13
+   },
+   "basis": "Babylonian texts date Cyrus from the fall of Babylon, 16 Tašrītu (13 Oct 539 in Parker & Dubberstein; 12 Oct in other conversions); his accession year runs to Nisan 538, and year 1 begins 1 Nisan = 24 Mar 538.",
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -529,
+    "month": 8,
+    "day": 12
+   },
+   "to": {
+    "year": -529,
+    "month": 8,
+    "day": 31
+   },
+   "basis": "Last Cyrus-dated tablets 12 Aug 530; first Cambyses tablet as sole king 31 Aug 530 (Parker & Dubberstein 1942, p. 12).",
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "regnal_convention": {
+   "reckoning": "accession",
+   "new_year": "nisan",
+   "alternative_group": null,
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  }
+ },
+ {
   "kind": "site",
   "id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
   "slug": "babylon-excavations",
@@ -1563,6 +1947,59 @@
   "competing_interpretations": [],
   "anchor_subject": null,
   "window": null,
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4TPW4C5ZE186HXQZ201MHFF",
+  "slug": "fall-of-babylon-539-abc-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+  ],
+  "notes": null,
+  "title": "Fall of Babylon: 16 Tašrītu, Nabonidus year 17 (ABC 7)",
+  "type": "documentary_correlation",
+  "passage": "Dan.5.30-Dan.5.31",
+  "biblical_subject": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+  "external_entity": "Nabonidus Chronicle (ABC 7) iii 12–22",
+  "external_document_id": "doc_01M4RV9NRCTVGH19J236HH7GX8",
+  "external_source_id": "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+  "proposed_synchronization": "The Babylonian Chronicle dates the entry of Cyrus's army into Babylon to 16 Tašrītu of Nabonidus's 17th year; Daniel 5:28–31 places the end of Belshazzar's kingdom and its transfer to the Medes and Persians at that juncture.",
+  "independent_date": {
+   "earliest": -538,
+   "latest": -538
+  },
+  "precision": "day",
+  "dating_method": "Babylonian day date converted with Parker & Dubberstein (1942) tables",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "The chronicle year is lost on the tablet; the 17th year of Nabonidus is fixed by context and the Babylonian king-list chronology (Parker & Dubberstein)."
+  ],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+  "window": {
+   "from": {
+    "year": -538,
+    "month": 10,
+    "day": 12
+   },
+   "to": {
+    "year": -538,
+    "month": 10,
+    "day": 13
+   },
+   "basis": "16 Tašrītu year 17 = 13 Oct 539 (Parker & Dubberstein 1942, p. 11; month VII began 28 Sep). Many modern works give 12 Oct; the one-day spread reflects day-boundary and month-start conventions. Window 12–13 Oct.",
+   "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+   ]
+  },
   "reviewer_status": "machine_proposed"
  },
  {

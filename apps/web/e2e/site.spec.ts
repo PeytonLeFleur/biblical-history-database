@@ -116,11 +116,12 @@ test.describe('search and passages', () => {
     await expect(first.getByRole('link')).toHaveAttribute('href', /events\/earthquake-in-the-days-of-uzziah\//);
   });
   test('resolves Bible references', async ({ page }) => {
-    await page.goto('search/?q=Daniel%205');
-    await expect(page.getByTestId('search-results').getByRole('link', { name: 'Daniel 5' })).toHaveAttribute('href', /books\/daniel\/5\//);
+    await page.goto('search/?q=Ruth%202');
+    await expect(page.getByTestId('search-results').getByRole('link', { name: 'Ruth 2', exact: true }).first()).toHaveAttribute('href', /books\/ruth\/2\//);
   });
   test('shows an honest empty state for unresearched subjects', async ({ page }) => {
-    await page.goto('search/?q=Belshazzar');
+    // A query no research record can match, so the test does not depend on research progress.
+    await page.goto('search/?q=zzqx%20no%20such%20subject');
     await expect(page.getByTestId('search-results')).toContainText('No published research matches');
   });
   test('passage explorer jumps to the verse', async ({ page }) => {
@@ -138,8 +139,8 @@ test.describe('Bible explorer', () => {
     await expect(page.locator('#v1').getByRole('link', { name: /Event: The earthquake/ })).toBeVisible();
   });
   test('unreviewed chapters say so', async ({ page }) => {
-    await page.goto('books/daniel/5/');
-    await expect(page.getByText('Not yet reviewed.')).toBeVisible();
+    await page.goto('books/ruth/2/');
+    await expect(page.getByText('Not yet reviewed.').first()).toBeVisible();
   });
   test('empty states are labelled', async ({ page }) => {
     await page.goto('books/obadiah/');

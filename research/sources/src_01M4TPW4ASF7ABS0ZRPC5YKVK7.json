@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+  "title": "Verse Account of Nabonidus — English translation on Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Oppenheim, A. Leo (trans., ANET 1950)",
+    "Lendering, Jona (ed.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/anet/verse-account-of-nabonidus/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Verse Account of Nabonidus",
+  "license": "Translation after Oppenheim in ANET; paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Col. ii 5–6: Nabonidus gave the army to his eldest son and \"entrusted the kingship to him\", then went to Tayma, killed its prince and built a palace there; col. iv lacuna has \"the king is mad\"; cols. iv–vi praise Cyrus",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Page gives no museum number. The text is hostile to Nabonidus and favourable to Cyrus.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

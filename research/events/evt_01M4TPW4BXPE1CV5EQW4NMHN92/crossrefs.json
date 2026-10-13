@@ -1,0 +1,169 @@
+{
+  "event_id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TPW4C9AK4S3FZJ6J7Y6FBA",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The vessels Nebuchadnezzar took from the Jerusalem temple (5:2; cf. 1:2).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4C9WF9GX9YT9VSJV7G2",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RV9NRDQ41HV8TDH3ZYX1PS"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Daniel recalls Nebuchadnezzar's humbling (5:18–21).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4C9D83S8AWMSBAS39MT",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RTK74244FBNE62VE24RYGQ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The queen recalls Daniel's appointment as chief of the wise men (5:11; cf. 2:48).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4C9925CANK63R4FK91T",
+      "type": "prophecy_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TPW4BYB1KSJGT17R3GZKFS"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The inscription and its interpretation within the narrative.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "The text itself (5:24–28)",
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4C9H7NNDZ9XKGZ83J8P",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"In that night\" (5:30).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4C9TSDG9XEW45C6963C",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.1.7-Ezra.1.11"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Cyrus returns the temple vessels Nebuchadnezzar had taken.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Belshazzar (Dan 5:1)",
+      "resolved_to": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+      "basis": "Aramaic Bēlšaʾṣṣar = Akkadian Bēl-šarra-uṣur, Nabonidus's eldest son",
+      "confidence": "high"
+    },
+    {
+      "name_as_written": "Nebuchadnezzar your father (5:11)",
+      "resolved_to": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "basis": "Named directly; the kinship term is disputed",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4TPW4C5107NC0DF9SFQ0SPC"
+  ]
+}

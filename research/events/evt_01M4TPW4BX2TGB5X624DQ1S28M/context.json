@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_01M4TPW4BX2TGB5X624DQ1S28M",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Daniel continued until the first year of King Cyrus.",
+    "passage": "Dan.1.21"
+  },
+  "setting": {
+    "period": "Cyrus's first Babylonian year (538/537 BC)",
+    "body": "Babylonian documents count Cyrus's years from the fall of Babylon with an accession year; year 1 began 1 Nisan = 24 Mar 538 (Parker & Dubberstein). Daniel 10:1 dates a later vision to Cyrus's third year, so 1:21 is commonly read as marking the end of the Babylonian era of his service rather than his death.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "King",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4TPW4C5C39ATN67DXNV07BH",
+      "subject": "evt_01M4TPW4BX2TGB5X624DQ1S28M",
+      "object": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "relation": "in_regnal_year",
+      "textual_assertion": "Daniel continued even to the first year of King Cyrus",
+      "passage": "Dan.1.21",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 1,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Counted in Babylonian years (accession year 539/538 not counted): year 1 = 24 Mar 538 – 12 Mar 537. Counting the accession year as year 1 would move the window about five months earlier (Oct 539 – Mar 538)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [],
+  "open_questions": [
+    "The reading of 1:21 alongside 10:1 is to be revisited with Daniel 10."
+  ],
+  "not_applicable": {
+    "commentary": "Enduring Word on Daniel 1 does not discuss 1:21 in detail (checked in session 1).",
+    "competing_reconstructions": "No competing historical reconstructions were found in the sources consulted; the accession-year counting alternative is recorded in the constraint assumptions."
+  }
+}

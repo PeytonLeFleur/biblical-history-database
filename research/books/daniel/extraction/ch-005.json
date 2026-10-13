@@ -1,0 +1,558 @@
+{
+  "book": "Dan",
+  "chapter": 5,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Dan.5.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BXE9DGK3FS44FJCQNB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BXE9DGK3FS44FJCQNB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BXE9DGK3FS44FJCQNB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BXE9DGK3FS44FJCQNB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYMNW8SPDEAT0PADK3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYJE067W91KMNVC64S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYJE067W91KMNVC64S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYJE067W91KMNVC64S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYJE067W91KMNVC64S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYJE067W91KMNVC64S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYJE067W91KMNVC64S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYJE067W91KMNVC64S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BY5Z85E64V2B3DC8ZW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BY5Z85E64V2B3DC8ZW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BY5Z85E64V2B3DC8ZW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BY5Z85E64V2B3DC8ZW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BY5Z85E64V2B3DC8ZW",
+        "cnd_01M4TPW4BYGPGXFRM57NBHH10C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BY23YDFT7FSA4KJSGK",
+        "cnd_01M4TPW4BYGPGXFRM57NBHH10C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BYKX7XVF6D8G7RZBBF",
+        "cnd_01M4TPW4BYGPGXFRM57NBHH10C"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.5.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4TPW4BY92PB06VXRNQR6E3K",
+        "cnd_01M4TPW4BYGPGXFRM57NBHH10C"
+      ],
+      "notes": "Aramaic numbering 6:1."
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4TPW4BXE9DGK3FS44FJCQNB",
+      "title": "Belshazzar's feast with the Jerusalem temple vessels",
+      "passage": "Dan.5.1-Dan.5.4",
+      "description": "Belshazzar holds a feast for a thousand lords and drinks from the gold and silver vessels taken from the Jerusalem temple, praising idols.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal",
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Belshazzar",
+          "matched_entity_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nebuchadnezzar his father",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "the king's palace",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.1.2",
+        "Ezra.1.7-Ezra.1.11"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"Father\" (5:2, 11, 13, 18) for Nebuchadnezzar, whereas Babylonian texts make Belshazzar the son of Nabonidus."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+    },
+    {
+      "id": "cnd_01M4TPW4BYMNW8SPDEAT0PADK3",
+      "title": "The writing on the wall; the wise men fail; the queen recommends Daniel",
+      "passage": "Dan.5.5-Dan.5.16",
+      "description": "A hand writes on the plaster wall; the king offers purple, a gold chain and the rank of \"third ruler\" to any who can read it; the queen recalls Daniel from Nebuchadnezzar's days.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal",
+        "miracle_claim"
+      ],
+      "parent_candidate_id": "cnd_01M4TPW4BXE9DGK3FS44FJCQNB",
+      "participants": [
+        {
+          "name_as_written": "Belshazzar",
+          "matched_entity_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Daniel (Belteshazzar)",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.5.5",
+          "phrase": "In the same hour",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Dan.2.48",
+        "Dan.4.8-Dan.4.9"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Identity of \"the queen\" (queen mother or wife) is not stated.",
+        "\"Third ruler\" — meaning debated."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+    },
+    {
+      "id": "cnd_01M4TPW4BYJE067W91KMNVC64S",
+      "title": "Daniel's rebuke recalling Nebuchadnezzar's humbling",
+      "passage": "Dan.5.17-Dan.5.23",
+      "description": "Daniel declines the gifts and reminds the king how Nebuchadnezzar was humbled until he acknowledged the Most High.",
+      "record_type": "theological_interpretation",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [],
+      "parent_candidate_id": "cnd_01M4TPW4BXE9DGK3FS44FJCQNB",
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Belshazzar",
+          "matched_entity_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nebuchadnezzar",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.4.28-Dan.4.37"
+      ],
+      "research_priority": "low",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+    },
+    {
+      "id": "cnd_01M4TPW4BY5Z85E64V2B3DC8ZW",
+      "title": "The inscription MENE, MENE, TEKEL, UPHARSIN and its interpretation",
+      "passage": "Dan.5.24-Dan.5.28",
+      "description": "Daniel reads the words as numbered, weighed and divided: the kingdom is ended and given to the Medes and Persians.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": "cnd_01M4TPW4BXE9DGK3FS44FJCQNB",
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [
+        "5:25 \"upharsin\" vs 5:28 \"peres\"; some ancient versions have a single mene (Seow, via Wikipedia)."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4TPW4BY23YDFT7FSA4KJSGK",
+      "title": "Daniel honoured as third ruler",
+      "passage": "Dan.5.29",
+      "description": "Belshazzar clothes Daniel in purple, gives him a gold chain and proclaims him third ruler.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal"
+      ],
+      "parent_candidate_id": "cnd_01M4TPW4BXE9DGK3FS44FJCQNB",
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Belshazzar",
+          "matched_entity_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+    },
+    {
+      "id": "cnd_01M4TPW4BYKX7XVF6D8G7RZBBF",
+      "title": "Belshazzar slain that night",
+      "passage": "Dan.5.30",
+      "description": "That night Belshazzar the Chaldean king was killed.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "death",
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Belshazzar",
+          "matched_entity_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.5.30",
+          "phrase": "In that night",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [
+        "Daniel does not say who killed him or name Cyrus here."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0"
+    },
+    {
+      "id": "cnd_01M4TPW4BY92PB06VXRNQR6E3K",
+      "title": "Darius the Mede receives the kingdom, aged about 62",
+      "passage": "Dan.5.31",
+      "description": "Darius the Mede received the kingdom, being about sixty-two years old.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius the Mede",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.6.1",
+        "Dan.6.28",
+        "Dan.9.1",
+        "Dan.11.1"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Identity of Darius the Mede.",
+        "Aramaic numbering: English 5:31 = Aramaic 6:1."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0"
+    },
+    {
+      "id": "cnd_01M4TPW4BYGPGXFRM57NBHH10C",
+      "title": "The fall of Babylon to the Medes and Persians (implied)",
+      "passage": "Dan.5.28-Dan.5.31",
+      "description": "The interpretation (5:28) and the closing verses imply the transfer of Babylon to the Medes and Persians, which Babylonian sources date to Tašrītu of Nabonidus's 17th year.",
+      "record_type": "historical_reference",
+      "literary_classification": "historical_reference",
+      "narrative_mode": "reference_to_other_event",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Cyrus",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Isa.13.17",
+        "Jer.51.11",
+        "Jer.51.28"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Daniel does not narrate the capture itself."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-daniel-05.md"
+}

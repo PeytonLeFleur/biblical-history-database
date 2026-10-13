@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 5 (Daniel research pilot): **in progress** (Daniel 1–4 of 12 complete)
+**Current milestone:** 5 (Daniel research pilot): **in progress** (Daniel 1–5 of 12 complete)
 **Last updated:** 2026-10-12
 
 ## Milestone 1: Repository and foundation ✅
@@ -87,7 +87,8 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 | Daniel 2 | 49/49 | Dream and interpretation (2:1–45); Daniel's appointment (2:46–49); vision record (statue); prophecy record (four kingdoms) with 4 interpretations | ✅ researched (1 disputed claim, 4 proposed fulfillments in review) |
 | Daniel 3 | 30/30 | Golden image (parent); refusal and furnace; decree. Plain of Dura place (no coordinates); LXX date model; Greek additions indexed | ✅ researched (1 disputed claim in review) |
 | Daniel 4 | 37/37 | Tree dream and interpretation (4:4–27); boast, madness and restoration (4:28–37, period). Nabonidus, Tayma, East India House Inscription, 4Q242, ABC 7; tree vision; watchers' decree prophecy | ✅ researched (1 disputed claim, 1 proposed fulfillment in review) |
-| Daniel 5–12 | 0 | — | not started |
+| Daniel 5 | 31/31 | Belshazzar's feast and the writing (5:1–29); Belshazzar slain, Darius the Mede receives the kingdom (5:30–31); fall of Babylon, Oct 539 (external, anchored by ABC 7 = 12–13 Oct per Parker & Dubberstein); Dan 1:21 resolved. Belshazzar, Ugbaru, Gubaru, Darius the Mede, Cyaxares II (Xenophon); Cyrus Cylinder; Nabonidus and Cyrus (Babylon) reigns; MENE-TEKEL prophecy | ✅ researched (3 disputed claims, 3 proposed fulfillments in review) |
+| Daniel 6–12 | 0 | — | not started |
 
 **Infrastructure added in M5:**
 - Global synchronism, artifact, document, vision and prophecy records. Interpretations carry an approach and proponents, and proposed fulfillments require owner review.
@@ -105,6 +106,6 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 lint ✓ · typecheck ✓ · Vitest **91/91** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,299 pages
 
 ## Research progress
-- Verse coverage: **152 / 31,102** reviewed (Amos 1; Daniel 1–4). Chapters extracted: 5.
-- **Events: 14** (12 researched, 2 preliminary). **Sources: 59.** **Entities: 55.**
-- **Open owner reviews: 12.** The Amos review is unchanged.
+- Verse coverage: **183 / 31,102** reviewed (Amos 1; Daniel 1–5). Chapters extracted: 6.
+- **Events: 18** (16 researched, 2 preliminary). **Sources: 75.** **Entities: 68.**
+- **Open owner reviews: 18.** The Amos review is unchanged.

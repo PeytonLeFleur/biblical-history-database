@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4TPW4BGGC0KY0GYZNGGGAR0",
+  "slug": "gubaru",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4TPW4AZ36MRBPK409CVFJ9G"
+  ],
+  "notes": null,
+  "canonical_name": "Gubaru (Cyrus's district officer in Babylon)",
+  "aliases": [],
+  "description": "Cyrus's official who appointed district officers in Babylon (ABC 7 iii 20). Whether he is the same man as Ugbaru is debated; the Livius translation spells them differently.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

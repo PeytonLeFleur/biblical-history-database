@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+  "title": "Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24)",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Parker, Richard A.",
+    "Dubberstein, Waldo H."
+  ],
+  "publisher": "University of Chicago Press (Oriental Institute)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Paraphrased only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the OCR text of the 1942 edition",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "p. 11: Nabonidus Chronicle iii 14–18: Sippar fell VII/14/17 = 11 Oct 539, Babylon fell VII/16/17 = 13 Oct, Cyrus entered VIII/3 = 29 Oct; last Nabonidus tablet from Uruk dated the day after the fall (VII/17/17 = 14 Oct); Nabonidus's first texts 25 May 556, sole ruler by end of June 556; Neriglissar's last text 12 Apr 556; Cyrus's last texts Aug 530 (12 Aug), Cambyses's first 31 Aug 530; year tables: Cyrus year 1 Nisan 1 = 24 Mar 538",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text of the Oriental Institute PDF; OCR has digit errors (e.g. \"589\" for 539) checked against context. The 1956 revised edition was not consulted.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,53 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4TPW4C5ZE186HXQZ201MHFF",
+  "slug": "fall-of-babylon-539-abc-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+  ],
+  "notes": null,
+  "title": "Fall of Babylon: 16 Tašrītu, Nabonidus year 17 (ABC 7)",
+  "type": "documentary_correlation",
+  "passage": "Dan.5.30-Dan.5.31",
+  "biblical_subject": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+  "external_entity": "Nabonidus Chronicle (ABC 7) iii 12–22",
+  "external_document_id": "doc_01M4RV9NRCTVGH19J236HH7GX8",
+  "external_source_id": "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+  "proposed_synchronization": "The Babylonian Chronicle dates the entry of Cyrus's army into Babylon to 16 Tašrītu of Nabonidus's 17th year; Daniel 5:28–31 places the end of Belshazzar's kingdom and its transfer to the Medes and Persians at that juncture.",
+  "independent_date": {
+    "earliest": -538,
+    "latest": -538
+  },
+  "precision": "day",
+  "dating_method": "Babylonian day date converted with Parker & Dubberstein (1942) tables",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "The chronicle year is lost on the tablet; the 17th year of Nabonidus is fixed by context and the Babylonian king-list chronology (Parker & Dubberstein)."
+  ],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW",
+  "window": {
+    "from": {
+      "year": -538,
+      "month": 10,
+      "day": 12
+    },
+    "to": {
+      "year": -538,
+      "month": 10,
+      "day": 13
+    },
+    "basis": "16 Tašrītu year 17 = 13 Oct 539 (Parker & Dubberstein 1942, p. 11; month VII began 28 Sep). Many modern works give 12 Oct; the one-day spread reflects day-boundary and month-start conventions. Window 12–13 Oct.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+    ]
+  },
+  "reviewer_status": "machine_proposed"
+}

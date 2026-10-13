@@ -1,0 +1,60 @@
+{
+  "event_id": "evt_01M4TPW4BX2TGB5X624DQ1S28M",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TPW4CCTMHPNVMR45PSAT3G",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX2TGB5X624DQ1S28M"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.10.1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Daniel 10:1 dates a vision to the third year of Cyrus, so 1:21 does not mark Daniel's death.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TPW4CCSDM0P2YD5VBRKDGD",
+      "type": "same_period",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX2TGB5X624DQ1S28M"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.1.1-Ezra.1.4"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Cyrus's decree for the return is dated to his first year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4TPW4C5C39ATN67DXNV07BH"
+  ]
+}

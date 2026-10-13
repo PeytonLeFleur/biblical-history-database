@@ -1,0 +1,259 @@
+{
+  "event_id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 5",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Livius: Nabonidus Cylinder from Ur; Verse Account; Cyrus Cylinder translation; ABC 7 year 17",
+      "engine": "web fetch",
+      "useful_results": 4,
+      "notes": "First Cyrus Cylinder URL returned 404; the translation page was found."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Wikipedia: Belshazzar; Darius the Mede; Fall of Babylon; Belshazzar's feast; Cyrus Cylinder; Nabonidus Cylinder",
+      "engine": "web fetch",
+      "useful_results": 6,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Nabonidus Chronicle 16 Tashritu October 12 539 Parker Dubberstein",
+      "engine": "web",
+      "useful_results": 1,
+      "notes": "Results disagreed (11/12, 12, 13 Oct); resolved by reading Parker & Dubberstein directly."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: Parker & Dubberstein, Babylonian Chronology (SAOC 24)",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": "OCR text of the 1942 edition read."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: Dougherty, Nabonidus and Belshazzar (1929)",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": "OCR text read."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Herodotus 1.188–191; Xenophon Cyropaedia 1.5, 7.5; Josephus Ant. 10.11 (Gutenberg)",
+      "engine": "gutenberg mirror",
+      "useful_results": 3,
+      "notes": "Perseus pages returned navigation only; gutenberg.org returned 503; pglaf mirror used."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Against Apion 1.20 (Berossus on Nabonnedus)",
+      "engine": "gutenberg mirror",
+      "useful_results": 0,
+      "notes": "Download failed; not cited."
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion taken from Parker & Dubberstein's astronomically computed tables."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4TPW4C9XXCSN6TE652KH1HJ",
+      "statement": "Belshazzar was killed on the night Babylon was taken.",
+      "layer": "reconstruction",
+      "passage": "Dan.5.30",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No Babylonian source records Belshazzar's fate; the Chronicle mentions only Nabonidus's capture. Xenophon describes the killing of an unnamed king in the palace that night. Wikipedia notes alternatives (death at Opis, execution, exile) without evidence for any.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TPW4C9CSZ3NTDMKYXS4AKR",
+        "evd_01M4TPW4C90RQXP5A62EZDQNBV"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TPW4C91XQ3TDP59YRHXNFZ",
+      "statement": "Darius the Mede can be identified with a known historical ruler.",
+      "layer": "reconstruction",
+      "passage": "Dan.5.31",
+      "classification": "disputed",
+      "reasoning": "No contemporary source names a Median Darius ruling Babylon. Proposed identifications (Gubaru/Ugbaru, Cyrus, Cyaxares II, Cambyses) each depend on assumptions the sources do not confirm; many scholars regard him as a literary figure. The disagreement is material and unresolved.",
+      "supporting_evidence": [
+        "evd_01M4TPW4C9R9PF6NQMWRA30H48",
+        "evd_01M4TPW4C96HPX941KHJ00AZ0C"
+      ],
+      "counterevidence": [
+        "evd_01M4TPW4C90XWPEZ8QF4N5F6SY"
+      ],
+      "contextual_evidence": [
+        "evd_01M4TPW4C9GHN1N6J7EB4ETPZS"
+      ],
+      "limitations": [
+        "Whitcomb (1959), Wiseman (1965), Rowley (1935) not read directly."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TPW4C9H8CT5HCZMBKEDZ3S",
+      "statement": "Darius the Mede was about sixty-two when he received the kingdom.",
+      "layer": "text",
+      "passage": "Dan.5.31",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Depends on the identification. Josephus repeats the age; Seow (via Wikipedia) notes 62 also equals the shekel total of the inscription.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TPW4C96HPX941KHJ00AZ0C"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4TPW4C9CSZ3NTDMKYXS4AKR",
+      "claim_ids": [
+        "clm_01M4TPW4C9XXCSN6TE652KH1HJ"
+      ],
+      "source_id": "src_01M4TPW4B8WE50Y13FDWAB144C",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Gobryas and Gadatas break into the palace and kill the unnamed king, sword in hand; at dawn the citadel surrenders.",
+      "locator": "7.5.29–33",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "xenophon"
+    },
+    {
+      "id": "evd_01M4TPW4C90RQXP5A62EZDQNBV",
+      "claim_ids": [
+        "clm_01M4TPW4C9XXCSN6TE652KH1HJ"
+      ],
+      "source_id": "src_01M4TPW4AY6AQG3ZA8NDG70BFB",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "His fate is unknown; \"none of the sources record it\"; death at the fall is often assumed.",
+      "locator": "Fate",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "secondary-summary"
+    },
+    {
+      "id": "evd_01M4TPW4C9R9PF6NQMWRA30H48",
+      "claim_ids": [
+        "clm_01M4TPW4C91XQ3TDP59YRHXNFZ"
+      ],
+      "source_id": "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Ugbaru, governor of Gutium, led the entry and died on 11 Arahsamna; Gubaru, Cyrus's district officer, appointed officials in Babylon. Neither is called a Mede or king.",
+      "locator": "iii 15–22",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "nabonidus-chronicle"
+    },
+    {
+      "id": "evd_01M4TPW4C96HPX941KHJ00AZ0C",
+      "claim_ids": [
+        "clm_01M4TPW4C91XQ3TDP59YRHXNFZ",
+        "clm_01M4TPW4C9H8CT5HCZMBKEDZ3S"
+      ],
+      "source_id": "src_01M4TPW4BBB2NTGHS972QYDRX2",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Josephus calls Darius the son of Astyages with another Greek name, aged 62, who took Babylon with his kinsman Cyrus.",
+      "locator": "Ant. 10.11.4",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4TPW4C90XWPEZ8QF4N5F6SY",
+      "claim_ids": [
+        "clm_01M4TPW4C91XQ3TDP59YRHXNFZ"
+      ],
+      "source_id": "src_01M4TPW4AZ36MRBPK409CVFJ9G",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Rowley (1935) argued that no identification fits; \"most scholars view this Darius as a literary fiction\"; Newsom & Breed see Darius I projected into the past.",
+      "locator": "Identification; consensus",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4TPW4C9GHN1N6J7EB4ETPZS",
+      "claim_ids": [
+        "clm_01M4TPW4C91XQ3TDP59YRHXNFZ"
+      ],
+      "source_id": "src_01M4TPW4B94PGPS0RF27FB9FR2",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Xenophon makes Cyaxares, son of Astyages and Cyrus's uncle, king of the Medes — the basis of the Cyaxares II identification.",
+      "locator": "1.5.2",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "xenophon"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [
+    "doc_01M4RV9NRCTVGH19J236HH7GX8"
+  ],
+  "research_gaps": [
+    "Whitcomb, Darius the Mede (1959), not located.",
+    "Later Babylonian contracts naming Gubaru not read.",
+    "Wiseman (1965) remains metadata-only (PDF blocked)."
+  ]
+}
