@@ -1,0 +1,39 @@
+{
+  "id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+  "title": "A Critical and Exegetical Commentary on Haggai, Zechariah, Malachi and Jonah (International Critical Commentary)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Mitchell, Hinckley G.",
+    "Smith, J. M. P.",
+    "Bewer, J. A."
+  ],
+  "publisher": "T. & T. Clark / Scribner, 1912",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/criticalexegetic25mitcuoft",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1912)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 20–22: Darius's first full year from Nisan 521; Haggai's first date (1/VI of year 2) \"about the middle of August\" 520, the work beginning days later; the movement came when the eastern revolts against Darius suggested the empire's collapse; 24/IX = December 520, the height of enthusiasm; pp. 62–63: 2:7 means the nations' \"precious things\" coming to the temple; the older Messianic reading (Vulgate desideratus, with Luke 2) \"is now generally abandoned\"; pp. 76–78: 2:23 — Haggai \"identified Zerubbabel with the long-expected son of David\"; the signet as one's most precious possession",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text. Haggai and Zechariah 1–8 are by H. G. Mitchell.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

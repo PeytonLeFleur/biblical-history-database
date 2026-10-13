@@ -1,0 +1,916 @@
+# Haggai's oracle on the latter glory of the house (21/VII, Darius year 2)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Haggai 2:1–9 (narration)
+
+## Biblical account
+
+On 21/VII Haggai asked who remembered the former house and whether the new one seemed as nothing; told Zerubbabel, Joshua and the people to be strong and work, for the LORD and his Spirit were with them as at the Exodus; in a little while he would shake heaven and earth and the nations, their precious things would come, the house would be filled with glory, the latter glory would exceed the former, and he would give peace.
+
+## Historical setting
+
+**Period:** Autumn 520 BC (seventh month, during the Feast of Booths)
+
+The twenty-first of the seventh month was the last day of the Feast of Booths. Mitchell reads the promised shaking against the revolts that threatened Darius's empire in 521–520. [1, 2]
+
+### Rulers
+
+- Darius I (the Great): King of Persia (dating) [3]
+
+## Date and chronology
+
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)”
+  - Latest bound from: cst_01M4VJCXABXKPKNC33SJWQCDWT|cst_01M4VJCXABXKPKNC33SJWQCDWT#own-convention → cst_01M4VJCXABEA500J63WX7Q72SS
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “In the seventh month, in the twenty-first day of the month” (Haggai 2:1) → `in_regnal_year` reign of Darius I (the Great); assumptions: Babylonian Nisan-based regnal years: year 2 = 3 April 520 – 22 March 519 (Parker & Dubberstein). The seventh month falls in late 520; the day-level Julian date is not computed (later months of year 2 are not legible in the OCR used). [3]
+- “the twenty-first day of the seventh month (after 24/VI, Hag 1:15)” (Haggai 2:1) → `after` Haggai and Zechariah stir the people; the Temple work resumes (Darius's second year, 520 BC)
+
+## Geography
+
+- Jerusalem (Temple site; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **Messianic or material fulfilment** (See the prophecy record "The latter glory of this house"): Interpretations are attributed there and queued for review where they propose fulfilment. [1, 2]
+
+## Claims and evidence
+
+### Haggai's second oracle fell in the seventh month of Darius I's second year (autumn 520 BC).
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+The superscription dates it; Darius's second Babylonian year ran from 3 April 520 (Parker & Dubberstein), so the seventh month fell in autumn 520. Guzik gives October 520. No external evidence names Haggai.
+
+- *Supporting (direct):* Year 2 began 3 April 520. (table, Darius I year 2) [3]
+- *Context (indirect):* October 520. (on 2:1) [2]
+
+## Related passages and events
+
+- this event → **preceded by** → Haggai and Zechariah stir the people; the Temple work resumes (Darius's second year, 520 BC) (high): Follows the resumption of 24/VI.
+- this event → **thematic parallel** → The foundation of the Second Temple laid (Ezra 3:8–13) (high): The comparison with the former house echoes the old men's weeping at the foundation (Ezra 3:12).
+- this event → **thematic parallel** → Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (medium): "This house in its former glory" — Solomon's Temple, burned in 587/586.
+- this event → **direct reference** → pro_01M4VJCX9W9FT17GGSJGNTK0P8 (high): The oracle delivered on this occasion.
+- this event → **direct reference** → Hebrews 12:26–27 (high): Hebrews quotes Hag 2:6.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik follows the Messianic reading of "the Desire of All Nations", while noting that the word can mean "treasures". [2]
+
+## Unanswered questions and research gaps
+
+- Day-level conversion of 21/VII not computed (illegible table).
+
+## Sources
+
+1. Mitchell, Hinckley G., Smith, J. M. P., Bewer, J. A.. A Critical and Exegetical Commentary on Haggai, Zechariah, Malachi and Jonah (International Critical Commentary). T. & T. Clark / Scribner, 1912. <https://archive.org/details/criticalexegetic25mitcuoft> — *scholarly commentary; verification: claim checked*
+2. Guzik, David. Haggai 2 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/haggai-2/> — *theological commentary; verification: claim checked*
+3. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*

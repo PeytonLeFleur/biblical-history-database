@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4VJBC6Y17JNH7TT5VY67MA1",
+  "subject_kind": "chapter",
+  "subject_id": "Hag.1",
+  "book": "Hag",
+  "chapter": 1,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-13T21:23:01.383Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-13T21:22:59.422Z",
+  "updated_at": "2026-10-13T21:23:01.383Z",
+  "is_fixture": false
+}

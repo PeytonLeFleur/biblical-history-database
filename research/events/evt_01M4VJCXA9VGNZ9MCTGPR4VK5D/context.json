@@ -1,0 +1,123 @@
+{
+  "event_id": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On 21/VII Haggai asked who remembered the former house and whether the new one seemed as nothing; told Zerubbabel, Joshua and the people to be strong and work, for the LORD and his Spirit were with them as at the Exodus; in a little while he would shake heaven and earth and the nations, their precious things would come, the house would be filled with glory, the latter glory would exceed the former, and he would give peace.",
+    "passage": "Hag.2.1-Hag.2.9"
+  },
+  "setting": {
+    "period": "Autumn 520 BC (seventh month, during the Feast of Booths)",
+    "body": "The twenty-first of the seventh month was the last day of the Feast of Booths. Mitchell reads the promised shaking against the revolts that threatened Darius's empire in 521–520.",
+    "citations": [
+      "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "src_01M4VJCX9K2B3VTA22A3SNCE3J"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "King of Persia (dating)",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VJCXABJZDQHFCQ1KPEWXTR",
+      "subject": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D",
+      "object": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the seventh month, in the twenty-first day of the month",
+      "passage": "Hag.2.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 2,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Babylonian Nisan-based regnal years: year 2 = 3 April 520 – 22 March 519 (Parker & Dubberstein). The seventh month falls in late 520; the day-level Julian date is not computed (later months of year 2 are not legible in the OCR used)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4VJCXABP5Q7T2A5BZC53PKV",
+      "subject": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D",
+      "object": "evt_01M4VGNQY7DSW2PR19Z4821S9D",
+      "relation": "after",
+      "textual_assertion": "the twenty-first day of the seventh month (after 24/VI, Hag 1:15)",
+      "passage": "Hag.2.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple site",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "chemdath kol-haggoyim (2:7)",
+      "gloss": "Literally \"the desire/desirable things of all the nations\": the Vulgate renders it as a person (desideratus); Mitchell and Keil take it as precious things, matching \"silver … gold\" (2:8).",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Messianic or material fulfilment",
+      "proponents": [
+        "See the prophecy record \"The latter glory of this house\""
+      ],
+      "summary": "Interpretations are attributed there and queued for review where they propose fulfilment.",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4VJCX9K2B3VTA22A3SNCE3J"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VJCX9K2B3VTA22A3SNCE3J",
+      "layer": "interpretation",
+      "paraphrase": "Guzik follows the Messianic reading of \"the Desire of All Nations\", while noting that the word can mean \"treasures\".",
+      "url": "https://enduringword.com/bible-commentary/haggai-2/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

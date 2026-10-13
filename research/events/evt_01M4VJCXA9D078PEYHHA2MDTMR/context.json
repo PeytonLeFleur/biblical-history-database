@@ -1,0 +1,128 @@
+{
+  "event_id": "evt_01M4VJCXA9D078PEYHHA2MDTMR",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On 24/IX Haggai asked the priests whether holy meat carried in a garment sanctifies what it touches (no) and whether contact with a corpse defiles (yes); so this people and its offerings are unclean. He told them to consider the poor harvests before stone was laid on stone, and \"from the day that the foundation of the LORD's temple was laid\" — from this day — the LORD would bless them. To Zerubbabel: the LORD would shake heaven and earth, overthrow kingdoms, and make him his chosen signet.",
+    "passage": "Hag.2.10-Hag.2.23"
+  },
+  "setting": {
+    "period": "December 520 BC (ninth month)",
+    "body": "Mitchell calls 24/IX (December 520) the height of the builders' enthusiasm, when Haggai prophesied the overthrow of \"the strength of the kingdoms of the nations\".",
+    "citations": [
+      "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "King of Persia (dating)",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VJCXABXKPKNC33SJWQCDWT",
+      "subject": "evt_01M4VJCXA9D078PEYHHA2MDTMR",
+      "object": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the twenty-fourth day of the ninth month, in the second year of Darius",
+      "passage": "Hag.2.10",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 2,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Babylonian Nisan-based regnal years: year 2 = 3 April 520 – 22 March 519 (Parker & Dubberstein). The ninth month falls in late 520; the day-level Julian date is not computed (later months of year 2 are not legible in the OCR used)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4VJCXABEA500J63WX7Q72SS",
+      "subject": "evt_01M4VJCXA9D078PEYHHA2MDTMR",
+      "object": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D",
+      "relation": "after",
+      "textual_assertion": "ninth month after the seventh",
+      "passage": "Hag.2.10",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple site",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "signet (ḥôtām, 2:23)",
+      "gloss": "A seal-ring used to sign documents and kept on the person; the symbol of one's most precious possession (Mitchell). Jer 22:24 uses it of Jehoiachin, rejected.",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Hag 2:18 dates the foundation-laying to 24/IX of 520",
+      "proponents": [
+        "L. W. Batten (1913), on Ezra 3 (see the Ezra 3 foundation event)"
+      ],
+      "summary": "Recorded on the Ezra 3 foundation claim (under review).",
+      "citations": []
+    },
+    {
+      "label": "Hag 2:18 refers back to the earlier foundation",
+      "proponents": [
+        "H. E. Ryle (1893), on Ezra 3"
+      ],
+      "summary": "The date is that of the prophecy, not of the foundation.",
+      "citations": []
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VJCX9K2B3VTA22A3SNCE3J",
+      "layer": "interpretation",
+      "paraphrase": "Guzik explains the clean/unclean ruling as showing that presence in the land does not sanctify, and the signet as a token of royal authority.",
+      "url": "https://enduringword.com/bible-commentary/haggai-2/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "What became of Zerubbabel after 520–515 is not recorded."
+  ],
+  "not_applicable": {}
+}

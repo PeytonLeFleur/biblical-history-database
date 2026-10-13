@@ -1,0 +1,114 @@
+{
+  "event_id": "evt_01M4VJCXA9D078PEYHHA2MDTMR",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Mitchell ICC 1912 pp. 21, 76–78 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil Minor Prophets pp. 213–215 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Haggai 2",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Oracle events; no material remains are associated."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VJCXAEX2M3KX902H25MCAC",
+      "statement": "Haggai's oracles of 24/IX fell in December 520 BC.",
+      "layer": "reconstruction",
+      "passage": "Hag.2.10",
+      "classification": "historically_plausible",
+      "reasoning": "On Babylonian reckoning the ninth month of Darius's second year fell in November–December 520; Mitchell gives December 520. The day-level conversion was not read from the table.",
+      "supporting_evidence": [
+        "evd_01M4VJCXAES0SVF6M6Q2TRN463",
+        "evd_01M4VJCXAEDBD0DEC1S17YRE3H"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VJCXAES0SVF6M6Q2TRN463",
+      "claim_ids": [
+        "clm_01M4VJCXAEX2M3KX902H25MCAC"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Year 2 began 3 April 520.",
+      "locator": "table, Darius I year 2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4VJCXAEDBD0DEC1S17YRE3H",
+      "claim_ids": [
+        "clm_01M4VJCXAEX2M3KX902H25MCAC"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The twenty-fourth of the ninth month (December 520).",
+      "locator": "p. 21",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "mitchell-1912"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Later history of Zerubbabel not attested in the sources read."
+  ]
+}

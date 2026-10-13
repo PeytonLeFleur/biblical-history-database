@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4VJCXA9D078PEYHHA2MDTMR",
+  "slug": "haggais-oracles-of-the-twenty-fourth-of-the-ninth-month",
+  "title": "Haggai's oracles of 24/IX, Darius year 2: \"from this day I will bless you\"; Zerubbabel the signet",
+  "summary": "On the twenty-fourth of the ninth month Haggai obtained a priestly ruling on holiness and uncleanness, declared the people's offerings unclean, promised blessing from that day — \"since the day that the foundation of the LORD's temple was laid\" — and announced that Zerubbabel would be the LORD's chosen signet.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VJCXA92JQ9ER999FEHN18V",
+    "cnd_01M4VJCXA93HJZT708FNN10VQZ"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "prophetic_oracle",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Hag.2.10-Hag.2.23",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}
