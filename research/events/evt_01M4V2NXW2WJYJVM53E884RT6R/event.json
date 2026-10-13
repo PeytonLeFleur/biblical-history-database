@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4V2NXW2WJYJVM53E884RT6R",
+  "slug": "closing-dialogue-by-the-river-dan-12",
+  "title": "The closing dialogue by the river: the oath, the numbers and Daniel's dismissal (Dan 12:5–13)",
+  "summary": "At the end of the vision Daniel sees two figures on the river banks; the man in linen swears that the end will come after a time, times and a half; Daniel, not understanding, is told the words are sealed, given the 1,290 and 1,335 days, and dismissed to rest until he rises to his portion at the end of the days. This record is the narrated scene; the numbers and their interpretations are a separate prophecy record.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4V2NXW2G2TERT8VCRR8Y03P",
+    "cnd_01M4V2NXW2F8SN7YS5JQB28K96"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "apocalyptic_vision",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.12.5-Dan.12.13",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

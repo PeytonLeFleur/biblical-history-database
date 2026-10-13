@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_01M4V2NXW2WJYJVM53E884RT6R",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4TSKKA509C4CWPB83N5CD79",
+    "rev_01M4TSKKA68WNQ3VACWF6C4SC1",
+    "rev_01M4TSKKA6W3NK7DZ39ZJEQXXX",
+    "rev_01M4TTS0JPX9JDF6CS9SRE86CB",
+    "rev_01M4TTS0JQSSSY4AQCYQG7ZZ73",
+    "rev_01M4TTS0JR2T9Q8B7MT6TSNPZW",
+    "rev_01M4V10B6WND5AN16D7SJ5NEJ0",
+    "rev_01M4V10B6XGPCNTZ8TAMVQV5RH",
+    "rev_01M4V10B6YST4H050F9DXYF8ZS",
+    "rev_01M4V10B6ZQT6N2EX96P8P9PH8",
+    "rev_01M4V10B6ZZ9PC98J0ZP595FH1",
+    "rev_01M4V10B70M0A60KNHRAV139ZT",
+    "rev_01M4V10B712TWPS0A1R0HDKB58",
+    "rev_01M4V10B72NCY4N8C1R03Z1DHK",
+    "rev_01M4V10B73CST0SABGG25Z2SNP",
+    "rev_01M4V10B74ZNKXJ60G92Z8D290",
+    "rev_01M4V10B75PFJE0R149A36G5WN",
+    "rev_01M4V1HGVQ9J83KD8R7MKZVTY7",
+    "rev_01M4V26XPGK23KN9557NHRB35Z",
+    "rev_01M4V26XPHVQ22XHXM19BR6S4X",
+    "rev_01M4V2NXWPZJ7BATANCV0HPV8W",
+    "rev_01M4V2NXWQE7G3Y34QF01QC2ZD",
+    "rev_01M4V2NXWS6GV02QZN5A2XQK1A",
+    "rev_01M4V2NXWY1FFAV0ZY5PJ5FVZX",
+    "rev_01M4V2NXX3HC0X3D8H1D60H4C8",
+    "rev_01M4V2NXX80DGVYQ5KV905Q2SB",
+    "rev_01M4V2NXXA1HME9PQH9PJYK3DG",
+    "rev_01M4V2NXXBWZDZ8H43FQ2KY435"
+  ],
+  "research_gaps": [
+    "Josephus, Jewish War 1.1.1 not read directly.",
+    "2 Maccabees 7 (resurrection hope of the martyrs) not read.",
+    "Qumran Daniel witnesses for ch. 12 not read."
+  ],
+  "disputes": [],
+  "export_eligible": true
+}

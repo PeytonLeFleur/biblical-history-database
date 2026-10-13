@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 5 (Daniel research pilot): **in progress** (Daniel 1–11 of 12 complete)
+**Current milestone:** 5 (Daniel research pilot): **complete** — all 12 chapters, 357/357 verses. **Next: Milestone 6 (cross-book historical validation).**
 **Last updated:** 2026-10-13
 
 ## Milestone 1: Repository and foundation ✅
@@ -80,7 +80,7 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 
 **Engine fix found during M4:** reign anchors (`rgn_…#start/#end`) were being dropped from derivation chains, because the filter for internal edges matched any `#`. The filter now matches only internal markers. Events are now instantaneous unless `is_period` is set.
 
-## Milestone 5: Daniel research pilot (in progress)
+## Milestone 5: Daniel research pilot ✅
 | Chapter | Verses reviewed | Events researched | Status |
 |---|---|---|---|
 | Daniel 1 | 21/21 | 4 Daniel events (1:1–2 campaign; court training; diet test; plus the 1:21 reference queued) + Carchemish (external) | ✅ researched (2 disputed claims and 1 proposed fulfillment in review) |
@@ -94,7 +94,7 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 | Daniel 9 | 27/27 | Daniel's prayer over Jeremiah's seventy years (computed 539–536 BC, with no identification of Darius assumed); Gabriel at the evening offering. Prophecy records: the seventy weeks (13 attributed interpretations: Maccabean (Driver, Montgomery) and variant; Messianic continuous (Newton, Miller); dispensational gap (Anderson, Guzik); Jerome's catalogue (Africanus, Eusebius ×2, Hippolytus, Apollinaris, Clement, Tertullian, "the Hebrews")) and Jeremiah's seventy years (3 readings). Candidate decrees as events: Cyrus (538–537), Darius I (521–515), Temple completed (516–515), Ezra 7 (459–457), Neh 2 (446–444). Artaxerxes I and Darius I reigns from Parker & Dubberstein; Jeremiah; Onias III | ✅ researched (2 disputed claims, 12 relationships, 14 proposed fulfillments in review) |
 | Daniel 10 | 21/21 | Vision by the Tigris in Cyrus's third year (536–535 BC; 24 Nisan ≈ 22 Apr 536 on P&D's table). Vision record for chs. 10–12 (6 symbols); prophecy record on the princes of Persia and Greece and Michael (patron angels / hostile powers / Alexander, per Jerome). Man in linen: Gabriel, unnamed angel, Christophany as competing reconstructions. Tigris (Pleiades); Ulai gains a second (Karkheh) hypothesis | ✅ researched (1 disputed claim, 1 relationship, 1 proposed fulfillment in review) |
 | Daniel 11 | 45/45 | Five prophecy records with 14 attributed interpretations (four Persian kings; Alexander and the division; kings of the south and north = Ptolemies and Seleucids, Ptolemy I – Seleucus IV, with variants; the contemptible person = Antiochus IV / Antichrist type / Romans / Constantine; the wilful king = Antiochus with 11:40–45 not matching his end / future Antichrist / Byzantine empire). External events with synchronisms: Raphia 217, Panium 200–198, Magnesia 190, Seleucus IV assassinated 175, Eleusis 168, desecration 15 Chislev 145 SE (168/167), death of Antiochus IV 164. Ptolemaic kingdom; 20 rulers and actors | ✅ researched (2 disputed claims, 18 relationships, 11 proposed fulfillments in review) |
-| Daniel 12 | 0 | — | not started |
+| Daniel 12 | 13/13 | Closing dialogue by the river (536–535 BC, same vision as ch. 10). Prophecy records: Michael, the time of trouble and the resurrection (bodily / Maccabean-era expectation / Porphyry's metaphor); seal the book; a time, times and a half with the 1,290 and 1,335 days (Driver–Cornill to c. June 164; Montgomery's glosses; Porphyry; Jerome/Guzik futurist; Miller 508–1798/1843) | ✅ researched (3 relationships, 5 proposed fulfillments in review) |
 
 **Infrastructure added in M5:**
 - Global synchronism, artifact, document, vision and prophecy records. Interpretations carry an approach and proponents, and proposed fulfillments require owner review.
@@ -108,10 +108,34 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 - Jeremiah 46:2 is inconsistent only with non-accession counting on a Nisan year.
 - Both statements are preserved, and the harmonisation is classified *disputed* and queued for review.
 
+### Milestone 5 summary
+- **Daniel:** 12/12 chapters, 357/357 verses; 21 Daniel-related events plus 17 external events researched (fall of Babylon; Carchemish; the Persian decrees; the Hellenistic battles; the desecration and rededication; the death of Antiochus IV).
+- **Layering:** each vision is split into an experience event, a vision record of the text's own statements, and prophecy records with attributed interpretations. Identifications exist only as sourced `proposed_fulfillment` relationships under review.
+- **Remaining uncertainties** (documented on the dossiers and in the session logs):
+  - the identity of Darius the Mede
+  - Belshazzar's regnal years (a separate model)
+  - the Seleucid-era epoch (168/167, 165/164)
+  - whether Dan 11:40–45 match the end of Antiochus
+  - the Nehemiah reckoning (445/444)
+  - the Ulai's course
+- **Carried-over research gaps:**
+  - Beaulieu (1989)
+  - Collins (direct)
+  - the Old Greek and Qumran Daniel
+  - Seleucid-epoch studies
+  - Livy 37 and 45
+  - 2 Maccabees 3, 6, 7 and 9
+  - Josephus *B.J.*
+  - Scofield (1917)
+  - Hoehner (1977)
+  - Whitcomb (1959)
+  - Grayson's BHLT
+  - Gubaru's contracts
+
 ## Test results (local, 2026-10-13)
-lint ✓ · typecheck ✓ · Vitest **91/91** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,369 pages
+lint ✓ · typecheck ✓ · Vitest **91/91** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,370 pages
 
 ## Research progress
-- Verse coverage: **359 / 31,102** reviewed (Amos 1; Daniel 1–11). Chapters extracted: 12.
-- **Events: 39** (37 researched, 2 preliminary). **Sources: 124.** **Entities: 136.**
-- **Open owner reviews: 109.** The Amos review is unchanged.
+- Verse coverage: **372 / 31,102** reviewed (Amos 1; Daniel 1–12). Chapters extracted: 13.
+- **Events: 40** (38 researched, 2 preliminary). **Sources: 126.** **Entities: 139** (46 people, 21 prophecies with 71 attributed interpretations, 5 visions, 12 reigns, 12 synchronisms, 12 places, 12 documents, 10 kingdoms, 4 artifacts, 4 chronology models, 1 site). **Claims: 98** (18 disputed).
+- **Open owner reviews: 117** (51 proposed fulfillments, 48 identification/relationship links, 18 disputed claims). None approved or rejected by Claude. The Amos review is unchanged.
