@@ -1,0 +1,951 @@
+# Cyrus returns the Temple vessels to Sheshbazzar; the first return (Ezra 1:5–11)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 1:5–11 (narration)
+- Ezra 5:14–16 (reference): The elders' later report of Sheshbazzar.
+
+## Biblical account
+
+The leaders and all whom God stirred rose to go up and build; neighbours gave silver, gold, goods and animals. Cyrus brought out the vessels Nebuchadnezzar had placed in his gods' house; Mithredath counted them to Sheshbazzar: 30 gold dishes, 1,000 silver dishes, 29 knives, 30 gold bowls, 410 silver bowls, 1,000 other vessels — "all … were five thousand four hundred"; Sheshbazzar brought them up with the exiles.
+
+## Historical setting
+
+**Period:** Cyrus's first Babylonian years (538–c. 537 BC)
+
+The Cyrus Cylinder records Cyrus returning gods' images to their sanctuaries; Judah, which had no images, is not named. Josephus retells the episode with Mithridates and Sanabassar and has Cyrus's letter name Zorobabel as governor. [1, 2]
+
+### Rulers
+
+- Cyrus II (the Great): King
+
+## Date and chronology
+
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+- **538 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “Cyrus king of Persia brought out by the hand of Mithredath”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels” (Ezra 1:5–7) → `after` Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5)
+- “Cyrus king of Persia brought out by the hand of Mithredath” (Ezra 1:8) → `within_reign` reign of Cyrus II (the Great)
+
+## Geography
+
+- Babylon (Where the vessels were kept; confidence: certain)
+  - Babylon (Pleiades 893951): certain [3]
+- Jerusalem (Destination; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **Sheshbazzar = Zerubbabel** (Clarke (Chaldean name) and Kidner (official name), via Guzik): Both are said to lay the foundation (Ezra 3:8–10; 5:16). [5]
+- **Two different leaders** (Others reported by Guzik): Sheshbazzar led the first return; Zerubbabel led the later rebuilding; Josephus names both Sanabassar and Zorobabel. [5, 2]
+- **The vessels: returned intact, or only those not destroyed** (Poole (via Guzik)): 2 Kgs 24:13 says the gold vessels were cut in pieces; Dan 5:2–3 has vessels used at Belshazzar's feast; Poole reconciles the "cut in pieces" statement. [5]
+
+## Claims and evidence
+
+### Ezra's itemised list (2,499 vessels) does not add up to its stated total (5,400); 1 Esdras gives items summing to 5,469 with a stated total of 5,479.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+Operator arithmetic on the two texts. 1 Esdras's larger item figures (e.g. 1,000 gold cups, 2,410 silver bowls) nearly match its own total, which suggests that numerals in Ezra's list were miscopied; Guzik does not address the totals. This concerns the text's transmission, not the return itself.
+
+- *Supporting (direct):* Items 1,000 + 1,000 + 29 + 30 + 2,410 + 1,000; total "five thousand four hundred seventy-nine". (1 Esd 2:13–14) [6]
+- *Context (indirect):* The totals are not discussed. (on 1:9–11) [5]
+
+*Limitations:* Text-critical studies not read.
+
+### Sheshbazzar and Zerubbabel were the same person.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Both are credited with the foundation of the Temple (Ezra 3:8–10; 5:16), which supports identity (Clarke, Kidner via Guzik); Josephus names both Sanabassar and Zorobabel in Cyrus's time, and Ezra never equates them, which supports two persons.
+
+- *Supporting (indirect):* Clarke: Sheshbazzar was Zerubbabel's Chaldean name; Kidner: his official name. (on 1:8) [5]
+- *Challenging (direct):* Vessels given to Sanabassar; Cyrus's letter also sends "Zorobabel, the governor of the Jews". (Ant. 11.1.3) [2]
+
+*Limitations:* Modern studies not read.
+
+### Cyrus's policy included returning cult objects to sanctuaries.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+The Cyrus Cylinder records the return of gods' images to their sanctuaries; the return of the Jerusalem vessels fits the policy, though the cylinder names no Judean objects.
+
+- *Supporting (direct):* Returned the images of the gods to their places. (lines 30–33) [1]
+
+*Limitations:* The cylinder concerns Babylonian and trans-Tigridian cities.
+
+## Related passages and events
+
+- this event → **direct reference** → Daniel 1:2 (high): Vessels Nebuchadnezzar put "in the house of his god" (Dan 1:2; Ezra 1:7).
+- this event → **thematic parallel** → Belshazzar's feast and the writing on the wall (Dan 5:1–29) (medium): Belshazzar drank from the Temple vessels (Dan 5:2–3); Cyrus returned them after Babylon fell.
+- this event → **thematic parallel** → Capture of Jerusalem and deportation of Jehoiachin (March 597 BC) (medium): Vessels taken in 597 (2 Kgs 24:13 says the gold ones were cut in pieces).
+- Sheshbazzar → **possible identity** → Ezra 3:8 (low): Sheshbazzar may be Zerubbabel (Ezra 3:8–10 vs 5:16) — claim under review. [5]
+- this event → **preceded by** → Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (high): The return follows the proclamation.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik stresses that only a "spirit-stirred minority" returned and notes the views that Sheshbazzar was Zerubbabel or a distinct official. [5]
+
+## Unanswered questions and research gaps
+
+- Text-critical studies of Ezra 1:9–11 not read.
+- Which list is original — Ezra's items (2,499) or 1 Esdras's (5,469)?
+
+## Disputes
+
+- Sheshbazzar and Zerubbabel were the same person.
+
+## Sources
+
+1. Cogan, Mordechai (trans., COS 2003), Schaudig, Hanspeter (edition), van der Spek, R. J.. Cyrus Cylinder — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/> — *ancient primary text; verification: claim checked*
+2. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.1.1–3 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+3. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Guzik, David. Ezra 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-1/> — *theological commentary; verification: claim checked*
+6. World English Bible contributors. World English Bible — Apocrypha/Deuterocanon (1 Esdras 2). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*

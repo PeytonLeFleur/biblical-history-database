@@ -1,0 +1,501 @@
+{
+  "book": "Jer",
+  "chapter": 25,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Jer.25.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY9WN5JTXDSRC7FV0X"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY9WN5JTXDSRC7FV0X"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY9WN5JTXDSRC7FV0X"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYEFR3Q52YDGZFP41F"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYEFR3Q52YDGZFP41F"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYEFR3Q52YDGZFP41F"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYEFR3Q52YDGZFP41F"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY4B10YH3PEWFVSD47"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY4B10YH3PEWFVSD47"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY4B10YH3PEWFVSD47"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.37",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Jer.25.38",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V85GFY9WN5JTXDSRC7FV0X",
+      "title": "The word in Jehoiakim's fourth year, Nebuchadnezzar's first; twenty-three years of warning",
+      "passage": "Jer.25.1-Jer.25.3",
+      "description": "Superscription dating the word, and Jeremiah's statement that he has spoken for twenty-three years since Josiah's thirteenth year.",
+      "record_type": "event",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Jeremiah",
+          "matched_entity_id": "per_01M4V10B5GEQP115CCSGSG9JXY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jehoiakim",
+          "matched_entity_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nebuchadnezzar king of Babylon",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Jer.25.1",
+          "phrase": "in the fourth year of Jehoiakim … the first year of Nebuchadnezzar",
+          "kind": "regnal"
+        },
+        {
+          "ref": "Jer.25.3",
+          "phrase": "From the thirteenth year of Josiah … these twenty-three years",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Dan.1.1",
+        "Jer.46.2",
+        "Jer.36.1"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+    },
+    {
+      "id": "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4",
+      "title": "The prophets were sent and not heeded",
+      "passage": "Jer.25.4-Jer.25.7",
+      "description": "The LORD sent his servants the prophets persistently; the people did not listen or turn from idols.",
+      "record_type": "teaching",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "reference_to_other_event",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "background",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V85GFYEFR3Q52YDGZFP41F",
+      "title": "Nebuchadnezzar \"my servant\" against the land; seventy years of servitude",
+      "passage": "Jer.25.8-Jer.25.11",
+      "description": "The LORD will bring Nebuchadnezzar and the families of the north against the land; the nations will serve the king of Babylon seventy years.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Nebuchadnezzar … my servant",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Jer.25.11",
+          "phrase": "these nations will serve the king of Babylon seventy years",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Dan.9.2",
+        "2Chr.36.21",
+        "Zech.1.12"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"My servant\" absent from the LXX (Guzik)."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V85GFY4B10YH3PEWFVSD47",
+      "title": "After seventy years Babylon will be punished",
+      "passage": "Jer.25.12-Jer.25.14",
+      "description": "When seventy years are fulfilled the king of Babylon and the land of the Chaldeans will be punished and made desolate; many nations and great kings will enslave them.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Jer.25.12",
+          "phrase": "when seventy years are accomplished",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Jer.50.1-Jer.50.46",
+        "Dan.5.30-Dan.5.31"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V85GFYKFB8HTNG99RSFGFN",
+      "title": "The cup of the wine of wrath for the nations; Sheshach drinks last",
+      "passage": "Jer.25.15-Jer.25.29",
+      "description": "Jeremiah is to make Jerusalem, Judah, Egypt, Philistia, Edom, Moab, Ammon, Tyre, Sidon, Arabia, Elam, the Medes and all the kingdoms drink the cup; the king of Sheshach drinks after them.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ps.75.8",
+        "Isa.51.17",
+        "Jer.51.41",
+        "Rev.14.10"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Sheshach: atbash for Babel (Jerome, per Guzik) — the text names Babylon openly elsewhere (Kidner)."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V85GFY066SPX2ZAVTZ24XD",
+      "title": "The LORD roars from on high against all flesh",
+      "passage": "Jer.25.30-Jer.25.38",
+      "description": "A poetic oracle of universal judgment: the slain from end to end of the earth; the shepherds wail.",
+      "record_type": "prophecy",
+      "literary_classification": "poetry",
+      "narrative_mode": "poetic",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Joel.3.16",
+        "Amos.1.2",
+        "Rev.19.15"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-jeremiah-25-ezra-1.md"
+}

@@ -5,7 +5,8 @@
   "summary": "In the first year of Cyrus king of Persia a proclamation allows the exiles of Judah to return and build the house of God at Jerusalem; a memorandum of it was later found at Ecbatana (Ezra 6:2–5).",
   "is_fixture": false,
   "candidate_ids": [
-    "cnd_01M4V7P26C6M9ZFJ5S8SKPDCDW"
+    "cnd_01M4V7P26C6M9ZFJ5S8SKPDCDW",
+    "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
   ],
   "external_reason": "Candidate starting point for Dan 9:25 and end point of Jeremiah's seventy years (2 Chr 36:22).",
   "is_period": false,
@@ -38,9 +39,9 @@
   ],
   "stages": {
     "scripture_extraction": {
-      "status": "not_applicable",
+      "status": "complete",
       "updated": "2026-10-13",
-      "reason": "External to Daniel: researched as a candidate starting point of Dan 9:25; Ezra is not yet extracted chapter by chapter."
+      "reason": null
     },
     "historical_reconstruction": {
       "status": "complete",

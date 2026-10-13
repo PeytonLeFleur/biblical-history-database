@@ -1,0 +1,54 @@
+{
+  "event_id": "evt_01M4V85GFYJT5NCR7K25T4VA6D",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V85GG6ZE6CXDP31JC8T0Z3",
+    "rev_01M4V85GWT02YGGRX3ZYXJBF14"
+  ],
+  "research_gaps": [
+    "Text-critical studies of Ezra 1:9–11 not read."
+  ],
+  "disputes": [
+    "Sheshbazzar and Zerubbabel were the same person."
+  ],
+  "export_eligible": true
+}

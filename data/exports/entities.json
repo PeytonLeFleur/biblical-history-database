@@ -2327,6 +2327,52 @@
   "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
  },
  {
+  "kind": "person",
+  "id": "per_01M4V85GFRVBMSHYGJ4XGM2TR0",
+  "slug": "sheshbazzar",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V85GFCFTAF8XMW5XAYY038",
+   "src_01M4V85GFFAGD0T70XA32HF091"
+  ],
+  "notes": null,
+  "canonical_name": "Sheshbazzar",
+  "aliases": [
+   {
+    "alias": "Sanabassar",
+    "language": "Greek (1 Esdras; Josephus)",
+    "source_id": "src_01M4V85GFFAGD0T70XA32HF091",
+    "passage": null
+   }
+  ],
+  "description": "\"Prince of Judah\" who received the Temple vessels from Cyrus's treasurer and brought them to Jerusalem (Ezra 1:8–11); later said to have laid the Temple's foundation (Ezra 5:14–16). His relation to Zerubbabel is disputed.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V85GFYXKSRJ8NN5E5FTNA2",
+  "slug": "mithredath-treasurer-of-cyrus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V85GFCFTAF8XMW5XAYY038",
+   "src_01M4V85GFFAGD0T70XA32HF091"
+  ],
+  "notes": null,
+  "canonical_name": "Mithredath (Cyrus's treasurer)",
+  "aliases": [
+   {
+    "alias": "Mithridates",
+    "language": "Greek (Josephus)",
+    "source_id": "src_01M4V85GFFAGD0T70XA32HF091",
+    "passage": null
+   }
+  ],
+  "description": "Cyrus's treasurer who counted out the vessels to Sheshbazzar (Ezra 1:8). Distinct from the Mithredath of Ezra 4:7 under Artaxerxes.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+ },
+ {
   "kind": "prophecy",
   "id": "pro_01M4RTK7458JMN36GV9R7JAAMQ",
   "slug": "four-kingdoms-and-the-stone-dan-2",
@@ -4891,6 +4937,97 @@
     "is_proposed_fulfillment": true,
     "citations": [
      "src_01M4V2NXVXA93J01GRHC1AQBXW"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4V85GFYMJZH3PKND7H0MRKA",
+  "slug": "cup-of-wrath-for-the-nations-jer-25",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V85GF6TQB2PQ33ZK2PYGWR",
+   "src_01M4V7P26606N1Q0K5M0F22H1P"
+  ],
+  "notes": null,
+  "title": "The cup of the wine of wrath for the nations (Jer 25:15–38)",
+  "passage": "Jer.25.15-Jer.25.38",
+  "speaker": "The LORD, through Jeremiah",
+  "vision_id": null,
+  "description": "Jeremiah is to make the nations drink the cup of wrath — Jerusalem and Judah first, then Egypt, Philistia, Edom, Moab, Ammon, Tyre, Sidon, Arabia, Elam, the Medes, all the kings of the north and all the kingdoms — and last \"the king of Sheshach\"; the LORD roars against all flesh.",
+  "in_text_interpretation": "The text interprets the cup as the sword the LORD sends (25:16, 27) and begins with Jerusalem (25:18, 29). It does not explain Sheshach.",
+  "interpretations": [
+   {
+    "id": "ful_01M4V85GG7NEYEY9HEN0JA998Z",
+    "label": "Babylon's conquests of the listed nations in the sixth century, ending with Babylon's own fall",
+    "approach": "preterist",
+    "framework": "Historical (Feinberg; partly Guzik)",
+    "proponents": [
+     "C. L. Feinberg (via Guzik): the \"many nations and great kings\" are the Medes and Persians",
+     "Josephus (Ant. 10.9.7) for the campaign against Ammon, Moab and Egypt in Nebuchadnezzar's 23rd year"
+    ],
+    "summary": "Judah, its neighbours and Egypt fell under Nebuchadnezzar; Babylon itself fell to the Medes and Persians (cf. 25:12–14). Josephus reports a campaign of Nebuchadnezzar's 23rd year against Coele-Syria, Ammon, Moab and Egypt. Objection: Guzik judges the list too complete for one historical sequence.",
+    "referents": [
+     {
+      "symbol": "The nations who drink",
+      "referent": "Kingdoms conquered by Nebuchadnezzar"
+     },
+     {
+      "symbol": "The king of Sheshach drinks last",
+      "referent": "Babylon's fall (539)"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4V7P26BWJJ0XTGZC1SCD4G0",
+     "evt_01M4TPW4BXTC5R7Q7Y5TTXG5HW"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V85GF6TQB2PQ33ZK2PYGWR",
+     "src_01M4V7P26606N1Q0K5M0F22H1P"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V85GG79F7CNST9M9SM5VE4",
+    "label": "The final judgment of the nations",
+    "approach": "futurist",
+    "framework": "Evangelical (Guzik)",
+    "proponents": [
+     "D. Guzik"
+    ],
+    "summary": "The list is too complete to fit one event; the ultimate fulfilment is the judgment of the nations (Rev 19:11–18). Not a historical fulfilment claim.",
+    "referents": [],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V85GF6TQB2PQ33ZK2PYGWR"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V85GG8Z7JWMB5WNY44Q3D6",
+    "label": "Sheshach = Babel by atbash cipher",
+    "approach": "mixed",
+    "framework": "Textual interpretation (Jerome; many, per Guzik)",
+    "proponents": [
+     "Jerome (as reported by Guzik)",
+     "D. Kidner (cautious, via Guzik)"
+    ],
+    "summary": "Reversing the alphabet turns ššk into bbl (Babel). Kidner notes Babylon is named openly elsewhere, so the code may reflect a habit of caution. An identification within the text, not a fulfilment claim.",
+    "referents": [
+     {
+      "symbol": "Sheshach",
+      "referent": "Babylon"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V85GF6TQB2PQ33ZK2PYGWR"
     ],
     "reviewer_status": "machine_proposed"
    }

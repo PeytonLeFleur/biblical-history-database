@@ -81,13 +81,31 @@
         "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
         "src_01M4TPW4B43MDDS6CJYXV48RHN"
       ]
+    },
+    {
+      "label": "Cyrus moved by Isaiah's prophecy (Josephus)",
+      "proponents": [
+        "Josephus, Ant. 11.1.1–2",
+        "D. Guzik (perhaps shown by Daniel)"
+      ],
+      "summary": "Josephus says Cyrus learned his charge \"by his reading the book which Isaiah left behind\"; no Persian source mentions it. The Cyrus Cylinder presents Marduk, not the LORD, as Cyrus's divine patron in Babylon.",
+      "citations": [
+        "src_01M4V85GFFAGD0T70XA32HF091",
+        "src_01M4V85GFCFTAF8XMW5XAYY038"
+      ]
     }
   ],
-  "commentary": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4V85GFCFTAF8XMW5XAYY038",
+      "layer": "interpretation",
+      "paraphrase": "Guzik dates the decree to 538, cites the Cyrus Cylinder (via Payne and Kidner) as confirming Cyrus's policy, and suggests Daniel may have shown Cyrus Isaiah 44:28–45:5.",
+      "url": "https://enduringword.com/bible-commentary/ezra-1/",
+      "accessed": "2026-10-13"
+    }
+  ],
   "open_questions": [
     "The Aramaic memorandum (Ezra 6:3–5) and the Hebrew proclamation (Ezra 1:2–4) differ in form; their relation was not researched."
   ],
-  "not_applicable": {
-    "commentary": "Enduring Word on Ezra/Nehemiah was not consulted in this Daniel session; Guzik's dates are recorded on the seventy-weeks prophecy."
-  }
+  "not_applicable": {}
 }

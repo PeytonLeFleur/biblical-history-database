@@ -131,8 +131,8 @@
   "slug": "ezra",
   "chapters": 10,
   "verses": 280,
-  "verses_reviewed": 0,
-  "chapters_extracted": 0
+  "verses_reviewed": 11,
+  "chapters_extracted": 1
  },
  {
   "osis": "Neh",
@@ -212,8 +212,8 @@
   "slug": "jeremiah",
   "chapters": 52,
   "verses": 1364,
-  "verses_reviewed": 34,
-  "chapters_extracted": 1
+  "verses_reviewed": 72,
+  "chapters_extracted": 2
  },
  {
   "osis": "Lam",

@@ -1,0 +1,23 @@
+{
+  "kind": "person",
+  "id": "per_01M4V85GFRVBMSHYGJ4XGM2TR0",
+  "slug": "sheshbazzar",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V85GFCFTAF8XMW5XAYY038",
+    "src_01M4V85GFFAGD0T70XA32HF091"
+  ],
+  "notes": null,
+  "canonical_name": "Sheshbazzar",
+  "aliases": [
+    {
+      "alias": "Sanabassar",
+      "language": "Greek (1 Esdras; Josephus)",
+      "source_id": "src_01M4V85GFFAGD0T70XA32HF091",
+      "passage": null
+    }
+  ],
+  "description": "\"Prince of Judah\" who received the Temple vessels from Cyrus's treasurer and brought them to Jerusalem (Ezra 1:8–11); later said to have laid the Temple's foundation (Ezra 5:14–16). His relation to Zerubbabel is disputed.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

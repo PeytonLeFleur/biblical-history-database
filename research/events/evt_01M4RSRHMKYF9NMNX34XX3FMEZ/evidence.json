@@ -1,0 +1,156 @@
+{
+  "event_id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "ABC 5 and ABC 3 (Livius) re-read",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Jeremiah 25",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "A dated prophetic word."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V85GG78M2HS26RNGBYS9Z1",
+      "statement": "Jehoiakim's fourth year overlapped Nebuchadnezzar's accession or first year (605/604 BC).",
+      "layer": "reconstruction",
+      "passage": "Jer.25.1",
+      "classification": "strongly_supported",
+      "reasoning": "Jehoiakim was installed in 609/608 (ABC 3 context) and Nebuchadnezzar acceded in September 605 (ABC 5); under every reckoning combination tested on this dossier, Jehoiakim's fourth year overlaps 605/604. Which combination Jeremiah used is the separate, disputed question recorded on the Dan 1:1 event.",
+      "supporting_evidence": [
+        "evd_01M4V85GG7QQ7D677GCATN4558",
+        "evd_01M4V85GG71N7VEMRXSFAJ3GPR"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V85GG759A5FVQKABYPDB63"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V85GG7SG6KMCW35KHEZ2NJ",
+      "statement": "Jeremiah's prophetic word was delivered in that year.",
+      "layer": "text",
+      "passage": "Jer.25.1",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Known only from the book of Jeremiah.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V85GG7XZMQZ0FAAZ83G060"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V85GG7QQ7D677GCATN4558",
+      "claim_ids": [
+        "clm_01M4V85GG78M2HS26RNGBYS9Z1"
+      ],
+      "source_id": "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Nabopolassar died 8 Ab and Nebuchadnezzar ascended the throne on 1 Elul of the accession year (605).",
+      "locator": "obv. 9–11",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle"
+    },
+    {
+      "id": "evd_01M4V85GG71N7VEMRXSFAJ3GPR",
+      "claim_ids": [
+        "clm_01M4V85GG78M2HS26RNGBYS9Z1"
+      ],
+      "source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Egyptian campaign to Harran in 609 — the context of Jehoiakim's installation.",
+      "locator": "ll. 66–75",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle-abc3"
+    },
+    {
+      "id": "evd_01M4V85GG759A5FVQKABYPDB63",
+      "claim_ids": [
+        "clm_01M4V85GG78M2HS26RNGBYS9Z1"
+      ],
+      "source_id": "src_01M4V85GF6TQB2PQ33ZK2PYGWR",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Dates the word to 605 BC.",
+      "locator": "on 25:1",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4V85GG7XZMQZ0FAAZ83G060",
+      "claim_ids": [
+        "clm_01M4V85GG7SG6KMCW35KHEZ2NJ"
+      ],
+      "source_id": "src_01M4V85GF6TQB2PQ33ZK2PYGWR",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Jeremiah about midway through his ministry.",
+      "locator": "on 25:1–3",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

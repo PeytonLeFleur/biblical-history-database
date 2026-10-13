@@ -1,0 +1,141 @@
+{
+  "event_id": "evt_01M4V85GFYJT5NCR7K25T4VA6D",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The leaders and all whom God stirred rose to go up and build; neighbours gave silver, gold, goods and animals. Cyrus brought out the vessels Nebuchadnezzar had placed in his gods' house; Mithredath counted them to Sheshbazzar: 30 gold dishes, 1,000 silver dishes, 29 knives, 30 gold bowls, 410 silver bowls, 1,000 other vessels — \"all … were five thousand four hundred\"; Sheshbazzar brought them up with the exiles.",
+    "passage": "Ezra.1.5-Ezra.1.11"
+  },
+  "setting": {
+    "period": "Cyrus's first Babylonian years (538–c. 537 BC)",
+    "body": "The Cyrus Cylinder records Cyrus returning gods' images to their sanctuaries; Judah, which had no images, is not named. Josephus retells the episode with Mithridates and Sanabassar and has Cyrus's letter name Zorobabel as governor.",
+    "citations": [
+      "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+      "src_01M4V85GFFAGD0T70XA32HF091"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "King",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V85GG2NF4Z031K0VNT6QFA",
+      "subject": "evt_01M4V85GFYJT5NCR7K25T4VA6D",
+      "object": "evt_01M4V10B5RBQJP52A16XSXQW14",
+      "relation": "after",
+      "textual_assertion": "Then the heads of fathers' households … rose up … Also Cyrus the king brought out the vessels",
+      "passage": "Ezra.1.5-Ezra.1.7",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4V85GG2GEB5HNDXGECGEF8Z",
+      "subject": "evt_01M4V85GFYJT5NCR7K25T4VA6D",
+      "object": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "relation": "within_reign",
+      "textual_assertion": "Cyrus king of Persia brought out by the hand of Mithredath",
+      "passage": "Ezra.1.8",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Where the vessels were kept",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Destination",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "prince (nāśîʾ) of Judah",
+      "gloss": "Sheshbazzar's title; Ezra 5:14 calls him governor (peḥâ).",
+      "citations": [
+        "src_01M4V85GFCFTAF8XMW5XAYY038"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Sheshbazzar = Zerubbabel",
+      "proponents": [
+        "Clarke (Chaldean name) and Kidner (official name), via Guzik"
+      ],
+      "summary": "Both are said to lay the foundation (Ezra 3:8–10; 5:16).",
+      "citations": [
+        "src_01M4V85GFCFTAF8XMW5XAYY038"
+      ]
+    },
+    {
+      "label": "Two different leaders",
+      "proponents": [
+        "Others reported by Guzik"
+      ],
+      "summary": "Sheshbazzar led the first return; Zerubbabel led the later rebuilding; Josephus names both Sanabassar and Zorobabel.",
+      "citations": [
+        "src_01M4V85GFCFTAF8XMW5XAYY038",
+        "src_01M4V85GFFAGD0T70XA32HF091"
+      ]
+    },
+    {
+      "label": "The vessels: returned intact, or only those not destroyed",
+      "proponents": [
+        "Poole (via Guzik)"
+      ],
+      "summary": "2 Kgs 24:13 says the gold vessels were cut in pieces; Dan 5:2–3 has vessels used at Belshazzar's feast; Poole reconciles the \"cut in pieces\" statement.",
+      "citations": [
+        "src_01M4V85GFCFTAF8XMW5XAYY038"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V85GFCFTAF8XMW5XAYY038",
+      "layer": "interpretation",
+      "paraphrase": "Guzik stresses that only a \"spirit-stirred minority\" returned and notes the views that Sheshbazzar was Zerubbabel or a distinct official.",
+      "url": "https://enduringword.com/bible-commentary/ezra-1/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Which list is original — Ezra's items (2,499) or 1 Esdras's (5,469)?"
+  ],
+  "not_applicable": {}
+}

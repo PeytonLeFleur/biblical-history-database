@@ -1,21 +1,45 @@
 {
   "event_id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
-  "status": "in_progress",
-  "resume_from": "Rule 01 extraction of Jeremiah 25 (Milestone 6)",
+  "status": "complete",
+  "resume_from": null,
   "text_summary": {
     "layer": "text",
-    "body": "Jeremiah 25:1 dates the word \"in the fourth year of Jehoiakim … (this was the first year of Nebuchadnezzar king of Babylon)\".",
-    "passage": "Jer.25.1"
+    "body": "In Jehoiakim's fourth year (\"the first year of Nebuchadnezzar\") Jeremiah reminds Judah that he has spoken for twenty-three years since Josiah's thirteenth year without being heeded; the LORD will bring Nebuchadnezzar \"my servant\" against the land and the nations, who will serve the king of Babylon seventy years; afterwards Babylon will be punished.",
+    "passage": "Jer.25.1-Jer.25.14"
   },
   "setting": {
-    "period": "Early Neo-Babylonian dominance in the Levant (605–604 BC)",
-    "body": "Recorded here for the chronological comparison with Daniel 1:1; full research belongs to Jeremiah (Milestone 6).",
+    "period": "605/604 BC",
+    "body": "Nebuchadnezzar defeated Egypt at Carchemish in 605 and acceded on 1 Elul (7 Sep 605); his first regnal year began in Nisan 604 (ABC 5; P&D). Jehoiakim had been installed by Necho in 609/608 (ABC 3 context). Guzik places the word in 605, between Carchemish and Nebuchadnezzar's return to Babylon.",
     "citations": [
-      "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4V85GF6TQB2PQ33ZK2PYGWR"
     ]
   },
-  "rulers": [],
-  "kingdoms": [],
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "reign_id": "rgn_01M4RSRHMKYWK5V1JP534ED41R",
+      "role": "King of Judah (fourth year)",
+      "citations": [
+        "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+      ]
+    },
+    {
+      "person_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "reign_id": "rgn_01M4RSRHMHR5QQ9R1KQZZMQJQY",
+      "role": "King of Babylon (first year)",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+    "kgd_01M4RSRHM0ETGRBDHFPX8477ET"
+  ],
   "constraints": [
     {
       "id": "cst_01M4RSRHMNVZFY2T2M1RMG4NK8",
@@ -166,10 +190,55 @@
     }
   ],
   "date_hypotheses": [],
-  "locations": [],
-  "terminology": [],
-  "competing_reconstructions": [],
-  "commentary": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Addressees (Judah and Jerusalem)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "the first year of Nebuchadnezzar",
+      "gloss": "Either his accession year (605/604) or his first full year from Nisan 604 — the reckoning alternatives are solved on this dossier (SPEC 12.4 test).",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "605 BC, between Carchemish and Nebuchadnezzar's accession",
+      "proponents": [
+        "D. Guzik"
+      ],
+      "summary": "Jehoiakim's fourth year on a Tishri-based Judean count overlapping Nebuchadnezzar's accession year.",
+      "citations": [
+        "src_01M4V85GF6TQB2PQ33ZK2PYGWR"
+      ]
+    },
+    {
+      "label": "Nisan 604 – Nisan 603",
+      "proponents": [
+        "Babylonian-style count of Nebuchadnezzar's first full year (this dossier's alternatives)"
+      ],
+      "summary": "If \"first year\" means the first full regnal year.",
+      "citations": [
+        "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V85GF6TQB2PQ33ZK2PYGWR",
+      "layer": "interpretation",
+      "paraphrase": "Guzik dates the word to 605, reads Nebuchadnezzar as God's unconscious instrument (Feinberg), and prefers a literal seventy years from 605.",
+      "url": "https://enduringword.com/bible-commentary/jeremiah-25/",
+      "accessed": "2026-10-13"
+    }
+  ],
   "open_questions": [],
   "not_applicable": {}
 }

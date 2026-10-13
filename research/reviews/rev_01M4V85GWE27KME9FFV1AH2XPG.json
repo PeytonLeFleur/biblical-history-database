@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V85GWE27KME9FFV1AH2XPG",
+  "record_kind": "event",
+  "record_id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: The word to Jeremiah in Jehoiakim's fourth year, Nebuchadnezzar's first (Jer 25:1–14)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:25:01.839Z",
+  "decisions": [],
+  "is_fixture": false
+}

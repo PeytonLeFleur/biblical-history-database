@@ -881,6 +881,7 @@ The Cyrus Cylinder (Babylon, c. 539–530) records that Cyrus returned the image
 ## Competing reconstructions
 
 - **538 BC (Cyrus's first Babylonian year)** (D. Guzik, S. R. Driver (edict of Cyrus, 538)): Year 1 = 24 Mar 538 – Mar 537 on Nisan reckoning. [4, 5, 2]
+- **Cyrus moved by Isaiah's prophecy (Josephus)** (Josephus, Ant. 11.1.1–2, D. Guzik (perhaps shown by Daniel)): Josephus says Cyrus learned his charge "by his reading the book which Isaiah left behind"; no Persian source mentions it. The Cyrus Cylinder presents Marduk, not the LORD, as Cyrus's divine patron in Babylon. [6, 7]
 
 ## Claims and evidence
 
@@ -900,6 +901,10 @@ The Cyrus Cylinder states that Cyrus returned the gods to their places and gathe
 - this event → **same event** → 2 Chronicles 36:22–23 (high): Parallel wording of the proclamation.
 - this event → **followed by** → Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12) (high): Darius finds and confirms Cyrus's memorandum (Ezra 6:1–12).
 
+## Commentary (interpretation, not historical evidence)
+
+- Guzik dates the decree to 538, cites the Cyrus Cylinder (via Payne and Kidner) as confirming Cyrus's policy, and suggests Daniel may have shown Cyrus Isaiah 44:28–45:5. [7]
+
 ## Unanswered questions and research gaps
 
 - Modern studies of the Cyrus decree's authenticity not read.
@@ -912,3 +917,5 @@ The Cyrus Cylinder states that Cyrus returned the gods to their places and gathe
 3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
 4. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*
 5. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
+6. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.1.1–3 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+7. Guzik, David. Ezra 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-1/> — *theological commentary; verification: claim checked*

@@ -1,0 +1,161 @@
+{
+  "event_id": "evt_01M4V85GFYJT5NCR7K25T4VA6D",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Sheshbazzar",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.1.8",
+        "Ezra.1.11",
+        "Ezra.5.14",
+        "Ezra.5.16"
+      ]
+    },
+    {
+      "name": "Mithredath",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.1.8",
+        "Ezra.4.7"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V85GGSB1XJYNV8XX3S2S2T",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.1.2"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Vessels Nebuchadnezzar put \"in the house of his god\" (Dan 1:2; Ezra 1:7).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V85GGSFJZAQCA89BJMCGCM",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BXPE1CV5EQW4NMHN92"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Belshazzar drank from the Temple vessels (Dan 5:2–3); Cyrus returned them after Babylon fell.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V85GGSH4W5EVG3W58FE42R",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Vessels taken in 597 (2 Kgs 24:13 says the gold ones were cut in pieces).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V85GGSXZSMJSTVYATGVBXA",
+      "type": "possible_identity",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4V85GFRVBMSHYGJ4XGM2TR0"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.3.8"
+      },
+      "confidence": "low",
+      "layer": "reconstruction",
+      "rationale": "Sheshbazzar may be Zerubbabel (Ezra 3:8–10 vs 5:16) — claim under review.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V85GFCFTAF8XMW5XAYY038"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V85GGSAN9WJYER3DWMPPCG",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The return follows the proclamation.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Sheshbazzar the prince of Judah (1:8)",
+      "resolved_to": "per_01M4V85GFRVBMSHYGJ4XGM2TR0",
+      "basis": "Name",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4V85GG2NF4Z031K0VNT6QFA",
+    "cst_01M4V85GG2GEB5HNDXGECGEF8Z"
+  ]
+}

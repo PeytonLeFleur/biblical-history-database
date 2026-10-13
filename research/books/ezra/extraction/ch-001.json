@@ -1,0 +1,230 @@
+{
+  "book": "Ezra",
+  "chapter": 1,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.1.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY6R255V0DCG899V6N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFY6R255V0DCG899V6N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.1.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B",
+      "title": "Cyrus's first-year proclamation for the house of God in Jerusalem",
+      "passage": "Ezra.1.1-Ezra.1.4",
+      "description": "The LORD stirred Cyrus to proclaim in writing that God had charged him to build a house at Jerusalem; any of His people may go up, helped by their neighbours.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Cyrus king of Persia",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jeremiah",
+          "matched_entity_id": "per_01M4V10B5GEQP115CCSGSG9JXY",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.1.1",
+          "phrase": "in the first year of Cyrus king of Persia",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "2Chr.36.22-2Chr.36.23",
+        "Ezra.6.3-Ezra.6.5",
+        "Isa.44.28"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+    },
+    {
+      "id": "cnd_01M4V85GFY6R255V0DCG899V6N",
+      "title": "Heads of families prepare to go up; neighbours give gifts",
+      "passage": "Ezra.1.5-Ezra.1.6",
+      "description": "Leaders of Judah and Benjamin, priests and Levites rose to build; their neighbours supported them with silver, gold, goods and animals.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "migration",
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+    },
+    {
+      "id": "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA",
+      "title": "Cyrus returns the Temple vessels through Mithredath to Sheshbazzar",
+      "passage": "Ezra.1.7-Ezra.1.11",
+      "description": "Cyrus brought out the vessels Nebuchadnezzar had put in his gods' house; Mithredath the treasurer counted them to Sheshbazzar, prince of Judah; an itemised list and a total of 5,400 vessels, brought up with the exiles.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "political",
+        "migration"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Cyrus",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Mithredath the treasurer",
+          "matched_entity_id": "per_01M4V85GFYXKSRJ8NN5E5FTNA2",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Sheshbazzar the prince of Judah",
+          "matched_entity_id": "per_01M4V85GFRVBMSHYGJ4XGM2TR0",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nebuchadnezzar",
+          "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.1.2",
+        "Dan.5.2-Dan.5.3",
+        "2Kgs.24.13",
+        "2Kgs.25.13-2Kgs.25.17",
+        "Ezra.5.14-Ezra.5.16"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The items (2,499) do not add up to the stated total (5,400).",
+        "Sheshbazzar and Zerubbabel: one person or two.",
+        "2 Kgs 24:13 says the gold vessels were cut in pieces."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-jeremiah-25-ezra-1.md"
+}
