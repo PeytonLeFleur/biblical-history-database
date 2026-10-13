@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VCA0DQEMM12KCF6KQ418D1",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0BTEQMG1FZXZ48P9D2A",
+  "record_revision": 1,
+  "reason": "Possible identity: the \"Hilkiah\" of the City of David bulla and the high priest Hilkiah",
+  "triggers": [
+    "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.127Z",
+  "decisions": [],
+  "is_fixture": false
+}

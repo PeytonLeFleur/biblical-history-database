@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4VC9FQ7YPXW1TGJKXJC0X0C",
+  "subject_kind": "chapter",
+  "subject_id": "2Kgs.23",
+  "book": "2Kgs",
+  "chapter": 23,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-13T19:37:30.524Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-13T19:37:06.023Z",
+  "updated_at": "2026-10-13T19:37:30.524Z",
+  "is_fixture": false
+}

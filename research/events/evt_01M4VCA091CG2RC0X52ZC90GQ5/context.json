@@ -1,0 +1,117 @@
+{
+  "event_id": "evt_01M4VCA091CG2RC0X52ZC90GQ5",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In Josiah's eighteenth year Shaphan the scribe was sent to Hilkiah about the money collected for Temple repairs; Hilkiah said he had found the book of the law; Shaphan read it to the king, who tore his clothes and sent Hilkiah, Ahikam, Achbor, Shaphan and Asaiah to inquire of the LORD, fearing wrath because the fathers had not obeyed it.",
+    "passage": "2Kgs.22.3-2Kgs.22.13"
+  },
+  "setting": {
+    "period": "c. 623–621 BC (Josiah's 18th year)",
+    "body": "Judah had been an Assyrian vassal under Manasseh; by the 620s Assyria was declining (Nabopolassar took Babylon's throne in 626, and ABC 3 records Babylonian campaigns against Assyria from 616). Lumby notes that the Temple and the law had been neglected for nearly sixty years under Manasseh and Amon.",
+    "citations": [
+      "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+      "reign_id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VCA0AVH6JDRGH2BJC0ZH61",
+      "subject": "evt_01M4VCA091CG2RC0X52ZC90GQ5",
+      "object": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "relation": "years_later",
+      "textual_assertion": "In the eighteenth year of King Josiah",
+      "passage": "2Kgs.22.3",
+      "offset": {
+        "min": 16,
+        "max": 19
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The eighteenth regnal year begins 16–17 years after accession (non-accession count) or 17–18 years after (accession count) and lasts a year: offset 16–19 years from the start of the reign (operator margin)."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple where the book was found",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "book of the law (sēper hattôrâ)",
+      "gloss": "Called \"the book of the covenant\" in 23:2, 21; its contents are not described beyond its curses and covenant.",
+      "citations": [
+        "src_01M4VCA08RM9RP8B8ZRC7YP4KM",
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "An ancient Mosaic book (the Temple copy of the Pentateuch or Deuteronomy), recovered after neglect",
+      "proponents": [
+        "Josephus (Ant. 10.4.2: \"the holy books of Moses\")",
+        "C. F. Keil (1872)",
+        "A. Clarke and D. J. Wiseman (via Guzik)"
+      ],
+      "summary": "The book had been lost during Manasseh's reign; \"found\" means found, not forged (Keil).",
+      "citations": [
+        "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ]
+    },
+    {
+      "label": "Deuteronomy, composed in the seventh century (not later than Manasseh)",
+      "proponents": [
+        "S. R. Driver (1891), after de Wette"
+      ],
+      "summary": "The covenant language and the reform's step-by-step dependence show that the book contained Deuteronomy; its law of a single sanctuary is not presupposed in Joshua–1 Kings, so it is later than the Mosaic age, but probably not by Hilkiah.",
+      "citations": [
+        "src_01M4VCA08RM9RP8B8ZRC7YP4KM"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VCA082VMRB4VA17JHPMEJA",
+      "layer": "interpretation",
+      "paraphrase": "Guzik takes the eighteenth year with 2 Chr 34 (a commitment at sixteen and a purge four years later), quotes Wiseman that the book is often identified with Deuteronomy, and Clarke that it may be Deut 28–31, even Moses' autograph.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-22/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Josephus names the high priest Eliakim, not Hilkiah.",
+    "Whether Jeremiah's father Hilkiah (Jer 1:1, a priest of Anathoth) is this high priest (Guzik says so; not established)."
+  ],
+  "not_applicable": {}
+}

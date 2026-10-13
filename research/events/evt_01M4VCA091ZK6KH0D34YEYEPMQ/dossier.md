@@ -1,0 +1,916 @@
+# Josiah's delegation consults Huldah the prophetess
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 22:14–20 (narration)
+- 2 Chronicles 34:22–28 (parallel_account)
+
+## Biblical account
+
+The delegation went to Huldah the prophetess, wife of Shallum keeper of the wardrobe, who lived in the second quarter of Jerusalem. She announced that all the words of the book would fall on Jerusalem, but that Josiah, who had humbled himself, would be gathered to his grave in peace and not see it.
+
+## Historical setting
+
+**Period:** Josiah's 18th year
+
+Wiseman (via Guzik) notes that Jeremiah and Zephaniah were active in Josiah's reign; Huldah is known only here and in 2 Chr 34:22. [1]
+
+### Rulers
+
+- Josiah: King of Judah [1]
+
+## Date and chronology
+
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+- **625 BC – 618 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9 → “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “The king commanded … "Go inquire of the LORD" … So Hilkiah … went to Huldah” (2 Kings 22:12–14) → `days_later` Temple repairs and the finding of the book of the law (Josiah's 18th year); assumptions: The inquiry followed the reading directly; 60 days is an operator margin.
+
+## Geography
+
+- Jerusalem (Huldah's residence (the second quarter); confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Competing reconstructions
+
+- **"In peace" despite death in battle** (C. F. Keil (1872), J. R. Lumby (1887), D. Guzik): All three read "in peace" as "before the catastrophe"; Keil cites 1 Kgs 22 for "gathered to his fathers" after death in battle. See the prophecy record. [3, 4, 1]
+
+## Claims and evidence
+
+### Huldah was a prophetess consulted by Josiah's officials in Jerusalem.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known from 2 Kgs 22:14–20 and 2 Chr 34:22–28 (and Josephus, who depends on them). No external record was found.
+
+- *Context (direct):* Retells the consultation with Huldah, wife of Shallum, "a man of dignity". (Ant. 10.4.2) [5]
+
+## Related passages and events
+
+- this event → **same event** → 2 Chronicles 34:22–28 (high): Chronicles' parallel of Huldah's oracle.
+- pro_01M4VCA0AFZYJ4FX1QW0BCN48H → **proposed fulfillment** → Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (high): The evil announced on "this place" (2 Kgs 22:16–17) — the burning of Jerusalem and the Temple. [5, 3]
+- pro_01M4VCA0AFZYJ4FX1QW0BCN48H → **proposed fulfillment** → Josiah killed at Megiddo by Necho II (609 BC) (medium): "Gathered to your grave in peace … your eyes will not see all the evil" (2 Kgs 22:20) — Josiah's death in 609, before the catastrophe. [3, 4]
+- this event → **thematic parallel** → 2 Kings 23:26–27 (high): The narrator confirms that wrath was not turned back.
+- this event → **followed by** → Josiah's covenant and the purge of Jerusalem and Judah (high): The king gathered the elders after receiving the oracle.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik explains "gathered to your grave in peace" in three ways, though Josiah died in battle, and notes that the judgment was delayed, not cancelled. [1]
+
+## Unanswered questions and research gaps
+
+- No archaeological or extra-biblical evidence searched beyond the commentaries.
+
+## Sources
+
+1. Guzik, David. 2 Kings 22 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-22/> — *theological commentary; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Books of the Kings (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofkings00keil> — *scholarly commentary; verification: claim checked*
+4. Lumby, J. Rawson. The Second Book of the Kings, with Introduction and Notes (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1887. <https://archive.org/details/secondbookofking00lumb> — *scholarly commentary; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*

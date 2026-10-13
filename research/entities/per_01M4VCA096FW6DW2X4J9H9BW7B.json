@@ -1,0 +1,18 @@
+{
+  "kind": "person",
+  "id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+  "slug": "josiah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA082VMRB4VA17JHPMEJA",
+    "src_01M4VCA0881BQ57C15HT6R6FSH",
+    "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+  ],
+  "notes": null,
+  "canonical_name": "Josiah",
+  "aliases": [],
+  "description": "King of Judah (c. 640/639–609 BC), son of Amon; came to the throne at eight and reigned thirty-one years (2 Kgs 22:1); carried out a religious reform after the finding of the law book in his eighteenth year; killed at Megiddo when Necho II marched north in 609 (2 Kgs 23:29).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

@@ -1,0 +1,54 @@
+{
+  "event_id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4VCA0DGFBH9D7YX1VPAYT0G",
+    "rev_01M4VCA0DKTEHS00A813CBVBA7",
+    "rev_01M4VCA0E0HFDTQC1516N1YV0S",
+    "rev_01M4VCA0E2F6PYVC65N6QSX9RW"
+  ],
+  "research_gaps": [
+    "No archaeological or extra-biblical evidence searched beyond the commentaries."
+  ],
+  "disputes": [],
+  "export_eligible": true
+}

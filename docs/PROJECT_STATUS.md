@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 6 (cross-book historical validation): **complete**. Daniel (M5) is complete, audited and cross-validated. **What remains for Daniel is owner editorial review only (157 open items).** Next: owner review, then Milestone 7 (full canon expansion).
+**Current milestone:** 7 (full canon expansion): **in progress**, unit 1 done (2 Kings 22–23). Milestones 1–6 are complete. Daniel still awaits owner editorial review only (157 open items).
 **Last updated:** 2026-10-13
 
 ## Milestone 1: Repository and foundation ✅
@@ -200,25 +200,45 @@ Every Daniel record was audited mechanically and rule by rule. Session log: `res
 
 **Engine limitation:** the conservative Nisan window (1 Mar – 1 May) leaves Nehemiah 2 at 446–444 rather than a single year.
 
+## Milestone 7: Full canon expansion (in progress)
+The canon is researched one unit at a time (one or two chapters, each with its own PR), in the priority order in `docs/NEXT_ACTION.md`. Books overlapping existing records come first.
+
+| Unit | PR | Verses | Result |
+|---|---|---|---|
+| 2 Kings 22–23 | #23 | 57/57 | 6 events: the law book found; Huldah; covenant and purge; Bethel; Passover; Josiah's death at Megiddo (609, synchronised with ABC 3, critical). Jehoahaz event reused (revision 2). Josiah's reign, Megiddo, Bethel, the Hilkiah bulla, Huldah's oracle and the 1 Kgs 13:2 prophecy. Necho's march to *help* Assyria is independently corroborated (ABC 3; Josephus); Lumby's pre-1923 reading is superseded. 3 disputed claims (law-book date; timing of the reform; place of death). 13 reviews queued. |
+
+**Book-level progress:**
+- **2 Kings:** chapters 22–25 researched (4/25).
+- **2 Chronicles:** 36 (1/36). **Jeremiah:** 25 and 52 (2/52). **Ezra:** 1 (1/10). **Isaiah:** 44–45 (2/66).
+- **Amos:** 1 (1/9). **Daniel:** 12/12.
+
+**Source limitations added in M7** (details in each session log):
+- City of David bulla reports (Shiloh; Schneider, *BAR* 1991) not read; the bulla is known only through a popular summary.
+- Megiddo and Beitin excavation reports not read.
+- Post-1915 studies of Deuteronomy's date not read.
+
 ## Test results (local, 2026-10-13)
-lint ✓ · typecheck ✓ · Vitest **92/92** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,392 pages
+lint ✓ · typecheck ✓ · Vitest **92/92** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,403 pages
 
 ## Research progress
-- Verse coverage: **581 / 31,102** reviewed (Amos 1; Daniel 1–12; 2 Kings 24–25; 2 Chronicles 36; Jeremiah 25, 52; Ezra 1; Isaiah 44–45). Chapters extracted: 21.
-- **Events: 53** (52 researched; 1 preliminary: Amos's prophetic words). **Sources: 161.**
-- **Entities: 158:**
-  - 55 people
-  - 23 prophecies, with 78 attributed interpretations
-  - 15 places
-  - 15 reigns
-  - 12 synchronisms
+- **Verse coverage:** 638 / 31,102 reviewed, across 23 chapters.
+  - Amos 1; Daniel 1–12; 2 Kings 22–25; 2 Chronicles 36; Jeremiah 25, 52; Ezra 1; Isaiah 44–45.
+- **Events:** 59 (58 researched; 1 preliminary, Amos's prophetic words).
+- **Sources:** 171.
+- **Entities:** 170.
+  - 60 people
+  - 25 prophecies, with 82 attributed interpretations
+  - 17 places
+  - 16 reigns
+  - 13 synchronisms
   - 12 documents
   - 10 kingdoms
   - 6 chronology models
   - 5 visions
-  - 4 artifacts
+  - 5 artifacts
   - 1 site
-- **Claims: 126** (26 disputed). **Relationships: 262.**
-- **Open owner reviews: 158.**
-  - 157 are Daniel-related, of which 22 came from Milestone 6; 1 is Amos, unchanged.
+- **Claims:** 139 (29 disputed). **Relationships:** 293.
+- **Open owner reviews:** 171.
+  - 158 existing (157 Daniel-related; 1 Amos) are unchanged.
+  - 13 are new from 2 Kings 22–23.
   - None was approved or rejected by Claude.

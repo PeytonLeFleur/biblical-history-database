@@ -1,0 +1,110 @@
+{
+  "event_id": "evt_01M4VCA0914BNT9YNEPPCB2BMB",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Josiah commanded the people to keep the Passover as written in the book of the covenant; none like it had been kept since the days of the judges; it was kept in Jerusalem in Josiah's eighteenth year.",
+    "passage": "2Kgs.23.21-2Kgs.23.23"
+  },
+  "setting": {
+    "period": "Spring of Josiah's 18th year (c. 622–621 BC)",
+    "body": "Lumby observes that Kings omits Hezekiah's passover (2 Chr 30) and reads the claim as about the complete form of the feast; Keil rejects squeezing the whole reform into the time before this Passover.",
+    "citations": [
+      "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+      "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+      "reign_id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VCA0AVFCJNMKZNCZENQ1BJ",
+      "subject": "evt_01M4VCA0914BNT9YNEPPCB2BMB",
+      "object": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "relation": "years_later",
+      "textual_assertion": "but in the eighteenth year of King Josiah, this Passover was kept",
+      "passage": "2Kgs.23.23",
+      "offset": {
+        "min": 16,
+        "max": 19
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The eighteenth regnal year begins 16–17 years after accession (non-accession count) or 17–18 years after (accession count) and lasts a year: offset 16–19 years from the start of the reign (operator margin)."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    },
+    {
+      "id": "cst_01M4VCA0AV011N9HHZRH218WA9",
+      "subject": "evt_01M4VCA0914BNT9YNEPPCB2BMB",
+      "object": "evt_01M4VCA091CG2RC0X52ZC90GQ5",
+      "relation": "after",
+      "textual_assertion": "Keep the Passover … as it is written in this book of the covenant",
+      "passage": "2Kgs.23.21",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Place of the feast",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Passover in the same regnal year as the discovery",
+      "proponents": [
+        "2 Kgs 23:23 (text)"
+      ],
+      "summary": "With a Nisan new year the discovery, covenant and purge would precede 14 Nisan of the same year; with a Tishri new year there could be up to six months. The text's calendar is not stated.",
+      "citations": []
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VCA0881BQ57C15HT6R6FSH",
+      "layer": "interpretation",
+      "paraphrase": "Guzik treats the Passover as a national observance restored after long neglect.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-23/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "locations": "Jerusalem only."
+  }
+}

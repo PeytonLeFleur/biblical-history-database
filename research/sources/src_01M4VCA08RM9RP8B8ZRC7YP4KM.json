@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VCA08RM9RP8B8ZRC7YP4KM",
+  "title": "An Introduction to the Literature of the Old Testament (1st ed.)",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Driver, S. R."
+  ],
+  "publisher": "T. & T. Clark, Edinburgh, 1891",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/introductiontoli0000driv_q2f6",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1891)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 81–82: Deuteronomy must have been written before the eighteenth year of Josiah (B.C. 621), when Hilkiah found the \"book of the law\"; that book \"must have contained Deuteronomy\" (covenant allusions, 23:2–3; the reform follows Dt step by step); Hilkiah's authorship improbable; composition \"not later than the reign of Manasseh\"; p. 183: the prophecy against the altar of Bethel (1 Kgs 13) is \"a narrative not probably of very early origin\", the names of both prophets being no longer remembered",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text of the 1891 first edition.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4VCA09R17QTZ2HAPD5EWTNA",
+  "slug": "ahikam-son-of-shaphan",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA082VMRB4VA17JHPMEJA"
+  ],
+  "notes": null,
+  "canonical_name": "Ahikam son of Shaphan",
+  "aliases": [],
+  "description": "Member of Josiah's delegation to Huldah (2 Kgs 22:12–14); protected Jeremiah (Jer 26:24); father of Gedaliah the governor (2 Kgs 25:22).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

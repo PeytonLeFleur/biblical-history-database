@@ -1,0 +1,158 @@
+{
+  "event_id": "evt_01M4VCA091AGPBS0KJ818B8AM0",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Pleiades: Beitin",
+      "engine": "pleiades",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.4.4",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Driver LOT p. 183",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word 2 Kings 23",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "No astronomical data bear on the event."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VCA0BPHNMG1S0WK09KZGS5",
+      "statement": "Biblical Bethel is the site of Beitin.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Pleiades gives the names Bethela and Bethega for Beitin with certain association. Excavation reports and alternative proposals were not read, so the identification is recorded as probable.",
+      "supporting_evidence": [
+        "evd_01M4VCA0BPR8CDQXA65JT1CZB5"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Excavation reports not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VCA0BPQC89SRHMSN4Z53Z1",
+      "statement": "Josiah's desecration of the Bethel altar fulfilled a prophecy spoken in Jeroboam I's reign that named him.",
+      "layer": "interpretation",
+      "passage": "2Kgs.23.16",
+      "classification": "not_empirically_testable",
+      "reasoning": "The text states the fulfilment (23:16–18) and Josephus repeats it (361 years). Driver judges the 1 Kings 13 narrative to be of late origin. Whether a prophecy predated its fulfilment cannot be tested from the available evidence; the readings are recorded on the prophecy record and queued for review there.",
+      "supporting_evidence": [
+        "evd_01M4VCA0BP2HP151MJDWWY4T7F"
+      ],
+      "counterevidence": [
+        "evd_01M4VCA0BPJ65NX8KTTF7ETCM2"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VCA0BPR8CDQXA65JT1CZB5",
+      "claim_ids": [
+        "clm_01M4VCA0BPHNMG1S0WK09KZGS5"
+      ],
+      "source_id": "src_01M4VCA091B34TPY4JJRF27ZXR",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Beitin with names Bethela and Bethega (certain).",
+      "locator": "names",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "pleiades"
+    },
+    {
+      "id": "evd_01M4VCA0BP2HP151MJDWWY4T7F",
+      "claim_ids": [
+        "clm_01M4VCA0BPQC89SRHMSN4Z53Z1"
+      ],
+      "source_id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Fulfilled \"after three hundred and sixty-one years\".",
+      "locator": "Ant. 10.4.4",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VCA0BPJ65NX8KTTF7ETCM2",
+      "claim_ids": [
+        "clm_01M4VCA0BPQC89SRHMSN4Z53Z1"
+      ],
+      "source_id": "src_01M4VCA08RM9RP8B8ZRC7YP4KM",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The 1 Kings 13 narrative is \"not probably of very early origin\".",
+      "locator": "p. 183",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "driver-1891"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Excavations at Beitin (Albright, Kelso) not read.",
+    "Assyrian provincial administration of Samaria in the 620s not researched."
+  ]
+}

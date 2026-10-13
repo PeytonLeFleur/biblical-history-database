@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VCA0881BQ57C15HT6R6FSH",
+  "title": "2 Kings 23 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/2-kings-23/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the commentary on 2 Kings 23",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Covenant compared with Mizpah and Shechem (Wiseman); kemarim priests (Clarke); horses of the sun attested in Assyrian and Aramean sources (Patterson and Austel); Bethel reform possible because Assyria was weak; 1 Kgs 13:1–2 fulfilled; Passover; 23:29 \"went to the aid of the king of Assyria\" (NKJV) — Assyria allied with Egypt against Babylon; Josiah shot by archers after ignoring Necho's warning (2 Chr 35:20–25); place Hadad-rimmon (Clarke, Zech 12:11); Jehoahaz = Shallum, a throne name, primogeniture overridden (Wiseman); Jehoiakim's palace by forced labour (Wiseman)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

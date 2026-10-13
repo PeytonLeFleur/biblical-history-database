@@ -1,0 +1,179 @@
+{
+  "event_id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Huldah",
+      "books_searched": 66,
+      "hits": [
+        "2Chr.34.22",
+        "2Kgs.22.14"
+      ]
+    },
+    {
+      "name": "Shallum",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.2.40",
+        "1Chr.2.41",
+        "1Chr.3.15",
+        "1Chr.4.25",
+        "1Chr.6.12",
+        "1Chr.6.13",
+        "1Chr.7.13",
+        "1Chr.9.17",
+        "1Chr.9.19",
+        "1Chr.9.31",
+        "2Chr.28.12",
+        "2Chr.34.22",
+        "2Kgs.15.10",
+        "2Kgs.15.13",
+        "2Kgs.15.14",
+        "2Kgs.15.15",
+        "2Kgs.22.14",
+        "Ezra.2.42",
+        "Ezra.7.2",
+        "Ezra.10.24",
+        "Ezra.10.42",
+        "Jer.22.11",
+        "Jer.32.7",
+        "Jer.35.4",
+        "Neh.3.12",
+        "Neh.7.45"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VCA0C6G23AD92HGBCH3M26",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.34.22-2Chr.34.28"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Chronicles' parallel of Huldah's oracle.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0BTHSJQ5SXDBNRPH8BA",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4VCA0AFZYJ4FX1QW0BCN48H"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The evil announced on \"this place\" (2 Kgs 22:16–17) — the burning of Jerusalem and the Temple.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+          "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Josephus; Keil; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4VCA0BTKAT4J3G2RB5RET7Q",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4VCA0AFZYJ4FX1QW0BCN48H"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VCA091XV13ETPAWBT8TJK2"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"Gathered to your grave in peace … your eyes will not see all the evil\" (2 Kgs 22:20) — Josiah's death in 609, before the catastrophe.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+          "src_01M4VCA08MNQQVT95W0ZC0JZ9Q"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Keil; Lumby; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4VCA0C666KAM89Y52MAH8BA",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Kgs.23.26-2Kgs.23.27"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The narrator confirms that wrath was not turned back.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0C64VX326Y9NMH2N0H7",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The king gathered the elders after receiving the oracle.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VCA0AV6ZHD1PD15MX4JQ01"
+  ]
+}

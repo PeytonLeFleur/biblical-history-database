@@ -1,0 +1,56 @@
+{
+  "event_id": "evt_01M4VCA091CG2RC0X52ZC90GQ5",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4VCA0BHEA4PPQK9R7GH1RG2",
+    "rev_01M4VCA0DQEMM12KCF6KQ418D1"
+  ],
+  "research_gaps": [
+    "Excavation reports for the City of David bullae (Shiloh) not read.",
+    "Modern scholarship on the date of Deuteronomy (after 1915) not read.",
+    "Josephus's \"Eliakim\" for the high priest not explained."
+  ],
+  "disputes": [
+    "The book found in Josiah's reign was an ancient (Mosaic) text recovered after neglect, not a recent composition."
+  ],
+  "export_eligible": true
+}

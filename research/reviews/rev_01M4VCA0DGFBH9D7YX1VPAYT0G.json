@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VCA0DGFBH9D7YX1VPAYT0G",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0BTHSJQ5SXDBNRPH8BA",
+  "record_revision": 1,
+  "reason": "Proposed identification (2 Kgs 22–23): The evil announced on \"this place\" (2 Kgs 22:16–17)",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.120Z",
+  "decisions": [],
+  "is_fixture": false
+}

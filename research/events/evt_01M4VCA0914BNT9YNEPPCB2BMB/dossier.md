@@ -1,0 +1,913 @@
+# The Passover of Josiah's eighteenth year
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 23:21–23 (narration)
+- 2 Chronicles 35:1–19 (parallel_account): Fourteenth day of the first month; numbers of animals.
+
+## Biblical account
+
+Josiah commanded the people to keep the Passover as written in the book of the covenant; none like it had been kept since the days of the judges; it was kept in Jerusalem in Josiah's eighteenth year.
+
+## Historical setting
+
+**Period:** Spring of Josiah's 18th year (c. 622–621 BC)
+
+Lumby observes that Kings omits Hezekiah's passover (2 Chr 30) and reads the claim as about the complete form of the feast; Keil rejects squeezing the whole reform into the time before this Passover. [1, 2]
+
+### Rulers
+
+- Josiah: King of Judah [3]
+
+## Date and chronology
+
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → “Keep the Passover … as it is written in this book of the covenant”
+  - Latest bound from: reign of Josiah (reign start) → “but in the eighteenth year of King Josiah, this Passover was kept”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “but in the eighteenth year of King Josiah, this Passover was kept” (2 Kings 23:23) → `years_later` reign of Josiah; assumptions: The eighteenth regnal year begins 16–17 years after accession (non-accession count) or 17–18 years after (accession count) and lasts a year: offset 16–19 years from the start of the reign (operator margin).
+- “Keep the Passover … as it is written in this book of the covenant” (2 Kings 23:21) → `after` Temple repairs and the finding of the book of the law (Josiah's 18th year)
+
+## Geography
+
+- Jerusalem (Place of the feast; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **Passover in the same regnal year as the discovery** (2 Kgs 23:23 (text)): With a Nisan new year the discovery, covenant and purge would precede 14 Nisan of the same year; with a Tishri new year there could be up to six months. The text's calendar is not stated.
+
+## Claims and evidence
+
+### Josiah held a national Passover in Jerusalem in his eighteenth year.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Stated by 2 Kgs 23:21–23 and 2 Chr 35:1–19; Josephus follows them. No external evidence bears on the feast.
+
+- *Context (direct):* Passover with 30,000 lambs and kids and 3,000 oxen from the king; none like it "from the times of Samuel". (Ant. 10.4.5) [5]
+- *Context (indirect):* The claim is that no passover of this complete form had been kept since Samuel; Kings omits Hezekiah's. (on 23:22–23) [1]
+
+## Related passages and events
+
+- this event → **same event** → 2 Chronicles 35:1–19 (high): Chronicles' detailed parallel.
+- this event → **thematic parallel** → 2 Chronicles 30:1–27 (medium): Hezekiah's Passover, not mentioned in Kings (Lumby). [1]
+- this event → **thematic parallel** → Deuteronomy 16:1–8 (medium): Passover at the place the LORD chooses.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik treats the Passover as a national observance restored after long neglect. [6]
+
+## Sources
+
+1. Lumby, J. Rawson. The Second Book of the Kings, with Introduction and Notes (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1887. <https://archive.org/details/secondbookofking00lumb> — *scholarly commentary; verification: claim checked*
+2. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Books of the Kings (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofkings00keil> — *scholarly commentary; verification: claim checked*
+3. Guzik, David. 2 Kings 22 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-22/> — *theological commentary; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+6. Guzik, David. 2 Kings 23 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-23/> — *theological commentary; verification: claim checked*

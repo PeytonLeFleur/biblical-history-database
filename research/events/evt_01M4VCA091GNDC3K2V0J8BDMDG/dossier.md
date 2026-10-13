@@ -1,0 +1,930 @@
+# Josiah's covenant and the purge of Jerusalem and Judah
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 23:1–14 (narration)
+- 2 Kings 23:24–27 (narration): Mediums and household gods removed; evaluation of Josiah.
+- 2 Chronicles 34:3–7 (parallel_account): Chronicles places the purge from the twelfth year.
+- 2 Chronicles 34:29–33 (parallel_account)
+
+## Biblical account
+
+Josiah gathered the elders, read the book of the covenant in the Temple and made a covenant by the pillar. He had the vessels made for Baal, Asherah and the host of heaven burned in the Kidron fields; removed the idolatrous priests; burned the Asherah; broke down the shrine-prostitutes' houses; defiled the high places from Geba to Beersheba and Topheth in the valley of Hinnom; removed the horses and chariots of the sun; broke the roof altars of Ahaz and Manasseh's altars; and defiled Solomon's high places for Ashtoreth, Chemosh and Milcom.
+
+## Historical setting
+
+**Period:** c. 628–621 BC (Chronicles' 12th year to Kings' 18th year)
+
+Keil argues that the purge began before the book was found (2 Chr 34:3, the twelfth year) and was completed afterwards, the narrative grouping everything under the eighteenth year. Guzik quotes Patterson and Austel that horses in sun-worship are attested in Assyrian and Aramean sources (not checked here). [1, 2]
+
+### Rulers
+
+- Josiah: King of Judah [3]
+
+## Date and chronology
+
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+- **625 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVH6JDRGH2BJC0ZH61 → cst_01M4VCA0AV6ZHD1PD15MX4JQ01 → “So they brought this message back to the king. The king sent, and they gathered to him all the elders”
+  - Latest bound from: reign of Josiah (reign end) → “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “So they brought this message back to the king. The king sent, and they gathered to him all the elders” (2 Kings 22:20–23:1) → `after` Josiah's delegation consults Huldah the prophetess; assumptions: Applies to the covenant ceremony; Keil and 2 Chr 34:3 place the beginning of the purge earlier.
+- “The king commanded Hilkiah … to bring out of the LORD's temple all the vessels” (2 Kings 23:4) → `within_reign` reign of Josiah
+
+## Geography
+
+- Jerusalem (Temple, Kidron, Topheth, the Mount of Corruption; confidence: certain)
+  - Pleiades representative point: certain [4]
+- Bethel (Ashes carried to Bethel (23:4); confidence: probable)
+  - Beitin (Pleiades 260940008): probable [5]
+
+## Competing reconstructions
+
+- **Reform spread over several years and grouped under the 18th year by subject** (C. F. Keil (1872), 2 Chronicles 34:3–8 (text: 8th, 12th, 18th years)): The covenant could not have been made with idolatrous altars still standing in the Temple; the purge began earlier and was completed after the discovery. [1]
+- **All of 2 Kgs 22:3–23:23 within the 18th year** (J. Ussher (as reported by Keil), placing the Passover at the close of the 18th year): Takes the two "eighteenth year" statements (22:3; 23:23) as bracketing a single year. [1]
+
+## Claims and evidence
+
+### All of the reforms narrated in 2 Kgs 22:3–23:23 took place within Josiah's eighteenth year.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Kings frames the account with two "eighteenth year" notices (22:3; 23:23). Keil argues that the purge began earlier (2 Chr 34:3, the twelfth year) and was gathered under the eighteenth year by subject; Ussher (as reported by Keil) compressed it into the year. Josephus has the reform begin when Josiah was twelve.
+
+- *Challenging (indirect):* The reform cannot all fall within the eighteenth year; the narrative is arranged by subject. (pp. 473–475) [1]
+- *Challenging (direct):* Josiah began to remove idolatry at twelve, before the book was found. (Ant. 10.4.1) [6]
+- *Context (indirect):* Ussher placed the Passover at the close of the eighteenth year. (p. 474) [1]
+
+## Related passages and events
+
+- this event → **same event** → 2 Chronicles 34:29–33 (high): Chronicles' parallel of the covenant.
+- this event → **same event** → 2 Chronicles 34:3–7 (medium): Chronicles places the purge from the twelfth year.
+- this event → **thematic parallel** → Zephaniah 1:4–6 (medium): Zephaniah, dated to Josiah's days (Zeph 1:1), condemns Baal, the kemarim, the host of heaven and Milcom — the same cults.
+- this event → **thematic parallel** → Jeremiah 7:31 (medium): Topheth in the valley of Hinnom.
+- this event → **thematic parallel** → Jeremiah 3:10 (medium): Judah returned "in pretense" in Josiah's days (Guzik). [2]
+- this event → **followed by** → Josiah desecrates Jeroboam's altar at Bethel and the high places of Samaria (high): The reform extended to Bethel.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik compares the covenant with Mizpah and Shechem (after Wiseman) and reads the reform as moving from the Temple outward; he notes that the people's turning was outward conformity (Jer 3:10). [2]
+
+## Unanswered questions and research gaps
+
+- Archaeological evidence for the removal of cult places (e.g. Judahite shrines) not researched in this unit.
+
+## Disputes
+
+- All of the reforms narrated in 2 Kgs 22:3–23:23 took place within Josiah's eighteenth year.
+
+## Sources
+
+1. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Books of the Kings (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofkings00keil> — *scholarly commentary; verification: claim checked*
+2. Guzik, David. 2 Kings 23 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-23/> — *theological commentary; verification: claim checked*
+3. Guzik, David. 2 Kings 22 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-22/> — *theological commentary; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Pleiades contributors. Beitin (Bethel) — Pleiades place 260940008. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/260940008> — *institutional database; verification: claim checked*
+6. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*

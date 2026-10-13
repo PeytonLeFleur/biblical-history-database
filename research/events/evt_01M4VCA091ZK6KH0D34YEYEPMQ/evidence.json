@@ -1,0 +1,104 @@
+{
+  "event_id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word 2 Kings 22",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.4.2",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1872 on 22:20",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Lumby 1887 on 22:20",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "No astronomical data bear on the event."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VCA0BKH5HM73SVFKDVE796",
+      "statement": "Huldah was a prophetess consulted by Josiah's officials in Jerusalem.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Known from 2 Kgs 22:14–20 and 2 Chr 34:22–28 (and Josephus, who depends on them). No external record was found.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VCA0BKNS9XYC1EEWHTYWJ3"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VCA0BKNS9XYC1EEWHTYWJ3",
+      "claim_ids": [
+        "clm_01M4VCA0BKH5HM73SVFKDVE796"
+      ],
+      "source_id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Retells the consultation with Huldah, wife of Shallum, \"a man of dignity\".",
+      "locator": "Ant. 10.4.2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "No archaeological or extra-biblical evidence searched beyond the commentaries."
+  ]
+}

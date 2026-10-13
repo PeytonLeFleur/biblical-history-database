@@ -1,0 +1,955 @@
+# Temple repairs and the finding of the book of the law (Josiah's 18th year)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 22:3–13 (narration)
+- 2 Chronicles 34:8–21 (parallel_account)
+
+## Biblical account
+
+In Josiah's eighteenth year Shaphan the scribe was sent to Hilkiah about the money collected for Temple repairs; Hilkiah said he had found the book of the law; Shaphan read it to the king, who tore his clothes and sent Hilkiah, Ahikam, Achbor, Shaphan and Asaiah to inquire of the LORD, fearing wrath because the fathers had not obeyed it.
+
+## Historical setting
+
+**Period:** c. 623–621 BC (Josiah's 18th year)
+
+Judah had been an Assyrian vassal under Manasseh; by the 620s Assyria was declining (Nabopolassar took Babylon's throne in 626, and ABC 3 records Babylonian campaigns against Assyria from 616). Lumby notes that the Temple and the law had been neglected for nearly sixty years under Manasseh and Amon. [1, 2]
+
+### Rulers
+
+- Josiah: King of Judah [3]
+
+## Date and chronology
+
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+- **625 BC – 619 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: reign of Josiah (reign start) → “In the eighteenth year of King Josiah”
+  - Latest bound from: reign of Josiah (reign start) → cst_01M4VCA0AVFCJNMKZNCZENQ1BJ → cst_01M4VCA0AV011N9HHZRH218WA9
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “In the eighteenth year of King Josiah” (2 Kings 22:3) → `years_later` reign of Josiah; assumptions: The eighteenth regnal year begins 16–17 years after accession (non-accession count) or 17–18 years after (accession count) and lasts a year: offset 16–19 years from the start of the reign (operator margin).
+
+## Geography
+
+- Jerusalem (Temple where the book was found; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **An ancient Mosaic book (the Temple copy of the Pentateuch or Deuteronomy), recovered after neglect** (Josephus (Ant. 10.4.2: "the holy books of Moses"), C. F. Keil (1872), A. Clarke and D. J. Wiseman (via Guzik)): The book had been lost during Manasseh's reign; "found" means found, not forged (Keil). [5, 6, 3]
+- **Deuteronomy, composed in the seventh century (not later than Manasseh)** (S. R. Driver (1891), after de Wette): The covenant language and the reform's step-by-step dependence show that the book contained Deuteronomy; its law of a single sanctuary is not presupposed in Joshua–1 Kings, so it is later than the Mosaic age, but probably not by Hilkiah. [7]
+
+## Claims and evidence
+
+### The book found in Josiah's eighteenth year contained Deuteronomy, in whole or in part.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+Interpreters on both sides of the dating question agree that the reform follows Deuteronomy's laws and covenant language (Driver); Keil holds that the book was the Pentateuch, which includes Deuteronomy; Wiseman and Clarke (via Guzik) point to Deuteronomy or Deut 28–31. No copy of the book survives, so this rests on the narrative.
+
+- *Supporting (indirect):* The covenant allusions (23:2–3) and the reform's step-by-step dependence show the book "must have contained Deuteronomy". (pp. 81–82) [7]
+- *Supporting (indirect):* The book of the law is the Temple copy of the Pentateuch (including Deuteronomy). (pp. 478–479 n.) [6]
+- *Supporting (indirect):* Wiseman: identification with Deuteronomy rests on Josiah's actions; Clarke: Deut 28–31. (on 22:8) [3]
+
+*Limitations:* Inference from the narrative only.
+
+### The book found in Josiah's reign was an ancient (Mosaic) text recovered after neglect, not a recent composition.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Josephus calls it the "holy books of Moses" and Keil argues it was the Temple copy of the Pentateuch; Driver (after de Wette) dates Deuteronomy to the seventh century, not later than Manasseh, because Joshua–1 Kings do not presuppose its single-sanctuary law, while rejecting Hilkiah's authorship. The question rests on literary arguments and theological premises, not on external evidence.
+
+- *Supporting (direct):* The high priest found "the holy books of Moses" laid up in the Temple. (Ant. 10.4.2) [5]
+- *Supporting (indirect):* "Find" cannot be turned into "forge"; the history assumes the previous existence of the whole Pentateuch. (pp. 478–479 n.) [6]
+- *Challenging (indirect):* Deuteronomy was written after the Mosaic age, before 621 and probably not later than Manasseh. (pp. 81–82) [7]
+
+*Limitations:* Modern studies (after 1915) not read.
+
+### A City of David bulla of the late Iron Age names "Azariah son of Hilkiah", plausibly the son of the high priest Hilkiah (1 Chr 6:13).
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+As reported, the bulla comes from Shiloh's excavation of the City of David, in the same hoard and stratum as a bulla of Gemariah son of Shaphan. The names match the priestly genealogy (1 Chr 6:13; 9:11), but the seal does not call Hilkiah a priest, and the names were common. Only a secondary report was read; the identity is recorded as a possible identity for owner review.
+
+- *Supporting (indirect):* Bulla "Belonging to Azariah, son of Hilkiah", City of David 1982, with the Gemariah son of Shaphan bulla; concedes it does not name the high priest. (whole page) [8]
+
+*Limitations:* Excavation report and Schneider (BAR 1991) not read. The Armstrong Institute page is an advocacy-leaning popular summary.
+
+## Related passages and events
+
+- this event → **same event** → 2 Chronicles 34:8–21 (high): Chronicles' parallel: repairs, the book found, read to the king.
+- this event → **thematic parallel** → Deuteronomy 31:24–26 (medium): The book of the law placed beside the ark (cited by Guzik). [3]
+- this event → **thematic parallel** → Jeremiah 1:1–2 (low): Jeremiah, son of Hilkiah, called in Josiah's 13th year; whether this Hilkiah is the high priest is not established. [3]
+- this event → **artifact association** → City of David bulla: "Azariah son of Hilkiah" (low): A Jerusalem bulla naming "Azariah son of Hilkiah" (reported). [8]
+- City of David bulla: "Azariah son of Hilkiah" → **possible identity** → Hilkiah (high priest under Josiah) (low): The bulla's "Hilkiah" may be the high priest of 2 Kgs 22 (father of Azariah, 1 Chr 6:13); the seal does not name him as priest. Recorded as possible, not merged. [8]
+- this event → **followed by** → Josiah's delegation consults Huldah the prophetess (high): The king sent to inquire of the LORD.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik takes the eighteenth year with 2 Chr 34 (a commitment at sixteen and a purge four years later), quotes Wiseman that the book is often identified with Deuteronomy, and Clarke that it may be Deut 28–31, even Moses' autograph. [3]
+
+## Unanswered questions and research gaps
+
+- Excavation reports for the City of David bullae (Shiloh) not read.
+- Modern scholarship on the date of Deuteronomy (after 1915) not read.
+- Josephus's "Eliakim" for the high priest not explained.
+- Josephus names the high priest Eliakim, not Hilkiah.
+- Whether Jeremiah's father Hilkiah (Jer 1:1, a priest of Anathoth) is this high priest (Guzik says so; not established).
+
+## Disputes
+
+- The book found in Josiah's reign was an ancient (Mosaic) text recovered after neglect, not a recent composition.
+
+## Sources
+
+1. Lumby, J. Rawson. The Second Book of the Kings, with Introduction and Notes (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1887. <https://archive.org/details/secondbookofking00lumb> — *scholarly commentary; verification: claim checked*
+2. Lendering, Jona (ed.). ABC 3 (Fall of Nineveh Chronicle) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/> — *ancient primary text; verification: claim checked*
+3. Guzik, David. 2 Kings 22 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-22/> — *theological commentary; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+6. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Books of the Kings (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofkings00keil> — *scholarly commentary; verification: claim checked*
+7. Driver, S. R.. An Introduction to the Literature of the Old Testament (1st ed.). T. & T. Clark, Edinburgh, 1891. <https://archive.org/details/introductiontoli0000driv_q2f6> — *academic monograph; verification: claim checked*
+8. Armstrong Institute of Biblical Archaeology. Archaeological Proof for Hilkiah the High Priest. Armstrong Institute (armstronginstitute.org). <https://armstronginstitute.org/175-archaeological-proof-for-hilkiah-the-high-priest> — *popular summary; verification: claim checked*

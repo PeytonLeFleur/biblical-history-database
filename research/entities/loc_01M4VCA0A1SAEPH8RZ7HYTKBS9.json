@@ -1,0 +1,38 @@
+{
+  "kind": "place",
+  "id": "loc_01M4VCA0A1SAEPH8RZ7HYTKBS9",
+  "slug": "bethel",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA091B34TPY4JJRF27ZXR"
+  ],
+  "notes": null,
+  "primary_name": "Bethel",
+  "place_type": "settlement",
+  "modern_name": "Beitin",
+  "modern_country": "Palestinian territories (West Bank)",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Bethela",
+      "language": "Greek/Latin",
+      "period": null,
+      "source_id": "src_01M4VCA091B34TPY4JJRF27ZXR"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4VCA09WQT23XQHC1RP7X814",
+      "label": "Beitin (Pleiades 260940008)",
+      "lat": 31.928333,
+      "lon": 35.238333,
+      "coordinate_precision": "site",
+      "confidence": "probable",
+      "geom_source_id": "src_01M4VCA091B34TPY4JJRF27ZXR",
+      "proponents": [],
+      "reasoning": "Pleiades gives the names Bethela and Bethega for Beitin (certain). Recorded here as probable rather than certain because excavation reports and alternative proposals were not read in this session."
+    }
+  ],
+  "description": "Northern sanctuary of Jeroboam I (1 Kgs 12:29–33); its altar and high place were destroyed by Josiah (2 Kgs 23:15–18)."
+}

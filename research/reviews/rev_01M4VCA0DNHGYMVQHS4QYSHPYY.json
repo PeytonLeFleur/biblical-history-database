@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VCA0DNHGYMVQHS4QYSHPYY",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0BTQ5NWN05EGS4X797Q",
+  "record_revision": 1,
+  "reason": "Proposed identification (2 Kgs 22–23): A son of David named Josiah would burn bones on Jeroboam's altar (1 Kgs 13:2)",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.125Z",
+  "decisions": [],
+  "is_fixture": false
+}

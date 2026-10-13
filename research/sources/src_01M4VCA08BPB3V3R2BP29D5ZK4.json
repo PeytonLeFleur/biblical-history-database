@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+  "title": "Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Josephus",
+    "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 10.4.1–10.5.2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "10.4.1: Josiah king at eight, began reform at twelve, temple repairs (curators include \"Eliakim the high priest\"); 10.4.2: in the eighteenth year the high priest found \"the holy books of Moses\"; Huldah: God would delay the calamities because Josiah was righteous; 10.4.3: covenant with an oath; 10.4.4: bones burned on Jeroboam's altar as the prophet [Jadon] foretold, fulfilled \"after three hundred and sixty-one years\"; 10.4.5: Passover, none like it \"from the times of Samuel\"; 10.5.1: Neco marched to the Euphrates \"to fight with the Medes and Babylonians\"; Josiah blocked him, was shot by an Egyptian archer, retreated to Jerusalem \"and died of that wound\"; lived 39 years, reigned 31; Jeremiah's elegy; 10.5.2: Jehoahaz deposed at Hamath after three months and ten days",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

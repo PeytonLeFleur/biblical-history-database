@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VCA0E0HFDTQC1516N1YV0S",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4VCA0AFJZDNM2RNES06FQWV",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Huldah's oracle: judgment on Jerusalem; Josiah gat): Judgment fulfilled in the Babylonian conquest (597–587/586); delayed beyond Josiah's lifetime",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.136Z",
+  "decisions": [],
+  "is_fixture": false
+}

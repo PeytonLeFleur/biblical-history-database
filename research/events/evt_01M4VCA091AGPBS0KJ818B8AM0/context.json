@@ -1,0 +1,93 @@
+{
+  "event_id": "evt_01M4VCA091AGPBS0KJ818B8AM0",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Josiah broke down the altar and high place Jeroboam had made at Bethel and burned the high place and the Asherah; seeing tombs on the hill he burned their bones on the altar \"according to the LORD's word which the man of God proclaimed\"; he left the tomb of the man of God from Judah and the old prophet from Samaria; he removed the high-place shrines in the cities of Samaria and killed their priests.",
+    "passage": "2Kgs.23.15-2Kgs.23.20"
+  },
+  "setting": {
+    "period": "Late 620s BC",
+    "body": "Bethel lay in the former kingdom of Israel, an Assyrian province after 722. Guzik notes that Assyria's weakness made the intervention possible; ABC 3 shows Assyria fighting for survival against Babylon and the Medes from 616.",
+    "citations": [
+      "src_01M4VCA0881BQ57C15HT6R6FSH",
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+      "reign_id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+    "kgd_01M4RPJVYGDD239HH2H3ZH04MY"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VCA0AVCAFCR7PNKSDHHQ2E",
+      "subject": "evt_01M4VCA091AGPBS0KJ818B8AM0",
+      "object": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "relation": "within_reign",
+      "textual_assertion": "Josiah took away … and did to them according to all the acts that he had done in Bethel",
+      "passage": "2Kgs.23.19",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Kings places the Bethel actions within the reform narrative; their year is not stated."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4VCA0A1SAEPH8RZ7HYTKBS9",
+      "role": "Jeroboam's altar and high place",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Prophecy of 1 Kgs 13:2 fulfilled",
+      "proponents": [
+        "2 Kgs 23:16 (text)",
+        "Josephus (361 years after the prophecy)"
+      ],
+      "summary": "See the prophecy record for the traditional and critical readings.",
+      "citations": [
+        "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VCA0881BQ57C15HT6R6FSH",
+      "layer": "interpretation",
+      "paraphrase": "Guzik calls Josiah's act the remarkable fulfilment of the prophecy of 1 Kgs 13:1–2 and notes that Josiah honoured the anonymous prophet's grave.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-23/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "How far Josiah's control extended into the province of Samaria (2 Chr 34:6 adds Naphtali).",
+    "No excavation report for Iron Age Bethel was read."
+  ],
+  "not_applicable": {}
+}

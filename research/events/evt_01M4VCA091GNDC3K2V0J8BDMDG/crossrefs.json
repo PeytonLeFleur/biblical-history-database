@@ -1,0 +1,220 @@
+{
+  "event_id": "evt_01M4VCA091GNDC3K2V0J8BDMDG",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Topheth",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.23.10",
+        "Jer.7.31",
+        "Jer.7.32",
+        "Jer.19.6",
+        "Jer.19.11",
+        "Jer.19.12",
+        "Jer.19.13",
+        "Jer.19.14"
+      ]
+    },
+    {
+      "name": "Molech",
+      "books_searched": 66,
+      "hits": [
+        "1Kgs.11.7",
+        "2Kgs.23.10",
+        "Jer.32.35",
+        "Lev.18.21",
+        "Lev.20.2",
+        "Lev.20.3",
+        "Lev.20.4",
+        "Lev.20.5"
+      ]
+    },
+    {
+      "name": "Kidron",
+      "books_searched": 66,
+      "hits": [
+        "1Kgs.2.37",
+        "1Kgs.15.13",
+        "2Chr.15.16",
+        "2Chr.29.16",
+        "2Chr.30.14",
+        "2Kgs.23.4",
+        "2Kgs.23.6",
+        "2Kgs.23.12",
+        "2Sam.15.23",
+        "Jer.31.40",
+        "John.18.1"
+      ]
+    },
+    {
+      "name": "Chemosh/Milcom",
+      "books_searched": 66,
+      "hits": [
+        "1Kgs.11.5",
+        "1Kgs.11.7",
+        "1Kgs.11.33",
+        "2Kgs.23.13",
+        "Jer.48.7",
+        "Jer.48.13",
+        "Jer.48.46",
+        "Judg.11.24",
+        "Num.21.29"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VCA0CB7DPC4CMNXSCJC998",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.34.29-2Chr.34.33"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Chronicles' parallel of the covenant.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0CBJXD8REDVTAJDQ88G",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.34.3-2Chr.34.7"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Chronicles places the purge from the twelfth year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4VCA0CBZ1CVRKQHRWS9VVK2",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Zeph.1.4-Zeph.1.6"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Zephaniah, dated to Josiah's days (Zeph 1:1), condemns Baal, the kemarim, the host of heaven and Milcom — the same cults.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0CBXXM05QQJ40SXX7HW",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.7.31"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Topheth in the valley of Hinnom.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0CB6AVGPH5Q1S8SH1BC",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.3.10"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Judah returned \"in pretense\" in Josiah's days (Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VCA0881BQ57C15HT6R6FSH"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0CB9CSQYYV45C5WMJSV",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VCA091AGPBS0KJ818B8AM0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The reform extended to Bethel.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VCA0AVH35EXWTZAFG1J333",
+    "cst_01M4VCA0AVSFEHWV1KGE27BMGA"
+  ]
+}

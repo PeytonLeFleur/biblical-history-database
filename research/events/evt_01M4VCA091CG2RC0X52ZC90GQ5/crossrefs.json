@@ -1,0 +1,327 @@
+{
+  "event_id": "evt_01M4VCA091CG2RC0X52ZC90GQ5",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Josiah",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.3.14",
+        "1Chr.3.15",
+        "1Kgs.13.2",
+        "2Chr.33.25",
+        "2Chr.34.1",
+        "2Chr.34.33",
+        "2Chr.35.1",
+        "2Chr.35.7",
+        "2Chr.35.16",
+        "2Chr.35.18",
+        "2Chr.35.19",
+        "2Chr.35.20",
+        "2Chr.35.22",
+        "2Chr.35.23",
+        "2Chr.35.24",
+        "2Chr.35.25",
+        "2Chr.35.26",
+        "2Chr.36.1",
+        "2Kgs.21.24",
+        "2Kgs.21.26",
+        "2Kgs.22.1",
+        "2Kgs.22.3",
+        "2Kgs.23.16",
+        "2Kgs.23.19",
+        "2Kgs.23.23",
+        "2Kgs.23.24",
+        "2Kgs.23.28",
+        "2Kgs.23.29",
+        "2Kgs.23.30",
+        "2Kgs.23.34",
+        "Jer.1.2",
+        "Jer.1.3",
+        "Jer.3.6",
+        "Jer.22.11",
+        "Jer.22.18",
+        "Jer.25.1",
+        "Jer.25.3",
+        "Jer.26.1",
+        "Jer.27.1",
+        "Jer.35.1",
+        "Jer.36.1",
+        "Jer.36.2",
+        "Jer.36.9",
+        "Jer.37.1",
+        "Jer.45.1",
+        "Jer.46.2",
+        "Matt.1.10",
+        "Matt.1.11",
+        "Zech.6.10",
+        "Zeph.1.1"
+      ]
+    },
+    {
+      "name": "Hilkiah",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.6.13",
+        "1Chr.6.45",
+        "1Chr.9.11",
+        "1Chr.26.11",
+        "2Chr.34.9",
+        "2Chr.34.14",
+        "2Chr.34.15",
+        "2Chr.34.18",
+        "2Chr.34.20",
+        "2Chr.34.22",
+        "2Chr.35.8",
+        "2Kgs.18.18",
+        "2Kgs.18.26",
+        "2Kgs.18.37",
+        "2Kgs.22.4",
+        "2Kgs.22.8",
+        "2Kgs.22.10",
+        "2Kgs.22.12",
+        "2Kgs.22.14",
+        "2Kgs.23.4",
+        "2Kgs.23.24",
+        "Ezra.7.1",
+        "Isa.22.20",
+        "Isa.36.3",
+        "Isa.36.22",
+        "Jer.1.1",
+        "Jer.29.3",
+        "Neh.8.4",
+        "Neh.11.11",
+        "Neh.12.7",
+        "Neh.12.21"
+      ]
+    },
+    {
+      "name": "Shaphan",
+      "books_searched": 66,
+      "hits": [
+        "2Chr.34.8",
+        "2Chr.34.15",
+        "2Chr.34.16",
+        "2Chr.34.18",
+        "2Chr.34.20",
+        "2Kgs.22.3",
+        "2Kgs.22.8",
+        "2Kgs.22.9",
+        "2Kgs.22.10",
+        "2Kgs.22.12",
+        "2Kgs.22.14",
+        "2Kgs.25.22",
+        "Ezek.8.11",
+        "Jer.26.24",
+        "Jer.29.3",
+        "Jer.36.10",
+        "Jer.36.11",
+        "Jer.36.12",
+        "Jer.39.14",
+        "Jer.40.5",
+        "Jer.40.9",
+        "Jer.40.11",
+        "Jer.41.2",
+        "Jer.43.6"
+      ]
+    },
+    {
+      "name": "Ahikam",
+      "books_searched": 66,
+      "hits": [
+        "2Chr.34.20",
+        "2Kgs.22.12",
+        "2Kgs.22.14",
+        "2Kgs.25.22",
+        "Jer.26.24",
+        "Jer.39.14",
+        "Jer.40.5",
+        "Jer.40.6",
+        "Jer.40.7",
+        "Jer.40.9",
+        "Jer.40.11",
+        "Jer.40.14",
+        "Jer.40.16",
+        "Jer.41.1",
+        "Jer.41.2",
+        "Jer.41.6",
+        "Jer.41.10",
+        "Jer.41.16",
+        "Jer.41.18",
+        "Jer.43.6"
+      ]
+    },
+    {
+      "name": "Achbor",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.1.49",
+        "2Kgs.22.12",
+        "2Kgs.22.14",
+        "Gen.36.38",
+        "Gen.36.39",
+        "Jer.26.22",
+        "Jer.36.12"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VCA0BT1VAAN9YXM6DABEMS",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091CG2RC0X52ZC90GQ5"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.34.8-2Chr.34.21"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Chronicles' parallel: repairs, the book found, read to the king.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0BTDYKNNMV82V1Z8DS4",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091CG2RC0X52ZC90GQ5"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Deut.31.24-Deut.31.26"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The book of the law placed beside the ark (cited by Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VCA082VMRB4VA17JHPMEJA"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0BTKRK3KC5AKH798F3A",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091CG2RC0X52ZC90GQ5"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.1.1-Jer.1.2"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "Jeremiah, son of Hilkiah, called in Josiah's 13th year; whether this Hilkiah is the high priest is not established.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VCA082VMRB4VA17JHPMEJA"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0BT3X81BPEHRPJH7TM8",
+      "type": "artifact_association",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091CG2RC0X52ZC90GQ5"
+      },
+      "to": {
+        "kind": "artifact",
+        "id": "art_01M4VCA0AAFW66Z5NSBB7QK08D"
+      },
+      "confidence": "low",
+      "layer": "evidence",
+      "rationale": "A Jerusalem bulla naming \"Azariah son of Hilkiah\" (reported).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VCA08VPN5YQJDNEZGT032H"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VCA0BTEQMG1FZXZ48P9D2A",
+      "type": "possible_identity",
+      "from": {
+        "kind": "artifact",
+        "id": "art_01M4VCA0AAFW66Z5NSBB7QK08D"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4VCA09B9JZRGV1MJCFTV6P1"
+      },
+      "confidence": "low",
+      "layer": "evidence",
+      "rationale": "The bulla's \"Hilkiah\" may be the high priest of 2 Kgs 22 (father of Azariah, 1 Chr 6:13); the seal does not name him as priest. Recorded as possible, not merged.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VCA08VPN5YQJDNEZGT032H"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4VCA0BTDKASH4ZY94PB7DDG",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VCA091CG2RC0X52ZC90GQ5"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The king sent to inquire of the LORD.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VCA0AVH6JDRGH2BJC0ZH61"
+  ]
+}
