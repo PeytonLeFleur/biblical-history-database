@@ -1,0 +1,67 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VMFQ8Q4JJQJF2SCFNPAPJ8",
+  "slug": "my-servant-the-branch-zech-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VMFQ8HQQYT886W60S5VRTE",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "\"My servant the Branch\" and the stone with seven eyes (Zech 3:8–10)",
+  "passage": "Zech.3.8-Zech.3.10",
+  "speaker": "The angel of the LORD (for the LORD of Armies)",
+  "vision_id": "vis_01M4VMFQ8QGCJ1K571242PV3JJ",
+  "description": "Joshua and his colleagues are a sign that the LORD will bring his servant the Branch; the stone with seven eyes will be engraved and the land's iniquity removed in one day; then every man will invite his neighbour under vine and fig tree.",
+  "in_text_interpretation": "The Branch is not named here; Zech 6:12 says \"the man whose name is the Branch … shall build the temple of the LORD\".",
+  "interpretations": [
+    {
+      "id": "ful_01M4VMFQ95F2A6C39NWQXBJE6R",
+      "label": "The Branch is the Messiah (the Davidic Sprout)",
+      "approach": "mixed",
+      "framework": "Traditional Jewish and Christian",
+      "proponents": [
+        "C. F. Keil (1868): Tsemach is \"simply a proper name of the Messiah\", as \"my servant David\" in Ezekiel",
+        "D. Guzik (Isa 4:2; 11:1; Jer 23:5; 33:15)"
+      ],
+      "summary": "Textual reasoning: Branch/Sprout is a Davidic-Messianic title in Jeremiah (23:5; 33:15); removing iniquity \"in one day\" is the Messiah's work (Keil). Christian readers apply it to Jesus. Objection: Mitchell holds that for Zechariah the Shoot is Zerubbabel and that 3:8b is a later gloss.",
+      "referents": [
+        {
+          "symbol": "My servant the Branch",
+          "referent": "The Messiah"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VMFQ8HQQYT886W60S5VRTE"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VMFQ953TSQ4MK7NSJNZTTZ",
+      "label": "The Branch is Zerubbabel; 3:8b is a later gloss",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912), following Marti"
+      ],
+      "summary": "Textual reasoning: Zerubbabel was already in Jerusalem and working, so he could not be \"brought\"; the clause was added by a later reader; 6:12 originally crowned Zerubbabel as the Shoot and was recast for Joshua.",
+      "referents": [
+        {
+          "symbol": "My servant the Branch",
+          "referent": "Zerubbabel"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

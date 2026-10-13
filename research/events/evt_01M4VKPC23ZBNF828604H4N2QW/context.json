@@ -4,8 +4,8 @@
   "resume_from": null,
   "text_summary": {
     "layer": "text",
-    "body": "On 24 Shebat of Darius's second year Zechariah saw (1) a man on a red horse among myrtles with a patrol reporting the earth at rest, and heard the angel of the LORD plead for Jerusalem after \"these seventy years\" and the LORD promise to return with mercy and rebuild; (2) four horns that scattered Judah and four craftsmen to cast them down; (3) a man measuring Jerusalem, told that it would be unwalled for its multitude with the LORD as a wall of fire. An oracle calls the exiles to flee Babylon and promises the LORD's dwelling in Zion and the joining of many nations.",
-    "passage": "Zech.1.7-Zech.2.13"
+    "body": "On 24 Shebat of Darius's second year Zechariah saw (1) a man on a red horse among myrtles with a patrol reporting the earth at rest, and heard the angel of the LORD plead for Jerusalem after \"these seventy years\" and the LORD promise to return with mercy and rebuild; (2) four horns that scattered Judah and four craftsmen to cast them down; (3) a man measuring Jerusalem, told that it would be unwalled for its multitude with the LORD as a wall of fire. An oracle calls the exiles to flee Babylon and promises the LORD's dwelling in Zion and the joining of many nations. (4) Joshua the high priest stood in filthy garments with the satan accusing him; the LORD rebuked the accuser, Joshua was cleansed and given charge of the house, and the LORD announced \"my servant the Branch\" and a stone with seven eyes. (5) A gold lampstand with seven lamps and two olive trees; the word to Zerubbabel, \"not by might, nor by power, but by my Spirit\"; his hands laid the foundation and will finish the house; the olive trees are two anointed ones.",
+    "passage": "Zech.1.7-Zech.4.14"
   },
   "setting": {
     "period": "January–February 519 BC",
@@ -100,6 +100,21 @@
       "citations": [
         "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
       ]
+    },
+    {
+      "term": "sons of oil (benê-hayyiṣhār, 4:14)",
+      "gloss": "Persons associated with oil — those anointed for office (Mitchell; Keil: \"endowed or supplied with oil\").",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    },
+    {
+      "term": "the satan (3:1–2)",
+      "gloss": "With the article: \"the adversary\", the accusing figure in the heavenly court (cf. Job 1–2).",
+      "citations": [
+        "src_01M4VMFQ8HQQYT886W60S5VRTE"
+      ]
     }
   ],
   "competing_reconstructions": [
@@ -133,6 +148,29 @@
       "citations": [
         "src_01M4VKPC1XSDRD4906C2B77VBH",
         "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    },
+    {
+      "label": "The Branch (3:8): the Messiah or Zerubbabel",
+      "proponents": [
+        "C. F. Keil (1868); D. Guzik: the Messiah",
+        "H. G. Mitchell (1912), after Marti: Zerubbabel, with 3:8b a gloss"
+      ],
+      "summary": "See the prophecy record \"my servant the Branch\".",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4VMFQ8HQQYT886W60S5VRTE"
+      ]
+    },
+    {
+      "label": "Zech 4:9 and the date of the foundation",
+      "proponents": [
+        "Read with Ezra 3:8–10 (536) or with Hag 2:18 (520) — see the Ezra 3 foundation event"
+      ],
+      "summary": "\"The hands of Zerubbabel have laid the foundation\" names Zerubbabel, not Sheshbazzar (Ezra 5:16).",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
       ]
     }
   ],

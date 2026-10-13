@@ -1,0 +1,156 @@
+{
+  "book": "Zech",
+  "chapter": 3,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.3.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JAQ8MPCK20E6QHY8W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JAQ8MPCK20E6QHY8W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JAQ8MPCK20E6QHY8W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JAQ8MPCK20E6QHY8W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JAQ8MPCK20E6QHY8W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JAQ8MPCK20E6QHY8W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JAQ8MPCK20E6QHY8W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JKQF9MYFWCQEJP43H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JKQF9MYFWCQEJP43H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.3.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JKQF9MYFWCQEJP43H"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VMFQ9JAQ8MPCK20E6QHY8W",
+      "title": "Fourth night vision: Joshua the high priest accused and cleansed",
+      "passage": "Zech.3.1-Zech.3.7",
+      "description": "Joshua before the angel of the LORD, the satan accusing; the LORD rebukes him; Joshua's filthy garments are replaced; he is promised charge of the LORD's house if he walks in his ways.",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Joshua the high priest",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Job.1.6-Job.1.12",
+        "Jude.1.9",
+        "Ezra.3.2"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"The satan\": a proper name or the title \"the adversary\"."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    },
+    {
+      "id": "cnd_01M4VMFQ9JKQF9MYFWCQEJP43H",
+      "title": "Oracle: my servant the Branch; the stone with seven eyes; vine and fig tree",
+      "passage": "Zech.3.8-Zech.3.10",
+      "description": "Joshua and his fellows are a sign; the LORD will bring his servant the Branch; the engraved stone; iniquity removed in one day; peace under vine and fig tree.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Joshua the high priest",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Jer.23.5",
+        "Jer.33.15",
+        "Isa.11.1",
+        "Zech.6.12",
+        "Mic.4.4"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Identity of the Branch (Messiah or Zerubbabel)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-3-4.md"
+}

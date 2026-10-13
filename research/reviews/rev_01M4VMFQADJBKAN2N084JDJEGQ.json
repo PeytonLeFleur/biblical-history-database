@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VMFQADJBKAN2N084JDJEGQ",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4VMFQ9C6ZZGZZ5YTVQN5GEK",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (\"Not by might … but by my Spirit\": Zerubbabel's hands will f): Fulfilled when the Temple was completed under Darius (515 BC)",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T22:00:19.021Z",
+  "decisions": [],
+  "is_fixture": false
+}

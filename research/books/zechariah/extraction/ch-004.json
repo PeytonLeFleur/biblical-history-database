@@ -1,0 +1,207 @@
+{
+  "book": "Zech",
+  "chapter": 4,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.4.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JEPNC7VKV8FEPXRP3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JEPNC7VKV8FEPXRP3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JEPNC7VKV8FEPXRP3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JEPNC7VKV8FEPXRP3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JEPNC7VKV8FEPXRP3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JQQ31QTWV2V94TZ3A"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JQQ31QTWV2V94TZ3A"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JQQ31QTWV2V94TZ3A"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JQQ31QTWV2V94TZ3A"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JQQ31QTWV2V94TZ3A"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JS6VSFTM19ZP7FQ4H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JS6VSFTM19ZP7FQ4H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JS6VSFTM19ZP7FQ4H"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.4.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VMFQ9JS6VSFTM19ZP7FQ4H"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VMFQ9JEPNC7VKV8FEPXRP3",
+      "title": "Fifth night vision: the golden lampstand and two olive trees",
+      "passage": "Zech.4.1-Zech.4.5",
+      "description": "The angel wakes Zechariah; a gold lampstand with seven lamps and two olive trees beside it.",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Exod.25.31-Exod.25.37",
+        "Rev.11.4"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    },
+    {
+      "id": "cnd_01M4VMFQ9JQQ31QTWV2V94TZ3A",
+      "title": "Word to Zerubbabel: \"not by might, nor by power, but by my Spirit\"; his hands will finish the house",
+      "passage": "Zech.4.6-Zech.4.10",
+      "description": "The mountain will become a plain before Zerubbabel; he will bring out the capstone; his hands laid the foundation and will finish it; the day of small things; the seven are the LORD's eyes.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zerubbabel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.6.14-Ezra.6.15",
+        "Ezra.3.8-Ezra.3.10",
+        "Hag.2.3"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"The hands of Zerubbabel have laid the foundation\" (4:9) — bears on the 536 or 520 date of the foundation."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    },
+    {
+      "id": "cnd_01M4VMFQ9JS6VSFTM19ZP7FQ4H",
+      "title": "The two olive branches explained: the two anointed ones",
+      "passage": "Zech.4.11-Zech.4.14",
+      "description": "The olive trees and the two branches beside the golden spouts are \"the two anointed ones who stand by the Lord of the whole earth\".",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "(the two anointed ones)",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Rev.11.4",
+        "Zech.6.13"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Not named; identified by commentators with Zerubbabel and Joshua."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-3-4.md"
+}

@@ -1,0 +1,44 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4VMFQ8QGCJ1K571242PV3JJ",
+  "slug": "joshua-the-high-priest-cleansed-zech-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VMFQ8HQQYT886W60S5VRTE",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "Joshua the high priest cleansed before the angel of the LORD (fourth night vision)",
+  "passage": "Zech.3.1-Zech.3.10",
+  "recipient_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+  "experience_event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "symbols": [
+    {
+      "symbol": "The satan (the adversary) at Joshua's right hand",
+      "description": "Accuser",
+      "passage": "Zech.3.1-Zech.3.2",
+      "in_text_interpretation": "Rebuked by the LORD, who has chosen Jerusalem (3:2)."
+    },
+    {
+      "symbol": "Filthy garments replaced with rich robes and a clean turban",
+      "description": "Joshua's clothing",
+      "passage": "Zech.3.3-Zech.3.5",
+      "in_text_interpretation": "\"I have caused your iniquity to pass from you\" (3:4)."
+    },
+    {
+      "symbol": "A burning stick plucked from the fire",
+      "description": "Joshua",
+      "passage": "Zech.3.2",
+      "in_text_interpretation": "Not explained further."
+    },
+    {
+      "symbol": "Stone with seven eyes",
+      "description": "Stone set before Joshua",
+      "passage": "Zech.3.9",
+      "in_text_interpretation": "The LORD will engrave it and remove the land's iniquity in one day (3:9)."
+    }
+  ],
+  "description": "Joshua stands before the angel of the LORD in filthy garments with the satan accusing him; the LORD rebukes the accuser; Joshua is cleansed, given a clean turban, promised charge of the LORD's house, and told of \"my servant the Branch\" and a stone with seven eyes."
+}
