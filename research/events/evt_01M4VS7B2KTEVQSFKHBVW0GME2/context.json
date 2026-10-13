@@ -1,0 +1,96 @@
+{
+  "event_id": "evt_01M4VS7B2KTEVQSFKHBVW0GME2",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In Chislev of the twentieth year, in Shushan the citadel, Hanani and men from Judah told Nehemiah that the survivors were in great trouble and Jerusalem's wall was broken down and its gates burned. Nehemiah wept, fasted and prayed, confessing Israel's sins and recalling the promise of gathering in Deut 30, and asked for favour before the king, whose cupbearer he was.",
+    "passage": "Neh.1.1-Neh.1.11"
+  },
+  "setting": {
+    "period": "November–December 446 BC",
+    "body": "On either explanation of 1:1 the report falls in Chislev of 446, about four months before the audience of Nisan 445 (Artaxerxes's twentieth year began 13 April 445 on Parker and Dubberstein's table). Susa was the winter residence of the Persian kings (Batten).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Where Nehemiah received the report",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "The city reported on",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Nehemiah counts the year from autumn (Tishri)",
+      "proponents": [
+        "C. F. Keil (1873)",
+        "J. Wellhausen (as reported by Batten)"
+      ],
+      "summary": "With a Tishri new year, Chislev (3rd month) precedes Nisan (7th) in the same twentieth year.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    },
+    {
+      "label": "The \"twentieth year\" of 1:1 is an error for the nineteenth",
+      "proponents": [
+        "L. W. Batten (1913): an interpolation by the Chronicler"
+      ],
+      "summary": "Nisan of the twentieth year was the first month of that year, so Chislev before it was in the nineteenth.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    },
+    {
+      "label": "Objections to the autumn-year explanation",
+      "proponents": [
+        "H. E. Ryle (1893)"
+      ],
+      "summary": "Nehemiah dates by the Persian king and Babylonian month names; Nisan-based reckoning was almost universal; the Tishri new year is later (Seleucid era, per Jewish tradition).",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VS7B0RPJ0MDN6CTBBHWZ9D",
+      "layer": "interpretation",
+      "paraphrase": "Guzik connects the broken walls with the earlier failed attempt of Ezra 4:6–23.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-1/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

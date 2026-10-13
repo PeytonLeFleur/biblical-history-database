@@ -1,0 +1,123 @@
+{
+  "event_id": "evt_01M4VS7B2KTEVQSFKHBVW0GME2",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Keil, Ryle, Batten on Neh 1:1 (archive.org); P&D",
+      "engine": "local text",
+      "useful_results": 4,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 1",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VS7B2PG04JBHSKMV62V3R9",
+      "statement": "Hanani's report reached Nehemiah in Chislev 446 BC, about four months before the audience of Nisan 445.",
+      "layer": "reconstruction",
+      "passage": "Neh.1.1",
+      "classification": "historically_plausible",
+      "reasoning": "Whether 1:1 uses an autumn-based year (Keil; Wellhausen via Batten) or should read \"nineteenth year\" (Batten), Chislev before Nisan 445 is Chislev 446. Ryle objects to the autumn-year explanation but the Julian result is the same. Depends on the identification of the king with Artaxerxes I.",
+      "supporting_evidence": [
+        "evd_01M4VS7B2P82MHEYG3R6N7RH0H"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VS7B2PEJNJBD4GP8ZJTHZQ",
+        "evd_01M4VS7B2PBRKC7Z4T2NKV0FNR"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VS7B2P82MHEYG3R6N7RH0H",
+      "claim_ids": [
+        "clm_01M4VS7B2PG04JBHSKMV62V3R9"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Year 20 began 13 April 445.",
+      "locator": "Artaxerxes I table",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4VS7B2PEJNJBD4GP8ZJTHZQ",
+      "claim_ids": [
+        "clm_01M4VS7B2PG04JBHSKMV62V3R9"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Autumn-based year: Chislev precedes Nisan in the same year.",
+      "locator": "pp. 163–164",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VS7B2PBRKC7Z4T2NKV0FNR",
+      "claim_ids": [
+        "clm_01M4VS7B2PG04JBHSKMV62V3R9"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "\"Twentieth year\" an interpolation; it must be the nineteenth.",
+      "locator": "on 1:1",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

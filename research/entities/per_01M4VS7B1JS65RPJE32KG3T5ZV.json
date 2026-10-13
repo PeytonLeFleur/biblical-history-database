@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4VS7B1JS65RPJE32KG3T5ZV",
+  "slug": "hanani-brother-of-nehemiah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VS7B0RPJ0MDN6CTBBHWZ9D",
+    "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+  ],
+  "notes": null,
+  "canonical_name": "Hanani, brother of Nehemiah",
+  "aliases": [],
+  "description": "Brought news of Jerusalem's distress to Nehemiah at Susa (Neh 1:2); later placed in charge of Jerusalem (Neh 7:2). Cowley finds no evidence to identify him with the Hananiah of the Elephantine Passover letter.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

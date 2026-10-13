@@ -1,0 +1,24 @@
+{
+  "kind": "document",
+  "id": "doc_01M4VS7B2KNH9Y1CH1BDDAV06C",
+  "slug": "elephantine-papyrus-cowley-30",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+  ],
+  "notes": null,
+  "name": "Elephantine petition to Bigvai, governor of Judah (Cowley 30)",
+  "document_type": "Letter (Aramaic papyrus)",
+  "language": "Aramaic",
+  "standard_reference": "Cowley 30",
+  "artifact_id": null,
+  "date": {
+    "earliest": -407,
+    "latest": -406
+  },
+  "description": "Letter from Yedoniah and the priests of the Jewish garrison at Yeb (Elephantine) to Bigvai, governor of Judah, asking for the rebuilding of their temple destroyed three years earlier; names Johanan the high priest and the sons of Sanballat, governor of Samaria; dated 20 Marheshwan, 17th year of Darius (II).",
+  "editions": [
+    "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+  ]
+}

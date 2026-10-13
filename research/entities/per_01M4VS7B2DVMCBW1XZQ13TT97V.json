@@ -1,0 +1,22 @@
+{
+  "kind": "person",
+  "id": "per_01M4VS7B2DVMCBW1XZQ13TT97V",
+  "slug": "johanan-high-priest",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+  ],
+  "notes": null,
+  "canonical_name": "Johanan the high priest",
+  "aliases": [
+    {
+      "alias": "Jehohanan son of Eliashib (?)",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "Ezra.10.6"
+    }
+  ],
+  "description": "High priest in Jerusalem in 408/407 BC, named in Elephantine papyrus 30; listed in Neh 12:22–23 (grandson of Eliashib). Josephus (Ant. 11.7.1) tells that he killed his brother Jeshua in the Temple.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

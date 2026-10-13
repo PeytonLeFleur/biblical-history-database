@@ -1,0 +1,116 @@
+{
+  "event_id": "evt_01M4VS7B2KTEVQSFKHBVW0GME2",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Nehemiah",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.2.2",
+        "Neh.1.1",
+        "Neh.3.16",
+        "Neh.7.7",
+        "Neh.8.9",
+        "Neh.10.1",
+        "Neh.12.26",
+        "Neh.12.47"
+      ]
+    },
+    {
+      "name": "Hanani",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.25.4",
+        "1Chr.25.25",
+        "1Kgs.16.1",
+        "1Kgs.16.7",
+        "2Chr.16.7",
+        "2Chr.19.2",
+        "2Chr.20.34",
+        "Ezra.10.20",
+        "Neh.1.2",
+        "Neh.7.2",
+        "Neh.12.36"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VS7B2ZXV0WQ41ZFC7TDAWN",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KTEVQSFKHBVW0GME2"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Four months later Nehemiah petitioned the king.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VS7B2ZKEX5A2FMWWZZWGM7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KTEVQSFKHBVW0GME2"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7T5X4NA6JGMH4GG25"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "The broken walls and burned gates may reflect the halt imposed under Artaxerxes (Ezra 4:23) — Guzik; the identification of Ezra 4's kings is disputed.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VS7B0RPJ0MDN6CTBBHWZ9D"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VS7B2ZJZX1Q4NQACAT0WM2",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KTEVQSFKHBVW0GME2"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.9.4-Dan.9.19"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "A confession of national sin in exile (cf. Daniel's prayer).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": []
+}

@@ -1,0 +1,299 @@
+{
+  "book": "Neh",
+  "chapter": 2,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.2.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KTHC42YPYGDAK0333"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KTHC42YPYGDAK0333"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KTHC42YPYGDAK0333"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KTHC42YPYGDAK0333"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KTHC42YPYGDAK0333"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KTHC42YPYGDAK0333"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KTHC42YPYGDAK0333"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2KTHC42YPYGDAK0333"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2K8NAT3VTVJ6HP26R2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2K8NAT3VTVJ6HP26R2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2K8NAT3VTVJ6HP26R2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.2.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VS7B2K8NAT3VTVJ6HP26R2"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VS7B2KECV0WXNXMRJJY9WJ",
+      "title": "Nisan of Artaxerxes's twentieth year: the king grants Nehemiah leave, letters and timber",
+      "passage": "Neh.2.1-Neh.2.8",
+      "description": "Serving wine, Nehemiah's sadness is noticed; he asks to be sent to rebuild the city of his fathers' tombs; the king, the queen beside him, sets a time and grants letters to the governors beyond the River and to Asaph the keeper of the king's forest.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Artaxerxes the king",
+          "matched_entity_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nehemiah",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Neh.2.1",
+          "phrase": "in the month Nisan, in the twentieth year of Artaxerxes the king",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Dan.9.25",
+        "Ezra.7.11-Ezra.7.26"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+    },
+    {
+      "id": "cnd_01M4VS7B2KTHC42YPYGDAK0333",
+      "title": "Arrival with an escort; Sanballat and Tobiah grieved; the night inspection of the walls",
+      "passage": "Neh.2.9-Neh.2.16",
+      "description": "Nehemiah came to the governors beyond the River with army officers and horsemen; Sanballat the Horonite and Tobiah the Ammonite were displeased; after three days he went out by night through the Valley Gate past the Dragon's Well to the Dung Gate, the Fountain Gate and the King's Pool, up the valley, and returned.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Sanballat the Horonite",
+          "matched_entity_id": "per_01M4VS7B1QA1MFQVDKJF2F9KAB",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Tobiah the servant, the Ammonite",
+          "matched_entity_id": "per_01M4VS7B22SPBEE15BPDG89BCS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nehemiah",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.8.22",
+        "Neh.3.13-Neh.3.15"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VS7B2KHNJMCTTA8A1P6494"
+    },
+    {
+      "id": "cnd_01M4VS7B2K8NAT3VTVJ6HP26R2",
+      "title": "\"Let us rise up and build\"; mockery from Sanballat, Tobiah and Geshem",
+      "passage": "Neh.2.17-Neh.2.20",
+      "description": "Nehemiah urged the leaders to rebuild the wall, telling of God's hand and the king's words; Sanballat, Tobiah and Geshem the Arab mocked and accused them of rebellion; Nehemiah replied that they had no portion in Jerusalem.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Sanballat",
+          "matched_entity_id": "per_01M4VS7B1QA1MFQVDKJF2F9KAB",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Tobiah",
+          "matched_entity_id": "per_01M4VS7B22SPBEE15BPDG89BCS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Geshem the Arabian",
+          "matched_entity_id": "per_01M4VS7B27C2ZJSP12B4V8M9TS",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VS7B2KHNJMCTTA8A1P6494"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-1-2.md"
+}

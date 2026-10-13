@@ -1,0 +1,17 @@
+{
+  "kind": "person",
+  "id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+  "slug": "nehemiah-son-of-hacaliah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VS7B0RPJ0MDN6CTBBHWZ9D",
+    "src_01M4VS7B0Y79HNZN3A47TBJP4F",
+    "src_01M4VS7B16XH8HCZS3XB23FBQG"
+  ],
+  "notes": null,
+  "canonical_name": "Nehemiah son of Hacaliah",
+  "aliases": [],
+  "description": "Cupbearer to Artaxerxes at Susa, appointed governor of Judah, who rebuilt Jerusalem's walls (Neh 1–13). Josephus makes him cupbearer to Xerxes.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

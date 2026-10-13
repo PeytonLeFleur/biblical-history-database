@@ -1,0 +1,153 @@
+{
+  "event_id": "evt_01M4VS7B2KHNJMCTTA8A1P6494",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Cowley, Aramaic Papyri 1923, No. 30 (archive.org)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.5.6–8 (local Gutenberg)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 2",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VS7B2QB11MJ03EDR6RZ3EK",
+      "statement": "An Elephantine letter dated in Darius II's 17th year (408/407 BC) names Johanan the high priest in Jerusalem and the sons of Sanballat, governor of Samaria.",
+      "layer": "evidence",
+      "passage": "Neh.2.10",
+      "classification": "independently_corroborated",
+      "reasoning": "Read directly in Cowley's edition and translation of papyrus 30 (lines 18, 29–30). The letter is an independent Persian-period document; it confirms the existence and office of a Sanballat of Samaria and of the high priest Johanan (Neh 12:22–23).",
+      "supporting_evidence": [
+        "evd_01M4VS7B2QB8DDZYCSVYY1B9T5"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "The papyrus itself was not examined; Cowley's text and translation were used."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VS7B2Q2SK0J5KJEC3RSYBD",
+      "statement": "Nehemiah's opponent Sanballat is the Sanballat, governor of Samaria, of the Elephantine letter.",
+      "layer": "reconstruction",
+      "passage": "Neh.2.10",
+      "classification": "historically_plausible",
+      "reasoning": "Cowley identifies them; the papyrus speaks of his sons as active in 408/407, consistent with a governor active in Nehemiah's time (445–433) who was old by then. Josephus's later Sanballat (under Darius III) is generally regarded as a telescoped account (Cowley).",
+      "supporting_evidence": [
+        "evd_01M4VS7B2QF1ZN48B7E69QWY1Z"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VS7B2QYCEPGSZWEJCE9XMX"
+      ],
+      "limitations": [
+        "Modern discussion of a possible second Sanballat (Samaria papyri) not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VS7B2QB8DDZYCSVYY1B9T5",
+      "claim_ids": [
+        "clm_01M4VS7B2QB11MJ03EDR6RZ3EK"
+      ],
+      "source_id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "\"Johanan the high priest\"; \"Delaiah and Shelemiah the sons of Sanballat governor of Samaria\"; dated 20 Marheshwan, 17th year of Darius.",
+      "locator": "No. 30, lines 18, 29–30",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "elephantine-papyri"
+    },
+    {
+      "id": "evd_01M4VS7B2QF1ZN48B7E69QWY1Z",
+      "claim_ids": [
+        "clm_01M4VS7B2Q2SK0J5KJEC3RSYBD"
+      ],
+      "source_id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Nehemiah's Sanballat is \"no doubt\" the governor of Samaria of the papyrus; his title is implied in Nehemiah.",
+      "locator": "pp. 109–110",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "elephantine-papyri"
+    },
+    {
+      "id": "evd_01M4VS7B2QYCEPGSZWEJCE9XMX",
+      "claim_ids": [
+        "clm_01M4VS7B2Q2SK0J5KJEC3RSYBD"
+      ],
+      "source_id": "src_01M4VS7B16XH8HCZS3XB23FBQG",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Josephus places Nehemiah under Xerxes and his Sanballat under \"Darius the last king\" — a telescoped history (Cowley).",
+      "locator": "Ant. 11.5.6–8; cf. 11.7–8",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Wadi Daliyeh (Samaria) papyri not researched.",
+    "Archaeology of Nehemiah's wall and gates deferred to the Neh 3 unit."
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "event_id": "evt_01M4VS7B2KHNJMCTTA8A1P6494",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Sanballat",
+      "books_searched": 66,
+      "hits": [
+        "Neh.2.10",
+        "Neh.2.19",
+        "Neh.4.1",
+        "Neh.4.7",
+        "Neh.6.1",
+        "Neh.6.2",
+        "Neh.6.5",
+        "Neh.6.12",
+        "Neh.6.14",
+        "Neh.13.28"
+      ]
+    },
+    {
+      "name": "Tobiah",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.2.60",
+        "Neh.2.10",
+        "Neh.2.19",
+        "Neh.4.3",
+        "Neh.4.7",
+        "Neh.6.1",
+        "Neh.6.12",
+        "Neh.6.14",
+        "Neh.6.17",
+        "Neh.6.19",
+        "Neh.7.62",
+        "Neh.13.4",
+        "Neh.13.7",
+        "Neh.13.8"
+      ]
+    },
+    {
+      "name": "Geshem/Gashmu",
+      "books_searched": 66,
+      "hits": [
+        "Neh.2.19",
+        "Neh.6.1",
+        "Neh.6.2",
+        "Neh.6.6"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VS7B36X2D7GV8GY63Y4RQ1",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KHNJMCTTA8A1P6494"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Nehemiah came with the king's letters.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VS7B37MZHXHYHK5QQJEZSV",
+      "type": "source_attestation",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KHNJMCTTA8A1P6494"
+      },
+      "to": {
+        "kind": "document",
+        "id": "doc_01M4VS7B2KNH9Y1CH1BDDAV06C"
+      },
+      "confidence": "medium",
+      "layer": "evidence",
+      "rationale": "The Elephantine letter attests Sanballat as governor of Samaria and Johanan as high priest a generation later.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VS7B37SMKC03HKGE5R2Q4H",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KHNJMCTTA8A1P6494"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Nehemiah accepted a royal escort; Ezra had declined one (Ezra 8:22).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VS7B3715489Y7ZTWDBJGJY",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VS7B2KHNJMCTTA8A1P6494"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The gates \"consumed with fire\" — the city's walls lay ruined since the destruction (or since a later attack; not stated).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VS7B2NDKK5TFD61NCAR7GA",
+    "cst_01M4VS7B2N0AYMCJVXZ68M694Y"
+  ]
+}
