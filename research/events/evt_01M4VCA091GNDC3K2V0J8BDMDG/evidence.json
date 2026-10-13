@@ -1,0 +1,139 @@
+{
+  "event_id": "evt_01M4VCA091GNDC3K2V0J8BDMDG",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word 2 Kings 23",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.4.3–5",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1872 pp. 473–475",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "ABC 3 (Livius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "No astronomical data bear on the event."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VCA0BKTMSN7BHYRH6BGEK4",
+      "statement": "All of the reforms narrated in 2 Kgs 22:3–23:23 took place within Josiah's eighteenth year.",
+      "layer": "reconstruction",
+      "passage": "2Kgs.23.23",
+      "classification": "disputed",
+      "reasoning": "Kings frames the account with two \"eighteenth year\" notices (22:3; 23:23). Keil argues that the purge began earlier (2 Chr 34:3, the twelfth year) and was gathered under the eighteenth year by subject; Ussher (as reported by Keil) compressed it into the year. Josephus has the reform begin when Josiah was twelve.",
+      "supporting_evidence": [],
+      "counterevidence": [
+        "evd_01M4VCA0BKNEXHMZ6ZJAMAQVPZ",
+        "evd_01M4VCA0BKWMM59SN6ABGFDTV3"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VCA0BKRW3J7T9F2XR9M075"
+      ],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VCA0BKNEXHMZ6ZJAMAQVPZ",
+      "claim_ids": [
+        "clm_01M4VCA0BKTMSN7BHYRH6BGEK4"
+      ],
+      "source_id": "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The reform cannot all fall within the eighteenth year; the narrative is arranged by subject.",
+      "locator": "pp. 473–475",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1872"
+    },
+    {
+      "id": "evd_01M4VCA0BKWMM59SN6ABGFDTV3",
+      "claim_ids": [
+        "clm_01M4VCA0BKTMSN7BHYRH6BGEK4"
+      ],
+      "source_id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Josiah began to remove idolatry at twelve, before the book was found.",
+      "locator": "Ant. 10.4.1",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VCA0BKRW3J7T9F2XR9M075",
+      "claim_ids": [
+        "clm_01M4VCA0BKTMSN7BHYRH6BGEK4"
+      ],
+      "source_id": "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Ussher placed the Passover at the close of the eighteenth year.",
+      "locator": "p. 474",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ussher-via-keil"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Archaeological evidence for the removal of cult places (e.g. Judahite shrines) not researched in this unit."
+  ]
+}

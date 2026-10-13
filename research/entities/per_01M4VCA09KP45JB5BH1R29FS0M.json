@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4VCA09KP45JB5BH1R29FS0M",
+  "slug": "huldah-the-prophetess",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA082VMRB4VA17JHPMEJA",
+    "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+  ],
+  "notes": null,
+  "canonical_name": "Huldah the prophetess",
+  "aliases": [],
+  "description": "Prophetess in Jerusalem's \"second quarter\", wife of Shallum keeper of the wardrobe, consulted on the found book (2 Kgs 22:14–20; 2 Chr 34:22–28).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

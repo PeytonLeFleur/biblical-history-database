@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VCA082VMRB4VA17JHPMEJA",
+  "title": "2 Kings 22 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/2-kings-22/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the commentary on 2 Kings 22",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Josiah king at eight after Amon's assassination; 2 Chr 34 has a commitment at 16 and a purge four years later (Wiseman: the two-stage sequence may suit the Chronicler's emphases); Jeremiah identified as son of this Hilkiah (Jer 1:1); law book possibly Deuteronomy (Wiseman: Josiah's acts depend on it) or Deut 28–31 (Clarke), even Moses' autograph (Clarke); Huldah otherwise known only from 2 Chr 34:22; Zephaniah active (Wiseman); \"in peace\" explained three ways though Josiah died in battle; Knapp: 1 Kgs 13:2 fulfilled after more than three hundred years",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

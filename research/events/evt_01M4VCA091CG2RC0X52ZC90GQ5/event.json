@@ -1,0 +1,65 @@
+{
+  "id": "evt_01M4VCA091CG2RC0X52ZC90GQ5",
+  "slug": "book-of-the-law-found-in-the-temple",
+  "title": "Temple repairs and the finding of the book of the law (Josiah's 18th year)",
+  "summary": "During Temple repairs in Josiah's eighteenth year the high priest Hilkiah found \"the book of the law\"; Shaphan read it to the king, who tore his clothes and sent to inquire of the LORD.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VCA0ARC58WBNRGM4M01417"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious",
+    "construction"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "2Kgs.22.3-2Kgs.22.13",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "2Chr.34.8-2Chr.34.21",
+      "mention_type": "parallel_account",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

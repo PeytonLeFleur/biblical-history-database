@@ -1,0 +1,54 @@
+{
+  "event_id": "evt_01M4VCA091GNDC3K2V0J8BDMDG",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4VCA0BP4GGMH8EARNV2Y8R2",
+    "rev_01M4VCA6Q7HYPDXVPV9RAN17KH"
+  ],
+  "research_gaps": [
+    "Archaeological evidence for the removal of cult places (e.g. Judahite shrines) not researched in this unit."
+  ],
+  "disputes": [
+    "All of the reforms narrated in 2 Kgs 22:3–23:23 took place within Josiah's eighteenth year."
+  ],
+  "export_eligible": true
+}

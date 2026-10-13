@@ -1,0 +1,24 @@
+{
+  "kind": "artifact",
+  "id": "art_01M4VCA0AAFW66Z5NSBB7QK08D",
+  "slug": "bulla-azaryahu-son-of-hilkiyahu",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA08VPN5YQJDNEZGT032H"
+  ],
+  "notes": null,
+  "name": "City of David bulla: \"Azariah son of Hilkiah\"",
+  "artifact_type": "Clay seal impression (bulla)",
+  "findspot_site_id": null,
+  "findspot_description": "Excavated by Y. Shiloh in 1982 in the City of David, Jerusalem (\"house of bullae\", a hoard of 51 bullae), in the same stratum as the bulla of Gemariah son of Shaphan (as reported by the Armstrong Institute, quoting T. Schneider).",
+  "current_institution": null,
+  "accession_number": null,
+  "date": {
+    "earliest": -620,
+    "latest": -586
+  },
+  "description": "Reads \"(Belonging) to Azariah son of Hilkiah\" (English as reported). It does not state that Hilkiah was the high priest. The date range is the operator's reading of \"roughly the time of\" Nebuchadnezzar's campaigns in the report; the excavation report was not read.",
+  "image": null,
+  "institution_url": null
+}

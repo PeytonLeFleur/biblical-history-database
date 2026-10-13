@@ -1,0 +1,65 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+  "slug": "josiah-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+    "src_01M4VCA082VMRB4VA17JHPMEJA",
+    "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+  ],
+  "notes": "Model-independent. Thiele (1983, not read directly) is commonly reported as 641/640–609.",
+  "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": null,
+  "title": "King of Judah",
+  "start": {
+    "earliest": -640,
+    "latest": -638
+  },
+  "end": {
+    "earliest": -608,
+    "latest": -608
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 31,
+  "stated_length_passage": "2Kgs.22.1",
+  "start_window": {
+    "from": {
+      "year": -640,
+      "month": 1,
+      "day": 1
+    },
+    "to": {
+      "year": -638,
+      "month": 12,
+      "day": 31
+    },
+    "basis": "Thirty-one years (2 Kgs 22:1; Josephus Ant. 10.5.1) counted back from his death in 609. Whether Judah counted accession years, and from Nisan or Tishri, is not settled here, so the window spans 641–639 BC (operator margin).",
+    "citations": [
+      "src_01M4VCA082VMRB4VA17JHPMEJA",
+      "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -608,
+      "month": 3,
+      "day": 1
+    },
+    "to": {
+      "year": -608,
+      "month": 7,
+      "day": 31
+    },
+    "basis": "Josiah fell as Necho marched to the Euphrates (2 Kgs 23:29); ABC 3 has the Egyptian army cross the Euphrates against Harran in Du'ûzu of Nabopolassar's 17th year (609) and besiege it until Ulûlu. The death therefore preceded the crossing; 1 March is an operator margin for the start of the campaigning season.",
+    "citations": [
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+    ]
+  },
+  "regnal_convention": null
+}

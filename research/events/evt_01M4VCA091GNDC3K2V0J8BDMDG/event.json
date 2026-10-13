@@ -1,0 +1,78 @@
+{
+  "id": "evt_01M4VCA091GNDC3K2V0J8BDMDG",
+  "slug": "josiahs-covenant-and-reform-in-judah",
+  "title": "Josiah's covenant and the purge of Jerusalem and Judah",
+  "summary": "Josiah read the book of the covenant to the assembled people and made a covenant; the Temple was cleared of objects for Baal, Asherah and the host of heaven; idolatrous priests, high places from Geba to Beersheba, Topheth, the sun-horses and chariots and the royal altars were removed.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VCA0ARQBM4SAZA9KAFDR1J",
+    "cnd_01M4VCA0AR1JKESN526QNTSEKN",
+    "cnd_01M4VCA0ARPKN4HYP6EX0PKBV1"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious",
+    "destruction",
+    "legal"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "2Kgs.23.1-2Kgs.23.14",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "2Kgs.23.24-2Kgs.23.27",
+      "mention_type": "narration",
+      "notes": "Mediums and household gods removed; evaluation of Josiah."
+    },
+    {
+      "passage": "2Chr.34.3-2Chr.34.7",
+      "mention_type": "parallel_account",
+      "notes": "Chronicles places the purge from the twelfth year."
+    },
+    {
+      "passage": "2Chr.34.29-2Chr.34.33",
+      "mention_type": "parallel_account",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

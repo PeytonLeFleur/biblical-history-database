@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VCA0DKTEHS00A813CBVBA7",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0BTKAT4J3G2RB5RET7Q",
+  "record_revision": 1,
+  "reason": "Proposed identification (2 Kgs 22–23): \"Gathered to your grave in peace … your eyes will not see all the evil\" (2 Kgs 22:20)",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.123Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,23 @@
+{
+  "kind": "person",
+  "id": "per_01M4VCA09B9JZRGV1MJCFTV6P1",
+  "slug": "hilkiah-high-priest",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA082VMRB4VA17JHPMEJA",
+    "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+  ],
+  "notes": null,
+  "canonical_name": "Hilkiah (high priest under Josiah)",
+  "aliases": [
+    {
+      "alias": "Eliakim (Josephus)",
+      "language": "Greek (Josephus)",
+      "source_id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+      "passage": null
+    }
+  ],
+  "description": "High priest who found the \"book of the law\" during the Temple repairs (2 Kgs 22:4–8). Josephus calls the high priest of this episode Eliakim (Ant. 10.4.1–2). Guzik identifies him with Jeremiah's father (Jer 1:1); that identification is not established and is not made here.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

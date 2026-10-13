@@ -5977,5 +5977,378 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA082VMRB4VA17JHPMEJA",
+  "title": "2 Kings 22 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/2-kings-22/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on 2 Kings 22",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Josiah king at eight after Amon's assassination; 2 Chr 34 has a commitment at 16 and a purge four years later (Wiseman: the two-stage sequence may suit the Chronicler's emphases); Jeremiah identified as son of this Hilkiah (Jer 1:1); law book possibly Deuteronomy (Wiseman: Josiah's acts depend on it) or Deut 28–31 (Clarke), even Moses' autograph (Clarke); Huldah otherwise known only from 2 Chr 34:22; Zephaniah active (Wiseman); \"in peace\" explained three ways though Josiah died in battle; Knapp: 1 Kgs 13:2 fulfilled after more than three hundred years",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA0881BQ57C15HT6R6FSH",
+  "title": "2 Kings 23 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/2-kings-23/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on 2 Kings 23",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Covenant compared with Mizpah and Shechem (Wiseman); kemarim priests (Clarke); horses of the sun attested in Assyrian and Aramean sources (Patterson and Austel); Bethel reform possible because Assyria was weak; 1 Kgs 13:1–2 fulfilled; Passover; 23:29 \"went to the aid of the king of Assyria\" (NKJV) — Assyria allied with Egypt against Babylon; Josiah shot by archers after ignoring Necho's warning (2 Chr 35:20–25); place Hadad-rimmon (Clarke, Zech 12:11); Jehoahaz = Shallum, a throne name, primogeniture overridden (Wiseman); Jehoiakim's palace by forced labour (Wiseman)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+  "title": "Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Josephus",
+   "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 10.4.1–10.5.2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "10.4.1: Josiah king at eight, began reform at twelve, temple repairs (curators include \"Eliakim the high priest\"); 10.4.2: in the eighteenth year the high priest found \"the holy books of Moses\"; Huldah: God would delay the calamities because Josiah was righteous; 10.4.3: covenant with an oath; 10.4.4: bones burned on Jeroboam's altar as the prophet [Jadon] foretold, fulfilled \"after three hundred and sixty-one years\"; 10.4.5: Passover, none like it \"from the times of Samuel\"; 10.5.1: Neco marched to the Euphrates \"to fight with the Medes and Babylonians\"; Josiah blocked him, was shot by an Egyptian archer, retreated to Jerusalem \"and died of that wound\"; lived 39 years, reigned 31; Jeremiah's elegy; 10.5.2: Jehoahaz deposed at Hamath after three months and ten days",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA08E102VYPRZ176S6XZX",
+  "title": "Herodotus, Histories 2.159 (trans. G. C. Macaulay)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Herodotus",
+   "Macaulay, G. C. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2707",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2707",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Herodotus, Histories 2.159",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text (vol. 1)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Necos built triremes; \"on land Necos engaged battle at Magdolos with the Syrians, and conquered them; and after this he took Cadytis\"; reigned sixteen years in all",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+  "title": "Biblical Commentary on the Books of the Kings (Clark's Foreign Theological Library)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Keil, C. F.",
+   "Martin, James (trans.)"
+  ],
+  "publisher": "T. & T. Clark, Edinburgh, 1872",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/booksofkings00keil",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1872)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the OCR text of the 1872 translation",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "pp. 473–475: the reform cannot all fall within the eighteenth year (against Ussher's placing of the Passover at its close); the narrative groups by subject; idolatry's removal began earlier (2 Chr 34:3); pp. 478–479 (notes): the \"book of the law\" is the Temple copy of the Pentateuch, not a separate collection; de Wette conceded this as the first certain trace of the Pentateuch; \"find\" is not \"forge\"; on 22:20 \"gathered to his fathers\" is used also of death in battle, \"in peace\" = without seeing Jerusalem's devastation; pp. 493–496: Josiah opposed Necho to keep Judah from Egyptian control; Herodotus's Magdolos is a confusion with Megiddo, not the Egyptian Migdol (against Movers); Necho probably came by sea to Acco; Chronicles does not affirm that Josiah died in Jerusalem",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+  "title": "The Second Book of the Kings, with Introduction and Notes (Cambridge Bible for Schools and Colleges)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Lumby, J. Rawson"
+  ],
+  "publisher": "Cambridge University Press, 1887",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/secondbookofking00lumb",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1887)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the OCR text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "On 22:8: the law had been neglected for nearly sixty years under Manasseh and Amon, so its loss is unsurprising; on 22:20 \"in peace\": none of the denounced evils would come in his time; on 23:29: Necho's \"expedition against the king of Assyria was B.C. 610\"; Necho probably came by sea; \"Josiah at this time was in alliance with, or perhaps tributary to, Assyria\"; on 23:30: from Zech 12:11 it \"has been supposed that Josiah did not die till he reached Hadad-Rimmon\"; Jeremiah's dirge probably lost; on 23:22–23: Kings omits Hezekiah's passover; the point is that none had been kept in this complete form since Samuel",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text. Written before ABC 3 was published (1923).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA08RM9RP8B8ZRC7YP4KM",
+  "title": "An Introduction to the Literature of the Old Testament (1st ed.)",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Driver, S. R."
+  ],
+  "publisher": "T. & T. Clark, Edinburgh, 1891",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/introductiontoli0000driv_q2f6",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1891)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the OCR text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "pp. 81–82: Deuteronomy must have been written before the eighteenth year of Josiah (B.C. 621), when Hilkiah found the \"book of the law\"; that book \"must have contained Deuteronomy\" (covenant allusions, 23:2–3; the reform follows Dt step by step); Hilkiah's authorship improbable; composition \"not later than the reign of Manasseh\"; p. 183: the prophecy against the altar of Bethel (1 Kgs 13) is \"a narrative not probably of very early origin\", the names of both prophets being no longer remembered",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text of the 1891 first edition.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA08VPN5YQJDNEZGT032H",
+  "title": "Archaeological Proof for Hilkiah the High Priest",
+  "source_type": "popular_summary",
+  "authors": [
+   "Armstrong Institute of Biblical Archaeology"
+  ],
+  "publisher": "Armstrong Institute (armstronginstitute.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://armstronginstitute.org/175-archaeological-proof-for-hilkiah-the-high-priest",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the print page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Bulla \"Belonging to Azariah, son of Hilkiah\" excavated by Yigal Shiloh in 1982 in the City of David (\"house of bullae\", 51 bullae), found in the same stratum as the Gemariah son of Shaphan bulla (quoting Schneider); concedes the bulla \"does not explicitly say that it belonged to the high priest\"; a second seal \"Hanan son of Hilkiah the priest\" is unprovenanced (antiquities market, published by J. Elayi 1987)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Popular, advocacy-leaning summary; cites T. Schneider, Biblical Archaeology Review July–August 1991 (not read). Treated as a secondary report only.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA08Y42A9HAYK3C669P00",
+  "title": "Magidû (Megiddo) — Pleiades place 26356565",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/26356565",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched https://pleiades.stoa.org/places/26356565/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Names Tel Megiddo, Magidû, Megiddo (all \"certain\"); modern Tell al-Mutesellim; reprPoint lon 35.18373, lat 32.58378",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 35.18373, lat 32.58378.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4VCA091B34TPY4JJRF27ZXR",
+  "title": "Beitin (Bethel) — Pleiades place 260940008",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/260940008",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched https://pleiades.stoa.org/places/260940008/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Title Beitin; names Bethela, Bethega (certain); reprPoint lon 35.238333, lat 31.928333",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 35.238333, lat 31.928333. Pleiades gives the names Bethela and Bethega (certain) for Beitin.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

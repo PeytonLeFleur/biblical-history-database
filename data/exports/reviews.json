@@ -2053,5 +2053,174 @@
   "status": "open",
   "created_at": "2026-10-13T18:33:53.549Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0BHEA4PPQK9R7GH1RG2",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VCA0AXC3T8DJTE93MSA2ZA",
+  "record_revision": 1,
+  "reason": "Disputed: was Josiah's law book an ancient Mosaic text or a seventh-century composition (2 Kgs 22:8)?",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.057Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0BP4GGMH8EARNV2Y8R2",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VCA0BKTMSN7BHYRH6BGEK4",
+  "record_revision": 1,
+  "reason": "Disputed: did Josiah's whole reform fall in his eighteenth year (2 Kgs 22:3; 23:23) or span several years (2 Chr 34:3)?",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.062Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0BSH9EYN1A3A4M7QY86",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VCA0BQSQCMRCTNXD9Y1FRP",
+  "record_revision": 1,
+  "reason": "Disputed: did Josiah die at Megiddo (2 Kgs 23:29–30) or after reaching Jerusalem (2 Chr 35:24; Josephus)?",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.065Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0DGFBH9D7YX1VPAYT0G",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0BTHSJQ5SXDBNRPH8BA",
+  "record_revision": 1,
+  "reason": "Proposed identification (2 Kgs 22–23): The evil announced on \"this place\" (2 Kgs 22:16–17)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.120Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0DKTEHS00A813CBVBA7",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0BTKAT4J3G2RB5RET7Q",
+  "record_revision": 1,
+  "reason": "Proposed identification (2 Kgs 22–23): \"Gathered to your grave in peace … your eyes will not see all the evil\" (2 Kgs 22:20)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.123Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0DNHGYMVQHS4QYSHPYY",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0BTQ5NWN05EGS4X797Q",
+  "record_revision": 1,
+  "reason": "Proposed identification (2 Kgs 22–23): A son of David named Josiah would burn bones on Jeroboam's altar (1 Kgs 13:2)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.125Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0DQEMM12KCF6KQ418D1",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0BTEQMG1FZXZ48P9D2A",
+  "record_revision": 1,
+  "reason": "Possible identity: the \"Hilkiah\" of the City of David bulla and the high priest Hilkiah",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.127Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0E0HFDTQC1516N1YV0S",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4VCA0AFJZDNM2RNES06FQWV",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Huldah's oracle: judgment on Jerusalem; Josiah gat): Judgment fulfilled in the Babylonian conquest (597–587/586); delayed beyond Josiah's lifetime",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.136Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0E2F6PYVC65N6QSX9RW",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4VCA0AF43F76QYGWQEBWW1X",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Huldah's oracle: judgment on Jerusalem; Josiah gat): \"Gathered to your grave in peace\" fulfilled in Josiah's death before the catastrophe, though he died in battle",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.138Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0EA67RQVNTF6M0YY4F8",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4VCA0AKPGR1ZH7VT0CYX5M4",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (The man of God from Judah against the altar of Bet): Predictive prophecy in Jeroboam's time, fulfilled by Josiah at Bethel (c. 622/621)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.146Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA0ECPE2N446379DNJKGJ",
+  "record_kind": "event",
+  "record_id": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Josiah killed at Megiddo by Necho II (609 BC), synchronised with ABC 3",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:23.148Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA6Q3MN1VVJNCERS0CK6P",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0CPB8H3ZZGHRQ3GTP3G",
+  "record_revision": 1,
+  "reason": "Same event (medium confidence): Chronicles: the purge reached the cities of Manasseh, Ephraim, Simeon and Naphtali",
+  "triggers": [
+   "same_event"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:29.572Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4VCA6Q7HYPDXVPV9RAN17KH",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0CBJXD8REDVTAJDQ88G",
+  "record_revision": 1,
+  "reason": "Same event (medium confidence): Chronicles places the purge from the twelfth year",
+  "triggers": [
+   "same_event"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:29.575Z",
+  "decisions": []
  }
 ]

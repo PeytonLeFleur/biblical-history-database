@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+  "title": "Biblical Commentary on the Books of the Kings (Clark's Foreign Theological Library)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Keil, C. F.",
+    "Martin, James (trans.)"
+  ],
+  "publisher": "T. & T. Clark, Edinburgh, 1872",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/booksofkings00keil",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1872)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text of the 1872 translation",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 473–475: the reform cannot all fall within the eighteenth year (against Ussher's placing of the Passover at its close); the narrative groups by subject; idolatry's removal began earlier (2 Chr 34:3); pp. 478–479 (notes): the \"book of the law\" is the Temple copy of the Pentateuch, not a separate collection; de Wette conceded this as the first certain trace of the Pentateuch; \"find\" is not \"forge\"; on 22:20 \"gathered to his fathers\" is used also of death in battle, \"in peace\" = without seeing Jerusalem's devastation; pp. 493–496: Josiah opposed Necho to keep Judah from Egyptian control; Herodotus's Magdolos is a confusion with Megiddo, not the Egyptian Migdol (against Movers); Necho probably came by sea to Acco; Chronicles does not affirm that Josiah died in Jerusalem",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

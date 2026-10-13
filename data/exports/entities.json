@@ -98,6 +98,30 @@
   "institution_url": null
  },
  {
+  "kind": "artifact",
+  "id": "art_01M4VCA0AAFW66Z5NSBB7QK08D",
+  "slug": "bulla-azaryahu-son-of-hilkiyahu",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA08VPN5YQJDNEZGT032H"
+  ],
+  "notes": null,
+  "name": "City of David bulla: \"Azariah son of Hilkiah\"",
+  "artifact_type": "Clay seal impression (bulla)",
+  "findspot_site_id": null,
+  "findspot_description": "Excavated by Y. Shiloh in 1982 in the City of David, Jerusalem (\"house of bullae\", a hoard of 51 bullae), in the same stratum as the bulla of Gemariah son of Shaphan (as reported by the Armstrong Institute, quoting T. Schneider).",
+  "current_institution": null,
+  "accession_number": null,
+  "date": {
+   "earliest": -620,
+   "latest": -586
+  },
+  "description": "Reads \"(Belonging) to Azariah son of Hilkiah\" (English as reported). It does not state that Hilkiah was the high priest. The date range is the operator's reading of \"roughly the time of\" Nebuchadnezzar's campaigns in the report; the excavation report was not read.",
+  "image": null,
+  "institution_url": null
+ },
+ {
   "kind": "chronology_model",
   "id": "chr_01M4RPJVYH7V0E9JTVB6H8BWZD",
   "slug": "thiele-1983",
@@ -1239,6 +1263,83 @@
   "description": "Seat of Gedaliah's administration after 587/586 (2 Kgs 25:23; Jer 40:6)."
  },
  {
+  "kind": "place",
+  "id": "loc_01M4VCA09WYGCV57FHFGY7HH88",
+  "slug": "megiddo",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA08Y42A9HAYK3C669P00",
+   "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+  ],
+  "notes": null,
+  "primary_name": "Megiddo",
+  "place_type": "settlement",
+  "modern_name": "Tel Megiddo (Tell al-Mutesellim)",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [
+   {
+    "name": "Magidû",
+    "language": "Akkadian",
+    "period": null,
+    "source_id": "src_01M4VCA08Y42A9HAYK3C669P00"
+   }
+  ],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4VCA09RSVHG2G8410KWWPQR",
+    "label": "Tel Megiddo (Pleiades 26356565)",
+    "lat": 32.58377626673209,
+    "lon": 35.18373148466008,
+    "coordinate_precision": "site",
+    "confidence": "certain",
+    "geom_source_id": "src_01M4VCA08Y42A9HAYK3C669P00",
+    "proponents": [],
+    "reasoning": "Pleiades attaches the names Megiddo and Magidû to Tel Megiddo with certain association; Keil (1872) also identifies Megiddo with Roman Legio (Lejjun), immediately south of the tell (Pleiades 678266)."
+   }
+  ],
+  "description": "Fortified city commanding the pass from the coastal plain into the Jezreel valley; where Josiah fell (2 Kgs 23:29–30; 2 Chr 35:22)."
+ },
+ {
+  "kind": "place",
+  "id": "loc_01M4VCA0A1SAEPH8RZ7HYTKBS9",
+  "slug": "bethel",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA091B34TPY4JJRF27ZXR"
+  ],
+  "notes": null,
+  "primary_name": "Bethel",
+  "place_type": "settlement",
+  "modern_name": "Beitin",
+  "modern_country": "Palestinian territories (West Bank)",
+  "kingdom_id": null,
+  "ancient_names": [
+   {
+    "name": "Bethela",
+    "language": "Greek/Latin",
+    "period": null,
+    "source_id": "src_01M4VCA091B34TPY4JJRF27ZXR"
+   }
+  ],
+  "hypotheses": [
+   {
+    "id": "lhy_01M4VCA09WQT23XQHC1RP7X814",
+    "label": "Beitin (Pleiades 260940008)",
+    "lat": 31.928333,
+    "lon": 35.238333,
+    "coordinate_precision": "site",
+    "confidence": "probable",
+    "geom_source_id": "src_01M4VCA091B34TPY4JJRF27ZXR",
+    "proponents": [],
+    "reasoning": "Pleiades gives the names Bethela and Bethega for Beitin (certain). Recorded here as probable rather than certain because excavation reports and alternative proposals were not read in this session."
+   }
+  ],
+  "description": "Northern sanctuary of Jeroboam I (1 Kgs 12:29–33); its altar and high place were destroyed by Josiah (2 Kgs 23:15–18)."
+ },
+ {
   "kind": "person",
   "id": "per_01M4RPJVYG82Y6S92J1Y4G5JTH",
   "slug": "amos-prophet",
@@ -2371,6 +2472,94 @@
   ],
   "description": "Cyrus's treasurer who counted out the vessels to Sheshbazzar (Ezra 1:8). Distinct from the Mithredath of Ezra 4:7 under Artaxerxes.",
   "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+  "slug": "josiah",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA082VMRB4VA17JHPMEJA",
+   "src_01M4VCA0881BQ57C15HT6R6FSH",
+   "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+  ],
+  "notes": null,
+  "canonical_name": "Josiah",
+  "aliases": [],
+  "description": "King of Judah (c. 640/639–609 BC), son of Amon; came to the throne at eight and reigned thirty-one years (2 Kgs 22:1); carried out a religious reform after the finding of the law book in his eighteenth year; killed at Megiddo when Necho II marched north in 609 (2 Kgs 23:29).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4VCA09B9JZRGV1MJCFTV6P1",
+  "slug": "hilkiah-high-priest",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA082VMRB4VA17JHPMEJA",
+   "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+  ],
+  "notes": null,
+  "canonical_name": "Hilkiah (high priest under Josiah)",
+  "aliases": [
+   {
+    "alias": "Eliakim (Josephus)",
+    "language": "Greek (Josephus)",
+    "source_id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+    "passage": null
+   }
+  ],
+  "description": "High priest who found the \"book of the law\" during the Temple repairs (2 Kgs 22:4–8). Josephus calls the high priest of this episode Eliakim (Ant. 10.4.1–2). Guzik identifies him with Jeremiah's father (Jer 1:1); that identification is not established and is not made here.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4VCA09FPSN8NSNJWBHE34EW",
+  "slug": "shaphan-the-scribe",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA082VMRB4VA17JHPMEJA",
+   "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+  ],
+  "notes": null,
+  "canonical_name": "Shaphan son of Azaliah, the scribe",
+  "aliases": [],
+  "description": "Royal scribe who read the found book to Josiah (2 Kgs 22:3–10); father of Ahikam (22:12) and, by Jer 36:10, of Gemariah.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4VCA09KP45JB5BH1R29FS0M",
+  "slug": "huldah-the-prophetess",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA082VMRB4VA17JHPMEJA",
+   "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+  ],
+  "notes": null,
+  "canonical_name": "Huldah the prophetess",
+  "aliases": [],
+  "description": "Prophetess in Jerusalem's \"second quarter\", wife of Shallum keeper of the wardrobe, consulted on the found book (2 Kgs 22:14–20; 2 Chr 34:22–28).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4VCA09R17QTZ2HAPD5EWTNA",
+  "slug": "ahikam-son-of-shaphan",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA082VMRB4VA17JHPMEJA"
+  ],
+  "notes": null,
+  "canonical_name": "Ahikam son of Shaphan",
+  "aliases": [],
+  "description": "Member of Josiah's delegation to Huldah (2 Kgs 22:12–14); protected Jeremiah (Jer 26:24); father of Gedaliah the governor (2 Kgs 25:22).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
  },
  {
   "kind": "prophecy",
@@ -5117,6 +5306,152 @@
   ]
  },
  {
+  "kind": "prophecy",
+  "id": "pro_01M4VCA0AFKSAA0R6HEG3WR0R3",
+  "slug": "man-of-god-against-the-altar-of-bethel-1-kgs-13",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA0881BQ57C15HT6R6FSH",
+   "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+   "src_01M4VCA08RM9RP8B8ZRC7YP4KM"
+  ],
+  "notes": null,
+  "title": "The man of God from Judah against the altar of Bethel: \"Josiah by name\" (1 Kgs 13:1–3)",
+  "passage": "1Kgs.13.1-1Kgs.13.3",
+  "speaker": "An unnamed man of God from Judah (Jadon in Josephus)",
+  "vision_id": null,
+  "description": "At Jeroboam's altar in Bethel a man of God announces that a son named Josiah will be born to David's house and will sacrifice the priests of the high places on it and burn human bones on it (1 Kgs 13:2).",
+  "in_text_interpretation": "2 Kgs 23:15–18 narrates Josiah burning bones on the Bethel altar \"according to the LORD's word which the man of God proclaimed\" and sparing that prophet's tomb. The text itself states the fulfilment.",
+  "interpretations": [
+   {
+    "id": "ful_01M4VCA0AKPGR1ZH7VT0CYX5M4",
+    "label": "Predictive prophecy in Jeroboam's time, fulfilled by Josiah at Bethel (c. 622/621)",
+    "approach": "preterist",
+    "framework": "Traditional Jewish and Christian",
+    "proponents": [
+     "2 Kings 23:16 (text)",
+     "Josephus (Ant. 10.4.4: the prophet \"Jadon\"; fulfilled \"after three hundred and sixty-one years\")",
+     "D. Guzik (citing Knapp: \"more than three hundred years\")"
+    ],
+    "summary": "Textual reasoning: 2 Kgs 23:16–18 explicitly cites the earlier word and the prophet's tomb. Historical evidence: none external for either the prophecy or the desecration of the Bethel altar was read in this session. Objection: critical scholarship dates the 1 Kings 13 narrative later (next interpretation).",
+    "referents": [
+     {
+      "symbol": "A son … Josiah by name",
+      "referent": "Josiah, king of Judah"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4VCA091AGPBS0KJ818B8AM0"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+     "src_01M4VCA0881BQ57C15HT6R6FSH"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4VCA0AKAQ6DWBG7GJVRAZ8J",
+    "label": "A later narrative shaped in the light of Josiah's reform (not an early prediction)",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "S. R. Driver (1891): \"a narrative not probably of very early origin\""
+    ],
+    "summary": "Textual reasoning: Driver notes that the narrative dates from a time when the names of both the Judean prophet and the old prophet were no longer remembered (p. 183); he does not argue this point at length in the pages read. Objection: the traditional reading treats the naming of Josiah as genuine prediction; neither position is testable from external evidence.",
+    "referents": [],
+    "linked_events": [
+     "evt_01M4VCA091AGPBS0KJ818B8AM0"
+    ],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4VCA08RM9RP8B8ZRC7YP4KM"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4VCA0AFZYJ4FX1QW0BCN48H",
+  "slug": "huldahs-oracle-judgment-deferred-2-kgs-22",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4VCA082VMRB4VA17JHPMEJA",
+   "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+   "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+   "src_01M4VCA08MNQQVT95W0ZC0JZ9Q"
+  ],
+  "notes": null,
+  "title": "Huldah's oracle: judgment on Jerusalem; Josiah gathered in peace (2 Kgs 22:15–20)",
+  "passage": "2Kgs.22.15-2Kgs.22.20",
+  "speaker": "Huldah the prophetess (speaking for the LORD)",
+  "vision_id": null,
+  "description": "The LORD will bring all the evil written in the book on \"this place\" and its inhabitants because they forsook him; but because Josiah humbled himself, he will be gathered to his grave in peace and will not see the evil (2 Kgs 22:16–20; 2 Chr 34:24–28).",
+  "in_text_interpretation": "Kings itself narrates the outcome: the LORD did not turn from his wrath (23:26–27); Josiah was killed at Megiddo (23:29) and Jerusalem fell later (25:8–10).",
+  "interpretations": [
+   {
+    "id": "ful_01M4VCA0AFJZDNM2RNES06FQWV",
+    "label": "Judgment fulfilled in the Babylonian conquest (597–587/586); delayed beyond Josiah's lifetime",
+    "approach": "preterist",
+    "framework": "Traditional Jewish and Christian; historical narrative",
+    "proponents": [
+     "Josephus (Ant. 10.4.2: God \"would at present delay those calamities\" because Josiah was righteous)",
+     "D. Guzik",
+     "C. F. Keil (1872)"
+    ],
+    "summary": "Textual reasoning: Kings links the destruction to Manasseh's provocation and to this oracle (23:26–27; 24:3–4). Historical evidence: Jerusalem was taken in 597 (ABC 5) and the Temple burned in 587/586; Josiah died in 609, before any of this. Objection: the fulfilment is narrated by the same history that records the oracle; there is no independent witness to the oracle itself.",
+    "referents": [
+     {
+      "symbol": "This place",
+      "referent": "Jerusalem and the Temple"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+     "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+     "src_01M4VCA082VMRB4VA17JHPMEJA",
+     "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4VCA0AF43F76QYGWQEBWW1X",
+    "label": "\"Gathered to your grave in peace\" fulfilled in Josiah's death before the catastrophe, though he died in battle",
+    "approach": "preterist",
+    "framework": "Harmonising (traditional)",
+    "proponents": [
+     "C. F. Keil (1872): the phrase is used also of death in battle (1 Kgs 22:34, 40); \"in peace\" = without seeing the devastation",
+     "J. R. Lumby (1887): none of the threatened evils would come in his time",
+     "D. Guzik: three senses — before the disaster, at peace with God, in God's favour"
+    ],
+    "summary": "Textual reasoning: 22:20 explains \"in peace\" by \"your eyes will not see all the evil\". Objection: Josiah was killed by Necho (23:29) — a tension readers have noticed; the harmonisation rests on the meaning of the formula, which Keil supports from 1 Kgs 22. A view that the oracle was composed before Josiah's death and not revised was not found in the sources read and is not attributed here.",
+    "referents": [
+     {
+      "symbol": "You (the king of Judah)",
+      "referent": "Josiah"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4VCA091XV13ETPAWBT8TJK2"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+     "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+     "src_01M4VCA082VMRB4VA17JHPMEJA"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
   "kind": "reign",
   "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
   "slug": "uzziah-reign-albright",
@@ -5974,6 +6309,71 @@
   }
  },
  {
+  "kind": "reign",
+  "id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+  "slug": "josiah-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+   "src_01M4VCA082VMRB4VA17JHPMEJA",
+   "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+  ],
+  "notes": "Model-independent. Thiele (1983, not read directly) is commonly reported as 641/640–609.",
+  "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+  "model_id": null,
+  "title": "King of Judah",
+  "start": {
+   "earliest": -640,
+   "latest": -638
+  },
+  "end": {
+   "earliest": -608,
+   "latest": -608
+  },
+  "precision": "year",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": 31,
+  "stated_length_passage": "2Kgs.22.1",
+  "start_window": {
+   "from": {
+    "year": -640,
+    "month": 1,
+    "day": 1
+   },
+   "to": {
+    "year": -638,
+    "month": 12,
+    "day": 31
+   },
+   "basis": "Thirty-one years (2 Kgs 22:1; Josephus Ant. 10.5.1) counted back from his death in 609. Whether Judah counted accession years, and from Nisan or Tishri, is not settled here, so the window spans 641–639 BC (operator margin).",
+   "citations": [
+    "src_01M4VCA082VMRB4VA17JHPMEJA",
+    "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -608,
+    "month": 3,
+    "day": 1
+   },
+   "to": {
+    "year": -608,
+    "month": 7,
+    "day": 31
+   },
+   "basis": "Josiah fell as Necho marched to the Euphrates (2 Kgs 23:29); ABC 3 has the Egyptian army cross the Euphrates against Harran in Du'ûzu of Nabopolassar's 17th year (609) and besiege it until Ulûlu. The death therefore preceded the crossing; 1 March is an operator margin for the start of the campaigning season.",
+   "citations": [
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+   ]
+  },
+  "regnal_convention": null
+ },
+ {
   "kind": "site",
   "id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
   "slug": "babylon-excavations",
@@ -6532,6 +6932,64 @@
    "citations": [
     "src_01M4V26XGJKSDPV1SX90XVZV14",
     "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4VCA0AE0EVE0J5XH1D2AVGG",
+  "slug": "josiah-death-609-abc-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+  ],
+  "notes": null,
+  "title": "Josiah's death (2 Kgs 23:29) during Necho's march to Harran (ABC 3, Nabopolassar year 17)",
+  "type": "documentary_correlation",
+  "passage": "2Kgs.23.29",
+  "biblical_subject": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+  "external_entity": "Babylonian Chronicle ABC 3, years 16–17",
+  "external_document_id": "doc_01M4RSRHMETT3GC5VKG80MSVFP",
+  "external_source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+  "proposed_synchronization": "2 Kgs 23:29 has Necho go up \"to the king of Assyria to the river Euphrates\"; ABC 3 records Aššur-uballiṭ with a large Egyptian army crossing the Euphrates against Harran in Du'ûzu of Nabopolassar's 17th year (609). Josiah fell during that march, before the crossing.",
+  "independent_date": {
+   "earliest": -608,
+   "latest": -608
+  },
+  "precision": "month",
+  "dating_method": "Babylonian regnal year fixed by Ptolemy's Canon and astronomical texts (Parker & Dubberstein, via Livius)",
+  "direct": false,
+  "via": "Necho's 609 campaign (the chronicle does not name Josiah or Megiddo)",
+  "assumptions": [
+   "Kings and the chronicle describe the same Egyptian expedition; the chronicle records Egypt's help to Assyria in 610 and 609, and the 609 crossing is the one that follows Josiah's three-month successor (2 Kgs 23:31–33)."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [
+   {
+    "label": "Expedition against Assyria in 610 (pre-1923 reading)",
+    "summary": "Lumby (1887), before the chronicle was published, dated the expedition to 610 and took it to be against Assyria.",
+    "citations": [
+     "src_01M4VCA08MNQQVT95W0ZC0JZ9Q"
+    ]
+   }
+  ],
+  "anchor_subject": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+  "window": {
+   "from": {
+    "year": -608,
+    "month": 3,
+    "day": 1
+   },
+   "to": {
+    "year": -608,
+    "month": 7,
+    "day": 31
+   },
+   "basis": "Before the Euphrates crossing in Du'ûzu 609 (ABC 3); 1 March is an operator margin.",
+   "citations": [
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2"
    ]
   },
   "reviewer_status": "machine_proposed"

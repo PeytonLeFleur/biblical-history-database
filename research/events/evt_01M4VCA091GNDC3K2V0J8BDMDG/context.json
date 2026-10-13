@@ -1,0 +1,139 @@
+{
+  "event_id": "evt_01M4VCA091GNDC3K2V0J8BDMDG",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Josiah gathered the elders, read the book of the covenant in the Temple and made a covenant by the pillar. He had the vessels made for Baal, Asherah and the host of heaven burned in the Kidron fields; removed the idolatrous priests; burned the Asherah; broke down the shrine-prostitutes' houses; defiled the high places from Geba to Beersheba and Topheth in the valley of Hinnom; removed the horses and chariots of the sun; broke the roof altars of Ahaz and Manasseh's altars; and defiled Solomon's high places for Ashtoreth, Chemosh and Milcom.",
+    "passage": "2Kgs.23.1-2Kgs.23.14"
+  },
+  "setting": {
+    "period": "c. 628–621 BC (Chronicles' 12th year to Kings' 18th year)",
+    "body": "Keil argues that the purge began before the book was found (2 Chr 34:3, the twelfth year) and was completed afterwards, the narrative grouping everything under the eighteenth year. Guzik quotes Patterson and Austel that horses in sun-worship are attested in Assyrian and Aramean sources (not checked here).",
+    "citations": [
+      "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+      "src_01M4VCA0881BQ57C15HT6R6FSH"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+      "reign_id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VCA0AVH35EXWTZAFG1J333",
+      "subject": "evt_01M4VCA091GNDC3K2V0J8BDMDG",
+      "object": "evt_01M4VCA091ZK6KH0D34YEYEPMQ",
+      "relation": "after",
+      "textual_assertion": "So they brought this message back to the king. The king sent, and they gathered to him all the elders",
+      "passage": "2Kgs.22.20-2Kgs.23.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Applies to the covenant ceremony; Keil and 2 Chr 34:3 place the beginning of the purge earlier."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VCA0AVSFEHWV1KGE27BMGA",
+      "subject": "evt_01M4VCA091GNDC3K2V0J8BDMDG",
+      "object": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "relation": "within_reign",
+      "textual_assertion": "The king commanded Hilkiah … to bring out of the LORD's temple all the vessels",
+      "passage": "2Kgs.23.4",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple, Kidron, Topheth, the Mount of Corruption",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4VCA0A1SAEPH8RZ7HYTKBS9",
+      "role": "Ashes carried to Bethel (23:4)",
+      "hypotheses": [],
+      "confidence": "probable"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "kemarim (idolatrous priests)",
+      "gloss": "A term for non-Yahwistic priests (23:5; Zeph 1:4; Hos 10:5); Clarke's etymology (via Guzik) is not adopted.",
+      "citations": [
+        "src_01M4VCA0881BQ57C15HT6R6FSH"
+      ]
+    },
+    {
+      "term": "Topheth",
+      "gloss": "Cult place in the valley of Hinnom associated with child sacrifice to Molech (23:10; Jer 7:31).",
+      "citations": [
+        "src_01M4VCA0881BQ57C15HT6R6FSH"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Reform spread over several years and grouped under the 18th year by subject",
+      "proponents": [
+        "C. F. Keil (1872)",
+        "2 Chronicles 34:3–8 (text: 8th, 12th, 18th years)"
+      ],
+      "summary": "The covenant could not have been made with idolatrous altars still standing in the Temple; the purge began earlier and was completed after the discovery.",
+      "citations": [
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+      ]
+    },
+    {
+      "label": "All of 2 Kgs 22:3–23:23 within the 18th year",
+      "proponents": [
+        "J. Ussher (as reported by Keil), placing the Passover at the close of the 18th year"
+      ],
+      "summary": "Takes the two \"eighteenth year\" statements (22:3; 23:23) as bracketing a single year.",
+      "citations": [
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VCA0881BQ57C15HT6R6FSH",
+      "layer": "interpretation",
+      "paraphrase": "Guzik compares the covenant with Mizpah and Shechem (after Wiseman) and reads the reform as moving from the Temple outward; he notes that the people's turning was outward conformity (Jer 3:10).",
+      "url": "https://enduringword.com/bible-commentary/2-kings-23/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

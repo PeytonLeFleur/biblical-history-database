@@ -1,0 +1,58 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4VCA0AE0EVE0J5XH1D2AVGG",
+  "slug": "josiah-death-609-abc-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+  ],
+  "notes": null,
+  "title": "Josiah's death (2 Kgs 23:29) during Necho's march to Harran (ABC 3, Nabopolassar year 17)",
+  "type": "documentary_correlation",
+  "passage": "2Kgs.23.29",
+  "biblical_subject": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+  "external_entity": "Babylonian Chronicle ABC 3, years 16–17",
+  "external_document_id": "doc_01M4RSRHMETT3GC5VKG80MSVFP",
+  "external_source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+  "proposed_synchronization": "2 Kgs 23:29 has Necho go up \"to the king of Assyria to the river Euphrates\"; ABC 3 records Aššur-uballiṭ with a large Egyptian army crossing the Euphrates against Harran in Du'ûzu of Nabopolassar's 17th year (609). Josiah fell during that march, before the crossing.",
+  "independent_date": {
+    "earliest": -608,
+    "latest": -608
+  },
+  "precision": "month",
+  "dating_method": "Babylonian regnal year fixed by Ptolemy's Canon and astronomical texts (Parker & Dubberstein, via Livius)",
+  "direct": false,
+  "via": "Necho's 609 campaign (the chronicle does not name Josiah or Megiddo)",
+  "assumptions": [
+    "Kings and the chronicle describe the same Egyptian expedition; the chronicle records Egypt's help to Assyria in 610 and 609, and the 609 crossing is the one that follows Josiah's three-month successor (2 Kgs 23:31–33)."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [
+    {
+      "label": "Expedition against Assyria in 610 (pre-1923 reading)",
+      "summary": "Lumby (1887), before the chronicle was published, dated the expedition to 610 and took it to be against Assyria.",
+      "citations": [
+        "src_01M4VCA08MNQQVT95W0ZC0JZ9Q"
+      ]
+    }
+  ],
+  "anchor_subject": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+  "window": {
+    "from": {
+      "year": -608,
+      "month": 3,
+      "day": 1
+    },
+    "to": {
+      "year": -608,
+      "month": 7,
+      "day": 31
+    },
+    "basis": "Before the Euphrates crossing in Du'ûzu 609 (ABC 3); 1 March is an operator margin.",
+    "citations": [
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+    ]
+  },
+  "reviewer_status": "machine_proposed"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+  "title": "The Second Book of the Kings, with Introduction and Notes (Cambridge Bible for Schools and Colleges)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Lumby, J. Rawson"
+  ],
+  "publisher": "Cambridge University Press, 1887",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/secondbookofking00lumb",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1887)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "On 22:8: the law had been neglected for nearly sixty years under Manasseh and Amon, so its loss is unsurprising; on 22:20 \"in peace\": none of the denounced evils would come in his time; on 23:29: Necho's \"expedition against the king of Assyria was B.C. 610\"; Necho probably came by sea; \"Josiah at this time was in alliance with, or perhaps tributary to, Assyria\"; on 23:30: from Zech 12:11 it \"has been supposed that Josiah did not die till he reached Hadad-Rimmon\"; Jeremiah's dirge probably lost; on 23:22–23: Kings omits Hezekiah's passover; the point is that none had been kept in this complete form since Samuel",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text. Written before ABC 3 was published (1923).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

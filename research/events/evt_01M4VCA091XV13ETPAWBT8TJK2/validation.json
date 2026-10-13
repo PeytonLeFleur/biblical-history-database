@@ -1,0 +1,55 @@
+{
+  "event_id": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4VCA0BSH9EYN1A3A4M7QY86",
+    "rev_01M4VCA0ECPE2N446379DNJKGJ"
+  ],
+  "research_gaps": [
+    "Megiddo excavation reports (Iron Age II strata) not read.",
+    "Egyptian sources for Necho II's Asiatic campaigns not researched."
+  ],
+  "disputes": [
+    "Josiah died at Megiddo (2 Kgs 23:29) rather than after being brought back to Jerusalem."
+  ],
+  "export_eligible": true
+}

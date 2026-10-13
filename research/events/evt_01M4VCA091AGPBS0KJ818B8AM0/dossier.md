@@ -1,0 +1,931 @@
+# Josiah desecrates Jeroboam's altar at Bethel and the high places of Samaria
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Kings 23:15–20 (narration)
+- 1 Kings 13:2 (reference): The prophecy naming Josiah.
+- 2 Chronicles 34:6–7 (parallel_account): Cities of Manasseh, Ephraim, Simeon and Naphtali.
+
+## Biblical account
+
+Josiah broke down the altar and high place Jeroboam had made at Bethel and burned the high place and the Asherah; seeing tombs on the hill he burned their bones on the altar "according to the LORD's word which the man of God proclaimed"; he left the tomb of the man of God from Judah and the old prophet from Samaria; he removed the high-place shrines in the cities of Samaria and killed their priests.
+
+## Historical setting
+
+**Period:** Late 620s BC
+
+Bethel lay in the former kingdom of Israel, an Assyrian province after 722. Guzik notes that Assyria's weakness made the intervention possible; ABC 3 shows Assyria fighting for survival against Babylon and the Medes from 616. [1, 2]
+
+### Rulers
+
+- Josiah: King of Judah [3]
+
+## Date and chronology
+
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+- **641 BC – 609 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Josiah (reign start) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+  - Latest bound from: reign of Josiah (reign end) → “Josiah took away … and did to them according to all the acts that he had done in Bethel”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Josiah took away … and did to them according to all the acts that he had done in Bethel” (2 Kings 23:19) → `within_reign` reign of Josiah; assumptions: Kings places the Bethel actions within the reform narrative; their year is not stated.
+
+## Geography
+
+- Bethel (Jeroboam's altar and high place; confidence: probable)
+  - Beitin (Pleiades 260940008): probable [4]
+
+## Competing reconstructions
+
+- **Prophecy of 1 Kgs 13:2 fulfilled** (2 Kgs 23:16 (text), Josephus (361 years after the prophecy)): See the prophecy record for the traditional and critical readings. [5]
+
+## Claims and evidence
+
+### Biblical Bethel is the site of Beitin.
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+Pleiades gives the names Bethela and Bethega for Beitin with certain association. Excavation reports and alternative proposals were not read, so the identification is recorded as probable.
+
+- *Supporting (indirect):* Beitin with names Bethela and Bethega (certain). (names) [4]
+
+*Limitations:* Excavation reports not read.
+
+### Josiah's desecration of the Bethel altar fulfilled a prophecy spoken in Jeroboam I's reign that named him.
+
+**Classification:** Not empirically testable (machine proposed) · layer: interpretation
+
+The text states the fulfilment (23:16–18) and Josephus repeats it (361 years). Driver judges the 1 Kings 13 narrative to be of late origin. Whether a prophecy predated its fulfilment cannot be tested from the available evidence; the readings are recorded on the prophecy record and queued for review there.
+
+- *Supporting (direct):* Fulfilled "after three hundred and sixty-one years". (Ant. 10.4.4) [5]
+- *Challenging (indirect):* The 1 Kings 13 narrative is "not probably of very early origin". (p. 183) [6]
+
+## Related passages and events
+
+- pro_01M4VCA0AFKSAA0R6HEG3WR0R3 → **proposed fulfillment** → this event (high): A son of David named Josiah would burn bones on Jeroboam's altar (1 Kgs 13:2) — stated as fulfilled in 2 Kgs 23:16. [5, 1]
+- this event → **same event** → 2 Chronicles 34:6–7 (medium): Chronicles: the purge reached the cities of Manasseh, Ephraim, Simeon and Naphtali.
+- this event → **thematic parallel** → 1 Kings 12:28–33 (high): Jeroboam's altar at Bethel established.
+- this event → **followed by** → The Passover of Josiah's eighteenth year (high): After returning to Jerusalem Josiah ordered the Passover.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik calls Josiah's act the remarkable fulfilment of the prophecy of 1 Kgs 13:1–2 and notes that Josiah honoured the anonymous prophet's grave. [1]
+
+## Unanswered questions and research gaps
+
+- Excavations at Beitin (Albright, Kelso) not read.
+- Assyrian provincial administration of Samaria in the 620s not researched.
+- How far Josiah's control extended into the province of Samaria (2 Chr 34:6 adds Naphtali).
+- No excavation report for Iron Age Bethel was read.
+
+## Sources
+
+1. Guzik, David. 2 Kings 23 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-23/> — *theological commentary; verification: claim checked*
+2. Lendering, Jona (ed.). ABC 3 (Fall of Nineveh Chronicle) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/> — *ancient primary text; verification: claim checked*
+3. Guzik, David. 2 Kings 22 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-kings-22/> — *theological commentary; verification: claim checked*
+4. Pleiades contributors. Beitin (Bethel) — Pleiades place 260940008. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/260940008> — *institutional database; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+6. Driver, S. R.. An Introduction to the Literature of the Old Testament (1st ed.). T. & T. Clark, Edinburgh, 1891. <https://archive.org/details/introductiontoli0000driv_q2f6> — *academic monograph; verification: claim checked*

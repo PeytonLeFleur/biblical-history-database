@@ -1,0 +1,67 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VCA0AFKSAA0R6HEG3WR0R3",
+  "slug": "man-of-god-against-the-altar-of-bethel-1-kgs-13",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA0881BQ57C15HT6R6FSH",
+    "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+    "src_01M4VCA08RM9RP8B8ZRC7YP4KM"
+  ],
+  "notes": null,
+  "title": "The man of God from Judah against the altar of Bethel: \"Josiah by name\" (1 Kgs 13:1–3)",
+  "passage": "1Kgs.13.1-1Kgs.13.3",
+  "speaker": "An unnamed man of God from Judah (Jadon in Josephus)",
+  "vision_id": null,
+  "description": "At Jeroboam's altar in Bethel a man of God announces that a son named Josiah will be born to David's house and will sacrifice the priests of the high places on it and burn human bones on it (1 Kgs 13:2).",
+  "in_text_interpretation": "2 Kgs 23:15–18 narrates Josiah burning bones on the Bethel altar \"according to the LORD's word which the man of God proclaimed\" and sparing that prophet's tomb. The text itself states the fulfilment.",
+  "interpretations": [
+    {
+      "id": "ful_01M4VCA0AKPGR1ZH7VT0CYX5M4",
+      "label": "Predictive prophecy in Jeroboam's time, fulfilled by Josiah at Bethel (c. 622/621)",
+      "approach": "preterist",
+      "framework": "Traditional Jewish and Christian",
+      "proponents": [
+        "2 Kings 23:16 (text)",
+        "Josephus (Ant. 10.4.4: the prophet \"Jadon\"; fulfilled \"after three hundred and sixty-one years\")",
+        "D. Guzik (citing Knapp: \"more than three hundred years\")"
+      ],
+      "summary": "Textual reasoning: 2 Kgs 23:16–18 explicitly cites the earlier word and the prophet's tomb. Historical evidence: none external for either the prophecy or the desecration of the Bethel altar was read in this session. Objection: critical scholarship dates the 1 Kings 13 narrative later (next interpretation).",
+      "referents": [
+        {
+          "symbol": "A son … Josiah by name",
+          "referent": "Josiah, king of Judah"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4VCA091AGPBS0KJ818B8AM0"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+        "src_01M4VCA0881BQ57C15HT6R6FSH"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VCA0AKAQ6DWBG7GJVRAZ8J",
+      "label": "A later narrative shaped in the light of Josiah's reform (not an early prediction)",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "S. R. Driver (1891): \"a narrative not probably of very early origin\""
+      ],
+      "summary": "Textual reasoning: Driver notes that the narrative dates from a time when the names of both the Judean prophet and the old prophet were no longer remembered (p. 183); he does not argue this point at length in the pages read. Objection: the traditional reading treats the naming of Josiah as genuine prediction; neither position is testable from external evidence.",
+      "referents": [],
+      "linked_events": [
+        "evt_01M4VCA091AGPBS0KJ818B8AM0"
+      ],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VCA08RM9RP8B8ZRC7YP4KM"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

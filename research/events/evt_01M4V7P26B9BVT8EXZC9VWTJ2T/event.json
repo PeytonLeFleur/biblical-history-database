@@ -5,7 +5,9 @@
   "summary": "After Josiah's death the people made his son Jehoahaz king; three months later Pharaoh Necho deposed him, imposed tribute, made his brother Eliakim king as Jehoiakim and took Jehoahaz to Egypt.",
   "is_fixture": false,
   "candidate_ids": [
-    "cnd_01M4V7P26BW0YWCZX693JHCW75"
+    "cnd_01M4V7P26BW0YWCZX693JHCW75",
+    "cnd_01M4VCA0AR5N3FJ398GDZ3ZM4Y",
+    "cnd_01M4VCA0ARD5DDVEBP7JYC6BW2"
   ],
   "external_reason": null,
   "is_period": false,
@@ -26,9 +28,9 @@
       "notes": null
     },
     {
-      "passage": "2Kgs.23.31-2Kgs.23.35",
+      "passage": "2Kgs.23.31-2Kgs.23.37",
       "mention_type": "parallel_account",
-      "notes": "Kings: Jehoahaz imprisoned at Riblah."
+      "notes": "Kings: Jehoahaz imprisoned at Riblah; Jehoiakim's regnal summary follows (23:36–37)."
     }
   ],
   "stages": {
@@ -58,7 +60,7 @@
       "reason": null
     }
   },
-  "revision": 1,
+  "revision": 2,
   "created_at": "2026-10-13",
   "updated_at": "2026-10-13",
   "last_reviewed_at": null

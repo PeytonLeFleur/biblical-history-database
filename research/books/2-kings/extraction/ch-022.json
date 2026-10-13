@@ -1,0 +1,324 @@
+{
+  "book": "2Kgs",
+  "chapter": 22,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "2Kgs.22.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARRQA09GVWEXM77ATM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARRQA09GVWEXM77ATM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARC58WBNRGM4M01417"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARNNGXGZMMJ1M122KH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARNNGXGZMMJ1M122KH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARNNGXGZMMJ1M122KH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARNNGXGZMMJ1M122KH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARNNGXGZMMJ1M122KH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARNNGXGZMMJ1M122KH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Kgs.22.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VCA0ARNNGXGZMMJ1M122KH"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VCA0ARRQA09GVWEXM77ATM",
+      "title": "Josiah's accession at eight; regnal summary",
+      "passage": "2Kgs.22.1-2Kgs.22.2",
+      "description": "Josiah, eight, reigned thirty-one years; his mother Jedidah of Bozkath; he did right and walked in David's ways.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Josiah",
+          "matched_entity_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.22.1",
+          "phrase": "he reigned thirty-one years in Jerusalem",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "2Kgs.21.23-2Kgs.21.26",
+        "2Chr.34.1-2Chr.34.2"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "The accession itself follows Amon's assassination (2 Kgs 21:23–24), outside this unit; the reign is recorded as a reign entity."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4VCA0ARC58WBNRGM4M01417",
+      "title": "Temple repairs; the book of the law found and read to the king",
+      "passage": "2Kgs.22.3-2Kgs.22.13",
+      "description": "In the eighteenth year Josiah sent Shaphan to Hilkiah about the Temple repair money; Hilkiah found the book of the law; Shaphan read it to the king, who tore his clothes and sent a delegation to inquire of the LORD.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Josiah",
+          "matched_entity_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Shaphan … the scribe",
+          "matched_entity_id": "per_01M4VCA09FPSN8NSNJWBHE34EW",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Hilkiah the high priest",
+          "matched_entity_id": "per_01M4VCA09B9JZRGV1MJCFTV6P1",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Ahikam the son of Shaphan",
+          "matched_entity_id": "per_01M4VCA09R17QTZ2HAPD5EWTNA",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "the LORD's house",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "2Kgs.22.3",
+          "phrase": "In the eighteenth year of King Josiah",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "2Chr.34.8-2Chr.34.21",
+        "Deut.31.24-Deut.31.26",
+        "Deut.17.18-Deut.17.20"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "What \"the book of the law\" contained (Deuteronomy, part of it, or the Pentateuch).",
+        "Josephus names the high priest Eliakim."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VCA091CG2RC0X52ZC90GQ5"
+    },
+    {
+      "id": "cnd_01M4VCA0ARNNGXGZMMJ1M122KH",
+      "title": "Huldah's oracle: judgment on Jerusalem; Josiah spared",
+      "passage": "2Kgs.22.14-2Kgs.22.20",
+      "description": "The delegation consulted Huldah, who announced the evil written in the book on Jerusalem, but that Josiah would be gathered to his grave in peace.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Huldah the prophetess",
+          "matched_entity_id": "per_01M4VCA09KP45JB5BH1R29FS0M",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Hilkiah the priest",
+          "matched_entity_id": "per_01M4VCA09B9JZRGV1MJCFTV6P1",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Ahikam",
+          "matched_entity_id": "per_01M4VCA09R17QTZ2HAPD5EWTNA",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Shaphan",
+          "matched_entity_id": "per_01M4VCA09FPSN8NSNJWBHE34EW",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem in the second quarter",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "2Chr.34.22-2Chr.34.28",
+        "2Kgs.23.26-2Kgs.23.27",
+        "2Kgs.23.29"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"In peace\" (22:20) and Josiah's death in battle."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-2-kings-22-23.md"
+}

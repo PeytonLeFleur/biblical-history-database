@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4VCA09FPSN8NSNJWBHE34EW",
+  "slug": "shaphan-the-scribe",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA082VMRB4VA17JHPMEJA",
+    "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+  ],
+  "notes": null,
+  "canonical_name": "Shaphan son of Azaliah, the scribe",
+  "aliases": [],
+  "description": "Royal scribe who read the found book to Josiah (2 Kgs 22:3–10); father of Ahikam (22:12) and, by Jer 36:10, of Gemariah.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

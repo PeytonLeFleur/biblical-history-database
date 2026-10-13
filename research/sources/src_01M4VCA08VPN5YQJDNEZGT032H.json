@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VCA08VPN5YQJDNEZGT032H",
+  "title": "Archaeological Proof for Hilkiah the High Priest",
+  "source_type": "popular_summary",
+  "authors": [
+    "Armstrong Institute of Biblical Archaeology"
+  ],
+  "publisher": "Armstrong Institute (armstronginstitute.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://armstronginstitute.org/175-archaeological-proof-for-hilkiah-the-high-priest",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the print page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Bulla \"Belonging to Azariah, son of Hilkiah\" excavated by Yigal Shiloh in 1982 in the City of David (\"house of bullae\", 51 bullae), found in the same stratum as the Gemariah son of Shaphan bulla (quoting Schneider); concedes the bulla \"does not explicitly say that it belonged to the high priest\"; a second seal \"Hanan son of Hilkiah the priest\" is unprovenanced (antiquities market, published by J. Elayi 1987)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Popular, advocacy-leaning summary; cites T. Schneider, Biblical Archaeology Review July–August 1991 (not read). Treated as a secondary report only.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

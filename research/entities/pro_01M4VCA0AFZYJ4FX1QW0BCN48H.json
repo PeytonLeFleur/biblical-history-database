@@ -1,0 +1,79 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VCA0AFZYJ4FX1QW0BCN48H",
+  "slug": "huldahs-oracle-judgment-deferred-2-kgs-22",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA082VMRB4VA17JHPMEJA",
+    "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+    "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+    "src_01M4VCA08MNQQVT95W0ZC0JZ9Q"
+  ],
+  "notes": null,
+  "title": "Huldah's oracle: judgment on Jerusalem; Josiah gathered in peace (2 Kgs 22:15–20)",
+  "passage": "2Kgs.22.15-2Kgs.22.20",
+  "speaker": "Huldah the prophetess (speaking for the LORD)",
+  "vision_id": null,
+  "description": "The LORD will bring all the evil written in the book on \"this place\" and its inhabitants because they forsook him; but because Josiah humbled himself, he will be gathered to his grave in peace and will not see the evil (2 Kgs 22:16–20; 2 Chr 34:24–28).",
+  "in_text_interpretation": "Kings itself narrates the outcome: the LORD did not turn from his wrath (23:26–27); Josiah was killed at Megiddo (23:29) and Jerusalem fell later (25:8–10).",
+  "interpretations": [
+    {
+      "id": "ful_01M4VCA0AFJZDNM2RNES06FQWV",
+      "label": "Judgment fulfilled in the Babylonian conquest (597–587/586); delayed beyond Josiah's lifetime",
+      "approach": "preterist",
+      "framework": "Traditional Jewish and Christian; historical narrative",
+      "proponents": [
+        "Josephus (Ant. 10.4.2: God \"would at present delay those calamities\" because Josiah was righteous)",
+        "D. Guzik",
+        "C. F. Keil (1872)"
+      ],
+      "summary": "Textual reasoning: Kings links the destruction to Manasseh's provocation and to this oracle (23:26–27; 24:3–4). Historical evidence: Jerusalem was taken in 597 (ABC 5) and the Temple burned in 587/586; Josiah died in 609, before any of this. Objection: the fulfilment is narrated by the same history that records the oracle; there is no independent witness to the oracle itself.",
+      "referents": [
+        {
+          "symbol": "This place",
+          "referent": "Jerusalem and the Temple"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN",
+        "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+        "src_01M4VCA082VMRB4VA17JHPMEJA",
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VCA0AF43F76QYGWQEBWW1X",
+      "label": "\"Gathered to your grave in peace\" fulfilled in Josiah's death before the catastrophe, though he died in battle",
+      "approach": "preterist",
+      "framework": "Harmonising (traditional)",
+      "proponents": [
+        "C. F. Keil (1872): the phrase is used also of death in battle (1 Kgs 22:34, 40); \"in peace\" = without seeing the devastation",
+        "J. R. Lumby (1887): none of the threatened evils would come in his time",
+        "D. Guzik: three senses — before the disaster, at peace with God, in God's favour"
+      ],
+      "summary": "Textual reasoning: 22:20 explains \"in peace\" by \"your eyes will not see all the evil\". Objection: Josiah was killed by Necho (23:29) — a tension readers have noticed; the harmonisation rests on the meaning of the formula, which Keil supports from 1 Kgs 22. A view that the oracle was composed before Josiah's death and not revised was not found in the sources read and is not attributed here.",
+      "referents": [
+        {
+          "symbol": "You (the king of Judah)",
+          "referent": "Josiah"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4VCA091XV13ETPAWBT8TJK2"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+        "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

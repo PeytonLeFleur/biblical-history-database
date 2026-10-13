@@ -1,0 +1,100 @@
+{
+  "event_id": "evt_01M4VCA091ZK6KH0D34YEYEPMQ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The delegation went to Huldah the prophetess, wife of Shallum keeper of the wardrobe, who lived in the second quarter of Jerusalem. She announced that all the words of the book would fall on Jerusalem, but that Josiah, who had humbled himself, would be gathered to his grave in peace and not see it.",
+    "passage": "2Kgs.22.14-2Kgs.22.20"
+  },
+  "setting": {
+    "period": "Josiah's 18th year",
+    "body": "Wiseman (via Guzik) notes that Jeremiah and Zephaniah were active in Josiah's reign; Huldah is known only here and in 2 Chr 34:22.",
+    "citations": [
+      "src_01M4VCA082VMRB4VA17JHPMEJA"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+      "reign_id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VCA0AV6ZHD1PD15MX4JQ01",
+      "subject": "evt_01M4VCA091ZK6KH0D34YEYEPMQ",
+      "object": "evt_01M4VCA091CG2RC0X52ZC90GQ5",
+      "relation": "days_later",
+      "textual_assertion": "The king commanded … \"Go inquire of the LORD\" … So Hilkiah … went to Huldah",
+      "passage": "2Kgs.22.12-2Kgs.22.14",
+      "offset": {
+        "min": 0,
+        "max": 60
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The inquiry followed the reading directly; 60 days is an operator margin."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Huldah's residence (the second quarter)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "the second quarter (mishneh)",
+      "gloss": "A district of Jerusalem (also Zeph 1:10); its exact location is not researched here.",
+      "citations": []
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "\"In peace\" despite death in battle",
+      "proponents": [
+        "C. F. Keil (1872)",
+        "J. R. Lumby (1887)",
+        "D. Guzik"
+      ],
+      "summary": "All three read \"in peace\" as \"before the catastrophe\"; Keil cites 1 Kgs 22 for \"gathered to his fathers\" after death in battle. See the prophecy record.",
+      "citations": [
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+        "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VCA082VMRB4VA17JHPMEJA",
+      "layer": "interpretation",
+      "paraphrase": "Guzik explains \"gathered to your grave in peace\" in three ways, though Josiah died in battle, and notes that the judgment was delayed, not cancelled.",
+      "url": "https://enduringword.com/bible-commentary/2-kings-22/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

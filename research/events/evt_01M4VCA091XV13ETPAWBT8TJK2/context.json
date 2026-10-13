@@ -1,0 +1,180 @@
+{
+  "event_id": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In Josiah's days Pharaoh Necoh went up \"to\"/\"against\" the king of Assyria to the river Euphrates; Josiah went to meet him and Necoh killed him at Megiddo when he saw him; his servants carried him dead in a chariot to Jerusalem and buried him; the people of the land anointed Jehoahaz.",
+    "passage": "2Kgs.23.29-2Kgs.23.30"
+  },
+  "setting": {
+    "period": "Spring–summer 609 BC",
+    "body": "ABC 3: in Nabopolassar's 16th year (610/609) the Babylonians and Medes took Harran from Aššur-uballiṭ and \"the army of Egypt that had come to help him\"; in the 17th year, in Du'ûzu (June/July 609), Aššur-uballiṭ \"with a large army from Egypt\" crossed the Euphrates and besieged Harran until Ulûlu without success. Necho's march north is this campaign. Josephus says Necho was marching \"to fight with the Medes and Babylonians\".",
+    "citations": [
+      "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+      "reign_id": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "role": "King of Judah",
+      "citations": [
+        "src_01M4VCA082VMRB4VA17JHPMEJA"
+      ]
+    },
+    {
+      "person_id": "per_01M4RSRHM3EYYN9YJSRMAW06DS",
+      "reign_id": null,
+      "role": "Pharaoh of Egypt",
+      "citations": [
+        "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+    "kgd_01M4RSRHM0ETGRBDHFPX8477ET",
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VCA0AVG3C7D9J2EHCGESKW",
+      "subject": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+      "object": "rgn_01M4VCA0A5A3716C5CX7C83VDP",
+      "relation": "within_reign",
+      "textual_assertion": "In his days Pharaoh Necoh … killed him at Megiddo",
+      "passage": "2Kgs.23.29",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The death ends the reign; the reign's end window carries the ABC 3 dating."
+      ],
+      "citations": [
+        "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4VCA0AV3VX4MC9WCGRT81A3",
+      "subject": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T",
+      "object": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+      "relation": "months_later",
+      "textual_assertion": "Jehoahaz … reigned three months in Jerusalem. Pharaoh Necoh put him in bonds at Riblah",
+      "passage": "2Kgs.23.31-2Kgs.23.33",
+      "offset": {
+        "min": 3,
+        "max": 4
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Josephus: three months and ten days (Ant. 10.5.2)."
+      ],
+      "citations": [
+        "src_01M4VCA08BPB3V3R2BP29D5ZK4"
+      ],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [
+    {
+      "id": "syn_01M4VCA0AE0EVE0J5XH1D2AVGG",
+      "type": "documentary_correlation",
+      "direct": false,
+      "via": "Necho's 609 campaign",
+      "citations": [
+        "src_01M4RSRHKDJ3GDT201E0SGMSM2"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4VCA09WYGCV57FHFGY7HH88",
+      "role": "Place of the battle and of Josiah's death (Kings)",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Burial; place of death in Chronicles and Josephus",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "‘al melek ’aššûr (\"to/against the king of Assyria\")",
+      "gloss": "The preposition can mean \"against\", \"to\" or \"on behalf of\"; WEB and KJV render \"against\", NKJV \"to the aid of\". ABC 3 shows that Egypt fought on Assyria's side.",
+      "citations": [
+        "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+        "src_01M4VCA0881BQ57C15HT6R6FSH"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Necho marching to help Assyria against Babylon",
+      "proponents": [
+        "ABC 3 (Egyptian army with Aššur-uballiṭ, 610–609)",
+        "Josephus (against the Medes and Babylonians)",
+        "D. Guzik (NKJV)"
+      ],
+      "summary": "Josiah tried to stop an Egyptian army going to Assyria's aid.",
+      "citations": [
+        "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+        "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+        "src_01M4VCA0881BQ57C15HT6R6FSH"
+      ]
+    },
+    {
+      "label": "Necho marching against Assyria (610)",
+      "proponents": [
+        "J. R. Lumby (1887), before ABC 3 was published"
+      ],
+      "summary": "Read the Hebrew as \"against\" and supposed Josiah an ally or tributary of Assyria. Superseded by the chronicle on the direction of the campaign.",
+      "citations": [
+        "src_01M4VCA08MNQQVT95W0ZC0JZ9Q"
+      ]
+    },
+    {
+      "label": "Herodotus's battle at \"Magdolos\" against \"the Syrians\" is this battle",
+      "proponents": [
+        "C. F. Keil (1872): a confusion with Megiddo",
+        "F. C. Movers (as reported by Keil): Migdol on the Egyptian frontier"
+      ],
+      "summary": "Herodotus 2.159 has Necho defeat the Syrians at Magdolos and then take Cadytis.",
+      "citations": [
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+        "src_01M4VCA08E102VYPRZ176S6XZX"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VCA0881BQ57C15HT6R6FSH",
+      "layer": "interpretation",
+      "paraphrase": "Guzik follows 2 Chr 35:20–25: Josiah ignored Necho's warning, disguised himself and was shot by archers; Clarke places the mourning at Hadad-rimmon (Zech 12:11).",
+      "url": "https://enduringword.com/bible-commentary/2-kings-23/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Why Josiah opposed Necho (Keil: to keep Judah from Egyptian control; Lumby: loyalty to Assyria) is not stated in the text.",
+    "The Megiddo excavations' Iron Age strata were not researched."
+  ],
+  "not_applicable": {}
+}

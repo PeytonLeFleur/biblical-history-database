@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VCA6Q3MN1VVJNCERS0CK6P",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4VCA0CPB8H3ZZGHRQ3GTP3G",
+  "record_revision": 1,
+  "reason": "Same event (medium confidence): Chronicles: the purge reached the cities of Manasseh, Ephraim, Simeon and Naphtali",
+  "triggers": [
+    "same_event"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:37:29.572Z",
+  "decisions": [],
+  "is_fixture": false
+}

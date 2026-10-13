@@ -1,0 +1,39 @@
+{
+  "kind": "place",
+  "id": "loc_01M4VCA09WYGCV57FHFGY7HH88",
+  "slug": "megiddo",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VCA08Y42A9HAYK3C669P00",
+    "src_01M4VCA08HJ4HR18CN7Y1AZ108"
+  ],
+  "notes": null,
+  "primary_name": "Megiddo",
+  "place_type": "settlement",
+  "modern_name": "Tel Megiddo (Tell al-Mutesellim)",
+  "modern_country": "Israel",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Magidû",
+      "language": "Akkadian",
+      "period": null,
+      "source_id": "src_01M4VCA08Y42A9HAYK3C669P00"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4VCA09RSVHG2G8410KWWPQR",
+      "label": "Tel Megiddo (Pleiades 26356565)",
+      "lat": 32.58377626673209,
+      "lon": 35.18373148466008,
+      "coordinate_precision": "site",
+      "confidence": "certain",
+      "geom_source_id": "src_01M4VCA08Y42A9HAYK3C669P00",
+      "proponents": [],
+      "reasoning": "Pleiades attaches the names Megiddo and Magidû to Tel Megiddo with certain association; Keil (1872) also identifies Megiddo with Roman Legio (Lejjun), immediately south of the tell (Pleiades 678266)."
+    }
+  ],
+  "description": "Fortified city commanding the pass from the coastal plain into the Jezreel valley; where Josiah fell (2 Kgs 23:29–30; 2 Chr 35:22)."
+}

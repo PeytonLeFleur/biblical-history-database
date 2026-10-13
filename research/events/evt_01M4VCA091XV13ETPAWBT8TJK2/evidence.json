@@ -1,0 +1,394 @@
+{
+  "event_id": "evt_01M4VCA091XV13ETPAWBT8TJK2",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "ABC 3 (Livius) years 16–17",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.5.1–2",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Herodotus 2.159 (local Gutenberg)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1872 pp. 493–496",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Lumby 1887 on 23:29–30",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Pleiades: Megiddo",
+      "engine": "pleiades",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "No astronomical data bear on the event."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VCA0BQK5HVWG07P2QK9HTV",
+      "statement": "In 610–609 BC Egypt sent armies to support Assyria against Babylon, and in summer 609 an Egyptian army with Aššur-uballiṭ crossed the Euphrates against Harran.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "ABC 3 records the Egyptian army helping Aššur-uballiṭ in year 16 and crossing the Euphrates with him in Du'ûzu of year 17; Josephus, independently of the chronicle, says Necho marched to fight the Medes and Babylonians. Lumby's pre-1923 reading (\"against the king of Assyria\") is superseded on this point.",
+      "supporting_evidence": [
+        "evd_01M4VCA0BQ3X5T86S23BCBEH5B",
+        "evd_01M4VCA0BQFJDEMP8CAJGV84CT"
+      ],
+      "counterevidence": [
+        "evd_01M4VCA0BQ202SQZQTNT2FW590"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VCA0BQ2R57MWAW2HQTSF97",
+      "statement": "Josiah died in 609 BC, during Necho's march north and before the Egyptian crossing of the Euphrates in Du'ûzu.",
+      "layer": "reconstruction",
+      "passage": "2Kgs.23.29",
+      "classification": "historically_plausible",
+      "reasoning": "Kings places the death during Necho's march to the Euphrates; ABC 3 dates that campaign's crossing to Du'ûzu 609; the three months of Jehoahaz and the installation of Jehoiakim follow (2 Kgs 23:31–34), consistent with Jehoiakim's fourth year = 605 (Jer 46:2; ABC 5). The chronicle does not name Josiah. Classified historically plausible rather than strongly supported because only one independent line (ABC 3) supports the year directly.",
+      "supporting_evidence": [
+        "evd_01M4VCA0BQT7KMN899M41EQT0E"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VCA0BQWJMCXQ0CDDNZQFPC"
+      ],
+      "limitations": [
+        "Indirect synchronism: the chronicle does not mention Judah."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VCA0BQSQCMRCTNXD9Y1FRP",
+      "statement": "Josiah died at Megiddo (2 Kgs 23:29) rather than after being brought back to Jerusalem.",
+      "layer": "reconstruction",
+      "passage": "2Kgs.23.29-2Kgs.23.30",
+      "classification": "disputed",
+      "reasoning": "Kings: Necho \"killed him at Megiddo\" and his servants \"carried him dead\". 2 Chr 35:23–24: wounded by archers, moved to a second chariot, brought to Jerusalem, \"and he died\". Josephus: he retreated to Jerusalem and \"died of that wound\". Keil holds that Chronicles does not say where he died; Lumby reports a view, from Zech 12:11, that he died at Hadad-rimmon. No external source bears on it.",
+      "supporting_evidence": [
+        "evd_01M4VCA0BQKC4JK09MQ51XWZSK"
+      ],
+      "counterevidence": [
+        "evd_01M4VCA0BQT629ZV4CXMJBMQM1"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VCA0BQ4QX5TPXZ5HGN1B87"
+      ],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VCA0BSGEC4TRM7BXTQQF63",
+      "statement": "Herodotus's battle at \"Magdolos\" against \"the Syrians\" (2.159) is Necho's battle at Megiddo.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Herodotus places a land victory of Necho at Magdolos followed by the capture of Cadytis. Keil explains Magdolos as a confusion with Megiddo; Movers (via Keil) placed it at Migdol on the Egyptian frontier. Herodotus is a fifth-century Greek source dependent on Egyptian informants.",
+      "supporting_evidence": [
+        "evd_01M4VCA0BS6MQQ4Z1A0QMAAFJ3",
+        "evd_01M4VCA0BSHRS1QFATDMXXWP4E"
+      ],
+      "counterevidence": [
+        "evd_01M4VCA0BSAHZT68NFTACTSH6W"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VCA0BS2AFVV9E5H4F9VA1Y",
+      "statement": "Megiddo is Tel Megiddo (Tell al-Mutesellim).",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Pleiades associates the names Megiddo and Magidû with Tel Megiddo with certainty; Keil gives the same identification via Legio/Lejjun.",
+      "supporting_evidence": [
+        "evd_01M4VCA0BSW7ZYW8F2SDG8JP2R",
+        "evd_01M4VCA0BS6YZTVP2948VT0JKD"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VCA0BQ3X5T86S23BCBEH5B",
+      "claim_ids": [
+        "clm_01M4VCA0BQK5HVWG07P2QK9HTV"
+      ],
+      "source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Aššur-uballiṭ and \"the army of Egypt that had come to help him\" abandoned Harran; in Du'ûzu \"with a large army from Egypt\" crossed the Euphrates and besieged Harran until Ulûlu.",
+      "locator": "years 16–17",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle"
+    },
+    {
+      "id": "evd_01M4VCA0BQFJDEMP8CAJGV84CT",
+      "claim_ids": [
+        "clm_01M4VCA0BQK5HVWG07P2QK9HTV"
+      ],
+      "source_id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Neco marched to the Euphrates \"to fight with the Medes and Babylonians\".",
+      "locator": "Ant. 10.5.1",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VCA0BQ202SQZQTNT2FW590",
+      "claim_ids": [
+        "clm_01M4VCA0BQK5HVWG07P2QK9HTV"
+      ],
+      "source_id": "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The expedition was \"against the king of Assyria\" in 610 (written before the chronicle was published).",
+      "locator": "on 23:29",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "lumby-1887"
+    },
+    {
+      "id": "evd_01M4VCA0BQT7KMN899M41EQT0E",
+      "claim_ids": [
+        "clm_01M4VCA0BQ2R57MWAW2HQTSF97"
+      ],
+      "source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The 609 crossing in Du'ûzu.",
+      "locator": "year 17",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle"
+    },
+    {
+      "id": "evd_01M4VCA0BQWJMCXQ0CDDNZQFPC",
+      "claim_ids": [
+        "clm_01M4VCA0BQ2R57MWAW2HQTSF97"
+      ],
+      "source_id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Josiah reigned 31 years; Jehoahaz three months and ten days, deposed as Necho returned.",
+      "locator": "Ant. 10.5.1–2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VCA0BQT629ZV4CXMJBMQM1",
+      "claim_ids": [
+        "clm_01M4VCA0BQSQCMRCTNXD9Y1FRP"
+      ],
+      "source_id": "src_01M4VCA08BPB3V3R2BP29D5ZK4",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Sorely wounded, he returned to Jerusalem and died of the wound.",
+      "locator": "Ant. 10.5.1",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VCA0BQKC4JK09MQ51XWZSK",
+      "claim_ids": [
+        "clm_01M4VCA0BQSQCMRCTNXD9Y1FRP"
+      ],
+      "source_id": "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Chronicles does not affirm that he died in Jerusalem.",
+      "locator": "p. 496",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1872"
+    },
+    {
+      "id": "evd_01M4VCA0BQ4QX5TPXZ5HGN1B87",
+      "claim_ids": [
+        "clm_01M4VCA0BQSQCMRCTNXD9Y1FRP"
+      ],
+      "source_id": "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Some suppose he died at Hadad-rimmon (Zech 12:11).",
+      "locator": "on 23:30",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "lumby-1887"
+    },
+    {
+      "id": "evd_01M4VCA0BS6MQQ4Z1A0QMAAFJ3",
+      "claim_ids": [
+        "clm_01M4VCA0BSGEC4TRM7BXTQQF63"
+      ],
+      "source_id": "src_01M4VCA08E102VYPRZ176S6XZX",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Necos engaged battle at Magdolos with the Syrians and conquered them; then took Cadytis.",
+      "locator": "2.159",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "herodotus"
+    },
+    {
+      "id": "evd_01M4VCA0BSHRS1QFATDMXXWP4E",
+      "claim_ids": [
+        "clm_01M4VCA0BSGEC4TRM7BXTQQF63"
+      ],
+      "source_id": "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Magdolos arises from confusion with Megiddo.",
+      "locator": "p. 495",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1872"
+    },
+    {
+      "id": "evd_01M4VCA0BSAHZT68NFTACTSH6W",
+      "claim_ids": [
+        "clm_01M4VCA0BSGEC4TRM7BXTQQF63"
+      ],
+      "source_id": "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Movers transferred the battle to Magdolo on the Egyptian frontier.",
+      "locator": "pp. 494–495 n.",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "movers-via-keil"
+    },
+    {
+      "id": "evd_01M4VCA0BSW7ZYW8F2SDG8JP2R",
+      "claim_ids": [
+        "clm_01M4VCA0BS2AFVV9E5H4F9VA1Y"
+      ],
+      "source_id": "src_01M4VCA08Y42A9HAYK3C669P00",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Tel Megiddo, Magidû, Megiddo (certain).",
+      "locator": "names",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "pleiades"
+    },
+    {
+      "id": "evd_01M4VCA0BS6YZTVP2948VT0JKD",
+      "claim_ids": [
+        "clm_01M4VCA0BS2AFVV9E5H4F9VA1Y"
+      ],
+      "source_id": "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Megiddo is identical with Roman Legio (Lejjun).",
+      "locator": "p. 495",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1872"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Megiddo excavation reports (Iron Age II strata) not read.",
+    "Egyptian sources for Necho II's Asiatic campaigns not researched."
+  ]
+}
