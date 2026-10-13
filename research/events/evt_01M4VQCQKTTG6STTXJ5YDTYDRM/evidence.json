@@ -1,0 +1,90 @@
+{
+  "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "WEB Ezra 8 (items summed for this unit)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Ezra 7–8",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No material remains are associated with the journey."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Dated through the regnal year."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VQCQM360FDD036G7SBSHZQ",
+      "statement": "Ezra's list registers 1,496 males in twelve family groups, joined by 38 Levites and 220 temple servants.",
+      "layer": "text",
+      "passage": "Ezra.8.3-Ezra.8.20",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Summed for this unit from the WEB text (150 + 200 + 300 + 50 + 70 + 80 + 218 + 160 + 28 + 110 + 60 + 70 = 1,496), agreeing with Guzik; Levites 18 + 20 = 38; temple servants 220. No external record of the caravan exists.",
+      "supporting_evidence": [
+        "evd_01M4VQCQM3P15END8RMW8MDP2B"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VQCQM3P15END8RMW8MDP2B",
+      "claim_ids": [
+        "clm_01M4VQCQM360FDD036G7SBSHZQ"
+      ],
+      "source_id": "src_01M4VQCQKPQHZ3Z72MPPBX8FD0",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "At least 1,496 men in the group.",
+      "locator": "on 8:3–14",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "1 Esdras 8 numbers not compared."
+  ]
+}

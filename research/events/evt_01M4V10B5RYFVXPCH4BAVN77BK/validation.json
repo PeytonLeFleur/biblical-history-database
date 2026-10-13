@@ -1,6 +1,6 @@
 {
   "event_id": "evt_01M4V10B5RYFVXPCH4BAVN77BK",
-  "revision": 1,
+  "revision": 2,
   "validated_at": "2026-10-13",
   "checks": [
     {
@@ -40,10 +40,14 @@
     }
   ],
   "publication_level": "researched",
-  "open_reviews": [],
+  "open_reviews": [
+    "rev_01M4VQCQM1XCN0WHC9NVXB034Z"
+  ],
   "research_gaps": [
     "Modern Ezra–Nehemiah chronology not read."
   ],
-  "disputes": [],
+  "disputes": [
+    "The \"Artaxerxes\" of Ezra 7 is Artaxerxes I, so that Ezra came to Jerusalem in 458 BC, before Nehemiah."
+  ],
   "export_eligible": true
 }

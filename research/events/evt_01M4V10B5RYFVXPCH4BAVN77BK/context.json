@@ -69,7 +69,15 @@
       "confidence": "certain"
     }
   ],
-  "terminology": [],
+  "terminology": [
+    {
+      "term": "scribe (sōpēr, 7:6)",
+      "gloss": "Here an expert in the Law of Moses, not merely a copyist (Guzik, Kidner).",
+      "citations": [
+        "src_01M4VQCQKGP64Q4YA0MWXBEV3D"
+      ]
+    }
+  ],
   "competing_reconstructions": [
     {
       "label": "458 BC (Nisan reckoning)",
@@ -103,6 +111,27 @@
       "summary": "Would move the decree to 398 BC; not researched further here.",
       "citations": [
         "src_01M4TSKK83SFG091RT082Z4EXG"
+      ]
+    },
+    {
+      "label": "Ezra under Xerxes (seventh year)",
+      "proponents": [
+        "Josephus, Ant. 11.5.1–2"
+      ],
+      "summary": "Josephus names Xerxes as Ezra's king and the high priest Joacim son of Jeshua.",
+      "citations": [
+        "src_01M4VQCQKTDW45D3X7VGAXT4HB"
+      ]
+    },
+    {
+      "label": "Ezra after Nehemiah, early fourth century",
+      "proponents": [
+        "L. W. Batten (1913)",
+        "W. H. Kosters: 398 B.C. (as reported by Batten)"
+      ],
+      "summary": "Only the Chronicler names the king; Ezra himself says \"the king\"; the Aramaic letter is not authentic in its present form.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
       ]
     }
   ],

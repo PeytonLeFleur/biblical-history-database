@@ -1,0 +1,371 @@
+{
+  "book": "Ezra",
+  "chapter": 7,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.7.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTT4SFXY9F4AC7NRWX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTT4SFXY9F4AC7NRWX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTT4SFXY9F4AC7NRWX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTT4SFXY9F4AC7NRWX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTT4SFXY9F4AC7NRWX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTT4SFXY9F4AC7NRWX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT5ZCXGW96WQXYY02S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT5ZCXGW96WQXYY02S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT5ZCXGW96WQXYY02S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT5ZCXGW96WQXYY02S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTQHYDR5A6T49CRAT0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.7.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTQHYDR5A6T49CRAT0"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VQCQKTT4SFXY9F4AC7NRWX",
+      "title": "Ezra's priestly genealogy; a skilled scribe in the Law of Moses",
+      "passage": "Ezra.7.1-Ezra.7.6",
+      "description": "In the reign of Artaxerxes, Ezra son of Seraiah, descended through Zadok from Aaron, a scribe skilled in the Law of Moses, went up from Babylon; the king granted all his request.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "genealogical"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Artaxerxes king of Persia",
+          "matched_entity_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "1Chr.6.3-1Chr.6.15",
+        "2Kgs.25.18"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The genealogy omits generations.",
+        "Which Artaxerxes."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+    },
+    {
+      "id": "cnd_01M4VQCQKT5ZCXGW96WQXYY02S",
+      "title": "Ezra's journey summarised: from 1/I to 1/V of Artaxerxes's seventh year",
+      "passage": "Ezra.7.7-Ezra.7.10",
+      "description": "Some of the people, priests, Levites, singers, gatekeepers and temple servants went up in the seventh year; Ezra began going up on the first of the first month and came to Jerusalem on the first of the fifth month; he set his heart to study, do and teach the law.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "migration",
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.7.7",
+          "phrase": "in the seventh year of Artaxerxes the king",
+          "kind": "regnal"
+        },
+        {
+          "ref": "Ezra.7.9",
+          "phrase": "on the first day of the first month … on the first day of the fifth month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Ezra.8.31-Ezra.8.32"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+    },
+    {
+      "id": "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ",
+      "title": "Artaxerxes's letter to Ezra (Aramaic): return, funds, offerings, magistrates, penalties",
+      "passage": "Ezra.7.11-Ezra.7.26",
+      "description": "The king authorises any Israelite to go with Ezra; Ezra to inquire about Judah by the law of God; silver and gold from the king, his counsellors and Babylonia; supplies from the treasurers beyond the River up to set limits; temple staff exempt from tax; Ezra to appoint magistrates and judges and enforce the law with penalties.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal",
+        "religious",
+        "economic"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Artaxerxes, king of kings",
+          "matched_entity_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.6.8-Ezra.6.12",
+        "Neh.2.7-Neh.2.9"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Authenticity of the Aramaic letter (Batten: \"certainly not authentic in its present form\")."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+    },
+    {
+      "id": "cnd_01M4VQCQKTQHYDR5A6T49CRAT0",
+      "title": "Ezra's blessing of the LORD who moved the king",
+      "passage": "Ezra.7.27-Ezra.7.28",
+      "description": "Blessed be the LORD who put it in the king's heart to beautify his house; strengthened, Ezra gathered leaders to go up.",
+      "record_type": "teaching",
+      "literary_classification": "poetry",
+      "narrative_mode": "poetic",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "low",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-ezra-7-8.md"
+}

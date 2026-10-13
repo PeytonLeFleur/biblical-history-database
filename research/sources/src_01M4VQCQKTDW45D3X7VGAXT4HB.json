@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4VQCQKTDW45D3X7VGAXT4HB",
+  "title": "Josephus, Antiquities 11.5.1–2 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Josephus",
+    "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 11.5.1–2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "11.5.1: after Darius, \"Xerxes his son\"; Joacim son of Jeshua high priest; Esdras, a priest in Babylon well acquainted with Xerxes, receives a letter from \"Xerxes, king of kings\"; 11.5.2: they left Babylon in the first month and came to Jerusalem in the fifth month \"of the seventh year of the reign of Xerxes\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

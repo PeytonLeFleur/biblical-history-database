@@ -1,0 +1,431 @@
+{
+  "book": "Ezra",
+  "chapter": 8,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.8.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTZM8AR220K8AEA098"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTZM8AR220K8AEA098"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTZM8AR220K8AEA098"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTZM8AR220K8AEA098"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTZM8AR220K8AEA098"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTZM8AR220K8AEA098"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTK7A3E01FF5SS223G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTK7A3E01FF5SS223G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKTK7A3E01FF5SS223G"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8E5FF6MHDMXV81VY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8E5FF6MHDMXV81VY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8E5FF6MHDMXV81VY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8E5FF6MHDMXV81VY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8E5FF6MHDMXV81VY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8E5FF6MHDMXV81VY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8E5FF6MHDMXV81VY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8CVZP91H9BFW77VW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8CVZP91H9BFW77VW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8CVZP91H9BFW77VW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8CVZP91H9BFW77VW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8CVZP91H9BFW77VW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.8.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VQCQKT8CVZP91H9BFW77VW"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ",
+      "title": "The heads of families who went up with Ezra (1,496 males in twelve groups)",
+      "passage": "Ezra.8.1-Ezra.8.14",
+      "description": "Priests (Gershom, Daniel), the Davidide Hattush, and twelve family heads with their registered males: 150, 200, 300, 50, 70, 80, 218, 160, 28, 110, 60, 70.",
+      "record_type": "genealogy",
+      "literary_classification": "genealogy",
+      "narrative_mode": "reference_to_other_event",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.2.3-Ezra.2.35"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+    },
+    {
+      "id": "cnd_01M4VQCQKTZM8AR220K8AEA098",
+      "title": "No Levites found at the Ahava; Levites and temple servants recruited from Casiphia",
+      "passage": "Ezra.8.15-Ezra.8.20",
+      "description": "Encamped three days at the river that runs to Ahava, Ezra found no Levites; he sent to Iddo at Casiphia, and Sherebiah, Hashabiah and others came with 38 Levites and 220 temple servants.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "migration"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [
+        "Location of Ahava and Casiphia unknown."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+    },
+    {
+      "id": "cnd_01M4VQCQKTK7A3E01FF5SS223G",
+      "title": "Fast at the Ahava for a safe journey; no royal escort requested",
+      "passage": "Ezra.8.21-Ezra.8.23",
+      "description": "Ezra proclaimed a fast to seek a straight way, being ashamed to ask the king for soldiers after saying God protects those who seek him.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.2.9"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+    },
+    {
+      "id": "cnd_01M4VQCQKT8E5FF6MHDMXV81VY",
+      "title": "Silver, gold and vessels weighed out to twelve priests",
+      "passage": "Ezra.8.24-Ezra.8.30",
+      "description": "Ezra weighed 650 talents of silver, silver vessels of 100 talents, 100 talents of gold, twenty gold bowls of 1,000 darics and two bronze vessels to twelve leading priests to guard to Jerusalem.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "economic",
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [
+        "The quantities are very large."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+    },
+    {
+      "id": "cnd_01M4VQCQKT8CVZP91H9BFW77VW",
+      "title": "Departure on 12/I, arrival in Jerusalem, treasure weighed, offerings, the king's orders to the satraps",
+      "passage": "Ezra.8.31-Ezra.8.36",
+      "description": "They left the Ahava on the twelfth of the first month, were delivered from enemies and ambushes, came to Jerusalem, rested three days, weighed the treasure on the fourth day, offered sacrifices for all Israel and delivered the king's commissions to the satraps and governors beyond the River.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "migration",
+        "religious",
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.8.31",
+          "phrase": "on the twelfth day of the first month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Ezra.7.9"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "1/I (7:9) as the start of the going up vs 12/I (8:31) as the departure from the Ahava."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-ezra-7-8.md"
+}
