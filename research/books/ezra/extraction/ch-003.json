@@ -1,0 +1,259 @@
+{
+  "book": "Ezra",
+  "chapter": 3,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Ezra.3.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0WG5H1X1TV8MRVGDJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0WG5H1X1TV8MRVGDJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0WG5H1X1TV8MRVGDJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0WG5H1X1TV8MRVGDJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0WG5H1X1TV8MRVGDJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0WG5H1X1TV8MRVGDJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB0PQMVDYHFX8G5EW7S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB01BJ8YGMQFDNTG9SV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB01BJ8YGMQFDNTG9SV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB01BJ8YGMQFDNTG9SV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB01BJ8YGMQFDNTG9SV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB01BJ8YGMQFDNTG9SV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Ezra.3.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VEBZB01BJ8YGMQFDNTG9SV"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VEBZB0WG5H1X1TV8MRVGDJ",
+      "title": "Altar rebuilt in the seventh month; Feast of Booths; daily offerings resumed",
+      "passage": "Ezra.3.1-Ezra.3.6",
+      "description": "In the seventh month the people gathered in Jerusalem; Jeshua and Zerubbabel built the altar on its base despite fear of the peoples of the lands, kept the Feast of Booths and resumed the burnt offerings from the first day of the seventh month, though the Temple foundation was not yet laid.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Jeshua the son of Jozadak",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Zerubbabel the son of Shealtiel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.3.1",
+          "phrase": "When the seventh month had come",
+          "kind": "relative"
+        },
+        {
+          "ref": "Ezra.3.6",
+          "phrase": "From the first day of the seventh month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Lev.23.33-Lev.23.43",
+        "Num.29.12-Num.29.38"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB08P6YBRPC8QAYH40G"
+    },
+    {
+      "id": "cnd_01M4VEBZB0PQMVDYHFX8G5EW7S",
+      "title": "Materials: masons, carpenters, cedar from Lebanon via Joppa by Cyrus's grant",
+      "passage": "Ezra.3.7",
+      "description": "Money for masons and carpenters; food, drink and oil to Sidon and Tyre for cedar floated to Joppa, according to the grant from Cyrus.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "economic",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Cyrus King of Persia",
+          "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Joppa",
+          "matched_entity_id": "loc_01M4VEBZB0W1302DTV34KJDR69",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "1Kgs.5.6-1Kgs.5.9",
+        "2Chr.2.16"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB08P6YBRPC8QAYH40G"
+    },
+    {
+      "id": "cnd_01M4VEBZB01BJ8YGMQFDNTG9SV",
+      "title": "Foundation of the Temple laid in the second year, second month; joy and weeping",
+      "passage": "Ezra.3.8-Ezra.3.13",
+      "description": "In the second month of the second year of their coming, Zerubbabel, Jeshua and the Levites from twenty years upward began the work; when the foundation was laid the priests sounded trumpets and the Levites sang \"For he is good\"; the old men who had seen the first house wept, others shouted for joy.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Zerubbabel the son of Shealtiel",
+          "matched_entity_id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jeshua the son of Jozadak",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "God's house at Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Ezra.3.8",
+          "phrase": "in the second year of their coming to God's house at Jerusalem, in the second month",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Ezra.5.16",
+        "Hag.2.18",
+        "Hag.2.3",
+        "Zech.4.9-Zech.4.10",
+        "1Kgs.6.1"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Ezra 5:16 credits Sheshbazzar with the foundation; Hag 2:18 and Zech 4:9 connect it with Darius's second year (520)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-ezra-2-3.md"
+}

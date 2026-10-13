@@ -1,0 +1,942 @@
+# The foundation of the Second Temple laid (Ezra 3:8–13)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 3:8–13 (narration)
+- Ezra 5:16 (reference): Sheshbazzar "laid the foundations".
+- Haggai 2:18 (reference): The day of the foundation of the LORD's temple (24/IX of Darius's 2nd year).
+
+## Biblical account
+
+In the second month of the second year of their coming, Zerubbabel, Jeshua and the Levites from twenty years old began the work; when the builders laid the foundation, priests with trumpets and Levites with cymbals sang "For he is good"; the people shouted, while old priests, Levites and heads of families who had seen the first house wept aloud, so that the sounds could not be told apart.
+
+## Historical setting
+
+**Period:** Spring 536/535 BC (Ezra's framework) or 520 BC (Haggai)
+
+Ezra 4:24 says the work stopped until Darius's second year (520); Ezra 5:16 says Sheshbazzar laid the foundations; Haggai 2:18 speaks of the day the foundation of the Temple was laid in the ninth month of Darius's second year, and Zech 4:9 of Zerubbabel's hands laying it. [1, 2, 3]
+
+### Rulers
+
+- Cyrus II (the Great): King of Persia (Ezra's framework) [1]
+
+## Date and chronology
+
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+- **537 BC – 530 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → cst_01M4VEBZB27XM6HFJX8SSFAM4C → “in the second year of their coming to God's house at Jerusalem, in the second month”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → “according to the grant that they had from Cyrus King of Persia”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “in the second year of their coming to God's house at Jerusalem, in the second month” (Ezra 3:8) → `years_later` The return of the exiles with Zerubbabel and Jeshua; the list of returnees (Ezra 2); assumptions: The "second year of their coming" counted from the arrival; 1–2 years later (operator margin).
+- “Then ceased the work … until the second year of the reign of Darius” (Ezra 4:24) → `before` Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12); assumptions: Ezra's sequence; Batten (1913) instead places the foundation scene itself in 520.
+- “according to the grant that they had from Cyrus King of Persia” (Ezra 3:7) → `within_reign` reign of Cyrus II (the Great); assumptions: Ezra's framework places 3:1–13 in Cyrus's reign (cf. 4:5). This is the text's chronology; the alternative placement under Darius is recorded as disputed.
+
+## Geography
+
+- Jerusalem (Temple site; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **Foundation laid c. 536/535 under Cyrus; work then stopped until 520** (C. F. Keil (1873): B.C. 535 or 534, H. E. Ryle (1893): "in all probability" 536, D. Guzik): Ezra 5:2 "began to build" means resumption; Hag 2:18 dates the prophet's word, not the foundation; Ezra 5:16 credits Sheshbazzar, the leader at the time. [2, 1, 5]
+- **The foundation scene belongs to 520 under Darius; the Chronicler placed it under Cyrus** (L. W. Batten (1913)): Haggai and Zechariah know of no earlier foundation; Ezra 3:6b–4:3 parallels the Aramaic account of the 520 rebuilding. [3]
+- **Under Darius, in the second year after Zorobabel's arrival** (1 Esdras 5:56–57, Josephus Ant. 11.4.1–2): Both place Zorobabel's return under Darius, so "the second year of their coming" falls in his reign. [6, 7]
+- **Unhistorical** (W. H. Kosters (as reported by Batten and Ryle)): Rejected the account; Batten answers that the passage is a displaced but genuine parallel. [3, 1]
+
+## Claims and evidence
+
+### The foundation of the Second Temple was laid in the second year after the return under Cyrus (c. 536/535 BC), before the work stopped until 520.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Ezra 3:8 with 4:24 and 5:16 supports an early foundation; Keil (535/534) and Ryle (536) defend it, Ryle answering three objections. Batten places the foundation in 520 on the basis of Haggai and Zechariah and regards Ezra 3:6b–4:3 as a displaced parallel; 1 Esdras and Josephus place the scene in Darius's reign; Kosters (reported by both) rejected it as unhistorical. No external evidence dates the foundation.
+
+- *Supporting (indirect):* The foundation of the new temple laid B.C. 535 or 534. (p. 55) [2]
+- *Supporting (indirect):* "In all probability, in the year 536"; objections from Ezra 5:2, Hag 2:18 and Ezra 5:16 answered. (Introduction) [1]
+- *Challenging (indirect):* Foundations laid 24/IX of Darius's second year, 520 B.C.; the Chronicler placed the account under Cyrus. (pp. 40–41, 114–115) [3]
+- *Challenging (direct):* Foundation in the second year after Zorobabel's coming, which 1 Esdras places under Darius. (1 Esd 5:56–57 with 5:1–6) [6]
+- *Challenging (direct):* The work was done "at the command of Darius"; foundations laid on the first day of the second month of the second year. (Ant. 11.4.1–2) [7]
+
+### Some who saw the foundation laid had seen Solomon's Temple, destroyed about fifty years earlier.
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+The interval from 587/586 to c. 536 (or to 520) is 50–67 years; Keil notes that some old men were still alive in Darius's second year (Hag 2:3). The claim is plausible on the interval alone.
+
+- *Supporting (indirect):* The older men might have seen the former house; some were still living in Darius's second year (Hag 2:3). (p. 55) [2]
+
+## Related passages and events
+
+- this event → **direct reference** → Ezra 5:16 (high): Sheshbazzar "laid the foundations of God's house" — attributed to another leader.
+- this event → **thematic parallel** → Haggai 2:18 (high): "From the day that the foundation of the LORD's temple was laid" — in Darius's second year; read by Batten as the date of the foundation, by Ryle as the date of the prophecy. [3, 1]
+- this event → **thematic parallel** → Haggai 2:3 (high): "Who is left among you who saw this house in its former glory?" — the old men's weeping.
+- this event → **thematic parallel** → Zechariah 4:9–10 (high): "The hands of Zerubbabel have laid the foundation of this house"; "the day of small things".
+- this event → **followed by** → Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12) (high): After opposition the work resumed under Darius, whose search confirmed Cyrus's decree (Ezra 4–6).
+- this event → **thematic parallel** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (high): The Temple begun here was completed on 3 Adar of Darius's sixth year (Ezra 6:15).
+- this event → **thematic parallel** → Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (medium): Old men "who had seen the first house" — destroyed in 587/586.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that the second month was when Solomon began his Temple (Kidner) and links the weeping of the old men with Hag 2:1–9 and Zech 4:8–10. [5]
+
+## Unanswered questions and research gaps
+
+- Post-1913 studies of the Haggai–Ezra chronology not read.
+
+## Disputes
+
+- The foundation of the Second Temple was laid in the second year after the return under Cyrus (c. 536/535 BC), before the work stopped until 520.
+
+## Sources
+
+1. Ryle, Herbert Edward. The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1893. <https://archive.org/details/booksofezranehem1893ryle> — *scholarly commentary; verification: claim checked*
+2. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+3. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Guzik, David. Ezra 3 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-3/> — *theological commentary; verification: claim checked*
+6. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 5). eBible.org. <https://ebible.org/eng-web/1ES05.htm> — *ancient primary text; verification: claim checked*
+7. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.3.10 and 11.4.1–2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*

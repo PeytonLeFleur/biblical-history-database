@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+  "title": "Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Keil, C. F.",
+    "Taylor, Sophia (trans.)"
+  ],
+  "publisher": "T. & T. Clark, Edinburgh, 1873",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/booksofezranehem00keil",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1873)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text of the 1873 translation",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 45–46: 42,360 in Ezra, Nehemiah and 1 Esdras; itemised totals 29,818, 31,089 and 30,143 (table by groups); \"undoubtedly owing to mere clerical errors\"; rejects the view of Seder Olam, Rashi and Ussher that the total adds northern Israelites, and J. D. Michaelis's use of 1 Esd 5:41 (\"from twelve years old\") for an age distinction; p. 55: Solomon's temple destroyed B.C. 588, the new foundation \"laid B.C. 535 or 534\"; some old men still living in Darius's second year (Hag 2:2)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

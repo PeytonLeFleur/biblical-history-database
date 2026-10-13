@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N",
+  "title": "Ezra 2 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/ezra-2/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the commentary on Ezra 2",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Eleven leaders in 2:2, twelve in Neh 7:7 (Nahamani dropped, Kidner); Zerubbabel probably the same as Sheshbazzar (Ezra 5:16 vs 3:8); Jeshua = Joshua of Haggai and Zechariah (Kidner); Arah 775 vs 652 in Neh 7:10 (copyist error or attrition, Poole); three copies of the list (Clarke); Kidner: 42,360 in all three, items total 29,818 (Ezra), 31,089 (Nehemiah), 30,143 (1 Esdras) — explanations \"the narrative is silent\"; Murashu archives with Jewish names (Yamauchi); population estimates for postexilic Judah 20,000–235,000 (Yamauchi)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

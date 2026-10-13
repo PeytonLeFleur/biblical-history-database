@@ -1,0 +1,155 @@
+{
+  "event_id": "evt_01M4VEBZB08P6YBRPC8QAYH40G",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Batten 1913 pp. 40–41",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "WEB 1 Esdras 5:47–55",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Pleiades: Joppa",
+      "engine": "pleiades",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Ezra 3",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "No astronomical data bear on the event."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VEBZBXY7A3AWSQBCF33JFZ",
+      "statement": "Joppa is Jaffa (Yafo).",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Pleiades associates Ioppe, Yafo, Jaffa and Yapu with the same site with certainty; the identification is not in dispute.",
+      "supporting_evidence": [
+        "evd_01M4VEBZBXKXPNXX86AKBWXYZW"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VEBZBXTWBMWV2F243Y3RJN"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VEBZBXGG01V8VHJ0BB9D5C",
+      "statement": "The returned community rebuilt the altar on the Temple site and resumed sacrifices before the Temple was rebuilt.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Ezra 3:1–6 and 1 Esd 5:47–53 (dependent) describe it; Batten accepts the altar restoration as historical against Kosters. No external evidence bears on it.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VEBZBYK84QTHT89X19ZR7J"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VEBZBXKXPNXX86AKBWXYZW",
+      "claim_ids": [
+        "clm_01M4VEBZBXY7A3AWSQBCF33JFZ"
+      ],
+      "source_id": "src_01M4VEBZAFDDYVR9MW6C4DSNKZ",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Ioppe, Yafo, Jaffa, Yapu (certain).",
+      "locator": "names",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "pleiades"
+    },
+    {
+      "id": "evd_01M4VEBZBXTWBMWV2F243Y3RJN",
+      "claim_ids": [
+        "clm_01M4VEBZBXY7A3AWSQBCF33JFZ"
+      ],
+      "source_id": "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Cedar conveyed on rafts to the harbour of Joppa.",
+      "locator": "1 Esd 5:55",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VEBZBYK84QTHT89X19ZR7J",
+      "claim_ids": [
+        "clm_01M4VEBZBXGG01V8VHJ0BB9D5C"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The altar was restored first; the passage implies only that this altar had not been rebuilt.",
+      "locator": "pp. 40–41",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "No archaeological evidence for the restored altar was sought (the Temple Mount is unexcavated)."
+  ]
+}

@@ -1,0 +1,970 @@
+# The return of the exiles with Zerubbabel and Jeshua; the list of returnees (Ezra 2)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 2:1–70 (narration)
+- Nehemiah 7:6–73 (parallel_account): Nehemiah's copy of the list (figures differ).
+
+## Biblical account
+
+The province's people who returned from the captivity, each to his town, with eleven named leaders headed by Zerubbabel and Jeshua; the families and townspeople, four priestly houses (4,289), 74 Levites, 128 singers, 139 gatekeepers and 392 temple servants and descendants of Solomon's servants; 652 who could not prove their descent and priests excluded pending Urim and Thummim; a total of 42,360 with 7,337 servants and 200 singers, 736 horses, 245 mules, 435 camels and 6,720 donkeys; gifts of 61,000 darics, 5,000 minas of silver and 100 priests' garments.
+
+## Historical setting
+
+**Period:** 538 BC onward (Ezra's framework); possibly a composite list
+
+Ezra 1:11 ends with Sheshbazzar bringing the vessels "when the captives were brought up"; Ezra 2 follows with the list. 1 Esdras 5:1–6 places this list after Zerubbabel's contest before Darius, in Darius's second year. Ryle suggests that Zerubbabel may have led a second contingent; Batten finds features (qāhāl; the gifts) suggesting a date later than Cyrus. [1, 2, 3]
+
+### Rulers
+
+- Cyrus II (the Great): King of Persia (Ezra's framework) [1]
+
+## Date and chronology
+
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+- **538 BC – 531 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B629946Z6CJHP7TNAM3|cst_01M4V10B629946Z6CJHP7TNAM3#own-convention → “Now these are the children of the province who went up out of the captivity”
+  - Latest bound from: reign of Cyrus II (the Great) (reign end) → cst_01M4VEBZB2BYPXWGWQ36CZHNZ1 → cst_01M4VEBZB2553YTBN5MH9M4K6S
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Now these are the children of the province who went up out of the captivity” (Ezra 2:1) → `after` Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5); assumptions: Ezra places the return after Cyrus's decree (1:1–11); 1 Esd 5:1–6 places it under Darius — that reading is recorded as disputed and not modelled.
+
+## Geography
+
+- Babylon (Place of exile; confidence: certain)
+  - Babylon (Pleiades 893951): certain [4]
+- Jerusalem (Destination; confidence: certain)
+  - Pleiades representative point: certain [5]
+
+## Competing reconstructions
+
+- **The first return under Cyrus (538/537), led by Zerubbabel and Jeshua** (Ezra 1–3 (framework), C. F. Keil (1873), D. Guzik): The list records those who came up after Cyrus's decree. [6, 7]
+- **A return (or the list) dated to Darius I's reign** (1 Esdras 5:1–6, Josephus (following 1 Esdras), L. W. Batten (1913): features later than Cyrus): 1 Esdras sends Zorobabel up under Darius; Batten reads the list as reflecting a later, organised community. [3, 8, 2]
+- **Two returns: Sheshbazzar's, then Zerubbabel's second contingent** (H. E. Ryle (1893), tentatively): Sheshbazzar's position may have been temporary; Zerubbabel arrived later as resident governor. [1]
+
+## Claims and evidence
+
+### The itemised figures of the return list fall short of its stated total of 42,360 in all three versions: 29,818 (Ezra 2), 31,089 (Nehemiah 7), 30,143 (1 Esdras 5).
+
+**Classification:** Strongly supported (machine proposed) · layer: text
+
+The Ezra and Nehemiah sums were recomputed for this unit from the WEB text (42 and 40 items: 29,818 and 31,089). Keil tabulates all three totals and Kidner (via Guzik) gives the same figures. The 1 Esdras sum was not recomputed because the WEB notes give variant readings for several items. Josephus gives a different total again: 42,462.
+
+- *Supporting (direct):* Totals 29,818, 31,089, 30,143 against 42,360 in all three. (pp. 45–46) [6]
+- *Supporting (indirect):* The same three totals. (on 2:64 (Kidner)) [7]
+- *Context (direct):* Total of returnees 42,462. (Ant. 11.1.3) [9]
+- *Context (direct):* Total 42,360 "from twelve years old and upward". (1 Esd 5:41) [3]
+
+### The shortfall between the itemised figures and the total of 42,360 results from copying errors rather than from groups left out of the items.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Keil attributes the differences to clerical errors and rejects two alternatives he reports: that the total adds Israelites of the northern tribes (Seder Olam, Rashi, Ussher) and that it counts ages 12–20 (J. D. Michaelis, from 1 Esd 5:41). Kidner (via Guzik) lists further suggestions (women, adolescents) and notes that the narrative is silent. Batten sees the Chronicler's fondness for large numbers in the figures.
+
+- *Supporting (indirect):* "Undoubtedly owing to mere clerical errors." (pp. 45–46) [6]
+- *Challenging (indirect):* Seder Olam, Rashi and Ussher: the total includes members of the northern tribes. (p. 45) [6]
+- *Context (indirect):* Kidner: explanations as northern tribes, women or adolescents; "the narrative is silent". (on 2:64) [7]
+- *Context (indirect):* The figures show the Chronicler's fondness for large numbers. (p. 101) [2]
+
+### The returnees of Ezra 2 came up under Cyrus (from 538 BC) rather than under Darius I.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Ezra's narrative attaches the list to the return after Cyrus's decree; 1 Esdras 5:1–6 (followed by Josephus) sends Zorobabel and the listed families up in Darius's second year; Ryle suggests a later second contingent under Zerubbabel; Batten finds features suggesting a date later than Cyrus. No external document dates the list.
+
+- *Supporting (indirect):* Treats the list as the first return under Cyrus. (pp. 45–55) [6]
+- *Challenging (direct):* The families go up under Darius, after Zorobabel's speech in his second year. (1 Esd 5:1–6) [3]
+- *Challenging (direct):* Follows 1 Esdras: Zorobabel's return after the contest before Darius. (Ant. 11.3–4) [8]
+- *Challenging (indirect):* qāhāl and the gifts suggest a date later than Cyrus. (pp. 101–103) [2]
+- *Context (indirect):* Zerubbabel perhaps led a second contingent. (Introduction) [1]
+
+### The "darics" of Ezra 2:69 are Persian gold coins; their mention in a list of the 530s is debated.
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+Ryle identifies them as the Persian gold daric but calls the derivation from Darius "far from certain"; Batten notes that some connect the word with the Greek drachma and that Smend thought the term must be a later introduction if the list is early. No numismatic evidence was read in this session.
+
+- *Supporting (indirect):* The Persian gold daric; derivation from Darius uncertain. (on 2:69) [1]
+- *Context (indirect):* Daric or drachma disputed; Smend: a later term if the list is early. (p. 101) [2]
+
+*Limitations:* Numismatic literature on the earliest darics not read.
+
+## Related passages and events
+
+- this event → **same event** → Nehemiah 7:6–73 (high): Nehemiah reproduces the same list ("the book of the genealogy of those who came up at the first", Neh 7:5), with different figures.
+- this event → **same event** → Cyrus returns the Temple vessels to Sheshbazzar; the first return (Ezra 1:5–11) (medium): Ezra 1:11 ends with Sheshbazzar bringing up the vessels "when the captives were brought up"; Ezra 2 lists those who came up. Whether this is one return (Guzik; Keil) or two (Ryle, tentatively) is open. [7, 1]
+- Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) → **historical consequence** → this event (high): The return follows the decree (Ezra 1:1–4; 1:5).
+- this event → **thematic parallel** → Ezra 8:35 (medium): Twelve leaders (Neh 7:7) and twelve bulls for all Israel (Kidner via Guzik). [7]
+- this event → **followed by** → The altar rebuilt in Jerusalem and the Feast of Booths kept (Ezra 3:1–7) (high): In the seventh month the settled people gathered in Jerusalem.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik takes the list as the first wave of repatriation, treats Zerubbabel and Sheshbazzar as probably the same person, and quotes Kidner on the three different itemised totals. [7]
+
+## Unanswered questions and research gaps
+
+- Murashu archives (via Yamauchi in Guzik) not read.
+- The 1 Esdras itemised total not recomputed (variant readings).
+- Numismatic evidence for darics not researched.
+- Whether Sheshbazzar and Zerubbabel are the same person (under review on the vessels record).
+- Population of post-exilic Judah: estimates range from 20,000 (Albright) to 235,000 (Schultz) (Yamauchi via Guzik; not verified).
+
+## Disputes
+
+- The shortfall between the itemised figures and the total of 42,360 results from copying errors rather than from groups left out of the items.
+- The returnees of Ezra 2 came up under Cyrus (from 538 BC) rather than under Darius I.
+
+## Sources
+
+1. Ryle, Herbert Edward. The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1893. <https://archive.org/details/booksofezranehem1893ryle> — *scholarly commentary; verification: claim checked*
+2. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+3. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 5). eBible.org. <https://ebible.org/eng-web/1ES05.htm> — *ancient primary text; verification: claim checked*
+4. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
+5. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+6. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+7. Guzik, David. Ezra 2 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-2/> — *theological commentary; verification: claim checked*
+8. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.3.10 and 11.4.1–2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+9. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.1.3 (trans. W. Whiston) — number of returnees. Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848#ant-11-1-3> — *ancient primary text; verification: claim checked*

@@ -1,0 +1,142 @@
+{
+  "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The province's people who returned from the captivity, each to his town, with eleven named leaders headed by Zerubbabel and Jeshua; the families and townspeople, four priestly houses (4,289), 74 Levites, 128 singers, 139 gatekeepers and 392 temple servants and descendants of Solomon's servants; 652 who could not prove their descent and priests excluded pending Urim and Thummim; a total of 42,360 with 7,337 servants and 200 singers, 736 horses, 245 mules, 435 camels and 6,720 donkeys; gifts of 61,000 darics, 5,000 minas of silver and 100 priests' garments.",
+    "passage": "Ezra.2.1-Ezra.2.70"
+  },
+  "setting": {
+    "period": "538 BC onward (Ezra's framework); possibly a composite list",
+    "body": "Ezra 1:11 ends with Sheshbazzar bringing the vessels \"when the captives were brought up\"; Ezra 2 follows with the list. 1 Esdras 5:1–6 places this list after Zerubbabel's contest before Darius, in Darius's second year. Ryle suggests that Zerubbabel may have led a second contingent; Batten finds features (qāhāl; the gifts) suggesting a date later than Cyrus.",
+    "citations": [
+      "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "King of Persia (Ezra's framework)",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VEBZB27XM6HFJX8SSFAM4C",
+      "subject": "evt_01M4VEBZB0RB461HH81EAPNJFW",
+      "object": "evt_01M4V10B5RBQJP52A16XSXQW14",
+      "relation": "after",
+      "textual_assertion": "Now these are the children of the province who went up out of the captivity",
+      "passage": "Ezra.2.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Ezra places the return after Cyrus's decree (1:1–11); 1 Esd 5:1–6 places it under Darius — that reading is recorded as disputed and not modelled."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Place of exile",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Destination",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Tirshatha (2:63)",
+      "gloss": "A Persian title for the governor (Adeney via Guzik); in Neh 8:9 applied to Nehemiah.",
+      "citations": [
+        "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N"
+      ]
+    },
+    {
+      "term": "darics (2:69)",
+      "gloss": "Persian gold coins (Ryle); Batten notes that some connect the word with the Greek drachma. Whether the name derives from Darius is \"far from certain\" (Ryle).",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "The first return under Cyrus (538/537), led by Zerubbabel and Jeshua",
+      "proponents": [
+        "Ezra 1–3 (framework)",
+        "C. F. Keil (1873)",
+        "D. Guzik"
+      ],
+      "summary": "The list records those who came up after Cyrus's decree.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N"
+      ]
+    },
+    {
+      "label": "A return (or the list) dated to Darius I's reign",
+      "proponents": [
+        "1 Esdras 5:1–6",
+        "Josephus (following 1 Esdras)",
+        "L. W. Batten (1913): features later than Cyrus"
+      ],
+      "summary": "1 Esdras sends Zorobabel up under Darius; Batten reads the list as reflecting a later, organised community.",
+      "citations": [
+        "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP",
+        "src_01M4VEBZA8ACZ01KS80P9HRAQR",
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    },
+    {
+      "label": "Two returns: Sheshbazzar's, then Zerubbabel's second contingent",
+      "proponents": [
+        "H. E. Ryle (1893), tentatively"
+      ],
+      "summary": "Sheshbazzar's position may have been temporary; Zerubbabel arrived later as resident governor.",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N",
+      "layer": "interpretation",
+      "paraphrase": "Guzik takes the list as the first wave of repatriation, treats Zerubbabel and Sheshbazzar as probably the same person, and quotes Kidner on the three different itemised totals.",
+      "url": "https://enduringword.com/bible-commentary/ezra-2/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Whether Sheshbazzar and Zerubbabel are the same person (under review on the vessels record).",
+    "Population of post-exilic Judah: estimates range from 20,000 (Albright) to 235,000 (Schultz) (Yamauchi via Guzik; not verified)."
+  ],
+  "not_applicable": {}
+}

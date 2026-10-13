@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+  "title": "A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Batten, Loring W."
+  ],
+  "publisher": "T. & T. Clark / Scribner, 1913",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/criticalexegetic00battuoft",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1913)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the OCR text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "pp. 40–41: the altar restored first; \"the foundations of the new temple were laid on the 24th day of the 9th month of the 2d year of Darius, 520 B.C. (Hg.)\"; against Kosters, the altar passage implies only that this altar had not been restored; p. 101: the gifts \"show that the passage followed the rebuilding of the temple\"; \"darics\" vs drachma disputed; Smend says the word would be a later introduction if the list is early; the figures show \"the hand of the Chr.\"; p. 103: qāhāl \"suggests a date later than Cyrus\"; total 42,360 or 42,308 (Greek of Nehemiah); pp. 114–115: Ezra 3:6b–4:3 parallels the Aramaic account of the rebuilding (cc. 5–6); the Chronicler \"made sad havoc of his sources\", placing the work under Cyrus; this disposes of Kosters's claim that vv. 8–13 are unhistorical",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VEBZCZTHMGF70W2Q039EZJ",
+  "record_kind": "event",
+  "record_id": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: foundation of the Second Temple (Ezra 3:8–13), dated c. 536 or 520",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T20:13:24.767Z",
+  "decisions": [],
+  "is_fixture": false
+}

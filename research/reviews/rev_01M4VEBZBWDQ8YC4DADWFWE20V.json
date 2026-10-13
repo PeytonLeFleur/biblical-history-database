@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VEBZBWDQ8YC4DADWFWE20V",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VEBZBS44R0TSR9W2AX7TZ1",
+  "record_revision": 1,
+  "reason": "Disputed: did the families listed in Ezra 2 return under Cyrus (Ezra) or under Darius I (1 Esdras 5; Josephus)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T20:13:24.732Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "evt_01M4VEBZB0RB461HH81EAPNJFW",
+  "slug": "return-of-exiles-with-zerubbabel-and-jeshua",
+  "title": "The return of the exiles with Zerubbabel and Jeshua; the list of returnees (Ezra 2)",
+  "summary": "A list of the families, towns, priests, Levites and temple servants who returned from Babylon with Zerubbabel, Jeshua and other leaders — 42,360 in all with 7,337 servants — and the gifts they made for the house of God.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VEBZB0QMR9A31WGTYSKQ63",
+    "cnd_01M4VEBZB0M38SSE890C188S2N",
+    "cnd_01M4VEBZB09M049FPWC1M6C34T",
+    "cnd_01M4VEBZB0BZVM9DBG0PNQKWTC",
+    "cnd_01M4VEBZB0FFVBN48S8THJFK86",
+    "cnd_01M4VEBZB07TREEVVW5CRXMKSM"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "migration",
+    "religious",
+    "genealogical"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Ezra.2.1-Ezra.2.70",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "Neh.7.6-Neh.7.73",
+      "mention_type": "parallel_account",
+      "notes": "Nehemiah's copy of the list (figures differ)."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

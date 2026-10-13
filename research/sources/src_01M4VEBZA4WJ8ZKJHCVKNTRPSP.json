@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP",
+  "title": "World English Bible — Apocrypha/Deuterocanon (1 Esdras 5)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible (translators)"
+  ],
+  "publisher": "eBible.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/eng-web/1ES05.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 1 Esdras 5",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched https://ebible.org/eng-web/1ES05.htm",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "5:1–6: the heads of families go up under Darius, with an escort of one thousand cavalry; Zorobabel \"spoke wise words before Darius … in the second year of his reign, in the month Nisan\"; 5:7–40: the list (with variant readings in the notes); 5:41: \"from twelve years old and upward … forty two thousand three hundred sixty\"; 5:45: one thousand minas of gold, five thousand of silver; 5:47–55: altar in the seventh month; cedar to Joppa \"according to the commandment … by Cyrus\"; 5:56–57: foundation \"on the new moon of the second month, in the second year after they had come\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Greek parallel to Ezra 2–3; quoted only briefly.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

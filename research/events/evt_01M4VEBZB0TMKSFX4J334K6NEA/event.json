@@ -1,0 +1,70 @@
+{
+  "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA",
+  "slug": "foundation-of-the-second-temple-laid-ezra-3",
+  "title": "The foundation of the Second Temple laid (Ezra 3:8–13)",
+  "summary": "In the second month of the second year after their arrival, Zerubbabel, Jeshua and the Levites began the work; at the laying of the foundation the priests and Levites praised the LORD while the old men who had seen the first Temple wept.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VEBZB01BJ8YGMQFDNTG9SV"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious",
+    "construction"
+  ],
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Ezra.3.8-Ezra.3.13",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "Ezra.5.16",
+      "mention_type": "reference",
+      "notes": "Sheshbazzar \"laid the foundations\"."
+    },
+    {
+      "passage": "Hag.2.18",
+      "mention_type": "reference",
+      "notes": "The day of the foundation of the LORD's temple (24/IX of Darius's 2nd year)."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

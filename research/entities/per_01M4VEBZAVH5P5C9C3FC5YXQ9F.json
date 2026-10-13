@@ -1,0 +1,30 @@
+{
+  "kind": "person",
+  "id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+  "slug": "jeshua-son-of-jozadak",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N",
+    "src_01M4VEBZ9N8JK70XRCACBYZ6KS",
+    "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP"
+  ],
+  "notes": null,
+  "canonical_name": "Jeshua (Joshua) son of Jozadak",
+  "aliases": [
+    {
+      "alias": "Joshua",
+      "language": "Hebrew (English form)",
+      "source_id": null,
+      "passage": "Hag.1.1"
+    },
+    {
+      "alias": "Jesus son of Josedek",
+      "language": "Greek (1 Esdras)",
+      "source_id": "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP",
+      "passage": null
+    }
+  ],
+  "description": "High priest of the returned community (Ezra 3:2; Hag 1:1 \"Joshua\"; Zech 3:1); grandson of Seraiah, the chief priest executed at Riblah (1 Chr 6:14–15; 2 Kgs 25:18–21, per Clarke via Guzik).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VEBZC0K23ZH3PSEX4JV3QV",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VEBZBYT7FESJJKRP20C7XJ",
+  "record_revision": 1,
+  "reason": "Disputed: was the Second Temple's foundation laid c. 536 under Cyrus (Ezra 3:8) or in 520 under Darius (Haggai; Batten; 1 Esdras)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T20:13:24.736Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "person",
+  "id": "per_01M4VEBZAN7GMF57ZPHK3TZ1FY",
+  "slug": "zerubbabel",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9FMPJ4C6WEM99H3Z2N",
+    "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+    "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP"
+  ],
+  "notes": null,
+  "canonical_name": "Zerubbabel son of Shealtiel",
+  "aliases": [
+    {
+      "alias": "Zorobabel",
+      "language": "Greek (1 Esdras; Josephus)",
+      "source_id": "src_01M4VEBZA4WJ8ZKJHCVKNTRPSP",
+      "passage": null
+    }
+  ],
+  "description": "Davidic leader of the returned exiles and governor of Judah (Ezra 2:2; 3:2, 8; Hag 1:1); laid the foundation of the Second Temple with Jeshua (Ezra 3:8–13; Zech 4:9). Whether he is the same person as Sheshbazzar (Ezra 1:8; 5:14–16) is under owner review on the vessels record and is not assumed here.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}
