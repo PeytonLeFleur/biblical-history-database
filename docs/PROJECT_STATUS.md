@@ -178,7 +178,7 @@ Every Daniel record was audited mechanically and rule by rule. Session log: `res
 | State | Status |
 |---|---|
 | Research complete | ✅ 357/357 verses; every Daniel event researched; the audit's defects corrected |
-| Cross-book complete | ✅ Milestone 6, all seven SPEC passages (166 verses) |
+| Cross-book complete | ✅ Milestone 6, all seven SPEC passages, with full chapters for Isaiah 44–45 (209 verses) |
 | Technical validation complete | ✅ validate, chronology, lint, typecheck, Vitest 92/92, Playwright 64/64, import, build |
 | Deployed | ✅ GitHub Pages (PRs #12–#21 merged and deployed) |
 | Owner editorial review complete | ❌ **157 open Daniel-related items** (25 disputed claims, 56 fulfillment interpretations, 54 identifications, 11 possible identities, 11 critical events). Owner only. Package: `docs/reviews/DANIEL_OWNER_REVIEW_PACKAGE.md` |
