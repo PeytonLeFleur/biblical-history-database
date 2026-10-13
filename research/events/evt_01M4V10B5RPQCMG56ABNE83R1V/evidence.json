@@ -1,0 +1,85 @@
+{
+  "event_id": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Parker & Dubberstein: Darius I, Xerxes, Artaxerxes I evidence and year tables",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V10B6CZKVQRENRKX3JM17W",
+      "statement": "The rebuilt Temple was completed in Adar of Darius I's sixth year (spring 515 BC).",
+      "layer": "reconstruction",
+      "passage": "Ezra.6.15",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "The completion is recorded only in Ezra; the conversion to 515 BC uses Parker & Dubberstein's table for Darius I. No external text mentioning the completion was found.",
+      "supporting_evidence": [
+        "evd_01M4V10B6CZT42D4RSNBQ4SVFY"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "1 Esdras 7:5 (a parallel) not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V10B6CZT42D4RSNBQ4SVFY",
+      "claim_ids": [
+        "clm_01M4V10B6CZKVQRENRKX3JM17W"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Year 6 of Darius I ran from Nisan 516 to the following Adar (Feb–Mar 515).",
+      "locator": "Darius I year table",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "1 Esdras 7 and Josephus Ant. 11.4.7 not read."
+  ]
+}

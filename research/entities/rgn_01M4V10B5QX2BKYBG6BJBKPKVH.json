@@ -1,0 +1,69 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+  "slug": "darius-i-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": "Year 1 began 1 Nisan 521 in Babylonian reckoning.",
+  "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+  "model_id": null,
+  "title": "King of Persia (Babylonian dating)",
+  "start": {
+    "earliest": -521,
+    "latest": -520
+  },
+  "end": {
+    "earliest": -485,
+    "latest": -485
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -521,
+      "month": 9,
+      "day": 29
+    },
+    "to": {
+      "year": -520,
+      "month": 2,
+      "day": 4
+    },
+    "basis": "Bardiya killed by Darius on 10 Bagayadi (29 Sep 522; Behistun §13); first securely dated Babylonian tablet of Darius's accession year 20 Shebat (4 Feb 521, Sippar) (Parker & Dubberstein 1942, pp. 12–14). The Babylonian revolts of Nebuchadnezzar III and IV interrupted recognition in 522–521.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -485,
+      "month": 9,
+      "day": 30
+    },
+    "to": {
+      "year": -485,
+      "month": 12,
+      "day": 1
+    },
+    "basis": "Last dated tablets of Darius 19 Tashritu year 36 (30 Sep 486) and possibly 27 Arahsamnu (7 Nov 486); first tablet of Xerxes's accession year 22 Arahsamnu (1 Dec 486) (Parker & Dubberstein 1942, pp. 14–15).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "regnal_convention": {
+    "reckoning": "accession",
+    "new_year": "nisan",
+    "alternative_group": null,
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "event_id": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In the first year of Darius son of Ahasuerus, a Mede made king over the Chaldean realm, Daniel learns from the books that Jeremiah's word allotted seventy years to Jerusalem's desolations. He seeks God with fasting, sackcloth and ashes, confesses that Israel has sinned and that the curse written in the law of Moses has justly come upon it, and pleads for mercy on the desolate sanctuary and the city called by God's name.",
+    "passage": "Dan.9.1-Dan.9.19"
+  },
+  "setting": {
+    "period": "Narrative setting: the first year after Babylon's fall to the Persians (539/538 BC on the text's own sequence); composition date disputed",
+    "body": "Daniel dates the prayer by Darius the Mede, whom no external source names (see the Daniel 5–6 records and their open review). Babylon fell to Cyrus's army in October 539; Cyrus's first Babylonian year began 24 March 538. The prayer's concern — the end of seventy years and the desolate Temple — matches the period before the return.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+      "reign_id": null,
+      "role": "\"Made king over the realm of the Chaldeans\" (identity disputed)",
+      "citations": []
+    },
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "King of Babylon and the lands from Oct 539",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V10B62Q0Y1WJ86PV0XH027",
+      "subject": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+      "object": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+      "relation": "after",
+      "textual_assertion": "Darius … who was made king over the realm of the Chaldeans",
+      "passage": "Dan.9.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4V10B62HW5AA681J2XMWYZJ",
+      "subject": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+      "object": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+      "relation": "years_later",
+      "textual_assertion": "In the first year of Darius … in the first year of his reign",
+      "passage": "Dan.9.1-Dan.9.2",
+      "offset": {
+        "min": 0,
+        "max": 2
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Darius's first year is counted from his receiving the kingdom at Belshazzar's death (Dan 5:31), whatever his identity. The 0–2 year margin covers counting the accession year or the first full year.",
+        "No identification of Darius the Mede is assumed; the identity question remains under review from Daniel 5."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    },
+    {
+      "id": "cst_01M4V10B629NP51XAKQ559FAGX",
+      "subject": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+      "object": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+      "relation": "after",
+      "textual_assertion": "the man Gabriel, whom I had seen in the vision at the beginning",
+      "passage": "Dan.9.21",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "The desolate city prayed for",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Probable place of the prayer (not stated)",
+      "hypotheses": [],
+      "confidence": "possible"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "the books",
+      "gloss": "Writings that included Jeremiah's prophecies; Driver takes the phrase to imply an existing collection of sacred writings.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Dated by the fall of Babylon (539/538 BC)",
+      "proponents": [
+        "This project's model-independent constraint (operator inference)"
+      ],
+      "summary": "Counting Darius's first year from his receiving the kingdom at Belshazzar's death gives c. Oct 539 – 537. This depends only on the text's sequence, not on who Darius was.",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    },
+    {
+      "label": "Darius = Gubaru/Ugbaru, Cyaxares II, or Cyrus himself",
+      "proponents": [
+        "See the Darius the Mede record (Dan 5–6)"
+      ],
+      "summary": "Each identification places the first year in 539/538; Jerome rejects identification with Darius I (Porphyry) or Darius III.",
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ]
+    },
+    {
+      "label": "Darius the Mede as a literary conflation (critical view)",
+      "proponents": [
+        "S. R. Driver (1900)"
+      ],
+      "summary": "If the author confused the Persian Darius with a Median ruler, the \"first year\" is a narrative date only.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V10B52Y493F766D6YZY956",
+      "layer": "interpretation",
+      "paraphrase": "Guzik leaves Darius unidentified, reads Jeremiah's seventy years literally from the first deportation in 605, and presents the prayer as a model of confession that takes God's promises as a reason to pray.",
+      "url": "https://enduringword.com/bible-commentary/daniel-9/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The patronymic \"son of Ahasuerus\" is unexplained by external sources.",
+    "The relation of the prayer to Neh 9 and Baruch 1–2 was not researched."
+  ],
+  "not_applicable": {}
+}

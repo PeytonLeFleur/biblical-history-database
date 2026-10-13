@@ -1,0 +1,670 @@
+# Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 6:1–12 (narration)
+
+## Biblical account
+
+Darius orders the archives searched; a scroll found at Achmetha in Media records Cyrus's first-year decree for the Temple; Darius orders the governor not to hinder the work and to pay its costs from royal revenue.
+
+## Historical setting
+
+**Period:** Achaemenid Persian rule over Judah
+
+Darius I became king in 522 after killing Bardiya (Behistun) and was recognised in Babylonia from early 521. Haggai and Zechariah date their prophecies about the rebuilding to his second year (Hag 1:1; Zech 1:1). [1]
+
+### Rulers
+
+- Darius I (the Great): Issuer [1]
+
+## Date and chronology
+
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+- **521 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: reign of Darius I (the Great) (reign start) → “It stopped until the second year of the reign of Darius … Then Darius the king made a decree”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “It stopped until the second year of the reign of Darius … Then Darius the king made a decree” (Ezra 4:24–6:1) → `years_later` reign of Darius I (the Great); assumptions: After work resumed in Darius's 2nd year (Ezra 4:24; 5:1–5) and before the Temple's completion in his 6th (6:15); offset measured from the accession window (Sep 522 – Feb 521). [1]
+- “They built and finished it, according to … the decree of Cyrus, Darius, and Artaxerxes” (Ezra 6:14–15) → `before` The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15)
+
+## Geography
+
+- Jerusalem (Object of the decree; confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Competing reconstructions
+
+- **c. 520–517 BC** (D. Guzik (517)): Between the resumption of work in Darius's second year and the completion in his sixth. [3]
+
+## Claims and evidence
+
+### Darius I reigned from 522/521 to 486 BC, so his second and sixth years fall in 520/519 and 516/515.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+Babylonian contracts dated by Darius from early 521 to late 486, with a gap during the revolts, fix his regnal years.
+
+- *Supporting (direct):* Darius I recognised in Babylonia from Feb 521 (possibly Dec 522); died Nov 486; year 1 began Nisan 521. (pp. 12–15; table) [1]
+
+*Limitations:* The decree itself is attested only in Ezra.
+
+## Related passages and events
+
+- this event → **followed by** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (high): The Temple was finished under the decree (Ezra 6:14–15).
+- this event → **thematic parallel** → Haggai 1:1 (high): Haggai's call to rebuild in Darius's second year.
+
+## Unanswered questions and research gaps
+
+- The Ecbatana archive and the Aramaic letters in Ezra 4–6 not researched from modern studies.
+- Ecbatana (Achmetha) not yet entered as a place record.
+
+## Sources
+
+1. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*

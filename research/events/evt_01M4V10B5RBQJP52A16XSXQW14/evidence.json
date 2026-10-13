@@ -1,0 +1,110 @@
+{
+  "event_id": "evt_01M4V10B5RBQJP52A16XSXQW14",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Cyrus Cylinder lines 30–34 (Livius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": "Judah and Jerusalem are not named."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Parker & Dubberstein: Darius I, Xerxes, Artaxerxes I evidence and year tables",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V10B6CAQQFCEP6TYF3TDJD",
+      "statement": "Cyrus permitted deported peoples to return and restored their sanctuaries, as Ezra 1 describes for Judah.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "The Cyrus Cylinder states that Cyrus returned the gods to their places and gathered and returned the inhabitants of a list of cities in Mesopotamia and beyond the Tigris. This shows a policy consistent with Ezra 1, but the Cylinder does not mention Judah or Jerusalem, so it does not corroborate the Judean decree itself.",
+      "supporting_evidence": [
+        "evd_01M4V10B6CSJT52SXE8M38ZJWX"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V10B6CNBBDYR61XH63SXY4"
+      ],
+      "limitations": [
+        "The Cylinder's list is regional (Mesopotamia and east of the Tigris)."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V10B6CSJT52SXE8M38ZJWX",
+      "claim_ids": [
+        "clm_01M4V10B6CAQQFCEP6TYF3TDJD"
+      ],
+      "source_id": "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "\"I returned the images of the gods … to their places\"; \"I gathered all their inhabitants and returned to them their dwellings\" — for Babylonian and trans-Tigridian cities; Judah not named.",
+      "locator": "Lines 30–33",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "cyrus-cylinder"
+    },
+    {
+      "id": "evd_01M4V10B6CNBBDYR61XH63SXY4",
+      "claim_ids": [
+        "clm_01M4V10B6CAQQFCEP6TYF3TDJD"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "contextual",
+      "strength": "contextual",
+      "finding": "Cyrus's first Babylonian year began 1 Nisan = 24 Mar 538.",
+      "locator": "p. 14 and table",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Modern studies of the Cyrus decree's authenticity not read."
+  ]
+}

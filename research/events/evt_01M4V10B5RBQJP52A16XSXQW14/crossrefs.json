@@ -1,0 +1,60 @@
+{
+  "event_id": "evt_01M4V10B5RBQJP52A16XSXQW14",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V10B6ER3VED0XDD1EMZ8H5",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.36.22-2Chr.36.23"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel wording of the proclamation.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V10B6EYJWB5BFYBW5H147C",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RQN4G6MC31Q1P4HWT"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Darius finds and confirms Cyrus's memorandum (Ezra 6:1–12).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V10B629946Z6CJHP7TNAM3"
+  ]
+}

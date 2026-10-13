@@ -1,0 +1,93 @@
+{
+  "event_id": "evt_01M4V10B5RBQJP52A16XSXQW14",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Cyrus, stirred by the LORD to fulfil Jeremiah's word, proclaims in writing throughout his kingdom that the God of heaven has charged him to build a house at Jerusalem, and that any of his people may go up and build it, helped by their neighbours' gifts.",
+    "passage": "Ezra.1.1-Ezra.1.4"
+  },
+  "setting": {
+    "period": "Achaemenid Persian rule over Judah",
+    "body": "The Cyrus Cylinder (Babylon, c. 539–530) records that Cyrus returned the images of gods to their sanctuaries and gathered and returned their inhabitants for cities across the Tigris and in Sumer and Akkad; it does not name Judah or Jerusalem.",
+    "citations": [
+      "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "reign_id": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "role": "Issuer",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V10B629946Z6CJHP7TNAM3",
+      "subject": "evt_01M4V10B5RBQJP52A16XSXQW14",
+      "object": "rgn_01M4TPW4BXTQH60JCWPTE0ADK3",
+      "relation": "in_regnal_year",
+      "textual_assertion": "Now in the first year of Cyrus king of Persia",
+      "passage": "Ezra.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 1,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "\"First year of Cyrus\" counted as his first Babylonian year (24 Mar 538 – Mar 537); counting from his rule in Persia would be meaningless here, since the decree presupposes the conquest of Babylon."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Object of the decree",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "538 BC (Cyrus's first Babylonian year)",
+      "proponents": [
+        "D. Guzik",
+        "S. R. Driver (edict of Cyrus, 538)"
+      ],
+      "summary": "Year 1 = 24 Mar 538 – Mar 537 on Nisan reckoning.",
+      "citations": [
+        "src_01M4V10B52Y493F766D6YZY956",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [
+    "The Aramaic memorandum (Ezra 6:3–5) and the Hebrew proclamation (Ezra 1:2–4) differ in form; their relation was not researched."
+  ],
+  "not_applicable": {
+    "commentary": "Enduring Word on Ezra/Nehemiah was not consulted in this Daniel session; Guzik's dates are recorded on the seventy-weeks prophecy."
+  }
+}

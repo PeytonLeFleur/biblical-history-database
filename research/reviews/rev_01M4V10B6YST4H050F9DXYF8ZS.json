@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V10B6YST4H050F9DXYF8ZS",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V10B5X3V9AT8Z0VK1NW4DH",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Messianic, continuous: from Artaxerxes' seventh year (Ezra 7) to Christ",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:19:52.158Z",
+  "decisions": [],
+  "is_fixture": false
+}

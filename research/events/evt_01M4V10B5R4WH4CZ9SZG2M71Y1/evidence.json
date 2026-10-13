@@ -1,0 +1,90 @@
+{
+  "event_id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: Anderson, The Coming Prince",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": "First download returned HTTP 500; retried successfully."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Parker & Dubberstein: Darius I, Xerxes, Artaxerxes I evidence and year tables",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V10B6DSFB3JJ8N8GQDAV6R",
+      "statement": "Artaxerxes I's twentieth year began in spring 445 BC on Babylonian reckoning.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Babylonian tablets and the Syene papyrus fix Artaxerxes I's accession in 465/464 and his reign to 424/423; year 20 began 1 Nisan 445. Whether Nehemiah counted the same way is a separate question (see competing reconstructions).",
+      "supporting_evidence": [
+        "evd_01M4V10B6DJYSWEFD2RQRXK1H6"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V10B6DJYSWEFD2RQRXK1H6",
+      "claim_ids": [
+        "clm_01M4V10B6DSFB3JJ8N8GQDAV6R"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Accession year attested 3 Jan 464 (Cowley 6); year 20 begins 13 Apr 445.",
+      "locator": "pp. 15–16; table",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Elephantine papyri on Judean regnal reckoning not read directly."
+  ]
+}

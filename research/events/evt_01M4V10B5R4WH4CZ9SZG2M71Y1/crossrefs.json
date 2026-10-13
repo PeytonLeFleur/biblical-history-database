@@ -1,0 +1,36 @@
+{
+  "event_id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V10B6FB0PPK13JPQHZ98XB",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Neh.6.15"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The wall completed on 25 Elul after 52 days.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V10B62C0NDKBMER7XX1JX3"
+  ]
+}

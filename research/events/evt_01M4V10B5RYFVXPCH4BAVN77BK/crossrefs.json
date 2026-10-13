@@ -1,0 +1,36 @@
+{
+  "event_id": "evt_01M4V10B5RYFVXPCH4BAVN77BK",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V10B6FC9QB5PPPR7V3V571",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Nehemiah's mission follows in the same king's 20th year (if both are Artaxerxes I).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V10B625DT4XFPS2V7DDAC6"
+  ]
+}

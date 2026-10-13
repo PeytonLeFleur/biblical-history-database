@@ -1,0 +1,22 @@
+{
+  "kind": "person",
+  "id": "per_01M4V10B5GEQP115CCSGSG9JXY",
+  "slug": "jeremiah-prophet",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Jeremiah",
+  "aliases": [
+    {
+      "alias": "Yirmeyahu",
+      "language": "Hebrew",
+      "source_id": null,
+      "passage": "Jer.1.1"
+    }
+  ],
+  "description": "Prophet of Judah from the 13th year of Josiah into the exile (Jer 1:1–3); his prophecy of seventy years (Jer 25:11–12; 29:10) is the subject of Daniel's prayer (Dan 9:2).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

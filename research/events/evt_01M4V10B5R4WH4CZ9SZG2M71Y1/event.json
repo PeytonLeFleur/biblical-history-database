@@ -1,0 +1,63 @@
+{
+  "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1",
+  "slug": "artaxerxes-commissions-nehemiah-neh-2",
+  "title": "Artaxerxes sends Nehemiah to rebuild Jerusalem, Nisan of his twentieth year (Neh 2:1–8)",
+  "summary": "In Nisan of Artaxerxes' twentieth year his cupbearer Nehemiah asks to be sent to Judah to build the city of his fathers' tombs; the king grants letters for safe passage and timber for the gates, the wall and a house.",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": "Candidate starting point for Dan 9:25 (Africanus; Anderson; Guzik).",
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political",
+    "construction"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Neh.2.1-Neh.2.8",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "Neh.1.1",
+      "mention_type": "reference",
+      "notes": "Chislev \"in the twentieth year\" precedes Nisan of the twentieth year."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_applicable",
+      "updated": "2026-10-13",
+      "reason": "External to Daniel: researched as a candidate starting point of Dan 9:25; Nehemiah is not yet extracted chapter by chapter."
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

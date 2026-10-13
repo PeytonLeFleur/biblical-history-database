@@ -1,0 +1,673 @@
+# Gabriel comes at the evening offering with the word of the seventy weeks (Dan 9:20–27)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Daniel 9:20–23 (narration)
+
+## Biblical account
+
+While Daniel is still praying, Gabriel comes in swift flight about the time of the evening offering, says that a word went out at the beginning of Daniel's supplications because he is greatly loved, and gives him the word of the seventy weeks (recorded separately as a prophecy).
+
+## Historical setting
+
+**Period:** As the prayer (same day)
+
+The "evening offering" names a time of day in a period when, on the text's setting, the Temple lay in ruins; Jerome takes it to show that Daniel prayed from the morning to the evening sacrifice. [1]
+
+## Date and chronology
+
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+- **539 BC – 536 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62Q0Y1WJ86PV0XH027 → “While I was speaking … about the time of the evening offering”
+  - Latest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4V10B62HW5AA681J2XMWYZJ → “While I was speaking … about the time of the evening offering”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “While I was speaking … about the time of the evening offering” (Daniel 9:20–21) → `days_later` Daniel reads Jeremiah's seventy years and prays (Dan 9:1–19)
+
+## Claims and evidence
+
+### Gabriel appeared to Daniel at the time of the evening offering.
+
+**Classification:** Not empirically testable (machine proposed) · layer: text
+
+An angelic appearance cannot be assessed historically. This is not a theological verdict.
+
+
+## Related passages and events
+
+- pro_01M4V10B5RTYN24Y82472GYNTF → **proposed fulfillment** → Cyrus II (the Great) (medium): "An anointed one, a prince" (9:25) is Cyrus, called the LORD's anointed in Isa 45:1. [2]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **proposed fulfillment** → Onias III (medium): "An anointed one … cut off" (9:26) is the murdered high priest Onias III. [2, 3]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **proposed fulfillment** → Antiochus IV Epiphanes (medium): "The prince who comes" and the one who stops the sacrifice (9:26–27) is Antiochus IV. [2, 3]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **proposed fulfillment** → Rome (Republic and Empire) (medium): "The people of the prince who comes" who destroy city and sanctuary (9:26) are the Romans (AD 70). [4, 5, 1]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **proposed fulfillment** → Luke 19:37–40 (medium): The sixty-nine weeks end "unto Messiah the Prince" at Jesus' entry into Jerusalem (6 April AD 32 in Anderson's reckoning). [6, 5]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **proposed fulfillment** → Luke 23:44–46 (medium): "The Anointed One will be cut off" (9:26) is the crucifixion of Jesus. [4, 1, 7]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **prophecy reference** → Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (medium): Cyrus's decree as the "going out of the word" or as the end of the first seven weeks. [2, 1]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **prophecy reference** → Artaxerxes' decree to Ezra in his seventh year (Ezra 7) (medium): Artaxerxes' decree to Ezra (458/457) as the start of the 490 years. [4, 7]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **prophecy reference** → Artaxerxes sends Nehemiah to rebuild Jerusalem, Nisan of his twentieth year (Neh 2:1–8) (medium): Artaxerxes' commission to Nehemiah (445/444) as the start of the 69 weeks. [1, 6, 5]
+- pro_01M4V10B5R3FQYBVQ98B9H88R7 → **proposed fulfillment** → Fall of Babylon to Cyrus (October 539 BC) (medium): Jeremiah's seventy years end with Babylon's fall (Jer 25:12). [2, 5]
+- pro_01M4V10B5R3FQYBVQ98B9H88R7 → **proposed fulfillment** → Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (medium): Cyrus's first-year proclamation accomplishes Jeremiah's word. [2]
+- pro_01M4V10B5R3FQYBVQ98B9H88R7 → **proposed fulfillment** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (medium): The seventy years of the Temple's desolation end with its completion in Darius's sixth year. [1]
+- this event → **preceded by** → Daniel's vision of the ram and the goat at Susa (Dan 8) (high): Gabriel "whom I had seen in the vision at the beginning" (9:21; 8:16).
+- pro_01M4V10B5RTYN24Y82472GYNTF → **thematic parallel** → pro_01M4TTS0HJXX550DZHSC4HAMTK (medium): Montgomery equates the half-week with the 2,300 evenings and mornings (1,150 days); Clement (per Jerome) added the 2,300 days to the 490 years. [3, 1]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **thematic parallel** → pro_01M4TTS0HJHRJFX1S7T5Q8M43B (medium): In the Maccabean reading the one who stops the sacrifice is the same king as the little horn of ch. 8. [2]
+- pro_01M4V10B5RTYN24Y82472GYNTF → **thematic parallel** → Matthew 24:15 (high): Jesus cites "the abomination of desolation, spoken of through Daniel the prophet".
+- pro_01M4V10B5RTYN24Y82472GYNTF → **thematic parallel** → Daniel 11:31 (high): The continual burnt offering removed and "the abomination that makes desolate" set up.
+- pro_01M4V10B5RTYN24Y82472GYNTF → **thematic parallel** → Leviticus 25:8 (medium): Seven sabbaths of years (49) — the jubilee pattern behind "seven weeks" (Newton). [4]
+- this event → **thematic parallel** → Luke 1:19 (high): Gabriel reappears in Luke 1:19, 26.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that the answer was sent at the beginning of the prayer and that Gabriel came at the hour of the evening sacrifice. [5]
+
+## Sources
+
+1. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 9. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
+2. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
+3. Montgomery, James A.. A Critical and Exegetical Commentary on the Book of Daniel (ICC). T. & T. Clark. <https://archive.org/details/criticalexegetic22montuoft> — *scholarly commentary; verification: claim checked*
+4. Newton, Isaac. Observations upon the Prophecies of Daniel, and the Apocalypse of St. John. Project Gutenberg #16878 (first published 1733). <https://www.gutenberg.org/ebooks/16878> — *theological commentary; verification: claim checked*
+5. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*
+6. Anderson, Sir Robert. The Coming Prince, or the Seventy Weeks of Daniel (11th edition). Pickering & Inglis (Glasgow), n.d. (first ed. 1881). <https://archive.org/details/comingprince01ande> — *theological commentary; verification: claim checked*
+7. Miller, William. Evidence from Scripture and History of the Second Coming of Christ, about the Year 1843. Joshua V. Himes (Boston), 1842. <https://archive.org/details/evidencefromscri00mill> — *theological commentary; verification: claim checked*

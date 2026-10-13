@@ -3892,5 +3892,154 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4V10B52Y493F766D6YZY956",
+  "title": "Daniel 9 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-9/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on Daniel 9",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Darius not identified beyond the text; prayer 3–4 years before 70 years from 605 ran out; Jeremiah's 70 years literal (Jer 25:11–13; 29:10), deportations 605/597/587; four candidate decrees (Cyrus 538, Darius 517, Artaxerxes 458, Artaxerxes 445) and only Neh 2 orders the street and wall; 1 Nisan 445 = 14 March; Anderson's 360-day years, 173,880 days to 6 April AD 32 (triumphal entry); notes AD 32 is controversial (most prefer 30 or 33); gap between weeks 69 and 70; the prince who is to come = Antichrist, heir of Rome; covenant with \"the many\" = Israel",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V10B56RQ5FWV65KVJEPE6B",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 9",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Jerome",
+   "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem 9",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read the chapter 9 commentary in the downloaded page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Darius = the Mede who with Cyrus conquered Babylon, not Darius I or III; Jerome declines to choose and reports the views of Africanus (Artaxerxes' 20th year, lunar years, to Christ), Eusebius (two schemes: high-priestly \"christs\" from Cyrus; from Darius's 6th year to Herod/Hyrcanus), Hippolytus (last week at the end of the world), Apollinaris (from Christ's birth; future rebuilding), Clement (Cyrus to Vespasian), Origen (seek the data), Tertullian (Darius's first year to Christ's birth and to Vespasian) and \"the Hebrews\" (Vespasian and Hadrian)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V10B58H26PE3KJR06XESP7",
+  "title": "The Coming Prince, or the Seventy Weeks of Daniel (11th edition)",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Anderson, Sir Robert"
+  ],
+  "publisher": "Pickering & Inglis (Glasgow), n.d. (first ed. 1881)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/comingprince01ande",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (author d. 1918)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the OCR text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Summary pp. vi–vii: decree of Artaxerxes in Nisan of his 20th year, 445 BC; 1 Nisan 445 = 14 March (new moon 13 March 445, 7h 9m, from a calculation sent by G. B. Airy, Royal Observatory, 26 June 1877); 69 weeks = 173,880 days of 360-day years, ending 6 April AD 32, the entry into Jerusalem (Zech 9:9); p. 77: \"a gap or parenthesis\" before the seventieth week, which is \"of necessity still future\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (eleventh edition). Archive metadata gives 1900; the volume itself is undated.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V10B5ARS1VB0TJSYPGYT09",
+  "title": "World English Bible — Apocrypha/Deuterocanon (2 Maccabees 4)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 2 Macc 4",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read 2 Maccabees 4 in the downloaded USFM (53-2MAeng-web.usfm)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "4:7–10 Jason supplants his brother Onias under Antiochus Epiphanes; 4:23–26 Menelaus outbids Jason after three years; 4:33–38 Onias, having taken refuge at Daphne near Antioch, is killed by Andronicus at Menelaus's request, and the king later has Andronicus executed",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

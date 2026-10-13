@@ -1,0 +1,547 @@
+{
+  "book": "Dan",
+  "chapter": 9,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Dan.9.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RNMFMTTS3P6TCFZ3R"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RHSGDH5WH5KESH4N9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RPCC19YSH039WDK7J"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RJNBFFGDX6CDZRKSM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RJNBFFGDX6CDZRKSM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RJNBFFGDX6CDZRKSM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RJNBFFGDX6CDZRKSM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RB0A5W3N91MGYR71Q"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RT7JEAHQFH1PNRSBX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RCX716K93KW19MHSV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.9.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V10B5RZ4DD65JFGHFBTWPF"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V10B5RNMFMTTS3P6TCFZ3R",
+      "title": "The first year of Darius son of Ahasuerus, the Mede",
+      "passage": "Dan.9.1",
+      "description": "The prayer is dated to the first year of Darius, son of Ahasuerus, a Mede, who was made king over the realm of the Chaldeans.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Darius the son of Ahasuerus",
+          "matched_entity_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.9.1",
+          "phrase": "In the first year of Darius the son of Ahasuerus",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Dan.5.31",
+        "Dan.6.1",
+        "Dan.11.1"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"Son of Ahasuerus\" adds a patronymic not known from external sources; Darius's identity is disputed (see Dan 5–6 records).",
+        "\"Was made king\" (passive) is read by some as appointment by Cyrus."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+    },
+    {
+      "id": "cnd_01M4V10B5RHSGDH5WH5KESH4N9",
+      "title": "Daniel understands Jeremiah's seventy years from \"the books\"",
+      "passage": "Dan.9.2",
+      "description": "Daniel understands from the books the number of years for the desolations of Jerusalem: seventy years (Jer 25:11–12; 29:10).",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": "cnd_01M4V10B5RNMFMTTS3P6TCFZ3R",
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jeremiah the prophet",
+          "matched_entity_id": "per_01M4V10B5GEQP115CCSGSG9JXY",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Dan.9.2",
+          "phrase": "even seventy years",
+          "kind": "vague"
+        }
+      ],
+      "related_passages": [
+        "Jer.25.11-Jer.25.12",
+        "Jer.29.10",
+        "2Chr.36.21",
+        "Zech.1.12"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Which events begin and end the seventy years.",
+        "\"The books\" — evidence of a collection of prophetic writings (Driver)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+    },
+    {
+      "id": "cnd_01M4V10B5RPCC19YSH039WDK7J",
+      "title": "Daniel's prayer of confession and supplication",
+      "passage": "Dan.9.3-Dan.9.19",
+      "description": "With fasting, sackcloth and ashes Daniel confesses Israel's sin and the justice of the curse of the law of Moses, and asks God to turn his anger from Jerusalem and the desolate sanctuary for his own name's sake.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": "cnd_01M4V10B5RNMFMTTS3P6TCFZ3R",
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Deut.28.15-Deut.28.68",
+        "Neh.9.6-Neh.9.37",
+        "Ezra.9.6-Ezra.9.15",
+        "1Kgs.8.46-1Kgs.8.50"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "Deuteronomic language; the prayer's relation to Neh 9 and Baruch 1–2 is discussed by commentators (not researched here)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+    },
+    {
+      "id": "cnd_01M4V10B5RJNBFFGDX6CDZRKSM",
+      "title": "Gabriel arrives about the time of the evening offering",
+      "passage": "Dan.9.20-Dan.9.23",
+      "description": "While Daniel is still praying, Gabriel, whom he had seen in the earlier vision, comes in swift flight about the time of the evening offering to give him understanding.",
+      "record_type": "event",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": "cnd_01M4V10B5RNMFMTTS3P6TCFZ3R",
+      "participants": [
+        {
+          "name_as_written": "Daniel",
+          "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.9.21",
+          "phrase": "about the time of the evening offering",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Dan.8.16",
+        "Luke.1.19"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "\"Evening offering\" names a time of day while no Temple offering was being made."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V10B5RW2WTTJ28DXRPQSWD"
+    },
+    {
+      "id": "cnd_01M4V10B5RB0A5W3N91MGYR71Q",
+      "title": "Seventy weeks are decreed on your people and your holy city",
+      "passage": "Dan.9.24",
+      "description": "Seventy weeks are decreed to finish transgression, end sins, atone for iniquity, bring in everlasting righteousness, seal vision and prophet, and anoint a most holy (place or one).",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": "cnd_01M4V10B5RJNBFFGDX6CDZRKSM",
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "your holy city",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Dan.9.24",
+          "phrase": "Seventy weeks are decreed",
+          "kind": "vague"
+        }
+      ],
+      "related_passages": [
+        "Lev.25.8",
+        "Lev.26.18",
+        "2Chr.36.21"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"Weeks\" (heptads) of years is the usual reading but is not stated.",
+        "\"Anoint the most holy\": a place (altar/sanctuary) or a person."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V10B5RT7JEAHQFH1PNRSBX",
+      "title": "From the going out of the word to an anointed one, a prince: seven weeks and sixty-two weeks",
+      "passage": "Dan.9.25",
+      "description": "From the going out of a word to restore and build Jerusalem to an anointed one, a prince, seven weeks; for sixty-two weeks it will be built with street and moat in troubled times.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": "cnd_01M4V10B5RJNBFFGDX6CDZRKSM",
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Dan.9.25",
+          "phrase": "seven weeks and sixty-two weeks",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Ezra.1.1-Ezra.1.4",
+        "Ezra.7.11-Ezra.7.26",
+        "Neh.2.1-Neh.2.8",
+        "Isa.45.1",
+        "Jer.29.10"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Punctuation: the Masoretic accent divides \"seven weeks\" from \"sixty-two weeks\" (RV, WEB-like); the AV joins them (69 weeks to the Messiah) — Driver.",
+        "Which \"word\" or decree starts the count.",
+        "Whether \"an anointed one, a prince\" is Cyrus, Jeshua, or the Messiah."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V10B5RCX716K93KW19MHSV",
+      "title": "An anointed one cut off; the people of a coming prince destroy city and sanctuary",
+      "passage": "Dan.9.26",
+      "description": "After the sixty-two weeks an anointed one is cut off and has nothing; the people of a prince who comes destroy the city and sanctuary; desolations are decreed until the end of the war.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": "cnd_01M4V10B5RJNBFFGDX6CDZRKSM",
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "the city and the sanctuary",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Dan.9.26",
+          "phrase": "After the sixty-two weeks",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Matt.24.15",
+        "Luke.21.20"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Is this \"anointed one\" the same as in 9:25?",
+        "\"And will have nothing\" — an unexplained crux (Montgomery); AV \"but not for himself\" is rejected by Driver.",
+        "2 Maccabees 4:33–35 (Onias III) is outside the 66-book index; linked through the Onias III record instead."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V10B5RZ4DD65JFGHFBTWPF",
+      "title": "A firm covenant for one week; sacrifice ceases in the middle; the abomination that desolates",
+      "passage": "Dan.9.27",
+      "description": "He makes a firm covenant with many for one week; in the middle of the week he makes sacrifice and offering cease; on the wing of abominations comes one who makes desolate until the decreed end.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": "cnd_01M4V10B5RJNBFFGDX6CDZRKSM",
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.9.27",
+          "phrase": "for one week. In the middle of the week",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Dan.11.31",
+        "Dan.12.11",
+        "Matt.24.15",
+        "Mark.13.14"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Subject of \"he will make a firm covenant\": the coming prince, the Messiah, or Antiochus."
+      ],
+      "job_id": null,
+      "event_id": null
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-daniel-09.md"
+}

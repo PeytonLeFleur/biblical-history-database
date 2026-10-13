@@ -1,0 +1,358 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V10B5RTYN24Y82472GYNTF",
+  "slug": "seventy-weeks-dan-9",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The seventy weeks (Dan 9:24–27)",
+  "passage": "Dan.9.24-Dan.9.27",
+  "speaker": "Gabriel",
+  "vision_id": null,
+  "description": "Seventy weeks are decreed on Daniel's people and city: seven weeks from a word to rebuild Jerusalem to an anointed prince; sixty-two weeks of rebuilding in troubled times; then an anointed one is cut off, a coming prince's people destroy city and sanctuary, a covenant is made for one week, and in its middle sacrifice ceases and an abomination makes desolate. Jerome already found the passage argued \"in various ways by men of greatest learning\"; Driver calls it the most discussed passage of the Old Testament. Origen (as reported by Jerome) only urged that the years from Darius's first year to Christ be ascertained.",
+  "in_text_interpretation": "The text gives the divisions 7 + 62 + 1 (= 70) weeks and the events attached to them. It does not define a \"week\", name the decree, the anointed one(s), the prince who comes, or the subject of \"he will make a firm covenant\", and gives no calendar.",
+  "interpretations": [
+    {
+      "id": "ful_01M4V10B5XE7E3Q7AQ674BPR8Y",
+      "label": "Maccabean: 587 BC to Cyrus, to the murder of Onias III (171), to Antiochus IV (164)",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "S. R. Driver (1900)",
+        "J. A. Montgomery (1927)",
+        "Bevan, Cornill, Schürer (cited by Driver)"
+      ],
+      "summary": "Textual reasoning: the \"word\" is Jeremiah's promise of rebuilding (Jer 30–31, c. 587); seven weeks (49 years) bring \"an anointed one, a prince\" — Cyrus (Isa 45:1), 538 (Graetz and Bevan: Jeshua); the \"anointed one cut off\" after 62 more weeks is the high priest Onias III (2 Macc 4:33–35, c. 171); the coming prince is Antiochus IV, whose suspension of sacrifice for half a week matches 167–164. Historical evidence: 1–2 Maccabees. Objections: 538 to 171 is 367 years, not 434 — \"too large by 67\" (Driver); defenders explain it as a mistaken chronology, citing similar over-estimates by Demetrius and Josephus (Schürer). Acceptance: Driver adopts it as the principal alternative to the traditional view; Montgomery says no period \"so neatly fits\".",
+      "referents": [
+        {
+          "symbol": "Anointed one, a prince (9:25)",
+          "referent": "Cyrus (or Jeshua)"
+        },
+        {
+          "symbol": "Anointed one cut off (9:26)",
+          "referent": "Onias III"
+        },
+        {
+          "symbol": "Prince who comes; he who causes sacrifice to cease",
+          "referent": "Antiochus IV"
+        },
+        {
+          "symbol": "Last week",
+          "referent": "171–164 BC"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4V10B5ARS1VB0TJSYPGYT09"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5XHV2YQ4XTG8T54ZE2",
+      "label": "Maccabean variant: overlapping weeks from Jer 25 (605 BC)",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "A. Hilgenfeld",
+        "G. Behrmann (both as reported by Driver)"
+      ],
+      "summary": "The word is Jer 25 (606/605); the seven weeks end c. 558 while the 62 weeks run concurrently from the same point to 171; the last week ends 164. Objection (Driver): Jer 25 contains a rebuilding promise only implicitly, and the text gives no hint that the 62 weeks do not follow the 7.",
+      "referents": [
+        {
+          "symbol": "Seventy weeks",
+          "referent": "Overlapping periods from 605 to 164 BC"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5X3V9AT8Z0VK1NW4DH",
+      "label": "Messianic, continuous: from Artaxerxes' seventh year (Ezra 7) to Christ",
+      "approach": "historicist",
+      "framework": "Traditional Protestant; historicist",
+      "proponents": [
+        "I. Newton (1733)",
+        "W. Miller (1842)",
+        "Auberlen and Pusey (as reported by Driver)"
+      ],
+      "summary": "Textual reasoning: 490 years run from Ezra's commission (Artaxerxes I year 7; Newton: Julian Period 4257, 458/457 BC) to Christ's death, which \"made reconciliation\"; Newton counts the 62 weeks separately from Nehemiah's wall (28th year? — Newton) to Christ's birth and applies the seven weeks to the second coming; Miller counts 457 BC + 490 = AD 33. Objections (Driver): Ezra 7 says nothing of rebuilding Jerusalem; the RV punctuation separates the 7 and 62 weeks; Christ's ministry lasted about 3½ years, not a week; the destruction of AD 70 falls outside the 490 years.",
+      "referents": [
+        {
+          "symbol": "Going out of the word",
+          "referent": "Artaxerxes I's decree to Ezra (Ezra 7)"
+        },
+        {
+          "symbol": "Anointed one cut off",
+          "referent": "The crucifixion of Jesus"
+        },
+        {
+          "symbol": "People of the prince who comes",
+          "referent": "The Roman army (AD 70)"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK83SFG091RT082Z4EXG",
+        "src_01M4TTS0H8BP0WSKFR1FQAZ7MF",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5X4X336H9438F49GFT",
+      "label": "Messianic with a gap: 69 weeks from Artaxerxes' twentieth year to the triumphal entry; the 70th week future",
+      "approach": "futurist",
+      "framework": "Dispensational premillennial",
+      "proponents": [
+        "Sir Robert Anderson, The Coming Prince (1881)",
+        "D. Guzik (also citing Walvoord and Ironside)"
+      ],
+      "summary": "Textual reasoning: only Neh 2 commands the city and wall to be built; 69 weeks of 360-day \"prophetic years\" (173,880 days) run from 1 Nisan of Artaxerxes' 20th year, which Anderson fixes at 14 March 445 BC from an astronomical new moon supplied by the Astronomer Royal, to 6 April AD 32, Jesus' entry into Jerusalem; after the 69th week comes \"a gap or parenthesis\" and the 70th week is future, with the coming prince as Antichrist. Objections: Guzik himself notes AD 32 is controversial (most chronologists prefer AD 30 or 33); Driver insists the weeks run consecutively and have the same value; Parker & Dubberstein's Babylonian table puts 1 Nisan of Artaxerxes' 20th year on 13 April, not 14 March, 445 (operator comparison — the Judean calendar may have differed). Acceptance: widely held in dispensational circles (not quantified in sources read).",
+      "referents": [
+        {
+          "symbol": "Going out of the word",
+          "referent": "Artaxerxes I's commission to Nehemiah (Neh 2)"
+        },
+        {
+          "symbol": "Anointed one, the prince",
+          "referent": "Jesus at the triumphal entry"
+        },
+        {
+          "symbol": "He who makes a firm covenant",
+          "referent": "A future Antichrist"
+        },
+        {
+          "symbol": "70th week",
+          "referent": "A future seven years"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B58H26PE3KJR06XESP7",
+        "src_01M4V10B52Y493F766D6YZY956",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5X5XXMNAWVPKQY7HMD",
+      "label": "Africanus: Artaxerxes' 20th year to Christ in lunar years (reported by Jerome)",
+      "approach": "preterist",
+      "framework": "Patristic (3rd century)",
+      "proponents": [
+        "Julius Africanus, Chronographiae book 5 (quoted by Jerome)"
+      ],
+      "summary": "Counts from Artaxerxes' 20th year (Ol. 83.4) to the 15th year of Tiberius (Ol. 202.2): 475 solar years, which, reckoned in Hebrew lunar years with intercalation, make 490. Reckoning from Cyrus or from Daniel's vision falls short; from the start of the captivity it overshoots.",
+      "referents": [
+        {
+          "symbol": "Seventy weeks",
+          "referent": "From Nehemiah's commission to Christ's passion"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5XGFRSWZN3GRRWPK01",
+      "label": "Eusebius (1): the anointed are the high priests from Jeshua to Alexander Jannaeus (reported by Jerome)",
+      "approach": "preterist",
+      "framework": "Patristic (4th century)",
+      "proponents": [
+        "Eusebius of Caesarea (quoted by Jerome)"
+      ],
+      "summary": "From Cyrus, 7 weeks cover the long-delayed rebuilding of the Temple; 62 weeks (483 years in all) run through the succession of anointed high priests to the death of Alexander Jannaeus, after which civil strife, Pompey and Herod ended the legitimate line.",
+      "referents": [
+        {
+          "symbol": "Anointed one(s)",
+          "referent": "The high priests"
+        },
+        {
+          "symbol": "Going out of the word",
+          "referent": "Cyrus's decree"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5RBQJP52A16XSXQW14"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5XJYZVWTHG4HHBF445",
+      "label": "Eusebius (2): from Darius's sixth year to Herod; the half-week is Christ's ministry (reported by Jerome)",
+      "approach": "preterist",
+      "framework": "Patristic (4th century)",
+      "proponents": [
+        "Eusebius of Caesarea (Chronicle; reported by Jerome)"
+      ],
+      "summary": "69 weeks run from the completion of the Temple in Darius's sixth year to Herod's seizure of Judaea and the murder of Hyrcanus; Christ preached 3½ years and after his passion sacrifice ceased \"in the middle of the week\". Eusebius also reports a view that the last week was seventy years (Nero to Trajan), which Jerome finds inconsistent.",
+      "referents": [
+        {
+          "symbol": "Anointed one cut off",
+          "referent": "Hyrcanus II"
+        },
+        {
+          "symbol": "Middle of the week",
+          "referent": "Christ's passion"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5X6XBRCGN5ZZDYP061",
+      "label": "Hippolytus: 62 weeks to Christ's birth; the last week at the end of the world (reported by Jerome)",
+      "approach": "futurist",
+      "framework": "Patristic (3rd century)",
+      "proponents": [
+        "Hippolytus (reported by Jerome)"
+      ],
+      "summary": "Seven weeks precede the return from Babylon, sixty-two run to Christ's birth, and the final week is divided between Elijah and the Antichrist at the end of the age. Jerome objects that the Persian and Macedonian periods give about 560 years, not 483.",
+      "referents": [
+        {
+          "symbol": "Last week",
+          "referent": "Elijah and the Antichrist at the end of the world"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5XV4R2H1G9WCQYM7M2",
+      "label": "Apollinaris of Laodicea: from Christ's birth; a future rebuilding and Antichrist (reported by Jerome)",
+      "approach": "futurist",
+      "framework": "Patristic (4th century)",
+      "proponents": [
+        "Apollinaris of Laodicea (quoted by Jerome)"
+      ],
+      "summary": "Counts from the \"going forth of the Word\" at Christ's birth: 7 weeks to the eighth year of Claudius, then 62 weeks (434 years), after which Jerusalem would be rebuilt in the last week, Elijah would come and the Antichrist sit in the Temple. Jerome warns that later generations would have to convict him of error if the dates failed; no historical fulfillment is claimed here.",
+      "referents": [
+        {
+          "symbol": "Seventy weeks",
+          "referent": "Christ's birth to a future end"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5XC0EXBARWSWXV12TZ",
+      "label": "Clement of Alexandria: Cyrus to Vespasian and Titus (reported by Jerome)",
+      "approach": "preterist",
+      "framework": "Patristic (c. AD 200)",
+      "proponents": [
+        "Clement of Alexandria (reported by Jerome)"
+      ],
+      "summary": "The seventy weeks span the Persian, Macedonian and Roman ages from Cyrus to the destruction of the Temple under Vespasian and Titus. Jerome objects that this interval is about 630 years.",
+      "referents": [
+        {
+          "symbol": "Destruction of city and sanctuary",
+          "referent": "AD 70"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5RBQJP52A16XSXQW14"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5XDHBH0WRMNJRFNA2B",
+      "label": "Tertullian: from Darius's first year to Christ's birth (62½ weeks) and to Vespasian (70 weeks) (reported by Jerome)",
+      "approach": "preterist",
+      "framework": "Patristic (c. AD 200), Adversus Iudaeos",
+      "proponents": [
+        "Tertullian, Against the Jews (quoted by Jerome)"
+      ],
+      "summary": "Begins at the first year of Darius, when the vision was given; Persian, Macedonian and Ptolemaic reigns total 437½ years to Christ's birth in Augustus's 41st year; adding the emperors to Vespasian's capture of Jerusalem completes the seventy weeks. The regnal figures are Tertullian's own and do not match modern chronology.",
+      "referents": [
+        {
+          "symbol": "Anointed (Saint of saints)",
+          "referent": "Christ"
+        },
+        {
+          "symbol": "End of the seventy weeks",
+          "referent": "The Roman capture of Jerusalem"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V10B5X12W621N4733XP53J",
+      "label": "\"The Hebrews\": from Darius the Mede to the destructions under Vespasian and Hadrian (reported by Jerome)",
+      "approach": "preterist",
+      "framework": "Jewish interpretation of Jerome's day (as reported by a Christian author)",
+      "proponents": [
+        "Jewish teachers reported by Jerome"
+      ],
+      "summary": "From the first year of Darius (who slew Belshazzar), the city and Temple are rebuilt; the 62 weeks run to the perpetual desolation under Vespasian, and the single week is split between Vespasian (3½ years of peace) and Hadrian's final war. Jerome objects that the interval is 696 years. This is a hostile witness's paraphrase; rabbinic sources were not read directly.",
+      "referents": [
+        {
+          "symbol": "People of the prince who comes",
+          "referent": "The Romans under Vespasian"
+        },
+        {
+          "symbol": "Last week",
+          "referent": "Vespasian and Hadrian"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

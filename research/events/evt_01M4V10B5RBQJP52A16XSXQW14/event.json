@@ -1,0 +1,68 @@
+{
+  "id": "evt_01M4V10B5RBQJP52A16XSXQW14",
+  "slug": "cyrus-decree-for-the-temple-ezra-1",
+  "title": "Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5)",
+  "summary": "In the first year of Cyrus king of Persia a proclamation allows the exiles of Judah to return and build the house of God at Jerusalem; a memorandum of it was later found at Ecbatana (Ezra 6:2–5).",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": "Candidate starting point for Dan 9:25 and end point of Jeremiah's seventy years (2 Chr 36:22).",
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political",
+    "religious"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Ezra.1.1-Ezra.1.4",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "2Chr.36.22-2Chr.36.23",
+      "mention_type": "parallel_account",
+      "notes": null
+    },
+    {
+      "passage": "Ezra.6.3-Ezra.6.5",
+      "mention_type": "reference",
+      "notes": "The Ecbatana memorandum."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_applicable",
+      "updated": "2026-10-13",
+      "reason": "External to Daniel: researched as a candidate starting point of Dan 9:25; Ezra is not yet extracted chapter by chapter."
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

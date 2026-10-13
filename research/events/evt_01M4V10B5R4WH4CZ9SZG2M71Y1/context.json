@@ -1,0 +1,103 @@
+{
+  "event_id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Nehemiah, the king's cupbearer, sad at news of Jerusalem's broken wall, asks Artaxerxes in Nisan of his twentieth year to send him to build the city of his fathers' tombs; the king grants letters to the governors beyond the River and to the keeper of the king's forest for timber for the citadel gates, the city wall and a house.",
+    "passage": "Neh.2.1-Neh.2.8"
+  },
+  "setting": {
+    "period": "Achaemenid Persian rule over Judah",
+    "body": "On Babylonian reckoning Artaxerxes I's twentieth year began 1 Nisan = 13 Apr 445. Anderson instead dates 1 Nisan 445 to 14 March from an astronomical new moon of 13 March.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4V10B58H26PE3KJR06XESP7"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "Issuer",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4V10B62C0NDKBMER7XX1JX3",
+      "subject": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the month Nisan, in the twentieth year of Artaxerxes the king",
+      "passage": "Neh.2.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 20,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Nisan reckoning: year 20 began 1 Nisan = 13 Apr 445 (Parker & Dubberstein table).",
+        "Neh 1:1 places Chislev \"in the twentieth year\" before Nisan of the twentieth year, which suggests an autumn (Tishri) year count; on that count the Nisan in question is spring 444. Not modelled here; recorded as a competing reconstruction."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Object of the decree",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Spring 445 BC (Nisan reckoning)",
+      "proponents": [
+        "Parker & Dubberstein table (operator conversion)",
+        "Anderson (14 Mar 445)",
+        "D. Guzik"
+      ],
+      "summary": "Year 20 counted from Nisan 445.",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN",
+        "src_01M4V10B58H26PE3KJR06XESP7",
+        "src_01M4V10B52Y493F766D6YZY956"
+      ]
+    },
+    {
+      "label": "Spring 444 BC (Tishri reckoning)",
+      "proponents": [
+        "Operator inference from Neh 1:1 – 2:1"
+      ],
+      "summary": "Neh 1:1 has Chislev of year 20 before Nisan of year 20, consistent with a year beginning in the autumn; Nisan would then be in 444. Modern discussions were not read.",
+      "citations": []
+    }
+  ],
+  "commentary": [],
+  "open_questions": [
+    "Read a modern study of Nehemiah's regnal reckoning (Elephantine papyri)."
+  ],
+  "not_applicable": {
+    "commentary": "Enduring Word on Ezra/Nehemiah was not consulted in this Daniel session; Guzik's dates are recorded on the seventy-weeks prophecy."
+  }
+}
