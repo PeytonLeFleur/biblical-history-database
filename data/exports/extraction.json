@@ -4595,6 +4595,423 @@
   "slug": "daniel"
  },
  {
+  "book": "Dan",
+  "chapter": 10,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Dan.10.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4MRH4EDGD2J4HT11V"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NJ3QKY4JMZ2SDA1Z"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NJ3QKY4JMZ2SDA1Z"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4WKY23Q387ZMKZNHP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4WKY23Q387ZMKZNHP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4WKY23Q387ZMKZNHP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4WKY23Q387ZMKZNHP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4WKY23Q387ZMKZNHP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4WKY23Q387ZMKZNHP"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4C8FF8RM78JZ90M6T"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4C8FF8RM78JZ90M6T"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4C8FF8RM78JZ90M6T"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.10.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V1HGV4NBKN277TF02X0W2J"
+    ],
+    "notes": "The speech continues into 11:1 (candidate recorded here; verse coverage in ch. 11)."
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4V1HGV4MRH4EDGD2J4HT11V",
+    "title": "A word revealed to Daniel in the third year of Cyrus",
+    "passage": "Dan.10.1",
+    "description": "Superscription: a true word concerning a great conflict was revealed to Daniel (Belteshazzar) in the third year of Cyrus king of Persia.",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Daniel, whose name was called Belteshazzar",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Cyrus king of Persia",
+      "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.10.1",
+      "phrase": "In the third year of Cyrus king of Persia",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "Dan.1.21",
+     "Ezra.1.1"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Tension with Dan 1:21 (\"until the first year of King Cyrus\").",
+     "\"King of Persia\" as a title (Driver vs Behistun).",
+     "Third person in 10:1, first person from 10:2."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+   },
+   {
+    "id": "cnd_01M4V1HGV4NJ3QKY4JMZ2SDA1Z",
+    "title": "Three weeks of mourning and partial fasting",
+    "passage": "Dan.10.2-Dan.10.3",
+    "description": "Daniel mourns three full weeks, eating no pleasant food, meat or wine and not anointing himself.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": "cnd_01M4V1HGV4MRH4EDGD2J4HT11V",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.10.2",
+      "phrase": "three whole weeks",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [
+     "Dan.1.8-Dan.1.16",
+     "Dan.9.3"
+    ],
+    "research_priority": "low",
+    "ambiguities": [
+     "The reason for the mourning is not stated."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+   },
+   {
+    "id": "cnd_01M4V1HGV4WKY23Q387ZMKZNHP",
+    "title": "The man clothed in linen by the Tigris",
+    "passage": "Dan.10.4-Dan.10.9",
+    "description": "On 24 of the first month by the great river Hiddekel Daniel sees a man clothed in linen, girded with gold of Uphaz, with a body like beryl, face like lightning and eyes like torches; his companions flee; Daniel falls into a deep sleep.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4V1HGV4MRH4EDGD2J4HT11V",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "the great river, which is Hiddekel",
+      "matched_entity_id": "loc_01M4V1HGV08ZPS4M5XMQFFZ8ZM",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [
+     {
+      "ref": "Dan.10.4",
+      "phrase": "In the twenty-fourth day of the first month",
+      "kind": "absolute"
+     }
+    ],
+    "related_passages": [
+     "Ezek.1.26-Ezek.1.28",
+     "Ezek.9.2",
+     "Rev.1.13-Rev.1.15",
+     "Dan.12.6-Dan.12.7",
+     "Acts.9.7"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Identity of the man in linen: Gabriel, an unnamed angel, or a Christophany.",
+     "Whether the one who touches Daniel (10:10, 16, 18) is the same figure."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+   },
+   {
+    "id": "cnd_01M4V1HGV4C8FF8RM78JZ90M6T",
+    "title": "Daniel touched and strengthened; \"greatly beloved\"",
+    "passage": "Dan.10.10-Dan.10.12",
+    "description": "A hand sets Daniel on his knees; he is told that his words were heard from the first day and that the speaker was sent because of them.",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": "cnd_01M4V1HGV4MRH4EDGD2J4HT11V",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.10.12",
+      "phrase": "from the first day",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [
+     "Dan.9.23"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+   },
+   {
+    "id": "cnd_01M4V1HGV4NBKN277TF02X0W2J",
+    "title": "The prince of Persia, Michael, and the prince of Greece",
+    "passage": "Dan.10.13-Dan.10.21",
+    "description": "The prince of the kingdom of Persia withstood the speaker 21 days until Michael, one of the chief princes, helped; he will return to fight the prince of Persia, and the prince of Greece will come; none holds with him but Michael \"your prince\". He has come to tell what will befall Daniel's people in the latter days, from \"the writing of truth\".",
+    "record_type": "prophecy",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4V1HGV4MRH4EDGD2J4HT11V",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.10.13",
+      "phrase": "withstood me twenty-one days",
+      "kind": "relative"
+     },
+     {
+      "ref": "Dan.10.14",
+      "phrase": "in the latter days",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Deut.32.8",
+     "Dan.12.1",
+     "Jude.1.9",
+     "Rev.12.7",
+     "Isa.24.21"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "\"Princes\": patron angels, hostile spiritual powers, or human rulers.",
+     "\"I remained there with the kings of Persia\" (10:13): text and sense uncertain (Driver)."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4V1HGV4A0QXRW9AJW9K431C",
+    "title": "Confirmation of Darius the Mede in his first year",
+    "passage": "Dan.11.1",
+    "description": "The speaker says he stood up to confirm and strengthen [him] in the first year of Darius the Mede (verse belongs with the end of ch. 10; Driver).",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": "cnd_01M4V1HGV4MRH4EDGD2J4HT11V",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.11.1",
+      "phrase": "in the first year of Darius the Mede",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "Dan.9.1",
+     "Dan.6.1"
+    ],
+    "research_priority": "low",
+    "ambiguities": [
+     "\"Him\" = Michael (Driver) or Darius (some versions).",
+     "Verse is in ch. 11 but belongs to the ch. 10 speech; extracted with ch. 11."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+   }
+  ],
+  "session_log": "research/logs/2026-10-13-daniel-10.md",
+  "slug": "daniel"
+ },
+ {
   "book": "Amos",
   "chapter": 1,
   "status": "complete",

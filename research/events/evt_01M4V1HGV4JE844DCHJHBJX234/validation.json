@@ -1,0 +1,57 @@
+{
+  "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V1HGVHN1GF00TDRT0CDAVV",
+    "rev_01M4V1HGVKPQKF8XD01KP1BCS5",
+    "rev_01M4V1HGVQ9J83KD8R7MKZVTY7"
+  ],
+  "research_gaps": [
+    "Old Persian wording of DB §1 not checked.",
+    "Deut 32:8 at Qumran not read directly.",
+    "Old Greek of Daniel 10 not read."
+  ],
+  "disputes": [
+    "\"King of Persia\" was not a title borne by the Persian kings while their empire lasted, so its use in Dan 10:1 reflects a later writer."
+  ],
+  "export_eligible": true
+}

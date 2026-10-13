@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V1HGTTF6S91B9P9HYFB8PM",
+  "title": "Tigris/Diglitus (river) — Pleiades place 912964",
+  "source_type": "institutional_database",
+  "authors": [
+    "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/912964",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched https://pleiades.stoa.org/places/912964/json",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "reprPoint lon 43.71229749451246, lat 34.92380288490795",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 43.71229749451246, lat 34.92380288490795.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

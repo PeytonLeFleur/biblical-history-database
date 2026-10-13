@@ -1,0 +1,323 @@
+{
+  "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Michael (angel)",
+      "books_searched": 66,
+      "hits": [
+        "Dan.10.13",
+        "Dan.10.21",
+        "Dan.12.1",
+        "Jude.1.9",
+        "Rev.12.7"
+      ]
+    },
+    {
+      "name": "Hiddekel",
+      "books_searched": 66,
+      "hits": [
+        "Gen.2.14",
+        "Dan.10.4"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V1HGVHKTX3MZDP8YAABTR8",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8MQZMPN5VWKA44XX5S"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "The coming of \"the prince of Greece\" (10:20) corresponds to Alexander's Macedon overthrowing Persia.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V1HGTNZRY1HTKAJS9JSQH9"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V1HGVHCAM7QCYKPYZARWX1",
+      "type": "direct_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The text names \"the prince of the kingdom of Persia\" (10:13).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVHQSR0Z4XCSQAV59KV",
+      "type": "direct_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8MQZMPN5VWKA44XX5S"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The text names \"the prince of Greece\" (Yavan, 10:20); recorded against the Macedonian empire as the Greek power of the period (as in Dan 8:21).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVHR13QV4RV9ZZ88XSG",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "vision",
+        "id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.1.13-Rev.1.15"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Eyes like flame, feet like bronze, voice like many waters/a multitude — the risen Jesus described in Daniel's imagery.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVHGCF1MESPDXSF78VH",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "vision",
+        "id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.9.2"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "A man clothed in linen among Ezekiel's heavenly agents (Driver).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVHGWC0WR7RH2C3MQTH",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Deut.32.8"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Nations allotted \"according to the number of the angels/sons of God\" (LXX) — Jerome's and Driver's key text.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V1HGTNZRY1HTKAJS9JSQH9",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVHRA1NGA560VC65Z0X",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.12.7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Michael and his angels at war in heaven.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVHK1MJ3QZ0K12S5KNG",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jude.1.9"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Michael the archangel disputing with the devil.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVH2EC2WS4CYDQ853J6",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "Cyrus's first-year decree preceded his third year; Daniel is still in Babylonia (Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V1HGTHCRQQEWYXYFD65NWF"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVHBNG8CYDY8XSH5W6N",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX2TGB5X624DQ1S28M"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Dan 1:21 (\"until the first year of King Cyrus\") and 10:1 (\"third year of Cyrus\") — Jerome harmonises them.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V1HGTNZRY1HTKAJS9JSQH9"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V1HGVHZAVP9VJS7RA6V29E",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Acts.9.7"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Companions perceive something but do not see the vision (Jerome cites Acts 22).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V1HGTNZRY1HTKAJS9JSQH9"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "the great river, which is Hiddekel (10:4)",
+      "resolved_to": "loc_01M4V1HGV08ZPS4M5XMQFFZ8ZM",
+      "basis": "Gen 2:14; Driver (Akkadian Idiglat); Pleiades 912964",
+      "confidence": "high"
+    },
+    {
+      "name_as_written": "Cyrus king of Persia (10:1)",
+      "resolved_to": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "basis": "Name and title",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4V1HGVDHHMARD8QXBQ7PX6T",
+    "cst_01M4V1HGVDWS23XYMSHVZZKDXK"
+  ]
+}
