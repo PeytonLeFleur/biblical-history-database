@@ -1,0 +1,160 @@
+{
+  "event_id": "evt_01M4VPFFJFMG7781CS7NPG8K9C",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On 4 Chislev of Darius's fourth year Bethel sent Sharezer and Regem-melech to ask the priests and prophets whether to weep in the fifth month as they had for so many years. The LORD asked whether their fasts in the fifth and seventh months these seventy years had been for him, recalled the former prophets' call to justice and mercy and the scattering that followed refusal, then promised to return to Zion, fill Jerusalem with old and young, bless the work begun since the foundation, and turn the fasts of the 4th, 5th, 7th and 10th months into feasts, with the nations seeking the LORD in Jerusalem.",
+    "passage": "Zech.7.1-Zech.8.23"
+  },
+  "setting": {
+    "period": "November–December 518 BC",
+    "body": "Mitchell dates the delegation to 518, \"more than two years after work was begun on the temple\", and notes that Darius's fourth year was the sixty-ninth after the destruction of Jerusalem. Guzik gives \"December 4, 518\", apparently equating the 4th day of the 9th month with 4 December; on Babylonian reckoning Chislev of that year fell in November–December.",
+    "citations": [
+      "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VPFFJ8QNTJQ9GRAEBBE55N"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "King of Persia (dating)",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VPFFJRVX5BPBN70HEDNEA0",
+      "subject": "evt_01M4VPFFJFMG7781CS7NPG8K9C",
+      "object": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the fourth year of King Darius … the fourth day of the ninth month, the month of Chislev",
+      "passage": "Zech.7.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 4,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Babylonian Nisan-based regnal years: year 4 began 11 April 518 (Parker & Dubberstein table); Chislev (month IX) fell in November–December 518. The day-level date is not computed."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4VPFFJRJ4T7X60YKT44B5ST",
+      "subject": "evt_01M4VPFFJFMG7781CS7NPG8K9C",
+      "object": "evt_01M4VKPC23ZBNF828604H4N2QW",
+      "relation": "after",
+      "textual_assertion": "fourth year, after the visions of the second",
+      "passage": "Zech.7.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VPFFJRG5NJYTSJRY53RT2D",
+      "subject": "evt_01M4VPFFJFMG7781CS7NPG8K9C",
+      "object": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+      "relation": "before",
+      "textual_assertion": "Darius year 4, before the completion in year 6",
+      "passage": "Zech.7.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Ezra 6:15 dates the completion to Darius's sixth year."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4VCA0A1SAEPH8RZ7HYTKBS9",
+      "role": "Home of the delegation (if a place-name)",
+      "hypotheses": [],
+      "confidence": "probable"
+    },
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Temple where the question was put",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Chislev",
+      "gloss": "The ninth month (Babylonian Kislīmu), November–December.",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "The four fasts and the events they commemorated",
+      "proponents": [
+        "C. F. Keil (1868), partly from Jewish tradition",
+        "D. Guzik"
+      ],
+      "summary": "4th month (9 Tammuz): the breach; 5th month: the burning of the Temple; 7th month: Gedaliah's murder (by tradition the 3rd); 10th month (10 Tebeth): the start of the siege.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VPFFJ8QNTJQ9GRAEBBE55N"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VPFFJ8QNTJQ9GRAEBBE55N",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the answer as a rebuke of self-pitying ritual and a call to everyday obedience.",
+      "url": "https://enduringword.com/bible-commentary/zechariah-7/",
+      "accessed": "2026-10-13"
+    },
+    {
+      "source_id": "src_01M4VPFFJFECCWRT6HMCHBJMGX",
+      "layer": "interpretation",
+      "paraphrase": "Guzik sees the nations seeking the LORD in Jerusalem as fulfilled in the Messiah's millennial reign.",
+      "url": "https://enduringword.com/bible-commentary/zechariah-8/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "\"Bethel\" in 7:2: the sending town, or part of the name \"Bethel-sharezer\" (Mitchell discusses the translations)."
+  ],
+  "not_applicable": {}
+}

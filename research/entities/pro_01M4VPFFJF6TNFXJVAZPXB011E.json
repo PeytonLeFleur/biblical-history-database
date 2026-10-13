@@ -1,0 +1,65 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VPFFJF6TNFXJVAZPXB011E",
+  "slug": "fasts-become-feasts-and-the-nations-seek-the-lord-zech-8",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VPFFJFECCWRT6HMCHBJMGX",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "Jerusalem restored; fasts become feasts; the nations seek the LORD (Zech 8)",
+  "passage": "Zech.8.1-Zech.8.23",
+  "speaker": "The LORD of Armies through Zechariah",
+  "vision_id": null,
+  "description": "The LORD will return to Zion; old and young will fill Jerusalem's streets; he will gather his people from east and west; the seed will prosper; the fasts of the 4th, 5th, 7th and 10th months will become feasts; many peoples will come to seek the LORD in Jerusalem, and ten men from the nations will grasp a Jew's robe saying \"God is with you\".",
+  "in_text_interpretation": "The text gives no time-frame beyond \"in those days\" (8:23).",
+  "interpretations": [
+    {
+      "id": "ful_01M4VPFFJF8RDCDPE54AGT3DJV",
+      "label": "Fulfilled ultimately in the Messiah's future (millennial) reign in Jerusalem",
+      "approach": "futurist",
+      "framework": "Dispensational",
+      "proponents": [
+        "D. Guzik",
+        "C. L. Feinberg (as cited by Barker, via Guzik)"
+      ],
+      "summary": "Textual reasoning: nations streaming to Jerusalem and the gathering of Israel exceed anything in the Persian period. Objection: the passage also addresses the builders of 518 directly (8:9–13).",
+      "referents": [
+        {
+          "symbol": "Ten men grasping a Jew's robe",
+          "referent": "The nations drawn to Israel in the Messiah's reign"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VPFFJFECCWRT6HMCHBJMGX"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VPFFJF2P0CVXR0C8WH08DW",
+      "label": "The nations come to God through the Jew Jesus (Christian, spiritual fulfilment)",
+      "approach": "idealist",
+      "framework": "Traditional Christian",
+      "proponents": [
+        "J. M. Boice (via Guzik)"
+      ],
+      "summary": "Textual reasoning: \"a Jew\" read of Christ, through whom the nations approach God. Objection: the plural \"Jews\" context (8:13, 23) speaks of the people.",
+      "referents": [
+        {
+          "symbol": "A Jew",
+          "referent": "Jesus of Nazareth"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VPFFJFECCWRT6HMCHBJMGX"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

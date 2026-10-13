@@ -1,0 +1,54 @@
+{
+  "event_id": "evt_01M4VPFFJFMG7781CS7NPG8K9C",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V10B78XPDN44BGF9QT8EQA",
+    "rev_01M4V10B79ACE1VSMET4MYC97V",
+    "rev_01M4V10B7APP7CEJPJGK8XE33P",
+    "rev_01M4VPFFKE09XDH139CM6B4GJ8"
+  ],
+  "research_gaps": [
+    "Rabbinic sources on the four fasts not read."
+  ],
+  "disputes": [],
+  "export_eligible": true
+}

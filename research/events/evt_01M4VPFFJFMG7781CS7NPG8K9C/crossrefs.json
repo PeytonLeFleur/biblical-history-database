@@ -1,0 +1,234 @@
+{
+  "event_id": "evt_01M4VPFFJFMG7781CS7NPG8K9C",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Chislev",
+      "books_searched": 66,
+      "hits": [
+        "Neh.1.1",
+        "Zech.7.1"
+      ]
+    },
+    {
+      "name": "Sharezer",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.19.37",
+        "Isa.37.38",
+        "Jer.39.3",
+        "Jer.39.13",
+        "Zech.7.2"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VPFFK09GCFTQW1672P88Y4",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KQTQRM4HAE7P593V3"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The fast of the tenth month — the siege begun on 10 Tebeth (2 Kgs 25:1).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VPFFK06EW10FQ5X87ZTGEN",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The fast of the fourth month — the breach on 9 Tammuz (2 Kgs 25:3–4).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VPFFK09WFGDAGZE96CRKY9",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The fast of the fifth month — the burning of the Temple (2 Kgs 25:8–9).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VPFFK0PPA71X6AE0A1CM47",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95NPX8VFDZKH577Z"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The fast of the seventh month — Gedaliah's murder (2 Kgs 25:25), by Jewish tradition.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VPFFK0WFQ3VKN4E1EC6H58",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"These seventy years\" of fasting (7:5) — the second use in Zechariah (cf. 1:12).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VPFFK00W0APACRQH6VXGAE",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VPFFJF6TNFXJVAZPXB011E"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The restoration oracles of chapter 8.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VPFFK136WQ01Z6V9C9Y3JV",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Isa.58.3-Isa.58.7"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Fasting without justice rebuked.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VPFFK1Y8VX0DR8VZRWPY0Z",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Hag.2.15-Hag.2.19"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Blessing dated from the day the foundation was laid (Zech 8:9–12; Hag 2:18–19).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VPFFJRVX5BPBN70HEDNEA0",
+    "cst_01M4VPFFJRJ4T7X60YKT44B5ST",
+    "cst_01M4VPFFJRG5NJYTSJRY53RT2D"
+  ]
+}

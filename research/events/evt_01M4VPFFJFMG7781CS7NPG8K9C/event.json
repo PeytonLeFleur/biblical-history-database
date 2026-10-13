@@ -1,0 +1,63 @@
+{
+  "id": "evt_01M4VPFFJFMG7781CS7NPG8K9C",
+  "slug": "bethel-delegation-and-the-question-of-fasting-zech-7",
+  "title": "The Bethel delegation and the question of fasting; Zechariah's answer (4/IX, Darius year 4)",
+  "summary": "In Darius I's fourth year a delegation from Bethel asked whether to keep the fast of the fifth month for the destroyed Temple; Zechariah answered with a call to justice and mercy and with oracles that the four fasts of the destruction would become feasts.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VPFFJPX28CDEDY4VJ9W48P",
+    "cnd_01M4VPFFJPK1P81X9JZTGN5J90",
+    "cnd_01M4VPFFJPQVCVXFKNNC07627T",
+    "cnd_01M4VPFFJPM0D4SDP300WR460J",
+    "cnd_01M4VPFFJPS3XHMS9FECCA027B"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "prophetic_oracle",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Zech.7.1-Zech.8.23",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}
