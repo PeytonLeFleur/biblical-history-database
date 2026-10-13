@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V26XN635K61WBK7CPE0HHT",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMWGJ04XAVQVJHS3VX2",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The northern capture of a fortified city and the glorious land",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.230Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,652 @@
+# Popillius Laenas orders Antiochus IV out of Egypt at Eleusis (168 BC)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Daniel 11:29–30 (reference): Proposed correlation only.
+
+## Biblical account
+
+He returns to the south, but the latter time is not as the former, for ships of Kittim come against him; he is grieved and returns in indignation against the holy covenant.
+
+## Historical setting
+
+**Period:** Sixth Syrian War (170–168 BC)
+
+Antiochus IV invaded Egypt in 170/169 and again in 168. Near Alexandria, at Eleusis, the Roman envoy Popillius Laenas handed him the Senate's decree, drew a circle round him and demanded an answer before he stepped out; Antiochus agreed to withdraw (Polybius 29.27). Driver: Kittim (Cyprus/western coastlands) here stands for the Roman envoys. [1, 2]
+
+### Rulers
+
+- Antiochus IV Epiphanes: Seleucid king [1]
+- Gaius Popillius Laenas: Roman envoy [1]
+- Ptolemy VI Philometor: Ptolemaic king [2]
+
+## Date and chronology
+
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *model-independent*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+- **168 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: year
+  - Earliest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+  - Latest bound from: syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ (anchor)
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+## Claims and evidence
+
+### The Roman envoy Popillius Laenas compelled Antiochus IV to withdraw from Egypt by drawing a circle round him.
+
+**Classification:** Strongly supported (machine proposed) · layer: evidence
+
+Polybius, a contemporary, gives the account; Jerome's version agrees in substance. Jerome calls the envoy "Marcus", Polybius's editors and Driver "Gaius".
+
+- *Supporting (direct):* Popilius drew a circle round Antiochus; after brief hesitation he said he would do all the Romans demanded. (29.27.5–6) [1]
+- *Supporting (indirect):* Laenas drew a circle in the sand around Antiochus, who withdrew. (on 11:29–30) [3]
+- *Context (indirect):* Eleusis, four miles from Alexandria; Livy 45.12. (p. 181) [2]
+
+## Unanswered questions and research gaps
+
+- Livy 45.12 not read directly.
+
+## Sources
+
+1. Polybius, Paton, W. R. (trans.). Polybius, Histories 29.27 (Loeb VI, 1927) — LacusCurtius. LacusCurtius (Bill Thayer). <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/29*.html> — *ancient primary text; verification: claim checked*
+2. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
+3. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*

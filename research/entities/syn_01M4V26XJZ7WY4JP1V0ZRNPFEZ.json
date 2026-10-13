@@ -1,0 +1,36 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ",
+  "slug": "eleusis-ultimatum-168-bc",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG9RPBA54WT2HK3WF4J",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "title": "Popillius Laenas at Eleusis, 168 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+  "external_entity": "Polybius 29.27",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XG9RPBA54WT2HK3WF4J",
+  "proposed_synchronization": "The meeting at Eleusis near Alexandria followed Rome's victory over Perseus (Pydna) in 168 BC (Driver).",
+  "independent_date": {
+    "earliest": -167,
+    "latest": -167
+  },
+  "precision": "year",
+  "dating_method": "Driver's dating of Polybius and Livy",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "Livy 45.12 not read directly."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+  "window": null,
+  "reviewer_status": "machine_proposed"
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XHH65QF71XTTV8HGQAH",
+  "slug": "antiochus-iii-the-great",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0",
+    "src_01M4V26XG4J1EZGM5AZCY5A43P",
+    "src_01M4V26XGJKSDPV1SX90XVZV14"
+  ],
+  "notes": null,
+  "canonical_name": "Antiochus III the Great",
+  "aliases": [],
+  "description": "Seleucid king (223–187 BC); defeated at Raphia (217), victorious at Panium (c. 200/198), defeated by Rome at Magnesia (190); killed in Elam (BM 35603).",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+}

@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XJ0ANJN31NR1QW98K6V",
+  "slug": "heliodorus-seleucid-minister",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XGDYMER5DXT6N1DD3YC",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Heliodorus",
+  "aliases": [],
+  "description": "Chief minister of Seleucus IV, who led the conspiracy in which the king was killed (Appian, Syr. 45); 2 Maccabees 3 tells of his attempt on the Temple treasury (not read).",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+}

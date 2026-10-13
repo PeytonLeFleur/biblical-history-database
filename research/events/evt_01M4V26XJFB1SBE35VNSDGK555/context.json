@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_01M4V26XJFB1SBE35VNSDGK555",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "He plants the tents of his palace between the sea and the glorious holy mountain; yet he comes to his end, and no one helps him.",
+    "passage": "Dan.11.45"
+  },
+  "setting": {
+    "period": "End of Antiochus IV's reign (164 BC)",
+    "body": "Antiochus went east in 166/165 to raise funds; after failing to plunder a sanctuary of Artemis in Elymaïs he died at Tabae in Persia, \"smitten with madness, as some say\" (Polybius 31.9). News reached Babylon in Kislimu 148 SE (BM 35603). 1 Macc 6 adds that he heard of the Jews' victories; 2 Macc 9 tells the story with legendary additions (Driver).",
+    "citations": [
+      "src_01M4V26XGBF1RG8YQBJ62G9798",
+      "src_01M4V26XGJKSDPV1SX90XVZV14",
+      "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+      "reign_id": "rgn_01M4TSKK8ZQ9SVQ7AZ0FG80084",
+      "role": "Seleucid king",
+      "citations": [
+        "src_01M4V26XGJKSDPV1SX90XVZV14"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+  ],
+  "constraints": [],
+  "synchronisms": [
+    {
+      "id": "syn_01M4V26XK6GQF2K5WHZ95HHKJW",
+      "type": "documentary_correlation",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4V26XGBF1RG8YQBJ62G9798",
+        "src_01M4V26XGJKSDPV1SX90XVZV14",
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Death after the rededication",
+      "proponents": [
+        "1 Maccabees 6:7 (he hears that the abomination has been pulled down)"
+      ],
+      "summary": "Death in Persia after news of the Temple's recovery.",
+      "citations": [
+        "src_01M4TSKK87BBJJJP35SD5PZGDP"
+      ]
+    },
+    {
+      "label": "Death before the rededication",
+      "proponents": [
+        "2 Maccabees 9–10 (narrative order, not read in this session; reported by Driver)"
+      ],
+      "summary": "The purification is narrated after his death. Not modelled as a constraint because the sources disagree.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {
+    "commentary": "Interpretive commentary is recorded on the Daniel 11 prophecy records."
+  }
+}

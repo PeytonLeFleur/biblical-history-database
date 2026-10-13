@@ -1,0 +1,145 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS",
+  "slug": "contemptible-person-dan-11-21-35",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The contemptible person (Dan 11:21–35)",
+  "passage": "Dan.11.21-Dan.11.35",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "A contemptible person takes the kingdom by flattery, breaks the prince of the covenant, invades the south twice, is turned back by ships of Kittim, profanes the sanctuary, removes the continual offering and sets up the abomination that makes desolate; the wise suffer and receive \"a little help\".",
+  "in_text_interpretation": "The text gives no name. \"Kittim\" (11:30) is a place-name (Cyprus/western coastlands, Driver); \"the abomination that makes desolate\" recurs in 9:27 and 12:11.",
+  "interpretations": [
+    {
+      "id": "ful_01M4V26XKMGX507Q353NARNRW8",
+      "label": "Antiochus IV Epiphanes, 175–167 BC",
+      "approach": "preterist",
+      "framework": "Porphyry; historical-critical; also the near fulfilment in evangelical readings",
+      "proponents": [
+        "Porphyry (per Jerome)",
+        "S. R. Driver (1900)",
+        "J. A. Montgomery (1927)",
+        "D. Guzik (to 11:35)"
+      ],
+      "summary": "Textual reasoning: the contemptible person replaces the raiser of taxes (Seleucus IV) without hereditary right (Antiochus IV replaced his brother's son); \"the prince of the covenant\" broken = Onias III deposed in 175 (Driver) or the young Ptolemy VI; two Egyptian campaigns (170–169, 168); \"ships of Kittim\" = the Roman envoys and Popillius Laenas at Eleusis (Polybius 29.27); the Temple plundered (1 Macc 1:20–24) and the abomination set up on 15 Chislev 145 (1 Macc 1:54); \"a little help\" = Mattathias and the Maccabees (Porphyry). Historical evidence: Polybius, Appian, 1–2 Maccabees, BM 35603. Acceptance: Jerome concedes \"there is no doubt\" Antiochus did several of these things while reading them as typological.",
+      "referents": [
+        {
+          "symbol": "Contemptible person",
+          "referent": "Antiochus IV"
+        },
+        {
+          "symbol": "Prince of the covenant",
+          "referent": "Onias III (or Ptolemy VI)"
+        },
+        {
+          "symbol": "Ships of Kittim",
+          "referent": "Roman envoys under Popillius Laenas"
+        },
+        {
+          "symbol": "Abomination that makes desolate",
+          "referent": "The pagan altar of 15 Chislev 145 SE"
+        },
+        {
+          "symbol": "A little help",
+          "referent": "Mattathias and Judas Maccabaeus"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V26XJFV4SE5BXJ3X0QF67S",
+        "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+        "evt_01M4V26XJFNDVRK064BRXG17HH"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+        "src_01M4V26XG9RPBA54WT2HK3WF4J",
+        "src_01M4V26XGDYMER5DXT6N1DD3YC",
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4V10B5ARS1VB0TJSYPGYT09",
+        "src_01M4V26XGJKSDPV1SX90XVZV14"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V26XKMEESN5E0TZSJXXN0J",
+      "label": "The Antichrist, with Antiochus as a type",
+      "approach": "futurist",
+      "framework": "Patristic (\"our school\", per Jerome)",
+      "proponents": [
+        "Jerome and the Christian writers he follows"
+      ],
+      "summary": "From 11:21 the prophecy speaks of the Antichrist at the end of the world; Antiochus's deeds are preliminary \"types\" (as Solomon prefigures Christ in Ps 72). Jerome nevertheless reports the Antiochus history verse by verse. Future reference; not a claim of historical fulfilment.",
+      "referents": [
+        {
+          "symbol": "Contemptible person",
+          "referent": "The Antichrist (Antiochus as type)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V26XKMA432RK56P3XBPSXQ",
+      "label": "Jewish readings reported by Jerome: the Romans (11:31) and Julian (11:34)",
+      "approach": "preterist",
+      "framework": "Jewish interpretation of Jerome's day (hostile report)",
+      "proponents": [
+        "Jewish teachers reported by Jerome"
+      ],
+      "summary": "The ships of Kittim are the Romans; Vespasian's son Titus profaned the sanctuary and removed the continual sacrifice; the \"little help\" was the emperor Julian (or Severus and Antoninus), who favoured the Jews. Known only through Jerome.",
+      "referents": [
+        {
+          "symbol": "Forces that profane the sanctuary",
+          "referent": "Titus's army (AD 70)"
+        },
+        {
+          "symbol": "A little help",
+          "referent": "Julian"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V26XKM15AA5RN3ZF2CV3G5",
+      "label": "From 11:31 the Romans; the little help is Constantine (historicist)",
+      "approach": "historicist",
+      "framework": "Protestant historicist",
+      "proponents": [
+        "I. Newton (1733)"
+      ],
+      "summary": "After the Roman conquest of Macedon, \"arms\" = the Romans, who polluted the sanctuary and placed the abomination (Hadrian's temple of Jupiter Capitolinus, AD 132; Matt 24:15 puts it after Christ); the persecuted Christians were helped \"with a little help\" by Constantine. Objection: Driver and Porphyry read 11:31 as continuing the same king's actions.",
+      "referents": [
+        {
+          "symbol": "Arms (11:31)",
+          "referent": "Rome"
+        },
+        {
+          "symbol": "A little help",
+          "referent": "Constantine"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK83SFG091RT082Z4EXG",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

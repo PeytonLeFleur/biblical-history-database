@@ -545,6 +545,21 @@
   "description": "The Roman state, republic and empire; identified with Daniel's fourth kingdom in the traditional Christian reading."
  },
  {
+  "kind": "kingdom",
+  "id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB",
+  "slug": "ptolemaic-kingdom",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V26XG4J1EZGM5AZCY5A43P"
+  ],
+  "notes": null,
+  "name": "Ptolemaic kingdom (Egypt)",
+  "description": "The Macedonian dynasty founded in Egypt by Ptolemy son of Lagus after Alexander's death (323 BC), ending with Cleopatra VII (30 BC). Most interpreters read it as Daniel 11's \"king of the south\"."
+ },
+ {
   "kind": "place",
   "id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
   "slug": "jerusalem",
@@ -1548,6 +1563,328 @@
   "canonical_name": "Onias III",
   "aliases": [],
   "description": "High priest at Jerusalem, supplanted by his brother Jason under Antiochus IV (2 Macc 4:7) and, according to 2 Maccabees, killed near Antioch at Menelaus's instigation (4:33–35), c. 171 BC (Driver, after Schürer). Josephus gives a different account of his end.",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+  "slug": "xerxes-i",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": null,
+  "canonical_name": "Xerxes I",
+  "aliases": [],
+  "description": "Achaemenid king (486–465 BC), son of Darius I; invaded Greece. Most interpreters read him as the rich fourth king of Dan 11:2; the \"Ahasuerus\" of Esther and Ezra 4:6 is usually identified with him (Driver).",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XGVR4QZD3TJKSPZEGBR",
+  "slug": "ptolemy-i-soter",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy I Soter",
+  "aliases": [],
+  "description": "Son of Lagus; satrap and then king of Egypt (d. 283/282 BC).",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XGY6AYP1CC3CDV2H14K",
+  "slug": "seleucus-i-nicator",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
+  "notes": null,
+  "canonical_name": "Seleucus I Nicator",
+  "aliases": [],
+  "description": "Founder of the Seleucid dynasty; once Ptolemy's officer, he became ruler of Babylon and Syria (d. 281 BC).",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XH06GY9QPAB73TBA76A",
+  "slug": "antiochus-ii-theos",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Antiochus II Theos",
+  "aliases": [],
+  "description": "Seleucid king (261–246 BC) who married Berenice, daughter of Ptolemy II.",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XH3AN2GKYMSYZB7D55H",
+  "slug": "berenice-syra",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
+  "notes": null,
+  "canonical_name": "Berenice (Syra)",
+  "aliases": [],
+  "description": "Daughter of Ptolemy II Philadelphus, married to Antiochus II; killed with her son after his death (Jerome; Newton).",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XH6V8PE6NREXG2ATXXF",
+  "slug": "ptolemy-ii-philadelphus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy II Philadelphus",
+  "aliases": [],
+  "description": "Second Ptolemaic king (283–246 BC); father of Berenice.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XH9X34PDQAZR8NJQEPE",
+  "slug": "ptolemy-iii-euergetes",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy III Euergetes",
+  "aliases": [],
+  "description": "Third Ptolemaic king (246–222 BC); invaded the Seleucid realm to avenge his sister Berenice.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XHC9W6JNA4M7QS9ZP5W",
+  "slug": "seleucus-ii-callinicus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
+  "notes": null,
+  "canonical_name": "Seleucus II Callinicus",
+  "aliases": [],
+  "description": "Seleucid king (246–225 BC), son of Antiochus II and Laodice.",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XHE0F8FV1V61THTA315",
+  "slug": "seleucus-iii-ceraunus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Seleucus III Ceraunus",
+  "aliases": [],
+  "description": "Seleucid king (225–223 BC), elder son of Seleucus II; murdered on campaign.",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XHH65QF71XTTV8HGQAH",
+  "slug": "antiochus-iii-the-great",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4V26XG4J1EZGM5AZCY5A43P",
+   "src_01M4V26XGJKSDPV1SX90XVZV14"
+  ],
+  "notes": null,
+  "canonical_name": "Antiochus III the Great",
+  "aliases": [],
+  "description": "Seleucid king (223–187 BC); defeated at Raphia (217), victorious at Panium (c. 200/198), defeated by Rome at Magnesia (190); killed in Elam (BM 35603).",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XHM6Z1B9HD7PTKQWK26",
+  "slug": "ptolemy-iv-philopator",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG4J1EZGM5AZCY5A43P",
+   "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy IV Philopator",
+  "aliases": [],
+  "description": "Ptolemaic king (222–204 BC); victor at Raphia.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XHQAP44GSKVAQ30YSAN",
+  "slug": "ptolemy-v-epiphanes",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy V Epiphanes",
+  "aliases": [],
+  "description": "Ptolemaic king (204–180 BC), a child at accession; married Cleopatra I, daughter of Antiochus III.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XHT7TGDSQD1JNN60859",
+  "slug": "cleopatra-i",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Cleopatra I",
+  "aliases": [],
+  "description": "Daughter of Antiochus III, married to Ptolemy V (betrothed in Antiochus's 7th year and married in his 13th, per Jerome); mother of Ptolemy VI.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XHX40WQWS3VNS46N0T3",
+  "slug": "seleucus-iv-philopator",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XGJKSDPV1SX90XVZV14",
+   "src_01M4V26XGDYMER5DXT6N1DD3YC",
+   "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Seleucus IV Philopator",
+  "aliases": [],
+  "description": "Seleucid king, son of Antiochus III; reigned 12 years (BM 35603) and was assassinated in a conspiracy of Heliodorus (Appian, Syr. 45) in 175 BC.",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XJ0ANJN31NR1QW98K6V",
+  "slug": "heliodorus-seleucid-minister",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XGDYMER5DXT6N1DD3YC",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Heliodorus",
+  "aliases": [],
+  "description": "Chief minister of Seleucus IV, who led the conspiracy in which the king was killed (Appian, Syr. 45); 2 Maccabees 3 tells of his attempt on the Temple treasury (not read).",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XJ3HN3YFVRQ5D3AH3X1",
+  "slug": "ptolemy-vi-philometor",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy VI Philometor",
+  "aliases": [],
+  "description": "Ptolemaic king (180–145 BC), son of Cleopatra I and nephew of Antiochus IV, whose invasions of Egypt (170–168) were ended by Roman intervention.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XJ67R4RQFRPJVQ4QSQS",
+  "slug": "gaius-popillius-laenas",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG9RPBA54WT2HK3WF4J",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Gaius Popillius Laenas",
+  "aliases": [],
+  "description": "Roman envoy who in 168 BC ordered Antiochus IV out of Egypt, drawing a circle round him (Polybius 29.27). Jerome calls him \"Marcus\"; Driver and Polybius's editors \"C(aius)\".",
+  "kingdom_id": "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XJ97W0YXX24J3C0BFEC",
+  "slug": "lucius-cornelius-scipio",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Lucius Cornelius Scipio (Asiaticus)",
+  "aliases": [],
+  "description": "Roman consul who defeated Antiochus III at Magnesia in 190 BC (Driver after Livy 37); Jerome mentions him with his brother Africanus.",
+  "kingdom_id": "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XJCK6KCZVR5Z9N6FRRJ",
+  "slug": "mattathias-of-modein",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Mattathias",
+  "aliases": [],
+  "description": "Priest of Modein who began the revolt against Antiochus IV (1 Macc 2); Porphyry (per Jerome) took him as the \"little help\" of Dan 11:34.",
+  "kingdom_id": null
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4V26XJFBFF5BTGATRN9MDPW",
+  "slug": "judas-maccabeus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Judas Maccabaeus",
+  "aliases": [],
+  "description": "Son of Mattathias; led the revolt and rededicated the Temple (1 Macc 3–4).",
   "kingdom_id": null
  },
  {
@@ -3122,6 +3459,512 @@
   ]
  },
  {
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6CDCWT58W40VAWF13",
+  "slug": "king-who-exalts-himself-dan-11-36-45",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The king who exalts himself (Dan 11:36–45)",
+  "passage": "Dan.11.36-Dan.11.45",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "The king does according to his will, magnifies himself above every god, honours a god of fortresses; at the time of the end he overruns the glorious land and Egypt, is troubled by news from east and north, plants his tents between the sea and the glorious holy mountain, and comes to his end with no one to help.",
+  "in_text_interpretation": "No name or date; \"at the time of the end\" (11:40).",
+  "interpretations": [
+   {
+    "id": "ful_01M4V26XKRSDFY6BH17TBHVR5C",
+    "label": "Antiochus IV continued; 11:40–45 an unfulfilled or idealised forecast of his end",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "S. R. Driver (1900)",
+     "J. A. Montgomery (1927)",
+     "Porphyry (per Jerome, with a fourth Egyptian campaign)"
+    ],
+    "summary": "Textual reasoning: \"the king\" continues the subject of 11:21–35; Antiochus's divine titles and Hellenising religious policy fit 11:36–39. But 11:40–45 (a final conquest of Egypt, death between the sea and the holy mountain) does not match the record: Antiochus went east in 166/165 and died at Tabae in Persia (Polybius 31.9; BM 35603, 164 BC). Driver: the prophecy correctly foretold his speedy doom, while the circumstances \"do not correspond to what we know of the historical reality\" — like details in earlier prophets. Porphyry's fourth Egyptian expedition is known only through Jerome and conflicts with Roman protection of Egypt (Bevan, via Driver).",
+    "referents": [
+     {
+      "symbol": "The king",
+      "referent": "Antiochus IV"
+     },
+     {
+      "symbol": "He will come to his end",
+      "referent": "Death of Antiochus IV (164 BC)"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4V26XJFB1SBE35VNSDGK555"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK81W6HP2HFZ7744DHRG",
+     "src_01M4V26XG2J788VAQZ1TYKC6N0",
+     "src_01M4V26XGBF1RG8YQBJ62G9798",
+     "src_01M4V26XGJKSDPV1SX90XVZV14"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V26XKR2ED2DS1NWFVE087F",
+    "label": "A future Antichrist (transition at 11:36)",
+    "approach": "futurist",
+    "framework": "Patristic; Jewish (per Jerome); modern dispensational",
+    "proponents": [
+     "Jerome",
+     "Jewish teachers reported by Jerome",
+     "D. Guzik (Antiochus a \"trailer\", the Antichrist the \"feature\")"
+    ],
+    "summary": "The king of 11:36–45 is the end-time Antichrist who sits in the Temple as God (2 Thess 2:4); he dies between the seas at the holy mountain (Jerome: near the Mount of Olives, with Apedno = \"his throne\"). Guzik places the transition at 11:36 and speculates that the king of the north may be Russia. Future reference; not a claim of historical fulfilment. Objection (Driver): there is no break in the text at 11:36.",
+    "referents": [
+     {
+      "symbol": "The king",
+      "referent": "The Antichrist"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0",
+     "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V26XKRRND4RG6CACBGX5XN",
+    "label": "The Byzantine \"Greek\" empire; king of the south = Saracens, king of the north = Turks (historicist)",
+    "approach": "historicist",
+    "framework": "Protestant historicist",
+    "proponents": [
+     "I. Newton (1733)"
+    ],
+    "summary": "After the division of the Roman empire, \"the king\" is the empire of the Greeks, which honoured \"Mahuzzims\" (the saints and their relics) and forbade marriage to monks; at the time of the end the Saracens (south) and Turks (north) attacked it, and the Turkish empire took Egypt, Libya and Ethiopia. Objection: requires the subject to change several times without textual signal.",
+    "referents": [
+     {
+      "symbol": "The king",
+      "referent": "The Byzantine empire"
+     },
+     {
+      "symbol": "King of the south",
+      "referent": "The Saracens"
+     },
+     {
+      "symbol": "King of the north",
+      "referent": "The Turks"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK83SFG091RT082Z4EXG"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6M6A462M0HQZZD95J",
+  "slug": "kings-of-the-south-and-north-dan-11-5-20",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The kings of the south and the north (Dan 11:5–20)",
+  "passage": "Dan.11.5-Dan.11.20",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "A sequence of wars and marriage alliances between the king of the south and the king of the north, ending with a raiser of taxes who is destroyed \"not in anger, and not in battle\".",
+  "in_text_interpretation": "The text calls them only \"the king of the south\" and \"the king of the north\"; it names Egypt (11:8) and \"the glorious land\" (11:16) and no persons.",
+  "interpretations": [
+   {
+    "id": "ful_01M4V26XKHJDWRAARA7PS1YYD5",
+    "label": "Ptolemies and Seleucids from Ptolemy I to Seleucus IV",
+    "approach": "preterist",
+    "framework": "Agreed by Porphyry and Jerome; followed by historicist, critical and evangelical commentators",
+    "proponents": [
+     "Porphyry (per Jerome: \"no point of controversy\" up to 11:20)",
+     "Jerome",
+     "I. Newton",
+     "S. R. Driver",
+     "D. Guzik"
+    ],
+    "summary": "Textual reasoning: the sequence matches the Ptolemaic (south) and Seleucid (north) kings as seen from Judaea. 11:5 Ptolemy I and his former officer Seleucus I; 11:6 Berenice, daughter of Ptolemy II, married to Antiochus II and killed after his death; 11:7–9 her brother Ptolemy III invades and carries off gods and treasure; 11:10 the sons of Seleucus II — Seleucus III and Antiochus III; 11:11–12 Ptolemy IV wins at Raphia (Polybius 5.82–87) but does not follow up; 11:13–16 Antiochus III returns, defeats Scopas at Panium and takes Judaea (Polybius 16.18–19, 39); 11:17 Cleopatra I given to Ptolemy V; 11:18 Antiochus turns to the coastlands and is stopped by a Roman commander (Lucius Scipio, Magnesia); 11:19 he dies in his own land (BM 35603: \"killed in Elam\"); 11:20 Seleucus IV, whose minister Heliodorus was sent for the Temple money, killed by conspiracy (Appian, Syr. 45). Historical evidence: Polybius, Appian, the Babylonian king list. Objection: the correlations are made by the interpreters; Daniel names no one.",
+    "referents": [
+     {
+      "symbol": "King of the south (11:5)",
+      "referent": "Ptolemy I"
+     },
+     {
+      "symbol": "One of his princes",
+      "referent": "Seleucus I"
+     },
+     {
+      "symbol": "Daughter of the king of the south",
+      "referent": "Berenice"
+     },
+     {
+      "symbol": "King of the north (11:6)",
+      "referent": "Antiochus II"
+     },
+     {
+      "symbol": "Shoot from her roots",
+      "referent": "Ptolemy III"
+     },
+     {
+      "symbol": "His sons (11:10)",
+      "referent": "Seleucus III and Antiochus III"
+     },
+     {
+      "symbol": "King of the south (11:11)",
+      "referent": "Ptolemy IV"
+     },
+     {
+      "symbol": "Daughter of women (11:17)",
+      "referent": "Cleopatra I"
+     },
+     {
+      "symbol": "A commander (11:18)",
+      "referent": "Lucius Cornelius Scipio"
+     },
+     {
+      "symbol": "Raiser of taxes (11:20)",
+      "referent": "Seleucus IV Philopator"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+     "evt_01M4V26XJFEATDTW928Q7YE19Q",
+     "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+     "evt_01M4V26XJFV4SE5BXJ3X0QF67S"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0",
+     "src_01M4TSKK83SFG091RT082Z4EXG",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+     "src_01M4V26XG4J1EZGM5AZCY5A43P",
+     "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+     "src_01M4V26XGDYMER5DXT6N1DD3YC",
+     "src_01M4V26XGJKSDPV1SX90XVZV14"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V26XKH81BN7MYK3HJZC3XR",
+    "label": "Variants at 11:20: Ptolemy V (Porphyry), Trypho (\"the Hebrews\"), Seleucus III (Guzik)",
+    "approach": "preterist",
+    "framework": "Minority variants reported by Jerome; Guzik",
+    "proponents": [
+     "Porphyry (per Jerome)",
+     "Jewish teachers reported by Jerome",
+     "D. Guzik"
+    ],
+    "summary": "Porphyry took the raiser of taxes to be Ptolemy V Epiphanes; \"the Hebrews\" took the vile one of 11:20–21 to be Trypho; Guzik names \"Seleucus III, the eldest son of Antiochus III\". Objections: Jerome answers that Ptolemy did not rise \"in the place\" of Antiochus III; the Babylonian king list makes Seleucus IV (not Seleucus III, who preceded Antiochus III) the son who succeeded Antiochus III and reigned 12 years.",
+    "referents": [
+     {
+      "symbol": "Raiser of taxes (11:20)",
+      "referent": "Ptolemy V / Trypho / \"Seleucus III\""
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0",
+     "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+     "src_01M4V26XGJKSDPV1SX90XVZV14"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V26XKHHG6KYC7QDE4Y4Y1B",
+    "label": "11:14: the Onias temple at Leontopolis (Jerome)",
+    "approach": "preterist",
+    "framework": "Patristic",
+    "proponents": [
+     "Jerome"
+    ],
+    "summary": "\"The children of the violent among your people … to establish the vision\" are the Jews who followed the high priest Onias to Egypt and built a rival temple (citing Isa 19:19); Driver instead refers the verse to Jews who sided with Antiochus III (not read in full). The dating of the Leontopolis temple (later than Antiochus III) is a problem for Jerome's reading.",
+    "referents": [
+     {
+      "symbol": "Children of the violent",
+      "referent": "Onias's followers in Egypt"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6WA1HHE7SNBA2JNX6",
+  "slug": "four-persian-kings-dan-11-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "Four kings of Persia; the fourth stirs up all against Greece (Dan 11:2)",
+  "passage": "Dan.11.2",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "Three more kings will arise in Persia; the fourth, far richer, will stir up all against the realm of Greece.",
+  "in_text_interpretation": "The text names Persia and Greece (Yavan) but no king.",
+  "interpretations": [
+   {
+    "id": "ful_01M4V26XK7RYV8QX14B5C2E57B",
+    "label": "Cambyses, (Pseudo-)Smerdis, Darius I, Xerxes",
+    "approach": "preterist",
+    "framework": "Patristic and historical-critical",
+    "proponents": [
+     "Jerome",
+     "S. R. Driver (counting Gaumata, or with Cyrus included)"
+    ],
+    "summary": "After Cyrus (10:1) come Cambyses, the Magian Smerdis/Gaumata and Darius I; the fourth is Xerxes, whose wealth and invasion of Greece match the verse (Herodotus 7). Driver prefers counting Cyrus as the first, so that Gaumata may be omitted and Xerxes is still the fourth. Jerome rejects identifying the fourth with Darius III, who was \"the fourteenth\" king after Cyrus.",
+    "referents": [
+     {
+      "symbol": "The fourth king",
+      "referent": "Xerxes I"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V26XK7DPVG5K7TS2GHETF2",
+    "label": "Cyrus, Cambyses, Darius I; Xerxes the fourth",
+    "approach": "historicist",
+    "framework": "Protestant historicist",
+    "proponents": [
+     "I. Newton (1733)",
+     "D. Guzik (the count may omit Cyrus or Smerdis)"
+    ],
+    "summary": "Newton counts Cyrus, Cambyses and Darius Hystaspes as the three and Xerxes as the fourth. Guzik names only Xerxes and leaves the count open. Objection (all readings): Daniel then passes over the remaining Persian kings to Alexander — Jerome: Scripture \"summarizes only the most important matters\".",
+    "referents": [
+     {
+      "symbol": "The fourth king",
+      "referent": "Xerxes I"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK83SFG091RT082Z4EXG",
+     "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6Y8B5RE2HF7C31SED",
+  "slug": "mighty-king-and-fourfold-division-dan-11-3-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "A mighty king and the fourfold division of his kingdom (Dan 11:3–4)",
+  "passage": "Dan.11.3-Dan.11.4",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "A mighty king rules with great dominion; at his height his kingdom is broken toward the four winds, not to his posterity.",
+  "in_text_interpretation": "The text does not name the king; it parallels the goat's great horn (8:8, 21–22), which the text calls \"the first king\" of Greece.",
+  "interpretations": [
+   {
+    "id": "ful_01M4V26XKDGG7V8F56X4K7YRV8",
+    "label": "Alexander the Great and the partition among his generals",
+    "approach": "preterist",
+    "framework": "Common to patristic, historicist, critical and evangelical interpreters",
+    "proponents": [
+     "Jerome",
+     "I. Newton",
+     "S. R. Driver",
+     "D. Guzik"
+    ],
+    "summary": "Alexander died young and his heirs did not inherit; the empire was divided among his generals (Jerome: Ptolemy, Philip Arrhidaeus, Seleucus, Antigonus; Newton: Ptolemy, Antigonus, Lysimachus, Cassander, with Seleucus later). \"Others besides these\" (11:4) = lesser kingdoms (Jerome). Acceptance: no dissent found among sources consulted.",
+    "referents": [
+     {
+      "symbol": "Mighty king",
+      "referent": "Alexander the Great"
+     },
+     {
+      "symbol": "Four winds",
+      "referent": "The successor kingdoms (lists differ)"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0",
+     "src_01M4TSKK83SFG091RT082Z4EXG",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+     "src_01M4TTS0H4CEAKS7ZHP91RP73B"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS",
+  "slug": "contemptible-person-dan-11-21-35",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The contemptible person (Dan 11:21–35)",
+  "passage": "Dan.11.21-Dan.11.35",
+  "speaker": "The man clothed in linen",
+  "vision_id": "vis_01M4V1HGV4ZHTPZDKH5RNEWCQH",
+  "description": "A contemptible person takes the kingdom by flattery, breaks the prince of the covenant, invades the south twice, is turned back by ships of Kittim, profanes the sanctuary, removes the continual offering and sets up the abomination that makes desolate; the wise suffer and receive \"a little help\".",
+  "in_text_interpretation": "The text gives no name. \"Kittim\" (11:30) is a place-name (Cyprus/western coastlands, Driver); \"the abomination that makes desolate\" recurs in 9:27 and 12:11.",
+  "interpretations": [
+   {
+    "id": "ful_01M4V26XKMGX507Q353NARNRW8",
+    "label": "Antiochus IV Epiphanes, 175–167 BC",
+    "approach": "preterist",
+    "framework": "Porphyry; historical-critical; also the near fulfilment in evangelical readings",
+    "proponents": [
+     "Porphyry (per Jerome)",
+     "S. R. Driver (1900)",
+     "J. A. Montgomery (1927)",
+     "D. Guzik (to 11:35)"
+    ],
+    "summary": "Textual reasoning: the contemptible person replaces the raiser of taxes (Seleucus IV) without hereditary right (Antiochus IV replaced his brother's son); \"the prince of the covenant\" broken = Onias III deposed in 175 (Driver) or the young Ptolemy VI; two Egyptian campaigns (170–169, 168); \"ships of Kittim\" = the Roman envoys and Popillius Laenas at Eleusis (Polybius 29.27); the Temple plundered (1 Macc 1:20–24) and the abomination set up on 15 Chislev 145 (1 Macc 1:54); \"a little help\" = Mattathias and the Maccabees (Porphyry). Historical evidence: Polybius, Appian, 1–2 Maccabees, BM 35603. Acceptance: Jerome concedes \"there is no doubt\" Antiochus did several of these things while reading them as typological.",
+    "referents": [
+     {
+      "symbol": "Contemptible person",
+      "referent": "Antiochus IV"
+     },
+     {
+      "symbol": "Prince of the covenant",
+      "referent": "Onias III (or Ptolemy VI)"
+     },
+     {
+      "symbol": "Ships of Kittim",
+      "referent": "Roman envoys under Popillius Laenas"
+     },
+     {
+      "symbol": "Abomination that makes desolate",
+      "referent": "The pagan altar of 15 Chislev 145 SE"
+     },
+     {
+      "symbol": "A little help",
+      "referent": "Mattathias and Judas Maccabaeus"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4V26XJFV4SE5BXJ3X0QF67S",
+     "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+     "evt_01M4V26XJFNDVRK064BRXG17HH"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK81W6HP2HFZ7744DHRG",
+     "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+     "src_01M4V26XG9RPBA54WT2HK3WF4J",
+     "src_01M4V26XGDYMER5DXT6N1DD3YC",
+     "src_01M4TSKK87BBJJJP35SD5PZGDP",
+     "src_01M4V10B5ARS1VB0TJSYPGYT09",
+     "src_01M4V26XGJKSDPV1SX90XVZV14"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V26XKMEESN5E0TZSJXXN0J",
+    "label": "The Antichrist, with Antiochus as a type",
+    "approach": "futurist",
+    "framework": "Patristic (\"our school\", per Jerome)",
+    "proponents": [
+     "Jerome and the Christian writers he follows"
+    ],
+    "summary": "From 11:21 the prophecy speaks of the Antichrist at the end of the world; Antiochus's deeds are preliminary \"types\" (as Solomon prefigures Christ in Ps 72). Jerome nevertheless reports the Antiochus history verse by verse. Future reference; not a claim of historical fulfilment.",
+    "referents": [
+     {
+      "symbol": "Contemptible person",
+      "referent": "The Antichrist (Antiochus as type)"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V26XKMA432RK56P3XBPSXQ",
+    "label": "Jewish readings reported by Jerome: the Romans (11:31) and Julian (11:34)",
+    "approach": "preterist",
+    "framework": "Jewish interpretation of Jerome's day (hostile report)",
+    "proponents": [
+     "Jewish teachers reported by Jerome"
+    ],
+    "summary": "The ships of Kittim are the Romans; Vespasian's son Titus profaned the sanctuary and removed the continual sacrifice; the \"little help\" was the emperor Julian (or Severus and Antoninus), who favoured the Jews. Known only through Jerome.",
+    "referents": [
+     {
+      "symbol": "Forces that profane the sanctuary",
+      "referent": "Titus's army (AD 70)"
+     },
+     {
+      "symbol": "A little help",
+      "referent": "Julian"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V26XG2J788VAQZ1TYKC6N0"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V26XKM15AA5RN3ZF2CV3G5",
+    "label": "From 11:31 the Romans; the little help is Constantine (historicist)",
+    "approach": "historicist",
+    "framework": "Protestant historicist",
+    "proponents": [
+     "I. Newton (1733)"
+    ],
+    "summary": "After the Roman conquest of Macedon, \"arms\" = the Romans, who polluted the sanctuary and placed the abomination (Hadrian's temple of Jupiter Capitolinus, AD 132; Matt 24:15 puts it after Christ); the persecuted Christians were helped \"with a little help\" by Constantine. Objection: Driver and Porphyry read 11:31 as continuing the same king's actions.",
+    "referents": [
+     {
+      "symbol": "Arms (11:31)",
+      "referent": "Rome"
+     },
+     {
+      "symbol": "A little help",
+      "referent": "Constantine"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK83SFG091RT082Z4EXG",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
   "kind": "reign",
   "id": "rgn_01M4RPJVYJ1R6K3GJ0T66E7TMF",
   "slug": "uzziah-reign-albright",
@@ -4060,6 +4903,303 @@
     "src_01M4TTS0H2RP38CMPKF6HT28VX",
     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
     "src_01M4TSKK81W6HP2HFZ7744DHRG"
+   ]
+  },
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJJJEK05H05Z4NT8AK5",
+  "slug": "raphia-217-bc",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG4J1EZGM5AZCY5A43P",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "title": "Battle of Raphia dated to 217 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+  "external_entity": "Polybius 5.79–87",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XG4J1EZGM5AZCY5A43P",
+  "proposed_synchronization": "The battle took place in the campaigning season of 217 BC (Driver, from Polybius).",
+  "independent_date": {
+   "earliest": -216,
+   "latest": -216
+  },
+  "precision": "year",
+  "dating_method": "Polybius's narrative chronology as dated by Driver",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "Year from Driver (\"in the next spring (217)\"); Polybius's Olympiad reckoning not converted here."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+  "window": null,
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJPGHX1WEEX59YZM9JX",
+  "slug": "panium-c-200-198-bc",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "title": "Battle of Panium, c. 200–198 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFEATDTW928Q7YE19Q",
+  "external_entity": "Polybius 16.18–19, 16.39",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+  "proposed_synchronization": "Antiochus III defeated Scopas at Paneion; Driver dates the decisive defeat and Scopas's surrender to 198 BC; Scopas was sent out in 200.",
+  "independent_date": {
+   "earliest": -199,
+   "latest": -197
+  },
+  "precision": "year",
+  "dating_method": "Driver's dating of Polybius's narrative",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "Range 200–198 kept because the battle and the siege of Sidon are dated differently in the literature (only Driver read)."
+  ],
+  "evidence_strength": "weak",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFEATDTW928Q7YE19Q",
+  "window": null,
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJSMXTSNK5JN3TAZKR4",
+  "slug": "magnesia-190-bc",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V26XGFKAR388VN0GJQ9KVG"
+  ],
+  "notes": null,
+  "title": "Battle of Magnesia, autumn 190 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+  "external_entity": "Livy 37.39–44 (via Driver); Appian, Syr. 31–35",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XGFKAR388VN0GJQ9KVG",
+  "proposed_synchronization": "Driver dates the battle to the autumn of 190 BC.",
+  "independent_date": {
+   "earliest": -189,
+   "latest": -189
+  },
+  "precision": "year",
+  "dating_method": "Driver after Livy",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "Livy not read directly; Appian's fetched section does not state the year."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+  "window": null,
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJWCN4PEHYEQ919J2J4",
+  "slug": "seleucus-iv-death-137-se",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XGJKSDPV1SX90XVZV14",
+   "src_01M4V26XGDYMER5DXT6N1DD3YC"
+  ],
+  "notes": null,
+  "title": "Death of Seleucus IV: 10 Ululu, Seleucid year 137 (175 BC)",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFV4SE5BXJ3X0QF67S",
+  "external_entity": "BM 35603 rev.",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XGJKSDPV1SX90XVZV14",
+  "proposed_synchronization": "Seleucus IV died on 10 Ululu 137 SE, the same month in which Antiochus IV ascended; Ululu 137 falls in Aug–Sep 175 BC.",
+  "independent_date": {
+   "earliest": -174,
+   "latest": -174
+  },
+  "precision": "month",
+  "dating_method": "Babylonian king list, Seleucid era (Babylonian reckoning)",
+  "direct": true,
+  "via": null,
+  "assumptions": [],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFV4SE5BXJ3X0QF67S",
+  "window": {
+   "from": {
+    "year": -174,
+    "month": 8,
+    "day": 1
+   },
+   "to": {
+    "year": -174,
+    "month": 9,
+    "day": 30
+   },
+   "basis": "Ululu of SE 137 (Babylonian epoch) = Aug–Sep 175 BC, as for the Antiochus IV reign record.",
+   "citations": [
+    "src_01M4V26XGJKSDPV1SX90XVZV14",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJZ7WY4JP1V0ZRNPFEZ",
+  "slug": "eleusis-ultimatum-168-bc",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XG9RPBA54WT2HK3WF4J",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "title": "Popillius Laenas at Eleusis, 168 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+  "external_entity": "Polybius 29.27",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XG9RPBA54WT2HK3WF4J",
+  "proposed_synchronization": "The meeting at Eleusis near Alexandria followed Rome's victory over Perseus (Pydna) in 168 BC (Driver).",
+  "independent_date": {
+   "earliest": -167,
+   "latest": -167
+  },
+  "precision": "year",
+  "dating_method": "Driver's dating of Polybius and Livy",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "Livy 45.12 not read directly."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+  "window": null,
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4V26XK3YN61525VMG08ZJBP",
+  "slug": "desecration-15-chislev-145-se",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TTS0H2RP38CMPKF6HT28VX",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG"
+  ],
+  "notes": null,
+  "title": "Desecration: 15 Chislev 145 SE (1 Macc 1:54) = Dec 168 or Dec 167 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFNDVRK064BRXG17HH",
+  "external_entity": "1 Maccabees 1:54; Josephus, Ant. 12.5.4 (145 SE, 153rd Olympiad)",
+  "external_document_id": null,
+  "external_source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+  "proposed_synchronization": "Chislev 145 SE is December 168 BC on the Macedonian (autumn 312) epoch used by Driver and Montgomery, or December 167 BC on a spring-311 epoch.",
+  "independent_date": {
+   "earliest": -167,
+   "latest": -166
+  },
+  "precision": "month",
+  "dating_method": "Seleucid-era date; epoch of 1 Maccabees' reckoning disputed",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+   "The window deliberately spans both Seleucid-era epochs, as for the rededication."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFNDVRK064BRXG17HH",
+  "window": {
+   "from": {
+    "year": -167,
+    "month": 11,
+    "day": 15
+   },
+   "to": {
+    "year": -165,
+    "month": 1,
+    "day": 15
+   },
+   "basis": "Covers Chislev under both Seleucid-era epochs (mid-Nov 168 – mid-Jan 166 BC). Montgomery: \"profanation Chislev 145 = 168\".",
+   "citations": [
+    "src_01M4TSKK87BBJJJP35SD5PZGDP",
+    "src_01M4TSKK81W6HP2HFZ7744DHRG"
+   ]
+  },
+  "reviewer_status": "machine_proposed"
+ },
+ {
+  "kind": "synchronism",
+  "id": "syn_01M4V26XK6GQF2K5WHZ95HHKJW",
+  "slug": "antiochus-iv-death-148-se",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4V26XGJKSDPV1SX90XVZV14",
+   "src_01M4V26XGBF1RG8YQBJ62G9798"
+  ],
+  "notes": null,
+  "title": "Death of Antiochus IV reported in Babylon, Kislimu 148 SE (164 BC)",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFB1SBE35VNSDGK555",
+  "external_entity": "BM 35603 rev.; Polybius 31.9",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XGJKSDPV1SX90XVZV14",
+  "proposed_synchronization": "The king list records that the death was heard in Kislimu of SE 148 (Nov–Dec 164 BC); Polybius places it at Tabae.",
+  "independent_date": {
+   "earliest": -163,
+   "latest": -163
+  },
+  "precision": "month",
+  "dating_method": "Babylonian king list, Seleucid era (Babylonian reckoning)",
+  "direct": true,
+  "via": null,
+  "assumptions": [],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFB1SBE35VNSDGK555",
+  "window": {
+   "from": {
+    "year": -163,
+    "month": 9,
+    "day": 1
+   },
+   "to": {
+    "year": -163,
+    "month": 12,
+    "day": 20
+   },
+   "basis": "As for the end of the Antiochus IV reign record: news reached Babylon in Kislimu 148 (≈ late Nov – Dec 164); the death itself preceded the report.",
+   "citations": [
+    "src_01M4V26XGJKSDPV1SX90XVZV14",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
    ]
   },
   "reviewer_status": "machine_proposed"

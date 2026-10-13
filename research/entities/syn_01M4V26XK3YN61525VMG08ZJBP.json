@@ -1,0 +1,53 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4V26XK3YN61525VMG08ZJBP",
+  "slug": "desecration-15-chislev-145-se",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK87BBJJJP35SD5PZGDP",
+    "src_01M4TTS0H2RP38CMPKF6HT28VX",
+    "src_01M4TSKK81W6HP2HFZ7744DHRG"
+  ],
+  "notes": null,
+  "title": "Desecration: 15 Chislev 145 SE (1 Macc 1:54) = Dec 168 or Dec 167 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFNDVRK064BRXG17HH",
+  "external_entity": "1 Maccabees 1:54; Josephus, Ant. 12.5.4 (145 SE, 153rd Olympiad)",
+  "external_document_id": null,
+  "external_source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+  "proposed_synchronization": "Chislev 145 SE is December 168 BC on the Macedonian (autumn 312) epoch used by Driver and Montgomery, or December 167 BC on a spring-311 epoch.",
+  "independent_date": {
+    "earliest": -167,
+    "latest": -166
+  },
+  "precision": "month",
+  "dating_method": "Seleucid-era date; epoch of 1 Maccabees' reckoning disputed",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "The window deliberately spans both Seleucid-era epochs, as for the rededication."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFNDVRK064BRXG17HH",
+  "window": {
+    "from": {
+      "year": -167,
+      "month": 11,
+      "day": 15
+    },
+    "to": {
+      "year": -165,
+      "month": 1,
+      "day": 15
+    },
+    "basis": "Covers Chislev under both Seleucid-era epochs (mid-Nov 168 – mid-Jan 166 BC). Montgomery: \"profanation Chislev 145 = 168\".",
+    "citations": [
+      "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "src_01M4TSKK81W6HP2HFZ7744DHRG"
+    ]
+  },
+  "reviewer_status": "machine_proposed"
+}

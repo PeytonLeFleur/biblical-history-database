@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V26XG9RPBA54WT2HK3WF4J",
+  "title": "Polybius, Histories 29.27 (Loeb VI, 1927) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Polybius",
+    "Paton, W. R. (trans.)"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/29*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Polybius 29.27",
+  "license": "Loeb; page states the text is in the public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched the LacusCurtius page for book 29",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "27.5 Popilius \"drew a circle round Antiochus\" with a vine-stick; 27.6 after brief hesitation Antiochus said he would do all the Romans demanded",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Book 29; the page does not name the translator (Loeb Polybius is Paton's) and says it has not been proofread.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

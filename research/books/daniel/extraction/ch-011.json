@@ -1,0 +1,539 @@
+{
+  "book": "Dan",
+  "chapter": 11,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Dan.11.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6DD0M34EE34CCXA1V"
+      ],
+      "notes": "Belongs to the ch. 10 speech; event candidate linked to the Dan 10 event."
+    },
+    {
+      "ref": "Dan.11.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6EJGFW0XWHCF18F3Q"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK68BCSYTBJHFPDVHAY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK68BCSYTBJHFPDVHAY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK60SMDE5S15JEBJPQ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.37",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.38",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.39",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.40",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.41",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.42",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.43",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.44",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Dan.11.45",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4V26XK6JK6WD8AWJ20V99J5"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4V26XK6DD0M34EE34CCXA1V",
+      "title": "The speaker confirmed \"him\" in the first year of Darius the Mede",
+      "passage": "Dan.11.1",
+      "description": "End of the ch. 10 speech; recorded on the Dan 10 event.",
+      "record_type": "event",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.11.1",
+          "phrase": "in the first year of Darius the Mede",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Dan.10.21"
+      ],
+      "research_priority": "low",
+      "ambiguities": [
+        "\"Him\": Michael or Darius."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4V1HGV4JE844DCHJHBJX234"
+    },
+    {
+      "id": "cnd_01M4V26XK6EJGFW0XWHCF18F3Q",
+      "title": "Three more kings in Persia; the fourth, richest, stirs up all against Greece",
+      "passage": "Dan.11.2",
+      "description": "Four Persian kings, the fourth rich and strong, who rouses all against the realm of Greece.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.4.5-Ezra.4.7"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Whether Cyrus is counted; which king is the fourth."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V26XK68BCSYTBJHFPDVHAY",
+      "title": "A mighty king; his kingdom broken toward the four winds",
+      "passage": "Dan.11.3-Dan.11.4",
+      "description": "A mighty king rules as he wills; his kingdom is broken and divided to the four winds, not to his posterity.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Dan.8.5-Dan.8.8",
+        "Dan.8.21-Dan.8.22"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V26XK6X5WA1ZS4SAJJ9WMR",
+      "title": "The kings of the south and of the north",
+      "passage": "Dan.11.5-Dan.11.20",
+      "description": "Wars and alliances of the king of the south and the king of the north: a royal daughter given in marriage; a shoot from her roots who carries gods into Egypt; the sons of the north; a great battle won by the south; the north returning to take a fortified city and stand in the glorious land; a daughter given to destroy; a turn to the coastlands stopped by a commander; a raiser of taxes destroyed in a few days.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Isa.19.19"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "The kings are never named.",
+        "11:14 \"the children of the violent among your people\" — identity disputed."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V26XK60SMDE5S15JEBJPQ6",
+      "title": "The contemptible person",
+      "passage": "Dan.11.21-Dan.11.35",
+      "description": "A contemptible person seizes the kingdom by flatteries; breaks the prince of the covenant; invades the south twice; ships of Kittim turn him back; his forces profane the sanctuary, remove the continual offering and set up the abomination that makes desolate; the wise instruct many and fall; a little help.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.11.35",
+          "phrase": "even to the time of the end, because it is yet for the time appointed",
+          "kind": "vague"
+        }
+      ],
+      "related_passages": [
+        "Dan.8.9-Dan.8.12",
+        "Dan.9.26-Dan.9.27",
+        "Dan.12.11",
+        "Matt.24.15",
+        "Mark.13.14"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"The prince of the covenant\" (11:22): Onias III, Ptolemy VI, or another.",
+        "\"A little help\" (11:34)."
+      ],
+      "job_id": null,
+      "event_id": null
+    },
+    {
+      "id": "cnd_01M4V26XK6JK6WD8AWJ20V99J5",
+      "title": "The king who does according to his will",
+      "passage": "Dan.11.36-Dan.11.45",
+      "description": "The king exalts himself above every god, honours a god of fortresses, and at the time of the end is attacked by the king of the south, overruns the glorious land and Egypt, is troubled by news from east and north, pitches his tents between the sea and the holy mountain, and comes to his end with no one to help.",
+      "record_type": "prophecy",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Dan.11.40",
+          "phrase": "At the time of the end",
+          "kind": "vague"
+        }
+      ],
+      "related_passages": [
+        "2Thess.2.3-2Thess.2.4",
+        "Dan.7.25",
+        "Dan.8.25",
+        "Rev.13.5-Rev.13.6"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Continuation of 11:21–35 (Antiochus) or a new figure (Antichrist).",
+        "The circumstances of 11:40–45 do not match the known end of Antiochus (Driver)."
+      ],
+      "job_id": null,
+      "event_id": null
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-daniel-11.md"
+}

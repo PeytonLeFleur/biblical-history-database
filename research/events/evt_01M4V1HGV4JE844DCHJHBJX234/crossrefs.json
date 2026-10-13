@@ -300,6 +300,684 @@
       "proposed_by": null,
       "target_research_state": "unresearched",
       "review_required": false
+    },
+    {
+      "id": "rel_01M4V26XMWWN0E8DN05FJATD48",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6WA1HHE7SNBA2JNX6"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4V26XGRRNK70YK6ZWR2NB6W"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The rich fourth king who stirs up all against Greece (11:2) is Xerxes I.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Newton; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWH293WHJZ56Y6EP66",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6Y8B5RE2HF7C31SED"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TSKK8VW5AG2BZM9KZK8W3Y"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The mighty king whose kingdom is divided to the four winds (11:3–4) is Alexander the Great.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Newton; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMW0P8MKCEE61QGP4Z2",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "\"The king of the south\" (11:5–20) is the Ptolemaic dynasty of Egypt.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Porphyry and Jerome; Newton; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWMKGYM7V4E8VYYYHQ",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "\"The king of the north\" (11:6–20) is the Seleucid dynasty.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Porphyry and Jerome; Newton; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMW7HT0AA3BT0HFHAQG",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4V26XH3AN2GKYMSYZB7D55H"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"The daughter of the king of the south\" (11:6) is Berenice, married to Antiochus II.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Newton; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWQY6QPXMD2YM630S2",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4V26XH9X34PDQAZR8NJQEPE"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"A shoot from her roots\" (11:7) is her brother Ptolemy III.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Newton; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWWC4ZBB0CTRRJMEXR",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFJZT074W5N8SDPVHQ"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The southern victory of 11:11–12 is Raphia (217 BC).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWGJ04XAVQVJHS3VX2",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFEATDTW928Q7YE19Q"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The northern capture of a fortified city and the glorious land (11:15–16) is Antiochus III's victory at Panium and the siege of Sidon.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Driver",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWYACZVS94Q9BG0JK8",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4V26XHT7TGDSQD1JNN60859"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "\"The daughter of women\" (11:17) is Cleopatra I, given to Ptolemy V.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMW6S2GJJSVWM61C24G",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFHB48QYGE0JPZTJB1"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The commander who ends his reproach (11:18) is Lucius Scipio at Magnesia.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMW2HAYXPY2S4YFSG4X",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6M6A462M0HQZZD95J"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4V26XHX40WQWS3VNS46N0T3"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The raiser of taxes destroyed \"not in battle\" (11:20) is Seleucus IV, killed by Heliodorus's conspiracy.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XGDYMER5DXT6N1DD3YC"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Driver; Newton",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMW0M4T3SKV5XNJH1SE",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TSKK8XVDZBQ6226SB3WHWE"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "The contemptible person (11:21–35) is Antiochus IV.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TSKK81W6HP2HFZ7744DHRG",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Porphyry; Driver; Montgomery; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWPQ1Q9SJA3JRDFDA2",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4V10B5J7ZTZ26HVWHXM17W3"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "\"The prince of the covenant\" broken (11:22) is the high priest Onias III, deposed in 175.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWQ2TB2CEFV952MJG4",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V26XJF9VTPSEAEPYP13T7H"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The \"ships of Kittim\" (11:30) are the Roman envoys under Popillius Laenas at Eleusis (168 BC).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4V26XG9RPBA54WT2HK3WF4J"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Jerome; Driver",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMW4CF6EKSH03H4NQGD",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFNDVRK064BRXG17HH"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "\"The abomination that makes desolate\" (11:31) is the pagan altar of 15 Chislev 145 SE.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TTS0H2RP38CMPKF6HT28VX"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Porphyry; Driver; Montgomery; Josephus",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWT44D2TYK0D6CKPNP",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4V26XJCK6KCZVR5Z9N6FRRJ"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "\"A little help\" (11:34) is Mattathias and his sons.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Porphyry (per Jerome)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMW24796VWSEA8YDPZM",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "The \"arms\" that profane the sanctuary (11:31) are the Romans.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK83SFG091RT082Z4EXG",
+          "src_01M4V26XG2J788VAQZ1TYKC6N0"
+        ]
+      },
+      "interpretive_approach": "historicist",
+      "proposed_by": "Newton; Jewish teachers (per Jerome)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWP6D7QDW2VS2WRFZ7",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6CDCWT58W40VAWF13"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFB1SBE35VNSDGK555"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "The king's end with no one to help (11:45) is the death of Antiochus IV (164 BC).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TSKK81W6HP2HFZ7744DHRG",
+          "src_01M4V26XGBF1RG8YQBJ62G9798"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver; Montgomery; Porphyry",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V26XMWVA0GT3N38XKASGGJ",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TTS0HJHRJFX1S7T5Q8M43B"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The contemptible person and the little horn of ch. 8 both remove the continual offering and desolate the sanctuary (Driver: the same king).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V26XMW6ESFGP56PC5H6JDE",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6CDCWT58W40VAWF13"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Speaking great things against the Most High (7:25; 11:36).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V26XMWYWA1SFMZVVVE3B5R",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6YAQ3DDPYD1JMW0RS"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5RTYN24Y82472GYNTF"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The abomination that makes desolate (9:27; 11:31).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V26XMWRB4C3JHZNP72A0XR",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6WA1HHE7SNBA2JNX6"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V1HGV4XZBXYP7V6HXNF7FS"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The revelation opens with the Persia–Greece conflict announced in 10:20.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V26XMW6FTM10WA38ZH19FA",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6CDCWT58W40VAWF13"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Thess.2.3-2Thess.2.4"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The man of lawlessness who exalts himself above every god (Jerome; Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V26XG2J788VAQZ1TYKC6N0",
+          "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V26XMWQZ17EZB7734Z1XBX",
+      "type": "direct_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6WA1HHE7SNBA2JNX6"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The text names Persia (11:2).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V26XMWP1NQ0GTXXR4EPN1X",
+      "type": "direct_reference",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4V26XK6WA1HHE7SNBA2JNX6"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8MQZMPN5VWKA44XX5S"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The text names \"the realm of Greece\" (Yavan, 11:2).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
     }
   ],
   "entity_resolutions": [

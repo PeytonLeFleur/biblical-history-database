@@ -1,0 +1,83 @@
+{
+  "event_id": "evt_01M4V26XJFEATDTW928Q7YE19Q",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The king of the north casts up a mound and takes a fortified city; the south cannot stand; he stands in the glorious land.",
+    "passage": "Dan.11.15-Dan.11.16"
+  },
+  "setting": {
+    "period": "Fifth Syrian War (202–195 BC)",
+    "body": "With Ptolemy V a child, Antiochus III invaded Coele-Syria; the Ptolemaic general Scopas was defeated near Paneion and later surrendered at Sidon; Judaea passed to Seleucid rule and Jerusalem received Antiochus (Polybius 16.39, quoted by Josephus).",
+    "citations": [
+      "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "src_01M4V26XG2J788VAQZ1TYKC6N0"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XHH65QF71XTTV8HGQAH",
+      "reign_id": null,
+      "role": "Seleucid king",
+      "citations": [
+        "src_01M4V26XG6D4FYSH3WMXPMFJX6"
+      ]
+    },
+    {
+      "person_id": "per_01M4V26XHQAP44GSKVAQ30YSAN",
+      "reign_id": null,
+      "role": "Ptolemaic king (a child)",
+      "citations": [
+        "src_01M4V26XG2J788VAQZ1TYKC6N0"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A",
+    "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+  ],
+  "constraints": [],
+  "synchronisms": [
+    {
+      "id": "syn_01M4V26XJPGHX1WEEX59YZM9JX",
+      "type": "documentary_correlation",
+      "direct": true,
+      "via": null,
+      "citations": [
+        "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4V26XG2J788VAQZ1TYKC6N0"
+      ]
+    }
+  ],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "200 BC",
+      "proponents": [
+        "Common modern date (not verified directly)"
+      ],
+      "summary": "Battle in 200, surrender of Sidon later.",
+      "citations": []
+    },
+    {
+      "label": "198 BC",
+      "proponents": [
+        "S. R. Driver (1900)"
+      ],
+      "summary": "\"Defeated at Paneion in 198\".",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "commentary": [],
+  "open_questions": [],
+  "not_applicable": {
+    "commentary": "Interpretive commentary is recorded on the Daniel 11 prophecy records."
+  }
+}

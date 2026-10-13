@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XHT7TGDSQD1JNN60859",
+  "slug": "cleopatra-i",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Cleopatra I",
+  "aliases": [],
+  "description": "Daughter of Antiochus III, married to Ptolemy V (betrothed in Antiochus's 7th year and married in his 13th, per Jerome); mother of Ptolemy VI.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+}

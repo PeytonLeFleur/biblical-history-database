@@ -1,0 +1,57 @@
+{
+  "id": "evt_01M4V26XJFJZT074W5N8SDPVHQ",
+  "slug": "battle-of-raphia-217-bc",
+  "title": "Battle of Raphia: Ptolemy IV defeats Antiochus III (217 BC)",
+  "summary": "Antiochus III invaded Ptolemaic Coele-Syria and was defeated by Ptolemy IV near Raphia on the Egyptian border; Ptolemy recovered Coele-Syria and granted a truce.",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": "Proposed by most interpreters as the event of Dan 11:11–12.",
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "reference_to_other_event",
+  "categories": [
+    "military"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.11.11-Dan.11.12",
+      "mention_type": "reference",
+      "notes": "Proposed correlation only (Jerome; Driver; Guzik); Daniel names no king or place."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_applicable",
+      "updated": "2026-10-13",
+      "reason": "External historical event, researched because interpreters read Daniel 11 as foretelling it; no biblical narrative of it in the 66-book index."
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

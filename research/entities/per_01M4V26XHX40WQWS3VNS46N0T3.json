@@ -1,0 +1,17 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XHX40WQWS3VNS46N0T3",
+  "slug": "seleucus-iv-philopator",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XGJKSDPV1SX90XVZV14",
+    "src_01M4V26XGDYMER5DXT6N1DD3YC",
+    "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Seleucus IV Philopator",
+  "aliases": [],
+  "description": "Seleucid king, son of Antiochus III; reigned 12 years (BM 35603) and was assassinated in a conspiracy of Heliodorus (Appian, Syr. 45) in 175 BC.",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+}

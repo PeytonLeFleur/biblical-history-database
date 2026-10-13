@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V26XN88Q66F89BF03PPF8D",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V26XMW6S2GJJSVWM61C24G",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 11): The commander who ends his reproach",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T16:40:56.232Z",
+  "decisions": [],
+  "is_fixture": false
+}

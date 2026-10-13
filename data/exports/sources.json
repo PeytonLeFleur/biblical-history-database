@@ -4228,5 +4228,345 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+  "title": "Daniel 11 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-11/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on Daniel 11",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "11:2 three Persian kings then Xerxes (count omits Cyrus or Smerdis); 11:3–4 Alexander, four generals; 11:5 Ptolemy I and Seleucus; 11:6 Antiochus II and Berenice; 11:7–9 Ptolemy III; 11:10 \"Seleucus III and Antiochus III\"; 11:11–12 Raphia; 11:13–16 Antiochus III takes the Holy Land; 11:17 Cleopatra; 11:18–19 Lucius Scipio, death after robbing a temple; 11:20 names \"Seleucus III, the eldest son of Antiochus III\"; 11:21–35 Antiochus IV; 11:36 transition to the future Antichrist (\"trailer\" and \"feature\"); 11:40 king of the North possibly Russia (speculative); no BC dates except Smerdis 522–521",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XG2J788VAQZ1TYKC6N0",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Jerome",
+   "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem 11",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read the chapter 11 commentary in the downloaded page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "11:2 Cambyses, Smerdis, Darius, Xerxes; 11:3–20 historical order agreed with Porphyry (Ptolemy I … Seleucus Philopator); from 11:21 Porphyry applies all to Antiochus Epiphanes, \"our school\" to the Antichrist with Antiochus as type; Jewish readings: 11:31 Romans/Vespasian and Titus, 11:34 Julian, 11:36 the Antichrist; Porphyry's fourth Egyptian expedition, Apedno, death at Tabae; Popilius Laenas's circle",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XG4J1EZGM5AZCY5A43P",
+  "title": "Polybius, Histories 5.82–87 (Loeb III, 1923) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Polybius",
+   "Paton, W. R. (trans.)"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/5*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Polybius 5.82–87",
+  "license": "Loeb; page states the text is in the public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched the LacusCurtius page for book 5",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "85.12–13 Antiochus withdraws to Raphia; 86.5 nearly 10,000 foot and 300 horse lost; 86.8 Ptolemy takes Raphia and other towns; 87.3–4 Ptolemy recovers Coele-Syria and grants a year's truce",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Book 5; the page does not name the translator (Loeb Polybius is Paton's) and says it has not been proofread.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+  "title": "Polybius, Histories 16.18–19, 16.39 (Loeb V, 1926) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Polybius",
+   "Paton, W. R. (trans.)"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/16*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Polybius 16.18–19, 16.39",
+  "license": "Loeb; page states the text is in the public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched the LacusCurtius page for book 16",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "19.10 Scopas \"despaired of victory and retreated\"; 39.3–4 (quoted by Josephus) after Scopas was conquered by Antiochus, Samaria, Abila and Gadara were occupied and the Jews of Jerusalem submitted",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Book 16; the page does not name the translator (Loeb Polybius is Paton's) and says it has not been proofread.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XG9RPBA54WT2HK3WF4J",
+  "title": "Polybius, Histories 29.27 (Loeb VI, 1927) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Polybius",
+   "Paton, W. R. (trans.)"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/29*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Polybius 29.27",
+  "license": "Loeb; page states the text is in the public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched the LacusCurtius page for book 29",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "27.5 Popilius \"drew a circle round Antiochus\" with a vine-stick; 27.6 after brief hesitation Antiochus said he would do all the Romans demanded",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Book 29; the page does not name the translator (Loeb Polybius is Paton's) and says it has not been proofread.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XGBF1RG8YQBJ62G9798",
+  "title": "Polybius, Histories 31.9 (Loeb VI, 1927) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Polybius",
+   "Paton, W. R. (trans.)"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/31*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Polybius 31.9",
+  "license": "Loeb; page states the text is in the public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched the LacusCurtius page for book 31",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "31.9.1–4 Antiochus, attempting to plunder the sanctuary of Artemis in Elymaïs, was thwarted and \"died at Tabae in Persia, smitten with madness, as some people say\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Book 31; the page does not name the translator (Loeb Polybius is Paton's) and says it has not been proofread.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XGDYMER5DXT6N1DD3YC",
+  "title": "Appian, Syrian Wars 41–45 — Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Appian",
+   "White, Horace (trans., 1899)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-9/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Appian, Syriaca 45",
+  "license": "Translation H. White (1899), public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched the Livius page (part 9, §§41–45)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "§45: \"Seleucus was assassinated as the result of a conspiracy of a certain Heliodorus\"; Eumenes and Attalus expelled Heliodorus and installed Antiochus",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Translator attribution taken from the Livius series; not stated on the fetched section.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XGFKAR388VN0GJQ9KVG",
+  "title": "Appian, Syrian Wars 31–35 — Livius.org",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Appian",
+   "White, Horace (trans., 1899)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-7/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Appian, Syriaca 31–35",
+  "license": "Translation H. White (1899), public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched the Livius page (part 7, §§31–35)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "The battle against the Romans (Magnesia): §34 Antiochus breaks through on his wing; §35 \"the phalanx broke into disorderly flight\"; the section does not name the Scipios or state the final result",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4V26XGJKSDPV1SX90XVZV14",
+  "title": "Babylonian King List of the Hellenistic Period (BM 35603) — Livius.org, Seleucus IV entries",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "van der Spek, R. J. (trans.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/babylonian-king-list-of-the-hellenistic-period/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "BM 35603 rev. 6–14",
+  "license": "Translation; paraphrased, short quotation only",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Re-fetched the king list page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Year 125, Simanu 25: Antiochus III \"killed in Elam\"; Seleucus IV ascends, reigns 12 years; year 137, Ululu 10: Seleucus IV died; same month Antiochus IV ascends (11 years); year 148 Kislimu: death of Antiochus IV heard",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Same page as the earlier record; re-read for the Antiochus III and Seleucus IV entries. The editor marks the translation as needing revision.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

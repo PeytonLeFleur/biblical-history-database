@@ -1,0 +1,36 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJSMXTSNK5JN3TAZKR4",
+  "slug": "magnesia-190-bc",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+    "src_01M4V26XGFKAR388VN0GJQ9KVG"
+  ],
+  "notes": null,
+  "title": "Battle of Magnesia, autumn 190 BC",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+  "external_entity": "Livy 37.39–44 (via Driver); Appian, Syr. 31–35",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XGFKAR388VN0GJQ9KVG",
+  "proposed_synchronization": "Driver dates the battle to the autumn of 190 BC.",
+  "independent_date": {
+    "earliest": -189,
+    "latest": -189
+  },
+  "precision": "year",
+  "dating_method": "Driver after Livy",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "Livy not read directly; Appian's fetched section does not state the year."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFHB48QYGE0JPZTJB1",
+  "window": null,
+  "reviewer_status": "machine_proposed"
+}

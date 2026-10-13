@@ -1,0 +1,58 @@
+{
+  "id": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
+  "slug": "day-of-eleusis-popillius-laenas-168-bc",
+  "title": "Popillius Laenas orders Antiochus IV out of Egypt at Eleusis (168 BC)",
+  "summary": "On his second invasion of Egypt, Antiochus IV was met near Alexandria by the Roman envoy Popillius Laenas, who drew a circle round him and demanded his answer to the Senate's decree; Antiochus withdrew.",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": "Proposed as the \"ships of Kittim\" episode of Dan 11:29–30.",
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "reference_to_other_event",
+  "categories": [
+    "political",
+    "military"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.11.29-Dan.11.30",
+      "mention_type": "reference",
+      "notes": "Proposed correlation only."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_applicable",
+      "updated": "2026-10-13",
+      "reason": "External historical event, researched because interpreters read Daniel 11 as foretelling it; no biblical narrative of it in the 66-book index."
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

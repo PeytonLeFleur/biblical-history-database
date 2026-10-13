@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XH06GY9QPAB73TBA76A",
+  "slug": "antiochus-ii-theos",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Antiochus II Theos",
+  "aliases": [],
+  "description": "Seleucid king (261–246 BC) who married Berenice, daughter of Ptolemy II.",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+}

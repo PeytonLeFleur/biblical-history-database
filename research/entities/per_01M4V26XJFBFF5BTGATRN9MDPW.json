@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XJFBFF5BTGATRN9MDPW",
+  "slug": "judas-maccabeus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK87BBJJJP35SD5PZGDP",
+    "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Judas Maccabaeus",
+  "aliases": [],
+  "description": "Son of Mattathias; led the revolt and rededicated the Temple (1 Macc 3–4).",
+  "kingdom_id": null
+}

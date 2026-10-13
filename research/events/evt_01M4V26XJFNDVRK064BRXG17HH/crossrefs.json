@@ -1,0 +1,63 @@
+{
+  "event_id": "evt_01M4V26XJFNDVRK064BRXG17HH",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4V26XMKV0HGKK52PK6P13CT",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFNDVRK064BRXG17HH"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      },
+      "confidence": "high",
+      "layer": "evidence",
+      "rationale": "Three years and ten days later the altar was rededicated (1 Macc 4:52–54).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK87BBJJJP35SD5PZGDP"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V26XMK3KK5TV2PAXCM5RAV",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V26XJFNDVRK064BRXG17HH"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.24.15"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jesus cites Daniel's \"abomination of desolation\" for a coming desolation.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V26XMGZNWXHEZ0HBPMQRTJ",
+    "cst_01M4V26XMGDR7QZ8A1BMDZTCEC"
+  ]
+}

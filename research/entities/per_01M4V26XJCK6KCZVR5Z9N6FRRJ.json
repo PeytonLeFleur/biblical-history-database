@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XJCK6KCZVR5Z9N6FRRJ",
+  "slug": "mattathias-of-modein",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Mattathias",
+  "aliases": [],
+  "description": "Priest of Modein who began the revolt against Antiochus IV (1 Macc 2); Porphyry (per Jerome) took him as the \"little help\" of Dan 11:34.",
+  "kingdom_id": null
+}

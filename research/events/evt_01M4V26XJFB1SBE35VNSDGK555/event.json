@@ -1,0 +1,58 @@
+{
+  "id": "evt_01M4V26XJFB1SBE35VNSDGK555",
+  "slug": "death-of-antiochus-iv-at-tabae-164-bc",
+  "title": "Death of Antiochus IV at Tabae in Persia (164 BC)",
+  "summary": "After failing to plunder a temple in Elymaïs, Antiochus IV fell ill and died at Tabae in Persia; news of his death reached Babylon in Kislimu of Seleucid year 148.",
+  "is_fixture": false,
+  "candidate_ids": [],
+  "external_reason": "Proposed by preterist interpreters as the end foretold in Dan 11:45; the circumstances in 11:40–45 are disputed.",
+  "is_period": false,
+  "literary_classification": "historical_reference",
+  "narrative_mode": "reference_to_other_event",
+  "categories": [
+    "death",
+    "royal"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.11.45",
+      "mention_type": "reference",
+      "notes": "Proposed correlation only; the setting \"between the sea and the glorious holy mountain\" does not match Tabae."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "not_applicable",
+      "updated": "2026-10-13",
+      "reason": "External historical event, researched because interpreters read Daniel 11 as foretelling it; no biblical narrative of it in the 66-book index."
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

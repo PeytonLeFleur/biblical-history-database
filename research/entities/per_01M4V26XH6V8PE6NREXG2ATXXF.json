@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XH6V8PE6NREXG2ATXXF",
+  "slug": "ptolemy-ii-philadelphus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0"
+  ],
+  "notes": null,
+  "canonical_name": "Ptolemy II Philadelphus",
+  "aliases": [],
+  "description": "Second Ptolemaic king (283–246 BC); father of Berenice.",
+  "kingdom_id": "kgd_01M4V26XGNRWKHR7D5X6RN1ASB"
+}

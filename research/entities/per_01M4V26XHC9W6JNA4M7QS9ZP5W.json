@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4V26XHC9W6JNA4M7QS9ZP5W",
+  "slug": "seleucus-ii-callinicus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XG2J788VAQZ1TYKC6N0",
+    "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
+  "notes": null,
+  "canonical_name": "Seleucus II Callinicus",
+  "aliases": [],
+  "description": "Seleucid king (246–225 BC), son of Antiochus II and Laodice.",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+}

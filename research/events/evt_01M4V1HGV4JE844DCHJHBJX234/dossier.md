@@ -8,6 +8,7 @@
 - Daniel 10:1 (superscription): Third year of Cyrus king of Persia.
 - Daniel 10:2–21 (narration)
 - Daniel 11:1 (narration): End of the speech.
+- Daniel 11:2–45 (narration): The revelation spoken in the vision; its content is recorded as prophecy records.
 
 ## Biblical account
 
@@ -689,6 +690,31 @@ Driver identifies the first month as Nisan, so the festivals of 14–21 Nisan fe
 - this event → **preceded by** → Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (medium): Cyrus's first-year decree preceded his third year; Daniel is still in Babylonia (Guzik). [5]
 - this event → **thematic parallel** → Daniel continues until the first year of King Cyrus (Dan 1:21) (medium): Dan 1:21 ("until the first year of King Cyrus") and 10:1 ("third year of Cyrus") — Jerome harmonises them. [6]
 - this event → **thematic parallel** → Acts 9:7 (medium): Companions perceive something but do not see the vision (Jerome cites Acts 22). [6]
+- pro_01M4V26XK6WA1HHE7SNBA2JNX6 → **proposed fulfillment** → Xerxes I (high): The rich fourth king who stirs up all against Greece (11:2) is Xerxes I. [8, 9, 2, 10]
+- pro_01M4V26XK6Y8B5RE2HF7C31SED → **proposed fulfillment** → Alexander the Great (high): The mighty king whose kingdom is divided to the four winds (11:3–4) is Alexander the Great. [8, 9, 2, 10]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Ptolemaic kingdom (Egypt) (high): "The king of the south" (11:5–20) is the Ptolemaic dynasty of Egypt. [8, 9, 2, 10]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Seleucid empire (high): "The king of the north" (11:6–20) is the Seleucid dynasty. [8, 9, 2, 10]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Berenice (Syra) (medium): "The daughter of the king of the south" (11:6) is Berenice, married to Antiochus II. [8, 9, 10]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Ptolemy III Euergetes (medium): "A shoot from her roots" (11:7) is her brother Ptolemy III. [8, 9, 10]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Battle of Raphia: Ptolemy IV defeats Antiochus III (217 BC) (medium): The southern victory of 11:11–12 is Raphia (217 BC). [8, 2, 10]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Battle of Panium: Antiochus III defeats Scopas (c. 200–198 BC) (medium): The northern capture of a fortified city and the glorious land (11:15–16) is Antiochus III's victory at Panium and the siege of Sidon. [8, 2]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Cleopatra I (medium): "The daughter of women" (11:17) is Cleopatra I, given to Ptolemy V. [8, 2, 10]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Battle of Magnesia: Rome defeats Antiochus III (190 BC) (medium): The commander who ends his reproach (11:18) is Lucius Scipio at Magnesia. [8, 2, 10]
+- pro_01M4V26XK6M6A462M0HQZZD95J → **proposed fulfillment** → Seleucus IV Philopator (medium): The raiser of taxes destroyed "not in battle" (11:20) is Seleucus IV, killed by Heliodorus's conspiracy. [8, 2, 11]
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **proposed fulfillment** → Antiochus IV Epiphanes (high): The contemptible person (11:21–35) is Antiochus IV. [8, 2, 4, 10]
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **proposed fulfillment** → Onias III (low): "The prince of the covenant" broken (11:22) is the high priest Onias III, deposed in 175. [2]
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **proposed fulfillment** → Popillius Laenas orders Antiochus IV out of Egypt at Eleusis (168 BC) (medium): The "ships of Kittim" (11:30) are the Roman envoys under Popillius Laenas at Eleusis (168 BC). [8, 2, 12]
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **proposed fulfillment** → Desecration of the Temple: the "abomination of desolation" (15 Chislev 145 SE, 168/167 BC) (high): "The abomination that makes desolate" (11:31) is the pagan altar of 15 Chislev 145 SE. [8, 2, 13]
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **proposed fulfillment** → Mattathias (low): "A little help" (11:34) is Mattathias and his sons. [8]
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **proposed fulfillment** → Rome (Republic and Empire) (low): The "arms" that profane the sanctuary (11:31) are the Romans. [9, 8]
+- pro_01M4V26XK6CDCWT58W40VAWF13 → **proposed fulfillment** → Death of Antiochus IV at Tabae in Persia (164 BC) (low): The king's end with no one to help (11:45) is the death of Antiochus IV (164 BC). [2, 4, 14]
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **thematic parallel** → pro_01M4TTS0HJHRJFX1S7T5Q8M43B (medium): The contemptible person and the little horn of ch. 8 both remove the continual offering and desolate the sanctuary (Driver: the same king). [2]
+- pro_01M4V26XK6CDCWT58W40VAWF13 → **thematic parallel** → pro_01M4TSKK93WKW4EN8EJXKHK5P6 (medium): Speaking great things against the Most High (7:25; 11:36). [2]
+- pro_01M4V26XK6YAQ3DDPYD1JMW0RS → **thematic parallel** → pro_01M4V10B5RTYN24Y82472GYNTF (medium): The abomination that makes desolate (9:27; 11:31).
+- pro_01M4V26XK6WA1HHE7SNBA2JNX6 → **thematic parallel** → pro_01M4V1HGV4XZBXYP7V6HXNF7FS (medium): The revelation opens with the Persia–Greece conflict announced in 10:20.
+- pro_01M4V26XK6CDCWT58W40VAWF13 → **thematic parallel** → 2 Thessalonians 2:3–4 (medium): The man of lawlessness who exalts himself above every god (Jerome; Guzik). [8, 10]
+- pro_01M4V26XK6WA1HHE7SNBA2JNX6 → **direct reference** → Achaemenid Persian Empire (high): The text names Persia (11:2).
+- pro_01M4V26XK6WA1HHE7SNBA2JNX6 → **direct reference** → Macedonian empire of Alexander the Great (medium): The text names "the realm of Greece" (Yavan, 11:2).
 
 ## Commentary (interpretation, not historical evidence)
 
@@ -715,3 +741,10 @@ Driver identifies the first month as Nisan, so the festivals of 14–21 Nisan fe
 5. Guzik, David. Daniel 10 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-10/> — *theological commentary; verification: claim checked*
 6. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 10. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
 7. Darius I, Livius.org (Jona Lendering). Behistun inscription, Old Persian text, §1 — Livius.org (after King & Thompson 1907). Livius.org. <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-01/> — *ancient primary text; verification: claim checked*
+8. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
+9. Newton, Isaac. Observations upon the Prophecies of Daniel, and the Apocalypse of St. John. Project Gutenberg #16878 (first published 1733). <https://www.gutenberg.org/ebooks/16878> — *theological commentary; verification: claim checked*
+10. Guzik, David. Daniel 11 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-11/> — *theological commentary; verification: claim checked*
+11. Appian, White, Horace (trans., 1899). Appian, Syrian Wars 41–45 — Livius.org. Livius.org. <https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-9/> — *ancient primary text; verification: claim checked*
+12. Polybius, Paton, W. R. (trans.). Polybius, Histories 29.27 (Loeb VI, 1927) — LacusCurtius. LacusCurtius (Bill Thayer). <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/29*.html> — *ancient primary text; verification: claim checked*
+13. Josephus, Whiston, William (trans.). Josephus, Antiquities 12.7.6–7 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+14. Polybius, Paton, W. R. (trans.). Polybius, Histories 31.9 (Loeb VI, 1927) — LacusCurtius. LacusCurtius (Bill Thayer). <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/31*.html> — *ancient primary text; verification: claim checked*

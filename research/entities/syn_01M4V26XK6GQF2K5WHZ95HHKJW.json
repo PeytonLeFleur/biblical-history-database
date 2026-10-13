@@ -1,0 +1,50 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4V26XK6GQF2K5WHZ95HHKJW",
+  "slug": "antiochus-iv-death-148-se",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XGJKSDPV1SX90XVZV14",
+    "src_01M4V26XGBF1RG8YQBJ62G9798"
+  ],
+  "notes": null,
+  "title": "Death of Antiochus IV reported in Babylon, Kislimu 148 SE (164 BC)",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFB1SBE35VNSDGK555",
+  "external_entity": "BM 35603 rev.; Polybius 31.9",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XGJKSDPV1SX90XVZV14",
+  "proposed_synchronization": "The king list records that the death was heard in Kislimu of SE 148 (Nov–Dec 164 BC); Polybius places it at Tabae.",
+  "independent_date": {
+    "earliest": -163,
+    "latest": -163
+  },
+  "precision": "month",
+  "dating_method": "Babylonian king list, Seleucid era (Babylonian reckoning)",
+  "direct": true,
+  "via": null,
+  "assumptions": [],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFB1SBE35VNSDGK555",
+  "window": {
+    "from": {
+      "year": -163,
+      "month": 9,
+      "day": 1
+    },
+    "to": {
+      "year": -163,
+      "month": 12,
+      "day": 20
+    },
+    "basis": "As for the end of the Antiochus IV reign record: news reached Babylon in Kislimu 148 (≈ late Nov – Dec 164); the death itself preceded the report.",
+    "citations": [
+      "src_01M4V26XGJKSDPV1SX90XVZV14",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "reviewer_status": "machine_proposed"
+}

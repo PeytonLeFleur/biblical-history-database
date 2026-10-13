@@ -1,0 +1,50 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4V26XJWCN4PEHYEQ919J2J4",
+  "slug": "seleucus-iv-death-137-se",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V26XGJKSDPV1SX90XVZV14",
+    "src_01M4V26XGDYMER5DXT6N1DD3YC"
+  ],
+  "notes": null,
+  "title": "Death of Seleucus IV: 10 Ululu, Seleucid year 137 (175 BC)",
+  "type": "documentary_correlation",
+  "passage": null,
+  "biblical_subject": "evt_01M4V26XJFV4SE5BXJ3X0QF67S",
+  "external_entity": "BM 35603 rev.",
+  "external_document_id": null,
+  "external_source_id": "src_01M4V26XGJKSDPV1SX90XVZV14",
+  "proposed_synchronization": "Seleucus IV died on 10 Ululu 137 SE, the same month in which Antiochus IV ascended; Ululu 137 falls in Aug–Sep 175 BC.",
+  "independent_date": {
+    "earliest": -174,
+    "latest": -174
+  },
+  "precision": "month",
+  "dating_method": "Babylonian king list, Seleucid era (Babylonian reckoning)",
+  "direct": true,
+  "via": null,
+  "assumptions": [],
+  "evidence_strength": "strong",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4V26XJFV4SE5BXJ3X0QF67S",
+  "window": {
+    "from": {
+      "year": -174,
+      "month": 8,
+      "day": 1
+    },
+    "to": {
+      "year": -174,
+      "month": 9,
+      "day": 30
+    },
+    "basis": "Ululu of SE 137 (Babylonian epoch) = Aug–Sep 175 BC, as for the Antiochus IV reign record.",
+    "citations": [
+      "src_01M4V26XGJKSDPV1SX90XVZV14",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "reviewer_status": "machine_proposed"
+}
