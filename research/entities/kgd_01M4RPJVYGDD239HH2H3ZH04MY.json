@@ -4,7 +4,10 @@
   "slug": "israel-northern-kingdom",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RPJVYDW55BD6H47AFG78AA",
+    "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
   "notes": null,
   "name": "Kingdom of Israel (Northern Kingdom)",
   "description": "Northern Israelite kingdom with its capital at Samaria."

@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V612JE3XXP728NQSK8Z1BQ",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TPW4CASQBWH5VSMTR50H1P",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Guzik and other conservative interpreters identify Darius with Gubaru, who appointed officials (cf",
+  "triggers": [
+    "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.958Z",
+  "decisions": [],
+  "is_fixture": false
+}

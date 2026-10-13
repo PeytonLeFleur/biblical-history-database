@@ -72,16 +72,18 @@
       "layer": "reconstruction",
       "passage": "Dan.10.1",
       "classification": "disputed",
-      "reasoning": "Driver argues the title was given to Persian kings only after the empire, to distinguish them from Greek rulers. The Behistun inscription (§1, Livius translation) has Darius call himself \"the king of Persia\" among his titles (other renderings: \"king in Persia\"). The Hebrew usage in Ezra and Daniel versus royal Persian titulary is not settled by these two sources.",
+      "reasoning": "Driver argues the title was given to Persian kings only after the empire, to distinguish them from Greek rulers. The Behistun inscription (§1, Livius translation) has Darius call himself \"the king of Persia\" among his titles (other renderings: \"king in Persia\"). The Hebrew usage in Ezra and Daniel versus royal Persian titulary is not settled by these two sources. Re-checked: the Old Persian of DB §1 reads xšâyathiya Pârsaiy (Livius transliteration). Pârsaiy is the locative (\"king in Persia\", operator note on standard Old Persian grammar), which Livius renders \"of Persia\"; so Darius used a Persia-title, but in the locative form, which narrows rather than removes the challenge to Driver's argument. Driver's point concerns the Hebrew/Aramaic usage \"king of Persia\" as a distinguishing title; Ezra–Nehemiah use it too.",
       "supporting_evidence": [
         "evd_01M4V1HGVE748Y7K8JSENYD3K2"
       ],
       "counterevidence": [
         "evd_01M4V1HGVEZK0MKQSW0HTNGTAT"
       ],
-      "contextual_evidence": [],
+      "contextual_evidence": [
+        "evd_01M4V613856B18H3DSRBK7F0JD"
+      ],
       "limitations": [
-        "Old Persian wording not checked directly."
+        "Driver's claim is about Hebrew usage, Behistun about Persian titulary; neither source addresses the other directly."
       ],
       "reviewer_status": "requires_review",
       "review_required": true,
@@ -170,13 +172,28 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4V613856B18H3DSRBK7F0JD",
+      "claim_ids": [
+        "clm_01M4V1HGVE28K92SRAG2185K7X"
+      ],
+      "source_id": "src_01M4V1HGTRP05FZ1TNYSTPS0WA",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "xšâyathiya Pârsaiy — \"king in/of Persia\" (Livius renders \"of\").",
+      "locator": "DB col. i line 2 (transliteration)",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "behistun"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
   "research_gaps": [
-    "Old Persian wording of DB §1 not checked.",
     "Deut 32:8 at Qumran not read directly.",
     "Old Greek of Daniel 10 not read."
   ]

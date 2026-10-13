@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V612HNC5THP1WNSPTN6FTK",
+  "title": "Livy, History of Rome 37.38–44 and 45.12 (trans. W. A. McDevitte)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Livy",
+    "McDevitte, William A. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #44318",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/44318",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Livy 37.38–44; 45.12",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the Gutenberg text (books 37 to the end)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Book 37 (consuls L. Cornelius Scipio and C. Laelius): Antiochus camps near Magnesia at Sipylus; the army routed, 44: up to 50,000 foot and 3,000 horse said killed; 45.12: Roman envoys met Antiochus at Eleusine four miles from Alexandria; Popilius drew a line round the king with a wand; he replied \"I will do as the senate directs\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

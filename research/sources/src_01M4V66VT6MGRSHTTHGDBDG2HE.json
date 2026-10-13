@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V66VT6MGRSHTTHGDBDG2HE",
+  "title": "The Aramaic of Daniel",
+  "source_type": "academic_monograph",
+  "authors": [
+    "Kitchen, K. A."
+  ],
+  "publisher": "In D. J. Wiseman (ed.), Notes on Some Problems in the Book of Daniel, Tyndale Press, 1965, pp. 31–79",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblicalstudies.org.uk/pdf/tp/notes-daniel/daniel_kitchen.pdf",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Reproduced online with permission; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the chapter PDF",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "p. 79 summary: the date of Daniel \"cannot be decided upon linguistic grounds alone\"; a second-century date cannot be based on three Greek words, and a late sixth-century date is early enough for the Persian words; nine-tenths of the vocabulary is attested in the fifth century or earlier",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

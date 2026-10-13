@@ -1,0 +1,45 @@
+{
+  "id": "src_01M4V612H4WMYWSAQEPE8V8WTT",
+  "title": "Dating ancient manuscripts using radiocarbon and AI-based writing style analysis",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Popović, Mladen",
+    "Dhali, Maruf A.",
+    "Schomaker, Lambert",
+    "van der Plicht, Johannes",
+    "Rasmussen, Kaare Lund",
+    "La Nasa, Jacopo",
+    "Degano, Ilaria",
+    "Colombini, Maria Perla",
+    "Tigchelaar, Eibert"
+  ],
+  "publisher": "PLOS ONE 20(6): e0323185 (2025)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323185",
+  "doi": "10.1371/journal.pone.0323185",
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the article",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "4Q114 (4QDanᶜ): accepted 2σ calibrated range 230–160 BCE (not the complete calibrated range); the range \"overlaps with the period in which the final part of the biblical book of Daniel was presumably authored\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Open-access article read online.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

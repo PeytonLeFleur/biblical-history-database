@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V612JBK8NDE0WN607TZ00Z",
+  "record_kind": "event",
+  "record_id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Belshazzar slain; Darius the Mede receives the kingdom (Dan 5:30–31)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.955Z",
+  "decisions": [],
+  "is_fixture": false
+}

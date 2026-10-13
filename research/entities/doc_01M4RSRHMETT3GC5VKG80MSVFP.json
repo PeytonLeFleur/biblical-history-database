@@ -4,7 +4,10 @@
   "slug": "abc-3",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+    "src_01M4RSRHKETFKGA2ZZE6XATJKW"
+  ],
   "notes": null,
   "name": "Babylonian Chronicle ABC 3 (Fall of Nineveh Chronicle)",
   "document_type": "Chronicle",

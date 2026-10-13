@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4",
+  "title": "Babylonian Ration List: King Jehoiakhin in Exile, 592/1 BCE — Center for Online Judaic Studies",
+  "source_type": "museum_catalog",
+  "authors": [
+    "Center for Online Judaic Studies"
+  ],
+  "publisher": "cojs.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://cojs.org/babylonian_ration_list-_king_jehoiakhin_in_exile-_592-1_bce/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "© Center for Online Judaic Studies; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the page",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Monthly ration lists name \"Ya'u-kīnu, king of the land of Yahudu\" with other dignitaries including his five sons; dated to Nebuchadnezzar's 13th year (592/1 BCE); held in Berlin",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Educational presentation of the tablet (Staatliche Museen zu Berlin); does not name the translation used; Weidner's 1939 edition not read.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

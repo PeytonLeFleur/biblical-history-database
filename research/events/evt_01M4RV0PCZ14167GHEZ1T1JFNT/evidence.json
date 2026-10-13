@@ -132,12 +132,15 @@
       "classification": "disputed",
       "reasoning": "Oppert (19th c.) proposed the Duair mound south-east of Babylon, with a reported statue pedestal; a Tigris site near Tekrit was also suggested; modern scholarship notes \"Dura\" may simply mean a plain or fortress. No modern excavation report confirming any identification was found.",
       "supporting_evidence": [
-        "evd_01M4RV0PD3BCCBDEM6FG832GMN"
+        "evd_01M4RV0PD3BCCBDEM6FG832GMN",
+        "evd_01M4V6J8Z91B9EXGVJ1A5FY0XE"
       ],
       "counterevidence": [
+        "evd_01M4V6JN2XKZDWP84Y5N0SDD1Q"
+      ],
+      "contextual_evidence": [
         "evd_01M4RV0PD3ACY2B1A5WCQG6FAW"
       ],
-      "contextual_evidence": [],
       "limitations": [
         "Only 19th-century reports."
       ],
@@ -207,7 +210,7 @@
         "clm_01M4RV0PD3SF3NW41CDC7G9M9N"
       ],
       "source_id": "src_01M4RV0PC4SW6ZN9QCPEZFJXPC",
-      "stance": "challenges",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "\"Dura\" may mean \"plain\" or \"fortress\" rather than naming a specific place.",
       "locator": "Plot/analysis",
@@ -248,6 +251,38 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "bdb-lexicon"
+    },
+    {
+      "id": "evd_01M4V6J8Z91B9EXGVJ1A5FY0XE",
+      "claim_ids": [
+        "clm_01M4RV0PD3SF3NW41CDC7G9M9N"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Oppert reported a stream and mounds called Tolul Dura about 12 miles SSE of Hillah, one a brick structure he thought could have been a colossus's pedestal.",
+      "locator": "p. 36 (on 3:1)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V6JN2XKZDWP84Y5N0SDD1Q",
+      "claim_ids": [
+        "clm_01M4RV0PD3SF3NW41CDC7G9M9N"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "An inscription cited by Delitzsch mentions three places in Babylonia called Dūru — the name is not unique.",
+      "locator": "p. 36 (on 3:1, Delitzsch)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
     }
   ],
   "artifacts": [],

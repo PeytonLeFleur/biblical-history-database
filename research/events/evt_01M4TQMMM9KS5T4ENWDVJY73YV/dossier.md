@@ -655,7 +655,9 @@ Attested only in Daniel and Esther (1:19; 8:8), both biblical. Diodorus 17.30, c
 
 Assyrian reliefs (as summarised by Wikipedia, citing Reade 1998 and Oates & Oates 2001) show caged lions released for royal hunts, and Ashurnasirpal II is reported to have caged lion cubs at Kalhu. The reliefs and the inscription were not examined directly here, and the evidence is Assyrian, not Persian.
 
-- *Supporting (indirect):* Captured lions released from cages for Ashurbanipal's hunts; Ashurnasirpal II caged lion cubs at Kalhu. (Description (Reade 1998; Oates & Oates 2001)) [3]
+- *Supporting (indirect):* The den reflects "the custom which existed already among the Assyrians" and was passed to the Persians, "of keeping lions for the chase" (Bevan); cf. Ezek 19:9. (pp. 73–74 (on 6:7)) [6]
+- *Supporting (indirect):* Refers to the royal zoological gardens of Assyria (Meissner) and to the capture of lions (Ezek 19). (on ch. 6 (Note)) [7]
+- *Context (indirect):* Captured lions released from cages for Ashurbanipal's hunts; Ashurnasirpal II caged lion cubs at Kalhu. (Description (Reade 1998; Oates & Oates 2001)) [3]
 
 *Limitations:* Secondary summary only; British Museum records and the Ashurnasirpal text not read. Assyrian evidence (9th–7th centuries BC); nothing found for a Persian-period lion pit at Babylon.
 
@@ -699,3 +701,5 @@ A claim of divine action that historical methods cannot assess. This is not a th
 3. Wikipedia contributors. Lion Hunt of Ashurbanipal — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Lion_Hunt_of_Ashurbanipal> — *popular summary; verification: claim checked*
 4. Guzik, David. Daniel 6 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-6/> — *theological commentary; verification: claim checked*
 5. Wikipedia contributors. Daniel in the lions' den — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Daniel_in_the_lions%27_den> — *popular summary; verification: claim checked*
+6. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
+7. Montgomery, James A.. A Critical and Exegetical Commentary on the Book of Daniel (ICC). T. & T. Clark. <https://archive.org/details/criticalexegetic22montuoft> — *scholarly commentary; verification: claim checked*

@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V612JKEQVQHX7X3ZGG6NN3",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TQMMMD0G0FM0J4JR4GBH0M",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Critical scholars see Darius I as the model for the literary Darius the Mede (a source of the portrait, not a claim that",
+  "triggers": [
+    "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.963Z",
+  "decisions": [],
+  "is_fixture": false
+}

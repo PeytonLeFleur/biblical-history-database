@@ -100,15 +100,18 @@
       "classification": "disputed",
       "reasoning": "No Babylonian source names Jerusalem before 597, and critical scholars (Seow; Collins) regard Dan 1:1 as unhistorical or derived from 2 Kings/Chronicles. Berossus reports Jewish captives in the 605 campaign, and Judah could be among the tributary \"kings of Hatti\" of 604; 2 Kings 24:1 has Jehoiakim become Nebuchadnezzar's servant. Whether this amounted to a siege, as Daniel says, is materially disputed.",
       "supporting_evidence": [
-        "evd_01M4RSRHN6BZZ24699S7E6W5E0"
+        "evd_01M4RSRHN6BZZ24699S7E6W5E0",
+        "evd_01M4V6J8Z81S15E77MKRTYSNFJ"
       ],
       "counterevidence": [
-        "evd_01M4RSRHN6F9XD79DBC0X50FVS",
-        "evd_01M4RSRHN6Q8RM1GPWJ8WN490B"
+        "evd_01M4V6J8Z8F85489HHRZJGQQR7",
+        "evd_01M4V6J8Z84EQZ04CZ9Q0TB3ZM"
       ],
       "contextual_evidence": [
         "evd_01M4RSRHN6VAEHA2Q3Y04BV9ZC",
-        "evd_01M4RSRHN63Z2NRTKBRQTRVAF6"
+        "evd_01M4RSRHN63Z2NRTKBRQTRVAF6",
+        "evd_01M4RSRHN6F9XD79DBC0X50FVS",
+        "evd_01M4RSRHN6Q8RM1GPWJ8WN490B"
       ],
       "limitations": [
         "Wiseman and Collins were not read directly."
@@ -165,13 +168,15 @@
       "classification": "disputed",
       "reasoning": "Chronology engine, 32 reckoning combinations (20 consistent with the anchors: Jehoiakim's accession 1 Aug 609 – 31 Jan 608; Carchemish Mar 605 BC – Aug 605 BC). Jeremiah 46:2 (\"fourth year\" = Carchemish) is consistent with: accession year · Nisan; accession year · Tishri; non-accession year · Tishri; it is inconsistent with non-accession year · Nisan. Window of Daniel's \"third year\" by reckoning (including uncertainty): accession year · Nisan: Feb 606 BC – May 605 BC (closes before the latest possible battle date, Aug 605); accession year · Tishri: Aug 607 BC – Nov 605 BC (extends past the battle into the post-Carchemish campaign); non-accession year · Tishri: Aug 608 BC – Nov 606 BC (closes before the latest possible battle date, Aug 605); non-accession year · Nisan: Feb 607 BC – May 606 BC (closes before the latest possible battle date, Aug 605). Only accession-year counting with a Tishri (autumn) new year makes the \"third year\" run through the summer-605 campaign after Carchemish; accession-year counting with a Nisan (Babylonian) new year ends the \"third year\" around Nisan 605, before the battle except at the uncertainty margin. Harmonisation (Guzik; Wiseman, not read directly) appeals to accession-year counting in Daniel; the computation shows this works naturally only with a Tishri new year. Critical scholarship (Seow; Collins) treats the discrepancy as a historical problem in Daniel. Both biblical statements are preserved unchanged.",
       "supporting_evidence": [
-        "evd_01M4RSRHN68BJ0S1YDGZ382YWF"
+        "evd_01M4RSRHN68BJ0S1YDGZ382YWF",
+        "evd_01M4V6J8Z84R4RNFG7BHV1ZHHX"
       ],
       "counterevidence": [
-        "evd_01M4RSRHN6Q8RM1GPWJ8WN490B"
+        "evd_01M4V6J8Z86YPTT8MZVKHFYZZ1"
       ],
       "contextual_evidence": [
-        "evd_01M4RSRHN63Z2NRTKBRQTRVAF6"
+        "evd_01M4RSRHN63Z2NRTKBRQTRVAF6",
+        "evd_01M4RSRHN6Q8RM1GPWJ8WN490B"
       ],
       "limitations": [
         "The computation depends on the reconstructed accession window and conservative new-year windows."
@@ -227,7 +232,7 @@
         "clm_01M4RSRHN6PBF6VASE82GKGQ72"
       ],
       "source_id": "src_01M4RSRHKG1X6VCYVRC07WE0K7",
-      "stance": "challenges",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "Seow (2003) notes that the Babylonian chronicles record Nebuchadnezzar's Palestinian campaigns as crown prince but none against Jerusalem, and that biblical and Babylonian sources mention an attack on Jerusalem only in 597.",
       "locator": "Interpretation section",
@@ -246,7 +251,7 @@
         "clm_01M4RSRHN6ZTQQ364PDJ718P3N"
       ],
       "source_id": "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
-      "stance": "challenges",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "Citing Eph'al (2003) and Elayi (2018), the article states that after Carchemish none of the westernmost Levantine states swore fealty or paid tribute in 605; it mentions no 605 attack on Jerusalem.",
       "locator": "Military campaigns section",
@@ -308,6 +313,86 @@
         "Theological commentary (interpretation layer), not independent evidence."
       ],
       "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4V6J8Z8F85489HHRZJGQQR7",
+      "claim_ids": [
+        "clm_01M4RSRHN6PBF6VASE82GKGQ72"
+      ],
+      "source_id": "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The Babylonian Chronicle records no siege of Jerusalem before 597; the argument against one rests on silence, as must any defence of it.",
+      "locator": "pp. 16–18",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "wiseman-1965"
+    },
+    {
+      "id": "evd_01M4V6J8Z81S15E77MKRTYSNFJ",
+      "claim_ids": [
+        "clm_01M4RSRHN6PBF6VASE82GKGQ72"
+      ],
+      "source_id": "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "After Carchemish the chronicle claims all Ḫatti was conquered; an incursion into Judah could fall under that claim; \"besieged\" may mean \"cut off\".",
+      "locator": "pp. 17–18",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "wiseman-1965"
+    },
+    {
+      "id": "evd_01M4V6J8Z84EQZ04CZ9Q0TB3ZM",
+      "claim_ids": [
+        "clm_01M4RSRHN6PBF6VASE82GKGQ72"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The siege in Jehoiakim's third year \"cannot, strictly speaking, be disproved\" but is doubtful: Kings is silent and Jeremiah speaks of the Chaldeans as not yet come.",
+      "locator": "Introduction p. xlix",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V6J8Z84R4RNFG7BHV1ZHHX",
+      "claim_ids": [
+        "clm_01M4RSRHN6ZTQQ364PDJ718P3N"
+      ],
+      "source_id": "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "If Daniel uses Babylonian accession-year dating and Jeremiah non-accession dating, \"there is no discrepancy\".",
+      "locator": "p. 17",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "wiseman-1965"
+    },
+    {
+      "id": "evd_01M4V6J8Z86YPTT8MZVKHFYZZ1",
+      "claim_ids": [
+        "clm_01M4RSRHN6ZTQQ364PDJ718P3N"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Treats the third-year siege as doubtful on the evidence of Kings and Jeremiah.",
+      "locator": "Introduction p. xlix",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
     }
   ],
   "artifacts": [

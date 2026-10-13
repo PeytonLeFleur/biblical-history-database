@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V612JG0VZHHRG26YBE6E1D",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TPW4CA128G8BAXM2RN8CNQ",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Josephus and Jerome, followed by Calvin, Ussher and Keil, link Darius to the son of Astyages known from Xenophon",
+  "triggers": [
+    "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.961Z",
+  "decisions": [],
+  "is_fixture": false
+}

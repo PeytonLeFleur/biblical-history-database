@@ -4,7 +4,9 @@
   "slug": "behistun-inscription",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4TQMMKQ9D4HAXB8GJPVY0A0"
+  ],
   "notes": null,
   "name": "Behistun inscription of Darius I",
   "document_type": "Royal rock inscription (trilingual: Old Persian, Elamite, Babylonian)",

@@ -629,8 +629,8 @@ Antiochus went east in 166/165 to raise funds; after failing to plunder a sanctu
 
 ## Competing reconstructions
 
-- **Death after the rededication** (1 Maccabees 6:7 (he hears that the abomination has been pulled down)): Death in Persia after news of the Temple's recovery. [3]
-- **Death before the rededication** (2 Maccabees 9–10 (narrative order, not read in this session; reported by Driver)): The purification is narrated after his death. Not modelled as a constraint because the sources disagree. [4]
+- **Death after the rededication** (1 Maccabees 6:7 (he hears that the abomination has been pulled down), Josephus, Ant. 12.9.1): Death in Persia after news of the Temple's recovery. [3, 5]
+- **Death before the rededication** (2 Maccabees 9–10 (narrative order; read directly), 2 Macc 11:23 (Antiochus V's letter)): The death (ch. 9) precedes the cleansing (10:1–8); a letter of year 148 refers to the late king. Not modelled as a constraint because the sources disagree (claim under review). [6, 4]
 
 ## Claims and evidence
 
@@ -643,6 +643,8 @@ A Greek historian, the Babylonian king list and 1 Maccabees agree.
 - *Supporting (direct):* Thwarted at the sanctuary of Artemis in Elymaïs; died at Tabae in Persia. (31.9) [1]
 - *Supporting (direct):* It was heard that Antiochus IV died. (rev., year 148 Kislimu) [2]
 - *Supporting (direct):* Failed to take Elymaïs, fell sick and died in the 149th year (Macedonian epoch). (1 Macc 6:1–16) [3]
+- *Supporting (direct):* Death in Persia; Josephus reports Polybius's explanation (the temple of Diana) and disputes it. (Ant. 12.9.1) [5]
+- *Context (direct):* Places the failed temple robbery at Persepolis and the illness on the road from Ecbatana; he dies "in the mountains". (2 Macc 9:1–3, 28) [6]
 
 ### Daniel 11:40–45 accurately describes the circumstances of Antiochus IV's last campaign and death.
 
@@ -650,18 +652,32 @@ A Greek historian, the Babylonian king list and 1 Maccabees agree.
 
 Porphyry's reconstruction (via Jerome) is the only source for a fourth Egyptian campaign; Driver judges it suspect. Futurist interpreters avoid the problem by referring 11:36–45 to a future figure. Recorded as disputed.
 
-- *Supporting (indirect):* Porphyry claims a fourth Egyptian campaign, a march east against Artaxias, a camp at "Apedno" between Tigris and Euphrates, and death at Tabae. (on 11:40–45 (Porphyry)) [5]
+- *Supporting (indirect):* Porphyry claims a fourth Egyptian campaign, a march east against Artaxias, a camp at "Apedno" between Tigris and Euphrates, and death at Tabae. (on 11:40–45 (Porphyry)) [7]
 - *Challenging (indirect):* No hint of a final conquest of Egypt outside Jerome; Egypt was under Roman protection; Antiochus was in financial difficulty; he died in Persia, not between the sea and the holy mountain. (pp. 196–197; Introduction p. xc) [4]
 - *Challenging (direct):* Death at Tabae in Persia. (31.9) [1]
 
+### Antiochus IV died before the Temple was rededicated.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+2 Maccabees narrates his death (ch. 9) before the cleansing (10:1–8) and closes the section "such were the events of the end of Antiochus" (10:9); its letters of year 148 include one in which Antiochus V speaks of his father as dead (11:23). 1 Maccabees (6:1–16) and Josephus (Ant. 12.9.1) have him die in Persia after hearing that the Jews had pulled down the abomination. The Babylonian king list reports news of his death in Kislimu 148 SE (Babylonian reckoning) — the same month-name as the rededication (25 Chislev 148): if 1 Maccabees used the spring (Babylonian) epoch the two events fall within weeks of each other (Dec 164); on the autumn epoch the rededication (Dec 165) precedes the death by a year. 2 Maccabees' arrangement is often thought thematic, but that was not verified here. Unresolved.
+
+- *Supporting (direct):* Death narrated before the cleansing; Antiochus V's letter refers to his father having passed to the gods. (2 Macc 9:1–29; 10:1–9; 11:23) [6]
+- *Challenging (direct):* In Persia he hears that the Jews had pulled down the abomination, falls sick and dies. (1 Macc 6:5–16) [3]
+- *Challenging (direct):* He dies in Persia after hearing of the Jews' success. (Ant. 12.9.1) [5]
+- *Context (direct):* News of the death heard in Kislimu 148 SE (Babylonian reckoning). (rev., year 148 Kislimu) [2]
+
+*Limitations:* Depends on the unresolved Seleucid-era epoch of 1 Maccabees. Modern studies of 2 Macc 11's letters not read.
+
 ## Unanswered questions and research gaps
 
-- 2 Maccabees 9 not read.
 - Appian Syr. 66 (death of Antiochus) not read.
+- Modern studies of the 2 Maccabees letters not read.
 
 ## Disputes
 
 - Daniel 11:40–45 accurately describes the circumstances of Antiochus IV's last campaign and death.
+- Antiochus IV died before the Temple was rededicated.
 
 ## Sources
 
@@ -669,4 +685,6 @@ Porphyry's reconstruction (via Jerome) is the only source for a fourth Egyptian 
 2. van der Spek, R. J. (trans.). Babylonian King List of the Hellenistic Period (BM 35603) — Livius.org, Seleucus IV entries. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/babylonian-king-list-of-the-hellenistic-period/> — *ancient primary text; verification: claim checked*
 3. World English Bible. World English Bible — Apocrypha/Deuterocanon (1 Maccabees; 2 Esdras). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*
 4. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
-5. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 12.3.3 and 12.9.1 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+6. World English Bible contributors. World English Bible — Apocrypha/Deuterocanon (2 Maccabees 3, 6, 7, 9–11). eBible.org (eng-web USFM). <https://ebible.org/find/details.php?id=eng-web> — *ancient primary text; verification: claim checked*
+7. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*

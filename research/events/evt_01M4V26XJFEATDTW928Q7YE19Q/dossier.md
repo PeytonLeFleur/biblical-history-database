@@ -643,13 +643,15 @@ Polybius (partly via Josephus) and Jerome agree; the exact year is uncertain in 
 
 - *Supporting (direct):* Scopas despaired of victory and retreated; after Scopas was conquered Antiochus occupied Samaria, Abila and Gadara, and the Jews of Jerusalem submitted. (16.19.10; 16.39.3–4) [1]
 - *Supporting (indirect):* Antiochus put Scopas to flight near the sources of the Jordan and besieged him in Sidon. (on 11:15–16) [3]
+- *Supporting (direct):* Antiochus overcame Scopas at the fountains of Jordan; the Jews received him into Jerusalem; Josephus quotes Polybius book 16. (Ant. 12.3.3) [4]
 
 ## Unanswered questions and research gaps
 
-- Josephus Ant. 12.3.3 not read directly.
+- Exact year (200 or 198) not fixed by the sources read.
 
 ## Sources
 
 1. Polybius, Paton, W. R. (trans.). Polybius, Histories 16.18–19, 16.39 (Loeb V, 1926) — LacusCurtius. LacusCurtius (Bill Thayer). <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/16*.html> — *ancient primary text; verification: claim checked*
 2. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
 3. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
+4. Josephus, Whiston, William (trans.). Josephus, Antiquities 12.3.3 and 12.9.1 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*

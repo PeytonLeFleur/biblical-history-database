@@ -2,7 +2,44 @@
   "event_id": "evt_01M4V26XJFEATDTW928Q7YE19Q",
   "status": "complete",
   "resume_from": null,
-  "name_searches": [],
+  "name_searches": [
+    {
+      "name": "Antiochus [antiochus-iii-the-great]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Ptolemy [ptolemy-v-epiphanes]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "king of the north [seleucid-empire]",
+      "books_searched": 66,
+      "hits": [
+        "Dan.11.6",
+        "Dan.11.7",
+        "Dan.11.8",
+        "Dan.11.11",
+        "Dan.11.13",
+        "Dan.11.15",
+        "Dan.11.40"
+      ]
+    },
+    {
+      "name": "king of the south [ptolemaic-kingdom]",
+      "books_searched": 66,
+      "hits": [
+        "Dan.11.5",
+        "Dan.11.6",
+        "Dan.11.9",
+        "Dan.11.11",
+        "Dan.11.14",
+        "Dan.11.25",
+        "Dan.11.40"
+      ]
+    }
+  ],
   "relationships": [],
   "entity_resolutions": [],
   "new_constraints": []

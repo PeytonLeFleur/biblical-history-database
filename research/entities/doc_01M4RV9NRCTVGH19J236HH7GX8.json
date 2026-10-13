@@ -4,7 +4,11 @@
   "slug": "abc-7-nabonidus-chronicle",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+  ],
   "notes": null,
   "name": "Babylonian Chronicle ABC 7 (Nabonidus Chronicle)",
   "document_type": "Chronicle",

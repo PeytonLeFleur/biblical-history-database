@@ -290,6 +290,24 @@ describe('global prophecy and synchronism records', () => {
     expect(p?.kind === 'prophecy' && p.interpretations[0]!.reviewer_status).toBe('human_rejected');
   });
 
+  it('requires review items for critical-priority events and possible identities (SPEC 9.3 #1; Rule 04)', () => {
+    const id = fixtureEvent();
+    const file = store.eventFile(id, 'event');
+    store.write(EventRecord, file, { ...store.event(id), priority: 'critical' });
+    expect(ok(store).errors.some((e) => e.includes('critical-priority event has no review item'))).toBe(true);
+    queueReview(store, { record_kind: 'event', record_id: id, record_revision: 1, reason: 'Critical priority', triggers: ['critical_priority'] });
+    expect(ok(store).errors.some((e) => e.includes('critical-priority'))).toBe(false);
+    const rel = newId('relationship');
+    store.write(CrossrefDossier, store.eventFile(id, 'crossrefs'), { event_id: id, status: 'complete', relationships: [
+      { id: rel, type: 'possible_identity', from: { kind: 'event', id }, to: { kind: 'passage', ref: 'Zech.14.5' }, confidence: 'medium', layer: 'reconstruction', rationale: 'x', provenance: { method: 'text_reading', citations: [] } },
+    ] } as never);
+    expect(ok(store).errors.some((e) => e.includes('possible_identity must be review_required'))).toBe(true);
+    const x = store.crossrefs(id)!;
+    store.write(CrossrefDossier, store.eventFile(id, 'crossrefs'), { ...x, relationships: x.relationships.map((r) => ({ ...r, review_required: true })) } as never);
+    queueReview(store, { record_kind: 'relationship', record_id: rel, record_revision: 1, reason: 'Possible identity', triggers: ['possible_identity'] });
+    expect(ok(store).errors.some((e) => e.includes('possible_identity'))).toBe(false);
+  });
+
   it('anchors synchronism subjects as external evidence in the solver', async () => {
     const { buildSolveInput } = await import('./chronology.ts');
     const id = fixtureEvent();

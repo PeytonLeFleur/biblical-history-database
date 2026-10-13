@@ -672,7 +672,9 @@ No Babylonian source mentions such an image or ceremony. Nebuchadnezzar's known 
 Oppert (19th c.) proposed the Duair mound south-east of Babylon, with a reported statue pedestal; a Tigris site near Tekrit was also suggested; modern scholarship notes "Dura" may simply mean a plain or fortress. No modern excavation report confirming any identification was found.
 
 - *Supporting (indirect):* Oppert located the plain south-east of Babylon near the mound of Dowair/Duair, where a pedestal of a huge statue was found. (Entry "Dura") [6]
-- *Challenging (indirect):* "Dura" may mean "plain" or "fortress" rather than naming a specific place. (Plot/analysis) [2]
+- *Supporting (indirect):* Oppert reported a stream and mounds called Tolul Dura about 12 miles SSE of Hillah, one a brick structure he thought could have been a colossus's pedestal. (p. 36 (on 3:1)) [7]
+- *Challenging (indirect):* An inscription cited by Delitzsch mentions three places in Babylonia called Dūru — the name is not unique. (p. 36 (on 3:1, Delitzsch)) [7]
+- *Context (indirect):* "Dura" may mean "plain" or "fortress" rather than naming a specific place. (Plot/analysis) [2]
 
 *Limitations:* Only 19th-century reports.
 
@@ -682,20 +684,20 @@ Oppert (19th c.) proposed the Duair mound south-east of Babylon, with a reported
 
 BDB derives sumpōnyāh from late Greek symphōnia; this linguistic fact is used on both sides of the debate over the book's date (see the composition record).
 
-- *Supporting (direct):* sumpōnyāh (Dan 3:5, 10, 15) is a loanword from late Greek symphōnia. (BDB entry) [7]
+- *Supporting (direct):* sumpōnyāh (Dan 3:5, 10, 15) is a loanword from late Greek symphōnia. (BDB entry) [8]
 
 *Limitations:* Lexicon-level evidence; Mitchell & Joyce (1965) not read.
 
 ## Related passages and events
 
-- this event → **thematic parallel** → Daniel 2:31–45 (medium): An all-gold image after the dream's head of gold; interpreters (e.g. Guzik) read it as a response to chapter 2. Thematic link only. [8]
+- this event → **thematic parallel** → Daniel 2:31–45 (medium): An all-gold image after the dream's head of gold; interpreters (e.g. Guzik) read it as a response to chapter 2. Thematic link only. [9]
 - this event → **thematic parallel** → Daniel 6:7–9 (medium): Daniel 6 pairs with Daniel 3 in the chiastic structure of chapters 2–7 (a royal decree enforcing worship and a deliverance). [2]
 - this event → **same period** → Jeremiah 52:29 (low): Only under the Septuagint date (Nebuchadnezzar's 18th year), the year of a deportation from Jerusalem in Jer 52:29. [3]
 - this event → **child event** → The refusal of Shadrach, Meshach and Abednego and the fiery furnace (Dan 3:8–27) (high): The refusal and furnace narrative belongs to the dedication.
 
 ## Commentary (interpretation, not historical evidence)
 
-- Guzik ties the all-gold image to the dream of chapter 2 as a defiant claim that Nebuchadnezzar's kingdom would not pass. He thinks the image was a gold-overlaid pillar and mentions a mound with a pedestal as a possible site. He answers critics who date the book late from the Greek instrument names by pointing to earlier Greek contacts. [8]
+- Guzik ties the all-gold image to the dream of chapter 2 as a defiant claim that Nebuchadnezzar's kingdom would not pass. He thinks the image was a gold-overlaid pillar and mentions a mound with a pedestal as a possible site. He answers critics who date the book late from the Greek instrument names by pointing to earlier Greek contacts. [9]
 
 ## Unanswered questions and research gaps
 
@@ -717,5 +719,6 @@ BDB derives sumpōnyāh from late Greek symphōnia; this linguistic fact is used
 4. Shea, William H.. Daniel 3: Extra-Biblical Texts and the Convocation on the Plain of Dura. Andrews University Seminary Studies 20.1 (1982): 29–52. Andrews University Press. 1982. <https://digitalcommons.andrews.edu/auss/vol20/iss1/1> — *scientific paper; verification: metadata verified*
 5. World English Bible translators. Daniel (Greek) 3 — World English Bible (eBible.org eng-web). eBible.org. <https://ebible.org/eng-web/DAG03.htm> — *ancient primary text; verification: claim checked*
 6. Smith, William (ed.). Dura — Smith's Bible Names Dictionary (Bible Gateway). Bible Gateway (public-domain 19th-century dictionary). <https://classic.biblegateway.com/resources/smiths-bible-names-dictionary/Dura> — *historical reference; verification: claim checked*
-7. Brown, F., Driver, S. R., Briggs, C. A.. Strong's H5481 sumponeyah — Brown-Driver-Briggs and Strong's entries (Bible Hub). Bible Hub (online lexicon). <https://biblehub.com/hebrew/5481.htm> — *historical reference; verification: claim checked*
-8. Guzik, David. Daniel 3 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-3/> — *theological commentary; verification: claim checked*
+7. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
+8. Brown, F., Driver, S. R., Briggs, C. A.. Strong's H5481 sumponeyah — Brown-Driver-Briggs and Strong's entries (Bible Hub). Bible Hub (online lexicon). <https://biblehub.com/hebrew/5481.htm> — *historical reference; verification: claim checked*
+9. Guzik, David. Daniel 3 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-3/> — *theological commentary; verification: claim checked*

@@ -51,18 +51,17 @@
       "layer": "evidence",
       "passage": null,
       "classification": "strongly_supported",
-      "reasoning": "Two independent literary lines (Livy via Driver; Jerome/Porphyry), with Appian's battle narrative as context. Livy was not read directly.",
+      "reasoning": "Livy (read directly) and Jerome/Porphyry agree, with Appian's battle narrative as context. Livy's casualty figures are his own.",
       "supporting_evidence": [
         "evd_01M4V26XM87HBXQHJJ7KDPX9Z9",
-        "evd_01M4V26XM8555HNS6V3DDXDZFP"
+        "evd_01M4V26XM8555HNS6V3DDXDZFP",
+        "evd_01M4V6138BRK7NV3YRZGSACMCY"
       ],
       "counterevidence": [],
       "contextual_evidence": [
         "evd_01M4V26XM8PH9DM2MB724A6GM2"
       ],
-      "limitations": [
-        "Livy 37 not read directly."
-      ],
+      "limitations": [],
       "reviewer_status": "machine_proposed",
       "review_required": false,
       "research_date": "2026-10-13"
@@ -116,12 +115,28 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "appian"
+    },
+    {
+      "id": "evd_01M4V6138BRK7NV3YRZGSACMCY",
+      "claim_ids": [
+        "clm_01M4V26XM8H4M7MHB82NCB26ZB"
+      ],
+      "source_id": "src_01M4V612HNC5THP1WNSPTN6FTK",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Antiochus encamped near Magnesia at Sipylus; his army was routed by the consul Lucius Cornelius Scipio; up to 50,000 foot and 3,000 horse said to have been killed.",
+      "locator": "Livy 37.38–44",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "livy"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
   "research_gaps": [
-    "Livy 37.39–44 and the treaty of Apamea (Polybius 21.42) not read directly."
+    "Treaty of Apamea (Polybius 21.42) not read directly."
   ]
 }

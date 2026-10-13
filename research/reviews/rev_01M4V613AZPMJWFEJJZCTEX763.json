@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V613AZPMJWFEJJZCTEX763",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V6137YX1M5KVMEXD47HBBH",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 12 numbers): Symbolic numbers: a God-measured period of the affliction under Antiochus, not reckonable",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:39.743Z",
+  "decisions": [],
+  "is_fixture": false
+}

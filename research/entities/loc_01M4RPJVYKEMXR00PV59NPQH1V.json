@@ -4,7 +4,11 @@
   "slug": "gath",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RPJVYFQMR2RX3KCY0ZB20B",
+    "src_01M4RPJVYDW55BD6H47AFG78AA",
+    "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
   "notes": null,
   "primary_name": "Gath",
   "place_type": "settlement",

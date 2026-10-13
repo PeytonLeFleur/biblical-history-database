@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V612J97NNPVT85BJH4M8WY",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4RV9NRNCY7VXRG830K9WM74",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Critical scholarship proposes that the afflicted king of the original tradition was Nabonidus (cf",
+  "triggers": [
+    "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.953Z",
+  "decisions": [],
+  "is_fixture": false
+}

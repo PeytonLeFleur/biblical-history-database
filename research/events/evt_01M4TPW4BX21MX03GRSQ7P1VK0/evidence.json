@@ -114,10 +114,12 @@
       "reasoning": "No contemporary source names a Median Darius ruling Babylon. Proposed identifications (Gubaru/Ugbaru, Cyrus, Cyaxares II, Cambyses) each depend on assumptions the sources do not confirm; many scholars regard him as a literary figure. The disagreement is material and unresolved.",
       "supporting_evidence": [
         "evd_01M4TPW4C9R9PF6NQMWRA30H48",
-        "evd_01M4TPW4C96HPX941KHJ00AZ0C"
+        "evd_01M4TPW4C96HPX941KHJ00AZ0C",
+        "evd_01M4V66VTJKEPDQGGEJKX1CR5P"
       ],
       "counterevidence": [
-        "evd_01M4TPW4C90XWPEZ8QF4N5F6SY"
+        "evd_01M4TPW4C90XWPEZ8QF4N5F6SY",
+        "evd_01M4V66VTJQSVJQSP9JKNNDATV"
       ],
       "contextual_evidence": [
         "evd_01M4TPW4C9GHN1N6J7EB4ETPZS"
@@ -244,6 +246,38 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "xenophon"
+    },
+    {
+      "id": "evd_01M4V66VTJKEPDQGGEJKX1CR5P",
+      "claim_ids": [
+        "clm_01M4TPW4C91XQ3TDP59YRHXNFZ"
+      ],
+      "source_id": "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Proposes Darius = Cyrus (6:28 appositional; Cyrus could be called a Mede; about sixty-two in 539).",
+      "locator": "pp. 12–16",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "wiseman-1965"
+    },
+    {
+      "id": "evd_01M4V66VTJQSVJQSP9JKNNDATV",
+      "claim_ids": [
+        "clm_01M4TPW4C91XQ3TDP59YRHXNFZ"
+      ],
+      "source_id": "src_01M4RSRHKK20JJA4YS6CSHSHGZ",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Against the Gubaru identification: no text calls Gubaru king; contracts of 535–524 BC give him only as governor.",
+      "locator": "pp. 10–12",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "wiseman-1965"
     }
   ],
   "artifacts": [],

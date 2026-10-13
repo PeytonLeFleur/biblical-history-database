@@ -52,20 +52,24 @@
     {
       "label": "Death after the rededication",
       "proponents": [
-        "1 Maccabees 6:7 (he hears that the abomination has been pulled down)"
+        "1 Maccabees 6:7 (he hears that the abomination has been pulled down)",
+        "Josephus, Ant. 12.9.1"
       ],
       "summary": "Death in Persia after news of the Temple's recovery.",
       "citations": [
-        "src_01M4TSKK87BBJJJP35SD5PZGDP"
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4V612HJRE5TTM7C48FCSNDW"
       ]
     },
     {
       "label": "Death before the rededication",
       "proponents": [
-        "2 Maccabees 9–10 (narrative order, not read in this session; reported by Driver)"
+        "2 Maccabees 9–10 (narrative order; read directly)",
+        "2 Macc 11:23 (Antiochus V's letter)"
       ],
-      "summary": "The purification is narrated after his death. Not modelled as a constraint because the sources disagree.",
+      "summary": "The death (ch. 9) precedes the cleansing (10:1–8); a letter of year 148 refers to the late king. Not modelled as a constraint because the sources disagree (claim under review).",
       "citations": [
+        "src_01M4V612HD88HXET8YJ4PPW5EN",
         "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
       ]
     }

@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V612HQZA31B8ZK7KFZM2FF",
+  "title": "Seleucid Era — Encyclopaedia Iranica",
+  "source_type": "historical_reference",
+  "authors": [
+    "Strootman, Rolf"
+  ],
+  "publisher": "Encyclopaedia Iranica (online), 2015",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.iranicaonline.org/articles/seleucid-era/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Two calendars: the Babylonian year began in spring with Nisannu, the Macedonian year at the autumn equinox; year 1 SE = 312/311 BCE",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Published 25 Mar 2015; does not say which calendar 1 or 2 Maccabees uses.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

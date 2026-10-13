@@ -640,7 +640,8 @@ On Babylonian reckoning Artaxerxes I's twentieth year began 1 Nisan = 13 Apr 445
 ## Competing reconstructions
 
 - **Spring 445 BC (Nisan reckoning)** (Parker & Dubberstein table (operator conversion), Anderson (14 Mar 445), D. Guzik): Year 20 counted from Nisan 445. [1, 2, 4]
-- **Spring 444 BC (Tishri reckoning)** (Operator inference from Neh 1:1 – 2:1): Neh 1:1 has Chislev of year 20 before Nisan of year 20, consistent with a year beginning in the autumn; Nisan would then be in 444. Modern discussions were not read.
+- **Spring 444 BC (Tishri reckoning)** (Autumn new-year solution, one of three listed by Noss & Thomas (UBS Handbook, 2005)): Neh 1:1 (Chislev, year 20) precedes 2:1 (Nisan, year 20); counting years from an autumn new year makes this consistent and puts the Nisan in 444. [5]
+- **Emend Neh 1:1 to "the nineteenth year", or count from the accession day** (Commentators listed by Noss & Thomas (2005)): Either a textual emendation or a count of regnal years from the king's accession anniversary rather than a calendar new year. Noss & Thomas advise translating the text as it stands. [5]
 
 ## Claims and evidence
 
@@ -658,8 +659,8 @@ Babylonian tablets and the Syene papyrus fix Artaxerxes I's accession in 465/464
 
 ## Unanswered questions and research gaps
 
-- Elephantine papyri on Judean regnal reckoning not read directly.
-- Read a modern study of Nehemiah's regnal reckoning (Elephantine papyri).
+- Horn & Wood (1954), JNES 13, not accessible; the Elephantine papyri themselves not analysed.
+- Horn & Wood (1954) on the Elephantine double dates and Judean regnal reckoning not accessible.
 
 ## Sources
 
@@ -667,3 +668,4 @@ Babylonian tablets and the Syene papyrus fix Artaxerxes I's accession in 465/464
 2. Anderson, Sir Robert. The Coming Prince, or the Seventy Weeks of Daniel (11th edition). Pickering & Inglis (Glasgow), n.d. (first ed. 1881). <https://archive.org/details/comingprince01ande> — *theological commentary; verification: claim checked*
 3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
 4. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*
+5. Noss, Philip A., Thomas, Kenneth J.. A Handbook on Nehemiah (UBS Helps for Translators) — on Neh 2:1. United Bible Societies, 2005 (via Translation Insights and Perspectives). <https://tips.translation.bible/story/translation-commentary-on-nehemiah-21/> — *scholarly commentary; verification: claim checked*

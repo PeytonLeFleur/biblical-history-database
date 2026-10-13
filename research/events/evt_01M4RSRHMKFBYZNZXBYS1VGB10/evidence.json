@@ -56,10 +56,12 @@
       "classification": "independently_corroborated",
       "reasoning": "Ration tablets excavated at Babylon list oil allocations for Ya'u-kīnu, king of Judah, and five royal sons, among foreign recipients at court (c. 595–570 BC).",
       "supporting_evidence": [
-        "evd_01M4RSRHN7X7XK0T8ZB0H5BKHX"
+        "evd_01M4V6J8ZBM54N9MK4E6KBZ90W"
       ],
       "counterevidence": [],
-      "contextual_evidence": [],
+      "contextual_evidence": [
+        "evd_01M4RSRHN7X7XK0T8ZB0H5BKHX"
+      ],
       "limitations": [
         "The tablets date after 597, not to 605; known here via a secondary summary (Weidner 1939 not accessed)."
       ],
@@ -115,7 +117,7 @@
         "clm_01M4RSRHN79YEF3CJC7SZ2ACXR"
       ],
       "source_id": "src_01M4RSRHKN0V607MATVNE8J925",
-      "stance": "supports",
+      "stance": "contextual",
       "strength": "direct",
       "finding": "Oil ration tablets from the royal storerooms at Babylon list allocations for Ya'u-kīnu, king of the land of Yahudu, and his five sons, alongside foreign craftsmen.",
       "locator": "Content and translation sections",
@@ -157,6 +159,22 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "ugaritic-danel"
+    },
+    {
+      "id": "evd_01M4V6J8ZBM54N9MK4E6KBZ90W",
+      "claim_ids": [
+        "clm_01M4RSRHN70SZWHJ5WE3A14M7T"
+      ],
+      "source_id": "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Ration lists name \"Ya'u-kīnu, king of the land of Yahudu\" and his five sons among recipients (592/1 BCE).",
+      "locator": "ration list, year 13 of Nebuchadnezzar",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-ration-lists"
     }
   ],
   "artifacts": [

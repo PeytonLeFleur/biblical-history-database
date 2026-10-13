@@ -1519,5 +1519,253 @@
   "status": "open",
   "created_at": "2026-10-13T16:49:08.011Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4V612J09K6CKPFNAB43FP4M",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4RSRHN76RD9MNQEMHQNEJ23",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Ezekiel's \"Daniel\" (dnʾl) may be this exile or, as many scholars argue, the legendary Ugaritic Danel",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.944Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612J2E3QDQ2AK0XNRBM5T",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4RSRHN7F4XS64B3D2F3F6SP",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): \"Wiser than Daniel\" — same identification question as Ezek 14:14",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.946Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612J4RS4VBJPZ94P74RPA",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4RSRHN7F5AYRD39Z1YG1EM3",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): \"In his days Nebuchadnezzar came up, and Jehoiakim became his servant three years\" may describe the same submission",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.948Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612J6JM3P5NJQAJW41TEY",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4RSRHN7N6W8VBGEB1SBD7N4",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Chronicles has Jehoiakim bound to be taken to Babylon and vessels removed, without a date",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.950Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612J97NNPVT85BJH4M8WY",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4RV9NRNCY7VXRG830K9WM74",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Critical scholarship proposes that the afflicted king of the original tradition was Nabonidus (cf",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.953Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JBK8NDE0WN607TZ00Z",
+  "record_kind": "event",
+  "record_id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Belshazzar slain; Darius the Mede receives the kingdom (Dan 5:30–31)",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.955Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JCXZ9P9BJN37W16Y2Y",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TPW4CAGRSBJCNJ41YSNZWH",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Proposed because Ugbaru led the entry into Babylon (ABC 7)",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.956Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JE3XXP728NQSK8Z1BQ",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TPW4CASQBWH5VSMTR50H1P",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Guzik and other conservative interpreters identify Darius with Gubaru, who appointed officials (cf",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.958Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JFRPVS0NRBCS6T0FVB",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TPW4CAY0HYSN57CNGQWY5G",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Wiseman, Frye and Colless (via Wikipedia) read Dan 6:28 appositionally",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.959Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JG0VZHHRG26YBE6E1D",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TPW4CA128G8BAXM2RN8CNQ",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Josephus and Jerome, followed by Calvin, Ussher and Keil, link Darius to the son of Astyages known from Xenophon",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.961Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JKEQVQHX7X3ZGG6NN3",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TQMMMD0G0FM0J4JR4GBH0M",
+  "record_revision": 1,
+  "reason": "Possible identity (Rule 04): Critical scholars see Darius I as the model for the literary Darius the Mede (a source of the portrait, not a claim that",
+  "triggers": [
+   "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.963Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JN77KPE17C5QWFNKD1",
+  "record_kind": "event",
+  "record_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Daniel's night vision of the four beasts and its interpretation (Dan 7)",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.965Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JQXAAA2NNCZWEQD0EG",
+  "record_kind": "event",
+  "record_id": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Daniel's vision of the ram and the goat at Susa (Dan 8)",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.967Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V612JT7FMKDGS76B0HPQT3",
+  "record_kind": "event",
+  "record_id": "evt_01M4V10B5RYBTR02QQ4KW27JMV",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Daniel reads Jeremiah's seventy years and prays (Dan 9:1–19)",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.970Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V613885DTBRA08JM8JDQYD",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V61386PBYD6NG8BSXDK40C",
+  "record_revision": 1,
+  "reason": "Disputed: did Antiochus IV die before or after the rededication? (1 Macc 6 / Josephus vs 2 Macc 9–11)",
+  "triggers": [
+   "disputed",
+   "primary_sources_conflict"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:39.656Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V6139Q1S17AA0BRKD0TK7M",
+  "record_kind": "claim",
+  "record_id": "clm_01M4V6139JAH2N5WQW2B4BATZR",
+  "record_revision": 1,
+  "reason": "Disputed: date and authorship of Daniel (sixth century vs 2nd century BC)",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:39.703Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V6139SF8YKJVK448A0KM9Z",
+  "record_kind": "event",
+  "record_id": "evt_01M4V61390F0RC9NJ8XNPMSP62",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Composition of the book of Daniel",
+  "triggers": [
+   "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:39.705Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V613AKSDCWC157N3KX8VXZ",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V6137SM92QXS8DAKMKNEBP",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 9 seventy weeks): Symbolic weeks: from Cyrus's word to Christ, the age of the church, and the last enemy",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:39.731Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4V613AZPMJWFEJJZCTEX763",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4V6137YX1M5KVMEXD47HBBH",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 12 numbers): Symbolic numbers: a God-measured period of the affliction under Antiochus, not reckonable",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:39.743Z",
+  "decisions": []
  }
 ]

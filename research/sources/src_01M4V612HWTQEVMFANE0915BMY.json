@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V612HWTQEVMFANE0915BMY",
+  "title": "Ulai — International Standard Bible Encyclopedia",
+  "source_type": "historical_reference",
+  "authors": [
+    "Pinches, T. G."
+  ],
+  "publisher": "ISBE, ed. J. Orr (1915; Eerdmans reprint 1939) — internationalstandardbible.com",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.internationalstandardbible.com/U/ulai.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1915 edition); paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the article",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "\"There is but little doubt that the Ulai is the Kerkhah\"; Assyrian Ulaa/Ulaia, with Ashurbanipal's reliefs of the campaign against Te-umman",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "The web page gives the 1939 Eerdmans printing.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

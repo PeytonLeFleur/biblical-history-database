@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V612JN77KPE17C5QWFNKD1",
+  "record_kind": "event",
+  "record_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Daniel's night vision of the four beasts and its interpretation (Dan 7)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T17:47:38.965Z",
+  "decisions": [],
+  "is_fixture": false
+}

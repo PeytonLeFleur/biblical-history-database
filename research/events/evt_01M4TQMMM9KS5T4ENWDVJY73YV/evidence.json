@@ -108,10 +108,13 @@
       "classification": "historically_plausible",
       "reasoning": "Assyrian reliefs (as summarised by Wikipedia, citing Reade 1998 and Oates & Oates 2001) show caged lions released for royal hunts, and Ashurnasirpal II is reported to have caged lion cubs at Kalhu. The reliefs and the inscription were not examined directly here, and the evidence is Assyrian, not Persian.",
       "supporting_evidence": [
-        "evd_01M4TQMMMEPQ2ZVZX1FCPC34SN"
+        "evd_01M4V6J8ZBC390KW40W5GQ3W65",
+        "evd_01M4V6J8ZBNAEGKTYSDZ4FVFVM"
       ],
       "counterevidence": [],
-      "contextual_evidence": [],
+      "contextual_evidence": [
+        "evd_01M4TQMMMEPQ2ZVZX1FCPC34SN"
+      ],
       "limitations": [
         "Secondary summary only; British Museum records and the Ashurnasirpal text not read.",
         "Assyrian evidence (9th–7th centuries BC); nothing found for a Persian-period lion pit at Babylon."
@@ -192,7 +195,7 @@
         "clm_01M4TQMMMEP19QPXRGR500DZTT"
       ],
       "source_id": "src_01M4TQMMM4BBN7KX5W1QFBCE3Y",
-      "stance": "supports",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "Captured lions released from cages for Ashurbanipal's hunts; Ashurnasirpal II caged lion cubs at Kalhu.",
       "locator": "Description (Reade 1998; Oates & Oates 2001)",
@@ -217,6 +220,38 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V6J8ZBC390KW40W5GQ3W65",
+      "claim_ids": [
+        "clm_01M4TQMMMEP19QPXRGR500DZTT"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The den reflects \"the custom which existed already among the Assyrians\" and was passed to the Persians, \"of keeping lions for the chase\" (Bevan); cf. Ezek 19:9.",
+      "locator": "pp. 73–74 (on 6:7)",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V6J8ZBNAEGKTYSDZ4FVFVM",
+      "claim_ids": [
+        "clm_01M4TQMMMEP19QPXRGR500DZTT"
+      ],
+      "source_id": "src_01M4TSKK81W6HP2HFZ7744DHRG",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Refers to the royal zoological gardens of Assyria (Meissner) and to the capture of lions (Ezek 19).",
+      "locator": "on ch. 6 (Note)",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "montgomery-1927"
     }
   ],
   "artifacts": [],

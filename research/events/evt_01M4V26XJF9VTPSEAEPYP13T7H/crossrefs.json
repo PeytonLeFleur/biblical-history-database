@@ -2,7 +2,108 @@
   "event_id": "evt_01M4V26XJF9VTPSEAEPYP13T7H",
   "status": "complete",
   "resume_from": null,
-  "name_searches": [],
+  "name_searches": [
+    {
+      "name": "Antiochus [antiochus-iv-epiphanes]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Epiphanes [antiochus-iv-epiphanes]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Popillius [gaius-popillius-laenas]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Laenas [gaius-popillius-laenas]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "Ptolemy [ptolemy-vi-philometor]",
+      "books_searched": 66,
+      "hits": []
+    },
+    {
+      "name": "king of the north [seleucid-empire]",
+      "books_searched": 66,
+      "hits": [
+        "Dan.11.6",
+        "Dan.11.7",
+        "Dan.11.8",
+        "Dan.11.11",
+        "Dan.11.13",
+        "Dan.11.15",
+        "Dan.11.40"
+      ]
+    },
+    {
+      "name": "king of the south [ptolemaic-kingdom]",
+      "books_searched": 66,
+      "hits": [
+        "Dan.11.5",
+        "Dan.11.6",
+        "Dan.11.9",
+        "Dan.11.11",
+        "Dan.11.14",
+        "Dan.11.25",
+        "Dan.11.40"
+      ]
+    },
+    {
+      "name": "Kittim [roman-state]",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.1.7",
+        "Dan.11.30",
+        "Ezek.27.6",
+        "Gen.10.4",
+        "Isa.23.1",
+        "Isa.23.12",
+        "Jer.2.10",
+        "Num.24.24"
+      ]
+    },
+    {
+      "name": "Rome [roman-state]",
+      "books_searched": 66,
+      "hits": [
+        "2Tim.1.17",
+        "Acts.2.10",
+        "Acts.18.2",
+        "Acts.19.21",
+        "Acts.23.11",
+        "Acts.28.14",
+        "Acts.28.16",
+        "Rom.1.7",
+        "Rom.1.15"
+      ]
+    },
+    {
+      "name": "Romans(s) [roman-state]",
+      "books_searched": 66,
+      "hits": [
+        "Acts.16.12",
+        "Acts.16.21",
+        "Acts.16.37",
+        "Acts.16.38",
+        "Acts.22.25",
+        "Acts.22.26",
+        "Acts.22.27",
+        "Acts.22.28",
+        "Acts.22.29",
+        "Acts.23.27",
+        "Acts.25.16",
+        "Acts.28.17",
+        "John.11.48",
+        "John.19.39"
+      ]
+    }
+  ],
   "relationships": [],
   "entity_resolutions": [],
   "new_constraints": []

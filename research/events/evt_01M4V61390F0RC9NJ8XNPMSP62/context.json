@@ -1,0 +1,107 @@
+{
+  "event_id": "evt_01M4V61390F0RC9NJ8XNPMSP62",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The book names no author in a heading. Chapters 1–6 tell of Daniel and his companions in the third person; chapters 7–12 report Daniel's visions largely in the first person; 7:1 says he wrote the dream down, and 8:26 and 12:4, 9 speak of sealing the vision or book until the time of the end. 2:4b–7:28 is in Aramaic, the rest in Hebrew.",
+    "passage": "Dan.7.1"
+  },
+  "setting": {
+    "period": "Narrative setting 605–536 BC; proposed composition dates range from the late sixth century to c. 164 BC",
+    "body": "The question was already argued in antiquity: Porphyry (3rd century AD) held the book was written under Antiochus Epiphanes and narrated past events, and Eusebius, Apollinaris and Methodius replied (Jerome). Modern critical scholarship (Driver; Montgomery) dates the final composition, at least of chs. 7–12, to 168–164 BC; conservative scholarship (Wilson; Pusey, Hengstenberg and others not read here) defends composition by Daniel in the sixth century. A Qumran copy, 4QDanᶜ (4Q114), has a radiocarbon range of 230–160 BCE (Popović et al. 2025).",
+    "citations": [
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "src_01M4TSKK81W6HP2HFZ7744DHRG",
+      "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+      "src_01M4V612H65VZ3MZ0JQCE3FZT5",
+      "src_01M4V612H4WMYWSAQEPE8V8WTT"
+    ]
+  },
+  "rulers": [],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+  ],
+  "constraints": [],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [
+    {
+      "term": "pseudonymity",
+      "gloss": "Attribution of a work to an earlier figure; on the critical view, the visions are written in Daniel's name in the second century.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    },
+    {
+      "term": "vaticinium ex eventu",
+      "gloss": "\"Prophecy after the event\" — the critical description of the historical survey of ch. 11 up to 11:39.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Sixth century BC, by Daniel (traditional)",
+      "proponents": [
+        "R. D. Wilson (1917): a date \"say 535 B.C.\" remains tenable",
+        "Jerome (against Porphyry)",
+        "D. Guzik (quoting Baldwin)",
+        "K. A. Kitchen (1965), T. C. Mitchell & R. Joyce (1965): the language does not exclude an early date"
+      ],
+      "summary": "Scholarly arguments: the linguistic evidence cannot decide the date (Kitchen; Mitchell & Joyce); alleged historical errors rest on silence and on mistaken assumptions about regnal reckoning (Wilson); Babylonian details such as Belshazzar's kingship fit a writer close to events (Wilson); Josephus reports the book shown to Alexander (Ant. 11.8.5); the radiocarbon range of 4Q114 begins before the Maccabean crisis. Theological commitments (stated separately): Jesus calls Daniel a prophet (Matt 24:15; Mark 13:14); predictive prophecy is possible; Baldwin (via Guzik) argues that a late date would make the visions fiction.",
+      "citations": [
+        "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+        "src_01M4V612H65VZ3MZ0JQCE3FZT5",
+        "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+        "src_01M4V66VT6MGRSHTTHGDBDG2HE",
+        "src_01M4V66VT95XT35Z03MCCTEWSJ"
+      ]
+    },
+    {
+      "label": "Final composition c. 167–164 BC (critical)",
+      "proponents": [
+        "Porphyry (per Jerome)",
+        "S. R. Driver (1900)",
+        "J. A. Montgomery (1927, for chs. 7–12)"
+      ],
+      "summary": "Scholarly arguments: Greek instrument names (3:5) and Persian loanwords; the book stands among the Writings, not the Prophets; Ben Sira (c. 200 BC) omits Daniel; detailed accuracy in ch. 11 to the persecution of Antiochus, then divergence at 11:40–45; developed angelology and resurrection; historical difficulties (Dan 1:1, Belshazzar as king, Darius the Mede). Theological stance (stated separately): Driver held that a late date does not deny the book's religious value.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG",
+        "src_01M4V612H65VZ3MZ0JQCE3FZT5"
+      ]
+    },
+    {
+      "label": "Two stages: tales of chs. 1–6 in the 3rd century (Babylonia); visions of chs. 7–12 in 168–165 BC",
+      "proponents": [
+        "J. A. Montgomery (1927)"
+      ],
+      "summary": "The stories are pre-Maccabean, compiled from Jewish and Babylonian traditions after the Diadochi; the four visions were written seriatim in the first years of the Maccabean revolt. Montgomery notes he broke with the view that the whole book is Maccabean.",
+      "citations": [
+        "src_01M4TSKK81W6HP2HFZ7744DHRG"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+      "layer": "interpretation",
+      "paraphrase": "Guzik describes the critical view of ch. 11 as history written after the fact and quotes Baldwin that on that view the vision of ch. 10 would also be fiction.",
+      "url": "https://enduringword.com/bible-commentary/daniel-11/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Wilson's promised philological volume and Pusey (1864) not read.",
+    "The relation of Ezekiel's \"Daniel\" (Ezek 14:14; 28:3) to the book's hero (review open)."
+  ],
+  "not_applicable": {
+    "rulers": "Not a royal event.",
+    "locations": "Place of composition is itself disputed (Babylonia or Judaea)."
+  }
+}

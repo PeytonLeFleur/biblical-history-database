@@ -635,18 +635,16 @@ Antiochus IV invaded Egypt in 170/169 and again in 168. Near Alexandria, at Eleu
 
 **Classification:** Strongly supported (machine proposed) · layer: evidence
 
-Polybius, a contemporary, gives the account; Jerome's version agrees in substance. Jerome calls the envoy "Marcus", Polybius's editors and Driver "Gaius".
+Polybius (a contemporary) and Livy (read directly; Livy draws on Polybius for eastern affairs, so the two are not fully independent) agree on the circle and the withdrawal; Jerome's version agrees in substance. Jerome calls the envoy "Marcus"; Driver gives "C. Popillius"; Livy here names only "Popilius" (several Popilii appear in books 44–45).
 
 - *Supporting (direct):* Popilius drew a circle round Antiochus; after brief hesitation he said he would do all the Romans demanded. (29.27.5–6) [1]
 - *Supporting (indirect):* Laenas drew a circle in the sand around Antiochus, who withdrew. (on 11:29–30) [3]
+- *Supporting (direct):* The Roman envoys met Antiochus at Eleusine, four miles from Alexandria; Popilius drew a line round him with a wand; he replied he would do as the senate directed. (Livy 45.12) [4]
 - *Context (indirect):* Eleusis, four miles from Alexandria; Livy 45.12. (p. 181) [2]
-
-## Unanswered questions and research gaps
-
-- Livy 45.12 not read directly.
 
 ## Sources
 
 1. Polybius, Paton, W. R. (trans.). Polybius, Histories 29.27 (Loeb VI, 1927) — LacusCurtius. LacusCurtius (Bill Thayer). <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/29*.html> — *ancient primary text; verification: claim checked*
 2. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
 3. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
+4. Livy, McDevitte, William A. (trans.). Livy, History of Rome 37.38–44 and 45.12 (trans. W. A. McDevitte). Project Gutenberg #44318. <https://www.gutenberg.org/ebooks/44318> — *ancient primary text; verification: claim checked*

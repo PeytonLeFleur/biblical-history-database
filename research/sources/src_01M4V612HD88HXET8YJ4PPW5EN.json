@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V612HD88HXET8YJ4PPW5EN",
+  "title": "World English Bible — Apocrypha/Deuterocanon (2 Maccabees 3, 6, 7, 9–11)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 2 Macc 3, 6, 7, 9–11",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read in the downloaded USFM (53-2MAeng-web.usfm)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "3:7–28 Heliodorus sent by King Seleucus for the Temple treasury; 6:2 the sanctuary renamed for Olympian Zeus; 7:9, 14 martyrs' hope of being \"raised up\"; 9:1–29 Antiochus retreats from Persepolis and dies in the mountains; 10:1–8 the Temple recovered and cleansed on 25 Chislev, sacrifices \"after they had ceased for two years\"; 11:21, 33, 38 letters dated year 148; 11:23 Antiochus V: \"our father passed to the gods\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

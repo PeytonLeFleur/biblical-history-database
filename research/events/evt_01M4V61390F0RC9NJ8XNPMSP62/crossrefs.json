@@ -1,0 +1,117 @@
+{
+  "event_id": "evt_01M4V61390F0RC9NJ8XNPMSP62",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Daniel [daniel-prophet]",
+      "books_searched": 66,
+      "hits": [
+        "Ezek.14.14",
+        "Ezek.14.20",
+        "Ezek.28.3",
+        "Matt.24.15"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V6139S6ZZ06V8W738EQC2E",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V61390F0RC9NJ8XNPMSP62"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.24.15"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jesus refers to \"Daniel the prophet\" — cited by traditional interpreters as a theological argument for authorship.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V6139SZQBN54PYJ391PNTE",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V61390F0RC9NJ8XNPMSP62"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Mark.13.14"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Mark's parallel: \"spoken of by Daniel the prophet\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V6139TYVPGRCJ4Y12XC9RC",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V61390F0RC9NJ8XNPMSP62"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"He wrote the dream\" (7:1); the Dan 7 claim about writing in Belshazzar's first year depends on the dating question.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V6139TCKHDB2R46AS1Y8M7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.14.20"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Second mention of Noah, Daniel and Job (name search); the identity question is under review on the Dan 1 event.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": []
+}

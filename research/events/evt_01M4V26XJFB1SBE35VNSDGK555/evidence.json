@@ -62,10 +62,13 @@
       "supporting_evidence": [
         "evd_01M4V26XMTSTXA5C177C9RWFC3",
         "evd_01M4V26XMT8H4A5ARZSVRJ27JK",
-        "evd_01M4V26XMT3E7CKXCFEFVC1YRX"
+        "evd_01M4V26XMT3E7CKXCFEFVC1YRX",
+        "evd_01M4V61388N36TM37W3CW19DEW"
       ],
       "counterevidence": [],
-      "contextual_evidence": [],
+      "contextual_evidence": [
+        "evd_01M4V61388RJTBQKJ5N6AY65FZ"
+      ],
       "limitations": [],
       "reviewer_status": "machine_proposed",
       "review_required": false,
@@ -87,6 +90,31 @@
       ],
       "contextual_evidence": [],
       "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V61386PBYD6NG8BSXDK40C",
+      "statement": "Antiochus IV died before the Temple was rededicated.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "disputed",
+      "reasoning": "2 Maccabees narrates his death (ch. 9) before the cleansing (10:1–8) and closes the section \"such were the events of the end of Antiochus\" (10:9); its letters of year 148 include one in which Antiochus V speaks of his father as dead (11:23). 1 Maccabees (6:1–16) and Josephus (Ant. 12.9.1) have him die in Persia after hearing that the Jews had pulled down the abomination. The Babylonian king list reports news of his death in Kislimu 148 SE (Babylonian reckoning) — the same month-name as the rededication (25 Chislev 148): if 1 Maccabees used the spring (Babylonian) epoch the two events fall within weeks of each other (Dec 164); on the autumn epoch the rededication (Dec 165) precedes the death by a year. 2 Maccabees' arrangement is often thought thematic, but that was not verified here. Unresolved.",
+      "supporting_evidence": [
+        "evd_01M4V61386CB8HYJ3GADWCN30R"
+      ],
+      "counterevidence": [
+        "evd_01M4V61386KSQMQN7VYBTFT7VH",
+        "evd_01M4V61386WYG4BZH43XFHG56W"
+      ],
+      "contextual_evidence": [
+        "evd_01M4V61386391CP43JNH8X5KBS"
+      ],
+      "limitations": [
+        "Depends on the unresolved Seleucid-era epoch of 1 Maccabees.",
+        "Modern studies of 2 Macc 11's letters not read."
+      ],
       "reviewer_status": "requires_review",
       "review_required": true,
       "research_date": "2026-10-13"
@@ -188,13 +216,109 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "polybius"
+    },
+    {
+      "id": "evd_01M4V61386CB8HYJ3GADWCN30R",
+      "claim_ids": [
+        "clm_01M4V61386PBYD6NG8BSXDK40C"
+      ],
+      "source_id": "src_01M4V612HD88HXET8YJ4PPW5EN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Death narrated before the cleansing; Antiochus V's letter refers to his father having passed to the gods.",
+      "locator": "2 Macc 9:1–29; 10:1–9; 11:23",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "2-maccabees"
+    },
+    {
+      "id": "evd_01M4V61386KSQMQN7VYBTFT7VH",
+      "claim_ids": [
+        "clm_01M4V61386PBYD6NG8BSXDK40C"
+      ],
+      "source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "In Persia he hears that the Jews had pulled down the abomination, falls sick and dies.",
+      "locator": "1 Macc 6:5–16",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-maccabees"
+    },
+    {
+      "id": "evd_01M4V61386WYG4BZH43XFHG56W",
+      "claim_ids": [
+        "clm_01M4V61386PBYD6NG8BSXDK40C"
+      ],
+      "source_id": "src_01M4V612HJRE5TTM7C48FCSNDW",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "He dies in Persia after hearing of the Jews' success.",
+      "locator": "Ant. 12.9.1",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4V61386391CP43JNH8X5KBS",
+      "claim_ids": [
+        "clm_01M4V61386PBYD6NG8BSXDK40C"
+      ],
+      "source_id": "src_01M4V26XGJKSDPV1SX90XVZV14",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "News of the death heard in Kislimu 148 SE (Babylonian reckoning).",
+      "locator": "rev., year 148 Kislimu",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-king-list"
+    },
+    {
+      "id": "evd_01M4V61388RJTBQKJ5N6AY65FZ",
+      "claim_ids": [
+        "clm_01M4V26XMTV1F5HH90S5YVYW24"
+      ],
+      "source_id": "src_01M4V612HD88HXET8YJ4PPW5EN",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Places the failed temple robbery at Persepolis and the illness on the road from Ecbatana; he dies \"in the mountains\".",
+      "locator": "2 Macc 9:1–3, 28",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "2-maccabees"
+    },
+    {
+      "id": "evd_01M4V61388N36TM37W3CW19DEW",
+      "claim_ids": [
+        "clm_01M4V26XMTV1F5HH90S5YVYW24"
+      ],
+      "source_id": "src_01M4V612HJRE5TTM7C48FCSNDW",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Death in Persia; Josephus reports Polybius's explanation (the temple of Diana) and disputes it.",
+      "locator": "Ant. 12.9.1",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
   "research_gaps": [
-    "2 Maccabees 9 not read.",
-    "Appian Syr. 66 (death of Antiochus) not read."
+    "Appian Syr. 66 (death of Antiochus) not read.",
+    "Modern studies of the 2 Maccabees letters not read."
   ]
 }

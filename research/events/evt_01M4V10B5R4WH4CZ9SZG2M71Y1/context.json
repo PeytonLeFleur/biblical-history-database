@@ -87,15 +87,27 @@
     {
       "label": "Spring 444 BC (Tishri reckoning)",
       "proponents": [
-        "Operator inference from Neh 1:1 – 2:1"
+        "Autumn new-year solution, one of three listed by Noss & Thomas (UBS Handbook, 2005)"
       ],
-      "summary": "Neh 1:1 has Chislev of year 20 before Nisan of year 20, consistent with a year beginning in the autumn; Nisan would then be in 444. Modern discussions were not read.",
-      "citations": []
+      "summary": "Neh 1:1 (Chislev, year 20) precedes 2:1 (Nisan, year 20); counting years from an autumn new year makes this consistent and puts the Nisan in 444.",
+      "citations": [
+        "src_01M4V612HSMXZXVN8ZVTYTFH7W"
+      ]
+    },
+    {
+      "label": "Emend Neh 1:1 to \"the nineteenth year\", or count from the accession day",
+      "proponents": [
+        "Commentators listed by Noss & Thomas (2005)"
+      ],
+      "summary": "Either a textual emendation or a count of regnal years from the king's accession anniversary rather than a calendar new year. Noss & Thomas advise translating the text as it stands.",
+      "citations": [
+        "src_01M4V612HSMXZXVN8ZVTYTFH7W"
+      ]
     }
   ],
   "commentary": [],
   "open_questions": [
-    "Read a modern study of Nehemiah's regnal reckoning (Elephantine papyri)."
+    "Horn & Wood (1954) on the Elephantine double dates and Judean regnal reckoning not accessible."
   ],
   "not_applicable": {
     "commentary": "Enduring Word on Ezra/Nehemiah was not consulted in this Daniel session; Guzik's dates are recorded on the seventy-weeks prophecy."

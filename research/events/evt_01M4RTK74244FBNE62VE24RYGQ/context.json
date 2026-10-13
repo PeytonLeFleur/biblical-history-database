@@ -77,7 +77,15 @@
       ]
     }
   ],
-  "commentary": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4RTK73D2VJASPVYEK3MFDFJ",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes how unusual it was for the king to honour a foreign captive so, reads the homage as confirming that Daniel had told the dream truly, stresses that the king credited Daniel's God, and sees the friends' promotion as fitting because they had shared in the prayer.",
+      "url": "https://enduringword.com/bible-commentary/daniel-2/",
+      "accessed": "2026-10-13"
+    }
+  ],
   "open_questions": [],
   "not_applicable": {}
 }

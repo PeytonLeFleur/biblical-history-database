@@ -30,6 +30,7 @@
   "is_fixture": false,
   "revision": 1,
   "citations": [
+   "src_01M4V6J8Z4ZEGSXY7GZQVEVTK4",
    "src_01M4RSRHKN0V607MATVNE8J925"
   ],
   "notes": null,
@@ -54,6 +55,7 @@
   "is_fixture": false,
   "revision": 1,
   "citations": [
+   "src_01M4V6J8YWT2RHB66F1AJWPJAK",
    "src_01M4RV9NQJFHHHV4S9K9WRY17E"
   ],
   "notes": null,
@@ -168,7 +170,12 @@
   "slug": "abc-5",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKETFKGA2ZZE6XATJKW",
+   "src_01M4RSRHKEXBD2ZM537158C42W",
+   "src_01M4RSRHKF2D9HDCYYF0HCQPW5"
+  ],
   "notes": null,
   "name": "Babylonian Chronicle ABC 5 (Jerusalem Chronicle)",
   "document_type": "Chronicle",
@@ -192,7 +199,10 @@
   "slug": "abc-3",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+   "src_01M4RSRHKETFKGA2ZZE6XATJKW"
+  ],
   "notes": null,
   "name": "Babylonian Chronicle ABC 3 (Fall of Nineveh Chronicle)",
   "document_type": "Chronicle",
@@ -215,7 +225,9 @@
   "slug": "berossus-babyloniaca",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKGZKPHPEASER435NC6"
+  ],
   "notes": null,
   "name": "Berossus, Babyloniaca (fragments)",
   "document_type": "Historiography (fragmentary; preserved in later authors)",
@@ -237,7 +249,9 @@
   "slug": "prayer-of-azariah-song-of-three",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RV0PCCQV0F75BG0BYTEFYJ"
+  ],
   "notes": null,
   "name": "Prayer of Azariah and Song of the Three Young Men (Greek additions to Daniel 3)",
   "document_type": "Deuterocanonical addition (non-canonical in the Protestant canon)",
@@ -259,7 +273,10 @@
   "slug": "prayer-of-nabonidus-4q242",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V6J8Z05GZD06N61MV18FV3",
+   "src_01M4RV9NQEX541YPGG8RK52KR0"
+  ],
   "notes": null,
   "name": "Prayer of Nabonidus (4Q242)",
   "document_type": "Dead Sea Scroll (Aramaic narrative/prayer)",
@@ -281,7 +298,11 @@
   "slug": "abc-7-nabonidus-chronicle",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+  ],
   "notes": null,
   "name": "Babylonian Chronicle ABC 7 (Nabonidus Chronicle)",
   "document_type": "Chronicle",
@@ -303,7 +324,9 @@
   "slug": "cyrus-cylinder-text",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+  ],
   "notes": null,
   "name": "Cyrus Cylinder (text)",
   "document_type": "Royal building inscription",
@@ -325,7 +348,10 @@
   "slug": "nabonidus-cylinder-from-ur",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+   "src_01M4TPW4AXDY6KJMV1CBN03N7N"
+  ],
   "notes": null,
   "name": "Nabonidus Cylinder from Ur",
   "document_type": "Royal building inscription (ziggurat foundation text)",
@@ -348,7 +374,9 @@
   "slug": "verse-account-of-nabonidus",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TPW4ASF7ABS0ZRPC5YKVK7"
+  ],
   "notes": null,
   "name": "Verse Account of Nabonidus",
   "document_type": "Polemical poem (Persian-period, pro-Cyrus)",
@@ -370,7 +398,9 @@
   "slug": "behistun-inscription",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TQMMKQ9D4HAXB8GJPVY0A0"
+  ],
   "notes": null,
   "name": "Behistun inscription of Darius I",
   "document_type": "Royal rock inscription (trilingual: Old Persian, Elamite, Babylonian)",
@@ -392,7 +422,9 @@
   "slug": "1-enoch-parables",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+  ],
   "notes": null,
   "name": "1 Enoch, Book of Parables (Similitudes), chs. 37–71",
   "document_type": "Jewish apocalyptic text",
@@ -438,7 +470,16 @@
   "slug": "judah",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RPJVYDW55BD6H47AFG78AA",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7",
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+   "src_01M4RSRHKMX8FXN8V23422QTP8",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4V10B58H26PE3KJR06XESP7",
+   "src_01M4TPW4ATXEMZWCPMW6YP9H10"
+  ],
   "notes": null,
   "name": "Kingdom of Judah",
   "description": "Southern Israelite kingdom with its capital at Jerusalem."
@@ -449,7 +490,10 @@
   "slug": "israel-northern-kingdom",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RPJVYDW55BD6H47AFG78AA",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
   "notes": null,
   "name": "Kingdom of Israel (Northern Kingdom)",
   "description": "Northern Israelite kingdom with its capital at Samaria."
@@ -473,7 +517,11 @@
   "slug": "egypt-saite",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
   "notes": null,
   "name": "Egypt (Twenty-sixth Dynasty)",
   "description": "Saite dynasty of Egypt, including Necho II."
@@ -484,7 +532,16 @@
   "slug": "achaemenid-persian-empire",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4TPW4AY6AQG3ZA8NDG70BFB",
+   "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+   "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+   "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+   "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+   "src_01M4TQMMKZDH4RWTD6VQTHTX83"
+  ],
   "notes": null,
   "name": "Achaemenid Persian Empire",
   "description": "Persian empire founded by Cyrus II."
@@ -565,7 +622,16 @@
   "slug": "jerusalem",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RPJVYEGKYKHP0C2HN0GY9M",
+   "src_01M4RPJVYDW55BD6H47AFG78AA",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7",
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+   "src_01M4RSRHKMX8FXN8V23422QTP8",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4V10B58H26PE3KJR06XESP7"
+  ],
   "notes": null,
   "primary_name": "Jerusalem",
   "place_type": "settlement",
@@ -594,7 +660,11 @@
   "slug": "gezer",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RPJVYFQR5C9FRY6HYP9NQP",
+   "src_01M4RPJVYDW55BD6H47AFG78AA",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
   "notes": null,
   "primary_name": "Gezer",
   "place_type": "settlement",
@@ -623,7 +693,11 @@
   "slug": "gath",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RPJVYFQMR2RX3KCY0ZB20B",
+   "src_01M4RPJVYDW55BD6H47AFG78AA",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
   "notes": null,
   "primary_name": "Gath",
   "place_type": "settlement",
@@ -652,7 +726,11 @@
   "slug": "hazor",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RPJVYE0DPQMCWC3CPK4BHB",
+   "src_01M4RPJVYDW55BD6H47AFG78AA",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
   "notes": null,
   "primary_name": "Hazor",
   "place_type": "settlement",
@@ -681,7 +759,16 @@
   "slug": "babylon",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKSNX6HS6J0FDKPETW8",
+   "src_01M4RSRHKN0V607MATVNE8J925",
+   "src_01M4RSRHKPDX1NK68B6VM1ZNEE",
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+   "src_01M4RSRHKMX8FXN8V23422QTP8",
+   "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+   "src_01M4RTK73MY7ZP1T97R06C13XY"
+  ],
   "notes": null,
   "primary_name": "Babylon",
   "place_type": "settlement",
@@ -710,7 +797,12 @@
   "slug": "carchemish",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKTT91J3AHDT40HYRTX",
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
   "notes": null,
   "primary_name": "Carchemish",
   "place_type": "settlement",
@@ -739,7 +831,11 @@
   "slug": "shinar",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+   "src_01M4RSRHKMX8FXN8V23422QTP8"
+  ],
   "notes": null,
   "primary_name": "Shinar",
   "place_type": "region",
@@ -816,7 +912,16 @@
   "slug": "tayma",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RV9NQP9N299ANT0FNV18MD",
+   "src_01M4RV9NQJFHHHV4S9K9WRY17E",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN",
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4RV9NQEX541YPGG8RK52KR0",
+   "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+   "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+   "src_01M4TPW4B5HK2YRXXSPZDQA5X3"
+  ],
   "notes": null,
   "primary_name": "Tayma",
   "place_type": "oasis",
@@ -896,11 +1001,12 @@
   "id": "loc_01M4TTS0HJGY825103AG016ZWM",
   "slug": "ulai-river",
   "is_fixture": false,
-  "revision": 2,
+  "revision": 3,
   "citations": [
    "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
-   "src_01M4V1HGTXESMP3F4ZB46SXAQY"
+   "src_01M4V1HGTXESMP3F4ZB46SXAQY",
+   "src_01M4V612HWTQEVMFANE0915BMY"
   ],
   "notes": null,
   "primary_name": "Ulai (Eulaeus)",
@@ -932,7 +1038,7 @@
     "confidence": "possible",
     "geom_source_id": "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
     "proponents": [],
-    "reasoning": "Pleiades marks the identification with a question mark; the point lies far upstream of Susa, whereas Daniel places the Ulai at Susa. The stream or canal at Susa is not precisely located in the sources read."
+    "reasoning": "Pleiades marks the identification with a question mark; the point lies far upstream of Susa, whereas Daniel places the Ulai at Susa. The stream or canal at Susa is not precisely located in the sources read. The Saimarreh is the upper course of the Karkheh system, so this point and the Karkheh point refer to the same river system at different places."
    },
    {
     "id": "lhy_01M4V1HGV4A9FCJM49WVMXN0VS",
@@ -940,10 +1046,10 @@
     "lat": 32.715031646573316,
     "lon": 47.80347713752152,
     "coordinate_precision": "region",
-    "confidence": "possible",
+    "confidence": "probable",
     "geom_source_id": "src_01M4V1HGTXESMP3F4ZB46SXAQY",
     "proponents": [],
-    "reasoning": "A second Pleiades record also equates a river with the Eulaeus/Ulaya, again with a question mark; its representative point lies on the Karkheh west of Susa, nearer Daniel's \"Ulai\" at Susa than the Saimarreh candidate. Neither identification is confirmed by the sources read."
+    "reasoning": "Pleiades equates the Karkheh with the Eulaeus/Ulaya (with a \"?\"), and its point lies near Susa, where Daniel places the Ulai; T. G. Pinches (ISBE) judged \"there is but little doubt\" that the Ulai is the Kerkhah and notes the Assyrian Ulaia in Ashurbanipal's reliefs. Caveats: the river beds near Susa have shifted, and other candidates (the Shaur channel east of Susa, a canal, or the Karun/Coprates) are proposed in reference works not read in full. Kept below \"certain\"."
    }
   ],
   "description": "River or canal at Susa where Daniel saw himself in the vision (8:2, 16). Exact course uncertain."
@@ -1018,7 +1124,10 @@
   "slug": "jeroboam-ii",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RPJVYDZB8T1TD4H484X3E7",
+   "src_01M4RPJVYDW55BD6H47AFG78AA"
+  ],
   "notes": null,
   "canonical_name": "Jeroboam II",
   "aliases": [
@@ -1038,7 +1147,10 @@
   "slug": "uzziah",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RPJVYDW55BD6H47AFG78AA",
+   "src_01M4RPJVYDZB8T1TD4H484X3E7"
+  ],
   "notes": null,
   "canonical_name": "Uzziah",
   "aliases": [
@@ -1142,7 +1254,9 @@
   "slug": "daniel-prophet",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKPDX1NK68B6VM1ZNEE"
+  ],
   "notes": null,
   "canonical_name": "Daniel",
   "aliases": [
@@ -1162,7 +1276,11 @@
   "slug": "necho-ii",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RSRHKBVDVE6GRP5T5EM3GW",
+   "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+   "src_01M4RSRHKKMQ6MQG3T34QVGMCN"
+  ],
   "notes": null,
   "canonical_name": "Necho II",
   "aliases": [
@@ -1182,7 +1300,11 @@
   "slug": "mishael-meshach",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+   "src_01M4RV0PC11MM6RMB1HSZQEFYW"
+  ],
   "notes": null,
   "canonical_name": "Mishael (Meshach)",
   "aliases": [
@@ -1208,7 +1330,11 @@
   "slug": "hananiah-shadrach",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+   "src_01M4RV0PC11MM6RMB1HSZQEFYW"
+  ],
   "notes": null,
   "canonical_name": "Hananiah (Shadrach)",
   "aliases": [
@@ -1234,7 +1360,11 @@
   "slug": "azariah-abednego",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4RSRHKRA5C6V2KYQKDNK9ZD",
+   "src_01M4RV0PC11MM6RMB1HSZQEFYW"
+  ],
   "notes": null,
   "canonical_name": "Azariah (Abednego)",
   "aliases": [
@@ -1254,7 +1384,10 @@
   "slug": "ashpenaz",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4RSRHKRA5C6V2KYQKDNK9ZD"
+  ],
   "notes": null,
   "canonical_name": "Ashpenaz",
   "aliases": [],
@@ -1267,7 +1400,16 @@
   "slug": "cyrus-ii",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4TPW4AY6AQG3ZA8NDG70BFB",
+   "src_01M4TQMMKWN7N51NSGCZSG9VQ3",
+   "src_01M4TQMMKS7CTR3NT9GWHMYQ0M",
+   "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+   "src_01M4TQMMM23GMDX16EMJEGD3RJ"
+  ],
   "notes": null,
   "canonical_name": "Cyrus II (the Great)",
   "aliases": [
@@ -1287,7 +1429,10 @@
   "slug": "arioch-captain-of-the-guard",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4RTK73D2VJASPVYEK3MFDFJ"
+  ],
   "notes": null,
   "canonical_name": "Arioch (captain of the guard)",
   "aliases": [
@@ -1557,12 +1702,13 @@
   "citations": [
    "src_01M4V10B5ARS1VB0TJSYPGYT09",
    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
-   "src_01M4TSKK81W6HP2HFZ7744DHRG"
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4V612HGJCFWB5SBV98K3KN4"
   ],
   "notes": null,
   "canonical_name": "Onias III",
   "aliases": [],
-  "description": "High priest at Jerusalem, supplanted by his brother Jason under Antiochus IV (2 Macc 4:7) and, according to 2 Maccabees, killed near Antioch at Menelaus's instigation (4:33–35), c. 171 BC (Driver, after Schürer). Josephus gives a different account of his end.",
+  "description": "High priest at Jerusalem, supplanted by his brother Jason under Antiochus IV (2 Macc 4:7). 2 Maccabees has him killed near Antioch at Menelaus's instigation (4:33–35), c. 171 BC (Driver, after Schürer); Josephus's Jewish War (1.1.1) instead has \"Onias the high priest\" flee to Ptolemy and found the Heliopolis temple. Disputed (review open).",
   "kingdom_id": null
  },
  {
@@ -1799,12 +1945,13 @@
   "revision": 1,
   "citations": [
    "src_01M4V26XGDYMER5DXT6N1DD3YC",
-   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V612HD88HXET8YJ4PPW5EN"
   ],
   "notes": null,
   "canonical_name": "Heliodorus",
   "aliases": [],
-  "description": "Chief minister of Seleucus IV, who led the conspiracy in which the king was killed (Appian, Syr. 45); 2 Maccabees 3 tells of his attempt on the Temple treasury (not read).",
+  "description": "Chancellor of Seleucus IV, sent for the Temple treasury in Jerusalem (2 Macc 3:7–28, with a miraculous repulse) and leader of the conspiracy in which the king was killed (Appian, Syr. 45).",
   "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
  },
  {
@@ -1893,7 +2040,13 @@
   "slug": "four-kingdoms-and-the-stone-dan-2",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RTK73GNE4PSPJM6Q73JH9M",
+   "src_01M4RTK73J9V0R4YX9KBZ0SBXZ",
+   "src_01M4RTK73D2VJASPVYEK3MFDFJ",
+   "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+   "src_01M4RSRHKJWXG4RS4SNQ7KSSCB"
+  ],
   "notes": null,
   "title": "The four kingdoms and the everlasting kingdom (Dan 2:36–45)",
   "passage": "Dan.2.36-Dan.2.45",
@@ -2052,7 +2205,12 @@
   "slug": "watchers-decree-dan-4",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RV9NQA7FREZ7NZHBK6GKCJ",
+   "src_01M4RV9NQDGZSWZ65QX9YDV0T5",
+   "src_01M4RV9NQEX541YPGG8RK52KR0",
+   "src_01M4RV9NQHMK8RS0CXEFG1ZWH7"
+  ],
   "notes": null,
   "title": "The decree of the watchers against the king (Dan 4:19–27)",
   "passage": "Dan.4.19-Dan.4.27",
@@ -2113,7 +2271,10 @@
   "slug": "mene-tekel-peres-dan-5",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TPW4ANVR01F7B65HENPWZG",
+   "src_01M4TPW4B24WCAYH9QR7BGTDVP"
+  ],
   "notes": null,
   "title": "MENE, MENE, TEKEL, UPHARSIN (Dan 5:24–28)",
   "passage": "Dan.5.24-Dan.5.28",
@@ -2172,7 +2333,13 @@
   "slug": "heavenly-judgment-kingdom-of-saints-dan-7",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+   "src_01M4TSKK7T272WF8V2G6P4AYNS",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK83SFG091RT082Z4EXG",
+   "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+  ],
   "notes": null,
   "title": "The heavenly judgment and the kingdom given to the saints (Dan 7:9–12, 18, 21–22, 26–27)",
   "passage": "Dan.7.9-Dan.7.27",
@@ -2284,7 +2451,16 @@
   "slug": "son-of-man-dan-7",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+   "src_01M4TSKK7T272WF8V2G6P4AYNS",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TSKK89EZQWG9W99N1209AG",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+  ],
   "notes": null,
   "title": "One like a son of man receives an everlasting dominion (Dan 7:13–14)",
   "passage": "Dan.7.13-Dan.7.14",
@@ -2402,7 +2578,14 @@
   "slug": "little-horn-dan-7",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TSKK8EQDTEV06BW4TSYTTJ",
+   "src_01M4TSKK7T272WF8V2G6P4AYNS",
+   "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
   "notes": null,
   "title": "The ten horns and the little horn: time, times and half a time (Dan 7:8, 20–26)",
   "passage": "Dan.7.20-Dan.7.26",
@@ -2541,7 +2724,14 @@
   "slug": "four-kingdoms-dan-7",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK83SFG091RT082Z4EXG",
+   "src_01M4TSKK7T272WF8V2G6P4AYNS",
+   "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+  ],
   "notes": null,
   "title": "The four kingdoms and the kingdom of the saints (Dan 7:17–18, 23, 27)",
   "passage": "Dan.7.17-Dan.7.27",
@@ -2669,7 +2859,14 @@
   "slug": "ram-goat-four-kingdoms-dan-8",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TTS0H16R2RHYVNTR09K9TR",
+   "src_01M4TTS0GZ70JV8F7N116GGVPE",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TTS0GVB04W3QBM4C5SJ395",
+   "src_01M4TTS0H4CEAKS7ZHP91RP73B",
+   "src_01M4TTS0H6KAXR7AHRJXSV7DV6"
+  ],
   "notes": null,
   "title": "The ram, the goat and the four kingdoms (Dan 8:3–8, 20–22)",
   "passage": "Dan.8.20-Dan.8.22",
@@ -2720,7 +2917,15 @@
   "slug": "little-horn-king-of-fierce-face-dan-8",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TTS0H2RP38CMPKF6HT28VX",
+   "src_01M4TTS0GZ70JV8F7N116GGVPE",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4TTS0GVB04W3QBM4C5SJ395",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
   "notes": null,
   "title": "The little horn and the king of fierce face (Dan 8:9–12, 23–25)",
   "passage": "Dan.8.23-Dan.8.25",
@@ -2821,7 +3026,13 @@
   "slug": "two-thousand-three-hundred-evenings-mornings-dan-8",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TTS0GVB04W3QBM4C5SJ395",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TTS0GZ70JV8F7N116GGVPE",
+   "src_01M4TTS0H8BP0WSKFR1FQAZ7MF"
+  ],
   "notes": null,
   "title": "2,300 evenings and mornings until the sanctuary is cleansed (Dan 8:13–14, 26)",
   "passage": "Dan.8.13-Dan.8.14",
@@ -2915,7 +3126,12 @@
   "slug": "jeremiahs-seventy-years",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V10B52Y493F766D6YZY956",
+   "src_01M4V10B56RQ5FWV65KVJEPE6B",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
   "notes": null,
   "title": "Jeremiah's seventy years (Jer 25:11–12; 29:10; read in Dan 9:2)",
   "passage": "Jer.25.11-Jer.25.12",
@@ -3010,7 +3226,16 @@
   "slug": "seventy-weeks-dan-9",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4V10B5ARS1VB0TJSYPGYT09",
+   "src_01M4TSKK83SFG091RT082Z4EXG",
+   "src_01M4TTS0H8BP0WSKFR1FQAZ7MF",
+   "src_01M4V10B58H26PE3KJR06XESP7",
+   "src_01M4V10B52Y493F766D6YZY956",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
   "notes": null,
   "title": "The seventy weeks (Dan 9:24–27)",
   "passage": "Dan.9.24-Dan.9.27",
@@ -3129,7 +3354,7 @@
      "Sir Robert Anderson, The Coming Prince (1881)",
      "D. Guzik (also citing Walvoord and Ironside)"
     ],
-    "summary": "Textual reasoning: only Neh 2 commands the city and wall to be built; 69 weeks of 360-day \"prophetic years\" (173,880 days) run from 1 Nisan of Artaxerxes' 20th year, which Anderson fixes at 14 March 445 BC from an astronomical new moon supplied by the Astronomer Royal, to 6 April AD 32, Jesus' entry into Jerusalem; after the 69th week comes \"a gap or parenthesis\" and the 70th week is future, with the coming prince as Antichrist. Objections: Guzik himself notes AD 32 is controversial (most chronologists prefer AD 30 or 33); Driver insists the weeks run consecutively and have the same value; Parker & Dubberstein's Babylonian table puts 1 Nisan of Artaxerxes' 20th year on 13 April, not 14 March, 445 (operator comparison — the Judean calendar may have differed). Acceptance: widely held in dispensational circles (not quantified in sources read).",
+    "summary": "Textual reasoning: only Neh 2 commands the city and wall to be built; 69 weeks of 360-day \"prophetic years\" (173,880 days) run from 1 Nisan of Artaxerxes' 20th year, which Anderson fixes at 14 March 445 BC from an astronomical new moon supplied by the Astronomer Royal, to 6 April AD 32, Jesus' entry into Jerusalem; after the 69th week comes \"a gap or parenthesis\" and the 70th week is future, with the coming prince as Antichrist. Objections: Guzik himself notes AD 32 is controversial (most chronologists prefer AD 30 or 33); Driver insists the weeks run consecutively and have the same value; Parker & Dubberstein's Babylonian table puts 1 Nisan of Artaxerxes' 20th year on 13 April, not 14 March, 445 (operator comparison — the Judean calendar may have differed). Acceptance: widely held in dispensational circles (not quantified in sources read). Arithmetic (operator check): in Julian reckoning the stated dates are 173,882 days apart; Anderson's 173,880 applies a Gregorian leap-year correction to Julian dates (his own note).",
     "referents": [
      {
       "symbol": "Going out of the word",
@@ -3359,6 +3584,42 @@
      "src_01M4V10B56RQ5FWV65KVJEPE6B"
     ],
     "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V6137SM92QXS8DAKMKNEBP",
+    "label": "Symbolic weeks: from Cyrus's word to Christ, the age of the church, and the last enemy",
+    "approach": "mixed",
+    "framework": "Symbolic (non-chronological) reading; conservative Lutheran, amillennial-type (Keil after Kliefoth and Leyrer)",
+    "proponents": [
+     "C. F. Keil (1872)",
+     "Th. Kliefoth and Leyrer (as followed by Keil)",
+     "J. Baldwin (\"symbolic and not arithmetical\", as quoted by Guzik)"
+    ],
+    "summary": "Textual reasoning: šābûaʿ means \"a period of sevens\" without fixing the unit, while Daniel elsewhere uses exact measures (8:14 evenings-mornings; 12:11 days); the answer to Daniel's question about seventy years is a divine measure, not a calendar. The seven sevens run from the word to rebuild (Isa 44:28, Cyrus) to the Messiah; the sixty-two are the building of God's city in troubled times; the last seven is the final enemy's rule and judgment. Every chronological reckoning, Keil argues, does violence to the text or fails arithmetically; the times of the end are reserved to God (Acts 1:7; Mark 13:32). Objections: Guzik criticises commentators who ignore the numbers; Driver requires weeks of equal value in order; preterist and dispensational readers both treat the numbers as calendrical.",
+    "referents": [
+     {
+      "symbol": "Seven weeks",
+      "referent": "From Cyrus's word to the coming of Christ"
+     },
+     {
+      "symbol": "Sixty-two weeks",
+      "referent": "The age of the Messiah's kingdom in troubled times"
+     },
+     {
+      "symbol": "Last week",
+      "referent": "The final enemy and the consummation"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4V10B5RBQJP52A16XSXQW14"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V612H01FEGBWQMX3MG073D",
+     "src_01M4V10B52Y493F766D6YZY956",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ],
+    "reviewer_status": "machine_proposed"
    }
   ]
  },
@@ -3368,7 +3629,13 @@
   "slug": "princes-of-persia-and-greece-dan-10",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V1HGTNZRY1HTKAJS9JSQH9",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4V1HGTHCRQQEWYXYFD65NWF",
+   "src_01M4TTS0H4CEAKS7ZHP91RP73B"
+  ],
   "notes": null,
   "title": "The princes of Persia and Greece and Michael (Dan 10:13, 20–21)",
   "passage": "Dan.10.13-Dan.10.21",
@@ -3464,7 +3731,15 @@
   "slug": "king-who-exalts-himself-dan-11-36-45",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4V26XGBF1RG8YQBJ62G9798",
+   "src_01M4V26XGJKSDPV1SX90XVZV14",
+   "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+   "src_01M4TSKK83SFG091RT082Z4EXG"
+  ],
   "notes": null,
   "title": "The king who exalts himself (Dan 11:36–45)",
   "passage": "Dan.11.36-Dan.11.45",
@@ -3571,7 +3846,16 @@
   "slug": "kings-of-the-south-and-north-dan-11-5-20",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK83SFG091RT082Z4EXG",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+   "src_01M4V26XG4J1EZGM5AZCY5A43P",
+   "src_01M4V26XG6D4FYSH3WMXPMFJX6",
+   "src_01M4V26XGDYMER5DXT6N1DD3YC",
+   "src_01M4V26XGJKSDPV1SX90XVZV14"
+  ],
   "notes": null,
   "title": "The kings of the south and the north (Dan 11:5–20)",
   "passage": "Dan.11.5-Dan.11.20",
@@ -3710,7 +3994,12 @@
   "slug": "four-persian-kings-dan-11-2",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK83SFG091RT082Z4EXG",
+   "src_01M4V26XFY9D0ZSM1BX4D9YWCQ"
+  ],
   "notes": null,
   "title": "Four kings of Persia; the fourth stirs up all against Greece (Dan 11:2)",
   "passage": "Dan.11.2",
@@ -3775,7 +4064,13 @@
   "slug": "mighty-king-and-fourfold-division-dan-11-3-4",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK83SFG091RT082Z4EXG",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+   "src_01M4TTS0H4CEAKS7ZHP91RP73B"
+  ],
   "notes": null,
   "title": "A mighty king and the fourfold division of his kingdom (Dan 11:3–4)",
   "passage": "Dan.11.3-Dan.11.4",
@@ -3825,7 +4120,16 @@
   "slug": "contemptible-person-dan-11-21-35",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4V26XFY9D0ZSM1BX4D9YWCQ",
+   "src_01M4V26XG9RPBA54WT2HK3WF4J",
+   "src_01M4V26XGDYMER5DXT6N1DD3YC",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4V10B5ARS1VB0TJSYPGYT09"
+  ],
   "notes": null,
   "title": "The contemptible person (Dan 11:21–35)",
   "passage": "Dan.11.21-Dan.11.35",
@@ -3970,7 +4274,13 @@
   "slug": "michael-time-of-trouble-resurrection-dan-12-1-3",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+   "src_01M4V2NXVXA93J01GRHC1AQBXW",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+  ],
   "notes": null,
   "title": "Michael, the time of trouble and the resurrection (Dan 12:1–3)",
   "passage": "Dan.12.1-Dan.12.3",
@@ -4016,7 +4326,7 @@
      "S. R. Driver (1900)",
      "J. A. Montgomery (1927)"
     ],
-    "summary": "Textual reasoning: the first Old Testament passage to teach a resurrection of the wicked as well as the righteous and differing destinies (cf. Isa 26:19, limited to Israel); \"many\" = those who had conspicuously helped or hindered God's kingdom under Antiochus. Driver: the writer expected the kingdom to follow the tyrant's fall, which it did not — like earlier prophets whose ideal hopes were not realised at once. Later developments: 1 Enoch, 2 Macc 7, the Targums. No historical fulfilment is claimed.",
+    "summary": "Textual reasoning: the first Old Testament passage to teach a resurrection of the wicked as well as the righteous and differing destinies (cf. Isa 26:19, limited to Israel); \"many\" = those who had conspicuously helped or hindered God's kingdom under Antiochus. Driver: the writer expected the kingdom to follow the tyrant's fall, which it did not — like earlier prophets whose ideal hopes were not realised at once. Later developments: 1 Enoch, 2 Macc 7, the Targums. No historical fulfilment is claimed. The same hope appears in the martyr narrative of 2 Macc 7 (\"the King of the world will raise us … up\", 7:9; cf. 7:14).",
     "referents": [
      {
       "symbol": "Many",
@@ -4028,7 +4338,8 @@
     "citations": [
      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
      "src_01M4TSKK81W6HP2HFZ7744DHRG",
-     "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+     "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+     "src_01M4V612HD88HXET8YJ4PPW5EN"
     ],
     "reviewer_status": "machine_proposed"
    },
@@ -4065,7 +4376,15 @@
   "slug": "time-times-half-1290-1335-days-dan-12",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+   "src_01M4TTS0H2RP38CMPKF6HT28VX",
+   "src_01M4V2NXVXA93J01GRHC1AQBXW",
+   "src_01M4TTS0H8BP0WSKFR1FQAZ7MF"
+  ],
   "notes": null,
   "title": "A time, times and a half; 1,290 and 1,335 days (Dan 12:7, 11–12)",
   "passage": "Dan.12.7-Dan.12.12",
@@ -4197,6 +4516,30 @@
      "src_01M4TTS0H8BP0WSKFR1FQAZ7MF"
     ],
     "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4V6137YX1M5KVMEXD47HBBH",
+    "label": "Symbolic numbers: a God-measured period of the affliction under Antiochus, not reckonable",
+    "approach": "mixed",
+    "framework": "Symbolic reading (Keil)",
+    "proponents": [
+     "C. F. Keil (1872)"
+    ],
+    "summary": "The 1,290 days denote in general the sorest affliction of Israel by Antiochus — a moderate period exactly measured by God — and the extra 45 days a short further time until the oppression wholly ceases; neither number can be reckoned chronologically (both slightly exceed 3½ years of 360 days). Keil objects to the Antiochus-death reading: 2,300 evening-mornings are whole days, and no event 45 days after Antiochus's death began a better time — the war continued under Antiochus V (1 Macc 6:18–54) and the victory over Nicanor came two years later (1 Macc 7:26–50). Objection: Driver and Montgomery treat the numbers as calendar days (or glosses).",
+    "referents": [
+     {
+      "symbol": "1,290 days",
+      "referent": "The God-measured time of affliction under Antiochus"
+     }
+    ],
+    "linked_events": [
+     "evt_01M4V26XJFNDVRK064BRXG17HH"
+    ],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4V612H01FEGBWQMX3MG073D"
+    ],
+    "reviewer_status": "machine_proposed"
    }
   ]
  },
@@ -4206,7 +4549,10 @@
   "slug": "seal-the-book-dan-12-4",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V2NXW12Q6HGNW1RG5B2FJV",
+   "src_01M4V2NXVXA93J01GRHC1AQBXW"
+  ],
   "notes": null,
   "title": "Seal the book until the time of the end (Dan 12:4, 9)",
   "passage": "Dan.12.4",
@@ -5502,7 +5848,13 @@
   "slug": "nebuchadnezzars-statue-dream",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RTK73GNE4PSPJM6Q73JH9M",
+   "src_01M4RTK73J9V0R4YX9KBZ0SBXZ",
+   "src_01M4RTK73D2VJASPVYEK3MFDFJ",
+   "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
+   "src_01M4RSRHKJWXG4RS4SNQ7KSSCB"
+  ],
   "notes": null,
   "title": "The great statue of four metals and the stone (Nebuchadnezzar's dream)",
   "passage": "Dan.2.31-Dan.2.35",
@@ -5554,7 +5906,12 @@
   "slug": "nebuchadnezzars-tree-dream",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4RV9NQA7FREZ7NZHBK6GKCJ",
+   "src_01M4RV9NQDGZSWZ65QX9YDV0T5",
+   "src_01M4RV9NQEX541YPGG8RK52KR0",
+   "src_01M4RV9NQHMK8RS0CXEFG1ZWH7"
+  ],
   "notes": null,
   "title": "The great tree cut down (Nebuchadnezzar's second dream)",
   "passage": "Dan.4.10-Dan.4.17",
@@ -5594,7 +5951,16 @@
   "slug": "four-beasts-vision-dan-7",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+   "src_01M4TSKK7T272WF8V2G6P4AYNS",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK83SFG091RT082Z4EXG",
+   "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TSKK89EZQWG9W99N1209AG"
+  ],
   "notes": null,
   "title": "The four beasts, the Ancient of Days and one like a son of man (Dan 7)",
   "passage": "Dan.7.2-Dan.7.27",
@@ -5676,7 +6042,16 @@
   "slug": "ram-and-goat-vision-dan-8",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4TTS0H16R2RHYVNTR09K9TR",
+   "src_01M4TTS0GZ70JV8F7N116GGVPE",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TTS0GVB04W3QBM4C5SJ395",
+   "src_01M4TTS0H4CEAKS7ZHP91RP73B",
+   "src_01M4TTS0H6KAXR7AHRJXSV7DV6",
+   "src_01M4TTS0H2RP38CMPKF6HT28VX",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG"
+  ],
   "notes": null,
   "title": "The ram and the goat (Dan 8)",
   "passage": "Dan.8.3-Dan.8.26",
@@ -5734,7 +6109,16 @@
   "slug": "vision-by-the-tigris-dan-10",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+   "src_01M4V1HGTNZRY1HTKAJS9JSQH9",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+   "src_01M4TSKK81W6HP2HFZ7744DHRG",
+   "src_01M4V1HGTHCRQQEWYXYFD65NWF",
+   "src_01M4TTS0H4CEAKS7ZHP91RP73B",
+   "src_01M4V26XG2J788VAQZ1TYKC6N0",
+   "src_01M4V26XGBF1RG8YQBJ62G9798",
+   "src_01M4V26XGJKSDPV1SX90XVZV14"
+  ],
   "notes": null,
   "title": "The vision by the Tigris (Dan 10–12)",
   "passage": "Dan.10.4-Dan.12.13",

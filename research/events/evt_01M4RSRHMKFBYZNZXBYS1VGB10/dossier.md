@@ -650,7 +650,8 @@ Babylonian administrative ration lists from Nebuchadnezzar's palace record alloc
 
 Ration tablets excavated at Babylon list oil allocations for Ya'u-kīnu, king of Judah, and five royal sons, among foreign recipients at court (c. 595–570 BC).
 
-- *Supporting (direct):* Oil ration tablets from the royal storerooms at Babylon list allocations for Ya'u-kīnu, king of the land of Yahudu, and his five sons, alongside foreign craftsmen. (Content and translation sections) [1]
+- *Supporting (direct):* Ration lists name "Ya'u-kīnu, king of the land of Yahudu" and his five sons among recipients (592/1 BCE). (ration list, year 13 of Nebuchadnezzar) [8]
+- *Context (direct):* Oil ration tablets from the royal storerooms at Babylon list allocations for Ya'u-kīnu, king of the land of Yahudu, and his five sons, alongside foreign craftsmen. (Content and translation sections) [1]
 
 *Limitations:* The tablets date after 597, not to 605; known here via a secondary summary (Weidner 1939 not accessed).
 
@@ -678,8 +679,8 @@ BDB derives Belteshazzar from Babylonian balāṭsu-uṣur ("protect his life"),
 ## Related passages and events
 
 - Isaiah 39:7 → **proposed fulfillment** → this event (medium): Isaiah's word that Hezekiah's descendants would be "eunuchs in the king of Babylon's palace" is read as fulfilled in the royal youths of Dan 1:3. Collins (via Wikipedia) notes the possible connection without treating it as the inspiration. [6]
-- Daniel → **possible identity** → Ezekiel 14:14 (low): Ezekiel's "Daniel" (dnʾl) may be this exile or, as many scholars argue, the legendary Ugaritic Danel. [8]
-- Daniel → **possible identity** → Ezekiel 28:3 (low): "Wiser than Daniel" — same identification question as Ezek 14:14. [8]
+- Daniel → **possible identity** → Ezekiel 14:14 (low): Ezekiel's "Daniel" (dnʾl) may be this exile or, as many scholars argue, the legendary Ugaritic Danel. [9]
+- Daniel → **possible identity** → Ezekiel 28:3 (low): "Wiser than Daniel" — same identification question as Ezek 14:14. [9]
 - this event → **followed by** → Daniel 2:1 (medium): Nebuchadnezzar's dream in his second year follows; how it fits the three-year training is a chronology question for Daniel 2.
 
 ## Commentary (interpretation, not historical evidence)
@@ -701,4 +702,5 @@ BDB derives Belteshazzar from Babylonian balāṭsu-uṣur ("protect his life"),
 5. Guzik, David. Daniel 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-1/> — *theological commentary; verification: claim checked*
 6. Wikipedia contributors. Daniel 1 — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Daniel_1> — *popular summary; verification: claim checked*
 7. Collins, John J.. Daniel, with an Introduction to Apocalyptic Literature (Forms of the Old Testament Literature 20). Eerdmans. 1984. <https://openlibrary.org/works/OL36099532W> — *scholarly commentary; verification: metadata verified*
-8. Wikipedia contributors. Danel — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Danel> — *popular summary; verification: claim checked*
+8. Center for Online Judaic Studies. Babylonian Ration List: King Jehoiakhin in Exile, 592/1 BCE — Center for Online Judaic Studies. cojs.org. <https://cojs.org/babylonian_ration_list-_king_jehoiakhin_in_exile-_592-1_bce/> — *museum catalog; verification: claim checked*
+9. Wikipedia contributors. Danel — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Danel> — *popular summary; verification: claim checked*

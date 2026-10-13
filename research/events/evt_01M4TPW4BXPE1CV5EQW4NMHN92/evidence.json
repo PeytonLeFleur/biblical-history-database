@@ -137,11 +137,12 @@
         "evd_01M4TPW4C7MNGDAD1TF2P3WWXB"
       ],
       "counterevidence": [
-        "evd_01M4TPW4C71GFQAH0Y56Q3MGGH",
-        "evd_01M4TPW4C7333V4P2GVM68RQAA"
+        "evd_01M4V6J8ZBKK3SMWPCCBQXXKWH"
       ],
       "contextual_evidence": [
-        "evd_01M4TPW4C7FJYRKFEQPJ0SC93K"
+        "evd_01M4TPW4C7FJYRKFEQPJ0SC93K",
+        "evd_01M4TPW4C71GFQAH0Y56Q3MGGH",
+        "evd_01M4TPW4C7333V4P2GVM68RQAA"
       ],
       "limitations": [
         "Shea 1982 not read."
@@ -296,7 +297,7 @@
         "clm_01M4TPW4C7Y2193QD6J26GP095"
       ],
       "source_id": "src_01M4TPW4AY6AQG3ZA8NDG70BFB",
-      "stance": "challenges",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "Contemporary texts call him mār šarri (\"son of the king\"); no document is dated by his regnal years and he never bore the title šarru.",
       "locator": "Title and status",
@@ -312,7 +313,7 @@
         "clm_01M4TPW4C7Y2193QD6J26GP095"
       ],
       "source_id": "src_01M4TPW4B24WCAYH9QR7BGTDVP",
-      "stance": "challenges",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "Belshazzar was Nabonidus's son, not Nebuchadnezzar's, and never became king; Darius the Mede is unknown to history.",
       "locator": "Historical problems (Seow 2003, pp. 4–6)",
@@ -385,6 +386,22 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "xenophon"
+    },
+    {
+      "id": "evd_01M4V6J8ZBKK3SMWPCCBQXXKWH",
+      "claim_ids": [
+        "clm_01M4TPW4C7Y2193QD6J26GP095"
+      ],
+      "source_id": "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "A contract names \"Bēl-rīṣūa, the servant of Belshazzar, the son of the king\" — the title in Babylonian documents is \"son of the king\".",
+      "locator": "p. 81 (contract)",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-contracts"
     }
   ],
   "artifacts": [],

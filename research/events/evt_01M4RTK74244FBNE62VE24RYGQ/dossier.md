@@ -657,6 +657,10 @@ No Babylonian administrative or prosopographical record consulted names Daniel o
 - this event → **thematic parallel** → Genesis 41:39–45 (medium): Joseph's elevation by Pharaoh after interpreting his dreams. Thematic parallel only.
 - this event → **followed by** → Daniel 3:12 (high): The companions' appointment over the province is presupposed in Daniel 3:12.
 
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes how unusual it was for the king to honour a foreign captive so, reads the homage as confirming that Daniel had told the dream truly, stresses that the king credited Daniel's God, and sees the friends' promotion as fitting because they had shared in the prayer. [2]
+
 ## Unanswered questions and research gaps
 
 - Search Neo-Babylonian court lists (e.g. Nebuchadnezzar's "court calendar" prism) for comparable offices.

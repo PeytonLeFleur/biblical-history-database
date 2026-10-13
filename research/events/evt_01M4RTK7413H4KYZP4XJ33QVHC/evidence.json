@@ -74,10 +74,13 @@
       "classification": "historically_plausible",
       "reasoning": "Wikipedia (Daniel 2) reports royal dreams as portents and a Nabonidus inscription recording a dream of Nebuchadnezzar; Oppenheim's standard study of the dream literature exists but was not read.",
       "supporting_evidence": [
-        "evd_01M4RTK74R2D9ZSEX061GDXKG4"
+        "evd_01M4V6J8ZAS42QBE8DG9ZJER7S",
+        "evd_01M4V6J8ZA84JT43XKNKK78HDX"
       ],
       "counterevidence": [],
-      "contextual_evidence": [],
+      "contextual_evidence": [
+        "evd_01M4RTK74R2D9ZSEX061GDXKG4"
+      ],
       "limitations": [
         "Secondary evidence only; primary dream texts not consulted this session."
       ],
@@ -95,7 +98,8 @@
       "supporting_evidence": [],
       "counterevidence": [],
       "contextual_evidence": [
-        "evd_01M4RTK74R2D9ZSEX061GDXKG4"
+        "evd_01M4RTK74R2D9ZSEX061GDXKG4",
+        "evd_01M4V6J8ZAER0H710E9KK86A57"
       ],
       "limitations": [],
       "reviewer_status": "machine_proposed",
@@ -125,12 +129,15 @@
       "classification": "disputed",
       "reasoning": "Chronology engine. Dan 2:1's \"second year\" falls Feb 603 BC – May 602 BC if Nebuchadnezzar's years are counted with an accession year (Babylonian practice), or Feb 604 BC – May 603 BC if his accession year is counted as year 1. Assumption (not textual): a campaign by Nebuchadnezzar against Jerusalem (Dan 1:1) could not precede Carchemish, the first Babylonian operation in the west recorded in ABC 5 (Mar 605 BC – Aug 605 BC). Three full years of training after that end no earlier than Mar 602 BC – Aug 602 BC, i.e. at the very end of or after the accession-reckoned \"second year\" and well after the non-accession one. Full-year counting therefore fits only at the extreme margin (if at all); counting partial years inclusively (accession year, year 1, year 2) fits comfortably. Guzik proposes the inclusive/overlap explanation; the critical view treats chapters 1 and 2 as originally independent tales.",
       "supporting_evidence": [
-        "evd_01M4RTK74RNVH84903VE6VP5GR"
+        "evd_01M4RTK74RNVH84903VE6VP5GR",
+        "evd_01M4V6J8ZAEW74RMD6BWREFEWK"
       ],
       "counterevidence": [
+        "evd_01M4V6JN2YD3WRAKPM0JB9GH2B"
+      ],
+      "contextual_evidence": [
         "evd_01M4RTK74RJX87MP42F967NYRX"
       ],
-      "contextual_evidence": [],
       "limitations": [
         "Depends on the assumption that the Dan 1:1 campaign followed Carchemish.",
         "New-year windows are conservative approximations."
@@ -148,7 +155,7 @@
         "clm_01M4RTK74RGPDRAFS4MCB4K67W"
       ],
       "source_id": "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
-      "stance": "supports",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "Royal dreams were regarded as portents; an inscription of Nabonidus records a dream in which Nebuchadnezzar appears to reassure him.",
       "locator": "Background section",
@@ -184,7 +191,7 @@
         "clm_01M4RTK74RRQ7PQW82KQW0BH42"
       ],
       "source_id": "src_01M4RTK73HEWQDGGDX0Z4SK6VF",
-      "stance": "challenges",
+      "stance": "contextual",
       "strength": "indirect",
       "finding": "The king's need to be introduced to Daniel after 1:18–20, the language switch and repetitions are cited as evidence that chapters 1 and 2 were not composed as one continuous narrative.",
       "locator": "Composition section",
@@ -229,6 +236,86 @@
         "Date of the fragment debated (early 2nd vs 1st century BC)."
       ],
       "independent_line": "four-empires-motif"
+    },
+    {
+      "id": "evd_01M4V6J8ZAS42QBE8DG9ZJER7S",
+      "claim_ids": [
+        "clm_01M4RTK74RJXP995KZRNH77D9M"
+      ],
+      "source_id": "src_01M4V6J8Z05GZD06N61MV18FV3",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Nabonidus records dreams as divine instruction, including one in which Nebuchadnezzar asks him to report the dream he has seen.",
+      "locator": "Nabonidus 3 vi 12′–36′; Introduction p. 9",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "neo-babylonian-royal-inscriptions"
+    },
+    {
+      "id": "evd_01M4V6J8ZA84JT43XKNKK78HDX",
+      "claim_ids": [
+        "clm_01M4RTK74RJXP995KZRNH77D9M"
+      ],
+      "source_id": "src_01M4V6J8Z6JAM3YR75D53V5SJX",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The Median king Astyages submits his dreams to Magian interpreters of dreams.",
+      "locator": "1.107–108",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "herodotus"
+    },
+    {
+      "id": "evd_01M4V6J8ZAER0H710E9KK86A57",
+      "claim_ids": [
+        "clm_01M4RTK74RGPDRAFS4MCB4K67W"
+      ],
+      "source_id": "src_01M4V6J8Z05GZD06N61MV18FV3",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Royal dream reports are a recognised Neo-Babylonian genre; no text records Nebuchadnezzar's dream of Dan 2.",
+      "locator": "Nabonidus 3",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "neo-babylonian-royal-inscriptions"
+    },
+    {
+      "id": "evd_01M4V6J8ZAEW74RMD6BWREFEWK",
+      "claim_ids": [
+        "clm_01M4RTK74RRQ7PQW82KQW0BH42"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Not necessarily a contradiction: with post-dated regnal years and inclusive counting, the end of the \"three years\" could fall in the king's second year.",
+      "locator": "p. 16 (on 2:1)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4V6JN2YD3WRAKPM0JB9GH2B",
+      "claim_ids": [
+        "clm_01M4RTK74RRQ7PQW82KQW0BH42"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Ewald, Kamphausen and Prince suppose \"ten\" has fallen out and read \"the twelfth year\".",
+      "locator": "p. 16 (on 2:1, emendations)",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "emendation-proposals"
     }
   ],
   "artifacts": [],

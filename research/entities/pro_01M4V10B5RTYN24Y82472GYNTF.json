@@ -4,7 +4,16 @@
   "slug": "seventy-weeks-dan-9",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+    "src_01M4TSKK81W6HP2HFZ7744DHRG",
+    "src_01M4V10B5ARS1VB0TJSYPGYT09",
+    "src_01M4TSKK83SFG091RT082Z4EXG",
+    "src_01M4TTS0H8BP0WSKFR1FQAZ7MF",
+    "src_01M4V10B58H26PE3KJR06XESP7",
+    "src_01M4V10B52Y493F766D6YZY956",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
   "notes": null,
   "title": "The seventy weeks (Dan 9:24–27)",
   "passage": "Dan.9.24-Dan.9.27",
@@ -123,7 +132,7 @@
         "Sir Robert Anderson, The Coming Prince (1881)",
         "D. Guzik (also citing Walvoord and Ironside)"
       ],
-      "summary": "Textual reasoning: only Neh 2 commands the city and wall to be built; 69 weeks of 360-day \"prophetic years\" (173,880 days) run from 1 Nisan of Artaxerxes' 20th year, which Anderson fixes at 14 March 445 BC from an astronomical new moon supplied by the Astronomer Royal, to 6 April AD 32, Jesus' entry into Jerusalem; after the 69th week comes \"a gap or parenthesis\" and the 70th week is future, with the coming prince as Antichrist. Objections: Guzik himself notes AD 32 is controversial (most chronologists prefer AD 30 or 33); Driver insists the weeks run consecutively and have the same value; Parker & Dubberstein's Babylonian table puts 1 Nisan of Artaxerxes' 20th year on 13 April, not 14 March, 445 (operator comparison — the Judean calendar may have differed). Acceptance: widely held in dispensational circles (not quantified in sources read).",
+      "summary": "Textual reasoning: only Neh 2 commands the city and wall to be built; 69 weeks of 360-day \"prophetic years\" (173,880 days) run from 1 Nisan of Artaxerxes' 20th year, which Anderson fixes at 14 March 445 BC from an astronomical new moon supplied by the Astronomer Royal, to 6 April AD 32, Jesus' entry into Jerusalem; after the 69th week comes \"a gap or parenthesis\" and the 70th week is future, with the coming prince as Antichrist. Objections: Guzik himself notes AD 32 is controversial (most chronologists prefer AD 30 or 33); Driver insists the weeks run consecutively and have the same value; Parker & Dubberstein's Babylonian table puts 1 Nisan of Artaxerxes' 20th year on 13 April, not 14 March, 445 (operator comparison — the Judean calendar may have differed). Acceptance: widely held in dispensational circles (not quantified in sources read). Arithmetic (operator check): in Julian reckoning the stated dates are 173,882 days apart; Anderson's 173,880 applies a Gregorian leap-year correction to Julian dates (his own note).",
       "referents": [
         {
           "symbol": "Going out of the word",
@@ -351,6 +360,42 @@
       "is_proposed_fulfillment": true,
       "citations": [
         "src_01M4V10B56RQ5FWV65KVJEPE6B"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4V6137SM92QXS8DAKMKNEBP",
+      "label": "Symbolic weeks: from Cyrus's word to Christ, the age of the church, and the last enemy",
+      "approach": "mixed",
+      "framework": "Symbolic (non-chronological) reading; conservative Lutheran, amillennial-type (Keil after Kliefoth and Leyrer)",
+      "proponents": [
+        "C. F. Keil (1872)",
+        "Th. Kliefoth and Leyrer (as followed by Keil)",
+        "J. Baldwin (\"symbolic and not arithmetical\", as quoted by Guzik)"
+      ],
+      "summary": "Textual reasoning: šābûaʿ means \"a period of sevens\" without fixing the unit, while Daniel elsewhere uses exact measures (8:14 evenings-mornings; 12:11 days); the answer to Daniel's question about seventy years is a divine measure, not a calendar. The seven sevens run from the word to rebuild (Isa 44:28, Cyrus) to the Messiah; the sixty-two are the building of God's city in troubled times; the last seven is the final enemy's rule and judgment. Every chronological reckoning, Keil argues, does violence to the text or fails arithmetically; the times of the end are reserved to God (Acts 1:7; Mark 13:32). Objections: Guzik criticises commentators who ignore the numbers; Driver requires weeks of equal value in order; preterist and dispensational readers both treat the numbers as calendrical.",
+      "referents": [
+        {
+          "symbol": "Seven weeks",
+          "referent": "From Cyrus's word to the coming of Christ"
+        },
+        {
+          "symbol": "Sixty-two weeks",
+          "referent": "The age of the Messiah's kingdom in troubled times"
+        },
+        {
+          "symbol": "Last week",
+          "referent": "The final enemy and the consummation"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4V10B5RBQJP52A16XSXQW14"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4V612H01FEGBWQMX3MG073D",
+        "src_01M4V10B52Y493F766D6YZY956",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
       ],
       "reviewer_status": "machine_proposed"
     }

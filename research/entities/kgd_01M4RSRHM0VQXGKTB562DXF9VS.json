@@ -4,7 +4,16 @@
   "slug": "achaemenid-persian-empire",
   "is_fixture": false,
   "revision": 1,
-  "citations": [],
+  "citations": [
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4TPW4AY6AQG3ZA8NDG70BFB",
+    "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+    "src_01M4TPW4AQCQEZ0S7YPDV678E0",
+    "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+    "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+    "src_01M4TQMMKZDH4RWTD6VQTHTX83"
+  ],
   "notes": null,
   "name": "Achaemenid Persian Empire",
   "description": "Persian empire founded by Cyrus II."

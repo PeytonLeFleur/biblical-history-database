@@ -634,20 +634,20 @@ Antiochus III crossed into Greece, was defeated at Thermopylae (191) and then at
 
 **Classification:** Strongly supported (machine proposed) · layer: evidence
 
-Two independent literary lines (Livy via Driver; Jerome/Porphyry), with Appian's battle narrative as context. Livy was not read directly.
+Livy (read directly) and Jerome/Porphyry agree, with Appian's battle narrative as context. Livy's casualty figures are his own.
 
 - *Supporting (indirect):* Decisive battle in autumn 190 at Magnesia; Antiochus's army defeated by Lucius Cornelius Scipio (Livy 37.39–44); renounced claims west of the Taurus. (pp. 175–176 (on 11:18)) [1]
 - *Supporting (indirect):* Vanquished by Lucius Scipio with Africanus and confined beyond the Taurus. (on 11:17–19) [2]
+- *Supporting (direct):* Antiochus encamped near Magnesia at Sipylus; his army was routed by the consul Lucius Cornelius Scipio; up to 50,000 foot and 3,000 horse said to have been killed. (Livy 37.38–44) [4]
 - *Context (contextual):* Battle narrative: the phalanx "broke into disorderly flight". (Syr. 34–35) [3]
-
-*Limitations:* Livy 37 not read directly.
 
 ## Unanswered questions and research gaps
 
-- Livy 37.39–44 and the treaty of Apamea (Polybius 21.42) not read directly.
+- Treaty of Apamea (Polybius 21.42) not read directly.
 
 ## Sources
 
 1. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
 2. Jerome, Archer, Gleason L. (trans.). Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 11. tertullian.org (transcribed by Roger Pearse). <https://www.tertullian.org/fathers/jerome_daniel_02_text.htm> — *ancient primary text; verification: claim checked*
 3. Appian, White, Horace (trans., 1899). Appian, Syrian Wars 31–35 — Livius.org. Livius.org. <https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-7/> — *ancient primary text; verification: claim checked*
+4. Livy, McDevitte, William A. (trans.). Livy, History of Rome 37.38–44 and 45.12 (trans. W. A. McDevitte). Project Gutenberg #44318. <https://www.gutenberg.org/ebooks/44318> — *ancient primary text; verification: claim checked*

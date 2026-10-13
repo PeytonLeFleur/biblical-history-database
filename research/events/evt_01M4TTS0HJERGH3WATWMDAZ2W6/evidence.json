@@ -72,7 +72,10 @@
       "counterevidence": [
         "evd_01M4TTS0J6ZEK1QE9AKZ1BD0WJ"
       ],
-      "contextual_evidence": [],
+      "contextual_evidence": [
+        "evd_01M4V6138DXTP93CWSTRN9A5AD",
+        "evd_01M4V6138D3B5Q1N1VJ7NDE2SE"
+      ],
       "limitations": [
         "No modern study of the epochs read directly."
       ],
@@ -161,13 +164,44 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "montgomery-1927"
+    },
+    {
+      "id": "evd_01M4V6138DXTP93CWSTRN9A5AD",
+      "claim_ids": [
+        "clm_01M4TTS0J65EJDYETZ74SVDXJY"
+      ],
+      "source_id": "src_01M4V612HQZA31B8ZK7KFZM2FF",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The era was reckoned in a Babylonian (spring, Nisannu) and a Macedonian (autumn) calendar; year 1 SE = 312/311 BCE. Does not say which 1 Maccabees uses.",
+      "locator": "Seleucid Era",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "iranica"
+    },
+    {
+      "id": "evd_01M4V6138D3B5Q1N1VJ7NDE2SE",
+      "claim_ids": [
+        "clm_01M4TTS0J65EJDYETZ74SVDXJY"
+      ],
+      "source_id": "src_01M4V612HD88HXET8YJ4PPW5EN",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Cleansing on 25 Chislev; letters dated year 148 (Dioscorinthius, Xanthicus).",
+      "locator": "2 Macc 10:5; 11:21, 33, 38",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "2-maccabees"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
   "research_gaps": [
-    "2 Maccabees 10 not read.",
-    "Modern discussion of the 1 Maccabees Seleucid-era epochs not read."
+    "No accessible study states which Seleucid-era epoch 1 Maccabees uses; the question remains open (Iranica read; specialist literature not accessible)."
   ]
 }

@@ -651,7 +651,9 @@ Mesopotamian kings treated dreams as portents and consulted specialists; an insc
 
 Wikipedia (Daniel 2) reports royal dreams as portents and a Nabonidus inscription recording a dream of Nebuchadnezzar; Oppenheim's standard study of the dream literature exists but was not read.
 
-- *Supporting (indirect):* Royal dreams were regarded as portents; an inscription of Nabonidus records a dream in which Nebuchadnezzar appears to reassure him. (Background section) [1]
+- *Supporting (direct):* Nabonidus records dreams as divine instruction, including one in which Nebuchadnezzar asks him to report the dream he has seen. (Nabonidus 3 vi 12′–36′; Introduction p. 9) [5]
+- *Supporting (direct):* The Median king Astyages submits his dreams to Magian interpreters of dreams. (1.107–108) [6]
+- *Context (indirect):* Royal dreams were regarded as portents; an inscription of Nabonidus records a dream in which Nebuchadnezzar appears to reassure him. (Background section) [1]
 
 *Limitations:* Secondary evidence only; primary dream texts not consulted this session.
 
@@ -662,6 +664,7 @@ Wikipedia (Daniel 2) reports royal dreams as portents and a Nabonidus inscriptio
 No Babylonian or other independent source mentions the dream, the decree against the wise men, or Daniel. This is not a disproof.
 
 - *Context (indirect):* Royal dreams were regarded as portents; an inscription of Nabonidus records a dream in which Nebuchadnezzar appears to reassure him. (Background section) [1]
+- *Context (indirect):* Royal dream reports are a recognised Neo-Babylonian genre; no text records Nebuchadnezzar's dream of Dan 2. (Nabonidus 3) [5]
 
 ### The content of the dream was revealed to Daniel by God.
 
@@ -677,14 +680,16 @@ Divine revelation cannot be assessed by historical or scientific methods. This i
 Chronology engine. Dan 2:1's "second year" falls Feb 603 BC – May 602 BC if Nebuchadnezzar's years are counted with an accession year (Babylonian practice), or Feb 604 BC – May 603 BC if his accession year is counted as year 1. Assumption (not textual): a campaign by Nebuchadnezzar against Jerusalem (Dan 1:1) could not precede Carchemish, the first Babylonian operation in the west recorded in ABC 5 (Mar 605 BC – Aug 605 BC). Three full years of training after that end no earlier than Mar 602 BC – Aug 602 BC, i.e. at the very end of or after the accession-reckoned "second year" and well after the non-accession one. Full-year counting therefore fits only at the extreme margin (if at all); counting partial years inclusively (accession year, year 1, year 2) fits comfortably. Guzik proposes the inclusive/overlap explanation; the critical view treats chapters 1 and 2 as originally independent tales.
 
 - *Supporting (contextual):* Guzik notes that overlapping regnal-year counts allow 602 BC to be both Nebuchadnezzar's second year and after the training. (Commentary on 2:1) [4]
-- *Challenging (indirect):* The king's need to be introduced to Daniel after 1:18–20, the language switch and repetitions are cited as evidence that chapters 1 and 2 were not composed as one continuous narrative. (Composition section) [1]
+- *Supporting (indirect):* Not necessarily a contradiction: with post-dated regnal years and inclusive counting, the end of the "three years" could fall in the king's second year. (p. 16 (on 2:1)) [7]
+- *Challenging (indirect):* Ewald, Kamphausen and Prince suppose "ten" has fallen out and read "the twelfth year". (p. 16 (on 2:1, emendations)) [7]
+- *Context (indirect):* The king's need to be introduced to Daniel after 1:18–20, the language switch and repetitions are cited as evidence that chapters 1 and 2 were not composed as one continuous narrative. (Composition section) [1]
 
 *Limitations:* Depends on the assumption that the Dan 1:1 campaign followed Carchemish. New-year windows are conservative approximations.
 
 ## Related passages and events
 
 - this event → **prophecy reference** → pro_01M4RTK7458JMN36GV9R7JAAMQ (high): The interpretation given in the narrative (2:36–45).
-- this event → **thematic parallel** → Daniel 7:1–28 (high): Daniel 7's four beasts parallel the four metals; most interpreters of every approach take them to denote the same four kingdoms, and the two chapters frame the Aramaic section. [1, 5]
+- this event → **thematic parallel** → Daniel 7:1–28 (high): Daniel 7's four beasts parallel the four metals; most interpreters of every approach take them to denote the same four kingdoms, and the two chapters frame the Aramaic section. [1, 8]
 - this event → **thematic parallel** → Genesis 41:1–36 (medium): A foreign king's dream that native experts cannot interpret is explained by a Hebrew exile who credits God (cf. Joseph and Pharaoh). Thematic parallel only.
 - Luke 20:18 → **prophecy reference** → pro_01M4RTK7458JMN36GV9R7JAAMQ (low): Jesus' saying about the stone that crushes whoever it falls on is read by many Christian interpreters as alluding to the stone of Dan 2:34–35, 44–45. [4]
 
@@ -708,4 +713,7 @@ Chronology engine. Dan 2:1's "second year" falls Feb 603 BC – May 602 BC if Ne
 2. Oppenheim, A. Leo. The Interpretation of Dreams in the Ancient Near East, with a Translation of an Assyrian Dream-Book. American Philosophical Society (Transactions 46.3); reprinted. 1956. doi:10.70249/9798893980981 — *academic monograph; verification: metadata verified*
 3. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
 4. Guzik, David. Daniel 2 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-2/> — *theological commentary; verification: claim checked*
-5. Wikipedia contributors. Four kingdoms of Daniel — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Four_kingdoms_of_Daniel> — *popular summary; verification: claim checked*
+5. Weiershäuser, Frauke, Novotny, Jamie. The Royal Inscriptions of Amēl-Marduk (561–560 BC), Neriglissar (559–556 BC), and Nabonidus (555–539 BC), Kings of Babylon (RINBE 2). Eisenbrauns (University Park, PA), 2020. <https://epub.ub.uni-muenchen.de/73674/1/RINBE2_OAPDF.pdf> — *academic monograph; verification: claim checked*
+6. Herodotus, Macaulay, G. C. (trans.). Herodotus, Histories 1.107–108 (trans. G. C. Macaulay). Project Gutenberg #2707. <https://www.gutenberg.org/ebooks/2707> — *ancient primary text; verification: claim checked*
+7. Driver, S. R.. The Book of Daniel (Cambridge Bible for Schools and Colleges). Cambridge University Press. <https://archive.org/details/bookdaniel00drivgoog> — *scholarly commentary; verification: claim checked*
+8. Wikipedia contributors. Four kingdoms of Daniel — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Four_kingdoms_of_Daniel> — *popular summary; verification: claim checked*
