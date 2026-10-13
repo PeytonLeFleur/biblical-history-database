@@ -1,0 +1,83 @@
+{
+  "event_id": "evt_01M4VT5TNJHAVFTEMJSHT20307",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 4",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VT5TNX5HWAZ71C5NRS8QZ2",
+      "statement": "Nehemiah's builders faced organised local opposition led by Sanballat of Samaria and Tobiah.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "The opposition is known only from Nehemiah's memoir; the Elephantine letter confirms Sanballat's position in Samaria but says nothing of the wall.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VT5TNXR1CEYTPYRJ856S4Z"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VT5TNXR1CEYTPYRJ856S4Z",
+      "claim_ids": [
+        "clm_01M4VT5TNX5HWAZ71C5NRS8QZ2"
+      ],
+      "source_id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Sanballat, governor of Samaria, with sons active in 408/407.",
+      "locator": "No. 30 line 29",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "elephantine-papyri"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Tobiah's family (the later Tobiads, the Araq el-Emir inscription) not researched."
+  ]
+}

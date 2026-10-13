@@ -1,0 +1,57 @@
+{
+  "event_id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4VT5TNTKPCHS2KDY4YDT5GN",
+    "rev_01M4VT5TNXFY0FHKAJVDW6HQM8",
+    "rev_01M4VT5TPMBN54B8AT001H3TX2"
+  ],
+  "research_gaps": [
+    "Gate locations not mapped.",
+    "Excavation reports (Kenyon, Shiloh, Mazar, Avigad) not read directly."
+  ],
+  "disputes": [
+    "Archaeology has identified the wall Nehemiah rebuilt around Jerusalem in the mid-5th century.",
+    "The \"Broad Wall\" of Neh 3:8 is the wide 8th-century wall excavated in the Jewish Quarter, repaired by Nehemiah's builders."
+  ],
+  "export_eligible": true
+}

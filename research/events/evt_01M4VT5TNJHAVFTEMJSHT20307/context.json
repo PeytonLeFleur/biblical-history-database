@@ -1,0 +1,87 @@
+{
+  "event_id": "evt_01M4VT5TNJHAVFTEMJSHT20307",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Sanballat, furious, mocked the feeble Jews before his associates and the army of Samaria; Tobiah said a fox would break their wall. Nehemiah prayed that their insult return on them. When the wall reached half its height, Sanballat, Tobiah, the Arabs, Ammonites and Ashdodites plotted to attack; the Jews prayed and set a watch; Nehemiah stationed families with weapons; thereafter half worked and half held weapons, builders wore swords, a trumpeter stood by Nehemiah, and all lodged in Jerusalem.",
+    "passage": "Neh.4.1-Neh.4.23"
+  },
+  "setting": {
+    "period": "During the 52 days of building (445 BC)",
+    "body": "Sanballat's authority in Samaria is attested a generation later (Elephantine papyrus 30). The Ammonites and Ashdodites flank Judah east and west; the Arabs are probably Geshem's people.",
+    "citations": [
+      "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+    ]
+  },
+  "rulers": [],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VT5TNMDQW395JPRABJV9ZE",
+      "subject": "evt_01M4VT5TNJHAVFTEMJSHT20307",
+      "object": "evt_01M4VS7B2KHNJMCTTA8A1P6494",
+      "relation": "after",
+      "textual_assertion": "when Sanballat heard that we were building the wall",
+      "passage": "Neh.4.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VT5TNMFJRWFK57YESEY3KE",
+      "subject": "evt_01M4VT5TNJHAVFTEMJSHT20307",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "within_reign",
+      "textual_assertion": "during the building of the wall",
+      "passage": "Neh.4.6",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Building site under threat",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VT5TN4S05JZ9Y3BQ7XM4B3",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that the threatened attack never came and stresses prayer combined with practical watchfulness.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-4/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "competing_reconstructions": "No alternative reconstructions found in the sources read."
+  }
+}

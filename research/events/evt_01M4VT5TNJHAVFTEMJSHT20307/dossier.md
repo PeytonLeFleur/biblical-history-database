@@ -1,0 +1,902 @@
+# Mockery, threats and the armed builders (Neh 4)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 4:1–23 (narration): Hebrew 3:33–4:17.
+
+## Biblical account
+
+Sanballat, furious, mocked the feeble Jews before his associates and the army of Samaria; Tobiah said a fox would break their wall. Nehemiah prayed that their insult return on them. When the wall reached half its height, Sanballat, Tobiah, the Arabs, Ammonites and Ashdodites plotted to attack; the Jews prayed and set a watch; Nehemiah stationed families with weapons; thereafter half worked and half held weapons, builders wore swords, a trumpeter stood by Nehemiah, and all lodged in Jerusalem.
+
+## Historical setting
+
+**Period:** During the 52 days of building (445 BC)
+
+Sanballat's authority in Samaria is attested a generation later (Elephantine papyrus 30). The Ammonites and Ashdodites flank Judah east and west; the Arabs are probably Geshem's people. [1]
+
+## Date and chronology
+
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “when Sanballat heard that we were building the wall”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “during the building of the wall”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “when Sanballat heard that we were building the wall” (Nehemiah 4:1) → `after` Nehemiah arrives, inspects the walls by night and calls for rebuilding (Neh 2:9–20)
+- “during the building of the wall” (Nehemiah 4:6) → `within_reign` reign of Artaxerxes I (Longimanus)
+
+## Geography
+
+- Jerusalem (Building site under threat; confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Claims and evidence
+
+### Nehemiah's builders faced organised local opposition led by Sanballat of Samaria and Tobiah.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+The opposition is known only from Nehemiah's memoir; the Elephantine letter confirms Sanballat's position in Samaria but says nothing of the wall.
+
+- *Context (direct):* Sanballat, governor of Samaria, with sons active in 408/407. (No. 30 line 29) [1]
+
+## Related passages and events
+
+- this event → **thematic parallel** → The rebuilding of Jerusalem's wall and gates, section by section (Neh 3) (high): The opposition arose during the building.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that the threatened attack never came and stresses prayer combined with practical watchfulness. [3]
+
+## Unanswered questions and research gaps
+
+- Tobiah's family (the later Tobiads, the Araq el-Emir inscription) not researched.
+
+## Sources
+
+1. Cowley, A. E.. Aramaic Papyri of the Fifth Century B.C.. Clarendon Press, Oxford, 1923. <https://archive.org/details/aramaicpapyrioff00ahikuoft> — *academic monograph; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Guzik, David. Nehemiah 4 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-4/> — *theological commentary; verification: claim checked*

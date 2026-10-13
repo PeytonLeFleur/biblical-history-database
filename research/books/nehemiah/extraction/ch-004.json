@@ -1,0 +1,269 @@
+{
+  "book": "Neh",
+  "chapter": 4,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.4.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJJSEAP1F1QM58VW10"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJJSEAP1F1QM58VW10"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJJSEAP1F1QM58VW10"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJJSEAP1F1QM58VW10"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJJSEAP1F1QM58VW10"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJJSEAP1F1QM58VW10"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.4.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VT5TNJJSEAP1F1QM58VW10",
+      "title": "Sanballat and Tobiah mock: \"if a fox goes up on it\"; Nehemiah's imprecatory prayer; the wall at half height",
+      "passage": "Neh.4.1-Neh.4.6",
+      "description": "Sanballat, angry, mocked the feeble Jews before the army of Samaria; Tobiah said a fox would break the stone wall; Nehemiah prayed against them; the wall was joined to half its height, for the people had a mind to work.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Sanballat",
+          "matched_entity_id": "per_01M4VS7B1QA1MFQVDKJF2F9KAB",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Tobiah the Ammonite",
+          "matched_entity_id": "per_01M4VS7B22SPBEE15BPDG89BCS",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VT5TNJHAVFTEMJSHT20307"
+    },
+    {
+      "id": "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ",
+      "title": "Conspiracy of Sanballat, Tobiah, the Arabs, Ammonites and Ashdodites; prayer and a guard; half work, half bear arms",
+      "passage": "Neh.4.7-Neh.4.23",
+      "description": "The enemies plotted to fight and cause confusion; Nehemiah set guards by families, half the men worked while half held spears, shields, bows and armour, the builders worked with swords at their sides; the trumpet signal; no one undressed except for washing.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "military",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Sanballat",
+          "matched_entity_id": "per_01M4VS7B1QA1MFQVDKJF2F9KAB",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Tobiah",
+          "matched_entity_id": "per_01M4VS7B22SPBEE15BPDG89BCS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "I (Nehemiah)",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [
+        "The Arabs (perhaps Geshem's people) and the Ashdodites are named only here."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VT5TNJHAVFTEMJSHT20307"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-3-4.md"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VT5TN88RD5WQY6GD40EXP7",
+  "title": "Persian Period Jerusalem and Yehud: A Rejoinder",
+  "source_type": "scientific_paper",
+  "authors": [
+    "Finkelstein, Israel"
+  ],
+  "publisher": "Journal of Hebrew Scriptures 9, article 24 (2009)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://jhsonline.org/index.php/jhs/article/download/7236/5948",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Open access (JHS)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the PDF",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Introduction: Persian-period Jerusalem was \"a small settlement\" of ca. 2–2.5 ha, \"no more than a few hundred people\"; a century of archaeology \"has failed to reveal any trace of a city-wall\" datable to the Persian period and identifiable as Nehemiah's; Neh 3 \"may represent the reality\" of the Hasmonean First Wall; \"Nehemiah's Wall … built on quicksand\": E. Mazar's finds under the northern tower in Area G give only a terminus post quem; the most logical date for the tower is late Hellenistic (Hasmonean)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read in full (PDF). Summarises Finkelstein, JSOT 32 (2008) 501–520, which was not read.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

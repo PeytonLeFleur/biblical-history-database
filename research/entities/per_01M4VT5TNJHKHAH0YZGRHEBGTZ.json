@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4VT5TNJHKHAH0YZGRHEBGTZ",
+  "slug": "eliashib-high-priest",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VT5TMX88S9M9KF16CQSF5M",
+    "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+  ],
+  "notes": null,
+  "canonical_name": "Eliashib the high priest",
+  "aliases": [],
+  "description": "High priest in Nehemiah's time who led the priests in rebuilding the Sheep Gate (Neh 3:1); grandson of Jeshua and grandfather of Johanan (Neh 12:10–11, 22); allied by marriage with Tobiah (13:4–7).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

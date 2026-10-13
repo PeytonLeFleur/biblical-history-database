@@ -25,844 +25,844 @@ Sanballat later appears as governor of Samaria in an Elephantine letter of 408/4
 
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 - **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Then I came to the governors beyond the River … So I came to Jerusalem, and was there three days”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's letters”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → cst_01M4VT5TNM3YEPJ5D7GBC93B89 → cst_01M4VT5TNMEZBS920NPVAY80MH
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

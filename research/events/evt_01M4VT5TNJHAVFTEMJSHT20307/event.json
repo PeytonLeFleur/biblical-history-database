@@ -1,0 +1,62 @@
+{
+  "id": "evt_01M4VT5TNJHAVFTEMJSHT20307",
+  "slug": "opposition-and-the-armed-builders-neh-4",
+  "title": "Mockery, threats and the armed builders (Neh 4)",
+  "summary": "Sanballat and Tobiah mocked the builders; when the wall reached half its height, Sanballat, Tobiah, the Arabs, Ammonites and Ashdodites plotted an attack; Nehemiah set guards, divided the men between work and arms, and the builders worked with swords at their sides.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VT5TNJJSEAP1F1QM58VW10",
+    "cnd_01M4VT5TNJ1VCYJA2X8R6RVSKZ"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political",
+    "military",
+    "construction"
+  ],
+  "priority": "medium",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Neh.4.1-Neh.4.23",
+      "mention_type": "narration",
+      "notes": "Hebrew 3:33–4:17."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}
