@@ -4,8 +4,8 @@
   "resume_from": null,
   "text_summary": {
     "layer": "text",
-    "body": "On 24 Shebat of Darius's second year Zechariah saw (1) a man on a red horse among myrtles with a patrol reporting the earth at rest, and heard the angel of the LORD plead for Jerusalem after \"these seventy years\" and the LORD promise to return with mercy and rebuild; (2) four horns that scattered Judah and four craftsmen to cast them down; (3) a man measuring Jerusalem, told that it would be unwalled for its multitude with the LORD as a wall of fire. An oracle calls the exiles to flee Babylon and promises the LORD's dwelling in Zion and the joining of many nations. (4) Joshua the high priest stood in filthy garments with the satan accusing him; the LORD rebuked the accuser, Joshua was cleansed and given charge of the house, and the LORD announced \"my servant the Branch\" and a stone with seven eyes. (5) A gold lampstand with seven lamps and two olive trees; the word to Zerubbabel, \"not by might, nor by power, but by my Spirit\"; his hands laid the foundation and will finish the house; the olive trees are two anointed ones.",
-    "passage": "Zech.1.7-Zech.4.14"
+    "body": "On 24 Shebat of Darius's second year Zechariah saw (1) a man on a red horse among myrtles with a patrol reporting the earth at rest, and heard the angel of the LORD plead for Jerusalem after \"these seventy years\" and the LORD promise to return with mercy and rebuild; (2) four horns that scattered Judah and four craftsmen to cast them down; (3) a man measuring Jerusalem, told that it would be unwalled for its multitude with the LORD as a wall of fire. An oracle calls the exiles to flee Babylon and promises the LORD's dwelling in Zion and the joining of many nations. (4) Joshua the high priest stood in filthy garments with the satan accusing him; the LORD rebuked the accuser, Joshua was cleansed and given charge of the house, and the LORD announced \"my servant the Branch\" and a stone with seven eyes. (5) A gold lampstand with seven lamps and two olive trees; the word to Zerubbabel, \"not by might, nor by power, but by my Spirit\"; his hands laid the foundation and will finish the house; the olive trees are two anointed ones. (6) A flying scroll, twenty by ten cubits, is the curse on thieves and false swearers. (7) Wickedness, a woman in an ephah under a lead cover, is carried by two winged women to the land of Shinar. (8) Four chariots with coloured horses, the four spirits of heaven, go out to the earth; those going north have quieted the LORD's spirit there.",
+    "passage": "Zech.1.7-Zech.6.8"
   },
   "setting": {
     "period": "January–February 519 BC",
@@ -91,6 +91,12 @@
       "role": "\"The daughter of Babylon\" from which the exiles must flee (2:7)",
       "hypotheses": [],
       "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RSRHM9YTFFFDKAZA0NJ3Y9",
+      "role": "Destination of the ephah (5:11)",
+      "hypotheses": [],
+      "confidence": "certain"
     }
   ],
   "terminology": [
@@ -114,6 +120,13 @@
       "gloss": "With the article: \"the adversary\", the accusing figure in the heavenly court (cf. Job 1–2).",
       "citations": [
         "src_01M4VMFQ8HQQYT886W60S5VRTE"
+      ]
+    },
+    {
+      "term": "ephah (5:6)",
+      "gloss": "A dry measure (about a bushel) and the basket of that size; with the lead weight an image of commerce (Guzik).",
+      "citations": [
+        "src_01M4VN8BQBSW4RYZV46417S22P"
       ]
     }
   ],
@@ -171,6 +184,19 @@
       "summary": "\"The hands of Zerubbabel have laid the foundation\" names Zerubbabel, not Sheshbazzar (Ezra 5:16).",
       "citations": [
         "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    },
+    {
+      "label": "The four chariots (6:1–8)",
+      "proponents": [
+        "Some commentators: Daniel's four empires (rejected by Keil and by Guzik)",
+        "D. Guzik: angelic agents of judgment, like the horsemen of Rev 6",
+        "Text: \"the four spirits of heaven\" (6:5)"
+      ],
+      "summary": "Keil: neither the number nor the colours point to Daniel's monarchies.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VN8BQJGX1H4J4X0VXWYNR2"
       ]
     }
   ],

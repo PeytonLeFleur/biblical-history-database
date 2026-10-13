@@ -1,15 +1,15 @@
 # Zechariah's night visions (24 Shebat, Darius year 2; Zech 1:7–6:8)
 
-> **Status:** Researched — not human reviewed · research status `needs_review` · revision 2 · last reviewed: not reviewed
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 3 · last reviewed: not reviewed
 > Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
 
 ## Biblical references
 
-- Zechariah 1:7–4:14 (narration): Visions 1–5 and their oracles; chapters 5–6 to follow.
+- Zechariah 1:7–6:8 (narration): All eight night visions.
 
 ## Biblical account
 
-On 24 Shebat of Darius's second year Zechariah saw (1) a man on a red horse among myrtles with a patrol reporting the earth at rest, and heard the angel of the LORD plead for Jerusalem after "these seventy years" and the LORD promise to return with mercy and rebuild; (2) four horns that scattered Judah and four craftsmen to cast them down; (3) a man measuring Jerusalem, told that it would be unwalled for its multitude with the LORD as a wall of fire. An oracle calls the exiles to flee Babylon and promises the LORD's dwelling in Zion and the joining of many nations. (4) Joshua the high priest stood in filthy garments with the satan accusing him; the LORD rebuked the accuser, Joshua was cleansed and given charge of the house, and the LORD announced "my servant the Branch" and a stone with seven eyes. (5) A gold lampstand with seven lamps and two olive trees; the word to Zerubbabel, "not by might, nor by power, but by my Spirit"; his hands laid the foundation and will finish the house; the olive trees are two anointed ones.
+On 24 Shebat of Darius's second year Zechariah saw (1) a man on a red horse among myrtles with a patrol reporting the earth at rest, and heard the angel of the LORD plead for Jerusalem after "these seventy years" and the LORD promise to return with mercy and rebuild; (2) four horns that scattered Judah and four craftsmen to cast them down; (3) a man measuring Jerusalem, told that it would be unwalled for its multitude with the LORD as a wall of fire. An oracle calls the exiles to flee Babylon and promises the LORD's dwelling in Zion and the joining of many nations. (4) Joshua the high priest stood in filthy garments with the satan accusing him; the LORD rebuked the accuser, Joshua was cleansed and given charge of the house, and the LORD announced "my servant the Branch" and a stone with seven eyes. (5) A gold lampstand with seven lamps and two olive trees; the word to Zerubbabel, "not by might, nor by power, but by my Spirit"; his hands laid the foundation and will finish the house; the olive trees are two anointed ones. (6) A flying scroll, twenty by ten cubits, is the curse on thieves and false swearers. (7) Wickedness, a woman in an ephah under a lead cover, is carried by two winged women to the land of Shinar. (8) Four chariots with coloured horses, the four spirits of heaven, go out to the earth; those going north have quieted the LORD's spirit there.
 
 ## Historical setting
 
@@ -878,6 +878,7 @@ Mitchell dates 24 Shebat of Darius's second year to February 519. He doubts that
   - Pleiades representative point: certain [3]
 - Babylon ("The daughter of Babylon" from which the exiles must flee (2:7); confidence: certain)
   - Babylon (Pleiades 893951): certain [4]
+- Shinar (Destination of the ephah (5:11); confidence: certain)
 
 ## Competing reconstructions
 
@@ -886,6 +887,7 @@ Mitchell dates 24 Shebat of Darius's second year to February 519. He doubts that
 - **The man among the myrtles** (D. Guzik: the Angel of the LORD, a pre-incarnate appearance of Christ, C. F. Keil: the angel of Jehovah, of one essence with Jehovah): Theological identifications; the text calls him the angel of the LORD (1:11). [6, 5]
 - **The Branch (3:8): the Messiah or Zerubbabel** (C. F. Keil (1868); D. Guzik: the Messiah, H. G. Mitchell (1912), after Marti: Zerubbabel, with 3:8b a gloss): See the prophecy record "my servant the Branch". [5, 1, 7]
 - **Zech 4:9 and the date of the foundation** (Read with Ezra 3:8–10 (536) or with Hag 2:18 (520) — see the Ezra 3 foundation event): "The hands of Zerubbabel have laid the foundation" names Zerubbabel, not Sheshbazzar (Ezra 5:16). [1]
+- **The four chariots (6:1–8)** (Some commentators: Daniel's four empires (rejected by Keil and by Guzik), D. Guzik: angelic agents of judgment, like the horsemen of Rev 6, Text: "the four spirits of heaven" (6:5)): Keil: neither the number nor the colours point to Daniel's monarchies. [5, 8]
 
 ## Claims and evidence
 
@@ -915,7 +917,7 @@ All three sources read (Mitchell, Keil, Guzik) agree; the text does not name the
 
 - *Supporting (indirect):* The two immediately suggest Zerubbabel, the hereditary prince, and Joshua, the hereditary high priest. (pp. 164–165) [1]
 - *Supporting (indirect):* The two sons of oil can only be the representatives of priesthood and royal government: Joshua and Zerubbabel. (p. 275) [5]
-- *Supporting (indirect):* In Zechariah's day the two anointed ones were Zerubbabel and Joshua. (on 4:14) [8]
+- *Supporting (indirect):* In Zechariah's day the two anointed ones were Zerubbabel and Joshua. (on 4:14) [9]
 
 ## Related passages and events
 
@@ -925,20 +927,23 @@ All three sources read (Mitchell, Keil, Guzik) agree; the text does not name the
 - this event → **thematic parallel** → Nebuzaradan burns the Temple and Jerusalem (5th month of Nebuchadnezzar's 19th year) (medium): The seventy years of indignation counted from the Temple's destruction (Keil, after Vitringa). [5]
 - this event → **thematic parallel** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (medium): "My house shall be built in it" (1:16) — completed in Darius's sixth year.
 - this event → **thematic parallel** → Daniel 7:7–8 (medium): Horns as kingdoms (Keil). [5]
-- this event → **thematic parallel** → Revelation 18:4 (medium): "Come out of her" — Babylon literal and figurative (Guzik). [9]
+- this event → **thematic parallel** → Revelation 18:4 (medium): "Come out of her" — Babylon literal and figurative (Guzik). [10]
 - this event → **direct reference** → pro_01M4VMFQ8Q4JJQJF2SCFNPAPJ8 (high): The fourth vision's oracle.
 - this event → **direct reference** → pro_01M4VMFQ8QMWG5F67FBHDEXKP3 (high): The fifth vision's word to Zerubbabel.
-- pro_01M4VMFQ8QMWG5F67FBHDEXKP3 → **proposed fulfillment** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (high): "His hands shall also finish it" (Zech 4:9) — the Temple completed in Darius's sixth year (Ezra 6:15). [8]
+- pro_01M4VMFQ8QMWG5F67FBHDEXKP3 → **proposed fulfillment** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (high): "His hands shall also finish it" (Zech 4:9) — the Temple completed in Darius's sixth year (Ezra 6:15). [9]
 - this event → **thematic parallel** → The foundation of the Second Temple laid (Ezra 3:8–13) (high): "The hands of Zerubbabel have laid the foundation of this house" (4:9).
 - this event → **thematic parallel** → Haggai and Zechariah stir the people; the Temple work resumes (Darius's second year, 520 BC) (medium): The word to Zerubbabel encourages the work resumed in 520.
 - pro_01M4VMFQ8Q4JJQJF2SCFNPAPJ8 → **thematic parallel** → pro_01M4VJCX9W686JCFMFREKRNS01 (medium): Haggai's signet and Zechariah's Branch both centre Davidic hope on Zerubbabel or on the Messiah, depending on the reading. [1, 5]
 - this event → **thematic parallel** → Revelation 11:4 (high): "The two olive trees and the two lampstands" — the image reused for the two witnesses.
 - this event → **thematic parallel** → Jeremiah 23:5 (high): "I will raise to David a righteous Branch" — the title of Zech 3:8.
+- this event → **thematic parallel** → Revelation 6:1–8 (medium): Coloured horses as agents sent through the earth (Guzik). [8]
+- this event → **thematic parallel** → Genesis 11:2 (medium): Shinar, the land of Babel, as the home of Wickedness (5:11).
+- this event → **followed by** → Crowns made from the exiles' gifts and set on Joshua; the oracle of the Branch (Zech 6:9–15) (medium): The crowning oracle follows the visions in the book (6:9).
 
 ## Commentary (interpretation, not historical evidence)
 
 - Guzik reads the horsemen as an imperial-style patrol and the horns, if read prophetically, as Babylon, Medo-Persia, Greece and Rome. [6]
-- Guzik sees a short-term fulfilment of 2:1–5 under Ezra and Nehemiah and an ultimate one under the Messiah. [9]
+- Guzik sees a short-term fulfilment of 2:1–5 under Ezra and Nehemiah and an ultimate one under the Messiah. [10]
 
 ## Unanswered questions and research gaps
 
@@ -954,5 +959,6 @@ All three sources read (Mitchell, Keil, Guzik) agree; the text does not name the
 5. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Twelve Minor Prophets, vol. 2 (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1868 (1878 printing). <https://archive.org/details/thetwelveminorpr02keiluoft> — *scholarly commentary; verification: claim checked*
 6. Guzik, David. Zechariah 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-1/> — *theological commentary; verification: claim checked*
 7. Guzik, David. Zechariah 3 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-3/> — *theological commentary; verification: claim checked*
-8. Guzik, David. Zechariah 4 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-4/> — *theological commentary; verification: claim checked*
-9. Guzik, David. Zechariah 2 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-2/> — *theological commentary; verification: claim checked*
+8. Guzik, David. Zechariah 6 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-6/> — *theological commentary; verification: claim checked*
+9. Guzik, David. Zechariah 4 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-4/> — *theological commentary; verification: claim checked*
+10. Guzik, David. Zechariah 2 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-2/> — *theological commentary; verification: claim checked*

@@ -1,0 +1,37 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4VN8BQJ1P391HHD5BZNY9NG",
+  "slug": "woman-in-the-ephah-zech-5",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VN8BQBSW4RYZV46417S22P",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "The woman in the ephah carried to Shinar (seventh night vision)",
+  "passage": "Zech.5.5-Zech.5.11",
+  "recipient_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+  "experience_event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "symbols": [
+    {
+      "symbol": "Ephah",
+      "description": "Measuring basket going forth",
+      "passage": "Zech.5.6",
+      "in_text_interpretation": "\"This is their appearance in all the land\" (5:6)."
+    },
+    {
+      "symbol": "Woman in the ephah",
+      "description": "Under a lead weight",
+      "passage": "Zech.5.7-Zech.5.8",
+      "in_text_interpretation": "\"This is Wickedness\" (5:8)."
+    },
+    {
+      "symbol": "Two women with stork-like wings",
+      "description": "Carry the ephah",
+      "passage": "Zech.5.9-Zech.5.11",
+      "in_text_interpretation": "To build it a house in the land of Shinar (5:11)."
+    }
+  ],
+  "description": "An ephah (measuring basket) with a woman inside under a lead cover is \"Wickedness\"; two winged women carry it to the land of Shinar to build it a house and set it on its base."
+}

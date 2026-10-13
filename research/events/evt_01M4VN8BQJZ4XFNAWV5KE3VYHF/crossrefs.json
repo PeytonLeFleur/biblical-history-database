@@ -1,0 +1,130 @@
+{
+  "event_id": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Heldai",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.27.15",
+        "Zech.6.10"
+      ]
+    },
+    {
+      "name": "Branch (capitalised as a title in the WEB)",
+      "books_searched": 66,
+      "hits": [
+        "Jer.23.5",
+        "Jer.33.15",
+        "Zech.3.8",
+        "Zech.6.12"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VN8BS0YY23PJSD7XDKQR53",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VN8BQJT7TGR7F5QTBCRX77"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The oracle spoken at the crowning.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VN8BS01XWYQP2CA3FNJEG1",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4VN8BQJT7TGR7F5QTBCRX77"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4VMFQ8Q4JJQJF2SCFNPAPJ8"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Branch of 3:8 named again as the temple-builder.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VN8BS0B3PGJJM8F94Z6WFN",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ps.110.4"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "A king who is also a priest (Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VN8BQJGX1H4J4X0VXWYNR2"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VN8BS0JG75SQGF7AAP7ZGW",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "\"He shall build the temple\" — the Temple completed in Darius's sixth year (which builder the oracle meant is disputed).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VN8BRNPFPQ7PAD9WR6VXD1",
+    "cst_01M4VN8BRNVF146FZXRJTY49F2"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "book": "Zech",
+  "chapter": 6,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.6.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCZHW55H2KCD8GCG05"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCZHW55H2KCD8GCG05"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCZHW55H2KCD8GCG05"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCZHW55H2KCD8GCG05"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCZHW55H2KCD8GCG05"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCZHW55H2KCD8GCG05"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.6.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCZHW55H2KCD8GCG05"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS",
+      "title": "Eighth night vision: the four chariots; the Spirit at rest in the north country",
+      "passage": "Zech.6.1-Zech.6.8",
+      "description": "Four chariots with red, black, white and dappled horses come from between bronze mountains; they are the four spirits of heaven; those going north quiet the LORD's spirit in the north country.",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Zech.1.8-Zech.1.11",
+        "Rev.6.1-Rev.6.8"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "The colours and the mountains are not explained in the text."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    },
+    {
+      "id": "cnd_01M4VN8BRCZHW55H2KCD8GCG05",
+      "title": "Crowns from the exiles' gifts set on Joshua; the Branch will build the temple",
+      "passage": "Zech.6.9-Zech.6.15",
+      "description": "Take silver and gold from Heldai, Tobijah and Jedaiah, who came from Babylon, at the house of Josiah son of Zephaniah; make crowns and set them on Joshua's head; the man whose name is the Branch will build the LORD's temple and sit as priest on his throne; the crowns are a memorial in the temple; those far off will help build.",
+      "record_type": "event",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Joshua the son of Jehozadak, the high priest",
+          "matched_entity_id": "per_01M4VEBZAVH5P5C9C3FC5YXQ9F",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "the temple of the LORD",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Zech.3.8",
+        "Ps.110.4",
+        "Heb.7.1-Heb.7.3",
+        "Jer.23.5"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Crowned: Joshua (MT) or originally Zerubbabel (Mitchell).",
+        "\"Crowns\" plural."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-5-6.md"
+}

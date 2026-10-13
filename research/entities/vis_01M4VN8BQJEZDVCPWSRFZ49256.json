@@ -1,0 +1,32 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4VN8BQJEZDVCPWSRFZ49256",
+  "slug": "four-chariots-zech-6",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VN8BQJGX1H4J4X0VXWYNR2",
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+  ],
+  "notes": null,
+  "title": "The four chariots between the bronze mountains (eighth night vision)",
+  "passage": "Zech.6.1-Zech.6.8",
+  "recipient_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+  "experience_event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "symbols": [
+    {
+      "symbol": "Four chariots with coloured horses",
+      "description": "From between two bronze mountains",
+      "passage": "Zech.6.1-Zech.6.3",
+      "in_text_interpretation": "\"The four winds (spirits) of the sky, which go out from standing before the Lord of all the earth\" (6:5)."
+    },
+    {
+      "symbol": "The north country",
+      "description": "Destination of the black horses",
+      "passage": "Zech.6.6-Zech.6.8",
+      "in_text_interpretation": "They \"have quieted my spirit in the north country\" (6:8)."
+    }
+  ],
+  "description": "Four chariots with red, black, white and dappled horses come out between two bronze mountains and go to the four winds; those going north have set the LORD's Spirit at rest in the north country."
+}
