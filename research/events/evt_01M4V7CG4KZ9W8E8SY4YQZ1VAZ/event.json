@@ -5,7 +5,9 @@
   "summary": "A month after the breach, Nebuzaradan burned the Temple, palace and houses, broke down the walls, deported the remaining population, removed the bronze furnishings and had the leaders executed at Riblah.",
   "is_fixture": false,
   "candidate_ids": [
-    "cnd_01M4V7CG4KVQ57EESW6K77RA5C"
+    "cnd_01M4V7CG4KVQ57EESW6K77RA5C",
+    "cnd_01M4V7P26B77P1XYSHH3FAXEZD",
+    "cnd_01M4V7P26CRXXNP87E742C00ZS"
   ],
   "external_reason": null,
   "is_period": false,
@@ -33,6 +35,11 @@
     },
     {
       "passage": "2Chr.36.17-2Chr.36.20",
+      "mention_type": "parallel_account",
+      "notes": null
+    },
+    {
+      "passage": "2Chr.36.17-2Chr.36.19",
       "mention_type": "parallel_account",
       "notes": null
     }

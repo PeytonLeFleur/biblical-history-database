@@ -8,6 +8,7 @@
 - 2 Kings 25:8–21 (narration)
 - Jeremiah 52:12–27 (parallel_account): Tenth day of the month.
 - 2 Chronicles 36:17–20 (parallel_account)
+- 2 Chronicles 36:17–19 (parallel_account)
 
 ## Biblical account
 

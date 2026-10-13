@@ -5,7 +5,8 @@
   "summary": "After Nebuchadnezzar came up, Jehoiakim became his vassal for three years and then rebelled; raiding bands from Babylon and Judah's neighbours struck Judah.",
   "is_fixture": false,
   "candidate_ids": [
-    "cnd_01M4V7CG4KDKJXWJA6X1X9HV5B"
+    "cnd_01M4V7CG4KDKJXWJA6X1X9HV5B",
+    "cnd_01M4V7P26BHENE5EZG9MFBF5DB"
   ],
   "external_reason": null,
   "is_period": false,
@@ -29,6 +30,11 @@
       "passage": "2Chr.36.6",
       "mention_type": "parallel_account",
       "notes": "Chronicles: Nebuchadnezzar bound him in fetters to carry him to Babylon."
+    },
+    {
+      "passage": "2Chr.36.5-2Chr.36.8",
+      "mention_type": "parallel_account",
+      "notes": null
     }
   ],
   "stages": {

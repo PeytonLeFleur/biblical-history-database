@@ -1,0 +1,137 @@
+{
+  "event_id": "evt_01M4V7P26BWJJ0XTGZC1SCD4G0",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 10.9.7 may depend on Jer 52; independent corroboration lacking.",
+      "engine": "local text / web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No archaeological evidence specific to this event located."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7P26GC8ZD8Z69DG2ZV45F",
+      "statement": "Nebuchadnezzar campaigned in Coele-Syria, Ammon and Moab in his twenty-third year and deported Jews.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "Josephus describes the campaign and deportation in that year; Jer 52:30 gives 745 Jews deported by Nebuzaradan. Josephus may depend on Jeremiah for the Jewish captives; no Babylonian source survives for these years.",
+      "supporting_evidence": [
+        "evd_01M4V7P26GW8REY6XNDT639H7N"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "No Babylonian chronicle for 594–557."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V7P26GX8VBYA4HX76JNKY7",
+      "statement": "Jeremiah 52:28–30 counts Nebuchadnezzar's years with an accession year, one less than 2 Kings.",
+      "layer": "reconstruction",
+      "passage": "Jer.52.28",
+      "classification": "historically_plausible",
+      "reasoning": "Its seventh year matches the chronicle's capture of Jerusalem (ABC 5, year 7) where Kings has the eighth; its eighteenth matches Kings' nineteenth (Cundall via Guzik; Young).",
+      "supporting_evidence": [
+        "evd_01M4V7P26GJ0GXTK2C8D9FFSAB",
+        "evd_01M4V7P26GC45GPJCNT0ADY5J0"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7P26GW8REY6XNDT639H7N",
+      "claim_ids": [
+        "clm_01M4V7P26GC8ZD8Z69DG2ZV45F"
+      ],
+      "source_id": "src_01M4V7P26606N1Q0K5M0F22H1P",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Campaign in the 23rd year against Coele-Syria, Ammon, Moab and Egypt; Jews taken to Babylon.",
+      "locator": "Ant. 10.9.7",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4V7P26GJ0GXTK2C8D9FFSAB",
+      "claim_ids": [
+        "clm_01M4V7P26GX8VBYA4HX76JNKY7"
+      ],
+      "source_id": "src_01M4V7P25ZRW561NGDW1BFWZ58",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Cundall: 52:12 counts the accession year and 52:29 does not.",
+      "locator": "on 52:12, 29",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4V7P26GC45GPJCNT0ADY5J0",
+      "claim_ids": [
+        "clm_01M4V7P26GX8VBYA4HX76JNKY7"
+      ],
+      "source_id": "src_01M4V7CG2F5QV3X4F372GXP728",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Kings uses non-accession years for Nebuchadnezzar; Jer 52 is excluded from Jeremiah's own usage.",
+      "locator": "pp. 24–29",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "young-2004"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Josephus Ant. 10.9.7",
+    "Enduring Word Jeremiah 52",
+    "Young 2004"
+  ]
+}

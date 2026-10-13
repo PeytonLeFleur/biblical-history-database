@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4V7P26606N1Q0K5M0F22H1P",
+  "title": "Josephus, Antiquities 10.9.7 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Josephus",
+    "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 10.9.7",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "In the fifth year after the destruction, Nebuchadnezzar's twenty-third year, he campaigned against Coele-Syria, the Ammonites and Moabites, then Egypt, and took the Jews there captive to Babylon",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

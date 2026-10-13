@@ -1,0 +1,105 @@
+{
+  "event_id": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Jehoahaz/Joahaz/Shallum (son of Josiah)",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.23.30",
+        "2Kgs.23.31",
+        "2Kgs.23.34",
+        "2Chr.36.1",
+        "2Chr.36.2",
+        "2Chr.36.4",
+        "Jer.22.11"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7P26JBRS12JBR3JZK3JF2",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Kgs.23.31-2Kgs.23.35"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Kings' account of the same deposition (Riblah; tribute; Eliakim renamed).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7P26JKQFTDS7CYQJAK568",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.22.10-Jer.22.12"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jeremiah's oracle on Shallum (Jehoahaz), who will not return.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7P26J4BJ1WEFXKFXYR0ZE",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jehoiakim, installed by Necho, later became Nebuchadnezzar's servant.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Joahaz (2 Chr 36:2)",
+      "resolved_to": "per_01M4V7P26BCXFTVVNAB4HKEZR1",
+      "basis": "Same king as Jehoahaz (2 Kgs 23:31) and Shallum (Jer 22:11)",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4V7P26EE34JTP9RJ83SCY67"
+  ]
+}

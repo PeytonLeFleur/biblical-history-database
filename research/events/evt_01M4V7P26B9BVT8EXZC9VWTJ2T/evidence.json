@@ -1,0 +1,117 @@
+{
+  "event_id": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Egyptian sources for Necho's Levantine administration not researched.",
+      "engine": "local text / web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No archaeological evidence specific to this event located."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4V7P26G4CEVGHKD8SVKM70D",
+      "statement": "Necho II's army was in Syria in 609 BC when Josiah died and Judah passed under Egyptian control.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "ABC 3 records the Egyptian army crossing the Euphrates to Harran in 609; 2 Kings and 2 Chronicles narrate Necho's deposition of Jehoahaz. The deposition itself is not externally recorded.",
+      "supporting_evidence": [
+        "evd_01M4V7P26G9RGDWT6Q1NBK3Z3Z"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4V7P26HG6ZC8RNXNX1KRJRF",
+      "statement": "Necho deposed Jehoahaz, imposed tribute and installed Jehoiakim.",
+      "layer": "reconstruction",
+      "passage": null,
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Attested by 2 Kgs 23:31–35 and 2 Chr 36:1–4 only; consistent with Egyptian control of the region in 609–605.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4V7P26H8RDW1BWB175T3VY2"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4V7P26G9RGDWT6Q1NBK3Z3Z",
+      "claim_ids": [
+        "clm_01M4V7P26G4CEVGHKD8SVKM70D"
+      ],
+      "source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "In Du'ûzu 609 a great Egyptian army crossed the river and marched on Harran.",
+      "locator": "ll. 66–75",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle"
+    },
+    {
+      "id": "evd_01M4V7P26H8RDW1BWB175T3VY2",
+      "claim_ids": [
+        "clm_01M4V7P26HG6ZC8RNXNX1KRJRF"
+      ],
+      "source_id": "src_01M4V7P263VPH7WJ4DPRR4E23G",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Necho deposed him after three months, tribute 100 talents of silver and a talent of gold.",
+      "locator": "on 36:1–4",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "ABC 3 (Livius) re-read",
+    "Enduring Word 2 Chronicles 36"
+  ]
+}

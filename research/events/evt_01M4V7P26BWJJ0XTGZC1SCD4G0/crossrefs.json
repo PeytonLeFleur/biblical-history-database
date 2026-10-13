@@ -1,0 +1,105 @@
+{
+  "event_id": "evt_01M4V7P26BWJJ0XTGZC1SCD4G0",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Nebuzaradan",
+      "books_searched": 66,
+      "hits": [
+        "2Kgs.25.8",
+        "2Kgs.25.11",
+        "2Kgs.25.20",
+        "Jer.39.9",
+        "Jer.40.1",
+        "Jer.52.12",
+        "Jer.52.30"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V7P26H9NE958SKN6JZ2DKA",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7P26BWJJ0XTGZC1SCD4G0"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The 18th-year deportation (Jer 52:29) is the one of the destruction; the 23rd-year deportation follows.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V7P26H23J1PC2M0R6E6WDH",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.28"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "The seventh-year deportation of 3,023 is the 597 deportation, counted from Nebuchadnezzar's first full year.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V7CG2F5QV3X4F372GXP728",
+          "src_01M4V7P25ZRW561NGDW1BFWZ58"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4V7P26HA2AN48JJ5Q3PR9Z5",
+      "type": "same_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Jer.52.29"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "The eighteenth-year deportation of 832 from Jerusalem belongs to the destruction (Kings' nineteenth year).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4V7CG2F5QV3X4F372GXP728",
+          "src_01M4V7P25ZRW561NGDW1BFWZ58"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": true
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4V7P26ET8B0MNP80CDASR5C",
+    "cst_01M4V7P26EEBKTRHDR90ZF9XH9"
+  ]
+}

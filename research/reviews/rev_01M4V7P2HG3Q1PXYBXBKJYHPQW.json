@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V7P2HG3Q1PXYBXBKJYHPQW",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V7P26HA2AN48JJ5Q3PR9Z5",
+  "record_revision": 1,
+  "reason": "Same event (medium confidence): The eighteenth-year deportation of 832 from Jerusalem belongs to the destruction ",
+  "triggers": [
+    "same_event"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:16:35.632Z",
+  "decisions": [],
+  "is_fixture": false
+}

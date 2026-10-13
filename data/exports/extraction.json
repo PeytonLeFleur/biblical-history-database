@@ -904,6 +904,1008 @@
   "slug": "2-kings"
  },
  {
+  "book": "2Chr",
+  "chapter": 36,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "2Chr.36.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BW0YWCZX693JHCW75"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BW0YWCZX693JHCW75"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BW0YWCZX693JHCW75"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BW0YWCZX693JHCW75"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BHENE5EZG9MFBF5DB"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BHENE5EZG9MFBF5DB"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BHENE5EZG9MFBF5DB"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BHENE5EZG9MFBF5DB"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BZQ2RQ0TBD67FN9CZ"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BZQ2RQ0TBD67FN9CZ"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26CSK90EYH6QQHFK0QE"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26CSK90EYH6QQHFK0QE"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26CSK90EYH6QQHFK0QE"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26C1YRKDCYVYJA53DC1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26C1YRKDCYVYJA53DC1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26C1YRKDCYVYJA53DC1"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26CRXXNP87E742C00ZS"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26CRXXNP87E742C00ZS"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26CRXXNP87E742C00ZS"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26CF2Y09CGZ7Z3AWTP9"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26CF2Y09CGZ7Z3AWTP9"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.22",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26C6M9ZFJ5S8SKPDCDW"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "2Chr.36.23",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26C6M9ZFJ5S8SKPDCDW"
+    ],
+    "notes": null
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4V7P26BW0YWCZX693JHCW75",
+    "title": "Jehoahaz made king; deposed by Necho; Eliakim renamed Jehoiakim",
+    "passage": "2Chr.36.1-2Chr.36.4",
+    "description": "The people made Jehoahaz king; after three months the king of Egypt removed him, fined the land 100 talents of silver and a talent of gold, made Eliakim king as Jehoiakim and took Jehoahaz to Egypt.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal",
+     "political"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Jehoahaz",
+      "matched_entity_id": "per_01M4V7P26BCXFTVVNAB4HKEZR1",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Neco",
+      "matched_entity_id": "per_01M4RSRHM3EYYN9YJSRMAW06DS",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Eliakim … Jehoiakim",
+      "matched_entity_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "2Chr.36.2",
+      "phrase": "he reigned three months",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [
+     "2Kgs.23.31-2Kgs.23.35",
+     "Jer.22.10-Jer.22.12"
+    ],
+    "research_priority": "high",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V7P26B9BVT8EXZC9VWTJ2T"
+   },
+   {
+    "id": "cnd_01M4V7P26BHENE5EZG9MFBF5DB",
+    "title": "Jehoiakim bound for Babylon; Temple vessels taken",
+    "passage": "2Chr.36.5-2Chr.36.8",
+    "description": "Jehoiakim reigned eleven years; Nebuchadnezzar came up and bound him in fetters to carry him to Babylon, and carried some vessels to his temple in Babylon.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "military",
+     "political"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Jehoiakim",
+      "matched_entity_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "Babylon",
+      "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [
+     "2Kgs.24.1-2Kgs.24.6",
+     "Dan.1.1-Dan.1.2"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [
+     "Whether he was taken (Chronicles does not say he arrived); relation to Dan 1:1–2 (vessels)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4K95S7JYJQAH8KRS1D"
+   },
+   {
+    "id": "cnd_01M4V7P26BZQ2RQ0TBD67FN9CZ",
+    "title": "Jehoiachin (eight years old) and his removal at the turn of the year",
+    "passage": "2Chr.36.9-2Chr.36.10",
+    "description": "Jehoiachin, eight, reigned three months and ten days; at the turn of the year Nebuchadnezzar brought him to Babylon with the vessels and made Zedekiah king.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal",
+     "migration"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Jehoiachin",
+      "matched_entity_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Zedekiah his brother",
+      "matched_entity_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "2Chr.36.10",
+      "phrase": "At the return of the year",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [
+     "2Kgs.24.8-2Kgs.24.17"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Eight vs eighteen (2 Kgs 24:8).",
+     "Zedekiah called his \"brother\" (uncle in 2 Kgs 24:17)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4KY46JV2S8Q4Y0W2QN"
+   },
+   {
+    "id": "cnd_01M4V7P26CSK90EYH6QQHFK0QE",
+    "title": "Zedekiah's reign and refusal of Jeremiah",
+    "passage": "2Chr.36.11-2Chr.36.13",
+    "description": "Zedekiah reigned eleven years, did not humble himself before Jeremiah, rebelled against Nebuchadnezzar who had made him swear by God.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Zedekiah",
+      "matched_entity_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Jeremiah the prophet",
+      "matched_entity_id": "per_01M4V10B5GEQP115CCSGSG9JXY",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Ezek.17.13-Ezek.17.19",
+     "Jer.37.1-Jer.37.2"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ"
+   },
+   {
+    "id": "cnd_01M4V7P26C1YRKDCYVYJA53DC1",
+    "title": "The Chronicler's verdict: priests and people unfaithful; prophets mocked",
+    "passage": "2Chr.36.14-2Chr.36.16",
+    "description": "Theological explanation of the exile: the leaders polluted the Temple and mocked God's messengers until there was no remedy.",
+    "record_type": "theological_interpretation",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Jer.7.25-Jer.7.26"
+    ],
+    "research_priority": "background",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4V7P26CRXXNP87E742C00ZS",
+    "title": "The destruction and exile (summary)",
+    "passage": "2Chr.36.17-2Chr.36.19",
+    "description": "The king of the Chaldeans slew young and old, carried off the Temple and royal treasures, burned the Temple and broke down the wall.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "destruction"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "the king of the Chaldeans",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "2Kgs.25.8-2Kgs.25.17"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+   },
+   {
+    "id": "cnd_01M4V7P26CF2Y09CGZ7Z3AWTP9",
+    "title": "Servitude until Persia; the land's sabbaths fulfil seventy years",
+    "passage": "2Chr.36.20-2Chr.36.21",
+    "description": "The survivors served the king and his sons until the kingdom of Persia, fulfilling Jeremiah's word: the land kept sabbath seventy years.",
+    "record_type": "prophecy",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "reference_to_other_event",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Jer.25.11-Jer.25.12",
+     "Jer.29.10",
+     "Lev.26.34-Lev.26.35",
+     "Dan.9.2"
+    ],
+    "research_priority": "high",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4V7P26C6M9ZFJ5S8SKPDCDW",
+    "title": "Cyrus's proclamation (parallel to Ezra 1:1–3)",
+    "passage": "2Chr.36.22-2Chr.36.23",
+    "description": "In Cyrus's first year the LORD stirred his spirit; he proclaimed that God had charged him to build a house in Jerusalem, and let His people go up.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "political",
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Cyrus king of Persia",
+      "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "2Chr.36.22",
+      "phrase": "in the first year of Cyrus king of Persia",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "Ezra.1.1-Ezra.1.3",
+     "Isa.44.28"
+    ],
+    "research_priority": "high",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+   }
+  ],
+  "session_log": "research/logs/2026-10-13-jeremiah-52-2-chronicles-36.md",
+  "slug": "2-chronicles"
+ },
+ {
+  "book": "Jer",
+  "chapter": 52,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Jer.52.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BXYAYN5J0VF92VTT5"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BXYAYN5J0VF92VTT5"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BXYAYN5J0VF92VTT5"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B3KAS4HTHGG0H5MPG"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B3KAS4HTHGG0H5MPG"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BFJJX5JSE55DJ7W42"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BFJJX5JSE55DJ7W42"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BFJJX5JSE55DJ7W42"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BFJJX5JSE55DJ7W42"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BFJJX5JSE55DJ7W42"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BFJJX5JSE55DJ7W42"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.22",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.23",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.24",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.25",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.26",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.27",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26B77P1XYSHH3FAXEZD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.28",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BMXHX7R8HGA3JBDP7"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.29",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BMXHX7R8HGA3JBDP7"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.30",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BMXHX7R8HGA3JBDP7"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.31",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BZ78YKYWE0A47VG4M"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.32",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BZ78YKYWE0A47VG4M"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.33",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BZ78YKYWE0A47VG4M"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.52.34",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V7P26BZ78YKYWE0A47VG4M"
+    ],
+    "notes": null
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4V7P26BXYAYN5J0VF92VTT5",
+    "title": "Zedekiah's reign and rebellion (parallel to 2 Kgs 24:18–20)",
+    "passage": "Jer.52.1-Jer.52.3",
+    "description": "Zedekiah, twenty-one, reigned eleven years, did evil and rebelled.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Zedekiah",
+      "matched_entity_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "2Kgs.24.18-2Kgs.24.20"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4K5GDX8CFDC7BWPCXZ"
+   },
+   {
+    "id": "cnd_01M4V7P26B3KAS4HTHGG0H5MPG",
+    "title": "The siege begins (parallel to 2 Kgs 25:1–2)",
+    "passage": "Jer.52.4-Jer.52.5",
+    "description": "Nebuchadnezzar came on 10/X of the ninth year and built forts.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "military"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Jer.52.4",
+      "phrase": "in the ninth year of his reign, in the tenth month, in the tenth day",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "2Kgs.25.1-2Kgs.25.2"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4KQTQRM4HAE7P593V3"
+   },
+   {
+    "id": "cnd_01M4V7P26BFJJX5JSE55DJ7W42",
+    "title": "Breach, flight and Zedekiah's judgment at Riblah (parallel to 2 Kgs 25:3–7)",
+    "passage": "Jer.52.6-Jer.52.11",
+    "description": "Famine on 9/IV; breach; Zedekiah overtaken near Jericho, judged at Riblah; his sons and Judah's princes killed; blinded and imprisoned till his death.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "military"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Zedekiah",
+      "matched_entity_id": "per_01M4V7CG3363QVA1PP0F5VH0YS",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "Riblah",
+      "matched_entity_id": "loc_01M4V7CG3QJN0W3XYGQ7FFJDPT",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "the plains of Jericho",
+      "matched_entity_id": "loc_01M4V7CG3VP1TB3CR7PF3GKRW1",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [
+     "2Kgs.25.3-2Kgs.25.7"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [
+     "Adds that Zedekiah was kept in prison until his death (52:11)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4KGADJMB1V56P6DYEQ"
+   },
+   {
+    "id": "cnd_01M4V7P26B77P1XYSHH3FAXEZD",
+    "title": "Nebuzaradan burns the Temple and city; inventory; executions (parallel to 2 Kgs 25:8–21)",
+    "passage": "Jer.52.12-Jer.52.27",
+    "description": "On 10/V of Nebuchadnezzar's nineteenth year Nebuzaradan burned the Temple and city, broke the walls, deported the people, took the bronze and vessels (with a fuller inventory), and the leaders were executed at Riblah.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "destruction"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuzaradan",
+      "matched_entity_id": "per_01M4V7CG37RXBRJCVAT1E7ZSZ7",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Jer.52.12",
+      "phrase": "in the fifth month, in the tenth day of the month, which was the nineteenth year of King Nebuchadnezzar",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "2Kgs.25.8-2Kgs.25.21"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Tenth day (Jer) vs seventh (Kings)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4KZ9W8E8SY4YQZ1VAZ"
+   },
+   {
+    "id": "cnd_01M4V7P26BMXHX7R8HGA3JBDP7",
+    "title": "The numbers carried away in Nebuchadnezzar's 7th, 18th and 23rd years",
+    "passage": "Jer.52.28-Jer.52.30",
+    "description": "3,023 Jews in the seventh year; 832 persons from Jerusalem in the eighteenth; 745 Jews by Nebuzaradan in the twenty-third; 4,600 in all.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "migration"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Nebuzaradan",
+      "matched_entity_id": "per_01M4V7CG37RXBRJCVAT1E7ZSZ7",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Jer.52.28",
+      "phrase": "in the seventh year",
+      "kind": "regnal"
+     },
+     {
+      "ref": "Jer.52.29",
+      "phrase": "in the eighteenth year of Nebuchadnezzar",
+      "kind": "regnal"
+     },
+     {
+      "ref": "Jer.52.30",
+      "phrase": "in the twenty-third year of Nebuchadnezzar",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "2Kgs.24.12-2Kgs.24.16",
+     "2Kgs.25.8"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [
+     "Years one less than 2 Kings (7th vs 8th; 18th vs 19th).",
+     "Numbers far below 2 Kgs 24:14, 16."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V7P26BWJJ0XTGZC1SCD4G0"
+   },
+   {
+    "id": "cnd_01M4V7P26BZ78YKYWE0A47VG4M",
+    "title": "Evil-merodach releases Jehoiachin (parallel to 2 Kgs 25:27–30)",
+    "passage": "Jer.52.31-Jer.52.34",
+    "description": "On 25/XII of the thirty-seventh year Evil-merodach released Jehoiachin and gave him a daily allowance until his death.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "royal"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Evil-merodach",
+      "matched_entity_id": "per_01M4V7CG3KFM6D9SDKGG3Q73B9",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Jehoiachin",
+      "matched_entity_id": "per_01M4V7CG2ZFDBMP4QKMJ63516N",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Jer.52.31",
+      "phrase": "in the twelfth month, in the twenty-fifth day",
+      "kind": "absolute"
+     }
+    ],
+    "related_passages": [
+     "2Kgs.25.27-2Kgs.25.30"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [
+     "25th (Jer) vs 27th (Kings)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V7CG4K88Q2FX3Z8647N1S3"
+   }
+  ],
+  "session_log": "research/logs/2026-10-13-jeremiah-52-2-chronicles-36.md",
+  "slug": "jeremiah"
+ },
+ {
   "book": "Dan",
   "chapter": 1,
   "status": "complete",

@@ -1,0 +1,19 @@
+{
+  "id": "job_01M4V7P16QCRCFWXCXPGK5EGZT",
+  "subject_kind": "chapter",
+  "subject_id": "Jer.52",
+  "book": "Jer",
+  "chapter": 52,
+  "stage": "scripture_extraction",
+  "status": "queued",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [],
+  "created_at": "2026-10-13T18:16:34.263Z",
+  "updated_at": "2026-10-13T18:16:34.263Z",
+  "is_fixture": false
+}
