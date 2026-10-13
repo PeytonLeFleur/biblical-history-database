@@ -1,0 +1,930 @@
+# Josiah seeks God (8th year) and begins to purge Judah and Israel (12th year) — Chronicles
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- 2 Chronicles 34:3–7 (narration)
+- Jeremiah 1:2 (reference): Jeremiah's call in Josiah's thirteenth year.
+
+## Biblical account
+
+In his eighth year, while still young, Josiah began to seek the God of David; in his twelfth year he began to purge Judah and Jerusalem of the high places, Asherim and images; the altars of the Baals were broken down before him, the priests' bones burned on their altars, and the same done in the cities of Manasseh, Ephraim and Simeon as far as Naphtali.
+
+## Historical setting
+
+**Period:** c. 632–627 BC (8th–12th years)
+
+Payne (via Guzik) connects the twelfth year with Scythian incursions of 628–626 BC (not verified here). Nabopolassar became king of Babylon in 626; ABC 3 records Babylonian–Assyrian warfare from 616, by which time Assyrian control of the former Israelite territories was weakening. [1, 2]
+
+### Rulers
+
+- Josiah: King of Judah [3]
+
+## Date and chronology
+
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+- **631 BC – 625 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+  - Latest bound from: reign of Josiah (reign start) → “in the twelfth year he began to purge Judah and Jerusalem”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “in the twelfth year he began to purge Judah and Jerusalem” (2 Chronicles 34:3) → `years_later` reign of Josiah; assumptions: Twelfth regnal year: 10–11 years after accession (non-accession count) or 11–12 (accession count), lasting a year; offset 10–13 (operator margin).
+- “Now in the eighteenth year of his reign, when he had purged the land and the house” (2 Chronicles 34:8) → `before` Temple repairs and the finding of the book of the law (Josiah's 18th year)
+
+## Geography
+
+- Jerusalem (Purged city; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **Chronicles keeps the true order: reform from the twelfth year, completed after the eighteenth** (C. F. Keil (1872), Bertheau, Zöckler, Oettli (harmonisation, as reported by Curtis), Josephus (reform from Josiah's twelfth year of age)): Kings describes the consummation of a reform begun earlier; Chronicles narrates it in order of time. [3, 5, 6]
+- **The Chronicler moved the reform before the discovery for theological reasons** (E. L. Curtis and A. A. Madsen (1910)): A pious king "must be represented as pious from his youth"; Kings knows no reform before the eighteenth year. [5]
+
+## Claims and evidence
+
+### Josiah's purge of idolatry began in his twelfth regnal year (c. 629–627 BC), before the law book was found.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Chronicles alone dates the start of the purge to the twelfth year; Kings places all reform after the eighteenth-year discovery. Keil and earlier harmonisers take Chronicles as the chronological account; Curtis and Madsen regard the change as the Chronicler's theological arrangement. Josephus has an early reform but dates it by Josiah's age. The related claim on the reform event (whether everything fell in the eighteenth year) is under review separately.
+
+- *Supporting (indirect):* Chronicles narrates the events in order of time: seeking God at sixteen, purging from the twelfth year. (pp. 488–490) [3]
+- *Supporting (direct):* At twelve years old Josiah exhorted the people to leave their idols (a reform before the eighteenth year, though dated by age). (Ant. 10.4.1) [6]
+- *Challenging (indirect):* The Chronicler moved the reform earlier so that the pious king is pious from his youth; Kings knows nothing of it. (pp. 501–503) [5]
+- *Context (indirect):* Wiseman: the two-stage presentation may fit the Chronicler's emphases; Payne: Scythian incursions 628–626. (on 34:3, 34:8) [1]
+
+*Limitations:* No external evidence dates any part of the reform. Post-1910 studies not read.
+
+## Related passages and events
+
+- this event → **thematic parallel** → Josiah's covenant and the purge of Jerusalem and Judah (high): The same kinds of cult objects and places are removed in Kings' eighteenth-year reform; whether Chronicles has relocated that reform or records an earlier phase is the disputed question. [3, 5]
+- this event → **followed by** → Temple repairs and the finding of the book of the law (Josiah's 18th year) (high): Chronicles: "in the eighteenth year … when he had purged the land and the house".
+- this event → **thematic parallel** → Jeremiah 1:2 (medium): Jeremiah's call in Josiah's thirteenth year — within the period of the Chronicler's early reform.
+- this event → **thematic parallel** → Zephaniah 1:4–6 (medium): Zephaniah (in Josiah's days) threatens the remnant of Baal — consistent with a reform under way.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik reads the purge as beginning at the centre and working outward, quotes Wiseman that the two-stage sequence may reflect the Chronicler's emphases, and Payne on the Scythians. [1]
+
+## Unanswered questions and research gaps
+
+- Archaeological evidence for the removal of cult sites in Judah and in the former northern kingdom not researched.
+- Scythian incursions (Herodotus 1.103–106) not read for this unit.
+- Josephus places the reform's start at Josiah's twelfth year of age, not regnal year — a different reading again.
+- Payne's Scythian connection was read only through Guzik.
+
+## Disputes
+
+- Josiah's purge of idolatry began in his twelfth regnal year (c. 629–627 BC), before the law book was found.
+
+## Sources
+
+1. Guzik, David. 2 Chronicles 34 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-chronicles-34/> — *theological commentary; verification: claim checked*
+2. Lendering, Jona (ed.). ABC 3 (Fall of Nineveh Chronicle) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/> — *ancient primary text; verification: claim checked*
+3. Keil, C. F., Harper, Andrew (trans.). Biblical Commentary on the Books of the Chronicles (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofchronicle00keiliala> — *scholarly commentary; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Curtis, Edward Lewis, Madsen, Albert Alonzo. A Critical and Exegetical Commentary on the Books of Chronicles (International Critical Commentary). T. & T. Clark / Scribner, 1910. <https://archive.org/details/criticalexegetic00curtuoft> — *scholarly commentary; verification: claim checked*
+6. Josephus, Whiston, William (trans.). Josephus, Antiquities 10.4.1–10.5.2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*

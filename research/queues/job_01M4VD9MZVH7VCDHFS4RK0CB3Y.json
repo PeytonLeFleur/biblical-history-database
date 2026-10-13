@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4VD9MZVH7VCDHFS4RK0CB3Y",
+  "subject_kind": "chapter",
+  "subject_id": "2Chr.35",
+  "book": "2Chr",
+  "chapter": 35,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-13T19:54:54.041Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-13T19:54:39.996Z",
+  "updated_at": "2026-10-13T19:54:54.041Z",
+  "is_fixture": false
+}

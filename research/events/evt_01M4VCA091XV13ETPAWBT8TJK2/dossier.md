@@ -887,6 +887,8 @@ ABC 3: in Nabopolassar's 16th year (610/609) the Babylonians and Medes took Harr
 - **Necho marching to help Assyria against Babylon** (ABC 3 (Egyptian army with Aššur-uballiṭ, 610–609), Josephus (against the Medes and Babylonians), D. Guzik (NKJV)): Josiah tried to stop an Egyptian army going to Assyria's aid. [1, 2, 6]
 - **Necho marching against Assyria (610)** (J. R. Lumby (1887), before ABC 3 was published): Read the Hebrew as "against" and supposed Josiah an ally or tributary of Assyria. Superseded by the chronicle on the direction of the campaign. [7]
 - **Herodotus's battle at "Magdolos" against "the Syrians" is this battle** (C. F. Keil (1872): a confusion with Megiddo, F. C. Movers (as reported by Keil): Migdol on the Egyptian frontier): Herodotus 2.159 has Necho defeat the Syrians at Magdolos and then take Cadytis. [8, 9]
+- **Necho came by sea (landing at Acco) vs by land** (C. F. Keil (1872) and J. R. Lumby (1887): by sea, E. L. Curtis and A. A. Madsen (1910): Megiddo was simply the old battle-ground; against Cheyne's sea route): Keil infers a landing at Acco from Herodotus's mention of Necho's fleet; Curtis rejects the inference. [8, 7, 10]
+- **Who warned Josiah: Necho (Chronicles) or Jeremiah (1 Esdras)** (2 Chr 35:21–22 (text): words of Neco "from the mouth of God", 1 Esd 1:28: "the words of the prophet Jeremy from the Lord's mouth"): The Greek parallel transfers the warning to Jeremiah; Curtis and Madsen regard the message as probably a literary construction. [11, 10]
 
 ## Claims and evidence
 
@@ -919,7 +921,9 @@ Kings: Necho "killed him at Megiddo" and his servants "carried him dead". 2 Chr 
 
 - *Supporting (indirect):* Chronicles does not affirm that he died in Jerusalem. (p. 496) [8]
 - *Challenging (direct):* Sorely wounded, he returned to Jerusalem and died of the wound. (Ant. 10.5.1) [2]
+- *Challenging (direct):* Carried out of the battle, he got into his second chariot and died after being brought back to Jerusalem. (1 Esd 1:30–31) [11]
 - *Context (indirect):* Some suppose he died at Hadad-rimmon (Zech 12:11). (on 23:30) [7]
+- *Context (indirect):* Kings has him slain at Megiddo, Chronicles dying after reaching Jerusalem; an assassination reading of Kings is unlikely. (p. 517) [10]
 
 ### Herodotus's battle at "Magdolos" against "the Syrians" (2.159) is Necho's battle at Megiddo.
 
@@ -940,6 +944,29 @@ Pleiades associates the names Megiddo and Magidû with Tel Megiddo with certaint
 - *Supporting (direct):* Tel Megiddo, Magidû, Megiddo (certain). (names) [4]
 - *Supporting (indirect):* Megiddo is identical with Roman Legio (Lejjun). (p. 495) [8]
 
+### Necho's objective in 609 was Carchemish on the Euphrates (2 Chr 35:20; 1 Esd 1:25).
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Chronicles and 1 Esdras name Carchemish; Kings names the king of Assyria and the Euphrates; ABC 3 shows the 609 Egyptian army crossing the Euphrates against Harran, without naming the crossing point. Keil takes Carchemish at face value; Curtis and Madsen hold that the writer introduced it from Necho's defeat there in 605. Carchemish as a crossing point on the way to Harran would reconcile the sources but is not attested for 609 in the texts read.
+
+- *Supporting (direct):* Pharaoh came to make war at Carchemish on the Euphrates. (1 Esd 1:25) [11]
+- *Supporting (indirect):* Necho came up to fight at Carchemish on the Euphrates. (p. 504) [12]
+- *Challenging (indirect):* Carchemish was introduced from the battle there two years later. (pp. 516–517) [10]
+- *Challenging (direct):* The 609 objective was Harran. (year 17) [1]
+
+*Limitations:* 1 Esdras depends on Chronicles here.
+
+### Necho sent Josiah a warning that he had not come against Judah (2 Chr 35:21).
+
+**Classification:** No independent corroboration found (machine proposed) · layer: reconstruction
+
+Recorded only in Chronicles and 1 Esdras (which attributes the warning to "the prophet Jeremy from the Lord's mouth"). Keil treats the speech as historical; Curtis and Madsen think it "probably" a fiction modelled, with the disguise and the archers, on Ahab's death (2 Chr 18:29–34). No external source bears on it.
+
+- *Supporting (indirect):* The message is explained philologically as Necho's own words. (pp. 504–505) [12]
+- *Challenging (indirect):* Whether historic or a fiction is impossible to determine — "probably the latter". (p. 517) [10]
+- *Context (direct):* Josias disregarded "the words of the prophet Jeremy from the Lord's mouth". (1 Esd 1:28) [11]
+
 ## Related passages and events
 
 - this event → **same event** → 2 Chronicles 35:20–25 (high): Chronicles' parallel: Necho's warning, the archers, death after reaching Jerusalem.
@@ -949,6 +976,8 @@ Pleiades associates the names Megiddo and Magidû with Tel Megiddo with certaint
 - this event → **historical consequence** → Necho II deposes Jehoahaz and installs Jehoiakim (609 BC) (high): Jehoahaz anointed after Josiah's death, deposed by Necho three months later.
 - Battle of Carchemish (605 BC) → **preceded by** → this event (high): Egypt's hold on Syria after 609 ended at Carchemish (605). [1]
 - this event → **thematic parallel** → Gedaliah son of Ahikam (low): Ahikam son of Shaphan (2 Kgs 22:12) was the father of Gedaliah the governor (2 Kgs 25:22) — the same court family spans Josiah's reign and the destruction.
+- this event → **thematic parallel** → 2 Chronicles 18:29–34 (high): Josiah's death told like Ahab's: warning, disguise, archers, "I am wounded", the chariot (Curtis and Madsen; Selman via Guzik). [10, 13]
+- this event → **genealogical connection** → 1 Chronicles 3:15 (medium): Josiah's sons Johanan, Jehoiakim, Zedekiah and Shallum (Jehoahaz) — the succession after his death.
 
 ## Commentary (interpretation, not historical evidence)
 
@@ -958,12 +987,14 @@ Pleiades associates the names Megiddo and Magidû with Tel Megiddo with certaint
 
 - Megiddo excavation reports (Iron Age II strata) not read.
 - Egyptian sources for Necho II's Asiatic campaigns not researched.
+- Payne's claim (via Guzik) that Megiddo Stratum II confirms the battle was not verified.
 - Why Josiah opposed Necho (Keil: to keep Judah from Egyptian control; Lumby: loyalty to Assyria) is not stated in the text.
 - The Megiddo excavations' Iron Age strata were not researched.
 
 ## Disputes
 
 - Josiah died at Megiddo (2 Kgs 23:29) rather than after being brought back to Jerusalem.
+- Necho's objective in 609 was Carchemish on the Euphrates (2 Chr 35:20; 1 Esd 1:25).
 
 ## Sources
 
@@ -976,3 +1007,7 @@ Pleiades associates the names Megiddo and Magidû with Tel Megiddo with certaint
 7. Lumby, J. Rawson. The Second Book of the Kings, with Introduction and Notes (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1887. <https://archive.org/details/secondbookofking00lumb> — *scholarly commentary; verification: claim checked*
 8. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Books of the Kings (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofkings00keil> — *scholarly commentary; verification: claim checked*
 9. Herodotus, Macaulay, G. C. (trans.). Herodotus, Histories 2.159 (trans. G. C. Macaulay). Project Gutenberg #2707. <https://www.gutenberg.org/ebooks/2707> — *ancient primary text; verification: claim checked*
+10. Curtis, Edward Lewis, Madsen, Albert Alonzo. A Critical and Exegetical Commentary on the Books of Chronicles (International Critical Commentary). T. & T. Clark / Scribner, 1910. <https://archive.org/details/criticalexegetic00curtuoft> — *scholarly commentary; verification: claim checked*
+11. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 1). eBible.org. <https://ebible.org/eng-web/1ES01.htm> — *ancient primary text; verification: claim checked*
+12. Keil, C. F., Harper, Andrew (trans.). Biblical Commentary on the Books of the Chronicles (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1872. <https://archive.org/details/booksofchronicle00keiliala> — *scholarly commentary; verification: claim checked*
+13. Guzik, David. 2 Chronicles 35 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/2-chronicles-35/> — *theological commentary; verification: claim checked*

@@ -123,6 +123,14 @@
         "src_01M4RSRHKDJ3GDT201E0SGMSM2",
         "src_01M4VCA0881BQ57C15HT6R6FSH"
       ]
+    },
+    {
+      "term": "\"the lamentations\" (2 Chr 35:25)",
+      "gloss": "A collection of laments for Josiah, not the canonical book of Lamentations (Curtis and Madsen; Payne via Guzik).",
+      "citations": [
+        "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+        "src_01M4VD9NKZC2WKHDG4KR0NM73D"
+      ]
     }
   ],
   "competing_reconstructions": [
@@ -160,6 +168,31 @@
       "citations": [
         "src_01M4VCA08HJ4HR18CN7Y1AZ108",
         "src_01M4VCA08E102VYPRZ176S6XZX"
+      ]
+    },
+    {
+      "label": "Necho came by sea (landing at Acco) vs by land",
+      "proponents": [
+        "C. F. Keil (1872) and J. R. Lumby (1887): by sea",
+        "E. L. Curtis and A. A. Madsen (1910): Megiddo was simply the old battle-ground; against Cheyne's sea route"
+      ],
+      "summary": "Keil infers a landing at Acco from Herodotus's mention of Necho's fleet; Curtis rejects the inference.",
+      "citations": [
+        "src_01M4VCA08HJ4HR18CN7Y1AZ108",
+        "src_01M4VCA08MNQQVT95W0ZC0JZ9Q",
+        "src_01M4VD9NM6XAJ5DNG9TYP4VPSF"
+      ]
+    },
+    {
+      "label": "Who warned Josiah: Necho (Chronicles) or Jeremiah (1 Esdras)",
+      "proponents": [
+        "2 Chr 35:21–22 (text): words of Neco \"from the mouth of God\"",
+        "1 Esd 1:28: \"the words of the prophet Jeremy from the Lord's mouth\""
+      ],
+      "summary": "The Greek parallel transfers the warning to Jeremiah; Curtis and Madsen regard the message as probably a literary construction.",
+      "citations": [
+        "src_01M4VD9NM9S4WZKADVMPDWD3YK",
+        "src_01M4VD9NM6XAJ5DNG9TYP4VPSF"
       ]
     }
   ],

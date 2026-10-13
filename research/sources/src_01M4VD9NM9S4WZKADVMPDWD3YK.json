@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VD9NM9S4WZKADVMPDWD3YK",
+  "title": "World English Bible — Apocrypha/Deuterocanon (1 Esdras 1)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible (translators)"
+  ],
+  "publisher": "eBible.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/eng-web/1ES01.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 1 Esdras 1",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched https://ebible.org/eng-web/1ES01.htm",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "1:25: Pharaoh came \"to make war at Carchemish on the Euphrates\"; 1:27: \"my war is against the Euphrates\"; 1:28: Josias did not regard \"the words of the prophet Jeremy from the Lord's mouth\"; 1:29: battle \"in the plain of Megiddo\"; 1:31: after he was brought back to Jerusalem he died; 1:32: Jeremy lamented for Josias",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Greek parallel to 2 Chr 35–36; quoted only briefly.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

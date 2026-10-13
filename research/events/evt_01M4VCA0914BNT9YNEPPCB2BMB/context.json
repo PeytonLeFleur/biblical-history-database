@@ -4,7 +4,7 @@
   "resume_from": null,
   "text_summary": {
     "layer": "text",
-    "body": "Josiah commanded the people to keep the Passover as written in the book of the covenant; none like it had been kept since the days of the judges; it was kept in Jerusalem in Josiah's eighteenth year.",
+    "body": "Josiah commanded the people to keep the Passover as written in the book of the covenant; none like it had been kept since the days of the judges; it was kept in Jerusalem in Josiah's eighteenth year. Chronicles (35:1–19) adds the date, the fourteenth day of the first month, the return of the ark to the Temple, and the animals given: 30,000 lambs and kids and 3,000 bulls from the king, 2,600 and 300 from the priests' officials, 5,000 and 500 from the Levite chiefs.",
     "passage": "2Kgs.23.21-2Kgs.23.23"
   },
   "setting": {
@@ -92,6 +92,17 @@
       ],
       "summary": "With a Nisan new year the discovery, covenant and purge would precede 14 Nisan of the same year; with a Tishri new year there could be up to six months. The text's calendar is not stated.",
       "citations": []
+    },
+    {
+      "label": "LXX \"in the eighth month\" at 2 Kgs 22:3 as evidence for autumn regnal years",
+      "proponents": [
+        "O. Thenius and E. Bertheau (as reported by Keil)",
+        "C. F. Keil (1872) rejects it as a \"worthless gloss\""
+      ],
+      "summary": "If the discovery fell in the eighth month of a Tishri-based year, there would be time before the Passover of the same regnal year; Keil argues the gloss proves nothing.",
+      "citations": [
+        "src_01M4VD9NM3WA15Z997YGN099AG"
+      ]
     }
   ],
   "commentary": [
@@ -100,6 +111,13 @@
       "layer": "interpretation",
       "paraphrase": "Guzik treats the Passover as a national observance restored after long neglect.",
       "url": "https://enduringword.com/bible-commentary/2-kings-23/",
+      "accessed": "2026-10-13"
+    },
+    {
+      "source_id": "src_01M4VD9NKZC2WKHDG4KR0NM73D",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that Hezekiah's Passover had to be held in the second month, while Josiah's was on time; Selman counts more than double Hezekiah's offerings and notes that the Levites slaughtered the lambs.",
+      "url": "https://enduringword.com/bible-commentary/2-chronicles-35/",
       "accessed": "2026-10-13"
     }
   ],

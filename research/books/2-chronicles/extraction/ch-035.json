@@ -1,0 +1,410 @@
+{
+  "book": "2Chr",
+  "chapter": 35,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "2Chr.35.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAMT3BTHEH9Q24D4BY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAMT3BTHEH9Q24D4BY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAMT3BTHEH9Q24D4BY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAMT3BTHEH9Q24D4BY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAMT3BTHEH9Q24D4BY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMAZCRWPJB68P21MP95"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMA9GJSENFA26AACAX5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "2Chr.35.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VD9NMA9GJSENFA26AACAX5"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VD9NMAKBMZRX5M4WG7B1F6",
+      "title": "The Passover of the fourteenth day of the first month",
+      "passage": "2Chr.35.1-2Chr.35.19",
+      "description": "Josiah kept the Passover on 14/I, set the priests in their offices, told the Levites to put the ark in the Temple, gave 30,000 lambs and kids and 3,000 bulls; officials and Levite chiefs gave more; the Levites slaughtered and prepared; none like it since Samuel; in the eighteenth year.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "economic"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Josiah",
+          "matched_entity_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Hilkiah",
+          "matched_entity_id": "per_01M4VCA09B9JZRGV1MJCFTV6P1",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "2Chr.35.1",
+          "phrase": "on the fourteenth day of the first month",
+          "kind": "absolute"
+        },
+        {
+          "ref": "2Chr.35.19",
+          "phrase": "in the eighteenth year of the reign of Josiah",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "2Kgs.23.21-2Kgs.23.23",
+        "2Chr.30.1-2Chr.30.27",
+        "Num.9.1-Num.9.5"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"Put the holy ark in the house\" (35:3) implies it had been removed; when and why is not stated.",
+        "\"Since Samuel\" (Chronicles) vs \"since the judges\" (Kings)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VCA0914BNT9YNEPPCB2BMB"
+    },
+    {
+      "id": "cnd_01M4VD9NMAMT3BTHEH9Q24D4BY",
+      "title": "Necho's warning; Josiah disguised, shot by archers at Megiddo; dies after reaching Jerusalem",
+      "passage": "2Chr.35.20-2Chr.35.24",
+      "description": "After all this Neco went up to fight against Carchemish by the Euphrates; he warned Josiah that God had commanded him to hurry; Josiah disguised himself, fought in the valley of Megiddo, was shot by archers, moved to his second chariot, brought to Jerusalem, and died.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "military",
+        "death",
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Neco king of Egypt",
+          "matched_entity_id": "per_01M4RSRHM3EYYN9YJSRMAW06DS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Josiah",
+          "matched_entity_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Carchemish by the Euphrates",
+          "matched_entity_id": "loc_01M4RSRHM9M410W5353093YPSM",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "the valley of Megiddo",
+          "matched_entity_id": "loc_01M4VCA09WYGCV57FHFGY7HH88",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "2Kgs.23.29-2Kgs.23.30",
+        "2Chr.18.29-2Chr.18.34"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Carchemish (Chronicles) vs Harran as the 609 objective (ABC 3).",
+        "Necho's message: historical speech or the Chronicler's framing (1 Esdras 1:28 attributes the warning to Jeremiah)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VCA091XV13ETPAWBT8TJK2"
+    },
+    {
+      "id": "cnd_01M4VD9NMAZCRWPJB68P21MP95",
+      "title": "Jeremiah's lament for Josiah; an ordinance of lamentation",
+      "passage": "2Chr.35.25",
+      "description": "Jeremiah lamented for Josiah; singers spoke of him in their laments \"to this day\"; they are written in \"the lamentations\".",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "social"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Jeremiah",
+          "matched_entity_id": "per_01M4V10B5GEQP115CCSGSG9JXY",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Josiah",
+          "matched_entity_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Jer.22.10-Jer.22.12",
+        "Zech.12.11"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "\"The lamentations\" — a lost collection (Curtis; Payne via Guzik), not the canonical Lamentations."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VCA091XV13ETPAWBT8TJK2"
+    },
+    {
+      "id": "cnd_01M4VD9NMA9GJSENFA26AACAX5",
+      "title": "Closing summary of Josiah's acts",
+      "passage": "2Chr.35.26-2Chr.35.27",
+      "description": "The rest of Josiah's acts and good deeds are written in the book of the kings of Israel and Judah.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "royal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Josiah",
+          "matched_entity_id": "per_01M4VCA096FW6DW2X4J9H9BW7B",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "2Kgs.23.28"
+      ],
+      "research_priority": "background",
+      "ambiguities": [
+        "Source citation formula; no separate event."
+      ],
+      "job_id": null,
+      "event_id": null
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-2-chronicles-34-35.md"
+}

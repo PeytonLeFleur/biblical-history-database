@@ -44,6 +44,13 @@
       "engine": "pleiades",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "WEB 1 Esdras 1; Curtis & Madsen pp. 516–518; Keil Chronicles pp. 504–505",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": "Added in the 2 Chronicles 34–35 unit."
     }
   ],
   "domains": {
@@ -125,10 +132,12 @@
         "evd_01M4VCA0BQKC4JK09MQ51XWZSK"
       ],
       "counterevidence": [
-        "evd_01M4VCA0BQT629ZV4CXMJBMQM1"
+        "evd_01M4VCA0BQT629ZV4CXMJBMQM1",
+        "evd_01M4VD9NNA542Z4W4B938BYQTY"
       ],
       "contextual_evidence": [
-        "evd_01M4VCA0BQ4QX5TPXZ5HGN1B87"
+        "evd_01M4VCA0BQ4QX5TPXZ5HGN1B87",
+        "evd_01M4VD9NNARD33NAAFEHESG2JG"
       ],
       "limitations": [],
       "reviewer_status": "requires_review",
@@ -168,6 +177,50 @@
       ],
       "counterevidence": [],
       "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VD9NNAMZ7WE9R5W3XVW27T",
+      "statement": "Necho's objective in 609 was Carchemish on the Euphrates (2 Chr 35:20; 1 Esd 1:25).",
+      "layer": "reconstruction",
+      "passage": "2Chr.35.20",
+      "classification": "disputed",
+      "reasoning": "Chronicles and 1 Esdras name Carchemish; Kings names the king of Assyria and the Euphrates; ABC 3 shows the 609 Egyptian army crossing the Euphrates against Harran, without naming the crossing point. Keil takes Carchemish at face value; Curtis and Madsen hold that the writer introduced it from Necho's defeat there in 605. Carchemish as a crossing point on the way to Harran would reconcile the sources but is not attested for 609 in the texts read.",
+      "supporting_evidence": [
+        "evd_01M4VD9NNA0W6B4NPJDEYE7PCN",
+        "evd_01M4VD9NNA7BXFW5EB8E8Y90BZ"
+      ],
+      "counterevidence": [
+        "evd_01M4VD9NNA35ET58GP9VJGZTHR",
+        "evd_01M4VD9NNA8RWFVFQYBSCR9WHV"
+      ],
+      "contextual_evidence": [],
+      "limitations": [
+        "1 Esdras depends on Chronicles here."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VD9NND37YGTHTZCY63QBVF",
+      "statement": "Necho sent Josiah a warning that he had not come against Judah (2 Chr 35:21).",
+      "layer": "reconstruction",
+      "passage": "2Chr.35.20",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Recorded only in Chronicles and 1 Esdras (which attributes the warning to \"the prophet Jeremy from the Lord's mouth\"). Keil treats the speech as historical; Curtis and Madsen think it \"probably\" a fiction modelled, with the disguise and the archers, on Ahab's death (2 Chr 18:29–34). No external source bears on it.",
+      "supporting_evidence": [
+        "evd_01M4VD9NNDXWJ5KDQ8TAM58KZY"
+      ],
+      "counterevidence": [
+        "evd_01M4VD9NND41HTMMT1S3C6AMA5"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VD9NND3X21S3YHGQGZQDJ7"
+      ],
       "limitations": [],
       "reviewer_status": "machine_proposed",
       "review_required": false,
@@ -382,6 +435,150 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "keil-1872"
+    },
+    {
+      "id": "evd_01M4VD9NNA542Z4W4B938BYQTY",
+      "claim_ids": [
+        "clm_01M4VCA0BQSQCMRCTNXD9Y1FRP"
+      ],
+      "source_id": "src_01M4VD9NM9S4WZKADVMPDWD3YK",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Carried out of the battle, he got into his second chariot and died after being brought back to Jerusalem.",
+      "locator": "1 Esd 1:30–31",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VD9NNARD33NAAFEHESG2JG",
+      "claim_ids": [
+        "clm_01M4VCA0BQSQCMRCTNXD9Y1FRP"
+      ],
+      "source_id": "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Kings has him slain at Megiddo, Chronicles dying after reaching Jerusalem; an assassination reading of Kings is unlikely.",
+      "locator": "p. 517",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "curtis-madsen-1910"
+    },
+    {
+      "id": "evd_01M4VD9NNA0W6B4NPJDEYE7PCN",
+      "claim_ids": [
+        "clm_01M4VD9NNAMZ7WE9R5W3XVW27T"
+      ],
+      "source_id": "src_01M4VD9NM9S4WZKADVMPDWD3YK",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Pharaoh came to make war at Carchemish on the Euphrates.",
+      "locator": "1 Esd 1:25",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VD9NNA7BXFW5EB8E8Y90BZ",
+      "claim_ids": [
+        "clm_01M4VD9NNAMZ7WE9R5W3XVW27T"
+      ],
+      "source_id": "src_01M4VD9NM3WA15Z997YGN099AG",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Necho came up to fight at Carchemish on the Euphrates.",
+      "locator": "p. 504",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1872-chronicles"
+    },
+    {
+      "id": "evd_01M4VD9NNA35ET58GP9VJGZTHR",
+      "claim_ids": [
+        "clm_01M4VD9NNAMZ7WE9R5W3XVW27T"
+      ],
+      "source_id": "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Carchemish was introduced from the battle there two years later.",
+      "locator": "pp. 516–517",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "curtis-madsen-1910"
+    },
+    {
+      "id": "evd_01M4VD9NNA8RWFVFQYBSCR9WHV",
+      "claim_ids": [
+        "clm_01M4VD9NNAMZ7WE9R5W3XVW27T"
+      ],
+      "source_id": "src_01M4RSRHKDJ3GDT201E0SGMSM2",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "The 609 objective was Harran.",
+      "locator": "year 17",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-chronicle"
+    },
+    {
+      "id": "evd_01M4VD9NNDXWJ5KDQ8TAM58KZY",
+      "claim_ids": [
+        "clm_01M4VD9NND37YGTHTZCY63QBVF"
+      ],
+      "source_id": "src_01M4VD9NM3WA15Z997YGN099AG",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The message is explained philologically as Necho's own words.",
+      "locator": "pp. 504–505",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1872-chronicles"
+    },
+    {
+      "id": "evd_01M4VD9NND41HTMMT1S3C6AMA5",
+      "claim_ids": [
+        "clm_01M4VD9NND37YGTHTZCY63QBVF"
+      ],
+      "source_id": "src_01M4VD9NM6XAJ5DNG9TYP4VPSF",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Whether historic or a fiction is impossible to determine — \"probably the latter\".",
+      "locator": "p. 517",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "curtis-madsen-1910"
+    },
+    {
+      "id": "evd_01M4VD9NND3X21S3YHGQGZQDJ7",
+      "claim_ids": [
+        "clm_01M4VD9NND37YGTHTZCY63QBVF"
+      ],
+      "source_id": "src_01M4VD9NM9S4WZKADVMPDWD3YK",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Josias disregarded \"the words of the prophet Jeremy from the Lord's mouth\".",
+      "locator": "1 Esd 1:28",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
     }
   ],
   "artifacts": [],
@@ -389,6 +586,7 @@
   "documents": [],
   "research_gaps": [
     "Megiddo excavation reports (Iron Age II strata) not read.",
-    "Egyptian sources for Necho II's Asiatic campaigns not researched."
+    "Egyptian sources for Necho II's Asiatic campaigns not researched.",
+    "Payne's claim (via Guzik) that Megiddo Stratum II confirms the battle was not verified."
   ]
 }

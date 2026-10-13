@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VD9NNDV0SSASCBE7N08PKJ",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VD9NNAMZ7WE9R5W3XVW27T",
+  "record_revision": 1,
+  "reason": "Disputed: was Carchemish Necho's objective in 609 (2 Chr 35:20), or is it carried back from the battle of 605 (ABC 3 names Harran)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T19:54:40.685Z",
+  "decisions": [],
+  "is_fixture": false
+}
