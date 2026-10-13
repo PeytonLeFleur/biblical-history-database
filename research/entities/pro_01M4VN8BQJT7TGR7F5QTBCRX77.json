@@ -1,0 +1,67 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VN8BQJT7TGR7F5QTBCRX77",
+  "slug": "the-branch-shall-build-the-temple-zech-6",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VN8BQJGX1H4J4X0VXWYNR2",
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+  ],
+  "notes": null,
+  "title": "\"The man whose name is the Branch\" shall build the temple; a priest on his throne (Zech 6:9–15)",
+  "passage": "Zech.6.11-Zech.6.15",
+  "speaker": "The LORD through Zechariah",
+  "vision_id": null,
+  "description": "Crowns made from the exiles' silver and gold are set on Joshua's head with the words: the man whose name is the Branch will branch out and build the LORD's temple, bear royal honour and rule on his throne; there will be a priest on his throne, and the counsel of peace between them both; those far off will come and build.",
+  "in_text_interpretation": "The text names Joshua as the one crowned (MT) and the Branch as the builder; the two figures are not equated explicitly.",
+  "interpretations": [
+    {
+      "id": "ful_01M4VN8BR6K8R210BFH7J6QBJG",
+      "label": "Joshua's crowning typifies the Messiah, priest and king in one",
+      "approach": "mixed",
+      "framework": "Traditional Christian",
+      "proponents": [
+        "C. F. Keil (1868): a typical act pointing to a man who would combine royalty and priesthood; Zerubbabel must not be interpolated",
+        "D. Guzik: the King-Priest Jesus (cf. Ps 110:4; Heb 7)"
+      ],
+      "summary": "Textual reasoning: a royal crown ('aṭārâ) did not belong to the high priest, so the act signifies one who will \"be a priest on his throne\"; \"speak to him\" is singular (Keil). The Branch builds a temple that Guzik reads as God's people (Eph 2:19–22). Objection: Mitchell holds that the original text crowned Zerubbabel.",
+      "referents": [
+        {
+          "symbol": "The man whose name is the Branch",
+          "referent": "The Messiah as priest-king"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VN8BQJGX1H4J4X0VXWYNR2"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VN8BR6QHP9J425HKQVR1YN",
+      "label": "Zechariah crowned (or meant to crown) Zerubbabel as the Branch; the text was altered to Joshua",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912), with Wellhausen"
+      ],
+      "summary": "Textual reasoning: Zechariah and Haggai expected Zerubbabel to build the temple and fulfil the Messianic hopes (Zech 4:9; Hag 2:23); crowning Joshua would contradict them. A scribe adjusted the text when no Davidide ruled again and the high priest became head of the community. Historical evidence: Zerubbabel disappears from the record.",
+      "referents": [
+        {
+          "symbol": "The man whose name is the Branch",
+          "referent": "Zerubbabel"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

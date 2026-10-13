@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VN8BSEVQWMVQYX2AF3GDJT",
+  "record_kind": "event",
+  "record_id": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: the crowning of Joshua and the oracle of the Branch (Zech 6:9–15)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T22:13:46.414Z",
+  "decisions": [],
+  "is_fixture": false
+}

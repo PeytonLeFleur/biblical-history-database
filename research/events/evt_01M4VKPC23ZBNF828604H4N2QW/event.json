@@ -2,7 +2,7 @@
   "id": "evt_01M4VKPC23ZBNF828604H4N2QW",
   "slug": "zechariahs-night-visions-24-shebat",
   "title": "Zechariah's night visions (24 Shebat, Darius year 2; Zech 1:7–6:8)",
-  "summary": "On the twenty-fourth of Shebat in Darius's second year Zechariah received a series of night visions with an interpreting angel: the horsemen among the myrtles, the four horns and craftsmen, the man with the measuring line, Joshua the high priest cleansed, and the lampstand with two olive trees (chapters 1–4 extracted); chapters 5–6 continue the series.",
+  "summary": "On the twenty-fourth of Shebat in Darius's second year Zechariah received eight night visions with an interpreting angel: the horsemen among the myrtles; four horns and four craftsmen; the man with the measuring line; Joshua the high priest cleansed; the lampstand and two olive trees; the flying scroll; the woman in the ephah carried to Shinar; and the four chariots.",
   "is_fixture": false,
   "candidate_ids": [
     "cnd_01M4VKPC31SQ98CW612DS5ZMEM",
@@ -13,7 +13,10 @@
     "cnd_01M4VMFQ9JKQF9MYFWCQEJP43H",
     "cnd_01M4VMFQ9JEPNC7VKV8FEPXRP3",
     "cnd_01M4VMFQ9JQQ31QTWV2V94TZ3A",
-    "cnd_01M4VMFQ9JS6VSFTM19ZP7FQ4H"
+    "cnd_01M4VMFQ9JS6VSFTM19ZP7FQ4H",
+    "cnd_01M4VN8BRCFC1DJZTWBJWV4BAZ",
+    "cnd_01M4VN8BRCG7G9VV895VGNM0PT",
+    "cnd_01M4VN8BRCWVVY98QS4X6ZSVCS"
   ],
   "external_reason": null,
   "is_period": false,
@@ -28,9 +31,9 @@
   "parent_event_id": null,
   "mentions": [
     {
-      "passage": "Zech.1.7-Zech.4.14",
+      "passage": "Zech.1.7-Zech.6.8",
       "mention_type": "narration",
-      "notes": "Visions 1–5 and their oracles; chapters 5–6 to follow."
+      "notes": "All eight night visions."
     }
   ],
   "stages": {
@@ -60,7 +63,7 @@
       "reason": null
     }
   },
-  "revision": 2,
+  "revision": 3,
   "created_at": "2026-10-13",
   "updated_at": "2026-10-13",
   "last_reviewed_at": null

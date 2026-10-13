@@ -1,0 +1,923 @@
+# Crowns made from the exiles' gifts and set on Joshua; the oracle of the Branch (Zech 6:9–15)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Zechariah 6:9–15 (narration)
+
+## Biblical account
+
+Take from the exiles Heldai, Tobijah and Jedaiah, who have come from Babylon, and go to the house of Josiah son of Zephaniah; take silver and gold, make crowns and set them on the head of Joshua son of Jehozadak, the high priest. Say: the man whose name is the Branch will branch out and build the LORD's temple; he will bear royal honour and rule on his throne; a priest will be on his throne, and the counsel of peace will be between them both. The crowns will be a memorial in the temple; those far off will come and build.
+
+## Historical setting
+
+**Period:** c. 519–516 BC (undated; between the visions of 519 and the oracle of Darius year 4)
+
+Gifts from exiles arriving from Babylon during the rebuilding. Mitchell notes that no descendant of David ruled again and the high priest later became head of the community. [1]
+
+## Date and chronology
+
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+- **520 BC – 515 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → cst_01M4VKPC33EJ9WMX2F5BSTWGEK → cst_01M4VKPC33CGQNH7PSP2JPQYGY → cst_01M4VKPC33SWHDQBQR309HJES3 → “The LORD's word came to me (following the night visions)”
+  - Latest bound from: cst_01M4V10B62NBXSSKGAPCE38HN2|cst_01M4V10B62NBXSSKGAPCE38HN2#own-convention → “He shall build the temple of the LORD”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “The LORD's word came to me (following the night visions)” (Zechariah 6:9) → `after` Zechariah's night visions (24 Shebat, Darius year 2; Zech 1:7–6:8); assumptions: Undated in the text; placed after the visions by narrative order only. Zech 7:1 (Darius year 4) follows.
+- “He shall build the temple of the LORD” (Zechariah 6:12–13) → `before` The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15); assumptions: The oracle speaks of the temple as still to be built.
+
+## Geography
+
+- Jerusalem (Crowning and memorial in the temple; confidence: certain)
+  - Pleiades representative point: certain [2]
+- Babylon (Origin of the donors; confidence: certain)
+  - Babylon (Pleiades 893951): certain [3]
+
+## Competing reconstructions
+
+- **Joshua crowned as a type of the priest-king Messiah** (C. F. Keil (1868), D. Guzik): The words are addressed to Joshua alone; Zerubbabel must not be inserted. [4, 5]
+- **Zerubbabel originally crowned; the name changed to Joshua by a later scribe** (H. G. Mitchell (1912), with Wellhausen): Crowning Joshua would contradict Zechariah's own teaching that Zerubbabel would build the temple. [1]
+
+## Claims and evidence
+
+### The crowns of Zech 6:11 were set on Joshua the high priest, as the received text says, rather than on Zerubbabel.
+
+**Classification:** Disputed (requires review) · layer: text
+
+The Masoretic text names Joshua; Keil and Guzik defend it as a typical act; Mitchell, with Wellhausen, argues on internal grounds (Zech 4:9; Hag 2:23) that the original named Zerubbabel and was altered when the high priesthood became the community's leadership. No manuscript evidence for "Zerubbabel" was cited in the sources read.
+
+- *Supporting (indirect):* "Speak to him" is singular; Zerubbabel must not be interpolated into v. 11. (pp. 298–299) [4]
+- *Supporting (indirect):* Joshua was crowned as a sign of the King-Priest; emendation to Zerubbabel rejected. (on 6:11) [5]
+- *Challenging (indirect):* The original must have named Zerubbabel; the present reading is a scribe's attempt to harmonise the prophet with history. (pp. 185–186) [1]
+
+*Limitations:* Textual witnesses (LXX, Targum) not checked directly.
+
+## Related passages and events
+
+- this event → **direct reference** → pro_01M4VN8BQJT7TGR7F5QTBCRX77 (high): The oracle spoken at the crowning.
+- pro_01M4VN8BQJT7TGR7F5QTBCRX77 → **thematic parallel** → pro_01M4VMFQ8Q4JJQJF2SCFNPAPJ8 (high): The Branch of 3:8 named again as the temple-builder.
+- this event → **thematic parallel** → Psalms 110:4 (medium): A king who is also a priest (Guzik). [5]
+- this event → **thematic parallel** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (medium): "He shall build the temple" — the Temple completed in Darius's sixth year (which builder the oracle meant is disputed).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik calls crowning a high priest unthinkable except as prophecy of the King-Priest Jesus and rejects emending the text to Zerubbabel. [5]
+
+## Unanswered questions and research gaps
+
+- Ancient versions of 6:11–14 not consulted directly.
+- The identity and later history of Heldai, Tobijah, Jedaiah and Josiah son of Zephaniah are not researched.
+
+## Disputes
+
+- The crowns of Zech 6:11 were set on Joshua the high priest, as the received text says, rather than on Zerubbabel.
+
+## Sources
+
+1. Mitchell, Hinckley G., Smith, J. M. P., Bewer, J. A.. A Critical and Exegetical Commentary on Haggai, Zechariah, Malachi and Jonah (International Critical Commentary). T. & T. Clark / Scribner, 1912. <https://archive.org/details/criticalexegetic25mitcuoft> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
+4. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Twelve Minor Prophets, vol. 2 (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1868 (1878 printing). <https://archive.org/details/thetwelveminorpr02keiluoft> — *scholarly commentary; verification: claim checked*
+5. Guzik, David. Zechariah 6 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-6/> — *theological commentary; verification: claim checked*

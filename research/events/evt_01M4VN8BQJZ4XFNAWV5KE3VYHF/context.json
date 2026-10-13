@@ -1,0 +1,128 @@
+{
+  "event_id": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Take from the exiles Heldai, Tobijah and Jedaiah, who have come from Babylon, and go to the house of Josiah son of Zephaniah; take silver and gold, make crowns and set them on the head of Joshua son of Jehozadak, the high priest. Say: the man whose name is the Branch will branch out and build the LORD's temple; he will bear royal honour and rule on his throne; a priest will be on his throne, and the counsel of peace will be between them both. The crowns will be a memorial in the temple; those far off will come and build.",
+    "passage": "Zech.6.9-Zech.6.15"
+  },
+  "setting": {
+    "period": "c. 519–516 BC (undated; between the visions of 519 and the oracle of Darius year 4)",
+    "body": "Gifts from exiles arriving from Babylon during the rebuilding. Mitchell notes that no descendant of David ruled again and the high priest later became head of the community.",
+    "citations": [
+      "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+    ]
+  },
+  "rulers": [],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VN8BRNPFPQ7PAD9WR6VXD1",
+      "subject": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF",
+      "object": "evt_01M4VKPC23ZBNF828604H4N2QW",
+      "relation": "after",
+      "textual_assertion": "The LORD's word came to me (following the night visions)",
+      "passage": "Zech.6.9",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Undated in the text; placed after the visions by narrative order only. Zech 7:1 (Darius year 4) follows."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    },
+    {
+      "id": "cst_01M4VN8BRNVF146FZXRJTY49F2",
+      "subject": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF",
+      "object": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+      "relation": "before",
+      "textual_assertion": "He shall build the temple of the LORD",
+      "passage": "Zech.6.12-Zech.6.13",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The oracle speaks of the temple as still to be built."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Crowning and memorial in the temple",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Origin of the donors",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "'aṭārôt (crowns, 6:11, 14)",
+      "gloss": "Royal crowns, not the high priest's turban (Keil); the plural is variously explained (Keil: perhaps a silver and a gold one).",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Joshua crowned as a type of the priest-king Messiah",
+      "proponents": [
+        "C. F. Keil (1868)",
+        "D. Guzik"
+      ],
+      "summary": "The words are addressed to Joshua alone; Zerubbabel must not be inserted.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VN8BQJGX1H4J4X0VXWYNR2"
+      ]
+    },
+    {
+      "label": "Zerubbabel originally crowned; the name changed to Joshua by a later scribe",
+      "proponents": [
+        "H. G. Mitchell (1912), with Wellhausen"
+      ],
+      "summary": "Crowning Joshua would contradict Zechariah's own teaching that Zerubbabel would build the temple.",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VN8BQJGX1H4J4X0VXWYNR2",
+      "layer": "interpretation",
+      "paraphrase": "Guzik calls crowning a high priest unthinkable except as prophecy of the King-Priest Jesus and rejects emending the text to Zerubbabel.",
+      "url": "https://enduringword.com/bible-commentary/zechariah-6/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The identity and later history of Heldai, Tobijah, Jedaiah and Josiah son of Zephaniah are not researched."
+  ],
+  "not_applicable": {}
+}

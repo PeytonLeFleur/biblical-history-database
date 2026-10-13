@@ -1,6 +1,6 @@
 {
   "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
-  "revision": 1,
+  "revision": 3,
   "validated_at": "2026-10-13",
   "checks": [
     {
@@ -44,7 +44,11 @@
     "rev_01M4V10B78XPDN44BGF9QT8EQA",
     "rev_01M4V10B79ACE1VSMET4MYC97V",
     "rev_01M4V10B7APP7CEJPJGK8XE33P",
-    "rev_01M4VKPC4Q7C5815H1Z6R1XR2T"
+    "rev_01M4VJCXBC1JDP5WEW96M161MX",
+    "rev_01M4VKPC4Q7C5815H1Z6R1XR2T",
+    "rev_01M4VMFQ9TPJF5BM0YPHNQXYGP",
+    "rev_01M4VMFQA490E817W01QVJ6DB0",
+    "rev_01M4VMFQADJBKAN2N084JDJEGQ"
   ],
   "research_gaps": [
     "Persian revolts of 521–519 (Behistun) not re-examined for 1:11.",

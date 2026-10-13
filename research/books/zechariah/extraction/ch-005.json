@@ -1,0 +1,152 @@
+{
+  "book": "Zech",
+  "chapter": 5,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.5.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCFC1DJZTWBJWV4BAZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCFC1DJZTWBJWV4BAZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCFC1DJZTWBJWV4BAZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCFC1DJZTWBJWV4BAZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCG7G9VV895VGNM0PT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCG7G9VV895VGNM0PT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCG7G9VV895VGNM0PT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCG7G9VV895VGNM0PT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCG7G9VV895VGNM0PT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCG7G9VV895VGNM0PT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.5.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VN8BRCG7G9VV895VGNM0PT"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VN8BRCFC1DJZTWBJWV4BAZ",
+      "title": "Sixth night vision: the flying scroll — the curse on thieves and perjurers",
+      "passage": "Zech.5.1-Zech.5.4",
+      "description": "A flying scroll twenty by ten cubits is the curse over the land that will consume the houses of thieves and false swearers.",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "1Kgs.6.3",
+        "Exod.20.7",
+        "Exod.20.15"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    },
+    {
+      "id": "cnd_01M4VN8BRCG7G9VV895VGNM0PT",
+      "title": "Seventh night vision: Wickedness in the ephah carried to Shinar",
+      "passage": "Zech.5.5-Zech.5.11",
+      "description": "A woman (Wickedness) in an ephah under a lead cover is carried by two winged women to Shinar, where a house is built for it.",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "the land of Shinar",
+          "matched_entity_id": "loc_01M4RSRHM9YTFFFDKAZA0NJ3Y9",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Gen.11.2",
+        "Dan.1.2",
+        "Rev.18.2"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-5-6.md"
+}

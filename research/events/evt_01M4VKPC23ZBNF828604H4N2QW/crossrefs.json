@@ -21,6 +21,19 @@
         "Zech.1.10",
         "Zech.1.11"
       ]
+    },
+    {
+      "name": "Shinar",
+      "books_searched": 66,
+      "hits": [
+        "Dan.1.2",
+        "Gen.10.10",
+        "Gen.11.2",
+        "Gen.14.1",
+        "Gen.14.9",
+        "Isa.11.11",
+        "Zech.5.11"
+      ]
     }
   ],
   "relationships": [
@@ -393,6 +406,80 @@
       "interpretive_approach": null,
       "proposed_by": null,
       "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VN8BRGXJ8M9YDK892V17C7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.6.1-Rev.6.8"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Coloured horses as agents sent through the earth (Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VN8BQJGX1H4J4X0VXWYNR2"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VN8BRG1C1WDGTJJR7SRMM7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Gen.11.2"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Shinar, the land of Babel, as the home of Wickedness (5:11).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VN8BRG6XJQ460KBQK52Y3P",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VN8BQJZ4XFNAWV5KE3VYHF"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The crowning oracle follows the visions in the book (6:9).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
       "review_required": false
     }
   ],
