@@ -1,0 +1,59 @@
+{
+  "id": "evt_01M4VKPC23E13MFWG57MHGXF4E",
+  "slug": "zechariahs-call-to-return-zech-1",
+  "title": "Zechariah's first oracle: the call to return (8th month, Darius year 2)",
+  "summary": "In the eighth month of Darius I's second year Zechariah called the people to return to the LORD, unlike their fathers who had ignored the former prophets.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VKPC31FS8T65ZBW91HD59H"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "prophetic_oracle",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "medium",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Zech.1.1-Zech.1.6",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

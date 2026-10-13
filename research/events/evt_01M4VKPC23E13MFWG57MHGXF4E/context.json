@@ -1,0 +1,119 @@
+{
+  "event_id": "evt_01M4VKPC23E13MFWG57MHGXF4E",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In the eighth month of Darius's second year the word came to Zechariah son of Berechiah, son of Iddo: the LORD was very angry with your fathers; return to me and I will return to you; do not be like your fathers, who did not listen to the former prophets; my words overtook them, and they repented.",
+    "passage": "Zech.1.1-Zech.1.6"
+  },
+  "setting": {
+    "period": "October–November 520 BC",
+    "body": "Two months after Haggai's first oracle and a few weeks after his oracle of 21/VII; the Temple work had resumed on 24/VI.",
+    "citations": [
+      "src_01M4VKPC1XSDRD4906C2B77VBH",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "King of Persia (dating)",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VKPC33DD3F3ND2ZB1SE371",
+      "subject": "evt_01M4VKPC23E13MFWG57MHGXF4E",
+      "object": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the eighth month, in the second year of Darius",
+      "passage": "Zech.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 2,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Babylonian Nisan-based regnal years: year 2 = 3 April 520 – 22 March 519 (Parker & Dubberstein). The eighth month fell in October–November 520."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4VKPC33EJ9WMX2F5BSTWGEK",
+      "subject": "evt_01M4VKPC23E13MFWG57MHGXF4E",
+      "object": "evt_01M4VJCXA9VGNZ9MCTGPR4VK5D",
+      "relation": "after",
+      "textual_assertion": "eighth month, after Haggai's oracle of 21/VII",
+      "passage": "Zech.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VKPC33CGQNH7PSP2JPQYGY",
+      "subject": "evt_01M4VKPC23E13MFWG57MHGXF4E",
+      "object": "evt_01M4VJCXA9D078PEYHHA2MDTMR",
+      "relation": "before",
+      "textual_assertion": "eighth month, before Haggai's oracles of 24/IX",
+      "passage": "Zech.1.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VKPC1XSDRD4906C2B77VBH",
+      "layer": "interpretation",
+      "paraphrase": "Guzik dates the oracle to October–November 520 and stresses the call to repentance before rebuilding.",
+      "url": "https://enduringword.com/bible-commentary/zechariah-1/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Zechariah is \"son of Berechiah, son of Iddo\" here but \"son of Iddo\" in Ezra 5:1 and 6:14 (grandson called son, or a conflation). Matt 23:35 names \"Zechariah son of Barachiah\" in a different context (cf. 2 Chr 24:20–21)."
+  ],
+  "not_applicable": {
+    "locations": "Jerusalem implied; no location research needed.",
+    "competing_reconstructions": "The oracle is undisputed; its date follows the superscription."
+  }
+}

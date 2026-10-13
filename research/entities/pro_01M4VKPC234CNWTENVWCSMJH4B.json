@@ -1,0 +1,68 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4VKPC234CNWTENVWCSMJH4B",
+  "slug": "four-horns-cast-down-zech-1",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4VKPC1XSDRD4906C2B77VBH"
+  ],
+  "notes": null,
+  "title": "The horns that scattered Judah will be cast down (Zech 1:18–21)",
+  "passage": "Zech.1.18-Zech.1.21",
+  "speaker": "The angel who talked with Zechariah",
+  "vision_id": "vis_01M4VKPC236XF28D67HWEP55CJ",
+  "description": "The powers that scattered Judah, Israel and Jerusalem will be terrified and cast down by four craftsmen.",
+  "in_text_interpretation": "The horns are \"the horns of the nations\" that scattered Judah; neither horns nor craftsmen are named.",
+  "interpretations": [
+    {
+      "id": "ful_01M4VKPC2NDK20NRHCNGB8T898",
+      "label": "The four empires of Daniel: Babylon, Medo-Persia, Greece, Rome",
+      "approach": "historicist",
+      "framework": "Traditional (Jerome; Jewish and Christian)",
+      "proponents": [
+        "C. F. Keil (1868), with Jerome, Abarbanel and Hengstenberg",
+        "D. Guzik (\"likely\", if read prophetically)"
+      ],
+      "summary": "Textual reasoning: horns for kingdoms recall Dan 7:7–8 and 8:3–9; four horns seen together can stand for empires that followed one another (as the four beasts of Dan 7). Objection: Mitchell argues that no four specific powers can be identified for the dispersion Zechariah had in view, and Greece and Rome had not yet acted.",
+      "referents": [
+        {
+          "symbol": "Four horns",
+          "referent": "Babylon, Medo-Persia, Greece, Rome"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VKPC1XSDRD4906C2B77VBH"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4VKPC2P2RPHXAWB1YJDFT4N",
+      "label": "All the hostile powers that brought about the Judean dispersion; \"four\" for completeness",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)",
+        "Rashi (\"the Babylonians at the four winds of heaven\"), as reported by Mitchell"
+      ],
+      "summary": "Textual reasoning: the context (1:12) concerns the dispersion of Judah after Nebuchadnezzar; since the Jews had more than four adversaries but none of the Babylonians' class, four specific powers cannot be identified, and the number expresses totality. \"Israel\" in 1:19 is doubtful because 1:21 omits it.",
+      "referents": [
+        {
+          "symbol": "Four horns",
+          "referent": "The nations hostile to Judah, chiefly Babylon"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

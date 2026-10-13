@@ -1,0 +1,38 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4VKPC237DK5GJZXJBM6GT83",
+  "slug": "horsemen-among-the-myrtles-zech-1",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VKPC1XSDRD4906C2B77VBH",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4VJCX9WFDDMH4453WKV1J34"
+  ],
+  "notes": null,
+  "title": "The rider on the red horse among the myrtles (first night vision)",
+  "passage": "Zech.1.8-Zech.1.17",
+  "recipient_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+  "experience_event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "symbols": [
+    {
+      "symbol": "Man on a red horse among the myrtles",
+      "description": "Rider standing in the hollow",
+      "passage": "Zech.1.8",
+      "in_text_interpretation": "Called \"the angel of the LORD who stood among the myrtle trees\" (1:11)."
+    },
+    {
+      "symbol": "Red, sorrel and white horses",
+      "description": "Riders behind him",
+      "passage": "Zech.1.8",
+      "in_text_interpretation": "\"Those whom the LORD has sent to go back and forth through the earth\" (1:10)."
+    },
+    {
+      "symbol": "The earth at rest",
+      "description": "The patrol's report",
+      "passage": "Zech.1.11",
+      "in_text_interpretation": "The nations at ease, with whom the LORD is very angry (1:15)."
+    }
+  ],
+  "description": "A man on a red horse stands among myrtles in a hollow, with red, sorrel and white horses behind him; they report that the whole earth is at rest; the angel of the LORD asks how long the LORD will withhold mercy from Jerusalem, \"with which you have had indignation these seventy years\"; the LORD answers with comfort and the promise that his house will be built."
+}

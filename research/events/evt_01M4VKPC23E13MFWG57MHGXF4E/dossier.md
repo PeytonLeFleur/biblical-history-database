@@ -1,0 +1,905 @@
+# Zechariah's first oracle: the call to return (8th month, Darius year 2)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Zechariah 1:1–6 (narration)
+
+## Biblical account
+
+In the eighth month of Darius's second year the word came to Zechariah son of Berechiah, son of Iddo: the LORD was very angry with your fathers; return to me and I will return to you; do not be like your fathers, who did not listen to the former prophets; my words overtook them, and they repented.
+
+## Historical setting
+
+**Period:** October–November 520 BC
+
+Two months after Haggai's first oracle and a few weeks after his oracle of 21/VII; the Temple work had resumed on 24/VI. [1, 2]
+
+### Rulers
+
+- Darius I (the Great): King of Persia (dating) [2]
+
+## Date and chronology
+
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+- **520 BC – 519 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VGNQY96X6GQAXE9HB9C8R8|cst_01M4VGNQY96X6GQAXE9HB9C8R8#own-convention → cst_01M4VJCXABP5Q7T2A5BZC53PKV → “eighth month, after Haggai's oracle of 21/VII”
+  - Latest bound from: cst_01M4VKPC33DQPRFTNT9FJYGYVQ|cst_01M4VKPC33DQPRFTNT9FJYGYVQ#own-convention → cst_01M4VKPC33SWHDQBQR309HJES3 → “eighth month, before Haggai's oracles of 24/IX”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “In the eighth month, in the second year of Darius” (Zechariah 1:1) → `in_regnal_year` reign of Darius I (the Great); assumptions: Babylonian Nisan-based regnal years: year 2 = 3 April 520 – 22 March 519 (Parker & Dubberstein). The eighth month fell in October–November 520. [2]
+- “eighth month, after Haggai's oracle of 21/VII” (Zechariah 1:1) → `after` Haggai's oracle on the latter glory of the house (21/VII, Darius year 2)
+- “eighth month, before Haggai's oracles of 24/IX” (Zechariah 1:1) → `before` Haggai's oracles of 24/IX, Darius year 2: "from this day I will bless you"; Zerubbabel the signet
+
+## Claims and evidence
+
+### Zechariah's first oracle fell in the eighth month of Darius I's second year (October–November 520 BC).
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+The superscription dates it; Darius's second Babylonian year began 3 April 520, so the eighth month fell in autumn 520 (Parker & Dubberstein); Guzik gives October–November 520.
+
+- *Supporting (direct):* Year 2 began 3 April 520. (table, Darius I year 2) [2]
+- *Context (indirect):* October–November 520. (on 1:1) [1]
+
+## Related passages and events
+
+- this event → **thematic parallel** → Haggai and Zechariah stir the people; the Temple work resumes (Darius's second year, 520 BC) (high): Zechariah prophesied with Haggai during the rebuilding (Ezra 5:1; 6:14).
+- this event → **thematic parallel** → Matthew 23:35 (low): "Zechariah son of Barachiah" — whether Jesus refers to this prophet or to Zechariah son of Jehoiada (2 Chr 24:20–21) is debated (not researched here).
+- this event → **followed by** → Zechariah's night visions (24 Shebat, Darius year 2; Zech 1:7–6:8) (high): The night visions followed in the eleventh month.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik dates the oracle to October–November 520 and stresses the call to repentance before rebuilding. [1]
+
+## Unanswered questions and research gaps
+
+- Day not stated in the text.
+- Zechariah is "son of Berechiah, son of Iddo" here but "son of Iddo" in Ezra 5:1 and 6:14 (grandson called son, or a conflation). Matt 23:35 names "Zechariah son of Barachiah" in a different context (cf. 2 Chr 24:20–21).
+
+## Sources
+
+1. Guzik, David. Zechariah 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-1/> — *theological commentary; verification: claim checked*
+2. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*

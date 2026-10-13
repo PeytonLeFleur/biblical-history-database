@@ -1,0 +1,179 @@
+{
+  "book": "Zech",
+  "chapter": 2,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.2.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31N13DJJKS4GVFPW1X"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31N13DJJKS4GVFPW1X"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31N13DJJKS4GVFPW1X"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31N13DJJKS4GVFPW1X"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31N13DJJKS4GVFPW1X"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31TAP09G8N4XTCFNQ5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31TAP09G8N4XTCFNQ5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31TAP09G8N4XTCFNQ5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31TAP09G8N4XTCFNQ5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31TAP09G8N4XTCFNQ5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31TAP09G8N4XTCFNQ5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31TAP09G8N4XTCFNQ5"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.2.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VKPC31TAP09G8N4XTCFNQ5"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VKPC31N13DJJKS4GVFPW1X",
+      "title": "Third night vision: the man with a measuring line; Jerusalem without walls, the LORD a wall of fire",
+      "passage": "Zech.2.1-Zech.2.5",
+      "description": "A man measures Jerusalem; it will be inhabited as unwalled villages for the multitude, with the LORD as a wall of fire and the glory within.",
+      "record_type": "vision",
+      "literary_classification": "apocalyptic_vision",
+      "narrative_mode": "vision_content",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.2.17",
+        "Ezek.40.3",
+        "Rev.21.15-Rev.21.16"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    },
+    {
+      "id": "cnd_01M4VKPC31TAP09G8N4XTCFNQ5",
+      "title": "Oracle: flee from the land of the north and from Babylon; the LORD will dwell in Zion; many nations joined to him",
+      "passage": "Zech.2.6-Zech.2.13",
+      "description": "The exiles are called to flee the land of the north and escape Babylon; the plunderers will become plunder; the LORD will dwell in Zion, many nations will join him, he will inherit Judah and again choose Jerusalem; let all flesh be silent.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "the daughter of Babylon",
+          "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Zion",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Isa.48.20",
+        "Jer.51.6",
+        "Rev.18.4"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VKPC23ZBNF828604H4N2QW"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-1-2.md"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VKPC238R5GJTHVYCDF0R3N",
+  "title": "Zechariah 2 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/zechariah-2/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the commentary on Zechariah 2",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "The measuring man an angel; Jerusalem too small for the multitudes; a short-term fulfilment in God's protection under Ezra and Nehemiah and an ultimate one under the Messiah; \"flee from the land of the north\" — most exiles stayed in Babylon; Babylon literal and figurative (Rev 18:4–5); \"many nations shall be joined to the LORD\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

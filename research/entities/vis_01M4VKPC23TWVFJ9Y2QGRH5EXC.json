@@ -1,0 +1,30 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4VKPC23TWVFJ9Y2QGRH5EXC",
+  "slug": "man-with-a-measuring-line-zech-2",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VKPC238R5GJTHVYCDF0R3N"
+  ],
+  "notes": null,
+  "title": "The man with a measuring line (third night vision)",
+  "passage": "Zech.2.1-Zech.2.5",
+  "recipient_id": "per_01M4VGNQY6Y9FMQEZ61TF7Z26F",
+  "experience_event_id": "evt_01M4VKPC23ZBNF828604H4N2QW",
+  "symbols": [
+    {
+      "symbol": "Measuring line",
+      "description": "Measuring Jerusalem",
+      "passage": "Zech.2.1-Zech.2.2",
+      "in_text_interpretation": "Jerusalem will be inhabited as unwalled villages because of its multitude (2:4)."
+    },
+    {
+      "symbol": "Wall of fire",
+      "description": "Protection",
+      "passage": "Zech.2.5",
+      "in_text_interpretation": "The LORD himself will be the wall of fire around it and the glory within it (2:5)."
+    }
+  ],
+  "description": "A man goes to measure Jerusalem's width and length; an angel tells him that Jerusalem will be inhabited as villages without walls because of its multitude, the LORD being a wall of fire around it and the glory within."
+}
