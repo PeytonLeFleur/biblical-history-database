@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+  "title": "Babylonian King List of the Hellenistic Period (BM 35603) — Livius.org (trans. R. J. van der Spek)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "van der Spek, R. J. (trans.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/babylonian-king-list-of-the-hellenistic-period/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "BM 35603 (Hellenistic King List)",
+  "license": "Paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Rev. 9–10: year 137, Ulûlu: Seleucus IV died and Antiochus (IV) ascended the throne the same month, reigning eleven years; rev. 11–13: co-regency with a son, killed in year 142; rev. 14: year 148, Kislîmu: \"it was heard that\" Antiochus (IV) the king died",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "The page warns that the translation needs revision and some restorations are uncertain; \"son\" in rev. 10 is not literal (Antiochus IV was Seleucus IV's brother).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

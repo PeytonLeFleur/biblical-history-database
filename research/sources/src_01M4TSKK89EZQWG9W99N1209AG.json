@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TSKK89EZQWG9W99N1209AG",
+  "title": "Babylonian Talmud, Sanhedrin 38b and 98a (William Davidson Edition) — Sefaria",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Babylonian Talmud",
+    "Steinsaltz, Adin (William Davidson English Edition)"
+  ],
+  "publisher": "Sefaria",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.sefaria.org/Sanhedrin.98a",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "b. Sanhedrin 38b; 98a",
+  "license": "CC BY-NC; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched both pages through the Sefaria API",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "98a: R. Alexandri for R. Joshua b. Levi reconciles Dan 7:13 (clouds of heaven) and Zech 9:9 (on a donkey) — the Messiah comes with the clouds if Israel merits it; 38b: R. Akiva, \"one throne is for Him and one throne is for David\", disputed by R. Yose (thrones for judgment and righteousness)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

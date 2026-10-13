@@ -144,6 +144,25 @@
   "description": "Dates found in Greek witnesses but absent from the Masoretic/Aramaic text. Kept separate so textual traditions are never mixed (SPEC 12.6)."
  },
  {
+  "kind": "chronology_model",
+  "id": "chr_01M4TSKK913DZG51R7F571CXXT",
+  "slug": "belshazzar-regency-years",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+   "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": null,
+  "name": "Belshazzar's years counted from the entrusting of the kingship",
+  "scope": "reckoning_hypothesis",
+  "textual_tradition": null,
+  "is_absolute_axis": true,
+  "description": "Daniel dates visions to Belshazzar's first and third years (7:1; 8:1), but no Babylonian document counts years of Belshazzar. This model assumes Daniel counts from the moment Nabonidus \"entrusted the kingship\" to him (Verse Account ii), which the Chronicle and Smith (via Dougherty) place around Nabonidus's 3rd year. Outside this model the visions are left undated."
+ },
+ {
   "kind": "document",
   "id": "doc_01M4RSRHMDYF0HK9YRHYZG9M5G",
   "slug": "abc-5",
@@ -368,6 +387,52 @@
   ]
  },
  {
+  "kind": "document",
+  "id": "doc_01M4TSKK9V76S4FTYQP619PW20",
+  "slug": "1-enoch-parables",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "1 Enoch, Book of Parables (Similitudes), chs. 37–71",
+  "document_type": "Jewish apocalyptic text",
+  "language": "Ge'ez (from Aramaic/Hebrew)",
+  "standard_reference": "1 Enoch 37–71",
+  "artifact_id": null,
+  "date": {
+   "earliest": -104,
+   "latest": 70
+  },
+  "description": "Visions of the Head of Days and the Son of Man; date disputed (Charles: c. 105–64 BC; others later).",
+  "editions": [
+   "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+  ]
+ },
+ {
+  "kind": "document",
+  "id": "doc_01M4TSM63G2FPPK4VDTZPXJ18V",
+  "slug": "2-esdras-4-ezra",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "name": "2 Esdras (4 Ezra)",
+  "document_type": "Jewish apocalypse (with later Christian additions)",
+  "language": "Latin (from lost Hebrew/Greek)",
+  "standard_reference": "2 Esdras 3–14 (4 Ezra)",
+  "artifact_id": null,
+  "date": {
+   "earliest": 81,
+   "latest": 96
+  },
+  "description": "Apocalypse attributed to Ezra; its eagle vision (chs. 11–12) reinterprets Daniel's fourth kingdom as Rome, and ch. 13 has a man rising from the sea with the clouds. Dated by Driver \"probably under Domitian\" (AD 81–96).",
+  "editions": [
+   "src_01M4TSKK87BBJJJP35SD5PZGDP"
+  ]
+ },
+ {
   "kind": "kingdom",
   "id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
   "slug": "judah",
@@ -423,6 +488,61 @@
   "notes": null,
   "name": "Achaemenid Persian Empire",
   "description": "Persian empire founded by Cyrus II."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4TSKK8J4ARWJ6YCJ3F581YJ",
+  "slug": "median-kingdom",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4TPW4B94PGPS0RF27FB9FR2"
+  ],
+  "notes": null,
+  "name": "Median kingdom (Media)",
+  "description": "Iranian kingdom centred on Ecbatana; its last king Astyages was defeated by Cyrus (ABC 7 ii 1–4, year 6 of Nabonidus)."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4TSKK8MQZMPN5VWKA44XX5S",
+  "slug": "macedonian-empire",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "name": "Macedonian empire of Alexander the Great",
+  "description": "The empire of Alexander III of Macedon (336–323 BC), divided among his successors after his death."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A",
+  "slug": "seleucid-empire",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP"
+  ],
+  "notes": null,
+  "name": "Seleucid empire",
+  "description": "Hellenistic kingdom founded by Seleucus I (era from 312/311 BC), ruling Syria and Mesopotamia; Antiochus IV Epiphanes reigned 175–164 BC."
+ },
+ {
+  "kind": "kingdom",
+  "id": "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB",
+  "slug": "roman-state",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "name": "Rome (Republic and Empire)",
+  "description": "The Roman state, republic and empire; identified with Daniel's fourth kingdom in the traditional Christian reading."
  },
  {
   "kind": "place",
@@ -1164,6 +1284,52 @@
   "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
  },
  {
+  "kind": "person",
+  "id": "per_01M4TSKK8VW5AG2BZM9KZK8W3Y",
+  "slug": "alexander-the-great",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+   "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Alexander the Great",
+  "aliases": [],
+  "description": "Alexander III of Macedon (r. 336–323 BC), conqueror of the Persian empire.",
+  "kingdom_id": "kgd_01M4TSKK8MQZMPN5VWKA44XX5S"
+ },
+ {
+  "kind": "person",
+  "id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+  "slug": "antiochus-iv-epiphanes",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP",
+   "src_01M4TSKK8ARVERBJZ7ZE3YZBYB"
+  ],
+  "notes": null,
+  "canonical_name": "Antiochus IV Epiphanes",
+  "aliases": [
+   {
+    "alias": "Epiphanes",
+    "language": "Greek",
+    "source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+    "passage": null
+   },
+   {
+    "alias": "Epimanes (nickname)",
+    "language": "Greek",
+    "source_id": "src_01M4TSKK8ARVERBJZ7ZE3YZBYB",
+    "passage": null
+   }
+  ],
+  "description": "Seleucid king (175–164 BC), son of Antiochus III and brother of Seleucus IV; formerly a hostage at Rome (1 Macc 1:10). Polybius records the nickname Epimanes, \"madman\".",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+ },
+ {
   "kind": "prophecy",
   "id": "pro_01M4RTK7458JMN36GV9R7JAAMQ",
   "slug": "four-kingdoms-and-the-stone-dan-2",
@@ -1437,6 +1603,503 @@
     "is_proposed_fulfillment": false,
     "citations": [
      "src_01M4TPW4B24WCAYH9QR7BGTDVP"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4TSKK93G9R2ECXYSRRGW1XC",
+  "slug": "heavenly-judgment-kingdom-of-saints-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The heavenly judgment and the kingdom given to the saints (Dan 7:9–12, 18, 21–22, 26–27)",
+  "passage": "Dan.7.9-Dan.7.27",
+  "speaker": "Daniel (vision) and the attendant (interpretation)",
+  "vision_id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "description": "The Ancient of Days holds court, the beast's dominion is taken away, and the kingdom is given to the people of the saints of the Most High forever.",
+  "in_text_interpretation": "The judgment ends the horn's dominion (7:26) and gives the kingdom to the saints (7:22, 27). The Ancient of Days is not further identified.",
+  "interpretations": [
+   {
+    "id": "ful_01M4TSKK9GTYSR76HSBT4BA5AE",
+    "label": "The Ancient of Days is God; a final judgment at the end of the age",
+    "approach": "futurist",
+    "framework": "Traditional Christian (amillennial in Jerome)",
+    "proponents": [
+     "Jerome",
+     "D. Guzik (God the Father; kingdom on the millennial earth at Jesus' return)"
+    ],
+    "summary": "Jerome reads the court as the last judgment and the kingdom as heavenly (\"Away, then, with the fable about a millennium\"); Guzik reads a future earthly kingdom received at Jesus' return. The two traditional readings disagree about the kingdom's nature.",
+    "referents": [
+     {
+      "symbol": "Ancient of Days",
+      "referent": "God"
+     },
+     {
+      "symbol": "Kingdom of the saints",
+      "referent": "Heavenly (Jerome) or millennial earthly (Guzik)"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+     "src_01M4TSKK7T272WF8V2G6P4AYNS"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9GC40C44P7D9ZMN7QE",
+    "label": "God's judgment on Antiochus and the expected kingdom of faithful Israel",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "S. R. Driver (1900)"
+    ],
+    "summary": "The author expected God's kingdom to follow immediately on the fall of Antiochus (cf. 12:1–3); the expectation was not realised as described. Not a claim of fulfillment.",
+    "referents": [
+     {
+      "symbol": "Judgment",
+      "referent": "Divine judgment ending Antiochus's persecution"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9GG5SCAQVJNB40CYN7",
+    "label": "The papal dominion taken away by degrees",
+    "approach": "historicist",
+    "framework": "Protestant historicist",
+    "proponents": [
+     "I. Newton (1733)"
+    ],
+    "summary": "After the 1260 years the dominion of the little horn is consumed \"not at once, but by degrees\", and the kingdom passes by degrees to the saints.",
+    "referents": [
+     {
+      "symbol": "Judgment",
+      "referent": "Gradual end of papal temporal power"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK83SFG091RT082Z4EXG"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9GK6C5EBH9PYME62GA",
+    "label": "Later reuse: \"Head of Days\" in Enoch; the risen Christ with hair like wool (Rev 1:14)",
+    "approach": "mixed",
+    "framework": "Reception history",
+    "proponents": [
+     "1 Enoch 46",
+     "Revelation 1:13–14 (text)"
+    ],
+    "summary": "Enoch renames the Ancient of Days the \"Head of Days\"; Revelation transfers the white wool and snow of the Ancient of Days to the \"one like a son of man\". Recorded as reception, not as a fulfillment.",
+    "referents": [
+     {
+      "symbol": "Ancient of Days",
+      "referent": "Head of Days (Enoch); features applied to Christ (Rev 1:14)"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4TSKK93MG64C8YGN1J0YB11",
+  "slug": "son-of-man-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "One like a son of man receives an everlasting dominion (Dan 7:13–14)",
+  "passage": "Dan.7.13-Dan.7.14",
+  "speaker": "Daniel (vision report)",
+  "vision_id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "description": "A human-like figure comes with the clouds of heaven to the Ancient of Days and receives a kingdom that all peoples will serve and that will never be destroyed.",
+  "in_text_interpretation": "The figure is not explicitly identified. In the interpretation the everlasting kingdom is given to \"the saints of the Most High\" / \"the people of the saints of the Most High\" (7:18, 22, 27).",
+  "interpretations": [
+   {
+    "id": "ful_01M4TSKK9DH5DF711R73ZFC3QF",
+    "label": "Jesus as the Son of Man (Christian messianic)",
+    "approach": "mixed",
+    "framework": "Traditional Christian",
+    "proponents": [
+     "Gospel tradition: Jesus' reply at his trial (Mark 14:62; Matt 26:64)",
+     "Jerome",
+     "D. Guzik"
+    ],
+    "summary": "Textual reasoning: Jesus' self-designation \"the Son of Man … coming with the clouds\" (Mark 14:62) cites Dan 7:13; Revelation 1:13 describes the risen Christ as \"one like a son of man\". Objections (Driver): the chapter's own interpretation applies the kingdom to the saints, not to an individual. Acceptance: Montgomery calls the personal messianic view the eldest and formerly prevailing one; the historicity of individual Gospel sayings was not researched here.",
+    "referents": [
+     {
+      "symbol": "One like a son of man",
+      "referent": "Jesus of Nazareth (ascension and return)"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+     "src_01M4TSKK7T272WF8V2G6P4AYNS",
+     "src_01M4TSKK81W6HP2HFZ7744DHRG"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9DQQWFF3NE0X69DKCJ",
+    "label": "An individual Messiah (Second Temple and rabbinic Jewish)",
+    "approach": "futurist",
+    "framework": "Jewish messianic",
+    "proponents": [
+     "1 Enoch 46 (Similitudes)",
+     "2 Esdras 13",
+     "b. Sanhedrin 98a (R. Alexandri for R. Joshua b. Levi)",
+     "b. Sanhedrin 38b (R. Akiva)"
+    ],
+    "summary": "Enoch's Son of Man stands beside the \"Head of Days\" and judges kings; 2 Esdras 13 has a man rising from the sea and flying with the clouds; the Talmud reads Dan 7:13 as the Messiah's coming if Israel is worthy, and Akiva read the thrones as one for God and one for David (disputed by R. Yose). Not a claim of historical fulfillment.",
+    "referents": [
+     {
+      "symbol": "One like a son of man",
+      "referent": "The Messiah"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+     "src_01M4TSKK87BBJJJP35SD5PZGDP",
+     "src_01M4TSKK89EZQWG9W99N1209AG",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9DD0MQ1T21H5KP2TR7",
+    "label": "A symbol of the people of the saints (collective)",
+    "approach": "preterist",
+    "framework": "Historical-critical (also ancient)",
+    "proponents": [
+     "S. R. Driver (1900)",
+     "J. A. Montgomery (1927)",
+     "A. A. Bevan (via Driver)"
+    ],
+    "summary": "As the beasts stand for kingdoms, the human figure stands for the ideal Israel to whom 7:18, 22 and 27 give the same everlasting kingdom; human form contrasts with bestial empires, the clouds mark God's action. Montgomery calls this \"itself an ancient view\". Objection: the figure is distinguished from the saints and approaches God like an individual (traditional readers).",
+    "referents": [
+     {
+      "symbol": "One like a son of man",
+      "referent": "The people of the saints of the Most High (ideal Israel)"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK81W6HP2HFZ7744DHRG"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9DJ6QG7VS0K5WVAZWS",
+    "label": "An angelic leader (Michael)",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "J. J. Collins (1998, pp. 101–103), via Wikipedia — not read directly"
+    ],
+    "summary": "The figure is the angelic prince of Israel (cf. Michael in 10:13, 21; 12:1), and \"the holy ones\" may be angels. Wikipedia calls this \"the main alternative view\"; known here only at second hand.",
+    "referents": [
+     {
+      "symbol": "One like a son of man",
+      "referent": "Michael, the angelic leader of God's host"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6",
+  "slug": "little-horn-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The ten horns and the little horn: time, times and half a time (Dan 7:8, 20–26)",
+  "passage": "Dan.7.20-Dan.7.26",
+  "speaker": "An attendant in the vision",
+  "vision_id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "description": "Ten kings arise from the fourth kingdom; another king subdues three, blasphemes, persecutes the saints and attempts to change times and law for a time, times and half a time, until the judgment removes his dominion.",
+  "in_text_interpretation": "Horns = kings (7:24). The duration is \"a time and times and half a time\" (7:25). No king is named.",
+  "interpretations": [
+   {
+    "id": "ful_01M4TSKK9BTKKNCAPJBCVG2WD4",
+    "label": "Antiochus IV Epiphanes and the Seleucid kings",
+    "approach": "preterist",
+    "framework": "Historical-critical (also Porphyry)",
+    "proponents": [
+     "Porphyry (via Jerome)",
+     "Delitzsch, Ewald, Bevan (via Driver)",
+     "S. R. Driver (1900)",
+     "A.-J. Levine (2010), via Wikipedia"
+    ],
+    "summary": "The ten horns are Seleucid kings (several reconstructions; the three uprooted are e.g. Heliodorus, Demetrius and Ptolemy VI, or alternatives); the little horn is Antiochus IV, whose suppression of Temple worship (1 Macc 1:41–64) lasted about three and a half years. Objections: the identity and number of the ten and the three are uncertain (Driver concedes \"our knowledge … does not … enable us to decide\"); Jerome objects that Porphyry's three kings do not fit; conservative readers object that the everlasting kingdom did not follow Antiochus's death.",
+    "referents": [
+     {
+      "symbol": "Ten horns",
+      "referent": "Seleucid kings"
+     },
+     {
+      "symbol": "Little horn",
+      "referent": "Antiochus IV"
+     },
+     {
+      "symbol": "Time, times and half a time",
+      "referent": "c. 3½ years of persecution, 167–164 BC"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK87BBJJJP35SD5PZGDP",
+     "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9BDH3GFCQTFNXA59QG",
+    "label": "A future Antichrist from a ten-fold division of the Roman world",
+    "approach": "futurist",
+    "framework": "Patristic; later dispensational/premillennial",
+    "proponents": [
+     "Hippolytus (via Driver)",
+     "Jerome",
+     "D. Guzik (restored Roman empire)"
+    ],
+    "summary": "At the end of the age ten kings partition the Roman world; an eleventh overthrows three and persecutes the saints for three and a half literal years before Christ's return (Jerome; Guzik links Rev 11–13). Objection (Driver): the kingdoms must arise from the fourth empire, which no longer exists. Not a claim of historical fulfillment.",
+    "referents": [
+     {
+      "symbol": "Little horn",
+      "referent": "A future individual Antichrist"
+     },
+     {
+      "symbol": "Time, times and half a time",
+      "referent": "3½ years"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": false,
+    "citations": [
+     "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK7T272WF8V2G6P4AYNS"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9BMXP5J221BRH4MP1W",
+    "label": "The papacy (historicist)",
+    "approach": "historicist",
+    "framework": "Protestant historicist",
+    "proponents": [
+     "I. Newton (1733)",
+     "W. H. Rule (1869), via Driver",
+     "Seventh-day Adventist interpretation (noted by Guzik)"
+    ],
+    "summary": "The ten horns are the kingdoms into which the Western Empire broke; the little horn is the Church of Rome as a temporal power, which subdued three of them; \"time, times and half a time\" is 1260 years on a day-for-a-year reckoning (Newton). Objection (Driver): the scheme is \"non-natural\" and depends on choosing ten kingdoms and a starting date.",
+    "referents": [
+     {
+      "symbol": "Ten horns",
+      "referent": "Kingdoms of the Western Roman Empire"
+     },
+     {
+      "symbol": "Little horn",
+      "referent": "The papacy / Church of Rome"
+     },
+     {
+      "symbol": "Time, times and half a time",
+      "referent": "1260 years"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK83SFG091RT082Z4EXG",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK7T272WF8V2G6P4AYNS"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9BBXZ4EW8T4K7RF6SJ",
+    "label": "Julius Caesar and the Caesars",
+    "approach": "preterist",
+    "framework": "Reformation",
+    "proponents": [
+     "J. Calvin (as reported by Guzik; not read directly)"
+    ],
+    "summary": "The little horn is the line of Roman Caesars beginning with Julius Caesar. Recorded as reported by Enduring Word, which rejects it.",
+    "referents": [
+     {
+      "symbol": "Little horn",
+      "referent": "Julius Caesar and his successors"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK7T272WF8V2G6P4AYNS"
+    ],
+    "reviewer_status": "machine_proposed"
+   }
+  ]
+ },
+ {
+  "kind": "prophecy",
+  "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2",
+  "slug": "four-kingdoms-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The four kingdoms and the kingdom of the saints (Dan 7:17–18, 23, 27)",
+  "passage": "Dan.7.17-Dan.7.27",
+  "speaker": "An attendant in the vision",
+  "vision_id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "description": "Four beasts are four kings/kingdoms; the fourth differs from the rest; afterwards the saints of the Most High receive an everlasting kingdom.",
+  "in_text_interpretation": "Four kings (7:17); the fourth beast a fourth kingdom (7:23). The text names none of the kingdoms; Daniel 2:38 identifies the first kingdom of the parallel dream with Nebuchadnezzar.",
+  "interpretations": [
+   {
+    "id": "ful_01M4TSKK988KCFVWTQMA30G73P",
+    "label": "Babylon, Medo-Persia, Greece, Rome (\"Roman\" scheme)",
+    "approach": "mixed",
+    "framework": "Traditional Christian (patristic); also later Jewish authorities",
+    "proponents": [
+     "2 Esdras 12:11–12 (late 1st century AD)",
+     "Hippolytus (via Driver)",
+     "Jerome",
+     "Keil, Hengstenberg, Pusey (via Driver)",
+     "I. Newton (1733)",
+     "D. Guzik"
+    ],
+    "summary": "Textual reasoning: the parallel with the four-metal statue of ch. 2; Medes and Persians as one kingdom (cf. 8:20); Rome as the iron power that crushed all. Objection (Driver 1900): no ten kingdoms arise out of Rome, which has passed away, and the little horn of ch. 7 matches the Antiochus horn of ch. 8. Acceptance: general among the Church Fathers (Driver); held today mainly in conservative interpretation (not quantified in sources read).",
+    "referents": [
+     {
+      "symbol": "Lion",
+      "referent": "Babylon"
+     },
+     {
+      "symbol": "Bear",
+      "referent": "Medo-Persia"
+     },
+     {
+      "symbol": "Leopard",
+      "referent": "Macedonian Greece (four heads = Alexander's successors)"
+     },
+     {
+      "symbol": "Fourth beast",
+      "referent": "Rome"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK87BBJJJP35SD5PZGDP",
+     "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK83SFG091RT082Z4EXG",
+     "src_01M4TSKK7T272WF8V2G6P4AYNS"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK98D6F57A1QFGW237GA",
+    "label": "Babylon, Media, Persia, Greece (\"Grecian\" scheme)",
+    "approach": "preterist",
+    "framework": "Historical-critical",
+    "proponents": [
+     "Ephrem Syrus (via Driver)",
+     "Ewald, Bleek, Delitzsch, Kuenen, Bevan (via Driver)",
+     "S. R. Driver (1900)",
+     "A.-J. Levine (2010), via Wikipedia"
+    ],
+    "summary": "Textual reasoning: Daniel presents a separate Median kingdom (Darius the Mede, 5:31; 9:1) before Persia; the little horn here matches that of ch. 8 (Antiochus), whose persecution lasts the same \"time, times and half a time\" (cf. 12:7); the book's horizon ends with Antiochus. Objection: no independent Median empire ruled Babylon between Nabonidus and Cyrus (ABC 7); the bear/three ribs fit Medo-Persia (Driver concedes as plausible). Acceptance: the standard critical reading (Driver 1900; Levine via Wikipedia); a precise modern percentage was not found.",
+    "referents": [
+     {
+      "symbol": "Lion",
+      "referent": "Babylon"
+     },
+     {
+      "symbol": "Bear",
+      "referent": "Media"
+     },
+     {
+      "symbol": "Leopard",
+      "referent": "Persia"
+     },
+     {
+      "symbol": "Fourth beast",
+      "referent": "Alexander and his successors (Seleucids)"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+     "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+    ],
+    "reviewer_status": "machine_proposed"
+   },
+   {
+    "id": "ful_01M4TSKK9853DCRJPT7GQAMRG9",
+    "label": "Porphyry: the leopard is Alexander, the fourth beast his successors",
+    "approach": "preterist",
+    "framework": "Anti-Christian philosophical critique (3rd century AD), known through Jerome",
+    "proponents": [
+     "Porphyry (via Jerome)"
+    ],
+    "summary": "Porphyry merged the Macedonian and Roman beasts into one Macedonian realm, made the fourth beast the successors of Alexander and counted ten cruel kings up to Antiochus Epiphanes. Jerome rejected this. Porphyry's own work survives only in such quotations.",
+    "referents": [
+     {
+      "symbol": "Leopard",
+      "referent": "Alexander"
+     },
+     {
+      "symbol": "Fourth beast",
+      "referent": "Alexander's successors"
+     },
+     {
+      "symbol": "Ten horns",
+      "referent": "Ten kings up to Antiochus IV"
+     }
+    ],
+    "linked_events": [],
+    "is_proposed_fulfillment": true,
+    "citations": [
+     "src_01M4TSKK7XJBPEV1EADHKHN6W9"
     ],
     "reviewer_status": "machine_proposed"
    }
@@ -1845,6 +2508,142 @@
   }
  },
  {
+  "kind": "reign",
+  "id": "rgn_01M4TSKK8ZQ9SVQ7AZ0FG80084",
+  "slug": "antiochus-iv-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN",
+   "src_01M4TSKK87BBJJJP35SD5PZGDP"
+  ],
+  "notes": "Parker & Dubberstein (1942, p. 21) note that Babylonian dates of Antiochus IV and Antiochus V cannot be separated; reign bounds here rest on the King List.",
+  "person_id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A",
+  "model_id": null,
+  "title": "Seleucid king",
+  "start": {
+   "earliest": -174,
+   "latest": -174
+  },
+  "end": {
+   "earliest": -163,
+   "latest": -163
+  },
+  "precision": "month",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+   "from": {
+    "year": -174,
+    "month": 8,
+    "day": 1
+   },
+   "to": {
+    "year": -174,
+    "month": 9,
+    "day": 30
+   },
+   "basis": "Accession in Ulûlu of Seleucid year 137 (BM 35603 rev. 9–10); Ulûlu of that year falls in August–September 175 BC (month-level; exact day not taken from the OCR tables).",
+   "citations": [
+    "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -163,
+    "month": 9,
+    "day": 1
+   },
+   "to": {
+    "year": -163,
+    "month": 12,
+    "day": 20
+   },
+   "basis": "His death was reported in Babylon in Kislîmu of Seleucid year 148 (BM 35603 rev. 14); year 148 began 28 Mar 164 (Parker & Dubberstein), so Kislîmu ≈ late Nov – Dec 164. The death itself preceded the report; window opens 1 Sep 164. 1 Macc 6:16 gives year 149 on the Macedonian-reckoned era.",
+   "citations": [
+    "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4TSKK87BBJJJP35SD5PZGDP"
+   ]
+  },
+  "regnal_convention": null
+ },
+ {
+  "kind": "reign",
+  "id": "rgn_01M4TSKK93V4X5HBK7S4SZ352W",
+  "slug": "belshazzar-regency",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+   "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+   "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+   "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+   "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": "A modelling device for Daniel 7:1 and 8:1 only.",
+  "person_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "model_id": "chr_01M4TSKK913DZG51R7F571CXXT",
+  "title": "Regent — \"son of the king\" with kingship entrusted (not a reign in Babylonian dating)",
+  "start": {
+   "earliest": -552,
+   "latest": -552
+  },
+  "end": {
+   "earliest": -538,
+   "latest": -538
+  },
+  "precision": "month",
+  "is_coregency": true,
+  "coregent_with_reign_id": "rgn_01M4TPW4BVQQDWM7W4YJD12TVA",
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+   "from": {
+    "year": -552,
+    "month": 1,
+    "day": 10
+   },
+   "to": {
+    "year": -552,
+    "month": 12,
+    "day": 28
+   },
+   "basis": "Verse Account: the kingship was entrusted \"when the third year was about to begin\" (Livius ii 5–6); Smith (via Dougherty pp. 105–107) equates the Tema campaign with the Chronicle's 3rd year, whose western campaign runs Abu–Kislimu (ABC 7 i 11–17). Window: from the last quarter of year 2 (Ṭebētu began 10 Jan 553, Parker & Dubberstein) to the end of Kislimu year 3 (28 Dec 553). The breadth of the window is a modelling assumption.",
+   "citations": [
+    "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+    "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+   ]
+  },
+  "end_window": {
+   "from": {
+    "year": -538,
+    "month": 10,
+    "day": 12
+   },
+   "to": {
+    "year": -538,
+    "month": 10,
+    "day": 13
+   },
+   "basis": "Assumes the regency lasted until the fall of Babylon (Dougherty's position); Nabonidus had returned to Babylon by his 17th year (ABC 7), so the delegated authority may have ended earlier.",
+   "citations": [
+    "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+   ]
+  },
+  "regnal_convention": null
+ },
+ {
   "kind": "site",
   "id": "sit_01M4RSRHMAREJVQWWY8ZYHG22E",
   "slug": "babylon-excavations",
@@ -2144,5 +2943,87 @@
    }
   ],
   "description": "A tree at the centre of the earth reaching to the sky, sheltering beasts and birds, is ordered cut down by a holy watcher; the stump is left bound with iron and bronze, and \"seven times\" pass over him."
+ },
+ {
+  "kind": "vision",
+  "id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "slug": "four-beasts-vision-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The four beasts, the Ancient of Days and one like a son of man (Dan 7)",
+  "passage": "Dan.7.2-Dan.7.27",
+  "recipient_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+  "experience_event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "symbols": [
+   {
+    "symbol": "Four winds stirring the great sea",
+    "description": "The winds of heaven break out on the great sea",
+    "passage": "Dan.7.2",
+    "in_text_interpretation": "The beasts \"arise out of the earth\" (7:17); the sea itself is not explained."
+   },
+   {
+    "symbol": "Lion with eagle's wings",
+    "description": "Wings plucked; made to stand like a man and given a human heart",
+    "passage": "Dan.7.4",
+    "in_text_interpretation": "One of four kings/kingdoms (7:17); not named in Dan 7."
+   },
+   {
+    "symbol": "Bear raised on one side with three ribs",
+    "description": "Told to devour much flesh",
+    "passage": "Dan.7.5",
+    "in_text_interpretation": "One of four kings/kingdoms (7:17); not named."
+   },
+   {
+    "symbol": "Leopard with four wings and four heads",
+    "description": "Dominion was given to it",
+    "passage": "Dan.7.6",
+    "in_text_interpretation": "One of four kings/kingdoms (7:17); not named."
+   },
+   {
+    "symbol": "Fourth beast with iron teeth",
+    "description": "Devours, crushes and tramples; different from the others",
+    "passage": "Dan.7.7",
+    "in_text_interpretation": "A fourth kingdom, different from all the others, that will devour the whole earth (7:23); not named."
+   },
+   {
+    "symbol": "Ten horns",
+    "description": "On the fourth beast",
+    "passage": "Dan.7.7",
+    "in_text_interpretation": "Ten kings arising from the fourth kingdom (7:24); not named."
+   },
+   {
+    "symbol": "Little horn",
+    "description": "Rises among the ten, uproots three, has human eyes and an arrogant mouth, makes war on the saints",
+    "passage": "Dan.7.8",
+    "in_text_interpretation": "Another king, different from the former, who puts down three kings, speaks against the Most High, wears out the saints and plans to change times and law, for \"a time and times and half a time\" (7:24–25); not named."
+   },
+   {
+    "symbol": "Thrones and the Ancient of Days",
+    "description": "White clothing, hair like wool, a fiery throne with burning wheels",
+    "passage": "Dan.7.9",
+    "in_text_interpretation": "Not explicitly identified; he judges and gives judgment for the saints (7:22)."
+   },
+   {
+    "symbol": "Fiery stream, myriads, the court and the books",
+    "description": "Judgment is set and books are opened",
+    "passage": "Dan.7.10",
+    "in_text_interpretation": "The judgment that takes away the horn's dominion (7:26)."
+   },
+   {
+    "symbol": "The beast slain and burned; other beasts' lives prolonged",
+    "description": "Dominion removed",
+    "passage": "Dan.7.11-Dan.7.12",
+    "in_text_interpretation": "The fourth kingdom's end (7:26); the others are not explained."
+   },
+   {
+    "symbol": "One like a son of man with the clouds",
+    "description": "Brought to the Ancient of Days and given everlasting dominion",
+    "passage": "Dan.7.13-Dan.7.14",
+    "in_text_interpretation": "Not explicitly identified; the interpretation gives the everlasting kingdom to \"the saints of the Most High\" (7:18, 22, 27)."
+   }
+  ],
+  "description": "Night vision of beasts from the sea, a heavenly court, and a human-like figure receiving an everlasting kingdom, followed by an interpretation from an attendant. Identifications below are only those the text makes; all others are interpretations recorded on the prophecy records."
  }
 ]

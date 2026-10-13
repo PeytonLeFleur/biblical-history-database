@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4TSKK9YRKP99KFAD5BTJ7B7",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TSKK9RSPCMTABECXBZ8SGK",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 7): Ten horns = Seleucid kings (several reconstructions)",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.430Z",
+  "decisions": [],
+  "is_fixture": false
+}

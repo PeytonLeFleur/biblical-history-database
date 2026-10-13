@@ -1,0 +1,69 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4TSKK93V4X5HBK7S4SZ352W",
+  "slug": "belshazzar-regency",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+    "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": "A modelling device for Daniel 7:1 and 8:1 only.",
+  "person_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+  "kingdom_id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X",
+  "model_id": "chr_01M4TSKK913DZG51R7F571CXXT",
+  "title": "Regent — \"son of the king\" with kingship entrusted (not a reign in Babylonian dating)",
+  "start": {
+    "earliest": -552,
+    "latest": -552
+  },
+  "end": {
+    "earliest": -538,
+    "latest": -538
+  },
+  "precision": "month",
+  "is_coregency": true,
+  "coregent_with_reign_id": "rgn_01M4TPW4BVQQDWM7W4YJD12TVA",
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -552,
+      "month": 1,
+      "day": 10
+    },
+    "to": {
+      "year": -552,
+      "month": 12,
+      "day": 28
+    },
+    "basis": "Verse Account: the kingship was entrusted \"when the third year was about to begin\" (Livius ii 5–6); Smith (via Dougherty pp. 105–107) equates the Tema campaign with the Chronicle's 3rd year, whose western campaign runs Abu–Kislimu (ABC 7 i 11–17). Window: from the last quarter of year 2 (Ṭebētu began 10 Jan 553, Parker & Dubberstein) to the end of Kislimu year 3 (28 Dec 553). The breadth of the window is a modelling assumption.",
+    "citations": [
+      "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+      "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+      "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -538,
+      "month": 10,
+      "day": 12
+    },
+    "to": {
+      "year": -538,
+      "month": 10,
+      "day": 13
+    },
+    "basis": "Assumes the regency lasted until the fall of Babylon (Dougherty's position); Nabonidus had returned to Babylon by his 17th year (ABC 7), so the delegated authority may have ended earlier.",
+    "citations": [
+      "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+      "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+    ]
+  },
+  "regnal_convention": null
+}

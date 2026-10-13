@@ -3017,6 +3017,500 @@
   "slug": "daniel"
  },
  {
+  "book": "Dan",
+  "chapter": 7,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Dan.7.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93NX07ESC8YDM23EX6"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93QT3405NH6E1ABZ24"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93QT3405NH6E1ABZ24"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93QT3405NH6E1ABZ24"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93QT3405NH6E1ABZ24"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93QT3405NH6E1ABZ24"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93QT3405NH6E1ABZ24"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93QA7KZW69GHDKW50Y"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93RER9TMJDEXXRRMGY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93RER9TMJDEXXRRMGY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93RER9TMJDEXXRRMGY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93RER9TMJDEXXRRMGY"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93DD7CWPQCZ9Z7GN2T"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK93DD7CWPQCZ9Z7GN2T"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK936FM4YXYBSFB2H682"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK936FM4YXYBSFB2H682"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94J42ZJRHJBYZ3YYTN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94J42ZJRHJBYZ3YYTN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.22",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.23",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.24",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.25",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.26",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.27",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Dan.7.28",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4TSKK94WBQD4BH93RTY2C5Y"
+    ],
+    "notes": "Last verse of the Aramaic section."
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "title": "Daniel's dream-vision in the first year of Belshazzar, written down",
+    "passage": "Dan.7.1",
+    "description": "Daniel has a dream and visions on his bed and writes down the sum of the matter.",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Belshazzar king of Babylon",
+      "matched_entity_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.7.1",
+      "phrase": "In the first year of Belshazzar king of Babylon",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "Dan.8.1"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Belshazzar never had regnal years in Babylonian dating; the counting basis of \"first year\" is unknown."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0"
+   },
+   {
+    "id": "cnd_01M4TSKK93QT3405NH6E1ABZ24",
+    "title": "Four beasts from the great sea",
+    "passage": "Dan.7.2-Dan.7.7",
+    "description": "The four winds stir the great sea; a winged lion, a bear with three ribs, a four-headed winged leopard and a terrible fourth beast with iron teeth and ten horns come up.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.2.31-Dan.2.45",
+     "Rev.13.1-Rev.13.2"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Symbolic content; identifications beyond the text are interpretive."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TSKK93QA7KZW69GHDKW50Y",
+    "title": "The little horn with eyes and a boasting mouth",
+    "passage": "Dan.7.8",
+    "description": "A little horn rises among the ten, uprooting three, with human eyes and a mouth speaking arrogantly.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.8.9-Dan.8.12",
+     "Rev.13.5"
+    ],
+    "research_priority": "high",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TSKK93RER9TMJDEXXRRMGY",
+    "title": "The Ancient of Days and the heavenly court; the beast destroyed",
+    "passage": "Dan.7.9-Dan.7.12",
+    "description": "Thrones are set; the Ancient of Days sits; the court sits and books are opened; the beast is slain and burned; the other beasts lose dominion but live for a time.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.7.12",
+      "phrase": "for a season and a time",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Rev.1.14",
+     "Rev.20.4",
+     "Ezek.1.26-Ezek.1.28"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Plural thrones but one who sits (cf. b. Sanh 38b)."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TSKK93DD7CWPQCZ9Z7GN2T",
+    "title": "One like a son of man comes with the clouds and receives everlasting dominion",
+    "passage": "Dan.7.13-Dan.7.14",
+    "description": "A human-like figure comes with the clouds of heaven to the Ancient of Days and is given an everlasting kingdom.",
+    "record_type": "vision",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "vision_content",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Mark.14.62",
+     "Matt.26.64",
+     "Mark.13.26",
+     "Rev.1.13"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [
+     "Identity of the figure (individual, collective, angelic)."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TSKK936FM4YXYBSFB2H682",
+    "title": "Daniel troubled; asks a bystander for the meaning",
+    "passage": "Dan.7.15-Dan.7.16",
+    "description": "Daniel is troubled and asks one of those standing by, who explains.",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [
+     "The interpreter is unnamed (cf. Gabriel in 8:16)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0"
+   },
+   {
+    "id": "cnd_01M4TSKK94J42ZJRHJBYZ3YYTN",
+    "title": "The interpretation: four kings; the saints receive the kingdom",
+    "passage": "Dan.7.17-Dan.7.18",
+    "description": "The four beasts are four kings who will arise; the saints of the Most High will receive the kingdom forever.",
+    "record_type": "prophecy",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.2.44"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [
+     "\"Kings\" (7:17) and \"kingdom\" (7:23) are used of the same beasts."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TSKK94CCP99ZGXJ8BAS4EM",
+    "title": "The fourth beast, ten horns and little horn explained",
+    "passage": "Dan.7.19-Dan.7.27",
+    "description": "The fourth beast is a fourth kingdom; ten kings arise from it and another who subdues three, speaks against the Most High, wears out the saints and seeks to change times and law for a time, times and half a time; judgment sits and the kingdom is given to the people of the saints.",
+    "record_type": "prophecy",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Dan.7.25",
+      "phrase": "until a time and times and half a time",
+      "kind": "vague"
+     }
+    ],
+    "related_passages": [
+     "Dan.12.7",
+     "Rev.12.14",
+     "Rev.13.5-Rev.13.7"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [
+     "\"Saints/holy ones of the Most High\": humans or angels."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4TSKK94WBQD4BH93RTY2C5Y",
+    "title": "Daniel keeps the matter in his heart",
+    "passage": "Dan.7.28",
+    "description": "The end of the account; Daniel is troubled and keeps the matter to himself.",
+    "record_type": "event",
+    "literary_classification": "apocalyptic_vision",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "participants": [
+     {
+      "name_as_written": "Daniel",
+      "matched_entity_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "low",
+    "ambiguities": [
+     "End of the Aramaic section of Daniel (2:4b–7:28)."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0"
+   }
+  ],
+  "session_log": "research/logs/2026-10-13-daniel-07.md",
+  "slug": "daniel"
+ },
+ {
   "book": "Amos",
   "chapter": 1,
   "status": "complete",

@@ -1,0 +1,118 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4TSKK93MG64C8YGN1J0YB11",
+  "slug": "son-of-man-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "One like a son of man receives an everlasting dominion (Dan 7:13–14)",
+  "passage": "Dan.7.13-Dan.7.14",
+  "speaker": "Daniel (vision report)",
+  "vision_id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "description": "A human-like figure comes with the clouds of heaven to the Ancient of Days and receives a kingdom that all peoples will serve and that will never be destroyed.",
+  "in_text_interpretation": "The figure is not explicitly identified. In the interpretation the everlasting kingdom is given to \"the saints of the Most High\" / \"the people of the saints of the Most High\" (7:18, 22, 27).",
+  "interpretations": [
+    {
+      "id": "ful_01M4TSKK9DH5DF711R73ZFC3QF",
+      "label": "Jesus as the Son of Man (Christian messianic)",
+      "approach": "mixed",
+      "framework": "Traditional Christian",
+      "proponents": [
+        "Gospel tradition: Jesus' reply at his trial (Mark 14:62; Matt 26:64)",
+        "Jerome",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: Jesus' self-designation \"the Son of Man … coming with the clouds\" (Mark 14:62) cites Dan 7:13; Revelation 1:13 describes the risen Christ as \"one like a son of man\". Objections (Driver): the chapter's own interpretation applies the kingdom to the saints, not to an individual. Acceptance: Montgomery calls the personal messianic view the eldest and formerly prevailing one; the historicity of individual Gospel sayings was not researched here.",
+      "referents": [
+        {
+          "symbol": "One like a son of man",
+          "referent": "Jesus of Nazareth (ascension and return)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+        "src_01M4TSKK7T272WF8V2G6P4AYNS",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9DQQWFF3NE0X69DKCJ",
+      "label": "An individual Messiah (Second Temple and rabbinic Jewish)",
+      "approach": "futurist",
+      "framework": "Jewish messianic",
+      "proponents": [
+        "1 Enoch 46 (Similitudes)",
+        "2 Esdras 13",
+        "b. Sanhedrin 98a (R. Alexandri for R. Joshua b. Levi)",
+        "b. Sanhedrin 38b (R. Akiva)"
+      ],
+      "summary": "Enoch's Son of Man stands beside the \"Head of Days\" and judges kings; 2 Esdras 13 has a man rising from the sea and flying with the clouds; the Talmud reads Dan 7:13 as the Messiah's coming if Israel is worthy, and Akiva read the thrones as one for God and one for David (disputed by R. Yose). Not a claim of historical fulfillment.",
+      "referents": [
+        {
+          "symbol": "One like a son of man",
+          "referent": "The Messiah"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4TSKK89EZQWG9W99N1209AG",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9DD0MQ1T21H5KP2TR7",
+      "label": "A symbol of the people of the saints (collective)",
+      "approach": "preterist",
+      "framework": "Historical-critical (also ancient)",
+      "proponents": [
+        "S. R. Driver (1900)",
+        "J. A. Montgomery (1927)",
+        "A. A. Bevan (via Driver)"
+      ],
+      "summary": "As the beasts stand for kingdoms, the human figure stands for the ideal Israel to whom 7:18, 22 and 27 give the same everlasting kingdom; human form contrasts with bestial empires, the clouds mark God's action. Montgomery calls this \"itself an ancient view\". Objection: the figure is distinguished from the saints and approaches God like an individual (traditional readers).",
+      "referents": [
+        {
+          "symbol": "One like a son of man",
+          "referent": "The people of the saints of the Most High (ideal Israel)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK81W6HP2HFZ7744DHRG"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9DJ6QG7VS0K5WVAZWS",
+      "label": "An angelic leader (Michael)",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "J. J. Collins (1998, pp. 101–103), via Wikipedia — not read directly"
+      ],
+      "summary": "The figure is the angelic prince of Israel (cf. Michael in 10:13, 21; 12:1), and \"the holy ones\" may be angels. Wikipedia calls this \"the main alternative view\"; known here only at second hand.",
+      "referents": [
+        {
+          "symbol": "One like a son of man",
+          "referent": "Michael, the angelic leader of God's host"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

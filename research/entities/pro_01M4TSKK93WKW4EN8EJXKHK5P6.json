@@ -1,0 +1,139 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6",
+  "slug": "little-horn-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The ten horns and the little horn: time, times and half a time (Dan 7:8, 20–26)",
+  "passage": "Dan.7.20-Dan.7.26",
+  "speaker": "An attendant in the vision",
+  "vision_id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "description": "Ten kings arise from the fourth kingdom; another king subdues three, blasphemes, persecutes the saints and attempts to change times and law for a time, times and half a time, until the judgment removes his dominion.",
+  "in_text_interpretation": "Horns = kings (7:24). The duration is \"a time and times and half a time\" (7:25). No king is named.",
+  "interpretations": [
+    {
+      "id": "ful_01M4TSKK9BTKKNCAPJBCVG2WD4",
+      "label": "Antiochus IV Epiphanes and the Seleucid kings",
+      "approach": "preterist",
+      "framework": "Historical-critical (also Porphyry)",
+      "proponents": [
+        "Porphyry (via Jerome)",
+        "Delitzsch, Ewald, Bevan (via Driver)",
+        "S. R. Driver (1900)",
+        "A.-J. Levine (2010), via Wikipedia"
+      ],
+      "summary": "The ten horns are Seleucid kings (several reconstructions; the three uprooted are e.g. Heliodorus, Demetrius and Ptolemy VI, or alternatives); the little horn is Antiochus IV, whose suppression of Temple worship (1 Macc 1:41–64) lasted about three and a half years. Objections: the identity and number of the ten and the three are uncertain (Driver concedes \"our knowledge … does not … enable us to decide\"); Jerome objects that Porphyry's three kings do not fit; conservative readers object that the everlasting kingdom did not follow Antiochus's death.",
+      "referents": [
+        {
+          "symbol": "Ten horns",
+          "referent": "Seleucid kings"
+        },
+        {
+          "symbol": "Little horn",
+          "referent": "Antiochus IV"
+        },
+        {
+          "symbol": "Time, times and half a time",
+          "referent": "c. 3½ years of persecution, 167–164 BC"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9BDH3GFCQTFNXA59QG",
+      "label": "A future Antichrist from a ten-fold division of the Roman world",
+      "approach": "futurist",
+      "framework": "Patristic; later dispensational/premillennial",
+      "proponents": [
+        "Hippolytus (via Driver)",
+        "Jerome",
+        "D. Guzik (restored Roman empire)"
+      ],
+      "summary": "At the end of the age ten kings partition the Roman world; an eleventh overthrows three and persecutes the saints for three and a half literal years before Christ's return (Jerome; Guzik links Rev 11–13). Objection (Driver): the kingdoms must arise from the fourth empire, which no longer exists. Not a claim of historical fulfillment.",
+      "referents": [
+        {
+          "symbol": "Little horn",
+          "referent": "A future individual Antichrist"
+        },
+        {
+          "symbol": "Time, times and half a time",
+          "referent": "3½ years"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK7T272WF8V2G6P4AYNS"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9BMXP5J221BRH4MP1W",
+      "label": "The papacy (historicist)",
+      "approach": "historicist",
+      "framework": "Protestant historicist",
+      "proponents": [
+        "I. Newton (1733)",
+        "W. H. Rule (1869), via Driver",
+        "Seventh-day Adventist interpretation (noted by Guzik)"
+      ],
+      "summary": "The ten horns are the kingdoms into which the Western Empire broke; the little horn is the Church of Rome as a temporal power, which subdued three of them; \"time, times and half a time\" is 1260 years on a day-for-a-year reckoning (Newton). Objection (Driver): the scheme is \"non-natural\" and depends on choosing ten kingdoms and a starting date.",
+      "referents": [
+        {
+          "symbol": "Ten horns",
+          "referent": "Kingdoms of the Western Roman Empire"
+        },
+        {
+          "symbol": "Little horn",
+          "referent": "The papacy / Church of Rome"
+        },
+        {
+          "symbol": "Time, times and half a time",
+          "referent": "1260 years"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK83SFG091RT082Z4EXG",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK7T272WF8V2G6P4AYNS"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9BBXZ4EW8T4K7RF6SJ",
+      "label": "Julius Caesar and the Caesars",
+      "approach": "preterist",
+      "framework": "Reformation",
+      "proponents": [
+        "J. Calvin (as reported by Guzik; not read directly)"
+      ],
+      "summary": "The little horn is the line of Roman Caesars beginning with Julius Caesar. Recorded as reported by Enduring Word, which rejects it.",
+      "referents": [
+        {
+          "symbol": "Little horn",
+          "referent": "Julius Caesar and his successors"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7T272WF8V2G6P4AYNS"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

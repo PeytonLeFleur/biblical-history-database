@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TSKK81W6HP2HFZ7744DHRG",
+  "title": "A Critical and Exegetical Commentary on the Book of Daniel (ICC)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+    "Montgomery, James A."
+  ],
+  "publisher": "T. & T. Clark",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/criticalexegetic22montuoft",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Published 1927; public domain in the US; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the OCR text, pp. 307–308, 317–318",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Three classes of son-of-man interpretation: (1) personal, messianic — \"the eldest\" and formerly prevailing in Jewish and Christian exegesis; (2) symbolic of the people of the saints — \"itself an ancient view\"; (3) mythological — recent; messianic and non-messianic views found \"almost indifferently with conservatives and radicals\"; Montgomery holds that the saints are the group typified by the human figure",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (University of Toronto copy).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

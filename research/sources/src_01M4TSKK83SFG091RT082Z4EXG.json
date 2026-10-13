@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TSKK83SFG091RT082Z4EXG",
+  "title": "Observations upon the Prophecies of Daniel, and the Apocalypse of St. John",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Newton, Isaac"
+  ],
+  "publisher": "Project Gutenberg #16878 (first published 1733)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/16878",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read Part I chs. 6–8",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Ten horns = ten kingdoms into which the Western Roman Empire broke; the little horn is a kingdom, \"a Seer, a Prophet and a King … the Church of Rome\", rising to temporal dominion in the later 8th century; time, times and half a time = 1260 solar years (day-year); rejects Antiochus for the little horn of ch. 8",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Gutenberg text (pglaf mirror), Part I chs. 4–8.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

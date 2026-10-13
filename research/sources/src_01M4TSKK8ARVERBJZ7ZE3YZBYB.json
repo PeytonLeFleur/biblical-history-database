@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TSKK8ARVERBJZ7ZE3YZBYB",
+  "title": "Polybius, Histories 26.1–1a (Loeb 1926) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Polybius"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/26*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Polybius 26.1",
+  "license": "Loeb (1926) translation; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "26.1: Antiochus \"surnamed Epiphanes gained the name of Epimanes by his conduct\"; 26.1a: Polybius calls him Epimanes (the Madman) instead of Epiphanes",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Fragments preserved by Athenaeus; the page names no translator.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -107,7 +107,7 @@ export function derivationResolver(store: ResearchStore): (id: string) => Deriva
         return id;
       }
     }
-    if (e.kind === 'reign') return `reign of ${nameOf(e.person_id)}`;
+    if (e.kind === 'reign') return `${e.is_coregency ? 'co-regency' : 'reign'} of ${nameOf(e.person_id)}`;
     if (e.kind === 'person') return e.canonical_name;
     if (e.kind === 'place') return e.primary_name;
     if ('name' in e) return e.name;

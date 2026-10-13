@@ -503,6 +503,126 @@ Mesopotamian kings treated dreams as portents and consulted specialists; an insc
 - **604 BC – 603 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
   - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
   - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **603 BC – 602 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+  - Latest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+- **604 BC – 603 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
+  - Latest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

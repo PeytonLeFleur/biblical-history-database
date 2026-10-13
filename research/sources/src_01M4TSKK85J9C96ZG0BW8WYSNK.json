@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+  "title": "The Book of Enoch (trans. R. H. Charles, SPCK 1917)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Charles, R. H. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #77935",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/77935",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "1 Enoch 46",
+  "license": "Public domain (1917)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the Gutenberg text and read ch. 46",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "46:1–4: one \"who had a head of days\", white-haired, with \"another being whose countenance had the appearance of a man\"; the angel calls him \"the Son of Man who hath righteousness\", who will raise up kings from their seats",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Charles dates the Parables (chs. 37–71) c. 105–64 BC; other scholars date them later (Driver, p. 105 n.).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

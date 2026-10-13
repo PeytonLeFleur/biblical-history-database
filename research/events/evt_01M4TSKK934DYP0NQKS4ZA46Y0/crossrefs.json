@@ -1,0 +1,536 @@
+{
+  "event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TSKK9RVN6CX6F6QV2BQWKE",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "First beast = Babylon, by parallel with Dan 2:38 (head of gold = Nebuchadnezzar); accepted by every interpreter consulted. Not stated in Dan 7.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TSKK7T272WF8V2G6P4AYNS"
+        ]
+      },
+      "interpretive_approach": "mixed",
+      "proposed_by": "Jerome; Driver; Newton; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TSKK9RNMKQXV29AT2VW401",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8J4ARWJ6YCJ3F581YJ"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Second beast = Media in the Grecian scheme.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Ephrem Syrus; Ewald, Bleek, Delitzsch; Driver (1900)",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TSKK9RA83JKC2TXPR07JGX",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Second beast (Medo-Persia, Roman scheme) or third beast (Persia, Grecian scheme).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "mixed",
+      "proposed_by": "Jerome; Driver; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TSKK9RXP59FQZNQHPZ0XAK",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8MQZMPN5VWKA44XX5S"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Third beast (Roman scheme) or fourth beast with its successors (Grecian scheme; Porphyry).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "mixed",
+      "proposed_by": "Jerome; Porphyry; Driver",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TSKK9RV0E2JE2BJGFXYMDR",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8SCRBCHE0C6SPFYCEB"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Fourth beast = Rome in the traditional scheme (2 Esdras 12:11 onward).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK87BBJJJP35SD5PZGDP",
+          "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+          "src_01M4TSKK83SFG091RT082Z4EXG"
+        ]
+      },
+      "interpretive_approach": "historicist",
+      "proposed_by": "2 Esdras; Hippolytus; Jerome; Newton; Guzik",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TSKK9R5S7G2M36ZS7EC6V2",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TSKK8XVDZBQ6226SB3WHWE"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Little horn = Antiochus IV in the Grecian scheme, matching the little horn of ch. 8.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Porphyry (via Jerome); Driver (1900) and the critical tradition",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TSKK9RSPCMTABECXBZ8SGK",
+      "type": "proposed_fulfillment",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6"
+      },
+      "to": {
+        "kind": "kingdom",
+        "id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Ten horns = Seleucid kings (several reconstructions).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": "preterist",
+      "proposed_by": "Driver (1900); Delitzsch; Ewald",
+      "target_research_state": "unresearched",
+      "review_required": true
+    },
+    {
+      "id": "rel_01M4TSKK9RK1V0VYQ071YJ7FEH",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4RTK7458JMN36GV9R7JAAMQ"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "Four kingdoms followed by God's everlasting kingdom, as in the statue dream; \"generally agreed\" to be the same four (Driver p. 94).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TSKK7XJBPEV1EADHKHN6W9"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9RRWR1ZXFF82J0NCBA",
+      "type": "direct_reference",
+      "from": {
+        "kind": "passage",
+        "ref": "Mark.14.62"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93MG64C8YGN1J0YB11"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"You will see the Son of Man … coming with the clouds of the sky\" (cf. Matt 26:64).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9RP172CHZX252DX1CZ",
+      "type": "direct_reference",
+      "from": {
+        "kind": "passage",
+        "ref": "Matt.24.30"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93MG64C8YGN1J0YB11"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Son of Man coming on the clouds (cf. Mark 13:26).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9RQZQ3EET6NBGWV0GC",
+      "type": "direct_reference",
+      "from": {
+        "kind": "passage",
+        "ref": "Rev.1.13-Rev.1.14"
+      },
+      "to": {
+        "kind": "vision",
+        "id": "vis_01M4TSKK93X3TER65WRMC8FYYV"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"One like a son of man\" with hair \"white as white wool, like snow\" — combining the son of man and the Ancient of Days.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9RB1XQ4EZWHZN21Z36",
+      "type": "direct_reference",
+      "from": {
+        "kind": "passage",
+        "ref": "Rev.13.1-Rev.13.7"
+      },
+      "to": {
+        "kind": "vision",
+        "id": "vis_01M4TSKK93X3TER65WRMC8FYYV"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "A beast from the sea with ten horns, leopard/bear/lion features, a mouth speaking great things, 42 months, war on the saints.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9RFHHYDKSC1Z06GR0J",
+      "type": "direct_reference",
+      "from": {
+        "kind": "passage",
+        "ref": "Rev.12.14"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"A time, times, and half a time.\"",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9R8XJE584VX2GGVS2C",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.12.7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The same period, \"a time, times, and a half\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9RAFKN80GZJKM2VH77",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93WKW4EN8EJXKHK5P6"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.8.9-Dan.8.12"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The little horn of ch. 8; whether it is the same figure is the crux between the schemes (Driver; Newton).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+          "src_01M4TSKK83SFG091RT082Z4EXG"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9REDZYW80A868YG5EG",
+      "type": "direct_reference",
+      "from": {
+        "kind": "document",
+        "id": "doc_01M4TSM63G2FPPK4VDTZPXJ18V"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "2 Esdras 12:11–12: the eagle (Rome) \"is the fourth kingdom which appeared in a vision to your brother Daniel\".",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK87BBJJJP35SD5PZGDP"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9RV2XPKHAWMRETN44V",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93MG64C8YGN1J0YB11"
+      },
+      "to": {
+        "kind": "document",
+        "id": "doc_01M4TSM63G2FPPK4VDTZPXJ18V"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "2 Esdras 13:1–3: a man from the sea who \"flew with the clouds of heaven\".",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK87BBJJJP35SD5PZGDP"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9VFWBVCCY695GAS9A7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4TSKK93MG64C8YGN1J0YB11"
+      },
+      "to": {
+        "kind": "document",
+        "id": "doc_01M4TSKK9V76S4FTYQP619PW20"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Head of Days and the Son of Man (1 Enoch 46) reuse Dan 7:9–13.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+          "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9V1QME42NCQZ520QE0",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TPW4BX21MX03GRSQ7P1VK0"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The vision is dated to Belshazzar's first year, before his death (5:30); Jerome notes chs. 7–8 are \"historically prior\" to chs. 5–6.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TSKK7XJBPEV1EADHKHN6W9"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TSKK9V4Q5FZGDP1PF0KMD7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RTK7413H4KYZP4XJ33QVHC"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Parallel revelation of four kingdoms and God's kingdom.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Belshazzar king of Babylon (7:1)",
+      "resolved_to": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+      "basis": "Same Belshazzar as Dan 5",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": [
+    "cst_01M4TSKK9KZ7Z62QD5JNKT4XSM",
+    "cst_01M4TSKK9KSP23XMZSEYQC1CCQ"
+  ]
+}

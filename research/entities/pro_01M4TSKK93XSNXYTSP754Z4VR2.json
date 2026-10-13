@@ -1,0 +1,128 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4TSKK93XSNXYTSP754Z4VR2",
+  "slug": "four-kingdoms-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The four kingdoms and the kingdom of the saints (Dan 7:17–18, 23, 27)",
+  "passage": "Dan.7.17-Dan.7.27",
+  "speaker": "An attendant in the vision",
+  "vision_id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "description": "Four beasts are four kings/kingdoms; the fourth differs from the rest; afterwards the saints of the Most High receive an everlasting kingdom.",
+  "in_text_interpretation": "Four kings (7:17); the fourth beast a fourth kingdom (7:23). The text names none of the kingdoms; Daniel 2:38 identifies the first kingdom of the parallel dream with Nebuchadnezzar.",
+  "interpretations": [
+    {
+      "id": "ful_01M4TSKK988KCFVWTQMA30G73P",
+      "label": "Babylon, Medo-Persia, Greece, Rome (\"Roman\" scheme)",
+      "approach": "mixed",
+      "framework": "Traditional Christian (patristic); also later Jewish authorities",
+      "proponents": [
+        "2 Esdras 12:11–12 (late 1st century AD)",
+        "Hippolytus (via Driver)",
+        "Jerome",
+        "Keil, Hengstenberg, Pusey (via Driver)",
+        "I. Newton (1733)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the parallel with the four-metal statue of ch. 2; Medes and Persians as one kingdom (cf. 8:20); Rome as the iron power that crushed all. Objection (Driver 1900): no ten kingdoms arise out of Rome, which has passed away, and the little horn of ch. 7 matches the Antiochus horn of ch. 8. Acceptance: general among the Church Fathers (Driver); held today mainly in conservative interpretation (not quantified in sources read).",
+      "referents": [
+        {
+          "symbol": "Lion",
+          "referent": "Babylon"
+        },
+        {
+          "symbol": "Bear",
+          "referent": "Medo-Persia"
+        },
+        {
+          "symbol": "Leopard",
+          "referent": "Macedonian Greece (four heads = Alexander's successors)"
+        },
+        {
+          "symbol": "Fourth beast",
+          "referent": "Rome"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK87BBJJJP35SD5PZGDP",
+        "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK83SFG091RT082Z4EXG",
+        "src_01M4TSKK7T272WF8V2G6P4AYNS"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK98D6F57A1QFGW237GA",
+      "label": "Babylon, Media, Persia, Greece (\"Grecian\" scheme)",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "Ephrem Syrus (via Driver)",
+        "Ewald, Bleek, Delitzsch, Kuenen, Bevan (via Driver)",
+        "S. R. Driver (1900)",
+        "A.-J. Levine (2010), via Wikipedia"
+      ],
+      "summary": "Textual reasoning: Daniel presents a separate Median kingdom (Darius the Mede, 5:31; 9:1) before Persia; the little horn here matches that of ch. 8 (Antiochus), whose persecution lasts the same \"time, times and half a time\" (cf. 12:7); the book's horizon ends with Antiochus. Objection: no independent Median empire ruled Babylon between Nabonidus and Cyrus (ABC 7); the bear/three ribs fit Medo-Persia (Driver concedes as plausible). Acceptance: the standard critical reading (Driver 1900; Levine via Wikipedia); a precise modern percentage was not found.",
+      "referents": [
+        {
+          "symbol": "Lion",
+          "referent": "Babylon"
+        },
+        {
+          "symbol": "Bear",
+          "referent": "Media"
+        },
+        {
+          "symbol": "Leopard",
+          "referent": "Persia"
+        },
+        {
+          "symbol": "Fourth beast",
+          "referent": "Alexander and his successors (Seleucids)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9853DCRJPT7GQAMRG9",
+      "label": "Porphyry: the leopard is Alexander, the fourth beast his successors",
+      "approach": "preterist",
+      "framework": "Anti-Christian philosophical critique (3rd century AD), known through Jerome",
+      "proponents": [
+        "Porphyry (via Jerome)"
+      ],
+      "summary": "Porphyry merged the Macedonian and Roman beasts into one Macedonian realm, made the fourth beast the successors of Alexander and counted ten cruel kings up to Antiochus Epiphanes. Jerome rejected this. Porphyry's own work survives only in such quotations.",
+      "referents": [
+        {
+          "symbol": "Leopard",
+          "referent": "Alexander"
+        },
+        {
+          "symbol": "Fourth beast",
+          "referent": "Alexander's successors"
+        },
+        {
+          "symbol": "Ten horns",
+          "referent": "Ten kings up to Antiochus IV"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7XJBPEV1EADHKHN6W9"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

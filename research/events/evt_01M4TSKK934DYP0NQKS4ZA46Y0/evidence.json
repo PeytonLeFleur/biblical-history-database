@@ -1,0 +1,437 @@
+{
+  "event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 7",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Verse Account ii (third year); Harran stele",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": "Livius Harran stele page returned 404."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "ABC 7 accession–year 6 (Livius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": "Years 4–5 lost."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Dougherty 1929 (regency, pp. 105–107); Parker & Dubberstein year tables",
+      "engine": "local text",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Jerome on Daniel 7 (tertullian.org)",
+      "engine": "web download",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: Driver 1900; Montgomery 1927",
+      "engine": "archive.org",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Newton, Observations (Gutenberg 16878); Charles, Book of Enoch (Gutenberg 77935)",
+      "engine": "gutenberg mirror",
+      "useful_results": 2,
+      "notes": "sacred-texts.com blocked by a Cloudflare challenge."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "WEB deuterocanon USFM (1 Maccabees, 2 Esdras)",
+      "engine": "ebible.org",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Sefaria: Sanhedrin 38b, 98a",
+      "engine": "sefaria api",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Polybius 26.1; Diodorus 34/35.1 (LacusCurtius)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": "Diodorus 34/35 not on LacusCurtius."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Babylonian King List of the Hellenistic period BM 35603 (Livius)",
+      "engine": "web search + fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Wikipedia Daniel 7 (discovery only)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "A vision report; no archaeological correlate sought beyond the dating evidence."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversions from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4TSKK9MFXVR0DF77K36B500",
+      "statement": "Nabonidus entrusted the kingship in Babylonia to Belshazzar around the start of his third year (c. 553 BC).",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "The Verse Account says so directly (\"when the third year was about to begin\"); the Chronicle places the western campaign in year 3 and the king in Tayma, with the prince in Akkad, in years 7–11; Smith's correlation is reported by Dougherty.",
+      "supporting_evidence": [
+        "evd_01M4TSKK9MHKZRJYB1846HMFPF",
+        "evd_01M4TSKK9MT90TTBHHT2M44PZP"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TSKK9MYR0M36B9R8SAQP47"
+      ],
+      "limitations": [
+        "The Verse Account is hostile polemic; the Chronicle's years 4–5 are lost.",
+        "Beaulieu (1989) not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TSKK9MEQ0FSG2HWJA033BP",
+      "statement": "Daniel's \"first year of Belshazzar\" can be fixed to a calendar year.",
+      "layer": "reconstruction",
+      "passage": "Dan.7.1",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No Babylonian text dates by Belshazzar's years. A date (c. 553–551 BC) follows only if Daniel counted from the entrusting of the kingship; that assumption is modelled separately and the event is otherwise left undated.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TSKK9MHKZRJYB1846HMFPF",
+        "evd_01M4TSKK9M533FC6G8V4XXNC21"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TSKK9MC3GKWMH3EBC3XY6M",
+      "statement": "Daniel saw this vision and wrote it down in Belshazzar's first year.",
+      "layer": "text",
+      "passage": "Dan.7.1",
+      "classification": "disputed",
+      "reasoning": "Traditional interpreters accept the date formula; critical scholars date the chapter to the Antiochene crisis (c. 167–164 BC) because its horizon ends with the little horn. The disagreement concerns authorship and date of composition and is unresolved.",
+      "supporting_evidence": [
+        "evd_01M4TSKK9MQG4A72WF9YHXA30K"
+      ],
+      "counterevidence": [
+        "evd_01M4TSKK9MF4HFD2X3X188VDXZ"
+      ],
+      "contextual_evidence": [
+        "evd_01M4TSKK9MMGTYK3RF3Q1GZEQD"
+      ],
+      "limitations": [
+        "Collins known here only via Wikipedia."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TSKK9MC87ZYWEDG7222XA6",
+      "statement": "Antiochus IV reigned over the Seleucid empire from Ulûlu 137 SE (175 BC) to Kislîmu 148 SE (late 164 BC).",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "The Babylonian King List gives his accession and death report; 1 Maccabees gives the same accession year and his death in 149 (Macedonian-reckoned era).",
+      "supporting_evidence": [
+        "evd_01M4TSKK9MYZ7YFCVFFGDGTCKV",
+        "evd_01M4TSKK9MNFVMDTSEG9BGXQHX"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "King List translation flagged for revision by its editor."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TSKK9MNQGEV8MDQ7FGFA3Q",
+      "statement": "Antiochus IV suppressed Temple worship in Jerusalem for about three years (Chislev 145 – Chislev 148 SE).",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "1 Maccabees, independent of Daniel, dates the \"abomination of desolation\" to 15 Chislev 145 and the rededication to 25 Chislev 148, with persecuting decrees before the desecration. It is a single (Jewish) source tradition in this session: non-Jewish confirmation (Diodorus 34/35) could not be accessed, and Polybius attests only Antiochus's notoriety.",
+      "supporting_evidence": [
+        "evd_01M4TSKK9MNFVMDTSEG9BGXQHX"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TSKK9MA3Z5E391F53K5ZT2"
+      ],
+      "limitations": [
+        "One source tradition read (1 Maccabees); 2 Maccabees and Diodorus not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TSKK9M22TWGYYJGGPC67VG",
+      "statement": "Interpreters before the Christian era read the \"one like a son of man\" as an individual figure.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "historically_plausible",
+      "reasoning": "The Parables of Enoch present \"that Son of Man\" as an individual beside the Head of Days; Charles dates them c. 105–64 BC, but other scholars date them later, possibly after the start of the Christian era.",
+      "supporting_evidence": [
+        "evd_01M4TSKK9MTV4SDAWBMT182QDX"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Dating of the Parables disputed (Driver reports Dillmann, Charles, Schürer)."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4TSKK9MHKZRJYB1846HMFPF",
+      "claim_ids": [
+        "clm_01M4TSKK9MFXVR0DF77K36B500",
+        "clm_01M4TSKK9MEQ0FSG2HWJA033BP"
+      ],
+      "source_id": "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "\"When the third year was about to begin\" Nabonidus entrusted the army to his eldest son and \"entrusted the kingship to him\".",
+      "locator": "col. ii 5–6 (Livius numbering)",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "verse-account"
+    },
+    {
+      "id": "evd_01M4TSKK9MT90TTBHHT2M44PZP",
+      "claim_ids": [
+        "clm_01M4TSKK9MFXVR0DF77K36B500"
+      ],
+      "source_id": "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Year 3: campaign to Amurru and Edom (Abu–Kislimu); years 7–11: the king in Tayma, the prince in Akkad.",
+      "locator": "i 11–17 (year 3); ii 5 ff. (years 7, 9–11)",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "nabonidus-chronicle"
+    },
+    {
+      "id": "evd_01M4TSKK9MYR0M36B9R8SAQP47",
+      "claim_ids": [
+        "clm_01M4TSKK9MFXVR0DF77K36B500"
+      ],
+      "source_id": "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Smith showed the Verse Account's Tema campaign accords with the Chronicle's 3rd year; Dougherty treats Belshazzar as co-regent from then.",
+      "locator": "pp. 105–107",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "dougherty-1929"
+    },
+    {
+      "id": "evd_01M4TSKK9M533FC6G8V4XXNC21",
+      "claim_ids": [
+        "clm_01M4TSKK9MEQ0FSG2HWJA033BP"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Nabonidus year 2 began 19 Apr 554, year 3 on 7 Apr 553, year 4 on 26 Apr 552; no Belshazzar years appear in the dated documents.",
+      "locator": "Year tables (Nabonidus)",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "parker-dubberstein"
+    },
+    {
+      "id": "evd_01M4TSKK9MQG4A72WF9YHXA30K",
+      "claim_ids": [
+        "clm_01M4TSKK9MC3GKWMH3EBC3XY6M"
+      ],
+      "source_id": "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Jerome treats the vision as seen in Belshazzar's first year and defends the book's prophetic authorship against Porphyry.",
+      "locator": "on 7:1; prologue",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "traditional"
+    },
+    {
+      "id": "evd_01M4TSKK9MF4HFD2X3X188VDXZ",
+      "claim_ids": [
+        "clm_01M4TSKK9MC3GKWMH3EBC3XY6M"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The age of Antiochus Epiphanes is \"the limiting horizon of the book\"; the visions culminate in his persecution.",
+      "locator": "pp. 98–100",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4TSKK9MMGTYK3RF3Q1GZEQD",
+      "claim_ids": [
+        "clm_01M4TSKK9MC3GKWMH3EBC3XY6M"
+      ],
+      "source_id": "src_01M4TSKK8EQDTEV06BW4TSYTTJ",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Reports the critical dating of the visions to 167–164 BC, with ch. 7 somewhat earlier.",
+      "locator": "Composition (Collins 1984)",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "secondary-summary"
+    },
+    {
+      "id": "evd_01M4TSKK9MYZ7YFCVFFGDGTCKV",
+      "claim_ids": [
+        "clm_01M4TSKK9MC87ZYWEDG7222XA6"
+      ],
+      "source_id": "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Antiochus ascended in Ulûlu of year 137; in Kislîmu of year 148 \"it was heard that\" he had died.",
+      "locator": "rev. 9–14",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-king-list"
+    },
+    {
+      "id": "evd_01M4TSKK9MNFVMDTSEG9BGXQHX",
+      "claim_ids": [
+        "clm_01M4TSKK9MC87ZYWEDG7222XA6",
+        "clm_01M4TSKK9MNQGEV8MDQ7FGFA3Q"
+      ],
+      "source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Reign from year 137; altar desecrated 15 Chislev 145; rededicated 25 Chislev 148; died in 149.",
+      "locator": "1 Macc 1:10, 54; 4:52–54; 6:16",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-maccabees"
+    },
+    {
+      "id": "evd_01M4TSKK9MA3Z5E391F53K5ZT2",
+      "claim_ids": [
+        "clm_01M4TSKK9MNQGEV8MDQ7FGFA3Q"
+      ],
+      "source_id": "src_01M4TSKK8ARVERBJZ7ZE3YZBYB",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "His conduct earned him the nickname Epimanes, \"madman\".",
+      "locator": "26.1–1a",
+      "proposed_connection_by": "operator",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "polybius"
+    },
+    {
+      "id": "evd_01M4TSKK9MTV4SDAWBMT182QDX",
+      "claim_ids": [
+        "clm_01M4TSKK9M22TWGYYJGGPC67VG"
+      ],
+      "source_id": "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Enoch sees one with \"a head of days\" and \"that Son of Man\" who has righteousness and will raise kings from their seats.",
+      "locator": "1 Enoch 46:1–4",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-enoch"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [
+    "doc_01M4TPW4BSJC2FJY0K34MX7RMG",
+    "doc_01M4RV9NRCTVGH19J236HH7GX8"
+  ],
+  "research_gaps": [
+    "Beaulieu (1989) on Nabonidus's departure not read.",
+    "Collins (1993 Hermeneia; 1998) not read directly — angelic and composition views secondary.",
+    "Old Greek and Qumran texts of Daniel 7 not consulted.",
+    "Calvin's Daniel commentary not read directly.",
+    "Diodorus 34/35.1 not accessible.",
+    "Canaanite (Baal–Yamm/El) background claims seen only uncited in Wikipedia; not recorded."
+  ]
+}

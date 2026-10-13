@@ -197,7 +197,7 @@ export default function Timeline({ models, lanes, initialModel }: TimelineProps)
                         <rect x={x(s0)} y={y + 4} width={Math.max(3, x(s1) - x(s0))} height={16} fill="url(#tl-hatch)" stroke="#7a5a2f" strokeWidth={1} />
                       )}
                       {isSel && <rect x={x(s0) - 2} y={y + 2} width={Math.max(5, x(it.kind === 'reign' ? e1 : s1) - x(s0)) + 4} height={20} fill="none" stroke="#252923" strokeWidth={1.5} />}
-                      <text x={Math.max(LABEL_W + 4, x(s0)) + 4} y={y + 16} fontSize={11} fill={it.kind === 'reign' ? '#f3efe6' : '#252923'} fontWeight={600} style={{ pointerEvents: 'none', paintOrder: 'stroke' }}
+                      <text x={Math.max(LABEL_W + 4, x(s0)) + 4} y={y + 16} fontSize={11} fill={it.kind === 'reign' ? '#f3efe6' : '#252923'} fontWeight={600} style={{ paintOrder: 'stroke' }}
                         stroke={it.kind === 'reign' ? 'none' : '#f3efe6'} strokeWidth={it.kind === 'reign' ? 0 : 3}>
                         {it.label}
                       </text>

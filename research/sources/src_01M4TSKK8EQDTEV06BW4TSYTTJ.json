@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TSKK8EQDTEV06BW4TSYTTJ",
+  "title": "Daniel 7 — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_7",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Four kingdoms Babylon–Media–Persia–Greece and little horn = Antiochus IV (Levine 2010); collective son of man \"the usual suggestion\" (uncited); angelic leader of God's host (Michael) \"the main alternative view\" (Collins 1998, pp. 101–103); visionary chapters 167–164 BC, ch. 7 somewhat earlier, \"most scholars accept\" its unity (Collins 1984); Baal–Yamm background accepted by \"many scholars\" (unnamed)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Used for source discovery only; not relied on for disputed claims.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

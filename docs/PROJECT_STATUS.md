@@ -1,6 +1,6 @@
 # Project Status
 
-**Current milestone:** 5 (Daniel research pilot): **in progress** (Daniel 1–6 of 12 complete)
+**Current milestone:** 5 (Daniel research pilot): **in progress** (Daniel 1–7 of 12 complete)
 **Last updated:** 2026-10-12
 
 ## Milestone 1: Repository and foundation ✅
@@ -89,7 +89,8 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 | Daniel 4 | 37/37 | Tree dream and interpretation (4:4–27); boast, madness and restoration (4:28–37, period). Nabonidus, Tayma, East India House Inscription, 4Q242, ABC 7; tree vision; watchers' decree prophecy | ✅ researched (1 disputed claim, 1 proposed fulfillment in review) |
 | Daniel 5 | 31/31 | Belshazzar's feast and the writing (5:1–29); Belshazzar slain, Darius the Mede receives the kingdom (5:30–31); fall of Babylon, Oct 539 (external, anchored by ABC 7 = 12–13 Oct per Parker & Dubberstein); Dan 1:21 resolved. Belshazzar, Ugbaru, Gubaru, Darius the Mede, Cyaxares II (Xenophon); Cyrus Cylinder; Nabonidus and Cyrus (Babylon) reigns; MENE-TEKEL prophecy | ✅ researched (3 disputed claims, 3 proposed fulfillments in review) |
 | Daniel 6 | 28/28 | Darius appoints 120 satraps (6:1–3, 28); the thirty-day decree and the lions' den (6:4–23); accusers punished and Darius's decree (6:24–27). Darius I (distinct from Darius the Mede); Behistun inscription | ✅ researched (1 disputed claim in review) |
-| Daniel 7–12 | 0 | — | not started |
+| Daniel 7 | 28/28 | Vision experience (event, undated outside the new "Belshazzar's years" model: c. 553–551 BC); vision record (11 symbols, text-only identifications); 4 prophecy records with 15 attributed interpretations (Roman/Grecian/Porphyry schemes; Antiochus/Antichrist/papacy/Caesars; son of man: Jesus/Messiah/collective/angelic; judgment). Kingdoms: Media, Macedon, Seleucid, Rome; Alexander; Antiochus IV and reign | ✅ researched (1 disputed claim, 7 identification relationships, 8 proposed fulfillments in review) |
+| Daniel 8–12 | 0 | — | not started |
 
 **Infrastructure added in M5:**
 - Global synchronism, artifact, document, vision and prophecy records. Interpretations carry an approach and proponents, and proposed fulfillments require owner review.
@@ -107,6 +108,6 @@ Live at https://peytonlefleur.github.io/biblical-history-database/. It is built 
 lint ✓ · typecheck ✓ · Vitest **91/91** ✓ · Playwright **64/64** ✓ · `research:validate` ✓ (warnings: inconsistent reckoning alternatives, by design) · `chronology:validate` ✓ · research import ✓ · site build: 1,299 pages
 
 ## Research progress
-- Verse coverage: **211 / 31,102** reviewed (Amos 1; Daniel 1–6). Chapters extracted: 7.
-- **Events: 21** (19 researched, 2 preliminary). **Sources: 86.** **Entities: 70.**
-- **Open owner reviews: 19.** The Amos review is unchanged.
+- Verse coverage: **239 / 31,102** reviewed (Amos 1; Daniel 1–7). Chapters extracted: 8.
+- **Events: 22** (20 researched, 2 preliminary). **Sources: 97.** **Entities: 86.**
+- **Open owner reviews: 35.** The Amos review is unchanged.

@@ -1,0 +1,71 @@
+{
+  "id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "slug": "daniel-vision-four-beasts-dan-7",
+  "title": "Daniel's night vision of the four beasts and its interpretation (Dan 7)",
+  "summary": "In the first year of Belshazzar Daniel sees a night vision — four beasts from the sea, a heavenly court, and one like a son of man given an everlasting kingdom — and is given its interpretation by an attendant. This record is the narrated experience; the symbols and their interpretations are separate vision and prophecy records.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4TSKK93NX07ESC8YDM23EX6",
+    "cnd_01M4TSKK936FM4YXYBSFB2H682",
+    "cnd_01M4TSKK94WBQD4BH93RTY2C5Y"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "apocalyptic_vision",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.7.1",
+      "mention_type": "superscription",
+      "notes": "Dated to the first year of Belshazzar."
+    },
+    {
+      "passage": "Dan.7.15-Dan.7.16",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "Dan.7.28",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}
