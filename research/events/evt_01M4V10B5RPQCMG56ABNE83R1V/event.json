@@ -4,7 +4,10 @@
   "title": "The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15)",
   "summary": "The house of God at Jerusalem was finished on the third day of Adar in the sixth year of Darius and dedicated with sacrifices.",
   "is_fixture": false,
-  "candidate_ids": [],
+  "candidate_ids": [
+    "cnd_01M4VHGTGF64B1T3VWE9ZD6XQJ",
+    "cnd_01M4VHGTGFCQ3G0WYZ74PGPA2W"
+  ],
   "external_reason": "Proposed end point of Jeremiah's seventy years (Temple-desolation reading) and starting point of one scheme reported by Jerome (Eusebius).",
   "is_period": false,
   "literary_classification": "historical_narrative",
@@ -14,21 +17,21 @@
     "construction"
   ],
   "priority": "medium",
-  "research_status": "publishable",
+  "research_status": "needs_review",
   "publication_level": "researched",
   "parent_event_id": null,
   "mentions": [
     {
-      "passage": "Ezra.6.15-Ezra.6.18",
+      "passage": "Ezra.6.13-Ezra.6.18",
       "mention_type": "narration",
-      "notes": null
+      "notes": "6:13–14 completion under Darius's decree; 6:16–18 dedication."
     }
   ],
   "stages": {
     "scripture_extraction": {
-      "status": "not_applicable",
+      "status": "complete",
       "updated": "2026-10-13",
-      "reason": "External to Daniel: researched as a candidate starting point of Dan 9:25; Ezra is not yet extracted chapter by chapter."
+      "reason": null
     },
     "historical_reconstruction": {
       "status": "complete",
@@ -51,7 +54,7 @@
       "reason": null
     }
   },
-  "revision": 1,
+  "revision": 2,
   "created_at": "2026-10-13",
   "updated_at": "2026-10-13",
   "last_reviewed_at": null

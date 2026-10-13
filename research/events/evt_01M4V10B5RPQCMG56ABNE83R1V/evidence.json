@@ -9,6 +9,13 @@
       "engine": "local text",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Ezra 6 unit: 1 Esdras 7:5; Josephus Ant. 11.4.7; Keil and Batten on 6:15",
+      "engine": "local text",
+      "useful_results": 3,
+      "notes": null
     }
   ],
   "domains": {
@@ -56,6 +63,30 @@
       "reviewer_status": "machine_proposed",
       "review_required": false,
       "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VHGTH4VRE1ERDPQ26YA4EP",
+      "statement": "The Temple was finished on the third day of Adar (Ezra 6:15), not the twenty-third (1 Esd 7:5; Josephus), in Darius's sixth year (not his ninth, as in Josephus).",
+      "layer": "text",
+      "passage": "Ezra.6.15",
+      "classification": "disputed",
+      "reasoning": "The Hebrew (and, per Keil, the LXX) has the third day; 1 Esdras has the twenty-third; Josephus has the twenty-third of Adar in the ninth year. Keil rejects Bertheau's preference for the twenty-third. No external evidence dates the completion; the year (sixth) is the common reading of Ezra and 1 Esdras.",
+      "supporting_evidence": [
+        "evd_01M4VHGTH4TTAMMWVHV9KT526Q"
+      ],
+      "counterevidence": [
+        "evd_01M4VHGTH426MSHJFEA5C6HM8Q",
+        "evd_01M4VHGTH4MY3HVTR2CTA40JHQ"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VHGTH4FG5KMBJJRE8Z414M"
+      ],
+      "limitations": [
+        "Textual variants beyond these witnesses not researched."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
     }
   ],
   "evidence": [
@@ -74,6 +105,70 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4VHGTH4TTAMMWVHV9KT526Q",
+      "claim_ids": [
+        "clm_01M4VHGTH4VRE1ERDPQ26YA4EP"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The Hebrew and the LXX read the third day; Bertheau's preference for 1 Esdras's twenty-third is arbitrary.",
+      "locator": "on 6:15 (n.)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VHGTH426MSHJFEA5C6HM8Q",
+      "claim_ids": [
+        "clm_01M4VHGTH4VRE1ERDPQ26YA4EP"
+      ],
+      "source_id": "src_01M4VHGTG4G0895CGDV3HJ1RA5",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Finished by the twenty-third day of Adar, in the sixth year.",
+      "locator": "1 Esd 7:5",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VHGTH4MY3HVTR2CTA40JHQ",
+      "claim_ids": [
+        "clm_01M4VHGTH4VRE1ERDPQ26YA4EP"
+      ],
+      "source_id": "src_01M4VHGTG0R3ZWYM7T2M8SC2DV",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Dedication sacrifices on the twenty-third of Adar in the ninth year of Darius; built in seven years.",
+      "locator": "Ant. 11.4.7",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VHGTH4FG5KMBJJRE8Z414M",
+      "claim_ids": [
+        "clm_01M4VHGTH4VRE1ERDPQ26YA4EP"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Esdras reads the 23rd day; the year phrase needs emendation.",
+      "locator": "on 6:15",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
     }
   ],
   "artifacts": [],

@@ -9,6 +9,13 @@
       "engine": "local text",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Ezra 6 unit: Pleiades Ecbatana; Ryle, Keil, Batten on 6:1–12; Josephus Ant. 11.4.6; Enduring Word Ezra 6",
+      "engine": "local text",
+      "useful_results": 4,
+      "notes": null
     }
   ],
   "domains": {
@@ -56,6 +63,69 @@
       "reviewer_status": "machine_proposed",
       "review_required": false,
       "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VHGTGT2RQ1X7MNBNCBP8PM",
+      "statement": "Achmetha (Ezra 6:2) is Ecbatana (modern Hamadan), a Persian royal residence.",
+      "layer": "evidence",
+      "passage": "Ezra.6.2",
+      "classification": "independently_corroborated",
+      "reasoning": "Pleiades associates Achmeta, Hagmatana and Ecbatana with Hamadan; Ryle explains the Aramaic form and the summer residence; Josephus names Ecbatana in Media independently of the Hebrew form.",
+      "supporting_evidence": [
+        "evd_01M4VHGTGT28MQK69RREMFB6CP",
+        "evd_01M4VHGTGTHSXMP5V3JXFKF6H6",
+        "evd_01M4VHGTGTS5JAZ45M4TDHS26E"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VHGTGT37AT4DY5T25CF6G0",
+      "statement": "The Aramaic memorandum of Cyrus's decree (Ezra 6:3–5) is an authentic Persian archival record.",
+      "layer": "reconstruction",
+      "passage": "Ezra.6.3-Ezra.6.5",
+      "classification": "disputed",
+      "reasoning": "Keil and Ryle accept it; Ryle suggests the records had been moved from Babylon to Ecbatana. De Vaux (via Guzik) argues that a forger in Palestine would not have known that Cyrus left Babylon for Ecbatana in spring 538. Batten notes that the Hebrew (1:2–4) and Aramaic (6:3–5) versions differ materially — \"one or both must be wrong\" — and that Tattenai's report and the decree agree too closely to be independent. No copy outside Ezra survives.",
+      "supporting_evidence": [
+        "evd_01M4VHGTGTWRM4W2QT9ZMMYFN7",
+        "evd_01M4VHGTGTTMY0X6BK4B5X2V6P"
+      ],
+      "counterevidence": [
+        "evd_01M4VHGTGTGN35FFN3GKG8YV32"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VHGTGTMCC88HMJHPCC19YC"
+      ],
+      "limitations": [
+        "de Vaux (1937) not read directly; known through Guzik."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VHGTGYDNRP9562V2JBB0VM",
+      "statement": "Persian kings supported local cults with grants and expected prayers for the king.",
+      "layer": "evidence",
+      "passage": "Ezra.6.8-Ezra.6.10",
+      "classification": "historically_plausible",
+      "reasoning": "The Cyrus Cylinder records Cyrus restoring gods to their shrines and asking them to pray for him; Guzik (after Yamauchi) cites a Greek–Lycian–Aramaic cult charter from Xanthos (found 1973) under Persian rule. The Xanthos text was not read in this session.",
+      "supporting_evidence": [
+        "evd_01M4VHGTGY6KX0S5182F627D8R",
+        "evd_01M4VHGTGYG46WZN50JZF62CV7"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Xanthos trilingual not read."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
     }
   ],
   "evidence": [
@@ -74,12 +144,158 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4VHGTGT28MQK69RREMFB6CP",
+      "claim_ids": [
+        "clm_01M4VHGTGT2RQ1X7MNBNCBP8PM"
+      ],
+      "source_id": "src_01M4VHGTG8AGN4T0QEETZP45RB",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Ecbatana, Hagmatana, Achmeta, Hamadan (certain).",
+      "locator": "names",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "pleiades"
+    },
+    {
+      "id": "evd_01M4VHGTGTHSXMP5V3JXFKF6H6",
+      "claim_ids": [
+        "clm_01M4VHGTGT2RQ1X7MNBNCBP8PM"
+      ],
+      "source_id": "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Achmetha is the Aramaic transliteration of Ecbatana, the Persian summer residence.",
+      "locator": "on 6:2",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ryle-1893"
+    },
+    {
+      "id": "evd_01M4VHGTGTS5JAZ45M4TDHS26E",
+      "claim_ids": [
+        "clm_01M4VHGTGT2RQ1X7MNBNCBP8PM"
+      ],
+      "source_id": "src_01M4VHGTG0R3ZWYM7T2M8SC2DV",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The book was found at Ecbatana, in Media.",
+      "locator": "Ant. 11.4.6",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VHGTGTWRM4W2QT9ZMMYFN7",
+      "claim_ids": [
+        "clm_01M4VHGTGT37AT4DY5T25CF6G0"
+      ],
+      "source_id": "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Records perhaps transferred from Babylon to Ecbatana; the enquiry at Babylon led to Ecbatana.",
+      "locator": "on 6:2",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ryle-1893"
+    },
+    {
+      "id": "evd_01M4VHGTGTTMY0X6BK4B5X2V6P",
+      "claim_ids": [
+        "clm_01M4VHGTGT37AT4DY5T25CF6G0"
+      ],
+      "source_id": "src_01M4VHGTFT8KAZAS7J885744PE",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "A forger would not have placed the scroll at Ecbatana.",
+      "locator": "on 6:1–2 (de Vaux via Yamauchi)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "de-vaux-via-guzik"
+    },
+    {
+      "id": "evd_01M4VHGTGTGN35FFN3GKG8YV32",
+      "claim_ids": [
+        "clm_01M4VHGTGT37AT4DY5T25CF6G0"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The two versions differ materially; one or both must be wrong; the report and decree are dependent.",
+      "locator": "pp. 59–60, 143",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    },
+    {
+      "id": "evd_01M4VHGTGTMCC88HMJHPCC19YC",
+      "claim_ids": [
+        "clm_01M4VHGTGT37AT4DY5T25CF6G0"
+      ],
+      "source_id": "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Cyrus returned the images of the gods and their peoples to abandoned sanctuaries — a general policy of restoring cults.",
+      "locator": "lines 32–33",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "cyrus-cylinder"
+    },
+    {
+      "id": "evd_01M4VHGTGY6KX0S5182F627D8R",
+      "claim_ids": [
+        "clm_01M4VHGTGYDNRP9562V2JBB0VM"
+      ],
+      "source_id": "src_01M4TPW4ATXEMZWCPMW6YP9H10",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Gods returned to their sanctuaries; \"May all the gods whom I settled in their sacred centers ask daily of Bêl and Nâbu that my days be long\".",
+      "locator": "lines 32–35",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "cyrus-cylinder"
+    },
+    {
+      "id": "evd_01M4VHGTGYG46WZN50JZF62CV7",
+      "claim_ids": [
+        "clm_01M4VHGTGYDNRP9562V2JBB0VM"
+      ],
+      "source_id": "src_01M4VHGTFT8KAZAS7J885744PE",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The Xanthos trilingual cult foundation charter (1973).",
+      "locator": "on 6:12 (Yamauchi)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "yamauchi-via-guzik"
     }
   ],
   "artifacts": [],
   "sites": [],
   "documents": [],
   "research_gaps": [
-    "The Ecbatana archive and the Aramaic letters in Ezra 4–6 not researched from modern studies."
+    "The Ecbatana archive and the Aramaic letters in Ezra 4–6 not researched from modern studies.",
+    "Bickerman and de Vaux on the authenticity of the Cyrus edicts not read directly.",
+    "Xanthos trilingual not read."
   ]
 }

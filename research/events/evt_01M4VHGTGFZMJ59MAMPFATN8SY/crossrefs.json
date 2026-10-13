@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_01M4VHGTGFZMJ59MAMPFATN8SY",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "king of Assyria (applied to a Persian king)",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.4.2",
+        "Ezra.6.22"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VHGTGQ2BEXXPZ8P7H17GP3",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VHGTGFZMJ59MAMPFATN8SY"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Passover followed the completion and dedication.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VHGTGS6XKW7XB82XYDSJQD",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VHGTGFZMJ59MAMPFATN8SY"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VCA0914BNT9YNEPPCB2BMB"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Like Josiah's Passover, the Levites slaughter for all (2 Chr 35:11).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VHGTGHFA2N582Y4809T44M"
+  ]
+}

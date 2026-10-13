@@ -1,6 +1,6 @@
 {
   "event_id": "evt_01M4V10B5RPQCMG56ABNE83R1V",
-  "revision": 1,
+  "revision": 2,
   "validated_at": "2026-10-13",
   "checks": [
     {
@@ -40,10 +40,14 @@
     }
   ],
   "publication_level": "researched",
-  "open_reviews": [],
+  "open_reviews": [
+    "rev_01M4VHGTH6HBBQYWMXABQ8BTDY"
+  ],
   "research_gaps": [
     "1 Esdras 7 and Josephus Ant. 11.4.7 not read."
   ],
-  "disputes": [],
+  "disputes": [
+    "The Temple was finished on the third day of Adar (Ezra 6:15), not the twenty-third (1 Esd 7:5; Josephus), in Darius's sixth year (not his ninth, as in Josephus)."
+  ],
   "export_eligible": true
 }

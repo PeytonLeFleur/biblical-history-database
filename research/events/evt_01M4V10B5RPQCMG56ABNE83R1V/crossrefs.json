@@ -1657,6 +1657,78 @@
       "proposed_by": null,
       "target_research_state": "unresearched",
       "review_required": false
+    },
+    {
+      "id": "rel_01M4VHGTH7YTS14NDX6J9JT8JF",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0TMKSFX4J334K6NEA"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Completion of the work whose foundation Ezra 3 narrates.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VHGTH7J0G8JHBSYXKSFM67",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VHGTGFZMJ59MAMPFATN8SY"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The Passover of the following first month.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VHGTH7RCR4KB4N294MTS3C",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RPQCMG56ABNE83R1V"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "1Kgs.8.62-1Kgs.8.64"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Solomon's dedication sacrifices, vastly larger.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
     }
   ],
   "entity_resolutions": [],

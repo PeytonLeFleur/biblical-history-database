@@ -1,6 +1,6 @@
 # Darius I confirms Cyrus's decree and orders the Temple completed (Ezra 6:1–12)
 
-> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 2 · last reviewed: not reviewed
 > Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
 
 ## Biblical references
@@ -9,7 +9,7 @@
 
 ## Biblical account
 
-Darius orders the archives searched; a scroll found at Achmetha in Media records Cyrus's first-year decree for the Temple; Darius orders the governor not to hinder the work and to pay its costs from royal revenue.
+Darius had the archives searched; at Achmetha in Media a scroll recorded Cyrus's first-year decree for the house (sixty cubits high and wide, three courses of great stones and one of timber, costs from the king's house, the vessels restored). Darius ordered Tattenai and his colleagues to keep away, to fund the work from the tribute of Beyond the River, to supply daily sacrifices so the priests might pray for the king and his sons, and threatened impalement on a beam for anyone altering the decree.
 
 ## Historical setting
 
@@ -876,10 +876,14 @@ Darius I became king in 522 after killing Bardiya (Behistun) and was recognised 
 
 - Jerusalem (Object of the decree; confidence: certain)
   - Pleiades representative point: certain [2]
+- Ecbatana (Achmetha) (Archive where the memorandum was found; confidence: certain)
+  - Hamadan (Pleiades 903021): certain [3]
 
 ## Competing reconstructions
 
-- **c. 520–517 BC** (D. Guzik (517)): Between the resumption of work in Darius's second year and the completion in his sixth. [3]
+- **c. 520–517 BC** (D. Guzik (517)): Between the resumption of work in Darius's second year and the completion in his sixth. [4]
+- **Authentic memorandum from the Ecbatana archive** (C. F. Keil (1873), H. E. Ryle (1893), R. de Vaux (via Guzik)): Its location fits Cyrus's movements in 538; its specifications differ in purpose from the proclamation of Ezra 1. [5, 6, 7]
+- **At least one of the two versions is not original** (L. W. Batten (1913)): The Hebrew and Aramaic versions cannot both be originals. [8]
 
 ## Claims and evidence
 
@@ -893,18 +897,68 @@ Babylonian contracts dated by Darius from early 521 to late 486, with a gap duri
 
 *Limitations:* The decree itself is attested only in Ezra.
 
+### Achmetha (Ezra 6:2) is Ecbatana (modern Hamadan), a Persian royal residence.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+Pleiades associates Achmeta, Hagmatana and Ecbatana with Hamadan; Ryle explains the Aramaic form and the summer residence; Josephus names Ecbatana in Media independently of the Hebrew form.
+
+- *Supporting (direct):* Ecbatana, Hagmatana, Achmeta, Hamadan (certain). (names) [3]
+- *Supporting (indirect):* Achmetha is the Aramaic transliteration of Ecbatana, the Persian summer residence. (on 6:2) [6]
+- *Supporting (direct):* The book was found at Ecbatana, in Media. (Ant. 11.4.6) [9]
+
+### The Aramaic memorandum of Cyrus's decree (Ezra 6:3–5) is an authentic Persian archival record.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Keil and Ryle accept it; Ryle suggests the records had been moved from Babylon to Ecbatana. De Vaux (via Guzik) argues that a forger in Palestine would not have known that Cyrus left Babylon for Ecbatana in spring 538. Batten notes that the Hebrew (1:2–4) and Aramaic (6:3–5) versions differ materially — "one or both must be wrong" — and that Tattenai's report and the decree agree too closely to be independent. No copy outside Ezra survives.
+
+- *Supporting (indirect):* Records perhaps transferred from Babylon to Ecbatana; the enquiry at Babylon led to Ecbatana. (on 6:2) [6]
+- *Supporting (indirect):* A forger would not have placed the scroll at Ecbatana. (on 6:1–2 (de Vaux via Yamauchi)) [7]
+- *Challenging (indirect):* The two versions differ materially; one or both must be wrong; the report and decree are dependent. (pp. 59–60, 143) [8]
+- *Context (direct):* Cyrus returned the images of the gods and their peoples to abandoned sanctuaries — a general policy of restoring cults. (lines 32–33) [10]
+
+*Limitations:* de Vaux (1937) not read directly; known through Guzik.
+
+### Persian kings supported local cults with grants and expected prayers for the king.
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+The Cyrus Cylinder records Cyrus restoring gods to their shrines and asking them to pray for him; Guzik (after Yamauchi) cites a Greek–Lycian–Aramaic cult charter from Xanthos (found 1973) under Persian rule. The Xanthos text was not read in this session.
+
+- *Supporting (direct):* Gods returned to their sanctuaries; "May all the gods whom I settled in their sacred centers ask daily of Bêl and Nâbu that my days be long". (lines 32–35) [10]
+- *Supporting (indirect):* The Xanthos trilingual cult foundation charter (1973). (on 6:12 (Yamauchi)) [7]
+
+*Limitations:* Xanthos trilingual not read.
+
 ## Related passages and events
 
 - this event → **followed by** → The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15) (high): The Temple was finished under the decree (Ezra 6:14–15).
 - this event → **thematic parallel** → Haggai 1:1 (high): Haggai's call to rebuild in Darius's second year.
+- this event → **preceded by** → Tattenai governor of Beyond the River inquires and writes to Darius (Ezra 5:3–17) (high): Darius searched the archives in response to Tattenai's letter.
+- this event → **direct reference** → Cyrus's proclamation permitting the return and the rebuilding of the Temple (Ezra 1; 6:3–5) (high): The memorandum records Cyrus's first-year decree (cf. Ezra 1:2–4).
+- this event → **thematic parallel** → Cyrus Cylinder (text) (medium): Royal support for restoring local cults and requests for prayers for the king. [10]
 
 ## Unanswered questions and research gaps
 
 - The Ecbatana archive and the Aramaic letters in Ezra 4–6 not researched from modern studies.
+- Bickerman and de Vaux on the authenticity of the Cyrus edicts not read directly.
+- Xanthos trilingual not read.
 - Ecbatana (Achmetha) not yet entered as a place record.
+
+## Disputes
+
+- The Aramaic memorandum of Cyrus's decree (Ezra 6:3–5) is an authentic Persian archival record.
 
 ## Sources
 
 1. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
 2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
-3. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*
+3. Pleiades contributors. Ecbatana / Hagmatana / Achmeta (Hamadan) — Pleiades place 903021. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/903021> — *institutional database; verification: claim checked*
+4. Guzik, David. Daniel 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-9/> — *theological commentary; verification: claim checked*
+5. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+6. Ryle, Herbert Edward. The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1893. <https://archive.org/details/booksofezranehem1893ryle> — *scholarly commentary; verification: claim checked*
+7. Guzik, David. Ezra 6 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-6/> — *theological commentary; verification: claim checked*
+8. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+9. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.4.6–7 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+10. Cogan, Mordechai (trans., COS 2003), Schaudig, Hanspeter (edition), van der Spek, R. J.. Cyrus Cylinder — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/> — *ancient primary text; verification: claim checked*

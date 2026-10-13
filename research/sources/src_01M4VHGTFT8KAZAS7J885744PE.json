@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VHGTFT8KAZAS7J885744PE",
+  "title": "Ezra 6 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/ezra-6/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read the commentary on Ezra 6",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Achmetha = Ecbatana; Diodorus 2.32.4 on Persian royal parchments (Yamauchi); de Vaux: Persian kings wintered in Babylon and summered at Susa or Ecbatana, and Cyrus left Babylon in spring 538 — a forger would not have known to place the scroll there; 60-cubit dimensions read as limits (Guzik); Kenyon's straight joint as possible remains of Zerubbabel's building (via Yamauchi); Herodotus 3.159 and Behistun on Darius's impalements (Yamauchi); the 1973 Xanthos trilingual cult charter as a parallel for Persian support of local cults (Yamauchi); four years from resumption to completion; Artaxerxes in 6:14 added \"to complete the picture\" (Kidner)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}
