@@ -20,22 +20,13 @@
     },
     {
       "name": "stages_complete",
-      "passed": false,
-      "details": [
-        "scripture_extraction: not_started",
-        "historical_reconstruction: in_progress",
-        "external_evidence: not_started",
-        "cross_referencing: not_started"
-      ]
+      "passed": true,
+      "details": []
     },
     {
       "name": "stage_files_complete",
-      "passed": false,
-      "details": [
-        "context.json not complete",
-        "evidence.json not complete",
-        "crossrefs.json not complete"
-      ]
+      "passed": true,
+      "details": []
     },
     {
       "name": "important_claims_source_checked",
@@ -44,14 +35,18 @@
     },
     {
       "name": "competing_positions_represented",
-      "passed": false,
-      "details": [
-        "no competing reconstructions recorded (or not_applicable reason)"
-      ]
+      "passed": true,
+      "details": []
     }
   ],
-  "publication_level": "preliminary",
-  "open_reviews": [],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4V10B78XPDN44BGF9QT8EQA",
+    "rev_01M4V10B79ACE1VSMET4MYC97V",
+    "rev_01M4V10B7APP7CEJPJGK8XE33P",
+    "rev_01M4V85GGRXK76MM44YGDS9AX5",
+    "rev_01M4V85GWE27KME9FFV1AH2XPG"
+  ],
   "research_gaps": [],
   "disputes": [],
   "export_eligible": true

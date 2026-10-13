@@ -1382,6 +1382,739 @@
   "slug": "2-chronicles"
  },
  {
+  "book": "Ezra",
+  "chapter": 1,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Ezra.1.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY6R255V0DCG899V6N"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY6R255V0DCG899V6N"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Ezra.1.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA"
+    ],
+    "notes": null
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4V85GFY8Y1KABZ8KA0YZY3B",
+    "title": "Cyrus's first-year proclamation for the house of God in Jerusalem",
+    "passage": "Ezra.1.1-Ezra.1.4",
+    "description": "The LORD stirred Cyrus to proclaim in writing that God had charged him to build a house at Jerusalem; any of His people may go up, helped by their neighbours.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "political",
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Cyrus king of Persia",
+      "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Jeremiah",
+      "matched_entity_id": "per_01M4V10B5GEQP115CCSGSG9JXY",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Ezra.1.1",
+      "phrase": "in the first year of Cyrus king of Persia",
+      "kind": "regnal"
+     }
+    ],
+    "related_passages": [
+     "2Chr.36.22-2Chr.36.23",
+     "Ezra.6.3-Ezra.6.5",
+     "Isa.44.28"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V10B5RBQJP52A16XSXQW14"
+   },
+   {
+    "id": "cnd_01M4V85GFY6R255V0DCG899V6N",
+    "title": "Heads of families prepare to go up; neighbours give gifts",
+    "passage": "Ezra.1.5-Ezra.1.6",
+    "description": "Leaders of Judah and Benjamin, priests and Levites rose to build; their neighbours supported them with silver, gold, goods and animals.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "migration",
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+   },
+   {
+    "id": "cnd_01M4V85GFYXP3NQBHHWNMJ4MNA",
+    "title": "Cyrus returns the Temple vessels through Mithredath to Sheshbazzar",
+    "passage": "Ezra.1.7-Ezra.1.11",
+    "description": "Cyrus brought out the vessels Nebuchadnezzar had put in his gods' house; Mithredath the treasurer counted them to Sheshbazzar, prince of Judah; an itemised list and a total of 5,400 vessels, brought up with the exiles.",
+    "record_type": "event",
+    "literary_classification": "historical_narrative",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious",
+     "political",
+     "migration"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Cyrus",
+      "matched_entity_id": "per_01M4RSRHM7B6RCC44X9Z519KP5",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Mithredath the treasurer",
+      "matched_entity_id": "per_01M4V85GFYXKSRJ8NN5E5FTNA2",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Sheshbazzar the prince of Judah",
+      "matched_entity_id": "per_01M4V85GFRVBMSHYGJ4XGM2TR0",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Nebuchadnezzar",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [
+     {
+      "name_as_written": "Babylon",
+      "matched_entity_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Jerusalem",
+      "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "proposed_new_entity": false
+     }
+    ],
+    "temporal_statements": [],
+    "related_passages": [
+     "Dan.1.2",
+     "Dan.5.2-Dan.5.3",
+     "2Kgs.24.13",
+     "2Kgs.25.13-2Kgs.25.17",
+     "Ezra.5.14-Ezra.5.16"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "The items (2,499) do not add up to the stated total (5,400).",
+     "Sheshbazzar and Zerubbabel: one person or two.",
+     "2 Kgs 24:13 says the gold vessels were cut in pieces."
+    ],
+    "job_id": null,
+    "event_id": "evt_01M4V85GFYJT5NCR7K25T4VA6D"
+   }
+  ],
+  "session_log": "research/logs/2026-10-13-jeremiah-25-ezra-1.md",
+  "slug": "ezra"
+ },
+ {
+  "book": "Jer",
+  "chapter": 25,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+   {
+    "ref": "Jer.25.1",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY9WN5JTXDSRC7FV0X"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.2",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY9WN5JTXDSRC7FV0X"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.3",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY9WN5JTXDSRC7FV0X"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.4",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.5",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.6",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.7",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.8",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYEFR3Q52YDGZFP41F"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.9",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYEFR3Q52YDGZFP41F"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.10",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYEFR3Q52YDGZFP41F"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.11",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYEFR3Q52YDGZFP41F"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.12",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY4B10YH3PEWFVSD47"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.13",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY4B10YH3PEWFVSD47"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.14",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY4B10YH3PEWFVSD47"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.15",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.16",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.17",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.18",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.19",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.20",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.21",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.22",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.23",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.24",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.25",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.26",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.27",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.28",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.29",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFYKFB8HTNG99RSFGFN"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.30",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.31",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.32",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.33",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.34",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.35",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.36",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.37",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   },
+   {
+    "ref": "Jer.25.38",
+    "status": "reviewed_with_candidate",
+    "candidate_ids": [
+     "cnd_01M4V85GFY066SPX2ZAVTZ24XD"
+    ],
+    "notes": null
+   }
+  ],
+  "candidates": [
+   {
+    "id": "cnd_01M4V85GFY9WN5JTXDSRC7FV0X",
+    "title": "The word in Jehoiakim's fourth year, Nebuchadnezzar's first; twenty-three years of warning",
+    "passage": "Jer.25.1-Jer.25.3",
+    "description": "Superscription dating the word, and Jeremiah's statement that he has spoken for twenty-three years since Josiah's thirteenth year.",
+    "record_type": "event",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "narrated_occurrence",
+    "event_categories": [
+     "religious"
+    ],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Jeremiah",
+      "matched_entity_id": "per_01M4V10B5GEQP115CCSGSG9JXY",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Jehoiakim",
+      "matched_entity_id": "per_01M4RSRHM2BM7DCR73NXG0S995",
+      "proposed_new_entity": false
+     },
+     {
+      "name_as_written": "Nebuchadnezzar king of Babylon",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Jer.25.1",
+      "phrase": "in the fourth year of Jehoiakim … the first year of Nebuchadnezzar",
+      "kind": "regnal"
+     },
+     {
+      "ref": "Jer.25.3",
+      "phrase": "From the thirteenth year of Josiah … these twenty-three years",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [
+     "Dan.1.1",
+     "Jer.46.2",
+     "Jer.36.1"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+   },
+   {
+    "id": "cnd_01M4V85GFYFJ95X3MJ5MSR3PN4",
+    "title": "The prophets were sent and not heeded",
+    "passage": "Jer.25.4-Jer.25.7",
+    "description": "The LORD sent his servants the prophets persistently; the people did not listen or turn from idols.",
+    "record_type": "teaching",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "reference_to_other_event",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [],
+    "research_priority": "background",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4V85GFYEFR3Q52YDGZFP41F",
+    "title": "Nebuchadnezzar \"my servant\" against the land; seventy years of servitude",
+    "passage": "Jer.25.8-Jer.25.11",
+    "description": "The LORD will bring Nebuchadnezzar and the families of the north against the land; the nations will serve the king of Babylon seventy years.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [
+     {
+      "name_as_written": "Nebuchadnezzar … my servant",
+      "matched_entity_id": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "proposed_new_entity": false
+     }
+    ],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Jer.25.11",
+      "phrase": "these nations will serve the king of Babylon seventy years",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [
+     "Dan.9.2",
+     "2Chr.36.21",
+     "Zech.1.12"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [
+     "\"My servant\" absent from the LXX (Guzik)."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4V85GFY4B10YH3PEWFVSD47",
+    "title": "After seventy years Babylon will be punished",
+    "passage": "Jer.25.12-Jer.25.14",
+    "description": "When seventy years are fulfilled the king of Babylon and the land of the Chaldeans will be punished and made desolate; many nations and great kings will enslave them.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [
+     {
+      "ref": "Jer.25.12",
+      "phrase": "when seventy years are accomplished",
+      "kind": "relative"
+     }
+    ],
+    "related_passages": [
+     "Jer.50.1-Jer.50.46",
+     "Dan.5.30-Dan.5.31"
+    ],
+    "research_priority": "critical",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4V85GFYKFB8HTNG99RSFGFN",
+    "title": "The cup of the wine of wrath for the nations; Sheshach drinks last",
+    "passage": "Jer.25.15-Jer.25.29",
+    "description": "Jeremiah is to make Jerusalem, Judah, Egypt, Philistia, Edom, Moab, Ammon, Tyre, Sidon, Arabia, Elam, the Medes and all the kingdoms drink the cup; the king of Sheshach drinks after them.",
+    "record_type": "prophecy",
+    "literary_classification": "prophetic_oracle",
+    "narrative_mode": "prediction",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Ps.75.8",
+     "Isa.51.17",
+     "Jer.51.41",
+     "Rev.14.10"
+    ],
+    "research_priority": "high",
+    "ambiguities": [
+     "Sheshach: atbash for Babel (Jerome, per Guzik) — the text names Babylon openly elsewhere (Kidner)."
+    ],
+    "job_id": null,
+    "event_id": null
+   },
+   {
+    "id": "cnd_01M4V85GFY066SPX2ZAVTZ24XD",
+    "title": "The LORD roars from on high against all flesh",
+    "passage": "Jer.25.30-Jer.25.38",
+    "description": "A poetic oracle of universal judgment: the slain from end to end of the earth; the shepherds wail.",
+    "record_type": "prophecy",
+    "literary_classification": "poetry",
+    "narrative_mode": "poetic",
+    "event_categories": [],
+    "parent_candidate_id": null,
+    "participants": [],
+    "locations": [],
+    "temporal_statements": [],
+    "related_passages": [
+     "Joel.3.16",
+     "Amos.1.2",
+     "Rev.19.15"
+    ],
+    "research_priority": "medium",
+    "ambiguities": [],
+    "job_id": null,
+    "event_id": null
+   }
+  ],
+  "session_log": "research/logs/2026-10-13-jeremiah-25-ezra-1.md",
+  "slug": "jeremiah"
+ },
+ {
   "book": "Jer",
   "chapter": 52,
   "status": "complete",

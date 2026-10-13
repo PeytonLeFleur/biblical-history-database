@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4V84SM9ZZSHHA8A1RXT8E7K",
+  "subject_kind": "chapter",
+  "subject_id": "Jer.25",
+  "book": "Jer",
+  "chapter": 25,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-13T18:26:09.297Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-13T18:24:38.026Z",
+  "updated_at": "2026-10-13T18:26:09.297Z",
+  "is_fixture": false
+}

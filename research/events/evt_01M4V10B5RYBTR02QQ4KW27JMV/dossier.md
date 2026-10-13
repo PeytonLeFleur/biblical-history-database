@@ -935,7 +935,7 @@ Driver and Montgomery (after Schürer) cite Demetrius and Josephus as overestima
 ## Related passages and events
 
 - this event → **direct reference** → pro_01M4V10B5R3FQYBVQ98B9H88R7 (high): Daniel reads Jeremiah's word of seventy years (9:2).
-- this event → **direct reference** → The word to Jeremiah dated by Jeremiah 25:1 (high): The seventy-year word was given in Jehoiakim's fourth year (Jer 25:1, 11).
+- this event → **direct reference** → The word to Jeremiah in Jehoiakim's fourth year, Nebuchadnezzar's first (Jer 25:1–14) (high): The seventy-year word was given in Jehoiakim's fourth year (Jer 25:1, 11).
 - this event → **direct reference** → Jeremiah 29:10 (high): The letter promising return "after seventy years are accomplished for Babylon".
 - this event → **thematic parallel** → Nehemiah 9:6–37 (medium): Another post-exilic prayer of national confession in Deuteronomic language.
 - this event → **thematic parallel** → Deuteronomy 28:15–68 (high): "The curse and the oath written in the law of Moses" (9:11).

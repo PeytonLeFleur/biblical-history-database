@@ -1,0 +1,163 @@
+{
+  "event_id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "seventy years",
+      "books_searched": 66,
+      "hits": [
+        "Jer.25.11",
+        "Jer.25.12",
+        "Jer.29.10",
+        "2Chr.36.21",
+        "Zech.1.12",
+        "Zech.7.5",
+        "Dan.9.2",
+        "Isa.23.15",
+        "Isa.23.17"
+      ]
+    },
+    {
+      "name": "Sheshach",
+      "books_searched": 66,
+      "hits": [
+        "Jer.25.26",
+        "Jer.51.41"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4V85GGR4Q9J00AS84FV8A69",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V10B5R3FQYBVQ98B9H88R7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The seventy-year word is spoken in this oracle (25:11–12).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V85GGRA0RKNR0VSKC0EFY5",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4V85GFYMJZH3PKND7H0MRKA"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The cup of wrath follows in the same chapter.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V85GGRK8THWAEKQXM4BB6N",
+      "type": "same_period",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKSS4MJKBSH1E8ENC3"
+      },
+      "confidence": "medium",
+      "layer": "reconstruction",
+      "rationale": "Jer 25:1 (Jehoiakim's 4th year) and Dan 1:1 (his 3rd year) refer to 605/604 under different reckonings — the SPEC 12.4 test solved on this dossier.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4RSRHKBVDVE6GRP5T5EM3GW"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V85GGR1912XGBTSTGZ6YM1",
+      "type": "same_period",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMK3M1T8QP83M1FMEQB"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jer 46:2 dates Carchemish to the same fourth year of Jehoiakim.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4V85GGR8K2ZA075B482G1DS",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYBTR02QQ4KW27JMV"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Daniel reads this word in the books (Dan 9:2).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [
+    {
+      "name_as_written": "Nebuchadnezzar king of Babylon, my servant (25:9)",
+      "resolved_to": "per_01M4RSRHM1CC8B9X3B8CH3R00R",
+      "basis": "Name, title and date",
+      "confidence": "high"
+    }
+  ],
+  "new_constraints": []
+}

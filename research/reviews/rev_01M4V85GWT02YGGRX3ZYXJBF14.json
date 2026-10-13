@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4V85GWT02YGGRX3ZYXJBF14",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4V85GGSXZSMJSTVYATGVBXA",
+  "record_revision": 1,
+  "reason": "Possible identity: Sheshbazzar may be Zerubbabel ",
+  "triggers": [
+    "possible_identity"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T18:25:01.850Z",
+  "decisions": [],
+  "is_fixture": false
+}

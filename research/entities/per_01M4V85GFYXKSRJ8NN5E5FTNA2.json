@@ -1,0 +1,23 @@
+{
+  "kind": "person",
+  "id": "per_01M4V85GFYXKSRJ8NN5E5FTNA2",
+  "slug": "mithredath-treasurer-of-cyrus",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4V85GFCFTAF8XMW5XAYY038",
+    "src_01M4V85GFFAGD0T70XA32HF091"
+  ],
+  "notes": null,
+  "canonical_name": "Mithredath (Cyrus's treasurer)",
+  "aliases": [
+    {
+      "alias": "Mithridates",
+      "language": "Greek (Josephus)",
+      "source_id": "src_01M4V85GFFAGD0T70XA32HF091",
+      "passage": null
+    }
+  ],
+  "description": "Cyrus's treasurer who counted out the vessels to Sheshbazzar (Ezra 1:8). Distinct from the Mithredath of Ezra 4:7 under Artaxerxes.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

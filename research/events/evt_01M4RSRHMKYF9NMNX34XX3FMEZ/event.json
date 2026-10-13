@@ -1,57 +1,66 @@
 {
   "id": "evt_01M4RSRHMKYF9NMNX34XX3FMEZ",
   "slug": "jeremiah-word-jer-25-1",
-  "title": "The word to Jeremiah dated by Jeremiah 25:1",
-  "summary": "Jeremiah 25:1 dates a prophetic word to the fourth year of Jehoiakim, equating it with the first year of Nebuchadnezzar.",
+  "title": "The word to Jeremiah in Jehoiakim's fourth year, Nebuchadnezzar's first (Jer 25:1–14)",
+  "summary": "Jeremiah dates a word to all Judah in Jehoiakim's fourth year, \"the first year of Nebuchadnezzar\", after twenty-three years of preaching: Nebuchadnezzar, the LORD's servant, will come against the land; the nations will serve Babylon seventy years; then Babylon itself will be punished.",
   "is_fixture": false,
-  "candidate_ids": [],
+  "candidate_ids": [
+    "cnd_01M4V85GFY9WN5JTXDSRC7FV0X",
+    "cnd_01M4V85GFYEFR3Q52YDGZFP41F",
+    "cnd_01M4V85GFY4B10YH3PEWFVSD47"
+  ],
   "external_reason": null,
   "is_period": false,
-  "literary_classification": "historical_reference",
+  "literary_classification": "prophetic_oracle",
   "narrative_mode": "narrated_occurrence",
   "categories": [
     "religious"
   ],
-  "priority": "medium",
-  "research_status": "publishable",
-  "publication_level": "preliminary",
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
   "parent_event_id": null,
   "mentions": [
     {
-      "passage": "Jer.25.1",
+      "passage": "Jer.25.1-Jer.25.3",
       "mention_type": "superscription",
       "notes": null
+    },
+    {
+      "passage": "Jer.25.8-Jer.25.14",
+      "mention_type": "narration",
+      "notes": "The oracle (prophecy record: Jeremiah's seventy years)."
     }
   ],
   "stages": {
     "scripture_extraction": {
-      "status": "not_started",
-      "updated": null,
+      "status": "complete",
+      "updated": "2026-10-13",
       "reason": null
     },
     "historical_reconstruction": {
-      "status": "in_progress",
-      "updated": "2026-10-12",
+      "status": "complete",
+      "updated": "2026-10-13",
       "reason": null
     },
     "external_evidence": {
-      "status": "not_started",
-      "updated": null,
+      "status": "complete",
+      "updated": "2026-10-13",
       "reason": null
     },
     "cross_referencing": {
-      "status": "not_started",
-      "updated": null,
+      "status": "complete",
+      "updated": "2026-10-13",
       "reason": null
     },
     "publication_validation": {
-      "status": "in_progress",
+      "status": "complete",
       "updated": "2026-10-13",
       "reason": null
     }
   },
   "revision": 1,
   "created_at": "2026-10-12",
-  "updated_at": "2026-10-12",
+  "updated_at": "2026-10-13",
   "last_reviewed_at": null
 }

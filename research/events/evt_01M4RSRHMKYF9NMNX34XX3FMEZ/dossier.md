@@ -1,21 +1,27 @@
-# The word to Jeremiah dated by Jeremiah 25:1
+# The word to Jeremiah in Jehoiakim's fourth year, Nebuchadnezzar's first (Jer 25:1–14)
 
-> **Status:** Preliminary research · research status `publishable` · revision 1 · last reviewed: not reviewed
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
 > Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
 
 ## Biblical references
 
-- Jeremiah 25:1 (superscription)
+- Jeremiah 25:1–3 (superscription)
+- Jeremiah 25:8–14 (narration): The oracle (prophecy record: Jeremiah's seventy years).
 
 ## Biblical account
 
-Jeremiah 25:1 dates the word "in the fourth year of Jehoiakim … (this was the first year of Nebuchadnezzar king of Babylon)".
+In Jehoiakim's fourth year ("the first year of Nebuchadnezzar") Jeremiah reminds Judah that he has spoken for twenty-three years since Josiah's thirteenth year without being heeded; the LORD will bring Nebuchadnezzar "my servant" against the land and the nations, who will serve the king of Babylon seventy years; afterwards Babylon will be punished.
 
 ## Historical setting
 
-**Period:** Early Neo-Babylonian dominance in the Levant (605–604 BC)
+**Period:** 605/604 BC
 
-Recorded here for the chronological comparison with Daniel 1:1; full research belongs to Jeremiah (Milestone 6). [1]
+Nebuchadnezzar defeated Egypt at Carchemish in 605 and acceded on 1 Elul (7 Sep 605); his first regnal year began in Nisan 604 (ABC 5; P&D). Jehoiakim had been installed by Necho in 609/608 (ABC 3 context). Guzik places the word in 605, between Carchemish and Nebuchadnezzar's return to Babylon. [1, 2, 3, 4]
+
+### Rulers
+
+- Jehoiakim: King of Judah (fourth year) [2]
+- Nebuchadnezzar II: King of Babylon (first year) [1]
 
 ## Date and chronology
 
@@ -872,6 +878,52 @@ Recorded here for the chronological comparison with Daniel 1:1; full research be
 - “this was the first year of Nebuchadnezzar king of Babylon” (Jeremiah 25:1) → `in_regnal_year` reign of Nebuchadnezzar II; assumptions: Babylonian years begin in Nisan; Jeremiah may count Nebuchadnezzar's accession year as his "first".
 - “this was the first year of Nebuchadnezzar king of Babylon” (Jeremiah 25:1) → `in_regnal_year` reign of Nebuchadnezzar II; assumptions: Babylonian years begin in Nisan; Jeremiah may count Nebuchadnezzar's accession year as his "first".
 
+## Geography
+
+- Jerusalem (Addressees (Judah and Jerusalem); confidence: certain)
+  - Pleiades representative point: certain [5]
+
+## Competing reconstructions
+
+- **605 BC, between Carchemish and Nebuchadnezzar's accession** (D. Guzik): Jehoiakim's fourth year on a Tishri-based Judean count overlapping Nebuchadnezzar's accession year. [4]
+- **Nisan 604 – Nisan 603** (Babylonian-style count of Nebuchadnezzar's first full year (this dossier's alternatives)): If "first year" means the first full regnal year. [1, 3]
+
+## Claims and evidence
+
+### Jehoiakim's fourth year overlapped Nebuchadnezzar's accession or first year (605/604 BC).
+
+**Classification:** Strongly supported (machine proposed) · layer: reconstruction
+
+Jehoiakim was installed in 609/608 (ABC 3 context) and Nebuchadnezzar acceded in September 605 (ABC 5); under every reckoning combination tested on this dossier, Jehoiakim's fourth year overlaps 605/604. Which combination Jeremiah used is the separate, disputed question recorded on the Dan 1:1 event.
+
+- *Supporting (direct):* Nabopolassar died 8 Ab and Nebuchadnezzar ascended the throne on 1 Elul of the accession year (605). (obv. 9–11) [1]
+- *Supporting (indirect):* Egyptian campaign to Harran in 609 — the context of Jehoiakim's installation. (ll. 66–75) [2]
+- *Context (indirect):* Dates the word to 605 BC. (on 25:1) [4]
+
+### Jeremiah's prophetic word was delivered in that year.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: text
+
+Known only from the book of Jeremiah.
+
+- *Context (indirect):* Jeremiah about midway through his ministry. (on 25:1–3) [4]
+
+## Related passages and events
+
+- this event → **direct reference** → pro_01M4V10B5R3FQYBVQ98B9H88R7 (high): The seventy-year word is spoken in this oracle (25:11–12).
+- this event → **direct reference** → pro_01M4V85GFYMJZH3PKND7H0MRKA (high): The cup of wrath follows in the same chapter.
+- this event → **same period** → Nebuchadnezzar's campaign against Jerusalem in Jehoiakim's third year (Dan 1:1–2) (medium): Jer 25:1 (Jehoiakim's 4th year) and Dan 1:1 (his 3rd year) refer to 605/604 under different reckonings — the SPEC 12.4 test solved on this dossier. [1]
+- this event → **same period** → Battle of Carchemish (605 BC) (high): Jer 46:2 dates Carchemish to the same fourth year of Jehoiakim.
+- this event → **thematic parallel** → Daniel reads Jeremiah's seventy years and prays (Dan 9:1–19) (high): Daniel reads this word in the books (Dan 9:2).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik dates the word to 605, reads Nebuchadnezzar as God's unconscious instrument (Feinberg), and prefers a literal seventy years from 605. [4]
+
 ## Sources
 
 1. Lendering, Jona (ed.). ABC 5 (Jerusalem Chronicle / Chronicle of the early years of Nebuchadnezzar) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/> — *ancient primary text; verification: claim checked*
+2. Lendering, Jona (ed.). ABC 3 (Fall of Nineveh Chronicle) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/> — *ancient primary text; verification: claim checked*
+3. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+4. Guzik, David. Jeremiah 25 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/jeremiah-25/> — *theological commentary; verification: claim checked*
+5. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*

@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4V85GFKS24RHX5NXAJJQREX",
+  "title": "World English Bible — Apocrypha/Deuterocanon (1 Esdras 2)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible contributors"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 1 Esdras 2",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read 1 Esdras 2 in the downloaded USFM (54-1ESeng-web.usfm)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "2:13–14: 1,000 gold cups, 1,000 silver cups, 29 silver censers, 30 gold bowls, 2,410 silver bowls and 1,000 other vessels; total stated 5,479; delivered by Mithradates to Sanabassar",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}
