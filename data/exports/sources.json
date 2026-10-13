@@ -3146,5 +3146,414 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK7T272WF8V2G6P4AYNS",
+  "title": "Daniel 7 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-7/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on Daniel 7",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "No BC date for Belshazzar's first year; lion = Babylon, bear = Medo-Persia (Persia dominant; ribs = Babylon, Egypt, Lydia), leopard = Greece (four heads = Cassander, Lysimachus, Seleucus, Ptolemy), fourth beast = Rome; ten horns future (ten toes of Dan 2); little horn = future Antichrist from a restored Roman empire (rejects Calvin's Julius Caesar; notes the Adventist papacy view); Ancient of Days = God the Father; son of man = Jesus; time, times, half = 3½ years (Rev 11–13); kingdom received at Jesus' return, on the millennial earth",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 7",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Jerome",
+   "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem 7",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the chapter 7 commentary",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Four beasts = Babylonians, Persians (Medes and Persians), Macedonians, Romans; ten horns = ten kings partitioning the Roman world at the end; little horn = Antichrist, a man indwelt by Satan; Porphyry made the leopard Alexander, the fourth beast his successors, ten cruel kings up to Antiochus Epiphanes, and the little horn Antiochus; son of man = the Son of God; time = year, times = two years; \"Away, then, with the fable about a millennium\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read in full for ch. 7 (Archer pp. 72–83 / Migne cols. 663–672).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+  "title": "The Book of Daniel (Cambridge Bible for Schools and Colleges)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Driver, S. R."
+  ],
+  "publisher": "Cambridge University Press",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/bookdaniel00drivgoog",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Published 1900; public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the OCR text, pp. 84–107",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "pp. 94–98: table of the \"Roman\" (A) and \"Grecian\" (B) theories; A first in 2 Esdras 12:11, then Barnabas, Hippolytus, the Fathers, Auberlen, Hengstenberg, Keil, Pusey; papal (Rule 1869) and futurist variants; Driver's objection that no ten kingdoms arise from Rome; pp. 98–102: B first in Ephrem Syrus, then Ewald, Bleek, Delitzsch, Kuenen, Bevan; little horn of ch. 7 = that of ch. 8 (Antiochus); time, times, half = 3½ years as in 12:7; candidate Seleucid lists for the ten horns; pp. 102–107: \"one like a son of man\" = ideal Israel (vv. 18, 22, 27), messianic reading early (Similitudes of Enoch)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (Google scan).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK81W6HP2HFZ7744DHRG",
+  "title": "A Critical and Exegetical Commentary on the Book of Daniel (ICC)",
+  "source_type": "scholarly_commentary",
+  "authors": [
+   "Montgomery, James A."
+  ],
+  "publisher": "T. & T. Clark",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/criticalexegetic22montuoft",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Published 1927; public domain in the US; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the OCR text, pp. 307–308, 317–318",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Three classes of son-of-man interpretation: (1) personal, messianic — \"the eldest\" and formerly prevailing in Jewish and Christian exegesis; (2) symbolic of the people of the saints — \"itself an ancient view\"; (3) mythological — recent; messianic and non-messianic views found \"almost indifferently with conservatives and radicals\"; Montgomery holds that the saints are the group typified by the human figure",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (University of Toronto copy).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK83SFG091RT082Z4EXG",
+  "title": "Observations upon the Prophecies of Daniel, and the Apocalypse of St. John",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Newton, Isaac"
+  ],
+  "publisher": "Project Gutenberg #16878 (first published 1733)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/16878",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read Part I chs. 6–8",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Ten horns = ten kingdoms into which the Western Roman Empire broke; the little horn is a kingdom, \"a Seer, a Prophet and a King … the Church of Rome\", rising to temporal dominion in the later 8th century; time, times and half a time = 1260 solar years (day-year); rejects Antiochus for the little horn of ch. 8",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Gutenberg text (pglaf mirror), Part I chs. 4–8.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK85J9C96ZG0BW8WYSNK",
+  "title": "The Book of Enoch (trans. R. H. Charles, SPCK 1917)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Charles, R. H. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #77935",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/77935",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "1 Enoch 46",
+  "license": "Public domain (1917)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the Gutenberg text and read ch. 46",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "46:1–4: one \"who had a head of days\", white-haired, with \"another being whose countenance had the appearance of a man\"; the angel calls him \"the Son of Man who hath righteousness\", who will raise up kings from their seats",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Charles dates the Parables (chs. 37–71) c. 105–64 BC; other scholars date them later (Driver, p. 105 n.).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+  "title": "World English Bible — Apocrypha/Deuterocanon (1 Maccabees; 2 Esdras)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "World English Bible"
+  ],
+  "publisher": "eBible.org (eng-web USFM)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/find/details.php?id=eng-web",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 1 Macc 1, 4, 6; 2 Esd 12–13",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the eng-web USFM and read 1 Macc 1:10, 54; 4:52–54; 6:16; 2 Esd 12:11–12; 13:1–3",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "1 Macc 1:10: Antiochus Epiphanes reigned from year 137 of the Greeks; 1:54: on 15 Chislev 145 \"they built an abomination of desolation upon the altar\"; 4:52–54: rededication 25 Chislev 148; 6:16: died in 149; 2 Esd 12:11: the eagle \"is the fourth kingdom which appeared in a vision to your brother Daniel\"; 13:3: a man \"flew with the clouds of heaven\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "WEB footnotes giving \"circa B.C.\" dates are editorial and were not used as chronological evidence.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK89EZQWG9W99N1209AG",
+  "title": "Babylonian Talmud, Sanhedrin 38b and 98a (William Davidson Edition) — Sefaria",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Babylonian Talmud",
+   "Steinsaltz, Adin (William Davidson English Edition)"
+  ],
+  "publisher": "Sefaria",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.sefaria.org/Sanhedrin.98a",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "b. Sanhedrin 38b; 98a",
+  "license": "CC BY-NC; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched both pages through the Sefaria API",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "98a: R. Alexandri for R. Joshua b. Levi reconciles Dan 7:13 (clouds of heaven) and Zech 9:9 (on a donkey) — the Messiah comes with the clouds if Israel merits it; 38b: R. Akiva, \"one throne is for Him and one throne is for David\", disputed by R. Yose (thrones for judgment and righteousness)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK8ARVERBJZ7ZE3YZBYB",
+  "title": "Polybius, Histories 26.1–1a (Loeb 1926) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Polybius"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/26*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Polybius 26.1",
+  "license": "Loeb (1926) translation; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "26.1: Antiochus \"surnamed Epiphanes gained the name of Epimanes by his conduct\"; 26.1a: Polybius calls him Epimanes (the Madman) instead of Epiphanes",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Fragments preserved by Athenaeus; the page names no translator.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+  "title": "Babylonian King List of the Hellenistic Period (BM 35603) — Livius.org (trans. R. J. van der Spek)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "van der Spek, R. J. (trans.)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/babylonian-king-list-of-the-hellenistic-period/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "BM 35603 (Hellenistic King List)",
+  "license": "Paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Rev. 9–10: year 137, Ulûlu: Seleucus IV died and Antiochus (IV) ascended the throne the same month, reigning eleven years; rev. 11–13: co-regency with a son, killed in year 142; rev. 14: year 148, Kislîmu: \"it was heard that\" Antiochus (IV) the king died",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "The page warns that the translation needs revision and some restorations are uncertain; \"son\" in rev. 10 is not literal (Antiochus IV was Seleucus IV's brother).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TSKK8EQDTEV06BW4TSYTTJ",
+  "title": "Daniel 7 — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_7",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Four kingdoms Babylon–Media–Persia–Greece and little horn = Antiochus IV (Levine 2010); collective son of man \"the usual suggestion\" (uncited); angelic leader of God's host (Michael) \"the main alternative view\" (Collins 1998, pp. 101–103); visionary chapters 167–164 BC, ch. 7 somewhat earlier, \"most scholars accept\" its unity (Collins 1984); Baal–Yamm background accepted by \"many scholars\" (unnamed)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Used for source discovery only; not relied on for disputed claims.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

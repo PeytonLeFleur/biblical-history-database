@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 7",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Jerome",
+    "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem 7",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded and read the chapter 7 commentary",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Four beasts = Babylonians, Persians (Medes and Persians), Macedonians, Romans; ten horns = ten kings partitioning the Roman world at the end; little horn = Antichrist, a man indwelt by Satan; Porphyry made the leopard Alexander, the fourth beast his successors, ten cruel kings up to Antiochus Epiphanes, and the little horn Antiochus; son of man = the Son of God; time = year, times = two years; \"Away, then, with the fable about a millennium\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read in full for ch. 7 (Archer pp. 72–83 / Migne cols. 663–672).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

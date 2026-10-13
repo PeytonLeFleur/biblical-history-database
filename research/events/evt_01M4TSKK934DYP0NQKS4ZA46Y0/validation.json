@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4RTK74VHKZVJPZGG1SEFHTJ",
+    "rev_01M4RTK74W2D29F8R0TC01YR58",
+    "rev_01M4RTK74WP26PHPGKEB1AAJNX",
+    "rev_01M4RTK74WW8VRNCBT12WR9W7D",
+    "rev_01M4TSKK9R5YAN0C5QQQ7TZNVB",
+    "rev_01M4TSKK9WGB6H65XRF843RBTJ",
+    "rev_01M4TSKK9WR3XA5QWKE0CKCD4F",
+    "rev_01M4TSKK9XQFDR61FXXPDM82VQ",
+    "rev_01M4TSKK9XZ8EV19XDKWR4R8NH",
+    "rev_01M4TSKK9YEP303D6EBNQPDY07",
+    "rev_01M4TSKK9YERJZVBCE083R7NT8",
+    "rev_01M4TSKK9YRKP99KFAD5BTJ7B7",
+    "rev_01M4TSKKA29NYFSX5HMMETE466",
+    "rev_01M4TSKKA2HYZK2T9D921KS5WA",
+    "rev_01M4TSKKA2Q2K7G83HAH5C9GJP",
+    "rev_01M4TSKKA509C4CWPB83N5CD79",
+    "rev_01M4TSKKA68WNQ3VACWF6C4SC1",
+    "rev_01M4TSKKA6W3NK7DZ39ZJEQXXX",
+    "rev_01M4TSKKA9K2SD9K3KT8AAWSRD",
+    "rev_01M4TSKKABN06AT65807S64B9R"
+  ],
+  "research_gaps": [
+    "Beaulieu (1989) on Nabonidus's departure not read.",
+    "Collins (1993 Hermeneia; 1998) not read directly — angelic and composition views secondary.",
+    "Old Greek and Qumran texts of Daniel 7 not consulted.",
+    "Calvin's Daniel commentary not read directly.",
+    "Diodorus 34/35.1 not accessible.",
+    "Canaanite (Baal–Yamm/El) background claims seen only uncited in Wikipedia; not recorded."
+  ],
+  "disputes": [
+    "Daniel saw this vision and wrote it down in Belshazzar's first year."
+  ],
+  "export_eligible": true
+}

@@ -1,0 +1,166 @@
+{
+  "event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Daniel dreams in Belshazzar's first year and writes it down. Four beasts rise from the sea; the fourth has ten horns and a boastful little horn. Thrones are set and the Ancient of Days judges; the beast is destroyed; one like a son of man comes with the clouds and receives an everlasting kingdom. An attendant explains: the beasts are four kings; the fourth is a kingdom whose ten horns are kings, after whom another will persecute the saints for a time, times and half a time; then judgment gives the kingdom to the saints of the Most High.",
+    "passage": "Dan.7.1-Dan.7.28"
+  },
+  "setting": {
+    "period": "Narrative setting: the regency of Belshazzar (from c. Nabonidus year 3, 553 BC); composition date disputed",
+    "body": "Belshazzar governed Babylonia while Nabonidus was in Arabia: the Verse Account says Nabonidus \"entrusted the kingship\" to his firstborn \"when the third year was about to begin\", and the Chronicle has the king in Tayma and \"the prince\" in Akkad in years 7, 9, 10 and 11. No Babylonian document counts years of Belshazzar, so Daniel's \"first year\" cannot be converted to a calendar date without assuming a counting basis; this is modelled separately. Critical scholars date the composition of the chapter to the Antiochene crisis (c. 167–164 BC), traditional scholars to the 6th century BC.",
+    "citations": [
+      "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+      "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TPW4BDSZVBANTPS1PJQFZ6",
+      "reign_id": "rgn_01M4TSKK93V4X5HBK7S4SZ352W",
+      "role": "Regent (\"king\" in Daniel)",
+      "citations": [
+        "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+        "src_01M4TPW4B5HK2YRXXSPZDQA5X3"
+      ]
+    },
+    {
+      "person_id": "per_01M4RV9NR4E3F6M8CK96RBYNYK",
+      "reign_id": "rgn_01M4TPW4BVQQDWM7W4YJD12TVA",
+      "role": "King of Babylon (in Tayma)",
+      "citations": [
+        "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHKZ21TXVX2AJDCKBZ6X"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4TSKK9KZ7Z62QD5JNKT4XSM",
+      "subject": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+      "object": "evt_01M4TPW4BX21MX03GRSQ7P1VK0",
+      "relation": "before",
+      "textual_assertion": "In the first year of Belshazzar king of Babylon",
+      "passage": "Dan.7.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Belshazzar's \"first year\" precedes his death (Dan 5:30). No other model-independent date is assigned."
+      ],
+      "citations": [],
+      "verification": "operator_inference"
+    },
+    {
+      "id": "cst_01M4TSKK9KSP23XMZSEYQC1CCQ",
+      "subject": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+      "object": "rgn_01M4TSKK93V4X5HBK7S4SZ352W",
+      "relation": "years_later",
+      "textual_assertion": "In the first year of Belshazzar king of Babylon",
+      "passage": "Dan.7.1",
+      "offset": {
+        "min": 0,
+        "max": 1
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "regnal_year",
+      "model_id": "chr_01M4TSKK913DZG51R7F571CXXT",
+      "alternative_group": null,
+      "assumptions": [
+        "Only in the regency model: \"first year\" is counted from the entrusting of the kingship.",
+        "Offset 0–1 years (window up to two years from the start) covers both counting the first twelve months and an accession-year count; the convention Daniel used is unknown."
+      ],
+      "citations": [
+        "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+        "src_01M4TPW4B5HK2YRXXSPZDQA5X3"
+      ],
+      "verification": "operator_inference"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Undated (model-independent)",
+      "proponents": [
+        "This project's default"
+      ],
+      "summary": "Without a Babylonian count of Belshazzar's years the vision is placed only before Belshazzar's death (Oct 539).",
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ]
+    },
+    {
+      "label": "Counted from the entrusting of the kingship (c. 553 BC)",
+      "proponents": [
+        "R. P. Dougherty (1929) on the regency's start; counting basis assumed here"
+      ],
+      "summary": "If Daniel counts from Nabonidus's delegation of kingship, the first year falls c. 553–551 BC. Shown only in the \"Belshazzar's years\" model.",
+      "citations": [
+        "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+        "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+        "src_01M4RV9NQGJ11KZF6YBXJPYBAP"
+      ]
+    },
+    {
+      "label": "Composition in the Maccabean crisis",
+      "proponents": [
+        "S. R. Driver (1900)",
+        "J. J. Collins (1984), via Wikipedia"
+      ],
+      "summary": "The vision was written c. 167–164 BC, before the Temple's rededication; the date formula is literary.",
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TSKK8EQDTEV06BW4TSYTTJ"
+      ]
+    },
+    {
+      "label": "Composition in the 6th century BC",
+      "proponents": [
+        "Jerome",
+        "R. D. Wilson (1917)",
+        "D. Guzik"
+      ],
+      "summary": "The vision was seen and written by Daniel in Belshazzar's reign, as stated.",
+      "citations": [
+        "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+        "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+        "src_01M4TSKK7T272WF8V2G6P4AYNS"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4TSKK7T272WF8V2G6P4AYNS",
+      "layer": "interpretation",
+      "paraphrase": "Guzik gives no BC date, placing the vision between chapters 4 and 5. He reads the four beasts as Babylon, Medo-Persia, Greece and Rome, the ten horns and the little horn as still future (a coming Antichrist from a restored Roman order), the Ancient of Days as God the Father, and the son of man as Jesus; the \"time, times and half a time\" is the last three and a half years before Christ's return.",
+      "url": "https://enduringword.com/bible-commentary/daniel-7/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Read Beaulieu, The Reign of Nabonidus (1989), on the date of Nabonidus's departure.",
+    "Old Greek Daniel 7 (notably its reading of 7:13) not read.",
+    "Qumran manuscripts of Daniel 7 not consulted.",
+    "Calvin's commentary (Julius Caesar view) not read directly.",
+    "Diodorus 34/35.1 (Antiochus in the Temple) not accessible on LacusCurtius."
+  ],
+  "not_applicable": {}
+}

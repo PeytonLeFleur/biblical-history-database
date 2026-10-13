@@ -503,6 +503,126 @@ The Babylonian Chronicle records a rebellion in Akkad in Nebuchadnezzar's tenth 
 - **587 BC – 586 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
   - Earliest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention
   - Latest bound from: cst_01M4RV0PD14ZDN56GWPGK7QMXX|cst_01M4RV0PD14ZDN56GWPGK7QMXX#own-convention
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **603 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK7478463KW75PRKASE8W|cst_01M4RTK7478463KW75PRKASE8W#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
+- **604 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4RTK747H8C6HEZVD14QBTYC|cst_01M4RTK747H8C6HEZVD14QBTYC#own-convention → cst_01M4RTK747827KV997EP66Z1HP → “certain Jews whom you have appointed over the affairs of the province of Babylon”
+  - Latest bound from: —
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

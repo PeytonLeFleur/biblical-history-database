@@ -1,0 +1,112 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4TSKK93G9R2ECXYSRRGW1XC",
+  "slug": "heavenly-judgment-kingdom-of-saints-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The heavenly judgment and the kingdom given to the saints (Dan 7:9–12, 18, 21–22, 26–27)",
+  "passage": "Dan.7.9-Dan.7.27",
+  "speaker": "Daniel (vision) and the attendant (interpretation)",
+  "vision_id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "description": "The Ancient of Days holds court, the beast's dominion is taken away, and the kingdom is given to the people of the saints of the Most High forever.",
+  "in_text_interpretation": "The judgment ends the horn's dominion (7:26) and gives the kingdom to the saints (7:22, 27). The Ancient of Days is not further identified.",
+  "interpretations": [
+    {
+      "id": "ful_01M4TSKK9GTYSR76HSBT4BA5AE",
+      "label": "The Ancient of Days is God; a final judgment at the end of the age",
+      "approach": "futurist",
+      "framework": "Traditional Christian (amillennial in Jerome)",
+      "proponents": [
+        "Jerome",
+        "D. Guzik (God the Father; kingdom on the millennial earth at Jesus' return)"
+      ],
+      "summary": "Jerome reads the court as the last judgment and the kingdom as heavenly (\"Away, then, with the fable about a millennium\"); Guzik reads a future earthly kingdom received at Jesus' return. The two traditional readings disagree about the kingdom's nature.",
+      "referents": [
+        {
+          "symbol": "Ancient of Days",
+          "referent": "God"
+        },
+        {
+          "symbol": "Kingdom of the saints",
+          "referent": "Heavenly (Jerome) or millennial earthly (Guzik)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+        "src_01M4TSKK7T272WF8V2G6P4AYNS"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9GC40C44P7D9ZMN7QE",
+      "label": "God's judgment on Antiochus and the expected kingdom of faithful Israel",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "S. R. Driver (1900)"
+      ],
+      "summary": "The author expected God's kingdom to follow immediately on the fall of Antiochus (cf. 12:1–3); the expectation was not realised as described. Not a claim of fulfillment.",
+      "referents": [
+        {
+          "symbol": "Judgment",
+          "referent": "Divine judgment ending Antiochus's persecution"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9GG5SCAQVJNB40CYN7",
+      "label": "The papal dominion taken away by degrees",
+      "approach": "historicist",
+      "framework": "Protestant historicist",
+      "proponents": [
+        "I. Newton (1733)"
+      ],
+      "summary": "After the 1260 years the dominion of the little horn is consumed \"not at once, but by degrees\", and the kingdom passes by degrees to the saints.",
+      "referents": [
+        {
+          "symbol": "Judgment",
+          "referent": "Gradual end of papal temporal power"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK83SFG091RT082Z4EXG"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TSKK9GK6C5EBH9PYME62GA",
+      "label": "Later reuse: \"Head of Days\" in Enoch; the risen Christ with hair like wool (Rev 1:14)",
+      "approach": "mixed",
+      "framework": "Reception history",
+      "proponents": [
+        "1 Enoch 46",
+        "Revelation 1:13–14 (text)"
+      ],
+      "summary": "Enoch renames the Ancient of Days the \"Head of Days\"; Revelation transfers the white wool and snow of the Ancient of Days to the \"one like a son of man\". Recorded as reception, not as a fulfillment.",
+      "referents": [
+        {
+          "symbol": "Ancient of Days",
+          "referent": "Head of Days (Enoch); features applied to Christ (Rev 1:14)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

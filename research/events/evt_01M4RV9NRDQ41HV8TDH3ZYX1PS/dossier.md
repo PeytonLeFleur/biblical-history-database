@@ -505,6 +505,126 @@ Nebuchadnezzar was renowned as a builder at Babylon; most of his roughly fifty k
 - **604 BC – 562 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
   - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
   - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
+- **604 BC – 562 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Nebuchadnezzar II (reign start) → cst_01M4RV9NRHV9PTCSK8H1SSYF6B → “At the end of twelve months”
+  - Latest bound from: reign of Nebuchadnezzar II (reign end) → “I was established in my kingdom”
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

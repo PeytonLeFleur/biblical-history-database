@@ -503,6 +503,126 @@ The idea that a sealed royal edict could not be revoked appears also in Esther (
 - **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
   - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → cst_01M4TQMMMARJYJ2P9RMCHQ90GW → “Then the presidents and the local governors sought to find occasion against Daniel”
+  - Latest bound from: —
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

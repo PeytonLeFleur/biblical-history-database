@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4TSKK8VW5AG2BZM9KZK8W3Y",
+  "slug": "alexander-the-great",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK7XJBPEV1EADHKHN6W9",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "canonical_name": "Alexander the Great",
+  "aliases": [],
+  "description": "Alexander III of Macedon (r. 336–323 BC), conqueror of the Persian empire.",
+  "kingdom_id": "kgd_01M4TSKK8MQZMPN5VWKA44XX5S"
+}

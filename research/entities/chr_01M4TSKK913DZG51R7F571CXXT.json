@@ -1,0 +1,19 @@
+{
+  "kind": "chronology_model",
+  "id": "chr_01M4TSKK913DZG51R7F571CXXT",
+  "slug": "belshazzar-regency-years",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4ASF7ABS0ZRPC5YKVK7",
+    "src_01M4TPW4B5HK2YRXXSPZDQA5X3",
+    "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": null,
+  "name": "Belshazzar's years counted from the entrusting of the kingship",
+  "scope": "reckoning_hypothesis",
+  "textual_tradition": null,
+  "is_absolute_axis": true,
+  "description": "Daniel dates visions to Belshazzar's first and third years (7:1; 8:1), but no Babylonian document counts years of Belshazzar. This model assumes Daniel counts from the moment Nabonidus \"entrusted the kingship\" to him (Verse Account ii), which the Chronicle and Smith (via Dougherty) place around Nabonidus's 3rd year. Outside this model the visions are left undated."
+}

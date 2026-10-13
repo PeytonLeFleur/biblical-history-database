@@ -1,0 +1,67 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4TSKK8ZQ9SVQ7AZ0FG80084",
+  "slug": "antiochus-iv-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+    "src_01M4TPW4B43MDDS6CJYXV48RHN",
+    "src_01M4TSKK87BBJJJP35SD5PZGDP"
+  ],
+  "notes": "Parker & Dubberstein (1942, p. 21) note that Babylonian dates of Antiochus IV and Antiochus V cannot be separated; reign bounds here rest on the King List.",
+  "person_id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A",
+  "model_id": null,
+  "title": "Seleucid king",
+  "start": {
+    "earliest": -174,
+    "latest": -174
+  },
+  "end": {
+    "earliest": -163,
+    "latest": -163
+  },
+  "precision": "month",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": null,
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -174,
+      "month": 8,
+      "day": 1
+    },
+    "to": {
+      "year": -174,
+      "month": 9,
+      "day": 30
+    },
+    "basis": "Accession in Ulûlu of Seleucid year 137 (BM 35603 rev. 9–10); Ulûlu of that year falls in August–September 175 BC (month-level; exact day not taken from the OCR tables).",
+    "citations": [
+      "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -163,
+      "month": 9,
+      "day": 1
+    },
+    "to": {
+      "year": -163,
+      "month": 12,
+      "day": 20
+    },
+    "basis": "His death was reported in Babylon in Kislîmu of Seleucid year 148 (BM 35603 rev. 14); year 148 began 28 Mar 164 (Parker & Dubberstein), so Kislîmu ≈ late Nov – Dec 164. The death itself preceded the report; window opens 1 Sep 164. 1 Macc 6:16 gives year 149 on the Macedonian-reckoned era.",
+    "citations": [
+      "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4TSKK87BBJJJP35SD5PZGDP"
+    ]
+  },
+  "regnal_convention": null
+}

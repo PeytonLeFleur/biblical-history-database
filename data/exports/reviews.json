@@ -245,5 +245,213 @@
   "status": "open",
   "created_at": "2026-10-13T13:36:11.405Z",
   "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKK9R5YAN0C5QQQ7TZNVB",
+  "record_kind": "claim",
+  "record_id": "clm_01M4TSKK9MC3GKWMH3EBC3XY6M",
+  "record_revision": 1,
+  "reason": "Disputed: date and authorship of Daniel 7 (6th century vs Maccabean composition)",
+  "triggers": [
+   "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.424Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKK9WGB6H65XRF843RBTJ",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TSKK9RVN6CX6F6QV2BQWKE",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 7): First beast = Babylon, by parallel with Dan 2:38 (head of gold = Nebuchadnezzar); accepted by every interpreter consulted",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.428Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKK9WR3XA5QWKE0CKCD4F",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TSKK9RNMKQXV29AT2VW401",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 7): Second beast = Media in the Grecian scheme",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.429Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKK9XQFDR61FXXPDM82VQ",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TSKK9RA83JKC2TXPR07JGX",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 7): Second beast (Medo-Persia, Roman scheme) or third beast (Persia, Grecian scheme)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.429Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKK9XZ8EV19XDKWR4R8NH",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TSKK9RXP59FQZNQHPZ0XAK",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 7): Third beast (Roman scheme) or fourth beast with its successors (Grecian scheme; Porphyry)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.429Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKK9YEP303D6EBNQPDY07",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TSKK9R5S7G2M36ZS7EC6V2",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 7): Little horn = Antiochus IV in the Grecian scheme, matching the little horn of ch",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.430Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKK9YERJZVBCE083R7NT8",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TSKK9RV0E2JE2BJGFXYMDR",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 7): Fourth beast = Rome in the traditional scheme (2 Esdras 12:11 onward)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.430Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKK9YRKP99KFAD5BTJ7B7",
+  "record_kind": "relationship",
+  "record_id": "rel_01M4TSKK9RSPCMTABECXBZ8SGK",
+  "record_revision": 1,
+  "reason": "Proposed identification (Dan 7): Ten horns = Seleucid kings (several reconstructions)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.430Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKKA29NYFSX5HMMETE466",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TSKK988KCFVWTQMA30G73P",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 7): Babylon, Medo-Persia, Greece, Rome (\"Roman\" scheme)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.434Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKKA2HYZK2T9D921KS5WA",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TSKK9853DCRJPT7GQAMRG9",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 7): Porphyry: the leopard is Alexander, the fourth beast his successors",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.434Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKKA2Q2K7G83HAH5C9GJP",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TSKK98D6F57A1QFGW237GA",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 7): Babylon, Media, Persia, Greece (\"Grecian\" scheme)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.434Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKKA509C4CWPB83N5CD79",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TSKK9BTKKNCAPJBCVG2WD4",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 7): Antiochus IV Epiphanes and the Seleucid kings",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.437Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKKA68WNQ3VACWF6C4SC1",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TSKK9BMXP5J221BRH4MP1W",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 7): The papacy (historicist)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.438Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKKA6W3NK7DZ39ZJEQXXX",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TSKK9BBXZ4EW8T4K7RF6SJ",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 7): Julius Caesar and the Caesars",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.438Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKKA9K2SD9K3KT8AAWSRD",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TSKK9DH5DF711R73ZFC3QF",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 7): Jesus as the Son of Man (Christian messianic)",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.441Z",
+  "decisions": []
+ },
+ {
+  "id": "rev_01M4TSKKABN06AT65807S64B9R",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4TSKK9GG5SCAQVJNB40CYN7",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (Dan 7): The papal dominion taken away by degrees",
+  "triggers": [
+   "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:10:34.443Z",
+  "decisions": []
  }
 ]

@@ -1,0 +1,30 @@
+{
+  "kind": "person",
+  "id": "per_01M4TSKK8XVDZBQ6226SB3WHWE",
+  "slug": "antiochus-iv-epiphanes",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK8CH4CYZNJBWJA3DDN9",
+    "src_01M4TSKK87BBJJJP35SD5PZGDP",
+    "src_01M4TSKK8ARVERBJZ7ZE3YZBYB"
+  ],
+  "notes": null,
+  "canonical_name": "Antiochus IV Epiphanes",
+  "aliases": [
+    {
+      "alias": "Epiphanes",
+      "language": "Greek",
+      "source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "passage": null
+    },
+    {
+      "alias": "Epimanes (nickname)",
+      "language": "Greek",
+      "source_id": "src_01M4TSKK8ARVERBJZ7ZE3YZBYB",
+      "passage": null
+    }
+  ],
+  "description": "Seleucid king (175–164 BC), son of Antiochus III and brother of Seleucus IV; formerly a hostage at Rome (1 Macc 1:10). Polybius records the nickname Epimanes, \"madman\".",
+  "kingdom_id": "kgd_01M4TSKK8Q8QSZCHHTSAB9T35A"
+}

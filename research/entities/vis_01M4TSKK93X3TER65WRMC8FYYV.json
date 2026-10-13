@@ -1,0 +1,82 @@
+{
+  "kind": "vision",
+  "id": "vis_01M4TSKK93X3TER65WRMC8FYYV",
+  "slug": "four-beasts-vision-dan-7",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The four beasts, the Ancient of Days and one like a son of man (Dan 7)",
+  "passage": "Dan.7.2-Dan.7.27",
+  "recipient_id": "per_01M4RSRHM3ECY28GEKDVQZ6Q20",
+  "experience_event_id": "evt_01M4TSKK934DYP0NQKS4ZA46Y0",
+  "symbols": [
+    {
+      "symbol": "Four winds stirring the great sea",
+      "description": "The winds of heaven break out on the great sea",
+      "passage": "Dan.7.2",
+      "in_text_interpretation": "The beasts \"arise out of the earth\" (7:17); the sea itself is not explained."
+    },
+    {
+      "symbol": "Lion with eagle's wings",
+      "description": "Wings plucked; made to stand like a man and given a human heart",
+      "passage": "Dan.7.4",
+      "in_text_interpretation": "One of four kings/kingdoms (7:17); not named in Dan 7."
+    },
+    {
+      "symbol": "Bear raised on one side with three ribs",
+      "description": "Told to devour much flesh",
+      "passage": "Dan.7.5",
+      "in_text_interpretation": "One of four kings/kingdoms (7:17); not named."
+    },
+    {
+      "symbol": "Leopard with four wings and four heads",
+      "description": "Dominion was given to it",
+      "passage": "Dan.7.6",
+      "in_text_interpretation": "One of four kings/kingdoms (7:17); not named."
+    },
+    {
+      "symbol": "Fourth beast with iron teeth",
+      "description": "Devours, crushes and tramples; different from the others",
+      "passage": "Dan.7.7",
+      "in_text_interpretation": "A fourth kingdom, different from all the others, that will devour the whole earth (7:23); not named."
+    },
+    {
+      "symbol": "Ten horns",
+      "description": "On the fourth beast",
+      "passage": "Dan.7.7",
+      "in_text_interpretation": "Ten kings arising from the fourth kingdom (7:24); not named."
+    },
+    {
+      "symbol": "Little horn",
+      "description": "Rises among the ten, uproots three, has human eyes and an arrogant mouth, makes war on the saints",
+      "passage": "Dan.7.8",
+      "in_text_interpretation": "Another king, different from the former, who puts down three kings, speaks against the Most High, wears out the saints and plans to change times and law, for \"a time and times and half a time\" (7:24–25); not named."
+    },
+    {
+      "symbol": "Thrones and the Ancient of Days",
+      "description": "White clothing, hair like wool, a fiery throne with burning wheels",
+      "passage": "Dan.7.9",
+      "in_text_interpretation": "Not explicitly identified; he judges and gives judgment for the saints (7:22)."
+    },
+    {
+      "symbol": "Fiery stream, myriads, the court and the books",
+      "description": "Judgment is set and books are opened",
+      "passage": "Dan.7.10",
+      "in_text_interpretation": "The judgment that takes away the horn's dominion (7:26)."
+    },
+    {
+      "symbol": "The beast slain and burned; other beasts' lives prolonged",
+      "description": "Dominion removed",
+      "passage": "Dan.7.11-Dan.7.12",
+      "in_text_interpretation": "The fourth kingdom's end (7:26); the others are not explained."
+    },
+    {
+      "symbol": "One like a son of man with the clouds",
+      "description": "Brought to the Ancient of Days and given everlasting dominion",
+      "passage": "Dan.7.13-Dan.7.14",
+      "in_text_interpretation": "Not explicitly identified; the interpretation gives the everlasting kingdom to \"the saints of the Most High\" (7:18, 22, 27)."
+    }
+  ],
+  "description": "Night vision of beasts from the sea, a heavenly court, and a human-like figure receiving an everlasting kingdom, followed by an interpretation from an attendant. Identifications below are only those the text makes; all others are interpretations recorded on the prophecy records."
+}

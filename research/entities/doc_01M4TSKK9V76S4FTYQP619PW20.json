@@ -1,0 +1,22 @@
+{
+  "kind": "document",
+  "id": "doc_01M4TSKK9V76S4FTYQP619PW20",
+  "slug": "1-enoch-parables",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "1 Enoch, Book of Parables (Similitudes), chs. 37–71",
+  "document_type": "Jewish apocalyptic text",
+  "language": "Ge'ez (from Aramaic/Hebrew)",
+  "standard_reference": "1 Enoch 37–71",
+  "artifact_id": null,
+  "date": {
+    "earliest": -104,
+    "latest": 70
+  },
+  "description": "Visions of the Head of Days and the Son of Man; date disputed (Charles: c. 105–64 BC; others later).",
+  "editions": [
+    "src_01M4TSKK85J9C96ZG0BW8WYSNK"
+  ]
+}
