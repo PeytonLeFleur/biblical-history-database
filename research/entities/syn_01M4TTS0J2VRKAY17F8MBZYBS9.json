@@ -1,0 +1,58 @@
+{
+  "kind": "synchronism",
+  "id": "syn_01M4TTS0J2VRKAY17F8MBZYBS9",
+  "slug": "rededication-25-chislev-148-se",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TSKK87BBJJJP35SD5PZGDP",
+    "src_01M4TTS0H2RP38CMPKF6HT28VX",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+    "src_01M4TSKK81W6HP2HFZ7744DHRG",
+    "src_01M4TSKK8CH4CYZNJBWJA3DDN9"
+  ],
+  "notes": null,
+  "title": "Rededication: 25 Chislev 148 SE (1 Macc 4:52) = Dec 165 or Dec 164 BC",
+  "type": "calendar_anchor",
+  "passage": "John.10.22",
+  "biblical_subject": "evt_01M4TTS0HJERGH3WATWMDAZ2W6",
+  "external_entity": "1 Maccabees 4:52; Josephus, Ant. 12.7.6 (148 SE, 154th Olympiad)",
+  "external_document_id": null,
+  "external_source_id": "src_01M4TSKK87BBJJJP35SD5PZGDP",
+  "proposed_synchronization": "The Seleucid date 25 Chislev 148 converts to December 165 BC on the Macedonian (autumn 312) epoch used by Driver and Montgomery, or to December 164 BC on a spring-311 epoch; Josephus's 154th Olympiad (Ol. 154.1 = 164/163 on the standard epoch, operator calculation) favours 164.",
+  "independent_date": {
+    "earliest": -164,
+    "latest": -163
+  },
+  "precision": "month",
+  "dating_method": "Seleucid-era date; epoch of 1 Maccabees' reckoning disputed",
+  "direct": true,
+  "via": null,
+  "assumptions": [
+    "The two Seleucid-era epochs in 1 Maccabees are not resolved here; the window deliberately spans both.",
+    "Olympiad conversion (Ol. 1 = 776 BC) is an operator calculation, not a source statement."
+  ],
+  "evidence_strength": "moderate",
+  "competing_interpretations": [],
+  "anchor_subject": "evt_01M4TTS0HJERGH3WATWMDAZ2W6",
+  "window": {
+    "from": {
+      "year": -164,
+      "month": 11,
+      "day": 15
+    },
+    "to": {
+      "year": -162,
+      "month": 1,
+      "day": 15
+    },
+    "basis": "Covers Chislev under both Seleucid-era epochs: from mid-Nov 165 BC to mid-Jan 163 BC. Driver (p. 119) and Montgomery give Dec 165; Josephus's Olympiad points to Dec 164.",
+    "citations": [
+      "src_01M4TSKK87BBJJJP35SD5PZGDP",
+      "src_01M4TTS0H2RP38CMPKF6HT28VX",
+      "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "src_01M4TSKK81W6HP2HFZ7744DHRG"
+    ]
+  },
+  "reviewer_status": "machine_proposed"
+}

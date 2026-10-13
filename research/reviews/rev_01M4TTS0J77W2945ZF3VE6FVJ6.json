@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4TTS0J77W2945ZF3VE6FVJ6",
+  "record_kind": "claim",
+  "record_id": "clm_01M4TTS0J65EJDYETZ74SVDXJY",
+  "record_revision": 1,
+  "reason": "Disputed: rededication in Dec 165 or Dec 164 BC (Seleucid-era epoch)",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T14:31:00.423Z",
+  "decisions": [],
+  "is_fixture": false
+}

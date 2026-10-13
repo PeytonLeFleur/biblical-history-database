@@ -1,0 +1,45 @@
+{
+  "kind": "place",
+  "id": "loc_01M4TTS0HJGY825103AG016ZWM",
+  "slug": "ulai-river",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
+    "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+  ],
+  "notes": null,
+  "primary_name": "Ulai (Eulaeus)",
+  "place_type": "river",
+  "modern_name": null,
+  "modern_country": "Iran",
+  "kingdom_id": null,
+  "ancient_names": [
+    {
+      "name": "Eulaeus",
+      "language": "Greek",
+      "period": null,
+      "source_id": "src_01M4TTS0HCMB6R6FFR9Y2BGMQS"
+    },
+    {
+      "name": "Ulaya",
+      "language": "Akkadian",
+      "period": null,
+      "source_id": "src_01M4TTS0HCMB6R6FFR9Y2BGMQS"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "lhy_01M4TTS0HFXFP4WSXG1YES0W9X",
+      "label": "Saimarreh/Eulaeus? (Pleiades 903109, uncertain)",
+      "lat": 33.47049597703435,
+      "lon": 47.34311940617729,
+      "coordinate_precision": "region",
+      "confidence": "possible",
+      "geom_source_id": "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
+      "proponents": [],
+      "reasoning": "Pleiades marks the identification with a question mark; the point lies far upstream of Susa, whereas Daniel places the Ulai at Susa. The stream or canal at Susa is not precisely located in the sources read."
+    }
+  ],
+  "description": "River or canal at Susa where Daniel saw himself in the vision (8:2, 16). Exact course uncertain."
+}

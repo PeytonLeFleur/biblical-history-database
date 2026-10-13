@@ -1,0 +1,282 @@
+{
+  "event_id": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 8",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Driver 1900 and Montgomery 1927 on Daniel 8 (local OCR texts)",
+      "engine": "local text",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Jerome on Daniel 8; Newton on the goat's little horn",
+      "engine": "local text",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: William Miller, Evidence from Scripture (1842)",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Pleiades: Susa; Eulaeus/Ulai",
+      "engine": "pleiades",
+      "useful_results": 2,
+      "notes": "Ulai identification marked uncertain by Pleiades."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.8.5, 12.7.6–7 (Gutenberg)",
+      "engine": "local text",
+      "useful_results": 2,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Arrian, Anabasis (Gutenberg 46976); Diodorus 20.106 (LacusCurtius)",
+      "engine": "gutenberg mirror / web fetch",
+      "useful_results": 2,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Vision report; Susa located via Pleiades only."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4TTS0J4TXNAE7R6V69BE5ND",
+      "statement": "Alexander of Macedon overthrew the Persian empire (Arbela, 331 BC; death of Darius III, 330 BC).",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Arrian dates the decisive battle to the archonship of Aristophanes (331/330) and Darius's death to that of Aristophon (330/329). This is the historical background against which 8:5–7 and 8:21 are read; it is not itself an identification of the symbols.",
+      "supporting_evidence": [
+        "evd_01M4TTS0J45VT3SGRERQBK6ZQX"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TTS0J4C8SSH3P65PEF65PW",
+      "statement": "After Alexander, four of his successors (Cassander, Lysimachus, Ptolemy, Seleucus) acted as kings in alliance against Antigonus.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "Diodorus describes the four-king coalition before Ipsus. Jerome lists a different four, so the \"four kingdoms\" of 8:22 are matched to different sets by different interpreters.",
+      "supporting_evidence": [
+        "evd_01M4TTS0J4A4MXCPYKS7YK40ZG"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TTS0J49WDXMJTPM5QCGQAR"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TTS0J492BV05XDMY89BA6B",
+      "statement": "Daniel was physically at Susa when he saw the vision.",
+      "layer": "reconstruction",
+      "passage": "Dan.8.2",
+      "classification": "disputed",
+      "reasoning": "Guzik reads 8:27 (\"the king's business\") as Daniel being in Shushan on official business; Driver reads 8:2 as describing where Daniel saw himself in the vision. In Belshazzar's time Susa lay outside Babylonian rule, which bears on the question but was not researched further.",
+      "supporting_evidence": [
+        "evd_01M4TTS0J45MJ78DNCQ1FVYP2D"
+      ],
+      "counterevidence": [
+        "evd_01M4TTS0J4S497SC58S39W4S20"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TTS0J4FS4234Q8Z4SDBW6A",
+      "statement": "Alexander was shown the Book of Daniel at Jerusalem.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Reported only by Josephus. Arrian's narrative of the campaign from Tyre to Gaza and Egypt does not mention Jerusalem.",
+      "supporting_evidence": [
+        "evd_01M4TTS0J4A4EKDMQ78KTC6Z4C"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4TTS0J45VT3SGRERQBK6ZQX"
+      ],
+      "limitations": [
+        "Absence in Arrian is not disproof."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TTS0J4E0A38KXF74PR5DVD",
+      "statement": "Gabriel explained the vision to Daniel.",
+      "layer": "text",
+      "passage": "Dan.8.16",
+      "classification": "not_empirically_testable",
+      "reasoning": "An angelic revelation cannot be assessed historically. This is not a theological verdict.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4TTS0J45VT3SGRERQBK6ZQX",
+      "claim_ids": [
+        "clm_01M4TTS0J4TXNAE7R6V69BE5ND",
+        "clm_01M4TTS0J4FS4234Q8Z4SDBW6A"
+      ],
+      "source_id": "src_01M4TTS0H4CEAKS7ZHP91RP73B",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Arbela fought in the archonship of Aristophanes, month Pyanepsion; Darius III died of wounds before Alexander saw him, archonship of Aristophon.",
+      "locator": "3.15; 3.21–22",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "arrian"
+    },
+    {
+      "id": "evd_01M4TTS0J4A4MXCPYKS7YK40ZG",
+      "claim_ids": [
+        "clm_01M4TTS0J4C8SSH3P65PEF65PW"
+      ],
+      "source_id": "src_01M4TTS0H6KAXR7AHRJXSV7DV6",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Cassander summoned Lysimachus; Ptolemy and Seleucus agreed to join them against Antigonus.",
+      "locator": "20.106.2–5",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "diodorus"
+    },
+    {
+      "id": "evd_01M4TTS0J49WDXMJTPM5QCGQAR",
+      "claim_ids": [
+        "clm_01M4TTS0J4C8SSH3P65PEF65PW"
+      ],
+      "source_id": "src_01M4TTS0GZ70JV8F7N116GGVPE",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Jerome's four successors are Ptolemy, Philip Arrhidaeus, Seleucus and Antigonus.",
+      "locator": "on 8:8, 22",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "traditional"
+    },
+    {
+      "id": "evd_01M4TTS0J45MJ78DNCQ1FVYP2D",
+      "claim_ids": [
+        "clm_01M4TTS0J492BV05XDMY89BA6B"
+      ],
+      "source_id": "src_01M4TTS0GVB04W3QBM4C5SJ395",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Daniel \"was in Shushan on business for the king\".",
+      "locator": "on 8:2, 27",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4TTS0J4S497SC58S39W4S20",
+      "claim_ids": [
+        "clm_01M4TTS0J492BV05XDMY89BA6B"
+      ],
+      "source_id": "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The verse describes where Daniel \"seemed to find himself in the vision\".",
+      "locator": "p. 111 (on 8:2)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "critical-scholarship"
+    },
+    {
+      "id": "evd_01M4TTS0J4A4EKDMQ78KTC6Z4C",
+      "claim_ids": [
+        "clm_01M4TTS0J4FS4234Q8Z4SDBW6A"
+      ],
+      "source_id": "src_01M4TTS0H16R2RHYVNTR09K9TR",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Alexander was shown the Book of Daniel and supposed he was the Greek who would destroy the Persian empire.",
+      "locator": "Ant. 11.8.5",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "The Ulai's course at Susa not located.",
+    "Old Greek Daniel 8 not read.",
+    "Modern studies of Alexander at Jerusalem not consulted."
+  ]
+}

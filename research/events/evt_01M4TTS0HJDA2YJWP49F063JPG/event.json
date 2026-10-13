@@ -1,0 +1,71 @@
+{
+  "id": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+  "slug": "daniel-vision-ram-and-goat-dan-8",
+  "title": "Daniel's vision of the ram and the goat at Susa (Dan 8)",
+  "summary": "In the third year of Belshazzar Daniel sees, at Susa by the Ulai, a ram and a goat, four horns and a little horn that desolates the sanctuary; Gabriel explains it, and Daniel falls ill. This record is the narrated experience; symbols and interpretations are separate records.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4TTS0HJ238T86918QG45AT5",
+    "cnd_01M4TTS0HJ60TRV4TESYMYPHNN",
+    "cnd_01M4TTS0HJ88GM71FMN3CVFZ4Y"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "apocalyptic_vision",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious"
+  ],
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.8.1-Dan.8.2",
+      "mention_type": "superscription",
+      "notes": "Third year of Belshazzar; Susa, by the Ulai."
+    },
+    {
+      "passage": "Dan.8.15-Dan.8.19",
+      "mention_type": "narration",
+      "notes": null
+    },
+    {
+      "passage": "Dan.8.27",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

@@ -3555,5 +3555,342 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0GVB04W3QBM4C5SJ395",
+  "title": "Daniel 8 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-8/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on Daniel 8",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "No BC date for the third year; Daniel in Shushan on the king's business (8:27); ram = Media and Persia (Persia higher, later); goat = Greece, great horn = Alexander; four horns = Cassander, Lysimachus, Seleucus, Ptolemy; little horn = Antiochus IV as near fulfillment and the Antichrist as far (dual); prefers 2,300 days (171–165 BC, cleansing 25 Dec 165) and notes Newell's 1,150 days (168–165); rejects William Miller's year-day 1844 reckoning; John 10:22",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0GZ70JV8F7N116GGVPE",
+  "title": "Jerome, Commentary on Daniel (trans. Gleason L. Archer, 1958) — chapter 8",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Jerome",
+   "Archer, Gleason L. (trans.)"
+  ],
+  "publisher": "tertullian.org (transcribed by Roger Pearse)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.tertullian.org/fathers/jerome_daniel_02_text.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Jerome, Commentarii in Danielem 8",
+  "license": "Page states: \"All material on this page is in the public domain\"; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read the chapter 8 commentary in the downloaded page",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Great horn = Alexander; four successors Ptolemy (Egypt), Philip Arrhidaeus (Macedonia), Seleucus (Syria, Babylonia, the East), Antigonus (Asia Minor); the king of shameless countenance = Antiochus Epiphanes; 2,300 days ≈ six years and three months from Antiochus's entry into Jerusalem (year 143) to Judas Maccabaeus; \"Most of our commentators\" refer it to the Antichrist, Antiochus being a type",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0H16R2RHYVNTR09K9TR",
+  "title": "Josephus, Antiquities 11.8.5 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Josephus",
+   "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 11.8.5 (Whiston)",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "At Jerusalem Alexander was shown the Book of Daniel, \"wherein Daniel declared that one of the Greeks should destroy the empire of the Persians\", and \"supposed that himself was the person intended\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0H2RP38CMPKF6HT28VX",
+  "title": "Josephus, Antiquities 12.7.6–7 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Josephus",
+   "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 12.7.6–7 (Whiston)",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Temple desolate three years: desolation 145 SE, 153rd Olympiad; rededication 25 Casleu (Apellaeus) 148 SE, 154th Olympiad; \"this desolation came to pass according to the prophecy of Daniel\"; the eight-day festival called \"Lights\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0H4CEAKS7ZHP91RP73B",
+  "title": "Arrian, Anabasis of Alexander (trans. E. J. Chinnock, 1884)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Arrian",
+   "Chinnock, E. J. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #46976",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/46976",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Arrian, Anabasis 3.15, 3.21–22",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded the Gutenberg text (pglaf mirror)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "3.15: the battle of Arbela (Gaugamela) fought in the archonship of Aristophanes, month Pyanepsion; 3.21–22: Darius III wounded by his own officers and died before Alexander saw him, archonship of Aristophon, month Hecatombaion; Arrian's narrative does not mention Jerusalem (only the translator's note refers to Josephus)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0H6KAXR7AHRJXSV7DV6",
+  "title": "Diodorus Siculus, Library 20.106 (Loeb vol. X, 1954) — LacusCurtius",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Diodorus Siculus"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/20E*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Diodorus Siculus 20.106",
+  "license": "Loeb (1954); page states public domain; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "20.106.2–5: Cassander, refused terms by Antigonus, summoned Lysimachus; Ptolemy and Seleucus agreed to join them against Antigonus",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "The page names no translator.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0H8BP0WSKFR1FQAZ7MF",
+  "title": "Evidence from Scripture and History of the Second Coming of Christ, about the Year 1843",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Miller, William"
+  ],
+  "publisher": "Joshua V. Himes (Boston), 1842",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/evidencefromscri00mill",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public domain (1842)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the OCR text, Lecture III (pp. 52–54)",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "The 2,300 days are years, beginning with the decree in the 7th year of Artaxerxes (Ezra 7), 457 BC, together with the seventy weeks; 2,300 − 457 = AD 1843",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text, Lecture III.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0HAX5NYTKT12DM0D0DW",
+  "title": "Susa/Seleucia ad Eulaeum — Pleiades place 912936",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/912936",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched https://pleiades.stoa.org/places/912936/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "reprPoint lon 48.253537054323495, lat 32.189934471571",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Representative point read from the Pleiades JSON record: lon 48.253537054323495, lat 32.189934471571.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TTS0HCMB6R6FFR9Y2BGMQS",
+  "title": "Saimarreh/Eulaeus?/Ula(ya)? (river) — Pleiades place 903109",
+  "source_type": "institutional_database",
+  "authors": [
+   "Pleiades contributors"
+  ],
+  "publisher": "Pleiades (pleiades.stoa.org)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://pleiades.stoa.org/places/903109",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY 3.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched https://pleiades.stoa.org/places/903109/json",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Title \"Saimarreh/Eulaeus?/Ula(ya)? (river)\", names Eulaeus, Ulaya, Ula; cited from Barrington Atlas 92 B3",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Identification marked uncertain by Pleiades itself (\"?\"); representative point lon 47.343, lat 33.470 lies far upstream of Susa.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

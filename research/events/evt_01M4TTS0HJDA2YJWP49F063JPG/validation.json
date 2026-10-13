@@ -1,0 +1,68 @@
+{
+  "event_id": "evt_01M4TTS0HJDA2YJWP49F063JPG",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4TSKKA509C4CWPB83N5CD79",
+    "rev_01M4TSKKA68WNQ3VACWF6C4SC1",
+    "rev_01M4TSKKA6W3NK7DZ39ZJEQXXX",
+    "rev_01M4TTS0J68ZKDMTYSYZ6RBCPD",
+    "rev_01M4TTS0J98TKXKYJ3WXFZE0NE",
+    "rev_01M4TTS0J9CDEP994J3VGE4TZ9",
+    "rev_01M4TTS0JA80MM7X7N81P75ZBP",
+    "rev_01M4TTS0JBS6R3ZKQ6DWVVK0XJ",
+    "rev_01M4TTS0JFYXCNFF46NZZYPTWV",
+    "rev_01M4TTS0JJ0SB6WW6W7HX64ADH",
+    "rev_01M4TTS0JKJHQ3PMD8ZFY6R7C6",
+    "rev_01M4TTS0JPX9JDF6CS9SRE86CB",
+    "rev_01M4TTS0JQSSSY4AQCYQG7ZZ73",
+    "rev_01M4TTS0JR2T9Q8B7MT6TSNPZW"
+  ],
+  "research_gaps": [
+    "The Ulai's course at Susa not located.",
+    "Old Greek Daniel 8 not read.",
+    "Modern studies of Alexander at Jerusalem not consulted."
+  ],
+  "disputes": [
+    "Daniel was physically at Susa when he saw the vision."
+  ],
+  "export_eligible": true
+}

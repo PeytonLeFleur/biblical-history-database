@@ -1,0 +1,94 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4TTS0HJXX550DZHSC4HAMTK",
+  "slug": "two-thousand-three-hundred-evenings-mornings-dan-8",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "2,300 evenings and mornings until the sanctuary is cleansed (Dan 8:13–14, 26)",
+  "passage": "Dan.8.13-Dan.8.14",
+  "speaker": "A holy one",
+  "vision_id": "vis_01M4TTS0HJ1ZF9ZDZ4BNKZQ1V6",
+  "description": "The desolation of the sanctuary and suspension of the continual offering will last 2,300 evenings and mornings; then the sanctuary will be cleansed.",
+  "in_text_interpretation": "The text gives the number and says the vision is \"true\" and for \"many days to come\" (8:26); it does not say whether the unit is a day or a single offering.",
+  "interpretations": [
+    {
+      "id": "ful_01M4TTS0HW0J94AN1MAYQM9YG4",
+      "label": "1,150 days (2,300 offerings) of the interrupted sacrifice under Antiochus",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "S. R. Driver (1900): \"so most commentators\"",
+        "P. Newell (cited by Guzik)"
+      ],
+      "summary": "The continual offering was made morning and evening, so 2,300 offerings = 1,150 days, a little under the 3 years 10 days between the desecration (15 Chislev 145) and the rededication (25 Chislev 148). Objection (Driver himself): the figure does \"not agree precisely with the event\".",
+      "referents": [
+        {
+          "symbol": "2,300 evenings and mornings",
+          "referent": "1,150 days, 168/167–165/164 BC"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TTS0GVB04W3QBM4C5SJ395",
+        "src_01M4TSKK87BBJJJP35SD5PZGDP"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TTS0HWK8RDS1DPH7H43PWV",
+      "label": "2,300 days ending with the cleansing of the Temple",
+      "approach": "preterist",
+      "framework": "Patristic and modern conservative",
+      "proponents": [
+        "Jerome (six years and three months from year 143)",
+        "D. Guzik (from 171 BC, Menelaus's high priesthood, to the cleansing)"
+      ],
+      "summary": "Evening-morning = a full day (cf. Gen 1:5), so 2,300 days ≈ 6⅓ years ending with Judas Maccabaeus's rededication. The starting point differs between proponents; Driver lists further variants (e.g. Dec 168 to the defeat of Nicanor, 161).",
+      "referents": [
+        {
+          "symbol": "2,300 evenings and mornings",
+          "referent": "2,300 days ending with the rededication"
+        }
+      ],
+      "linked_events": [
+        "evt_01M4TTS0HJERGH3WATWMDAZ2W6"
+      ],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TTS0GZ70JV8F7N116GGVPE",
+        "src_01M4TTS0GVB04W3QBM4C5SJ395",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4TTS0HWDY675CH8VSE4DS7Q",
+      "label": "2,300 years from 457 BC to AD 1843 (year-day)",
+      "approach": "historicist",
+      "framework": "Millerite (19th-century American Adventism)",
+      "proponents": [
+        "W. Miller (1842)"
+      ],
+      "summary": "A prophetic day equals a year; the period begins with Artaxerxes' decree to Ezra (457 BC, the start of the seventy weeks of Dan 9) and ends in AD 1843 with the cleansing of the sanctuary at Christ's return. Objection (Guzik): Daniel's vision concerns Antiochus and the Temple cleansing commemorated in John 10:22; Miller's reckoning is rejected. Later Adventist reinterpretations (1844) were not researched from primary sources.",
+      "referents": [
+        {
+          "symbol": "2,300 evenings and mornings",
+          "referent": "2,300 years, 457 BC – AD 1843"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TTS0H8BP0WSKFR1FQAZ7MF",
+        "src_01M4TTS0GVB04W3QBM4C5SJ395"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

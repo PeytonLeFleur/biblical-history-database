@@ -1,0 +1,51 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4TTS0HJ5D1K16KS9EDABHHY",
+  "slug": "ram-goat-four-kingdoms-dan-8",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "title": "The ram, the goat and the four kingdoms (Dan 8:3–8, 20–22)",
+  "passage": "Dan.8.20-Dan.8.22",
+  "speaker": "Gabriel",
+  "vision_id": "vis_01M4TTS0HJ1ZF9ZDZ4BNKZQ1V6",
+  "description": "The kings of Media and Persia are overthrown by the king of Greece, whose first king is broken and replaced by four kingdoms of lesser power.",
+  "in_text_interpretation": "Explicit: ram = the kings of Media and Persia; goat = the king of Greece; great horn = the first king; four horns = four kingdoms from his nation (8:20–22).",
+  "interpretations": [
+    {
+      "id": "ful_01M4TTS0HQJ88NC5K4B868X5FZ",
+      "label": "Alexander the Great and his successors",
+      "approach": "preterist",
+      "framework": "Common to traditional and critical interpreters",
+      "proponents": [
+        "Josephus (Ant. 11.8.5, Alexander told he was meant)",
+        "Jerome",
+        "S. R. Driver (1900)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the text itself names Media, Persia and Greece; Alexander, the first Macedonian king of Asia, defeated Darius III (Arbela, 331 BC) and died young; his empire passed to successors. Objections/variants: the four are listed differently — Jerome: Ptolemy, Philip Arrhidaeus, Seleucus, Antigonus; Guzik: Cassander, Lysimachus, Seleucus, Ptolemy (the coalition against Antigonus, Diodorus 20.106). Acceptance: no dissent found among the sources consulted on the identification of the great horn with Alexander.",
+      "referents": [
+        {
+          "symbol": "Great horn",
+          "referent": "Alexander the Great"
+        },
+        {
+          "symbol": "Four horns",
+          "referent": "The kingdoms of Alexander's successors (lists differ)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4TTS0H16R2RHYVNTR09K9TR",
+        "src_01M4TTS0GZ70JV8F7N116GGVPE",
+        "src_01M4TSKK7Z1TRV4MMZKTMN8FBY",
+        "src_01M4TTS0GVB04W3QBM4C5SJ395",
+        "src_01M4TTS0H4CEAKS7ZHP91RP73B",
+        "src_01M4TTS0H6KAXR7AHRJXSV7DV6"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

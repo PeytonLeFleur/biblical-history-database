@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TTS0H4CEAKS7ZHP91RP73B",
+  "title": "Arrian, Anabasis of Alexander (trans. E. J. Chinnock, 1884)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Arrian",
+    "Chinnock, E. J. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #46976",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/46976",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Arrian, Anabasis 3.15, 3.21–22",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Downloaded the Gutenberg text (pglaf mirror)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "3.15: the battle of Arbela (Gaugamela) fought in the archonship of Aristophanes, month Pyanepsion; 3.21–22: Darius III wounded by his own officers and died before Alexander saw him, archonship of Aristophon, month Hecatombaion; Arrian's narrative does not mention Jerusalem (only the translator's note refers to Josephus)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}
