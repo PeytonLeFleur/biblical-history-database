@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4TQMMM4BBN7KX5W1QFBCE3Y",
+  "title": "Lion Hunt of Ashurbanipal — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+    "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Lion_Hunt_of_Ashurbanipal",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "North Palace reliefs, Nineveh, c. 645–635 BC (British Museum Room 10a; Reade 1998): captured lions released from cages into an arena for the king; Ashurnasirpal II inscription on lion cubs kept in cages at Kalhu (Oates & Oates 2001, p. 34); no mention of lion pits",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

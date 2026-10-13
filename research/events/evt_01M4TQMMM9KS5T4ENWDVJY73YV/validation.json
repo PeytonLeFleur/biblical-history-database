@@ -1,0 +1,50 @@
+{
+  "event_id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV",
+  "revision": 1,
+  "validated_at": "2026-10-13",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [],
+  "research_gaps": [
+    "No modern study of Achaemenid royal law consulted.",
+    "Archaeological evidence for animal enclosures at Persian-period Babylon not searched in excavation reports."
+  ],
+  "disputes": [],
+  "export_eligible": true
+}

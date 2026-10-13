@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TQMMKWN7N51NSGCZSG9VQ3",
+  "title": "Xenophon, Cyropaedia 8.6 (trans. H. G. Dakyns)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Xenophon",
+    "Dakyns, Henry Graham (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2085",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2085",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Xenophon, Cyropaedia 8.6",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "8.6.1–7: back in Babylon, Cyrus resolved to appoint satraps over the conquered peoples, keeping garrison commanders under his own authority, and sent six named satraps (Arabia, Cappadocia, Greater Phrygia, Lydia, Caria, Hellespontine Phrygia)",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,604 @@
+# Darius appoints 120 satraps and three chief officials (Dan 6:1–3, 28)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Daniel 6:1–3 (narration): English 6:1–3 = Aramaic 6:2–4.
+- Daniel 6:28 (reference): Closing summary.
+
+## Biblical account
+
+Darius sets 120 satraps over the kingdom and three chief officials over them, so that the king suffers no loss; Daniel excels, and the king plans to place him over the whole realm. The chapter ends: Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian (6:28).
+
+## Historical setting
+
+**Period:** Early Persian rule over Babylonia (from Oct 539 BC)
+
+After the capture, Cyrus's official Gubaru appointed district officers in Babylon (ABC 7 iii 20). Xenophon has Cyrus send satraps from Babylon to the conquered lands (Cyropaedia 8.6). Darius I later fixed twenty tribute-paying satrapies (Herodotus 3.89) and lists 23 lands at Behistun (§6). The Aramaic ʾăḥašdarpan corresponds to Old Persian khshathra-pāvan, "protector of the realm"; Daniel also uses it of Nebuchadnezzar's officers (3:2). [1, 2, 3, 4, 5]
+
+### Rulers
+
+- Darius the Mede: King (as narrated)
+- Gubaru (Cyrus's district officer in Babylon): Cyrus's official who appointed governors in Babylon [1]
+- Cyrus II (the Great): King of Babylon and the lands
+
+## Date and chronology
+
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+- **539 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: syn_01M4TPW4C5ZE186HXQZ201MHFF (anchor) → cst_01M4TPW4C5C3BZMJ3BNWFXNJQ1 → “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Darius the Mede received the kingdom … It pleased Darius to set over the kingdom one hundred twenty local governors” (Daniel 5:31–6:1) → `after` Belshazzar slain; Darius the Mede receives the kingdom (Dan 5:30–31)
+
+## Geography
+
+- Babylon (Seat of the kingdom (implied); confidence: possible)
+  - Babylon (Pleiades 893951): certain [6]
+
+## Competing reconstructions
+
+- **120 officials within Babylonia under Gobryas** (R. D. Wilson (1917)): Wilson identifies Darius the Mede with Gobryas and compares the 120 "satraps" with the governors Gubaru appointed in Babylon; the term was elastic, so 120 sub-governors in one large province is possible. [7, 1]
+- **Darius I's satrapy system projected back** (C. Newsom & B. Breed (2014), via Wikipedia, critical scholarship generally): The organisation of the empire into satrapies is associated with Darius I; the author of Daniel is thought to have modelled his Darius on the later king. The count of 120 matches no known satrapy list (cf. 127 provinces in Esther 1:1). [8, 3]
+- **The two reigns in 6:28 are one (Darius = Cyrus)** (D. J. Wiseman (1965), via Wikipedia and Guzik): Reads 6:28 appositionally: "the reign of Darius, that is, the reign of Cyrus the Persian". [8, 9]
+
+## Claims and evidence
+
+### Early Persian rule in Babylonia operated through appointed provincial governors.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+The Chronicle records Gubaru appointing district officers in Babylon immediately after the conquest; Xenophon, Herodotus and Darius I's own inscription describe satrapal organisation.
+
+- *Supporting (direct):* Gubaru, Cyrus's district officer, appointed district officers in Babylon. (iii 20) [1]
+- *Supporting (indirect):* From Babylon Cyrus appointed satraps over conquered peoples, naming six. (8.6.1–7) [2]
+- *Supporting (indirect):* Darius I established twenty satrapies with fixed tribute. (3.89) [3]
+- *Supporting (direct):* Darius I lists twenty-three lands that came to him. (DB i 12–17 (§6)) [4]
+
+*Limitations:* Herodotus and Behistun describe Darius I's later system.
+
+### Darius the Mede set 120 satraps over the kingdom.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+No source gives 120 satraps. The empire-wide lists have 20 (Herodotus) or 23 lands (Behistun). Wilson argues the number fits sub-governors within Babylonia under Gobryas, on the analogy of the Chronicle; critics see a projection of Darius I's reorganisation. Material disagreement, dependent on the Darius identification.
+
+- *Supporting (indirect):* Argues 120 officials could be installed in Babylonia alone, comparing the Chronicle's appointments by Gobryas and the elastic meaning of "satrap". (pp. 141–144) [7]
+- *Challenging (indirect):* Darius I established twenty satrapies with fixed tribute. (3.89) [3]
+- *Challenging (direct):* Darius I lists twenty-three lands that came to him. (DB i 12–17 (§6)) [4]
+- *Context (direct):* Gubaru, Cyrus's district officer, appointed district officers in Babylon. (iii 20) [1]
+- *Context (direct):* ʾăḥašdarpan, "satraps", corresponding to Old Persian khshathra-pāvan; also used of Nebuchadnezzar's officials in Dan 3. (H324) [5]
+
+*Limitations:* Wilson (1917) predates much later scholarship; Newsom & Breed known only via Wikipedia.
+
+### The term rendered "satrap" (ʾăḥašdarpan) is an Old Persian administrative title.
+
+**Classification:** Independently corroborated (machine proposed) · layer: evidence
+
+The lexicon links the Aramaic word to Old Persian khshathra-pāvan; Herodotus uses "satrapy" for Persian provinces.
+
+- *Supporting (direct):* ʾăḥašdarpan, "satraps", corresponding to Old Persian khshathra-pāvan; also used of Nebuchadnezzar's officials in Dan 3. (H324) [5]
+
+### Daniel was one of three chief officials under Darius.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: text
+
+No source outside the Bible names Daniel.
+
+
+## Related passages and events
+
+- this event → **preceded by** → Belshazzar slain; Darius the Mede receives the kingdom (Dan 5:30–31) (high): Darius receives the kingdom (5:31) and then organises it (6:1).
+- this event → **thematic parallel** → Esther 1:1 (medium): Esther gives 127 provinces for the Persian empire under Ahasuerus; compared with Daniel's 120 satraps. [7]
+- this event → **thematic parallel** → Daniel 10:1 (high): Daniel is still active in Cyrus's third year, consistent with 6:28.
+- Darius the Mede → **possible identity** → Darius I (the Great) (speculative): Critical scholars see Darius I as the model for the literary Darius the Mede (a source of the portrait, not a claim that the narrative describes Darius I's reign). [8]
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that no Darius is known for this time and place, weighs Cyrus, Cambyses and Gubaru, and prefers Gubaru, suggesting "Darius" may be an honorific. He reads the three chief officials as answerable directly to the king, with Daniel distinguished by "an excellent spirit". [9]
+
+## Unanswered questions and research gaps
+
+- Naqsh-i Rustam inscription not read.
+- Modern studies of Achaemenid administration of Babylonia not consulted this session.
+- The Naqsh-i Rustam list of lands (cited by Wilson) was not read.
+- Gubaru's later contracts as governor of Babylon were not read.
+
+## Disputes
+
+- Darius the Mede set 120 satraps over the kingdom.
+
+## Sources
+
+1. Lendering, Jona (ed.). ABC 7 (Nabonidus Chronicle) — English translation on Livius.org. Livius.org. <https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/> — *ancient primary text; verification: claim checked*
+2. Xenophon, Dakyns, Henry Graham (trans.). Xenophon, Cyropaedia 8.6 (trans. H. G. Dakyns). Project Gutenberg #2085. <https://www.gutenberg.org/ebooks/2085> — *ancient primary text; verification: claim checked*
+3. Herodotus, Macaulay, G. C. (trans.). Herodotus, Histories 3.89 (trans. G. C. Macaulay). Project Gutenberg #2707. <https://www.gutenberg.org/ebooks/2707> — *ancient primary text; verification: claim checked*
+4. Darius I, King, L. W. & Thompson, R. C. (trans., adapted). Behistun inscription, Old Persian text, col. i 9–26 — Livius.org (after King & Thompson 1907). Livius.org. <https://www.livius.org/sources/content/behistun-persian-text/behistun-t-02/> — *ancient primary text; verification: claim checked*
+5. Brown, Driver, Briggs (BDB), Bible Hub. Strong's Hebrew/Aramaic 324, ʾăḥašdarpan — Bible Hub (BDB). Bible Hub. <https://biblehub.com/hebrew/324.htm> — *historical reference; verification: claim checked*
+6. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
+7. Wilson, Robert Dick. Studies in the Book of Daniel: A Discussion of the Historical Questions. G. P. Putnam's Sons. <https://archive.org/details/cu31924029306657> — *academic monograph; verification: claim checked*
+8. Wikipedia contributors. Darius the Mede — Wikipedia. Wikimedia Foundation. <https://en.wikipedia.org/wiki/Darius_the_Mede> — *popular summary; verification: claim checked*
+9. Guzik, David. Daniel 6 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/daniel-6/> — *theological commentary; verification: claim checked*

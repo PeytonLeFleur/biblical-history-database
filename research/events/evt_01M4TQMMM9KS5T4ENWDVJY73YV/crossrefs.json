@@ -1,0 +1,110 @@
+{
+  "event_id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TQMMME0TB6MEXRHKWKSF63",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Esth.8.8"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "A sealed royal writing \"may not be reversed by any man\" (cf. Esth 1:19).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TQMMME9SGVN3KAE2NKK302",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "1Kgs.8.48"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Prayer toward Jerusalem from exile, as in Solomon's dedication prayer.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TQMMME4JPSZ8GZR5GSYGZR",
+      "type": "direct_reference",
+      "from": {
+        "kind": "passage",
+        "ref": "Heb.11.33"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Those who by faith \"stopped the mouths of lions\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TQMMMEGA5DXKX9JA8EDS6T",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RV0PCZYM4AMSJ2SA5740F0"
+      },
+      "confidence": "high",
+      "layer": "interpretation",
+      "rationale": "Same pattern: rivals, an edict, faithful refusal, deliverance and royal confession (Seow 2003, via Wikipedia).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TQMMKP0TTZYQAFE83Q8G3C"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4TQMMMA0M1P6VX89GYP2FEF"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "event_id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 6",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Behistun inscription Old Persian §§4–9 (Livius T 02, T 03)",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Livius section page 1–10 returned HTTP 500; T 06 covers §§12–13."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Herodotus 3.89, 3.118–119; Xenophon Cyropaedia 8.6 (Gutenberg)",
+      "engine": "local text",
+      "useful_results": 3,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Ammianus 23.6.81; Diodorus 17.30 (LacusCurtius)",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Diodorus 17C page covered 40–63; 17B used."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: R. D. Wilson, Studies in the Book of Daniel (1917)",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": "OCR text read, pp. 141–144."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Wikipedia: Daniel in the lions' den; Satrap; Lion Hunt of Ashurbanipal",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Satrap article tagged as needing citations; its satrapy counts were not used."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Bible Hub Strong's H324",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4TQMMME7K7S77GPS01QWRHM",
+      "statement": "Persian kings punished the families of the condemned along with them.",
+      "layer": "evidence",
+      "passage": "Dan.6.24",
+      "classification": "historically_plausible",
+      "reasoning": "Herodotus reports Darius I seizing Intaphrenes with his sons and kinsmen; Ammianus (4th century AD) describes Persian laws putting all relatives of a guilty man to death. Both are outside observers, and neither concerns Darius the Mede.",
+      "supporting_evidence": [
+        "evd_01M4TQMMME0MBZWJ5976ZMNN6Z",
+        "evd_01M4TQMMMEGSGC03NQBCAEYXGZ"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Greek and Roman sources, not Persian legal texts."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TQMMMETMCM8WT3BYXHE541",
+      "statement": "Darius issued an empire-wide decree honouring the God of Daniel.",
+      "layer": "text",
+      "passage": "Dan.6.25-Dan.6.27",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No such decree is known outside Daniel.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4TQMMME0MBZWJ5976ZMNN6Z",
+      "claim_ids": [
+        "clm_01M4TQMMME7K7S77GPS01QWRHM"
+      ],
+      "source_id": "src_01M4TQMMKV3Z1659JHSJ5QX4KP",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Darius I put Intaphrenes \"and his sons and all his kinsmen\" in bonds for execution.",
+      "locator": "3.119",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "herodotus"
+    },
+    {
+      "id": "evd_01M4TQMMMEGSGC03NQBCAEYXGZ",
+      "claim_ids": [
+        "clm_01M4TQMMME7K7S77GPS01QWRHM"
+      ],
+      "source_id": "src_01M4TQMMKYJWE1VVT2XJYV0WDN",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Persian laws provide that \"because of the guilt of a single person all his relatives are put to death\".",
+      "locator": "23.6.81",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ammianus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

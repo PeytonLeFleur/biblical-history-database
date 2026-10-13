@@ -2733,5 +2733,418 @@
   "outlet": null,
   "retraction_status": null,
   "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMKK6Z1CTC9CNKEXBHKJ",
+  "title": "Daniel 6 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+   "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/daniel-6/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read the commentary on Daniel 6",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "No Darius in secular records for this time; Darius = Cyrus, Cambyses or (preferred) Gubaru, \"Darius\" perhaps an honorific; signed decrees binding on the king because he spoke for the gods; no historical example given for irrevocability; quotes Ammianus Marcellinus on Persian laws killing all kindred for one man's guilt; typology of burial and rescue",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMKP0TTZYQAFE83Q8G3C",
+  "title": "Daniel in the lions' den — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_in_the_lions%27_den",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Tales of chs. 1–6 originally independent folktales of the Persian and Hellenistic periods (Collins 1984); collected mid-2nd century BC (Seow 2003); chs. 4–6 differ markedly in the oldest texts (Redditt 2008); closest parallel is Daniel 3 (Seow 2003); no discussion of satrapy counts, Persian law or lion-keeping",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+  "title": "Behistun inscription, Old Persian text, col. i 9–26 — Livius.org (after King & Thompson 1907)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Darius I",
+   "King, L. W. & Thompson, R. C. (trans., adapted)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/behistun-persian-text/behistun-t-02/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Behistun inscription (DB) i 9–26, §§4–9",
+  "license": "Translation after King & Thompson 1907 (public domain), adapted by Livius; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read pages T 02 and T 03",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "§6: \"twenty-three lands in all\" came to Darius (Persia, Elam, Babylonia, Assyria, Arabia, Egypt … Maka); §8: \"these lands have conformed to my decrees\"",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Pages T 02 (i 9–17) and T 03 (i 18–26) read; the overview page returned HTTP 500.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMKS7CTR3NT9GWHMYQ0M",
+  "title": "Herodotus, Histories 3.89 (trans. G. C. Macaulay)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Herodotus",
+   "Macaulay, G. C. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2707",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2707",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Herodotus, Histories 3.89",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Darius (I) \"established twenty provinces, which the Persians themselves call satrapies\", fixing tribute; under Cyrus and Cambyses nothing was fixed about tribute",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMKV3Z1659JHSJ5QX4KP",
+  "title": "Herodotus, Histories 3.118–119 (trans. G. C. Macaulay)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Herodotus",
+   "Macaulay, G. C. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2707",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2707",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Herodotus, Histories 3.118–119",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Darius I seized Intaphrenes \"and his sons and all his kinsmen\" for execution, suspecting a plot",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMKWN7N51NSGCZSG9VQ3",
+  "title": "Xenophon, Cyropaedia 8.6 (trans. H. G. Dakyns)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Xenophon",
+   "Dakyns, Henry Graham (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2085",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2085",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Xenophon, Cyropaedia 8.6",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Read in the downloaded Gutenberg text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "8.6.1–7: back in Babylon, Cyrus resolved to appoint satraps over the conquered peoples, keeping garrison commanders under his own authority, and sent six named satraps (Arabia, Cappadocia, Greater Phrygia, Lydia, Caria, Hellespontine Phrygia)",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMKYJWE1VVT2XJYV0WDN",
+  "title": "Ammianus Marcellinus, Res Gestae 23.6.81 (trans. J. C. Rolfe, Loeb 1940)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Ammianus Marcellinus",
+   "Rolfe, John C. (trans.)"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ammian/23*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Ammianus Marcellinus 23.6.81",
+  "license": "Public domain translation (Loeb 1940)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "23.6.81: among the Persians some laws are \"detestable\", providing that \"because of the guilt of a single person all his relatives are put to death\" (Rolfe; Guzik quotes a different translation with \"formidable\")",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMKZDH4RWTD6VQTHTX83",
+  "title": "Diodorus Siculus, Library 17.30 (Loeb vol. VIII, 1963)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+   "Diodorus Siculus"
+  ],
+  "publisher": "LacusCurtius (Bill Thayer)",
+  "journal": null,
+  "published_date": null,
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/17B*.html",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Diodorus Siculus 17.30",
+  "license": "Loeb translation on LacusCurtius; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "17.30: Darius III had Charidemus executed in anger, then regretted it, but \"all his royal power was not able to undo what was done\" (17.30.6); no law against revoking a royal decision is mentioned",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "The page names no translator; edition given as Loeb vol. VIII (1963).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+  "title": "Studies in the Book of Daniel: A Discussion of the Historical Questions",
+  "source_type": "academic_monograph",
+  "authors": [
+   "Wilson, Robert Dick"
+  ],
+  "publisher": "G. P. Putnam's Sons",
+  "journal": null,
+  "published_date": null,
+  "url": "https://archive.org/details/cu31924029306657",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Published 1917; public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Downloaded and read the OCR text",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "pp. 141–144: Darius the Mede identified with Gobryas; Daniel's 120 \"satraps\" compared with the Chronicle's statement that Gobryas appointed governors (pīḫātu) in Babylon; \"satrap\" ambiguous and applied in Daniel to Nebuchadnezzar's officers; Esther's 127 provinces, Behistun's 23 lands and Xenophon's six satraps compared; argues 120 officials in Babylonia alone are possible",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": "Read through the Internet Archive OCR text (Cornell copy).",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMM23GMDX16EMJEGD3RJ",
+  "title": "Strong's Hebrew/Aramaic 324, ʾăḥašdarpan — Bible Hub (BDB)",
+  "source_type": "historical_reference",
+  "authors": [
+   "Brown, Driver, Briggs (BDB)",
+   "Bible Hub"
+  ],
+  "publisher": "Bible Hub",
+  "journal": null,
+  "published_date": null,
+  "url": "https://biblehub.com/hebrew/324.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Public-domain lexicon text; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "Aramaic plural \"satraps\"; corresponds to Old Persian khshathra-pāvan, \"protector of the realm\"; nine occurrences, Dan 3:2, 3, 27 and 6:1–7",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+ },
+ {
+  "id": "src_01M4TQMMM4BBN7KX5W1QFBCE3Y",
+  "title": "Lion Hunt of Ashurbanipal — Wikipedia",
+  "source_type": "popular_summary",
+  "authors": [
+   "Wikipedia contributors"
+  ],
+  "publisher": "Wikimedia Foundation",
+  "journal": null,
+  "published_date": null,
+  "url": "https://en.wikipedia.org/wiki/Lion_Hunt_of_Ashurbanipal",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "CC BY-SA 4.0",
+  "verification_level": "claim_checked",
+  "verification_log": [
+   {
+    "level": "source_accessed",
+    "date": "2026-10-13",
+    "method": "Fetched and read",
+    "notes": null
+   },
+   {
+    "level": "claim_checked",
+    "date": "2026-10-13",
+    "method": "North Palace reliefs, Nineveh, c. 645–635 BC (British Museum Room 10a; Reade 1998): captured lions released from cages into an arena for the king; Ashurnasirpal II inscription on lion cubs kept in cages at Kalhu (Oates & Oates 2001, p. 34); no mention of lion pits",
+    "notes": null
+   }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
  }
 ]

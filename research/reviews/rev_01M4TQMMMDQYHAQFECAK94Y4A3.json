@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4TQMMMDQYHAQFECAK94Y4A3",
+  "record_kind": "claim",
+  "record_id": "clm_01M4TQMMMBQQBHPNSNADV89W7X",
+  "record_revision": 1,
+  "reason": "Disputed: Darius the Mede's 120 satraps (Dan 6:1)",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T13:36:11.405Z",
+  "decisions": [],
+  "is_fixture": false
+}

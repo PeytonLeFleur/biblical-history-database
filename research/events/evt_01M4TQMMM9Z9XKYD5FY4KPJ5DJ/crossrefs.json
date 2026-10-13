@@ -1,0 +1,84 @@
+{
+  "event_id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [],
+  "relationships": [
+    {
+      "id": "rel_01M4TQMMMFNY1BP7GW36WXE6QE",
+      "type": "child_event",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Consequence of Daniel's deliverance the same morning.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TQMMMFD4N0J7596NDZBPRN",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Deut.24.16"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Israelite law forbids punishing children for parents' crimes; contrasted with the Persian practice in 6:24.",
+      "provenance": {
+        "method": "operator_inference",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4TQMMMF6CCCWD3K9W1VBN94",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.4.3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Royal doxology of an everlasting kingdom, as in Nebuchadnezzar's letter (4:3, 34) and the stone kingdom (2:44).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4TQMMMAATKAZP6E585C23QE"
+  ]
+}

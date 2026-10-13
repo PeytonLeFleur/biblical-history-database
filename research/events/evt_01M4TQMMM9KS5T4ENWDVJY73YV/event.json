@@ -1,0 +1,63 @@
+{
+  "id": "evt_01M4TQMMM9KS5T4ENWDVJY73YV",
+  "slug": "daniel-in-the-lions-den",
+  "title": "The thirty-day decree and Daniel in the lions' den (Dan 6:4–23)",
+  "summary": "Rival officials obtain an unalterable decree forbidding petitions to anyone but the king for thirty days; Daniel keeps praying toward Jerusalem, is cast into a sealed lions' den, and is found unharmed at dawn.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4TQMMM9ENFMSC26D776YA77",
+    "cnd_01M4TQMMM9NG8H8VYXX4JXQE4F",
+    "cnd_01M4TQMMM9JG92M359RY72CHF0"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "legal",
+    "religious",
+    "miracle_claim"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Dan.6.4-Dan.6.23",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

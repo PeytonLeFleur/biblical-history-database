@@ -1,0 +1,275 @@
+{
+  "event_id": "evt_01M4TQMMM9RR8EM6VQKNDEKE86",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Daniel 6",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Behistun inscription Old Persian §§4–9 (Livius T 02, T 03)",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Livius section page 1–10 returned HTTP 500; T 06 covers §§12–13."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Herodotus 3.89, 3.118–119; Xenophon Cyropaedia 8.6 (Gutenberg)",
+      "engine": "local text",
+      "useful_results": 3,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Ammianus 23.6.81; Diodorus 17.30 (LacusCurtius)",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Diodorus 17C page covered 40–63; 17B used."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "archive.org: R. D. Wilson, Studies in the Book of Daniel (1917)",
+      "engine": "archive.org",
+      "useful_results": 1,
+      "notes": "OCR text read, pp. 141–144."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Wikipedia: Daniel in the lions' den; Satrap; Lion Hunt of Ashurbanipal",
+      "engine": "web fetch",
+      "useful_results": 2,
+      "notes": "Satrap article tagged as needing citations; its satrapy counts were not used."
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Bible Hub Strong's H324",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4TQMMMBY86ZQ7WH1A7JR3JH",
+      "statement": "Early Persian rule in Babylonia operated through appointed provincial governors.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "independently_corroborated",
+      "reasoning": "The Chronicle records Gubaru appointing district officers in Babylon immediately after the conquest; Xenophon, Herodotus and Darius I's own inscription describe satrapal organisation.",
+      "supporting_evidence": [
+        "evd_01M4TQMMMCHV5HDETSQ5QGYS9N",
+        "evd_01M4TQMMMCETG8A6AHN2EX8N3X",
+        "evd_01M4TQMMMC4GBQNHJBH3NDJ11F",
+        "evd_01M4TQMMMCW36CQM67YR20WZN9"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Herodotus and Behistun describe Darius I's later system."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TQMMMBQQBHPNSNADV89W7X",
+      "statement": "Darius the Mede set 120 satraps over the kingdom.",
+      "layer": "reconstruction",
+      "passage": "Dan.6.1",
+      "classification": "disputed",
+      "reasoning": "No source gives 120 satraps. The empire-wide lists have 20 (Herodotus) or 23 lands (Behistun). Wilson argues the number fits sub-governors within Babylonia under Gobryas, on the analogy of the Chronicle; critics see a projection of Darius I's reorganisation. Material disagreement, dependent on the Darius identification.",
+      "supporting_evidence": [
+        "evd_01M4TQMMMCPJT8R3PZC3YECW3X"
+      ],
+      "counterevidence": [
+        "evd_01M4TQMMMC4GBQNHJBH3NDJ11F",
+        "evd_01M4TQMMMCW36CQM67YR20WZN9"
+      ],
+      "contextual_evidence": [
+        "evd_01M4TQMMMCHV5HDETSQ5QGYS9N",
+        "evd_01M4TQMMMCMW66MQAWJ4BMWEBZ"
+      ],
+      "limitations": [
+        "Wilson (1917) predates much later scholarship; Newsom & Breed known only via Wikipedia."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TQMMMCBK9NGEP98BAFVFWB",
+      "statement": "The term rendered \"satrap\" (ʾăḥašdarpan) is an Old Persian administrative title.",
+      "layer": "evidence",
+      "passage": "Dan.6.1",
+      "classification": "independently_corroborated",
+      "reasoning": "The lexicon links the Aramaic word to Old Persian khshathra-pāvan; Herodotus uses \"satrapy\" for Persian provinces.",
+      "supporting_evidence": [
+        "evd_01M4TQMMMCMW66MQAWJ4BMWEBZ"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4TQMMMCBWWDP608G7SSZRHY",
+      "statement": "Daniel was one of three chief officials under Darius.",
+      "layer": "text",
+      "passage": "Dan.6.2",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "No source outside the Bible names Daniel.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4TQMMMCHV5HDETSQ5QGYS9N",
+      "claim_ids": [
+        "clm_01M4TQMMMBY86ZQ7WH1A7JR3JH",
+        "clm_01M4TQMMMBQQBHPNSNADV89W7X"
+      ],
+      "source_id": "src_01M4RV9NQGJ11KZF6YBXJPYBAP",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Gubaru, Cyrus's district officer, appointed district officers in Babylon.",
+      "locator": "iii 20",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "nabonidus-chronicle"
+    },
+    {
+      "id": "evd_01M4TQMMMCETG8A6AHN2EX8N3X",
+      "claim_ids": [
+        "clm_01M4TQMMMBY86ZQ7WH1A7JR3JH"
+      ],
+      "source_id": "src_01M4TQMMKWN7N51NSGCZSG9VQ3",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "From Babylon Cyrus appointed satraps over conquered peoples, naming six.",
+      "locator": "8.6.1–7",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "xenophon"
+    },
+    {
+      "id": "evd_01M4TQMMMC4GBQNHJBH3NDJ11F",
+      "claim_ids": [
+        "clm_01M4TQMMMBY86ZQ7WH1A7JR3JH",
+        "clm_01M4TQMMMBQQBHPNSNADV89W7X"
+      ],
+      "source_id": "src_01M4TQMMKS7CTR3NT9GWHMYQ0M",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Darius I established twenty satrapies with fixed tribute.",
+      "locator": "3.89",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "herodotus"
+    },
+    {
+      "id": "evd_01M4TQMMMCW36CQM67YR20WZN9",
+      "claim_ids": [
+        "clm_01M4TQMMMBY86ZQ7WH1A7JR3JH",
+        "clm_01M4TQMMMBQQBHPNSNADV89W7X"
+      ],
+      "source_id": "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Darius I lists twenty-three lands that came to him.",
+      "locator": "DB i 12–17 (§6)",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "behistun"
+    },
+    {
+      "id": "evd_01M4TQMMMCPJT8R3PZC3YECW3X",
+      "claim_ids": [
+        "clm_01M4TQMMMBQQBHPNSNADV89W7X"
+      ],
+      "source_id": "src_01M4TQMMM1WZRBE06R4N9B1SWF",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Argues 120 officials could be installed in Babylonia alone, comparing the Chronicle's appointments by Gobryas and the elastic meaning of \"satrap\".",
+      "locator": "pp. 141–144",
+      "proposed_connection_by": "other_scholar",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "wilson-1917"
+    },
+    {
+      "id": "evd_01M4TQMMMCMW66MQAWJ4BMWEBZ",
+      "claim_ids": [
+        "clm_01M4TQMMMBQQBHPNSNADV89W7X",
+        "clm_01M4TQMMMCBK9NGEP98BAFVFWB"
+      ],
+      "source_id": "src_01M4TQMMM23GMDX16EMJEGD3RJ",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "ʾăḥašdarpan, \"satraps\", corresponding to Old Persian khshathra-pāvan; also used of Nebuchadnezzar's officials in Dan 3.",
+      "locator": "H324",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "lexicon"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [
+    "doc_01M4RV9NRCTVGH19J236HH7GX8",
+    "doc_01M4TQMMM83G0TTXHK0NC6SZ8Z"
+  ],
+  "research_gaps": [
+    "Naqsh-i Rustam inscription not read.",
+    "Modern studies of Achaemenid administration of Babylonia not consulted this session."
+  ]
+}

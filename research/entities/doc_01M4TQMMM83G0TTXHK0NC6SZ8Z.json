@@ -1,0 +1,22 @@
+{
+  "kind": "document",
+  "id": "doc_01M4TQMMM83G0TTXHK0NC6SZ8Z",
+  "slug": "behistun-inscription",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [],
+  "notes": null,
+  "name": "Behistun inscription of Darius I",
+  "document_type": "Royal rock inscription (trilingual: Old Persian, Elamite, Babylonian)",
+  "language": "Old Persian / Elamite / Akkadian",
+  "standard_reference": "DB",
+  "artifact_id": null,
+  "date": {
+    "earliest": -521,
+    "latest": -518
+  },
+  "description": "Darius I's account of his accession and the revolts of his first years, with a list of 23 subject lands (§6).",
+  "editions": [
+    "src_01M4TQMMKQ9D4HAXB8GJPVY0A0"
+  ]
+}

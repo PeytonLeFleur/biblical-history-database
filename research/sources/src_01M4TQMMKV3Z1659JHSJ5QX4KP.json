@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TQMMKV3Z1659JHSJ5QX4KP",
+  "title": "Herodotus, Histories 3.118–119 (trans. G. C. Macaulay)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Herodotus",
+    "Macaulay, G. C. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2707",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2707",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Herodotus, Histories 3.118–119",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "Darius I seized Intaphrenes \"and his sons and all his kinsmen\" for execution, suspecting a plot",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

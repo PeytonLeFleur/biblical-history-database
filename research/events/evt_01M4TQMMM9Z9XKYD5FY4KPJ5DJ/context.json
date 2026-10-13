@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The king has Daniel's accusers thrown into the den with their children and wives. He then writes to all peoples that in all his dominion men should tremble before the God of Daniel, the living God whose kingdom will not be destroyed.",
+    "passage": "Dan.6.24-Dan.6.27"
+  },
+  "setting": {
+    "period": "Reign of Darius the Mede (undated)",
+    "body": "Collective punishment of families is attributed to Persian kings by Greek and Roman writers: Herodotus has Darius I arrest Intaphrenes with his sons and kinsmen, and Ammianus says Persian law put to death all the relatives of a guilty man. Deuteronomy 24:16 forbids this in Israelite law.",
+    "citations": [
+      "src_01M4TQMMKV3Z1659JHSJ5QX4KP",
+      "src_01M4TQMMKYJWE1VVT2XJYV0WDN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TPW4BH5TP7JTM6PG7F8GMR",
+      "reign_id": null,
+      "role": "King (as narrated)",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4TQMMMAATKAZP6E585C23QE",
+      "subject": "evt_01M4TQMMM9Z9XKYD5FY4KPJ5DJ",
+      "object": "evt_01M4TQMMM9KS5T4ENWDVJY73YV",
+      "relation": "days_later",
+      "textual_assertion": "Then the king arose very early in the morning … The king commanded, and they brought those men",
+      "passage": "Dan.6.19-Dan.6.24",
+      "offset": {
+        "min": 0,
+        "max": 1
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4TQMMKK6Z1CTC9CNKEXBHKJ",
+      "layer": "interpretation",
+      "paraphrase": "Guzik cites Ammianus Marcellinus on Persian collective punishment as consistent with 6:24, and reads the guilty perishing in the place of the innocent as \"the work of the cross in reverse\".",
+      "url": "https://enduringword.com/bible-commentary/daniel-6/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {
+    "competing_reconstructions": "No competing reconstruction specific to the decree was found; the historicity question is recorded on the parent event (lions' den)."
+  }
+}

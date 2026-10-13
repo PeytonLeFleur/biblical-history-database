@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4TQMMKQ9D4HAXB8GJPVY0A0",
+  "title": "Behistun inscription, Old Persian text, col. i 9–26 — Livius.org (after King & Thompson 1907)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Darius I",
+    "King, L. W. & Thompson, R. C. (trans., adapted)"
+  ],
+  "publisher": "Livius.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.livius.org/sources/content/behistun-persian-text/behistun-t-02/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Behistun inscription (DB) i 9–26, §§4–9",
+  "license": "Translation after King & Thompson 1907 (public domain), adapted by Livius; paraphrased",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-13",
+      "method": "Fetched and read pages T 02 and T 03",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-13",
+      "method": "§6: \"twenty-three lands in all\" came to Darius (Persia, Elam, Babylonia, Assyria, Arabia, Egypt … Maka); §8: \"these lands have conformed to my decrees\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Pages T 02 (i 9–17) and T 03 (i 18–26) read; the overview page returned HTTP 500.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}
