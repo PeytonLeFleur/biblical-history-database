@@ -1,0 +1,923 @@
+# Ezra's caravan from the Ahava to Jerusalem (Ezra 7:7–10; 8)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Ezra 7:7–10 (narration): Summary with dates.
+- Ezra 8:1–36 (narration): Ezra's first-person account.
+
+## Biblical account
+
+Ezra lists the family heads who went up with him (priests, a Davidide, and twelve families with 1,496 registered males). Camped three days at the river that runs to Ahava he found no Levites, and sent to Iddo at Casiphia, who supplied 38 Levites and 220 temple servants. He proclaimed a fast, being ashamed to ask for an escort; weighed out 650 talents of silver, silver vessels of 100 talents, 100 talents of gold and other vessels to twelve priests; left on 12/I; was delivered from ambushes; reached Jerusalem, rested three days, weighed the treasure, offered sacrifices for all Israel and delivered the king's orders to the satraps.
+
+## Historical setting
+
+**Period:** Spring–summer of the king's seventh year (458 BC on the Artaxerxes I reading)
+
+Yamauchi (via Guzik) estimates about 900 miles travelled along the Euphrates and south — some 500 miles direct — in four months. [1]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): The king (identification disputed) [2, 3]
+
+## Date and chronology
+
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+- **459 BC – 457 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B625DT4XFPS2V7DDAC6|cst_01M4V10B625DT4XFPS2V7DDAC6#own-convention → “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me”
+  - Latest bound from: cst_01M4VQCQM3K2NDJ5BKC9P0500Q|cst_01M4VQCQM3K2NDJ5BKC9P0500Q#own-convention
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “He came to Jerusalem in the fifth month, which was in the seventh year of the king” (Ezra 7:8) → `in_regnal_year` reign of Artaxerxes I (Longimanus); assumptions: As on the decree event: the king is taken as Artaxerxes I (disputed; see the claim on the decree event). Babylonian reckoning: year 7 began 8 April 458 (Parker & Dubberstein).
+- “Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me” (Ezra 7:27–28) → `after` Artaxerxes' decree to Ezra in his seventh year (Ezra 7)
+- “Now after these things” (Ezra 7:1) → `after` The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15)
+
+## Geography
+
+- Babylon (Origin (Babylonia); confidence: certain)
+  - Babylon (Pleiades 893951): certain [4]
+- Jerusalem (Destination; confidence: certain)
+  - Pleiades representative point: certain [5]
+
+## Competing reconstructions
+
+- **The king and the year** (See the disputed claim on the decree event (Artaxerxes I 458; after Nehemiah; Xerxes)): The journey's absolute date depends on the identity of the king. [6, 7]
+
+## Claims and evidence
+
+### Ezra's list registers 1,496 males in twelve family groups, joined by 38 Levites and 220 temple servants.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: text
+
+Summed for this unit from the WEB text (150 + 200 + 300 + 50 + 70 + 80 + 218 + 160 + 28 + 110 + 60 + 70 = 1,496), agreeing with Guzik; Levites 18 + 20 = 38; temple servants 220. No external record of the caravan exists.
+
+- *Supporting (indirect):* At least 1,496 men in the group. (on 8:3–14) [8]
+
+## Related passages and events
+
+- this event → **preceded by** → Artaxerxes' decree to Ezra in his seventh year (Ezra 7) (high): The journey carries out the king's letter.
+- this event → **thematic parallel** → The return of the exiles with Zerubbabel and Jeshua; the list of returnees (Ezra 2) (medium): Families join the descendants of those who returned with Zerubbabel (same family names: Parosh, Pahath-moab, Adin, Elam …). [8]
+- this event → **thematic parallel** → Artaxerxes sends Nehemiah to rebuild Jerusalem, Nisan of his twentieth year (Neh 2:1–8) (medium): Ezra declined an escort; Nehemiah accepted one (Neh 2:9). [8]
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik contrasts Ezra's refusal of an escort with Nehemiah's acceptance of one (Kidner) and counts at least 1,496 men. [8]
+
+## Unanswered questions and research gaps
+
+- 1 Esdras 8 numbers not compared.
+- Ahava and Casiphia are unlocated.
+- The size of the treasure (650 talents of silver, 100 of gold) is very large; no study of it was read.
+
+## Sources
+
+1. Guzik, David. Ezra 7 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-7/> — *theological commentary; verification: claim checked*
+2. Ryle, Herbert Edward. The Books of Ezra and Nehemiah, with Introduction, Notes and Maps (Cambridge Bible for Schools and Colleges). Cambridge University Press, 1893. <https://archive.org/details/booksofezranehem1893ryle> — *scholarly commentary; verification: claim checked*
+3. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+4. Pleiades contributors. Babylon — Pleiades place 893951. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/893951> — *institutional database; verification: claim checked*
+5. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+6. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+7. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.5.1–2 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+8. Guzik, David. Ezra 8 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/ezra-8/> — *theological commentary; verification: claim checked*

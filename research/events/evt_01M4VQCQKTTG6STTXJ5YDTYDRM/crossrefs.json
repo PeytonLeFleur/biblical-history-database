@@ -1,0 +1,138 @@
+{
+  "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Ahava",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.8.15",
+        "Ezra.8.21",
+        "Ezra.8.31"
+      ]
+    },
+    {
+      "name": "Casiphia",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.8.17"
+      ]
+    },
+    {
+      "name": "Ezra",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.7.1",
+        "Ezra.7.6",
+        "Ezra.7.10",
+        "Ezra.7.11",
+        "Ezra.7.12",
+        "Ezra.7.21",
+        "Ezra.7.25",
+        "Ezra.10.1",
+        "Ezra.10.2",
+        "Ezra.10.5",
+        "Ezra.10.6",
+        "Ezra.10.10",
+        "Ezra.10.16",
+        "Neh.8.1",
+        "Neh.8.2",
+        "Neh.8.4",
+        "Neh.8.5",
+        "Neh.8.6",
+        "Neh.8.9",
+        "Neh.8.13",
+        "Neh.12.1",
+        "Neh.12.13",
+        "Neh.12.26",
+        "Neh.12.33",
+        "Neh.12.36"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VQCQMA29038WTDA269VYNW",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The journey carries out the king's letter.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VQCQMAMBP8QPPBG825N0Y2",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Families join the descendants of those who returned with Zerubbabel (same family names: Parosh, Pahath-moab, Adin, Elam …).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VQCQKPQHZ3Z72MPPBX8FD0"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VQCQMAC1YP7RWDZ5GZ82K5",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Ezra declined an escort; Nehemiah accepted one (Neh 2:9).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VQCQKPQHZ3Z72MPPBX8FD0"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VQCQM3K2NDJ5BKC9P0500Q",
+    "cst_01M4VQCQM3TK134DNVKGJVBZC5",
+    "cst_01M4VQCQM30QG2FEED2ZPC38RK"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "event_id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Ezra lists the family heads who went up with him (priests, a Davidide, and twelve families with 1,496 registered males). Camped three days at the river that runs to Ahava he found no Levites, and sent to Iddo at Casiphia, who supplied 38 Levites and 220 temple servants. He proclaimed a fast, being ashamed to ask for an escort; weighed out 650 talents of silver, silver vessels of 100 talents, 100 talents of gold and other vessels to twelve priests; left on 12/I; was delivered from ambushes; reached Jerusalem, rested three days, weighed the treasure, offered sacrifices for all Israel and delivered the king's orders to the satraps.",
+    "passage": "Ezra.8.1-Ezra.8.36"
+  },
+  "setting": {
+    "period": "Spring–summer of the king's seventh year (458 BC on the Artaxerxes I reading)",
+    "body": "Yamauchi (via Guzik) estimates about 900 miles travelled along the Euphrates and south — some 500 miles direct — in four months.",
+    "citations": [
+      "src_01M4VQCQKGP64Q4YA0MWXBEV3D"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "The king (identification disputed)",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VQCQM3K2NDJ5BKC9P0500Q",
+      "subject": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "in_regnal_year",
+      "textual_assertion": "He came to Jerusalem in the fifth month, which was in the seventh year of the king",
+      "passage": "Ezra.7.8",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 7,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "As on the decree event: the king is taken as Artaxerxes I (disputed; see the claim on the decree event). Babylonian reckoning: year 7 began 8 April 458 (Parker & Dubberstein)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VQCQM3TK134DNVKGJVBZC5",
+      "subject": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+      "object": "evt_01M4V10B5RYFVXPCH4BAVN77BK",
+      "relation": "after",
+      "textual_assertion": "Blessed be the LORD … who has put such a thing as this in the king's heart … I gathered together chief men of Israel to go up with me",
+      "passage": "Ezra.7.27-Ezra.7.28",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VQCQM30QG2FEED2ZPC38RK",
+      "subject": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+      "object": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+      "relation": "after",
+      "textual_assertion": "Now after these things",
+      "passage": "Ezra.7.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RSRHM8THAYVNHJ7ASZQZM9",
+      "role": "Origin (Babylonia)",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Destination",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Ahava; Casiphia",
+      "gloss": "A river or canal and a place in Babylonia; neither has been located in the sources read.",
+      "citations": [
+        "src_01M4VQCQKPQHZ3Z72MPPBX8FD0"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "The king and the year",
+      "proponents": [
+        "See the disputed claim on the decree event (Artaxerxes I 458; after Nehemiah; Xerxes)"
+      ],
+      "summary": "The journey's absolute date depends on the identity of the king.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+        "src_01M4VQCQKTDW45D3X7VGAXT4HB"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VQCQKPQHZ3Z72MPPBX8FD0",
+      "layer": "interpretation",
+      "paraphrase": "Guzik contrasts Ezra's refusal of an escort with Nehemiah's acceptance of one (Kidner) and counts at least 1,496 men.",
+      "url": "https://enduringword.com/bible-commentary/ezra-8/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Ahava and Casiphia are unlocated.",
+    "The size of the treasure (650 talents of silver, 100 of gold) is very large; no study of it was read."
+  ],
+  "not_applicable": {}
+}

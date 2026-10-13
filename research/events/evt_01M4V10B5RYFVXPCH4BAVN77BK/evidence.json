@@ -16,6 +16,13 @@
       "engine": "local text",
       "useful_results": 1,
       "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Ezra 7–8 unit: Batten pp. 46–48; Ryle and Keil introductions; Josephus Ant. 11.5.1–2; Enduring Word Ezra 7",
+      "engine": "local text",
+      "useful_results": 4,
+      "notes": null
     }
   ],
   "domains": {
@@ -65,6 +72,30 @@
       "reviewer_status": "machine_proposed",
       "review_required": false,
       "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VQCQKXYQFEDJP4ZKP65C5C",
+      "statement": "The \"Artaxerxes\" of Ezra 7 is Artaxerxes I, so that Ezra came to Jerusalem in 458 BC, before Nehemiah.",
+      "layer": "reconstruction",
+      "passage": "Ezra.7.7-Ezra.7.8",
+      "classification": "disputed",
+      "reasoning": "Keil, Ryle and Yamauchi (via Guzik) take the king as Artaxerxes I and date the journey to 458. Batten places Ezra after Nehemiah, in the early fourth century (under Artaxerxes II), regarding the \"seventh year\" as the Chronicler's unreliable dating, though he declines Kosters's precise 398. Josephus names Xerxes (seventh year, c. 479/478). The chronology on this record encodes the Artaxerxes I reading (constraint assumption); the alternatives are not modelled.",
+      "supporting_evidence": [
+        "evd_01M4VQCQKXTA67J9A4127MS5W2",
+        "evd_01M4VQCQKX463GVSHJAW7M6X2J",
+        "evd_01M4VQCQKXKN3TYEG8Q7YC20X8"
+      ],
+      "counterevidence": [
+        "evd_01M4VQCQKXBNPJVG9RZABA5PFY",
+        "evd_01M4VQCQKX9SJ3ME58ZT5SX08K"
+      ],
+      "contextual_evidence": [],
+      "limitations": [
+        "The Elephantine papyri and modern discussions of the Ezra–Nehemiah order (after 1913) were not read in this unit."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
     }
   ],
   "evidence": [
@@ -99,6 +130,86 @@
       "criticism": [],
       "limitations": [],
       "independent_line": "newton"
+    },
+    {
+      "id": "evd_01M4VQCQKXTA67J9A4127MS5W2",
+      "claim_ids": [
+        "clm_01M4VQCQKXYQFEDJP4ZKP65C5C"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Artaxerxes (Longimanus) and 458 B.C.",
+      "locator": "Introduction",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VQCQKX463GVSHJAW7M6X2J",
+      "claim_ids": [
+        "clm_01M4VQCQKXYQFEDJP4ZKP65C5C"
+      ],
+      "source_id": "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "\"In the 7th year of Artaxerxes (458 B.C.)\" — the mission of Ezra.",
+      "locator": "Introduction",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "ryle-1893"
+    },
+    {
+      "id": "evd_01M4VQCQKXKN3TYEG8Q7YC20X8",
+      "claim_ids": [
+        "clm_01M4VQCQKXYQFEDJP4ZKP65C5C"
+      ],
+      "source_id": "src_01M4VQCQKGP64Q4YA0MWXBEV3D",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The traditional view, Artaxerxes I, puts Ezra's arrival in 458 (457).",
+      "locator": "on 7:1 (Yamauchi)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "yamauchi-via-guzik"
+    },
+    {
+      "id": "evd_01M4VQCQKXBNPJVG9RZABA5PFY",
+      "claim_ids": [
+        "clm_01M4VQCQKXYQFEDJP4ZKP65C5C"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Ezra came after Nehemiah, probably in the first quarter of the fourth century; \"the 7th year\" is untrustworthy; 398 (Kosters) not adopted.",
+      "locator": "pp. 46–48",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    },
+    {
+      "id": "evd_01M4VQCQKX9SJ3ME58ZT5SX08K",
+      "claim_ids": [
+        "clm_01M4VQCQKXYQFEDJP4ZKP65C5C"
+      ],
+      "source_id": "src_01M4VQCQKTDW45D3X7VGAXT4HB",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "Ezra went up in the seventh year of Xerxes.",
+      "locator": "Ant. 11.5.1–2",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
     }
   ],
   "artifacts": [],

@@ -1,0 +1,70 @@
+{
+  "id": "evt_01M4VQCQKTTG6STTXJ5YDTYDRM",
+  "slug": "ezras-journey-from-ahava-to-jerusalem",
+  "title": "Ezra's caravan from the Ahava to Jerusalem (Ezra 7:7–10; 8)",
+  "summary": "Ezra gathered about 1,500 men with their families at the river Ahava, recruited 38 Levites and 220 temple servants from Casiphia, fasted for a safe journey without a royal escort, entrusted the treasure to twelve priests, left on 12/I and reached Jerusalem on 1/V of the king's seventh year.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VQCQKT5ZCXGW96WQXYY02S",
+    "cnd_01M4VQCQKTG0QTNM4EDC4V6BHZ",
+    "cnd_01M4VQCQKTZM8AR220K8AEA098",
+    "cnd_01M4VQCQKTK7A3E01FF5SS223G",
+    "cnd_01M4VQCQKT8E5FF6MHDMXV81VY",
+    "cnd_01M4VQCQKT8CVZP91H9BFW77VW"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "migration",
+    "religious"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Ezra.7.7-Ezra.7.10",
+      "mention_type": "narration",
+      "notes": "Summary with dates."
+    },
+    {
+      "passage": "Ezra.8.1-Ezra.8.36",
+      "mention_type": "narration",
+      "notes": "Ezra's first-person account."
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

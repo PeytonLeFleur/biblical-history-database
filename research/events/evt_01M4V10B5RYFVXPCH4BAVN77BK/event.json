@@ -4,7 +4,11 @@
   "title": "Artaxerxes' decree to Ezra in his seventh year (Ezra 7)",
   "summary": "Artaxerxes commissions Ezra the scribe to go up to Jerusalem with any Israelites who wish, with gifts for the Temple and authority to appoint judges under the law of God; Ezra leaves Babylon on 1 Nisan and arrives on 1 Ab of the king's seventh year.",
   "is_fixture": false,
-  "candidate_ids": [],
+  "candidate_ids": [
+    "cnd_01M4VQCQKTT4SFXY9F4AC7NRWX",
+    "cnd_01M4VQCQKTX6BHXWZ47EFSTJBJ",
+    "cnd_01M4VQCQKTQHYDR5A6T49CRAT0"
+  ],
   "external_reason": "Candidate starting point for Dan 9:25 (Newton; Miller; Guzik lists it, 458 BC).",
   "is_period": false,
   "literary_classification": "historical_narrative",
@@ -14,21 +18,26 @@
     "religious"
   ],
   "priority": "high",
-  "research_status": "publishable",
+  "research_status": "needs_review",
   "publication_level": "researched",
   "parent_event_id": null,
   "mentions": [
     {
-      "passage": "Ezra.7.1-Ezra.7.26",
+      "passage": "Ezra.7.1-Ezra.7.6",
       "mention_type": "narration",
-      "notes": null
+      "notes": "Ezra and the king's grant."
+    },
+    {
+      "passage": "Ezra.7.11-Ezra.7.28",
+      "mention_type": "narration",
+      "notes": "The Aramaic letter and Ezra's blessing."
     }
   ],
   "stages": {
     "scripture_extraction": {
-      "status": "not_applicable",
+      "status": "complete",
       "updated": "2026-10-13",
-      "reason": "External to Daniel: researched as a candidate starting point of Dan 9:25; Ezra is not yet extracted chapter by chapter."
+      "reason": null
     },
     "historical_reconstruction": {
       "status": "complete",
@@ -51,7 +60,7 @@
       "reason": null
     }
   },
-  "revision": 1,
+  "revision": 2,
   "created_at": "2026-10-13",
   "updated_at": "2026-10-13",
   "last_reviewed_at": null
