@@ -17,6 +17,36 @@ function collectIds(v: unknown, out: Set<string>) {
   else if (v && typeof v === 'object') Object.values(v).forEach((x) => collectIds(x, out));
 }
 
+/**
+ * Chronology export, format 2: `models[model][i].interval_refs` index into a shared, de-duplicated `intervals` table.
+ * Readers expand it back to `{ ...result, intervals }` (apps/web/src/lib/data.ts).
+ */
+export interface CompactChronology {
+  format: 2;
+  models: Record<string, Array<Record<string, unknown> & { interval_refs: number[] }>>;
+  intervals: unknown[];
+}
+
+export function compactChronology(chronology: Record<string, Array<{ intervals: unknown[] } & Record<string, unknown>>>): CompactChronology {
+  const intervals: unknown[] = [];
+  const index = new Map<string, number>();
+  const intern = (iv: unknown) => {
+    const key = JSON.stringify(iv);
+    let i = index.get(key);
+    if (i === undefined) { i = intervals.length; intervals.push(iv); index.set(key, i); }
+    return i;
+  };
+  const models: CompactChronology['models'] = {};
+  for (const [m, results] of Object.entries(chronology)) {
+    models[m] = results.map(({ intervals: ivs, ...rest }) => ({ ...rest, interval_refs: ivs.map(intern) }));
+  }
+  return { format: 2, models, intervals };
+}
+
+export function expandChronology(c: CompactChronology): Record<string, Array<Record<string, unknown> & { intervals: unknown[] }>> {
+  return Object.fromEntries(Object.entries(c.models).map(([m, rs]) => [m, rs.map(({ interval_refs, ...r }) => ({ ...r, intervals: interval_refs.map((i) => c.intervals[i]) }))]));
+}
+
 export interface ExportSummary {
   outDir: string;
   events: number;
@@ -71,7 +101,7 @@ export function exportPublic(store: ResearchStore, outDir = store.path('data/exp
   write('sources.json', sourceRecords.filter((r) => keptIds.has(r.id)).map((r) => r.s));
   write('entities.json', entityRecords.filter((r) => keptIds.has(r.id)).map((r) => r.e));
   write('coverage.json', coverage);
-  const chronology: Record<string, unknown> = {};
+  const chronology: Record<string, Array<{ intervals: unknown[] } & Record<string, unknown>>> = {};
   const resolve = derivationResolver(store);
   // Only published (kept) subjects are exported; derivation steps may still name the records they depend on.
   for (const [m, results] of solveAllModels(store)) {
@@ -80,7 +110,8 @@ export function exportPublic(store: ResearchStore, outDir = store.path('data/exp
       intervals: r.intervals.filter((i) => keptIds.has(i.subject)),
     }));
   }
-  write('chronology.json', chronology);
+  // Compact form (format 2): identical intervals recur across models and reckoning combinations, so they are stored once.
+  writeFileSync(join(outDir, 'chronology.json'), JSON.stringify(compactChronology(chronology)) + '\n');
   // Rule 01 extraction files: verse coverage + candidates (labelled on the site as extraction-only).
   write('extraction.json', CANON.flatMap((b) => store.chapters(b.slug).map((c) => ({ ...c, slug: b.slug }))));
   // Public, read-only review summary. Decision rationale and reviewer notes are not exported.
