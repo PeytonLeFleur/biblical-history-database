@@ -21,6 +21,8 @@ import {
   decide,
   detectDuplicateEvents,
   exportPublic,
+  compactChronology,
+  expandChronology,
   findEntityMatches,
   longQuotes,
   prepareChapter,
@@ -197,6 +199,19 @@ describe('five-stage pipeline (fixture)', () => {
     expect(s.excludedEvents).toEqual([id]);
     expect(JSON.parse(readFileSync(join(root, 'exports/events.json'), 'utf8'))).toEqual([]);
     expect(JSON.parse(readFileSync(join(root, 'exports/sources.json'), 'utf8'))).toEqual([]);
+  });
+
+  it('compacts the chronology export by de-duplicating intervals and expands it losslessly', () => {
+    const iv = (subject: string, y: number) => ({ subject, years: { earliest: y, latest: y }, derivation: { earliest: [], latest: [] } });
+    const full = {
+      model_independent: [{ choice: { g: 'a' }, feasible: true, intervals: [iv('evt_A', -600), iv('evt_B', -500)] }, { choice: { g: 'b' }, feasible: true, intervals: [iv('evt_A', -600), iv('evt_B', -499)] }],
+      chr_X: [{ choice: {}, feasible: false, intervals: [iv('evt_A', -600)] }],
+    };
+    const c = compactChronology(full);
+    expect(c.format).toBe(2);
+    expect(c.intervals).toHaveLength(3); // evt_A at -600 is stored once for all three results
+    expect(c.models.model_independent![1]!.interval_refs).toEqual([0, 2]);
+    expect(expandChronology(JSON.parse(JSON.stringify(c)))).toEqual(full);
   });
 
   it('downgrades to preliminary when important claims rest on unchecked sources', () => {

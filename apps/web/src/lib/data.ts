@@ -63,6 +63,19 @@ export interface SolveExport {
   intervals: IntervalExport[];
 }
 
+/** chronology.json is written in a compact form (format 2): intervals are de-duplicated across models and reckoning combinations. */
+export interface CompactChronology {
+  format: 2;
+  models: Record<string, Array<Omit<SolveExport, 'intervals'> & { interval_refs: number[] }>>;
+  intervals: IntervalExport[];
+}
+
+/** Expand the compact export to one array of results per model; identical intervals stay shared objects. */
+export function expandChronology(c: CompactChronology): Record<string, SolveExport[]> {
+  if (c.format !== 2) throw new Error('Unsupported chronology export format; re-run pnpm research:export.');
+  return Object.fromEntries(Object.entries(c.models).map(([m, rs]) => [m, rs.map(({ interval_refs, ...r }) => ({ ...r, intervals: interval_refs.map((i) => c.intervals[i]!) }))]));
+}
+
 export interface CoverageRow {
   osis: string;
   name: string;
@@ -94,7 +107,7 @@ function load() {
   const sources = readJson<SourceFile[]>('data/exports/sources.json');
   const entities = readJson<Entity[]>('data/exports/entities.json');
   const coverage = readJson<CoverageRow[]>('data/exports/coverage.json');
-  const chronology = readJson<Record<string, SolveExport[]>>('data/exports/chronology.json');
+  const chronology = expandChronology(readJson<CompactChronology>('data/exports/chronology.json'));
   const extraction = readJson<ExtractionExport[]>('data/exports/extraction.json');
   const reviews = readJson<ReviewSummary[]>('data/exports/reviews.json');
   return { events, sources, entities, coverage, chronology, extraction, reviews };
