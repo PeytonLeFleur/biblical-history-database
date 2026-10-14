@@ -1,0 +1,931 @@
+# The wall completed on 25 Elul after fifty-two days (Neh 6:15–19)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 6:15–19 (narration)
+
+## Biblical account
+
+The wall was finished on the twenty-fifth of Elul, in fifty-two days; when the enemies and surrounding nations heard, they were disheartened, perceiving that the work was of God. Nobles of Judah sent many letters to Tobiah, to whom they were bound by oath, since he was son-in-law of Shecaniah and his son married Meshullam's daughter.
+
+## Historical setting
+
+**Period:** 2 October 445 BC (on Parker & Dubberstein's table)
+
+Elul of Artaxerxes's twentieth year began on 8 September 445; the twenty-fifth was 2 October; fifty-two days earlier is about 12 August (Keil: 3 Ab). [1, 2]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → “Nisan (2:1) … Elul (6:15)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “So the wall was finished in the twenty-fifth day of Elul, in fifty-two days” (Nehemiah 6:15) → `in_regnal_year` reign of Artaxerxes I (Longimanus); assumptions: The year is not stated; the twentieth year of 2:1 is meant (Keil). On Parker & Dubberstein's table Elul of year 20 began 8 September 445, so 25 Elul = 2 October 445 and the 52 days began about 12 August (Keil: 3 Ab). [1, 2]
+- “So the wall was finished” (Nehemiah 6:15) → `after` The rebuilding of Jerusalem's wall and gates, section by section (Neh 3)
+- “Nisan (2:1) … Elul (6:15)” (Nehemiah 6:15) → `months_later` Artaxerxes sends Nehemiah to rebuild Jerusalem, Nisan of his twentieth year (Neh 2:1–8); assumptions: Nisan to 25 Elul of the same year is under six months.
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Competing reconstructions
+
+- **Fifty-two days** (Neh 6:15 (MT), C. F. Keil (1873), with Bertheau): Possible because much was repair of existing lines with a large workforce. [2]
+- **Two years and four months** (Josephus, Ant. 11.5.8, H. Ewald (as reported by Keil), emending Neh 6:15): Josephus also dates the work to Xerxes's 25th–28th years, which Keil calls untrustworthy. [4, 2]
+
+## Claims and evidence
+
+### The wall was finished on 25 Elul of Artaxerxes I's twentieth year, 2 October 445 BC.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+The year is implied by 2:1 (Keil); Parker and Dubberstein's table gives Elul of year 20 beginning 8 September 445, so the 25th was 2 October. Depends on the fifty-two days and on Babylonian month reckoning.
+
+- *Supporting (direct):* Elul (month VI) began 8 September 445. (Artaxerxes I year 20 row) [1]
+- *Supporting (indirect):* The year intended is the twentieth of 2:1; begun on 3 Ab. (on 6:15) [2]
+
+### The wall was rebuilt in fifty-two days (Neh 6:15), not over two years and four months (Josephus).
+
+**Classification:** Disputed (requires review) · layer: text
+
+The Masoretic text has fifty-two days; Keil (with Bertheau) defends it, noting that the work was largely repair and well staffed. Ewald emended the text from Josephus's two years and four months (as reported by Keil), though Josephus's other Nehemiah dates (Xerxes 25th–28th years) are unreliable. Batten notes that much may have been rebuilt before Nehemiah (Ezra 4). No external evidence decides it.
+
+- *Supporting (indirect):* No reasonable ground for doubting fifty-two days; Ewald's emendation rejected. (on 6:15) [2]
+- *Challenging (direct):* The wall took two years and four months, finished in Xerxes's twenty-eighth year. (Ant. 11.5.8) [4]
+- *Context (indirect):* Much of the work may have been done before Nehemiah; fifty-two days left little to build. (Introduction) [5]
+
+## Related passages and events
+
+- this event → **preceded by** → The rebuilding of Jerusalem's wall and gates, section by section (Neh 3) (high): Completion of the work begun in Neh 3.
+- this event → **preceded by** → Artaxerxes sends Nehemiah to rebuild Jerusalem, Nisan of his twentieth year (Neh 2:1–8) (high): Within six months of the commission of Nisan.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik contrasts four months of prayer with fifty-two days of work. [6]
+
+## Unanswered questions and research gaps
+
+- Archaeology of the gates and doors not researched.
+
+## Disputes
+
+- The wall was rebuilt in fifty-two days (Neh 6:15), not over two years and four months (Josephus).
+
+## Sources
+
+1. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+2. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.5.6–8 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+5. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+6. Guzik, David. Nehemiah 6 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-6/> — *theological commentary; verification: claim checked*

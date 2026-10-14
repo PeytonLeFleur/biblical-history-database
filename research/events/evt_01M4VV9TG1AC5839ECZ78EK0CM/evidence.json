@@ -1,0 +1,83 @@
+{
+  "event_id": "evt_01M4VV9TG1AC5839ECZ78EK0CM",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 5",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VV9TG4Z6SDSMZN31T538BM",
+      "statement": "Judeans under Nehemiah were pledging land and children to pay Persian tax and debts.",
+      "layer": "evidence",
+      "passage": "Neh.5.4-Neh.5.5",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Known from Nehemiah's memoir only; no external document on Judah's debt crisis was read.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VV9TG4AZB4WJP7T5E3M4DA"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VV9TG4AZB4WJP7T5E3M4DA",
+      "claim_ids": [
+        "clm_01M4VV9TG4Z6SDSMZN31T538BM"
+      ],
+      "source_id": "src_01M4VV9TFVZBE0NYFPEZTH5ES3",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The king's tax, mortgages and debt slavery.",
+      "locator": "on 5:4–5",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Persian tax administration in Yehud not researched."
+  ]
+}

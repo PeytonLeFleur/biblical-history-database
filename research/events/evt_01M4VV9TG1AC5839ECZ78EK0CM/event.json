@@ -1,0 +1,61 @@
+{
+  "id": "evt_01M4VV9TG1AC5839ECZ78EK0CM",
+  "slug": "debt-crisis-and-remission-neh-5",
+  "title": "The debt crisis and the remission of pledges (Neh 5:1–13)",
+  "summary": "During the building, the poor protested that famine, the king's tax and interest had forced them to pledge land and sell children; Nehemiah made the nobles and officials swear to return the pledges and stop exacting interest.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "economic",
+    "social",
+    "legal"
+  ],
+  "priority": "medium",
+  "research_status": "publishable",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Neh.5.1-Neh.5.13",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-14",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

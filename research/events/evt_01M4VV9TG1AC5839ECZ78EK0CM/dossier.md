@@ -1,0 +1,910 @@
+# The debt crisis and the remission of pledges (Neh 5:1–13)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 5:1–13 (narration)
+
+## Biblical account
+
+There was a great outcry: some needed grain for large families, some had mortgaged fields, vineyards and houses because of famine, others had borrowed for the king's tax and were selling sons and daughters into bondage. Nehemiah, angry, rebuked the nobles and officials for exacting interest from their brothers, called an assembly, and made them swear to restore the fields, vineyards, olive groves and houses and the hundredth part of money, grain, wine and oil; he shook out his garment as a curse on any who broke the oath.
+
+## Historical setting
+
+**Period:** During or after the building (445 BC or later)
+
+The "king's tax" points to Persian tribute; Guzik reads "the hundredth part" as interest of 1% a month (12% a year). [1]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → cst_01M4VT5TNMEZBS920NPVAY80MH → “Then there arose a great cry of the people”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “the king's tribute”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Then there arose a great cry of the people” (Nehemiah 5:1) → `after` The rebuilding of Jerusalem's wall and gates, section by section (Neh 3); assumptions: Narrated during the building; the episode may be placed here thematically.
+- “the king's tribute” (Nehemiah 5:4) → `within_reign` reign of Artaxerxes I (Longimanus)
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Competing reconstructions
+
+- **During the 52 days, or later in Nehemiah's governorship** (Narrative placement (Neh 5:1, 16), Later placement implied by 5:14 (retrospect over twelve years)): The chapter interrupts the building narrative; 5:14–19 looks back over twelve years. [1]
+
+## Claims and evidence
+
+### Judeans under Nehemiah were pledging land and children to pay Persian tax and debts.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known from Nehemiah's memoir only; no external document on Judah's debt crisis was read.
+
+- *Context (indirect):* The king's tax, mortgages and debt slavery. (on 5:4–5) [1]
+
+## Related passages and events
+
+- this event → **thematic parallel** → The rebuilding of Jerusalem's wall and gates, section by section (Neh 3) (high): The outcry arose during the building.
+- this event → **thematic parallel** → Leviticus 25:35–43 (high): No interest from a poor brother; no slavery of brothers.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that the work stopped through strife among the people and that Nehemiah demanded immediate restitution. [1]
+
+## Unanswered questions and research gaps
+
+- Persian tax administration in Yehud not researched.
+
+## Sources
+
+1. Guzik, David. Nehemiah 5 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-5/> — *theological commentary; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*

@@ -1,0 +1,235 @@
+{
+  "book": "Neh",
+  "chapter": 5,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.5.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1679N6ZCE8NSJSGSY"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1PQHDPD66GN2X68CS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1PQHDPD66GN2X68CS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1PQHDPD66GN2X68CS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1PQHDPD66GN2X68CS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1PQHDPD66GN2X68CS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.5.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1PQHDPD66GN2X68CS"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VV9TG1679N6ZCE8NSJSGSY",
+      "title": "The outcry of the poor; Nehemiah's assembly; debts and pledges remitted",
+      "passage": "Neh.5.1-Neh.5.13",
+      "description": "Families pledged fields, vineyards and houses for grain and the king's tax and sold children into bondage; Nehemiah rebuked the nobles for exacting interest, made them swear to restore fields and the hundredth part, and shook out his garment against any who broke the oath.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "economic",
+        "social",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "I (Nehemiah)",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Exod.22.25",
+        "Lev.25.35-Lev.25.43",
+        "Deut.15.1-Deut.15.11"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VV9TG1AC5839ECZ78EK0CM"
+    },
+    {
+      "id": "cnd_01M4VV9TG1PQHDPD66GN2X68CS",
+      "title": "Nehemiah's twelve years as governor (20th–32nd year of Artaxerxes) without the governor's allowance",
+      "passage": "Neh.5.14-Neh.5.19",
+      "description": "From the twentieth to the thirty-second year of Artaxerxes Nehemiah and his brothers did not eat the governor's food, unlike earlier governors; he fed 150 Jews and officials daily; \"remember me for good\".",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "economic"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Artaxerxes the king",
+          "matched_entity_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Neh.5.14",
+          "phrase": "from the twentieth year even to the thirty-second year of Artaxerxes the king, that is, twelve years",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "Neh.13.6"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"The former governors\" before Nehemiah are unnamed."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VV9TG1KKWHTSE0H187T9M5"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-5-6.md"
+}

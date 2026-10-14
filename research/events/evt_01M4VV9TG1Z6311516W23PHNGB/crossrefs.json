@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_01M4VV9TG1Z6311516W23PHNGB",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Elul",
+      "books_searched": 66,
+      "hits": [
+        "Neh.6.15"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VV9TGPA2V0MW6Y4RCQ8X8B",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1Z6311516W23PHNGB"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Completion of the work begun in Neh 3.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VV9TGPHF6ZAP7D9DH5Y1N0",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1Z6311516W23PHNGB"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Within six months of the commission of Nisan.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VV9TG2R0M9PG1A0PEGHX6G",
+    "cst_01M4VV9TG29F8PZPEX9PBBX34J",
+    "cst_01M4VV9TG3CCFP6G5FCRBB70QJ"
+  ]
+}

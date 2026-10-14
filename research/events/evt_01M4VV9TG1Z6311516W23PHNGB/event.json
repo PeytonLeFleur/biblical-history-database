@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4VV9TG1Z6311516W23PHNGB",
+  "slug": "the-wall-completed-25-elul-neh-6",
+  "title": "The wall completed on 25 Elul after fifty-two days (Neh 6:15–19)",
+  "summary": "The wall of Jerusalem was finished on the twenty-fifth of Elul, in fifty-two days; the surrounding nations were disheartened; Tobiah kept up a correspondence with nobles of Judah related to him by marriage.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VV9TG1G2J83XNVN68BSKVN"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "construction",
+    "political"
+  ],
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Neh.6.15-Neh.6.19",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-14",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

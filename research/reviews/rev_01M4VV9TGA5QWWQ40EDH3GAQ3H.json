@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VV9TGA5QWWQ40EDH3GAQ3H",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VV9TG5099KP0WS89D644WP",
+  "record_revision": 1,
+  "reason": "Disputed: was the wall rebuilt in fifty-two days (Neh 6:15) or two years and four months (Josephus; Ewald)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T23:59:25.706Z",
+  "decisions": [],
+  "is_fixture": false
+}
