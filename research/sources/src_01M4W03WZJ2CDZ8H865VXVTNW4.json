@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4W03WZJ2CDZ8H865VXVTNW4",
+  "title": "Arrian, Anabasis of Alexander 2.11–2.27 (trans. E. J. Chinnock, 1884)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Arrian",
+    "Chinnock, E. J. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #46976",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/46976",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Arrian, Anabasis 2.11–2.27",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-14",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-14",
+      "method": "After Issus, Parmenio seized the Persian treasure at Damascus; Tyre was captured \"in the month Hecatombaion, when Anicetus was archon at Athens\" (translator: late July–early August 332); the rest of Palestine Syria yielded except Gaza under Batis, which was stormed, its men killed and women and children enslaved; from Gaza to Pelusium in seven days",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

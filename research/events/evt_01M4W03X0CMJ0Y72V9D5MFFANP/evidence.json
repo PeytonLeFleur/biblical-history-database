@@ -1,0 +1,198 @@
+{
+  "event_id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Zechariah 9–11",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1868 introduction and on Zech 9–11 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Mitchell 1912 introduction and on Zech 9–11 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Arrian Anabasis book 2 (Gutenberg, local)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.8 (Gutenberg, local)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Not pursued for an oracle collection."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W03X0FZNH02X0ZKYV1JBRW",
+      "statement": "Zechariah 9–11 was composed by Zechariah son of Iddo after 518 BC.",
+      "layer": "reconstruction",
+      "passage": "Zech.9.1",
+      "classification": "disputed",
+      "reasoning": "Keil defends Zechariah's authorship from the post-exilic setting and tradition. Mitchell assigns 9:1–10 to 333 BC (Tyre not yet taken; 9:8 reflecting Alexander's sparing of Jerusalem), 9:11–11:3 to the early Ptolemies and 11:4–17 to a later author; older critics (answered by Keil) proposed pre-exilic dates. No external evidence decides it.",
+      "supporting_evidence": [
+        "evd_01M4W03X0GW8GP895V055726C0"
+      ],
+      "counterevidence": [
+        "evd_01M4W03X0GN7TTPREDCQWDMQY1"
+      ],
+      "contextual_evidence": [
+        "evd_01M4W03X0GD4F7AS2PN5C6MK3Q"
+      ],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4W03X0FW8CHR8D7F6ZPSQMR",
+      "statement": "Alexander's army took Damascus (333), Tyre (summer 332, after a long siege) and Gaza (332) — the cities named in Zech 9:1–7.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "strongly_supported",
+      "reasoning": "Arrian (read directly) records Parmenio's seizure of Damascus, the capture of Tyre in Hecatombaion under the archon Anicetus, and the storming of Gaza; Josephus (read directly) independently gives seven months for the siege of Tyre and two for Gaza. Whether Zech 9 refers to these events is an interpretation, recorded on the prophecy.",
+      "supporting_evidence": [
+        "evd_01M4W03X0G1VJREM73ZR52535B",
+        "evd_01M4W03X0G300MN7G74MAEPW0Y"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W03X0GW8GP895V055726C0",
+      "claim_ids": [
+        "clm_01M4W03X0FZNH02X0ZKYV1JBRW"
+      ],
+      "source_id": "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Chs. 9–14 are Zechariah's last two oracles, later than ch. 7.",
+      "locator": "Introduction to Zechariah",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1868"
+    },
+    {
+      "id": "evd_01M4W03X0GN7TTPREDCQWDMQY1",
+      "claim_ids": [
+        "clm_01M4W03X0FZNH02X0ZKYV1JBRW"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "9:1–10 written in 333; the rest in the Ptolemaic period by different authors.",
+      "locator": "Introduction, \"The authorship of chapters ix–xiv\"",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "mitchell-1912"
+    },
+    {
+      "id": "evd_01M4W03X0GD4F7AS2PN5C6MK3Q",
+      "claim_ids": [
+        "clm_01M4W03X0FZNH02X0ZKYV1JBRW"
+      ],
+      "source_id": "src_01M4W03WZ1N348KMK0ZG2NMV2Z",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Many place chs. 9–14 in Zechariah's old age.",
+      "locator": "on 9:1",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4W03X0G1VJREM73ZR52535B",
+      "claim_ids": [
+        "clm_01M4W03X0FW8CHR8D7F6ZPSQMR"
+      ],
+      "source_id": "src_01M4W03WZJ2CDZ8H865VXVTNW4",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Damascus seized; Tyre captured in Hecatombaion (332); Gaza stormed.",
+      "locator": "Anabasis 2.11, 2.24, 2.25–27",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "arrian"
+    },
+    {
+      "id": "evd_01M4W03X0G300MN7G74MAEPW0Y",
+      "claim_ids": [
+        "clm_01M4W03X0FW8CHR8D7F6ZPSQMR"
+      ],
+      "source_id": "src_01M4VYR288G6J6YKJQG5NQMMTN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Seven months' siege of Tyre, two months of Gaza.",
+      "locator": "Ant. 11.8.3–4",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Modern studies of Deutero-Zechariah (after Mitchell) not read.",
+    "Curtius and Diodorus on Alexander's Levantine campaign not read."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W03WZJVFF3XSPCCWWMR3PP",
+  "slug": "the-shepherd-allegory-and-the-thirty-pieces-of-silver-zech-11",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W03WZDK3ST22K5V5H32T0S"
+  ],
+  "notes": null,
+  "title": "The shepherd allegory: the staffs Favour and Union; thirty pieces of silver thrown to the potter; the worthless shepherd (Zech 11:4–17)",
+  "passage": "Zech.11.4-Zech.11.17",
+  "speaker": "The LORD to the prophet (a sign-act)",
+  "vision_id": null,
+  "description": "The prophet shepherds the flock doomed to slaughter with two staffs, Favour and Union; he removes three shepherds in one month, breaks Favour, asks for his wages and is paid thirty pieces of silver, which the LORD tells him to throw \"to the potter\" in the house of the LORD; he breaks Union, severing Judah and Israel; then he takes the gear of a foolish shepherd, and woe is pronounced on the worthless shepherd.",
+  "in_text_interpretation": "\"The handsome price at which they valued me\" — the LORD speaks of the wage as his own valuation.",
+  "interpretations": [
+    {
+      "id": "ful_01M4W03X06MCFSYA2WH3WWPBFC",
+      "label": "Fulfilled in the betrayal of Jesus for thirty pieces of silver and the purchase of the potter's field",
+      "approach": "mixed",
+      "framework": "Traditional Christian (New Testament citation)",
+      "proponents": [
+        "Matt 26:15; 27:3–10 (text)",
+        "C. F. Keil (1868)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the shepherd's wages, called the LORD's own valuation, are the price for which the Messiah was sold; the money thrown in the temple and used for the potter's field. Keil treats Matthew's \"Jeremiah\" as pointing to Jer 18–19 (with Hengstenberg and Kliefoth). Objection: Mitchell sees no strict fulfilment and calls the attribution to Jeremiah a plain misattribution, as Mark 1:2 cites Malachi as Isaiah.",
+      "referents": [
+        {
+          "symbol": "The shepherd valued at thirty pieces",
+          "referent": "Jesus"
+        },
+        {
+          "symbol": "The potter",
+          "referent": "The potter's field bought with Judas's money"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W03WZDK3ST22K5V5H32T0S"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W03X06TE8RE1DNP97BAQ0A",
+      "label": "A parable of the Greek period: Ptolemy III as shepherd, the Tobiad tax-farmers as traders",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Textual reasoning: a different author from 9:1–11:3 (prose, first person, changed vocabulary); the shepherd is the king of Egypt \"appraised\" at a slave's price by Syria's tax-gatherers; breaking Union is the Tobiad civil strife. The text of 11:13 should read \"treasury\" for \"potter\". Matthew's use recalls the words rather than fulfilling them.",
+      "referents": [
+        {
+          "symbol": "The shepherd",
+          "referent": "Ptolemy III Euergetes"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

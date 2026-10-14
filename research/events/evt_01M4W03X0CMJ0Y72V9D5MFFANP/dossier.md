@@ -1,0 +1,944 @@
+# The first "burden" of Zechariah 9–11 (undated oracle collection)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Zechariah 9:1–11:17 (narration): The delivery of the oracle collection.
+
+## Biblical account
+
+Chapter 9 announces the LORD's word against Hadrach, Damascus, Hamath, Tyre, Sidon and the Philistine cities, his protection of his house, the coming of Zion's lowly king on a donkey, the freeing of prisoners and the raising of Zion's sons against Greece. Chapter 10 rebukes idols and shepherds and promises to strengthen Judah, save Joseph and gather them from Egypt and Assyria. Chapter 11 laments Lebanon's cedars and narrates the prophet's sign-act as shepherd of the flock doomed to slaughter: the broken staffs Favour and Union, the thirty pieces of silver thrown to the potter, and the worthless shepherd.
+
+## Historical setting
+
+**Period:** Disputed: after 518 BC (traditional), the Greek period (Mitchell), or before the exile (older critics)
+
+Keil assigns chs. 9–14 to Zechariah after Darius's fourth year and rejects both pre-exilic and late dates. Mitchell assigns 9:1–10 to 333 BC, 9:11–11:3 to the early Ptolemies, and 11:4–17 with 13:7–9 to a later author under Ptolemy III. Guzik reports that many place the chapters in Zechariah's old age. [1, 2, 3]
+
+### Rulers
+
+- Darius I (the Great): King of Persia (on the traditional dating) [1]
+
+## Date and chronology
+
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+- **518 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VPFFJRVX5BPBN70HEDNEA0|cst_01M4VPFFJRVX5BPBN70HEDNEA0#own-convention → “A burden of the word of the LORD”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “A burden of the word of the LORD” (Zechariah 9:1) → `after` The Bethel delegation and the question of fasting; Zechariah's answer (4/IX, Darius year 4); assumptions: On the traditional authorship, the last two oracles fall after the dated word of Darius's fourth year (Zech 7:1; Keil). Mitchell dates the collection to the Greek period and pre-exilic dates were also proposed (see the disputed claim). [1]
+
+## Geography
+
+- Jerusalem (Jerusalem (Zion); confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **Zechariah son of Iddo, after 518 BC** (C. F. Keil (1868), Tradition, D. Guzik (reports many)): The post-exilic situation (dispersion, partial return) is the starting point; the unnamed headings no more disprove authorship than in Isa 15–19. [1, 3]
+- **Greek period (333 BC and the third century)** (H. G. Mitchell (1912), B. Stade (306–278, as reported by Mitchell), Corrodi, Eichhorn (as reported by Mitchell)): Greece as enemy, Alexander's campaign and Ptolemaic conditions; more than one author. [2]
+- **Before the exile** (Critics answered by Keil (chs. 9–11 from a contemporary of Isaiah; 12–14 before 586)): Rejected by Keil because the oracles presuppose the post-exilic situation. [1]
+
+## Claims and evidence
+
+### Zechariah 9–11 was composed by Zechariah son of Iddo after 518 BC.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Keil defends Zechariah's authorship from the post-exilic setting and tradition. Mitchell assigns 9:1–10 to 333 BC (Tyre not yet taken; 9:8 reflecting Alexander's sparing of Jerusalem), 9:11–11:3 to the early Ptolemies and 11:4–17 to a later author; older critics (answered by Keil) proposed pre-exilic dates. No external evidence decides it.
+
+- *Supporting (indirect):* Chs. 9–14 are Zechariah's last two oracles, later than ch. 7. (Introduction to Zechariah) [1]
+- *Challenging (indirect):* 9:1–10 written in 333; the rest in the Ptolemaic period by different authors. (Introduction, "The authorship of chapters ix–xiv") [2]
+- *Context (indirect):* Many place chs. 9–14 in Zechariah's old age. (on 9:1) [3]
+
+### Alexander's army took Damascus (333), Tyre (summer 332, after a long siege) and Gaza (332) — the cities named in Zech 9:1–7.
+
+**Classification:** Strongly supported (machine proposed) · layer: evidence
+
+Arrian (read directly) records Parmenio's seizure of Damascus, the capture of Tyre in Hecatombaion under the archon Anicetus, and the storming of Gaza; Josephus (read directly) independently gives seven months for the siege of Tyre and two for Gaza. Whether Zech 9 refers to these events is an interpretation, recorded on the prophecy.
+
+- *Supporting (direct):* Damascus seized; Tyre captured in Hecatombaion (332); Gaza stormed. (Anabasis 2.11, 2.24, 2.25–27) [5]
+- *Supporting (direct):* Seven months' siege of Tyre, two months of Gaza. (Ant. 11.8.3–4) [6]
+
+## Related passages and events
+
+- this event → **direct reference** → pro_01M4W03WZJHGMQ3NHRH5YW06V0 (high): Zech 9:1–8.
+- this event → **direct reference** → pro_01M4W03WZJVT27PNMVVTSX8QFE (high): Zech 9:9–10.
+- this event → **direct reference** → pro_01M4W03WZJAQW0GDW3GR65BV7B (high): Zech 9:11–11:3.
+- this event → **direct reference** → pro_01M4W03WZJVFF3XSPCCWWMR3PP (high): Zech 11:4–17.
+- this event → **thematic parallel** → Matthew 21:4–5 (high): Zech 9:9 cited at Jesus's entry.
+- this event → **thematic parallel** → John 12:14–16 (high): Zech 9:9 cited, understood after Jesus was glorified.
+- this event → **thematic parallel** → Matthew 27:9–10 (high): Zech 11:12–13 cited under the name of Jeremiah.
+- this event → **thematic parallel** → Ezekiel 34:1–31 (medium): Shepherds condemned; the LORD shepherds his flock.
+- this event → **thematic parallel** → Ezekiel 37:15–28 (medium): The two sticks joined, Judah and Joseph — reversed by the broken staff Union (11:14).
+- pro_01M4W03WZJHGMQ3NHRH5YW06V0 → **thematic parallel** → Alexander the Great (medium): Alexander's campaign is the proposed historical referent (Keil, Mitchell, Guzik). [1, 2]
+- pro_01M4W03WZJHGMQ3NHRH5YW06V0 → **thematic parallel** → Jaddua the high priest (low): Mitchell reads 9:8 as reflecting the story (Josephus) of Alexander sparing Jerusalem under Jaddua. [2, 7]
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik contrasts the lowly king on a donkey with the conqueror Alexander. [3]
+- Guzik reads the thirty pieces, the price of a slave, as a contemptuous wage fulfilled in Judas's betrayal. [8]
+
+## Unanswered questions and research gaps
+
+- Modern studies of Deutero-Zechariah (after Mitchell) not read.
+- Curtius and Diodorus on Alexander's Levantine campaign not read.
+- Identity of the three shepherds (11:8).
+
+## Disputes
+
+- Zechariah 9–11 was composed by Zechariah son of Iddo after 518 BC.
+
+## Sources
+
+1. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Twelve Minor Prophets, vol. 2 (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1868 (1878 printing). <https://archive.org/details/thetwelveminorpr02keiluoft> — *scholarly commentary; verification: claim checked*
+2. Mitchell, Hinckley G., Smith, J. M. P., Bewer, J. A.. A Critical and Exegetical Commentary on Haggai, Zechariah, Malachi and Jonah (International Critical Commentary). T. & T. Clark / Scribner, 1912. <https://archive.org/details/criticalexegetic25mitcuoft> — *scholarly commentary; verification: claim checked*
+3. Guzik, David. Zechariah 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-9/> — *theological commentary; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Arrian, Chinnock, E. J. (trans.). Arrian, Anabasis of Alexander 2.11–2.27 (trans. E. J. Chinnock, 1884). Project Gutenberg #46976. <https://www.gutenberg.org/ebooks/46976> — *ancient primary text; verification: claim checked*
+6. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.7.1–11.8.4 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+7. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.8.5 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+8. Guzik, David. Zechariah 11 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/zechariah-11/> — *theological commentary; verification: claim checked*

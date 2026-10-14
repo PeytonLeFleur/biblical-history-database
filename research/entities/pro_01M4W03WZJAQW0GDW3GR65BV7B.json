@@ -1,0 +1,68 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W03WZJAQW0GDW3GR65BV7B",
+  "slug": "sons-of-zion-against-sons-of-greece-and-the-regathering-zech-9-10",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W03WZ1N348KMK0ZG2NMV2Z",
+    "src_01M4W03WZ8XP5WQ7FY902G6FDD"
+  ],
+  "notes": null,
+  "title": "Prisoners of hope; \"your sons, O Zion, against your sons, O Greece\"; Judah and Joseph regathered (Zech 9:11–11:3)",
+  "passage": "Zech.9.11-Zech.11.3",
+  "speaker": "The LORD (through the prophet)",
+  "vision_id": null,
+  "description": "Prisoners are freed by the blood of the covenant; the LORD bends Judah and Ephraim as his bow against the sons of Greece and defends them; he will punish the shepherds, strengthen Judah and save Joseph, bringing them back from Egypt and Assyria to Gilead and Lebanon; Lebanon's cedars and Bashan's oaks wail.",
+  "in_text_interpretation": "Javan (Greece) is named as the enemy.",
+  "interpretations": [
+    {
+      "id": "ful_01M4W03X00A1RYP5N9X86MRFCV",
+      "label": "Begun in the Maccabean wars against the Seleucid Greeks; completed in the final subjugation of the world-power",
+      "approach": "mixed",
+      "framework": "Traditional",
+      "proponents": [
+        "C. F. Keil (1868), noting Jerome's report of Jewish readings",
+        "D. Guzik (partly Maccabean, ultimately future)"
+      ],
+      "summary": "Textual reasoning: the sons of Javan are the Graeco-Macedonian world-power (cf. Dan 8:21); weak beginnings in the Maccabean wars, but 9:14–15 point beyond them. Objection: Mitchell holds \"your sons, O Greece\" to be a gloss.",
+      "referents": [
+        {
+          "symbol": "Sons of Greece",
+          "referent": "The Graeco-Macedonian (Seleucid) power"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W03WZ1N348KMK0ZG2NMV2Z"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W03X00TE25B04E4N26ZP88",
+      "label": "Written under the early Ptolemies (c. 285–247 BC); \"O Greece\" a gloss",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Textual reasoning: captives in the East and in Egypt (9:11; 10:10) and a hopeful national spirit fit the Jews' situation under Ptolemy II; the words naming Greece break the rhythm and are a later gloss.",
+      "referents": [
+        {
+          "symbol": "Egypt and Assyria",
+          "referent": "Ptolemaic Egypt and the Seleucid East"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

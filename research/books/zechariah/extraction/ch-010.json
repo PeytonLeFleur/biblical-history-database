@@ -1,0 +1,133 @@
+{
+  "book": "Zech",
+  "chapter": 10,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.10.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.10.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D408S10JEGKWMDHNK"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W03X0D408S10JEGKWMDHNK",
+      "title": "Against the teraphim and the shepherds; from Judah the cornerstone, tent peg and battle bow; Judah and Joseph strengthened and regathered from Egypt and Assyria",
+      "passage": "Zech.10.1-Zech.10.12",
+      "description": "Ask the LORD for rain, not idols and diviners; his anger against the shepherds; he will make Judah his warhorse, save Joseph and bring them back from Egypt and Assyria to Gilead and Lebanon; the pride of Assyria and the scepter of Egypt will depart.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Jer.23.1-Jer.23.8",
+        "Ezek.34.1-Ezek.34.31",
+        "Isa.11.11-Isa.11.16"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "\"Egypt\" and \"Assyria\" as literal places of dispersion or traditional types."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-9-11.md"
+}
