@@ -1,0 +1,917 @@
+# The sealed covenant to keep the law and support the temple (Neh 9:38–10:39)
+
+> **Status:** Preliminary research · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 9:38–10:39 (narration)
+
+## Biblical account
+
+The people made a firm written agreement sealed by their princes, Levites and priests. Nehemiah the governor heads the list of signatories, followed by priests, Levites and chiefs of the people. The rest of the people bound themselves with a curse and oath to walk in God's law: not to give or take daughters in marriage with the peoples of the land; not to buy on the Sabbath or holy day; to forgo the seventh-year crop and every debt; to give a third of a shekel yearly for the temple service; to cast lots for the wood offering; and to bring firstfruits, firstborn, the priests' portions and tithes. "We will not forsake the house of our God."
+
+## Historical setting
+
+**Period:** 445 BC on the narrative sequence, or after 432 BC on Batten's placement
+
+Keil treats the sealing as the conclusion of the assembly of 24 Tishri. Batten notes that four of the pledges (marriage, Sabbath trade, wood, tithes) match the reforms of Nehemiah's second administration (ch. 13) and places the chapter after them. [1, 2]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → cst_01M4VXGDST9B2HQTX3FJD1QPTX → “Yet for all this, we make a sure covenant, and write it”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Yet for all this, we make a sure covenant, and write it” (Nehemiah 9:38) → `days_later` The fast of the twenty-fourth day and the Levites' confession (Neh 9); assumptions: On the narrative sequence the sealing concludes the assembly of the 24th (Keil). Batten instead places the chapter after Nehemiah's second administration (see the disputed claim).
+- “Nehemiah the governor” (Nehemiah 10:1) → `within_reign` reign of Artaxerxes I (Longimanus); assumptions: Nehemiah governed under Artaxerxes I on both placements.
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Claims and evidence
+
+### The sealed covenant of Neh 10 belongs to the assembly of 24 Tishri in Nehemiah's first governorship.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Keil treats chs. 8–10 as one connected occasion closing with the sealing. Batten argues that four of the pledges (mixed marriages, Sabbath trade, the wood offering, tithes) are the reforms of Nehemiah's second administration (ch. 13), that the chapter is by a lay participant rather than Nehemiah or Ezra, and that it is a sequel to ch. 13 misplaced through its first-person-plural form. No external evidence decides it.
+
+- *Supporting (indirect):* Chs. 8–10 form a connected whole; the covenant on the 24th. (Neh 8–10 introduction) [1]
+- *Challenging (indirect):* The fitting place is as a sequel to ch. 13. (Neh 10 introduction) [2]
+
+## Related passages and events
+
+- this event → **preceded by** → The fast of the twenty-fourth day and the Levites' confession (Neh 9) (high): Sealed at the close of the confession (narrative sequence).
+- this event → **thematic parallel** → The mixed-marriages crisis: Ezra's confession, the assembly in the rain (20/IX) and the commission (Ezra 9–10) (high): The marriage pledge (10:30) takes up Ezra 9–10.
+- this event → **thematic parallel** → The debt crisis and the remission of pledges (Neh 5:1–13) (medium): Remission of debts in the seventh year (10:31) echoes Neh 5.
+- this event → **thematic parallel** → Nehemiah 13:10–31 (high): Nehemiah's second-term reforms deal with the same four matters (Batten).
+- this event → **thematic parallel** → Exodus 30:11–16 (high): The half-shekel for the service of the tent of meeting.
+- this event → **thematic parallel** → Matthew 17:24–27 (medium): The temple tax still collected in Jesus's day (Keil).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik groups the pledges under marriage, business and giving, distinguishing gifts the law commanded from those the need required. [4]
+
+## Unanswered questions and research gaps
+
+- The signatory lists were not compared with Neh 12 and Ezra 10.
+
+## Disputes
+
+- The sealed covenant of Neh 10 belongs to the assembly of 24 Tishri in Nehemiah's first governorship.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Guzik, David. Nehemiah 10 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-10/> — *theological commentary; verification: claim checked*

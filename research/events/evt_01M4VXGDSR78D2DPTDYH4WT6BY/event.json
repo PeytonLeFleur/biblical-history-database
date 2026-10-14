@@ -1,0 +1,62 @@
+{
+  "id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY",
+  "slug": "covenant-sealed-neh-10",
+  "title": "The sealed covenant to keep the law and support the temple (Neh 9:38–10:39)",
+  "summary": "Led by Nehemiah the governor, priests, Levites and chiefs sealed a written agreement; the people swore to keep the law and pledged to avoid intermarriage and Sabbath trade, keep the seventh year, pay a third of a shekel yearly, supply wood by lot, and bring firstfruits and tithes.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VXGDSRQWNAJ9SB53HJJZ82",
+    "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious",
+    "legal",
+    "economic"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "preliminary",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Neh.9.38-Neh.10.39",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "in_progress",
+      "updated": "2026-10-14",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

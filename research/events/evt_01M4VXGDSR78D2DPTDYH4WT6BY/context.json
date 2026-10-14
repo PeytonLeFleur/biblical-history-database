@@ -1,0 +1,116 @@
+{
+  "event_id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The people made a firm written agreement sealed by their princes, Levites and priests. Nehemiah the governor heads the list of signatories, followed by priests, Levites and chiefs of the people. The rest of the people bound themselves with a curse and oath to walk in God's law: not to give or take daughters in marriage with the peoples of the land; not to buy on the Sabbath or holy day; to forgo the seventh-year crop and every debt; to give a third of a shekel yearly for the temple service; to cast lots for the wood offering; and to bring firstfruits, firstborn, the priests' portions and tithes. \"We will not forsake the house of our God.\"",
+    "passage": "Neh.9.38-Neh.10.39"
+  },
+  "setting": {
+    "period": "445 BC on the narrative sequence, or after 432 BC on Batten's placement",
+    "body": "Keil treats the sealing as the conclusion of the assembly of 24 Tishri. Batten notes that four of the pledges (marriage, Sabbath trade, wood, tithes) match the reforms of Nehemiah's second administration (ch. 13) and places the chapter after them.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VXGDST02V74YVBGQ5PPBDC",
+      "subject": "evt_01M4VXGDSR78D2DPTDYH4WT6BY",
+      "object": "evt_01M4VXGDSRW21RS61EM9DEMY4M",
+      "relation": "days_later",
+      "textual_assertion": "Yet for all this, we make a sure covenant, and write it",
+      "passage": "Neh.9.38",
+      "offset": {
+        "min": 0,
+        "max": 0
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "On the narrative sequence the sealing concludes the assembly of the 24th (Keil). Batten instead places the chapter after Nehemiah's second administration (see the disputed claim)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VXGDSTJQ0VZFNT2K02RV72",
+      "subject": "evt_01M4VXGDSR78D2DPTDYH4WT6BY",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "within_reign",
+      "textual_assertion": "Nehemiah the governor",
+      "passage": "Neh.10.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Nehemiah governed under Artaxerxes I on both placements."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "a third of a shekel (10:32)",
+      "gloss": "Keil: the half-shekel of Exod 30:13 lowered for the community's poverty; Aben Ezra's view of an extra levy is unsupported.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "term": "the wood offering (10:34)",
+      "gloss": "Wood for the altar supplied by families in turn, by lot.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VXGDSRNPJVND6E3AGBDCS6"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VXGDSRNPJVND6E3AGBDCS6",
+      "layer": "interpretation",
+      "paraphrase": "Guzik groups the pledges under marriage, business and giving, distinguishing gifts the law commanded from those the need required.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-10/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

@@ -1,0 +1,124 @@
+{
+  "event_id": "evt_01M4VXGDSRW21RS61EM9DEMY4M",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Kadmiel",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.2.40",
+        "Ezra.3.9",
+        "Neh.7.43",
+        "Neh.9.4",
+        "Neh.9.5",
+        "Neh.10.9",
+        "Neh.12.8",
+        "Neh.12.24"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VXGDT1SAWBVRFPMKYKM760",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSRW21RS61EM9DEMY4M"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Two days after the feast.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VXGDT1D4GGD560X9CHD1VV",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSRW21RS61EM9DEMY4M"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The prayer ends in the written agreement (9:38).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VXGDT1KB071RA1MNQVX147",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSRW21RS61EM9DEMY4M"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ps.106.1-Ps.106.48"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Keil: the confession resembles Psalm 106 in plan and detail.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VXGDT1ET6KDGNPDV3Q23AK",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSRW21RS61EM9DEMY4M"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.9.6-Ezra.9.15"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Ezra's confession: \"you are righteous\" and present bondage.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VXGDST9B2HQTX3FJD1QPTX",
+    "cst_01M4VXGDSTT58M4JT1T240TBJD"
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "book": "Neh",
+  "chapter": 9,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.9.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.37",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRVS1V1W9CK39G7GZM"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.9.38",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRQWNAJ9SB53HJJZ82"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VXGDSRVS1V1W9CK39G7GZM",
+      "title": "The fast of the twenty-fourth day: separation, reading and confession; the Levites' prayer reviewing Israel's history",
+      "passage": "Neh.9.1-Neh.9.37",
+      "description": "On the 24th of the month Israel assembled fasting in sackcloth, separated from foreigners, read the law a quarter of the day and confessed a quarter; Levites led a prayer recounting creation, Abraham, the exodus, Sinai, the wilderness, the conquest, the judges, the prophets, the exile, and present servitude under foreign kings.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Neh.9.1",
+          "phrase": "in the twenty-fourth day of this month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Ps.106.1-Ps.106.48",
+        "Gen.12.1-Gen.12.3",
+        "Exod.14.21-Exod.14.31",
+        "Exod.34.6-Exod.34.7",
+        "Deut.10.17"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The Greek text inserts \"and Ezra said\" before 9:6; Batten calls it a late interpolation."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VXGDSRW21RS61EM9DEMY4M"
+    },
+    {
+      "id": "cnd_01M4VXGDSRQWNAJ9SB53HJJZ82",
+      "title": "The firm agreement written and sealed",
+      "passage": "Neh.9.38",
+      "description": "Because of all this the people made a firm agreement in writing, sealed by princes, Levites and priests (Hebrew 10:1).",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-9-10.md"
+}

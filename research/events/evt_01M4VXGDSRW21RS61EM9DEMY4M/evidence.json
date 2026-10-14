@@ -1,0 +1,99 @@
+{
+  "event_id": "evt_01M4VXGDSRW21RS61EM9DEMY4M",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 9",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on Neh 9 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Batten 1913 on Neh 8–10 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No archaeological evidence bears on these events in the sources read."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VXGDSVJFCEM4CVCZHTXDDY",
+      "statement": "The prayer's complaint that foreign kings take the land's produce (9:36–37) reflects Persian tribute on Judah.",
+      "layer": "reconstruction",
+      "passage": "Neh.9.36-Neh.9.37",
+      "classification": "historically_plausible",
+      "reasoning": "Keil reads the \"kings\" as the Persian monarchs; the \"king's tribute\" of Neh 5:4 and the tribute named in Ezra 4:13 and 7:24 point the same way. No Persian administrative document on Judah's tribute was read.",
+      "supporting_evidence": [
+        "evd_01M4VXGDSVY0GYYNNJCA72BCX7"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Inference from biblical texts only."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VXGDSVY0GYYNNJCA72BCX7",
+      "claim_ids": [
+        "clm_01M4VXGDSVJFCEM4CVCZHTXDDY"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Bondmen of the Persian monarchs, who take the increase.",
+      "locator": "on 9:36–37",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Persian tribute records for Yehud not researched."
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "event_id": "evt_01M4VXGDSRW21RS61EM9DEMY4M",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On the twenty-fourth of the month Israel assembled with fasting, sackcloth and earth on their heads, separated from all foreigners, and confessed their sins and their fathers'. For a quarter of the day they read the law and for a quarter confessed and worshipped. Levites on the platform cried to God and led a prayer: God made heaven and earth, chose Abraham, saw the affliction in Egypt, divided the sea, gave the law at Sinai, fed them in the wilderness, gave them Canaan; they rebelled, killed the prophets and were given to their enemies, yet God in mercy did not make an end of them. Now they are servants in their own land, whose produce goes to the kings set over them.",
+    "passage": "Neh.9.1-Neh.9.37"
+  },
+  "setting": {
+    "period": "24 Tishri — 30 October 445 BC on the narrative-sequence reading",
+    "body": "Keil dates the fast two days after the eighth-day assembly of Booths (22 Tishri). The date depends on the disputed setting of Neh 8.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VXGDST9B2HQTX3FJD1QPTX",
+      "subject": "evt_01M4VXGDSRW21RS61EM9DEMY4M",
+      "object": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F",
+      "relation": "days_later",
+      "textual_assertion": "in the twenty-fourth day of this month",
+      "passage": "Neh.9.1",
+      "offset": {
+        "min": 23,
+        "max": 23
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "\"This month\" is the seventh month of Neh 8:2 (Keil): 24 Tishri, two days after the eighth-day assembly."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VXGDSTT58M4JT1T240TBJD",
+      "subject": "evt_01M4VXGDSRW21RS61EM9DEMY4M",
+      "object": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG",
+      "relation": "after",
+      "textual_assertion": "in the twenty-fourth day of this month",
+      "passage": "Neh.9.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "\"we are servants today\" (9:36–37)",
+      "gloss": "Bondmen of the Persian kings, who take the land's increase and dispose of bodies and cattle, e.g. for military service (Keil).",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Part of the Ezra–Nehemiah assembly of Tishri",
+      "proponents": [
+        "C. F. Keil (1873)"
+      ],
+      "summary": "Chapters 8–10 form one connected whole.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "label": "An independent account of a fast day",
+      "proponents": [
+        "L. W. Batten (1913)"
+      ],
+      "summary": "No evidence of Ezra's presence (the Greek \"and Ezra said\" is a late interpolation); the link to ch. 8 may be the Chronicler's.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VXGDSJR079K64F7GB2V8FY",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the prayer as tracing a repeated cycle of blessing, pride, discipline and return, met each time by God's readiness to pardon.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-9/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}
