@@ -1,0 +1,88 @@
+{
+  "event_id": "evt_01M4VV9TG1FXKXFPCG3HZ90A00",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Ono",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.8.12",
+        "Ezra.2.33",
+        "Neh.6.2",
+        "Neh.7.37",
+        "Neh.11.35"
+      ]
+    },
+    {
+      "name": "Noadiah",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.8.33",
+        "Neh.6.14"
+      ]
+    },
+    {
+      "name": "Gashmu",
+      "books_searched": 66,
+      "hits": [
+        "Neh.6.6"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VV9TGGMHKSRXQK4BMXQS3W",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1FXKXFPCG3HZ90A00"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1Z6311516W23PHNGB"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The wall was nevertheless completed.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VV9TGGJ8SXVQKVZ4PGZ2GV",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1FXKXFPCG3HZ90A00"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.4.12-Ezra.4.16"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Accusations of rebellion to the Persian king, as in the earlier letter.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VV9TG3H3218JP0EK7YAQ4R",
+    "cst_01M4VV9TG392WRQ7T5KWK9VKQG"
+  ]
+}

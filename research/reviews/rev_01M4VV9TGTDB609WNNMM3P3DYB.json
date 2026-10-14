@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VV9TGTDB609WNNMM3P3DYB",
+  "record_kind": "event",
+  "record_id": "evt_01M4VV9TG1Z6311516W23PHNGB",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: the wall completed on 25 Elul after fifty-two days (Neh 6:15)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-13T23:59:25.722Z",
+  "decisions": [],
+  "is_fixture": false
+}

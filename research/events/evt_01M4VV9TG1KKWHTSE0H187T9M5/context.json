@@ -1,0 +1,83 @@
+{
+  "event_id": "evt_01M4VV9TG1KKWHTSE0H187T9M5",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "From the twentieth to the thirty-second year of Artaxerxes, twelve years, Nehemiah as governor did not eat the governor's food; earlier governors had burdened the people with forty shekels and food; he did not buy land, kept his servants at the work, and fed 150 Jews and officials plus visitors daily.",
+    "passage": "Neh.5.14-Neh.5.19"
+  },
+  "setting": {
+    "period": "445–433 BC",
+    "body": "Years 20 and 32 of Artaxerxes I on Parker and Dubberstein's table; Cowley takes the 32nd year (433) as a fixed point, since Bigvai was governor by 408.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VV9TG3FXDN6QK0PYM3XDQQ",
+      "subject": "evt_01M4VV9TG1KKWHTSE0H187T9M5",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "in_regnal_year",
+      "textual_assertion": "from the twentieth year even to the thirty-second year of Artaxerxes",
+      "passage": "Neh.5.14",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 20,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Dated by its start (year 20 = 445/444); the governorship lasted to year 32 (433/432; Neh 13:6)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VV9TFVZBE0NYFPEZTH5ES3",
+      "layer": "interpretation",
+      "paraphrase": "Guzik presents Nehemiah's refusal of the governor's allowance as an example of leadership by not taking.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-5/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Who were \"the former governors\" (5:15)? Not identified in the sources read."
+  ],
+  "not_applicable": {}
+}

@@ -1,0 +1,190 @@
+{
+  "event_id": "evt_01M4VV9TG1Z6311516W23PHNGB",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Parker & Dubberstein Artaxerxes I year 20 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on 6:15",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.5.8",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Batten Introduction",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VV9TG55JHVMGYTMRA3PJHZ",
+      "statement": "The wall was finished on 25 Elul of Artaxerxes I's twentieth year, 2 October 445 BC.",
+      "layer": "reconstruction",
+      "passage": "Neh.6.15",
+      "classification": "historically_plausible",
+      "reasoning": "The year is implied by 2:1 (Keil); Parker and Dubberstein's table gives Elul of year 20 beginning 8 September 445, so the 25th was 2 October. Depends on the fifty-two days and on Babylonian month reckoning.",
+      "supporting_evidence": [
+        "evd_01M4VV9TG5S0F7WCFJQC4RA70V",
+        "evd_01M4VV9TG51Q4DRRVW8R87TEBQ"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VV9TG5099KP0WS89D644WP",
+      "statement": "The wall was rebuilt in fifty-two days (Neh 6:15), not over two years and four months (Josephus).",
+      "layer": "text",
+      "passage": "Neh.6.15",
+      "classification": "disputed",
+      "reasoning": "The Masoretic text has fifty-two days; Keil (with Bertheau) defends it, noting that the work was largely repair and well staffed. Ewald emended the text from Josephus's two years and four months (as reported by Keil), though Josephus's other Nehemiah dates (Xerxes 25th–28th years) are unreliable. Batten notes that much may have been rebuilt before Nehemiah (Ezra 4). No external evidence decides it.",
+      "supporting_evidence": [
+        "evd_01M4VV9TG53BFXHYJ0EZWS7274"
+      ],
+      "counterevidence": [
+        "evd_01M4VV9TG5N21X83PDWTTFHM69"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VV9TG58H2E5P8H7C2Q2CVV"
+      ],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VV9TG5S0F7WCFJQC4RA70V",
+      "claim_ids": [
+        "clm_01M4VV9TG55JHVMGYTMRA3PJHZ"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Elul (month VI) began 8 September 445.",
+      "locator": "Artaxerxes I year 20 row",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4VV9TG51Q4DRRVW8R87TEBQ",
+      "claim_ids": [
+        "clm_01M4VV9TG55JHVMGYTMRA3PJHZ"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The year intended is the twentieth of 2:1; begun on 3 Ab.",
+      "locator": "on 6:15",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VV9TG53BFXHYJ0EZWS7274",
+      "claim_ids": [
+        "clm_01M4VV9TG5099KP0WS89D644WP"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "No reasonable ground for doubting fifty-two days; Ewald's emendation rejected.",
+      "locator": "on 6:15",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VV9TG5N21X83PDWTTFHM69",
+      "claim_ids": [
+        "clm_01M4VV9TG5099KP0WS89D644WP"
+      ],
+      "source_id": "src_01M4VS7B16XH8HCZS3XB23FBQG",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "The wall took two years and four months, finished in Xerxes's twenty-eighth year.",
+      "locator": "Ant. 11.5.8",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VV9TG58H2E5P8H7C2Q2CVV",
+      "claim_ids": [
+        "clm_01M4VV9TG5099KP0WS89D644WP"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Much of the work may have been done before Nehemiah; fifty-two days left little to build.",
+      "locator": "Introduction",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Archaeology of the gates and doors not researched."
+  ]
+}

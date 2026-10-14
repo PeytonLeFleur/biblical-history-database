@@ -1,0 +1,149 @@
+{
+  "event_id": "evt_01M4VV9TG1Z6311516W23PHNGB",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The wall was finished on the twenty-fifth of Elul, in fifty-two days; when the enemies and surrounding nations heard, they were disheartened, perceiving that the work was of God. Nobles of Judah sent many letters to Tobiah, to whom they were bound by oath, since he was son-in-law of Shecaniah and his son married Meshullam's daughter.",
+    "passage": "Neh.6.15-Neh.6.19"
+  },
+  "setting": {
+    "period": "2 October 445 BC (on Parker & Dubberstein's table)",
+    "body": "Elul of Artaxerxes's twentieth year began on 8 September 445; the twenty-fifth was 2 October; fifty-two days earlier is about 12 August (Keil: 3 Ab).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VV9TG2R0M9PG1A0PEGHX6G",
+      "subject": "evt_01M4VV9TG1Z6311516W23PHNGB",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "in_regnal_year",
+      "textual_assertion": "So the wall was finished in the twenty-fifth day of Elul, in fifty-two days",
+      "passage": "Neh.6.15",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 20,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The year is not stated; the twentieth year of 2:1 is meant (Keil). On Parker & Dubberstein's table Elul of year 20 began 8 September 445, so 25 Elul = 2 October 445 and the 52 days began about 12 August (Keil: 3 Ab)."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN",
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4VV9TG29F8PZPEX9PBBX34J",
+      "subject": "evt_01M4VV9TG1Z6311516W23PHNGB",
+      "object": "evt_01M4VT5TNJAJ8MVD2498VTKSG6",
+      "relation": "after",
+      "textual_assertion": "So the wall was finished",
+      "passage": "Neh.6.15",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VV9TG3CCFP6G5FCRBB70QJ",
+      "subject": "evt_01M4VV9TG1Z6311516W23PHNGB",
+      "object": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1",
+      "relation": "months_later",
+      "textual_assertion": "Nisan (2:1) … Elul (6:15)",
+      "passage": "Neh.6.15",
+      "offset": {
+        "min": 4,
+        "max": 7
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Nisan to 25 Elul of the same year is under six months."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Fifty-two days",
+      "proponents": [
+        "Neh 6:15 (MT)",
+        "C. F. Keil (1873), with Bertheau"
+      ],
+      "summary": "Possible because much was repair of existing lines with a large workforce.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "label": "Two years and four months",
+      "proponents": [
+        "Josephus, Ant. 11.5.8",
+        "H. Ewald (as reported by Keil), emending Neh 6:15"
+      ],
+      "summary": "Josephus also dates the work to Xerxes's 25th–28th years, which Keil calls untrustworthy.",
+      "citations": [
+        "src_01M4VS7B16XH8HCZS3XB23FBQG",
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VV9TG0SGK1ANHQBC5X2G0B",
+      "layer": "interpretation",
+      "paraphrase": "Guzik contrasts four months of prayer with fifty-two days of work.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-6/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

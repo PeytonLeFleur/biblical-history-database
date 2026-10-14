@@ -1,0 +1,103 @@
+{
+  "event_id": "evt_01M4VV9TG1FXKXFPCG3HZ90A00",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "When the wall had no breaches left but the doors were not yet hung, Sanballat and Geshem four times invited Nehemiah to meet in the plain of Ono; Sanballat then sent an open letter alleging, on Gashmu's word, that the Jews planned rebellion and that Nehemiah wanted to be king, with prophets to proclaim him; Shemaiah, hired by Tobiah and Sanballat, urged him to shut himself in the temple; Nehemiah refused and asked God to remember Tobiah, Sanballat and the prophetess Noadiah.",
+    "passage": "Neh.6.1-Neh.6.14"
+  },
+  "setting": {
+    "period": "September 445 BC (before 25 Elul)",
+    "body": "An accusation of rebellion to the Persian court was a serious threat (cf. Ezra 4:12–16).",
+    "citations": [
+      "src_01M4VV9TG0SGK1ANHQBC5X2G0B"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VV9TG3H3218JP0EK7YAQ4R",
+      "subject": "evt_01M4VV9TG1FXKXFPCG3HZ90A00",
+      "object": "evt_01M4VV9TG1Z6311516W23PHNGB",
+      "relation": "before",
+      "textual_assertion": "though I had not at that time set up the doors in the gates",
+      "passage": "Neh.6.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VV9TG392WRQ7T5KWK9VKQG",
+      "subject": "evt_01M4VV9TG1FXKXFPCG3HZ90A00",
+      "object": "evt_01M4VT5TNJHAVFTEMJSHT20307",
+      "relation": "after",
+      "textual_assertion": "when … I had built the wall, and there was no breach left in it",
+      "passage": "Neh.6.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Gashmu (6:6)",
+      "gloss": "A dialect form of Geshem (Ryle; Keil).",
+      "citations": [
+        "src_01M4VEBZ9XN1AX6XPFPCZ5S8RB",
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VV9TG0SGK1ANHQBC5X2G0B",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that only priests could enter the temple building, so Shemaiah's advice was a trap (cf. Uzziah).",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-6/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The extra-biblical attestation of a Geshem/Gashmu of Qedar was not researched in this unit."
+  ],
+  "not_applicable": {}
+}

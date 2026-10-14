@@ -24,846 +24,846 @@ Archaeologists agree that Persian-period Jerusalem was small and largely confine
 
 ## Date and chronology
 
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *model-independent*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
-- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
   - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VS7B2NDKK5TFD61NCAR7GA → “Let us rise up and build … So they strengthened their hands for the good work”
-  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “Nehemiah's governorship under Artaxerxes (Neh 5:14)”
+  - Latest bound from: cst_01M4VV9TG2R0M9PG1A0PEGHX6G|cst_01M4VV9TG2R0M9PG1A0PEGHX6G#own-convention → cst_01M4VV9TG29F8PZPEX9PBBX34J
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

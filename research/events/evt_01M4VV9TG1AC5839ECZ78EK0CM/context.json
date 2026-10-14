@@ -1,0 +1,114 @@
+{
+  "event_id": "evt_01M4VV9TG1AC5839ECZ78EK0CM",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "There was a great outcry: some needed grain for large families, some had mortgaged fields, vineyards and houses because of famine, others had borrowed for the king's tax and were selling sons and daughters into bondage. Nehemiah, angry, rebuked the nobles and officials for exacting interest from their brothers, called an assembly, and made them swear to restore the fields, vineyards, olive groves and houses and the hundredth part of money, grain, wine and oil; he shook out his garment as a curse on any who broke the oath.",
+    "passage": "Neh.5.1-Neh.5.13"
+  },
+  "setting": {
+    "period": "During or after the building (445 BC or later)",
+    "body": "The \"king's tax\" points to Persian tribute; Guzik reads \"the hundredth part\" as interest of 1% a month (12% a year).",
+    "citations": [
+      "src_01M4VV9TFVZBE0NYFPEZTH5ES3"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VV9TG30Q0G9ZNV4CV6CKC7",
+      "subject": "evt_01M4VV9TG1AC5839ECZ78EK0CM",
+      "object": "evt_01M4VT5TNJAJ8MVD2498VTKSG6",
+      "relation": "after",
+      "textual_assertion": "Then there arose a great cry of the people",
+      "passage": "Neh.5.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Narrated during the building; the episode may be placed here thematically."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VV9TG3Y1REJ1SJPYWBW486",
+      "subject": "evt_01M4VV9TG1AC5839ECZ78EK0CM",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "within_reign",
+      "textual_assertion": "the king's tribute",
+      "passage": "Neh.5.4",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "the hundredth part (5:11)",
+      "gloss": "Probably interest of one per cent a month (Guzik).",
+      "citations": [
+        "src_01M4VV9TFVZBE0NYFPEZTH5ES3"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "During the 52 days, or later in Nehemiah's governorship",
+      "proponents": [
+        "Narrative placement (Neh 5:1, 16)",
+        "Later placement implied by 5:14 (retrospect over twelve years)"
+      ],
+      "summary": "The chapter interrupts the building narrative; 5:14–19 looks back over twelve years.",
+      "citations": [
+        "src_01M4VV9TFVZBE0NYFPEZTH5ES3"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VV9TFVZBE0NYFPEZTH5ES3",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that the work stopped through strife among the people and that Nehemiah demanded immediate restitution.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-5/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

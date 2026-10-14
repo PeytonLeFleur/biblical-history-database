@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_01M4VV9TG1AC5839ECZ78EK0CM",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "usury/interest",
+      "books_searched": 66,
+      "hits": [
+        "Neh.5.7",
+        "Neh.5.10",
+        "Ps.15.5"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VV9TGA94CRDF4XCC8358QQ",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1AC5839ECZ78EK0CM"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The outcry arose during the building.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VV9TGADV21E99WX2RZCVZM",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1AC5839ECZ78EK0CM"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Lev.25.35-Lev.25.43"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "No interest from a poor brother; no slavery of brothers.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VV9TG30Q0G9ZNV4CV6CKC7",
+    "cst_01M4VV9TG3Y1REJ1SJPYWBW486"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "event_id": "evt_01M4VV9TG1KKWHTSE0H187T9M5",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "governor (Tirshatha/pechah) in Nehemiah",
+      "books_searched": 66,
+      "hits": []
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VV9TGDQ7VAWN37JG58ZF9Y",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1KKWHTSE0H187T9M5"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5R4WH4CZ9SZG2M71Y1"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The governorship began with the commission of the twentieth year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VV9TGDDB0AKD2RZRZK0XTH",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1KKWHTSE0H187T9M5"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Neh.13.6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Nehemiah returned to the king in the thirty-second year.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VV9TG3FXDN6QK0PYM3XDQQ"
+  ]
+}

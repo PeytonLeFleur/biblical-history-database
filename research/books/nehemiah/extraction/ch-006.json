@@ -1,0 +1,248 @@
+{
+  "book": "Neh",
+  "chapter": 6,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.6.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1XABFWCW2CM221JAG"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1G2J83XNVN68BSKVN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1G2J83XNVN68BSKVN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1G2J83XNVN68BSKVN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1G2J83XNVN68BSKVN"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.6.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VV9TG1G2J83XNVN68BSKVN"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VV9TG1XABFWCW2CM221JAG",
+      "title": "Plots: the plain of Ono, the open letter, Shemaiah's temple refuge, Noadiah",
+      "passage": "Neh.6.1-Neh.6.14",
+      "description": "Sanballat, Tobiah and Geshem four times invited Nehemiah to Ono; Sanballat sent an open letter alleging rebellion and a bid for kingship; Shemaiah, hired by them, urged him to shut himself in the temple; Nehemiah refused and prayed against them and the prophetess Noadiah.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Sanballat",
+          "matched_entity_id": "per_01M4VS7B1QA1MFQVDKJF2F9KAB",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Tobiah",
+          "matched_entity_id": "per_01M4VS7B22SPBEE15BPDG89BCS",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Geshem the Arabian",
+          "matched_entity_id": "per_01M4VS7B27C2ZJSP12B4V8M9TS",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "2Chr.26.16-2Chr.26.21",
+        "Num.18.7"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Location of the plain of Ono (cf. Ezra 2:33; Neh 11:35)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VV9TG1FXKXFPCG3HZ90A00"
+    },
+    {
+      "id": "cnd_01M4VV9TG1G2J83XNVN68BSKVN",
+      "title": "The wall finished on 25 Elul in 52 days; the enemies afraid; Tobiah's correspondence with the nobles",
+      "passage": "Neh.6.15-Neh.6.19",
+      "description": "The wall was finished on the twenty-fifth of Elul, in fifty-two days; the surrounding nations lost confidence; nobles of Judah corresponded with Tobiah, who was related by marriage to Shecaniah and Meshullam.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "construction",
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Tobiah",
+          "matched_entity_id": "per_01M4VS7B22SPBEE15BPDG89BCS",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Neh.6.15",
+          "phrase": "on the twenty-fifth day of Elul, in fifty-two days",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Fifty-two days (MT) or two years and four months (Josephus)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VV9TG1Z6311516W23PHNGB"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-5-6.md"
+}
