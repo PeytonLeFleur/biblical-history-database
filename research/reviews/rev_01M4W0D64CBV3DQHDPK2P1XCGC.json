@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4W0D64CBV3DQHDPK2P1XCGC",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4W03WZSPHJXSZZ572MWQCZ4",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (\"Your king comes to you … lowly, and riding on a donkey\"): Fulfilled in Jesus's entry into Jerusalem",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T01:28:38.796Z",
+  "decisions": [],
+  "is_fixture": false
+}

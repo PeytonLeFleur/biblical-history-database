@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4W03X0NG099JM7RM8BGX3SM",
+  "record_kind": "claim",
+  "record_id": "clm_01M4W03X0FZNH02X0ZKYV1JBRW",
+  "record_revision": 1,
+  "reason": "Disputed: were Zechariah 9–11 written by Zechariah after 518 BC (Keil), in the Greek period (Mitchell), or before the exile (older critics)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T01:23:34.549Z",
+  "decisions": [],
+  "is_fixture": false
+}

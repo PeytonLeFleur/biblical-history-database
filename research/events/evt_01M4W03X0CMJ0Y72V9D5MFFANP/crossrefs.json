@@ -1,0 +1,319 @@
+{
+  "event_id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Hadrach",
+      "books_searched": 66,
+      "hits": [
+        "Zech.9.1"
+      ]
+    },
+    {
+      "name": "Greece/Javan",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.1.5",
+        "1Chr.1.7",
+        "Acts.20.2",
+        "Dan.8.21",
+        "Dan.10.20",
+        "Dan.11.2",
+        "Ezek.27.13",
+        "Ezek.27.19",
+        "Gen.10.2",
+        "Gen.10.4",
+        "Isa.66.19",
+        "Zech.9.13"
+      ]
+    },
+    {
+      "name": "thirty pieces of silver",
+      "books_searched": 66,
+      "hits": [
+        "Matt.26.15",
+        "Matt.27.3",
+        "Matt.27.9",
+        "Zech.11.12",
+        "Zech.11.13"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W03X0NRNZ0Q3SBWR90PHZT",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4W03WZJHGMQ3NHRH5YW06V0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 9:1–8.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0N5M44ED3XMQ4NGFB9",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4W03WZJVT27PNMVVTSX8QFE"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 9:9–10.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0NH280P4TF0GY50EG2",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4W03WZJAQW0GDW3GR65BV7B"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 9:11–11:3.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0NEXVCF3ANWWMG3ETD",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4W03WZJVFF3XSPCCWWMR3PP"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 11:4–17.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0NYQ967MC95RYA5QV5",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.21.4-Matt.21.5"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 9:9 cited at Jesus's entry.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0NVDDJDM3EKHAM6C87",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "John.12.14-John.12.16"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 9:9 cited, understood after Jesus was glorified.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0N8DEJ670NF6H0M2AT",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.27.9-Matt.27.10"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 11:12–13 cited under the name of Jeremiah.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0NFDH4Z0HFGFNXAZPG",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.34.1-Ezek.34.31"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Shepherds condemned; the LORD shepherds his flock.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0NZBPTB7VSKJWXRPYM",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.37.15-Ezek.37.28"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The two sticks joined, Judah and Joseph — reversed by the broken staff Union (11:14).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0N3XXKGB2M0HY47XPA",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4W03WZJHGMQ3NHRH5YW06V0"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TSKK8VW5AG2BZM9KZK8W3Y"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "Alexander's campaign is the proposed historical referent (Keil, Mitchell, Guzik).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34",
+          "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W03X0NP0JNW59YH2RWDMNC",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "prophecy",
+        "id": "pro_01M4W03WZJHGMQ3NHRH5YW06V0"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4VYR28K04H253M5WMFRW8PF"
+      },
+      "confidence": "low",
+      "layer": "interpretation",
+      "rationale": "Mitchell reads 9:8 as reflecting the story (Josephus) of Alexander sparing Jerusalem under Jaddua.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+          "src_01M4TTS0H16R2RHYVNTR09K9TR"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W03X0EFFS74FZSP4KYR5WD"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "event_id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP",
+  "revision": 1,
+  "validated_at": "2026-10-14",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4W03X0NG099JM7RM8BGX3SM",
+    "rev_01M4W0D63Z8TA7ANWVWEK8W0M5",
+    "rev_01M4W0D64CBV3DQHDPK2P1XCGC",
+    "rev_01M4W0D64PE77KQGPHFM3GF2XZ",
+    "rev_01M4W0D64ZMK7FYTQNXQRQDTMM"
+  ],
+  "research_gaps": [
+    "Modern studies of Deutero-Zechariah (after Mitchell) not read.",
+    "Curtius and Diodorus on Alexander's Levantine campaign not read."
+  ],
+  "disputes": [
+    "Zechariah 9–11 was composed by Zechariah son of Iddo after 518 BC."
+  ],
+  "export_eligible": true
+}

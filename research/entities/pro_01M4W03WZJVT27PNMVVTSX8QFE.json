@@ -1,0 +1,68 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W03WZJVT27PNMVVTSX8QFE",
+  "slug": "your-king-comes-riding-on-a-donkey-zech-9",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W03WZ1N348KMK0ZG2NMV2Z"
+  ],
+  "notes": null,
+  "title": "\"Your king comes to you … lowly, and riding on a donkey\" (Zech 9:9–10)",
+  "passage": "Zech.9.9-Zech.9.10",
+  "speaker": "The LORD (through the prophet)",
+  "vision_id": null,
+  "description": "Daughter Zion is to rejoice: her king comes, righteous and having salvation, lowly and riding on a donkey, a colt; chariot, horse and battle bow will be cut off, he will speak peace to the nations, and his dominion will be from sea to sea.",
+  "in_text_interpretation": "The king is not named.",
+  "interpretations": [
+    {
+      "id": "ful_01M4W03WZSPHJXSZZ572MWQCZ4",
+      "label": "Fulfilled in Jesus's entry into Jerusalem",
+      "approach": "mixed",
+      "framework": "Traditional Christian (New Testament citation)",
+      "proponents": [
+        "Matt 21:1–11; John 12:12–16 (text)",
+        "C. F. Keil (1868)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: Matthew and John cite the verse of Jesus's entry; Keil holds that Jesus arranged the entry to fulfil it and that the universal peace of 9:10 belongs to the kingdom he founded. Objection: Mitchell notes that Matthew follows the Greek and has two animals where the Hebrew parallelism means one.",
+      "referents": [
+        {
+          "symbol": "Your king",
+          "referent": "Jesus as Messiah"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W03WZ1N348KMK0ZG2NMV2Z"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W03WZSMTYVJHCQHRANZCNH",
+      "label": "An ideal Messianic king, prompted by Alexander's appearance; the evangelists cite it freely",
+      "approach": "idealist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Textual reasoning: the humble king without chariots contrasts with Jer 22:4; the author saw in Alexander the forerunner of a Davidic ruler; the second part \"was not fulfilled, but it furnished an ideal\".",
+      "referents": [
+        {
+          "symbol": "Your king",
+          "referent": "The hoped-for Davidic king"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

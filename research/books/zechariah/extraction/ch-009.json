@@ -1,0 +1,223 @@
+{
+  "book": "Zech",
+  "chapter": 9,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.9.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D603T8VG6787DYQXR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D603T8VG6787DYQXR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D603T8VG6787DYQXR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D603T8VG6787DYQXR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D603T8VG6787DYQXR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D603T8VG6787DYQXR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D603T8VG6787DYQXR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0D603T8VG6787DYQXR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNHM12GRMCBPMHVC8"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNHM12GRMCBPMHVC8"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNY77TPGBD9R5YEJ3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNY77TPGBD9R5YEJ3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNY77TPGBD9R5YEJ3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNY77TPGBD9R5YEJ3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNY77TPGBD9R5YEJ3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNY77TPGBD9R5YEJ3"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.9.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W03X0DNY77TPGBD9R5YEJ3"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W03X0D603T8VG6787DYQXR",
+      "title": "Burden on Hadrach, Damascus, Hamath, Tyre, Sidon and the Philistine cities; the LORD guards his house",
+      "passage": "Zech.9.1-Zech.9.8",
+      "description": "Judgment on Syria, Phoenicia and Philistia; a Philistine remnant incorporated into Judah; the LORD encamps around his house.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Amos.1.3-Amos.1.10",
+        "Ezek.26.1-Ezek.28.24",
+        "Isa.23.1-Isa.23.18"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "The agent of judgment is unnamed; Alexander readings are interpretive.",
+        "Mitchell treats 9:8 as an interpolation."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+    },
+    {
+      "id": "cnd_01M4W03X0DNHM12GRMCBPMHVC8",
+      "title": "The lowly king on a donkey; chariot and bow cut off; peace to the nations",
+      "passage": "Zech.9.9-Zech.9.10",
+      "description": "Zion's righteous, saving and lowly king rides a donkey; he will speak peace to the nations and rule from sea to sea.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Matt.21.1-Matt.21.11",
+        "John.12.12-John.12.16",
+        "Ps.72.8",
+        "Gen.49.10-Gen.49.11"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+    },
+    {
+      "id": "cnd_01M4W03X0DNY77TPGBD9R5YEJ3",
+      "title": "Prisoners of hope; Judah and Ephraim as the LORD's bow against the sons of Greece; the LORD appears over them",
+      "passage": "Zech.9.11-Zech.9.17",
+      "description": "By the blood of the covenant prisoners are freed; the LORD raises Zion's sons against Greece's sons and saves his flock.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Exod.24.8",
+        "Dan.8.21",
+        "Dan.11.2-Dan.11.4"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "Whether \"your sons, O Greece\" is original (Mitchell: a gloss)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-9-11.md"
+}

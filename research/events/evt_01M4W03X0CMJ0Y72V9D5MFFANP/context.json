@@ -1,0 +1,142 @@
+{
+  "event_id": "evt_01M4W03X0CMJ0Y72V9D5MFFANP",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Chapter 9 announces the LORD's word against Hadrach, Damascus, Hamath, Tyre, Sidon and the Philistine cities, his protection of his house, the coming of Zion's lowly king on a donkey, the freeing of prisoners and the raising of Zion's sons against Greece. Chapter 10 rebukes idols and shepherds and promises to strengthen Judah, save Joseph and gather them from Egypt and Assyria. Chapter 11 laments Lebanon's cedars and narrates the prophet's sign-act as shepherd of the flock doomed to slaughter: the broken staffs Favour and Union, the thirty pieces of silver thrown to the potter, and the worthless shepherd.",
+    "passage": "Zech.9.1-Zech.11.17"
+  },
+  "setting": {
+    "period": "Disputed: after 518 BC (traditional), the Greek period (Mitchell), or before the exile (older critics)",
+    "body": "Keil assigns chs. 9–14 to Zechariah after Darius's fourth year and rejects both pre-exilic and late dates. Mitchell assigns 9:1–10 to 333 BC, 9:11–11:3 to the reign of Ptolemy III (247–222), 11:4–17 with 13:7–9 to a third writer soon after the battle of Raphia (217), and 12:1–13:6 with ch. 14 to a fourth, apocalyptic writer about the same time. Guzik reports that many place the chapters in Zechariah's old age.",
+    "citations": [
+      "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "src_01M4W03WZ1N348KMK0ZG2NMV2Z"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "King of Persia (on the traditional dating)",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W03X0EFFS74FZSP4KYR5WD",
+      "subject": "evt_01M4W03X0CMJ0Y72V9D5MFFANP",
+      "object": "evt_01M4VPFFJFMG7781CS7NPG8K9C",
+      "relation": "after",
+      "textual_assertion": "A burden of the word of the LORD",
+      "passage": "Zech.9.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "On the traditional authorship, the last two oracles fall after the dated word of Darius's fourth year (Zech 7:1; Keil). Mitchell dates the collection to the Greek period and pre-exilic dates were also proposed (see the disputed claim)."
+      ],
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem (Zion)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "burden (massa, 9:1; 12:1; Mal 1:1)",
+      "gloss": "Heading of an oracle; the three uses close the Book of the Twelve.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    },
+    {
+      "term": "Javan (9:13)",
+      "gloss": "Greece — the Graeco-Macedonian world-power (Keil); a gloss (Mitchell).",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Zechariah son of Iddo, after 518 BC",
+      "proponents": [
+        "C. F. Keil (1868)",
+        "Tradition",
+        "D. Guzik (reports many)"
+      ],
+      "summary": "The post-exilic situation (dispersion, partial return) is the starting point; the unnamed headings no more disprove authorship than in Isa 15–19.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W03WZ1N348KMK0ZG2NMV2Z"
+      ]
+    },
+    {
+      "label": "Greek period (333 BC and the third century)",
+      "proponents": [
+        "H. G. Mitchell (1912)",
+        "B. Stade (306–278, as reported by Mitchell)",
+        "Corrodi, Eichhorn (as reported by Mitchell)"
+      ],
+      "summary": "Greece as enemy, Alexander's campaign and Ptolemaic conditions; more than one author.",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    },
+    {
+      "label": "Before the exile",
+      "proponents": [
+        "Critics answered by Keil (chs. 9–11 from a contemporary of Isaiah; 12–14 before 586)"
+      ],
+      "summary": "Rejected by Keil because the oracles presuppose the post-exilic situation.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4W03WZ1N348KMK0ZG2NMV2Z",
+      "layer": "interpretation",
+      "paraphrase": "Guzik contrasts the lowly king on a donkey with the conqueror Alexander.",
+      "url": "https://enduringword.com/bible-commentary/zechariah-9/",
+      "accessed": "2026-10-13"
+    },
+    {
+      "source_id": "src_01M4W03WZDK3ST22K5V5H32T0S",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the thirty pieces, the price of a slave, as a contemptuous wage fulfilled in Judas's betrayal.",
+      "url": "https://enduringword.com/bible-commentary/zechariah-11/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "Identity of the three shepherds (11:8)."
+  ],
+  "not_applicable": {}
+}

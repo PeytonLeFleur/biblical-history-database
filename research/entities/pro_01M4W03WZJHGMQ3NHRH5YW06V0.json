@@ -1,0 +1,71 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W03WZJHGMQ3NHRH5YW06V0",
+  "slug": "burden-on-hadrach-damascus-tyre-and-philistia-zech-9",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W03WZ1N348KMK0ZG2NMV2Z"
+  ],
+  "notes": null,
+  "title": "The burden on Hadrach, Damascus, Tyre and Philistia (Zech 9:1–8)",
+  "passage": "Zech.9.1-Zech.9.8",
+  "speaker": "The LORD (through the prophet)",
+  "vision_id": null,
+  "description": "The word of the LORD rests on Hadrach and Damascus, Hamath, Tyre and Sidon; Tyre, though rich and fortified, will be burned; Ashkelon, Gaza, Ekron and Ashdod will be humbled and a remnant of Philistia will belong to God like a clan in Judah; the LORD will encamp about his house so that no oppressor passes through again.",
+  "in_text_interpretation": "No agent of the judgment is named.",
+  "interpretations": [
+    {
+      "id": "ful_01M4W03WZJCJR0X7K21CR96DB5",
+      "label": "Predicts Alexander's march through Syria, Phoenicia and Philistia (333–332 BC)",
+      "approach": "preterist",
+      "framework": "Traditional (predictive)",
+      "proponents": [
+        "E. W. Hengstenberg (as quoted by Keil)",
+        "C. F. Keil (1868), as the \"commencement\" of fulfilment with Koehler",
+        "D. Guzik (\"most see\")"
+      ],
+      "summary": "Textual reasoning: the cities are named in the order of Alexander's advance after Issus. Historical evidence: Parmenio seized Damascus; Tyre fell in 332 after a long siege; Gaza was stormed (Arrian; Josephus). Objection (Koehler, via Keil): the conversion of the Philistine remnant (9:7) was not fulfilled by Alexander, so Keil treats his campaign only as the beginning of a longer fulfilment.",
+      "referents": [
+        {
+          "symbol": "The unnamed destroyer of Tyre and Philistia",
+          "referent": "Alexander the Great"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W03WZJ2CDZ8H865VXVTNW4",
+        "src_01M4VYR288G6J6YKJQG5NQMMTN",
+        "src_01M4W03WZ1N348KMK0ZG2NMV2Z"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W03WZJT8MD7GZ0CJMD4HSF",
+      "label": "Written in 333 BC, just after Issus, as Alexander advanced",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912), following Kuiper"
+      ],
+      "summary": "Textual reasoning: Tyre is described as never yet taken, as it had not been when Alexander attacked it; 9:8 is an interpolation by a reader who knew the story that Alexander spared Jerusalem (cf. Josephus, Ant. 11.8.5). The first part was \"fulfilled in a measure\" when Alexander took the cities.",
+      "referents": [
+        {
+          "symbol": "The unnamed destroyer",
+          "referent": "Alexander the Great"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4TTS0H16R2RHYVNTR09K9TR"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}
