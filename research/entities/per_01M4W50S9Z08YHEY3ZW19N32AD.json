@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+  "slug": "mordecai",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+    "src_01M4W50S946AV8YAVDZMQ1HP9Z"
+  ],
+  "notes": null,
+  "canonical_name": "Mordecai son of Jair",
+  "aliases": [],
+  "description": "Benjamite at Susa, of the family of Kish carried away with Jeconiah (Esth 2:5–6); guardian of Esther; uncovered the plot of Bigthan and Teresh. Whether he or Kish was the deportee is disputed (Keil).",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

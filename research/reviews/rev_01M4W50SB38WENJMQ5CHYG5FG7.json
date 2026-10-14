@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4W50SB38WENJMQ5CHYG5FG7",
+  "record_kind": "event",
+  "record_id": "evt_01M4W50SA665JA4SX5ZWP62KF0",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Ahasuerus's third-year feast and Vashti deposed (Esth 1)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T02:49:15.363Z",
+  "decisions": [],
+  "is_fixture": false
+}

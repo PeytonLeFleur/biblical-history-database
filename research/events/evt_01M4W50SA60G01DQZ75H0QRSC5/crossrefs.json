@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_01M4W50SA60G01DQZ75H0QRSC5",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Bigthan/Bigthana",
+      "books_searched": 66,
+      "hits": [
+        "Esth.2.21",
+        "Esth.6.2"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W50SAWBTDKCRMHV75PH05M",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W50SA60G01DQZ75H0QRSC5"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W50SA6QTD95YT1WQ88AJR3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "After Esther's elevation.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W50SAWJRG2FMYX069XER5D",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W50SA60G01DQZ75H0QRSC5"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Esth.6.1-Esth.6.3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The record of Mordecai's deed read to the sleepless king.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W50SA8KGZA9K8WZMEK6G1Q",
+    "cst_01M4W50SA8EP9SAZ97GPTJCBTE"
+  ]
+}

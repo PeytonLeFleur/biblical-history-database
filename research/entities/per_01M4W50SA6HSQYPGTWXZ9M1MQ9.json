@@ -1,0 +1,17 @@
+{
+  "kind": "person",
+  "id": "per_01M4W50SA6HSQYPGTWXZ9M1MQ9",
+  "slug": "vashti-queen",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+    "src_01M4W50S8YD8XTDVV9S590ZB67",
+    "src_01M4W50S9AVRVQ1RSQXKRMF4V8"
+  ],
+  "notes": null,
+  "canonical_name": "Vashti",
+  "aliases": [],
+  "description": "Queen of Ahasuerus deposed after refusing to appear at his feast (Esth 1:9–22). Not named in Greek sources, which call Xerxes's wife Amestris.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

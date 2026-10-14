@@ -1,0 +1,53 @@
+{
+  "event_id": "evt_01M4W50SA665JA4SX5ZWP62KF0",
+  "revision": 1,
+  "validated_at": "2026-10-14",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": false,
+      "details": [
+        "no competing reconstructions recorded (or not_applicable reason)"
+      ]
+    }
+  ],
+  "publication_level": "preliminary",
+  "open_reviews": [
+    "rev_01M4W50SB38WENJMQ5CHYG5FG7"
+  ],
+  "research_gaps": [
+    "Susa palace archaeology (Dieulafoy) not read."
+  ],
+  "disputes": [],
+  "export_eligible": true
+}

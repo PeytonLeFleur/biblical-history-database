@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4W50SAFQGT2FFTX4JPVE022",
+  "record_kind": "claim",
+  "record_id": "clm_01M4W50SAA0XSSYAEBGWQBV1EJ",
+  "record_revision": 1,
+  "reason": "Disputed: is the Esther narrative historical in substance (Keil), or a story set knowledgeably in the Persian court (Bertheau, Bleek as reported by Keil)? Note Herodotus names Xerxes's wife as Amestris.",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T02:49:15.343Z",
+  "decisions": [],
+  "is_fixture": false
+}

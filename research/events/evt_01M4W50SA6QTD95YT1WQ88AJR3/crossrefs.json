@@ -1,0 +1,158 @@
+{
+  "event_id": "evt_01M4W50SA6QTD95YT1WQ88AJR3",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Mordecai",
+      "books_searched": 66,
+      "hits": [
+        "Esth.2.5",
+        "Esth.2.7",
+        "Esth.2.10",
+        "Esth.2.11",
+        "Esth.2.15",
+        "Esth.2.19",
+        "Esth.2.20",
+        "Esth.2.21",
+        "Esth.2.22",
+        "Esth.3.2",
+        "Esth.3.3",
+        "Esth.3.4",
+        "Esth.3.5",
+        "Esth.3.6",
+        "Esth.4.1",
+        "Esth.4.4",
+        "Esth.4.5",
+        "Esth.4.6",
+        "Esth.4.7",
+        "Esth.4.9",
+        "Esth.4.10",
+        "Esth.4.12",
+        "Esth.4.13",
+        "Esth.4.15",
+        "Esth.4.17",
+        "Esth.5.9",
+        "Esth.5.13",
+        "Esth.5.14",
+        "Esth.6.2",
+        "Esth.6.3",
+        "Esth.6.4",
+        "Esth.6.10",
+        "Esth.6.11",
+        "Esth.6.12",
+        "Esth.6.13",
+        "Esth.7.9",
+        "Esth.7.10",
+        "Esth.8.1",
+        "Esth.8.2",
+        "Esth.8.7",
+        "Esth.8.9",
+        "Esth.8.15",
+        "Esth.9.3",
+        "Esth.9.4",
+        "Esth.9.20",
+        "Esth.9.23",
+        "Esth.9.29",
+        "Esth.9.31",
+        "Esth.10.2",
+        "Esth.10.3",
+        "Ezra.2.2",
+        "Neh.7.7"
+      ]
+    },
+    {
+      "name": "Hadassah",
+      "books_searched": 66,
+      "hits": [
+        "Esth.2.7"
+      ]
+    },
+    {
+      "name": "Tebeth",
+      "books_searched": 66,
+      "hits": [
+        "Esth.2.16"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W50SAPRP0KWTHAWXCHX6PK",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W50SA6QTD95YT1WQ88AJR3"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W50SA665JA4SX5ZWP62KF0"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"After these things\" (2:1).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W50SAPGHHQD3GRP0010WEC",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W50SA6QTD95YT1WQ88AJR3"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W50SA60G01DQZ75H0QRSC5"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Mordecai at the gate.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W50SAP51W5054H4SC1MFMF",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W50SA6QTD95YT1WQ88AJR3"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Kgs.24.10-2Kgs.24.16"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The deportation with Jeconiah (597).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W50SA87MZ61NCEF2J9AEXH",
+    "cst_01M4W50SA8TP406GGZC2G65NQ5"
+  ]
+}

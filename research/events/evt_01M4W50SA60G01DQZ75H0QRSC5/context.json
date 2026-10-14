@@ -1,0 +1,87 @@
+{
+  "event_id": "evt_01M4W50SA60G01DQZ75H0QRSC5",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "When the virgins were gathered a second time, Mordecai sat at the king's gate; Esther still had not revealed her people. Bigthan and Teresh, two eunuchs who kept the door, sought to kill the king; Mordecai learned of it and told Esther, who told the king in his name. It was investigated, both were hanged, and it was written in the book of the chronicles before the king.",
+    "passage": "Esth.2.19-Esth.2.23"
+  },
+  "setting": {
+    "period": "After Esther's elevation (479/478 BC or later)",
+    "body": "The recording in the royal chronicles prepares for Esth 6:1–3.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W50SA8KGZA9K8WZMEK6G1Q",
+      "subject": "evt_01M4W50SA60G01DQZ75H0QRSC5",
+      "object": "evt_01M4W50SA6QTD95YT1WQ88AJR3",
+      "relation": "after",
+      "textual_assertion": "When the virgins were gathered together the second time … In those days",
+      "passage": "Esth.2.19-Esth.2.21",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4W50SA8EP9SAZ97GPTJCBTE",
+      "subject": "evt_01M4W50SA60G01DQZ75H0QRSC5",
+      "object": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "relation": "within_reign",
+      "textual_assertion": "two of the king's eunuchs … sought to lay hands on the King Ahasuerus",
+      "passage": "Esth.2.21",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa (Shushan the citadel)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [],
+  "open_questions": [
+    "Xerxes was eventually assassinated (465) in a palace plot; the sources read do not connect it with this episode."
+  ],
+  "not_applicable": {}
+}

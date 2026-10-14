@@ -1,0 +1,137 @@
+{
+  "event_id": "evt_01M4W50SA665JA4SX5ZWP62KF0",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Ahasuerus",
+      "books_searched": 66,
+      "hits": [
+        "Dan.9.1",
+        "Esth.1.1",
+        "Esth.1.2",
+        "Esth.1.9",
+        "Esth.1.10",
+        "Esth.1.15",
+        "Esth.1.16",
+        "Esth.1.17",
+        "Esth.1.19",
+        "Esth.2.1",
+        "Esth.2.12",
+        "Esth.2.16",
+        "Esth.2.21",
+        "Esth.3.1",
+        "Esth.3.6",
+        "Esth.3.7",
+        "Esth.3.8",
+        "Esth.3.12",
+        "Esth.6.2",
+        "Esth.7.5",
+        "Esth.8.1",
+        "Esth.8.7",
+        "Esth.8.10",
+        "Esth.8.12",
+        "Esth.9.2",
+        "Esth.9.20",
+        "Esth.9.30",
+        "Esth.10.1",
+        "Esth.10.3",
+        "Ezra.4.6"
+      ]
+    },
+    {
+      "name": "Vashti",
+      "books_searched": 66,
+      "hits": [
+        "Esth.1.9",
+        "Esth.1.11",
+        "Esth.1.12",
+        "Esth.1.15",
+        "Esth.1.16",
+        "Esth.1.17",
+        "Esth.1.19",
+        "Esth.2.1",
+        "Esth.2.4",
+        "Esth.2.17"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W50SAGESHTDNYZZVP3XYCR",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W50SA665JA4SX5ZWP62KF0"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W50SA6QTD95YT1WQ88AJR3"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Vashti's place given to Esther (2:4, 17).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W50SAGZ3PT9WJCXZYT49DP",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W50SA665JA4SX5ZWP62KF0"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VGNQY7T5X4NA6JGMH4GG25"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "An accusation against Jerusalem \"in the reign of Ahasuerus\" (Ezra 4:6) — the same king.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W50SAGK4738RJMKBDC3MXE",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W50SA665JA4SX5ZWP62KF0"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.11.2"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The rich fourth Persian king who stirs all against Greece — usually Xerxes.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W50SA8X1VPDD3S0NR8H86C"
+  ]
+}
