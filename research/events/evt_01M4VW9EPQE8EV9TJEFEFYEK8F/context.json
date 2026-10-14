@@ -1,0 +1,124 @@
+{
+  "event_id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "When the seventh month came, the people gathered in the square before the Water Gate and asked Ezra the scribe to bring the book of the law of Moses. On the first day of the seventh month Ezra read it from a wooden platform from early morning until midday, with thirteen men beside him; the people stood, answered \"Amen\", and worshipped; Levites helped them understand, reading distinctly and giving the sense. The people wept; Nehemiah the governor, Ezra and the Levites declared the day holy and told them to eat, drink and send portions to those with nothing.",
+    "passage": "Neh.8.1-Neh.8.12"
+  },
+  "setting": {
+    "period": "1 Tishri — 7 October 445 BC on the narrative-sequence reading (disputed)",
+    "body": "Keil takes this as the seventh month after the wall's completion (25 Elul, year 20), i.e. 1 Tishri = 7 October 445 on Parker and Dubberstein. Batten treats Neh 8 as part of Ezra's story placed here by the Chronicler, with Nehemiah's name in 8:9 an interpolation; 1 Esdras 9:37–55 follows the Ezra 10 account directly and names \"Attharates\".",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "src_01M4VW9EPA7ZT3HB45XBM3Q0AW"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VW9ER7R45W17HW6SC5S2FY",
+      "subject": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "in_regnal_year",
+      "textual_assertion": "on the first day of the seventh month",
+      "passage": "Neh.8.2",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 20,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The year is unstated; Keil takes it as the seventh month following 25 Elul of the twentieth year (6:15). On Parker & Dubberstein's table month VII of year 20 began 7 October 445. Batten and 1 Esdras 9 place the reading within Ezra's own story instead (see the disputed claim); this constraint records the narrative-sequence reading only."
+      ],
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "gave the sense (8:8)",
+      "gloss": "Explained the law (Keil); the rabbinic reading as an Aramaic paraphrase is rejected by Keil as unproven.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "term": "the first day of the seventh month",
+      "gloss": "The Feast of Trumpets (Lev 23:23–25; Num 29:1–6).",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Nehemiah's governorship, Tishri 445",
+      "proponents": [
+        "C. F. Keil (1873)",
+        "Narrative sequence of Neh 6:15–8:2"
+      ],
+      "summary": "Ezra and Nehemiah act together a week after the wall's completion; Nehemiah's smaller role reflects that the reading belonged to Ezra's office.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "label": "Ezra's own mission, displaced into Nehemiah",
+      "proponents": [
+        "L. W. Batten (1913)",
+        "E. Meyer and C. C. Torrey (as reported by Batten)",
+        "1 Esdras 9:37–55"
+      ],
+      "summary": "Neh 7:73b–8:12 belongs with Ezra's story (as in 1 Esdras, which follows Ezra 10 with it); \"Nehemiah\" in 8:9 is an addition.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+        "src_01M4VW9EPA7ZT3HB45XBM3Q0AW"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VW9EP63PT54J6Z7N7XCDNX",
+      "layer": "interpretation",
+      "paraphrase": "Guzik sees the people's own request for the reading as the start of a revival through the word, with the Levites as models of explaining the text.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-8/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

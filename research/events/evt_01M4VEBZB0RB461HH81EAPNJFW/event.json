@@ -10,7 +10,8 @@
     "cnd_01M4VEBZB09M049FPWC1M6C34T",
     "cnd_01M4VEBZB0BZVM9DBG0PNQKWTC",
     "cnd_01M4VEBZB0FFVBN48S8THJFK86",
-    "cnd_01M4VEBZB07TREEVVW5CRXMKSM"
+    "cnd_01M4VEBZB07TREEVVW5CRXMKSM",
+    "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
   ],
   "external_reason": null,
   "is_period": false,
@@ -60,7 +61,7 @@
     },
     "publication_validation": {
       "status": "complete",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "reason": null
     }
   },

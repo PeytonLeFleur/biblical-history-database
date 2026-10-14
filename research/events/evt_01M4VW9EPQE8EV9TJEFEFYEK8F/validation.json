@@ -1,0 +1,53 @@
+{
+  "event_id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F",
+  "revision": 1,
+  "validated_at": "2026-10-14",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4VW9ERECXCA8KSEMHE09971"
+  ],
+  "research_gaps": [
+    "What law-book Ezra read (Deuteronomy, the priestly law, or the Pentateuch; Batten favours the latter two) not pursued."
+  ],
+  "disputes": [
+    "The public reading of Neh 8 took place in Nehemiah's governorship (1 Tishri 445), with Ezra and Nehemiah present together."
+  ],
+  "export_eligible": true
+}

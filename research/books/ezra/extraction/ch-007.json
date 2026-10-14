@@ -249,6 +249,11 @@
           "name_as_written": "Artaxerxes king of Persia",
           "matched_entity_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
           "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Ezra",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+          "proposed_new_entity": false
         }
       ],
       "locations": [
@@ -284,7 +289,13 @@
         "religious"
       ],
       "parent_candidate_id": null,
-      "participants": [],
+      "participants": [
+        {
+          "name_as_written": "Ezra",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+          "proposed_new_entity": false
+        }
+      ],
       "locations": [
         {
           "name_as_written": "Jerusalem",
@@ -331,6 +342,11 @@
         {
           "name_as_written": "Artaxerxes, king of kings",
           "matched_entity_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Ezra",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
           "proposed_new_entity": false
         }
       ],

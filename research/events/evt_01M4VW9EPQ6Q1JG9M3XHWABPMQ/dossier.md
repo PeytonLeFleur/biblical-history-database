@@ -1,0 +1,908 @@
+# Jerusalem guarded under Hanani and Hananiah; the registry of the first returnees found (Neh 7:1–5)
+
+> **Status:** Preliminary research · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 7:1–5 (narration)
+
+## Biblical account
+
+After the wall was built and the doors set up, the gatekeepers, singers and Levites were appointed; Nehemiah put his brother Hanani and Hananiah, commander of the fortress, in charge of Jerusalem; the gates were not to be opened until the sun was hot, and residents were to keep watch near their houses. The city was wide and large but the people few and houses not built; God moved Nehemiah to register the people by genealogy, and he found the register of those who came up first.
+
+## Historical setting
+
+**Period:** Autumn 445 BC or soon after
+
+Keil takes the fortress (birah) as the citadel north of the temple, probably with a royal garrison; he reads 7:4 as houses not built in proportion to the city's size, since it had been inhabited for ninety years. [1]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “Now when the wall was built and I had set up the doors”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Now when the wall was built and I had set up the doors” (Nehemiah 7:1) → `after` The wall completed on 25 Elul after fifty-two days (Neh 6:15–19)
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Claims and evidence
+
+### Jerusalem in Nehemiah's time was thinly populated within its walls.
+
+**Classification:** Historically plausible (machine proposed) · layer: evidence
+
+Neh 7:4 and 11:1–2 say so; the excavation summaries read for Neh 3 (Finkelstein; Lipschits, JHS 2009) describe a small Persian-period settlement, though they disagree on the wall line.
+
+- *Context (indirect):* Houses not built in proportion to the city's size. (on 7:4) [1]
+- *Context (indirect):* The city large, its people few. (on 7:4) [3]
+
+## Related passages and events
+
+- this event → **preceded by** → The wall completed on 25 Elul after fifty-two days (Neh 6:15–19) (high): The doors were hung once the wall was finished.
+- this event → **thematic parallel** → The return of the exiles with Zerubbabel and Jeshua; the list of returnees (Ezra 2) (high): The register Nehemiah found is the list of the first return (Ezra 2 = Neh 7:6–73).
+- this event → **thematic parallel** → Nehemiah 11:1–2 (high): The repopulation of Jerusalem by lot carries out the resolve of 7:4–5.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik stresses that the finished walls needed watchmen, and that Nehemiah chose men for faithfulness and fear of God. [3]
+
+## Unanswered questions and research gaps
+
+- The Neh 3 archaeology claims are recorded on the wall event; not repeated here.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Guzik, David. Nehemiah 7 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-7/> — *theological commentary; verification: claim checked*

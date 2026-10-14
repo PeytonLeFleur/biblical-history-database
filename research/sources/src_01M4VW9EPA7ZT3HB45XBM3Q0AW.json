@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VW9EPA7ZT3HB45XBM3Q0AW",
+  "title": "World English Bible — Apocrypha/Deuterocanon (1 Esdras 9)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "World English Bible (translators)"
+  ],
+  "publisher": "eBible.org",
+  "journal": null,
+  "published_date": null,
+  "url": "https://ebible.org/eng-web/1ES09.htm",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "WEB Apocrypha: 1 Esdras 9",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-14",
+      "method": "Fetched and read 1 Esdras 9 (WEB)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-14",
+      "method": "Verses 37–55 follow the mixed-marriage account (9:1–36 = Ezra 10) directly with the reading of the law on the new moon of the seventh month; v. 49 names \"Attharates\", not Nehemiah; the text ends at the parallel to Neh 8:12",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Greek parallel to Ezra 10 and Neh 7:73–8:12.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

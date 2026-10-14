@@ -1,0 +1,254 @@
+{
+  "book": "Neh",
+  "chapter": 8,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.8.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQESTDVV8HZAK72MRT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQESTDVV8HZAK72MRT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQESTDVV8HZAK72MRT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQESTDVV8HZAK72MRT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQESTDVV8HZAK72MRT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.8.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQESTDVV8HZAK72MRT"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VW9EPQ30FST8TQ5MQYAGNV",
+      "title": "Ezra reads the Law at the Water Gate on the first day of the seventh month; the Levites give the sense; the day kept as holy",
+      "passage": "Neh.8.1-Neh.8.12",
+      "description": "The people asked Ezra to bring the book of the law of Moses; he read it from a wooden platform from early morning till midday on the first of the seventh month, with Levites helping the people understand; the people wept, and Nehemiah, Ezra and the Levites told them the day was holy and to feast and send portions.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Ezra the scribe",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nehemiah, who was the governor",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Neh.8.2",
+          "phrase": "on the first day of the seventh month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Deut.31.9-Deut.31.13",
+        "Lev.23.23-Lev.23.25",
+        "Ezra.3.1",
+        "Ezra.7.10"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The year is unstated; Keil infers the twentieth year of Artaxerxes from 6:15; Batten (and 1 Esdras 9) connect it with Ezra's own story.",
+        "1 Esdras 9:49 has \"Attharates\" where Neh 8:9 has \"Nehemiah, who was the governor\"."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F"
+    },
+    {
+      "id": "cnd_01M4VW9EPQESTDVV8HZAK72MRT",
+      "title": "The heads of houses study the Law; booths made; the Feast of Booths kept seven days with an eighth-day assembly",
+      "passage": "Neh.8.13-Neh.8.18",
+      "description": "On the second day the leaders, priests and Levites gathered to Ezra and found the command to dwell in booths in the feast of the seventh month; booths were made on roofs, in courts, in the temple courts and the squares of the Water Gate and the Gate of Ephraim; \"since the days of Joshua\" Israel had not done so; the law was read daily.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Ezra the scribe",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Neh.8.13",
+          "phrase": "On the second day",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Lev.23.33-Lev.23.43",
+        "Deut.16.13-Deut.16.15",
+        "Ezra.3.4",
+        "Josh.8.30-Josh.8.35"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "\"Since the days of Joshua … had not done so\" against the booths of Ezra 3:4 and 2 Chr 7:8–10."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-7-8.md"
+}

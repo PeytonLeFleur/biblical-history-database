@@ -1,0 +1,97 @@
+{
+  "event_id": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Hananiah (Neh 7:2)",
+      "books_searched": 66,
+      "hits": [
+        "Neh.3.8",
+        "Neh.3.30",
+        "Neh.7.2",
+        "Neh.10.23",
+        "Neh.12.12",
+        "Neh.12.41"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VW9EREYT4J5KDNXQRBYKCR",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1Z6311516W23PHNGB"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The doors were hung once the wall was finished.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9EREK8AFM729YWT27Y6P",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The register Nehemiah found is the list of the first return (Ezra 2 = Neh 7:6–73).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9EREWFM0WATRPH97X8AF",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Neh.11.1-Neh.11.2"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The repopulation of Jerusalem by lot carries out the resolve of 7:4–5.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VW9ER7B2P8Z71MNRJAHNG0"
+  ]
+}
