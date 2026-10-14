@@ -1,0 +1,143 @@
+{
+  "event_id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Ahasuerus promoted Haman son of Hammedatha the Agagite above all the princes; all at the king's gate bowed to him except Mordecai, who had told them he was a Jew. Haman resolved to destroy all the Jews in the kingdom. In Nisan of the twelfth year pur — the lot — was cast before him from day to day and month to month, falling on the twelfth month, Adar. Haman told the king of a scattered people with different laws who did not keep the king's laws, and offered ten thousand talents of silver; the king gave him his signet ring. On 13 Nisan the king's scribes wrote to satraps, governors and princes in every script and language to destroy, kill and annihilate all Jews on 13 Adar and plunder their goods; couriers went out, the king and Haman sat down to drink, and Susa was perplexed.",
+    "passage": "Esth.3.1-Esth.3.15"
+  },
+  "setting": {
+    "period": "Nisan, Xerxes year 12 (April 474 BC) — target 13 Adar 473",
+    "body": "Year 12 began 5 April 474 on Parker & Dubberstein's table and included a second Adar. Keil explains that lots were cast at once for all the days and months of the year to find a favourable day, and values the ten thousand talents at £3,750,000 by the Mosaic shekel.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W6JZE5P0ZYJBZX7C7QBXKN",
+      "subject": "evt_01M4W6JZE3ZQVDCV653K0ECY8H",
+      "object": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "relation": "in_regnal_year",
+      "textual_assertion": "In the first month, which is the month Nisan, in the twelfth year of King Ahasuerus … on the thirteenth day of the first month",
+      "passage": "Esth.3.7-Esth.3.12",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 12,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Nisan of Xerxes's year 12 began 5 April 474 (Parker & Dubberstein), so 13 Nisan was about 17 April 474. Year 12 had an intercalary second Adar (from 24 March 473); the first Adar's start is printed \"2/28\" in the OCR, which cannot follow a Shebat beginning 25 January and is probably 2/23. The target day, 13 Adar, therefore fell in March or early April 473."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4W6JZE5B8BJRGMY7EVQRVSJ",
+      "subject": "evt_01M4W6JZE3ZQVDCV653K0ECY8H",
+      "object": "evt_01M4W50SA6QTD95YT1WQ88AJR3",
+      "relation": "years_later",
+      "textual_assertion": "in the twelfth year of King Ahasuerus",
+      "passage": "Esth.3.7",
+      "offset": {
+        "min": 4,
+        "max": 5
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "pur (3:7)",
+      "gloss": "\"The lot\"; Keil derives it from Old Persian, Guzik calls it the Persian word for the lot. Not checked against an Akkadian or Old Persian lexicon here.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4W6JZDHT4YPWD9Z30NT83NB"
+      ]
+    },
+    {
+      "term": "the Agagite (3:1)",
+      "gloss": "Recalls Agag, king of Amalek (1 Sam 15); descent is possible but unprovable since Agag may be a royal title (Keil); a descendant of Agag (Guzik).",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4W6JZDHT4YPWD9Z30NT83NB"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Haman a descendant of the Amalekite king Agag",
+      "proponents": [
+        "Jewish and Christian expositors (as reported by Keil)",
+        "D. Guzik"
+      ],
+      "summary": "Sets the conflict in the line of Exod 17 and 1 Sam 15.",
+      "citations": [
+        "src_01M4W6JZDHT4YPWD9Z30NT83NB"
+      ]
+    },
+    {
+      "label": "Agagite as an unexplained gentilic",
+      "proponents": [
+        "C. F. Keil (1873)"
+      ],
+      "summary": "The name alone cannot prove descent; Agag may have been a dynastic title of Amalek's kings.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4W6JZDHT4YPWD9Z30NT83NB",
+      "layer": "interpretation",
+      "paraphrase": "Guzik calls Haman's charge a dangerous half-truth.",
+      "url": "https://enduringword.com/bible-commentary/esther-3/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

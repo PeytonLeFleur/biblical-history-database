@@ -1,0 +1,199 @@
+{
+  "book": "Esth",
+  "chapter": 3,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.3.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.3.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W6JZE3J11ES9RK5XQP4WRX",
+      "title": "Haman promoted; Mordecai will not bow; the lot (pur) cast in Nisan of year 12 falls on Adar; the decree of 13 Nisan to destroy the Jews on 13 Adar",
+      "passage": "Esth.3.1-Esth.3.15",
+      "description": "Ahasuerus advanced Haman the Agagite; Mordecai refused to bow; Haman sought to destroy all the Jews; in Nisan of the twelfth year pur was cast before him and fell on the twelfth month, Adar; he offered ten thousand talents; letters sealed with the king's ring were written on 13 Nisan to destroy the Jews on 13 Adar and sent by couriers; Susa was perplexed.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Haman",
+          "matched_entity_id": "per_01M4W6JZE39Z7EMMFQG1S49PJQ",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "King Ahasuerus",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Shushan",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Esth.3.7",
+          "phrase": "In the first month, which is the month Nisan, in the twelfth year of King Ahasuerus",
+          "kind": "regnal"
+        },
+        {
+          "ref": "Esth.3.12",
+          "phrase": "on the thirteenth day of the first month",
+          "kind": "absolute"
+        },
+        {
+          "ref": "Esth.3.13",
+          "phrase": "on the thirteenth day of the twelfth month, which is the month Adar",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "1Sam.15.8-1Sam.15.33",
+        "Exod.17.14-Exod.17.16",
+        "Deut.25.17-Deut.25.19"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"Agagite\": descent from the Amalekite Agag (traditional) or merely a name (Keil).",
+        "Xerxes's year 12 had a second Adar; which Adar is meant is not stated."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-3-5.md"
+}

@@ -1,0 +1,909 @@
+# Mordecai mourns; Esther resolves to go to the king (Esth 4)
+
+> **Status:** Preliminary research · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Esther 4:1–17 (narration)
+
+## Biblical account
+
+Mordecai tore his clothes, put on sackcloth and ashes and cried out in the city as far as the king's gate; in every province there was mourning, fasting and weeping among the Jews. Esther, informed by her attendants, sent Hathach; Mordecai gave him a copy of the decree and told of Haman's money, urging her to plead with the king. She replied that anyone who entered the inner court unsummoned would die unless the king held out the golden scepter, and she had not been called for thirty days. Mordecai answered that if she kept silent relief would arise from another place, "and who knows whether you haven't come to the kingdom for such a time as this?" She asked the Jews of Susa to fast three days and resolved to go in: "if I perish, I perish."
+
+## Historical setting
+
+**Period:** Spring 474 BC (after 13 Nisan)
+
+Follows the publication of the decree in Susa. [1]
+
+### Rulers
+
+- Xerxes I: King of Persia (Ahasuerus) [1]
+
+## Date and chronology
+
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “Now when Mordecai found out all that was done”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Now when Mordecai found out all that was done” (Esther 4:1) → `days_later` Haman casts pur and the decree against the Jews (Esth 3; Nisan 474 BC); assumptions: Soon after the decree was published in Susa (3:15); the interval is not stated.
+
+## Geography
+
+- Susa (Shushan) (Susa; confidence: certain)
+  - Susa (Pleiades 912936): certain [2]
+
+## Claims and evidence
+
+### Persian court custom punished unsummoned entry to the king with death unless he extended the scepter.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Stated in Esther; Keil (on 4:11) cites Herodotus 3.118 and 3.140 and Cornelius Nepos (Conon 3) that none but a few could approach the Persian king without being announced; the death penalty itself rests on this passage. Herodotus book 3 was not checked directly.
+
+- *Supporting (indirect):* Access only by announcement (Hdt. 3.118, 3.140; Nepos); death for unannounced entry per this passage. (on 4:11) [1]
+- *Context (indirect):* Entering uninvited meant death. (on 4:11) [3]
+
+*Limitations:* Herodotus book 3 not read directly in this unit.
+
+## Related passages and events
+
+- this event → **preceded by** → Haman casts pur and the decree against the Jews (Esth 3; Nisan 474 BC) (high): The decree published in Susa.
+- this event → **followed by** → Esther before the king; the first banquet; Haman's gallows (Esth 5) (high): After the three-day fast.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik reads "for such a time as this" as Mordecai's faith that God had placed Esther deliberately. [3]
+
+## Unanswered questions and research gaps
+
+- God is not named in Esther (MT); "another place" is read by many as an allusion to God.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Susa/Seleucia ad Eulaeum — Pleiades place 912936. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/912936> — *institutional database; verification: claim checked*
+3. Guzik, David. Esther 4 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/esther-4/> — *theological commentary; verification: claim checked*

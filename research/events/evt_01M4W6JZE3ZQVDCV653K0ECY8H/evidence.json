@@ -1,0 +1,132 @@
+{
+  "event_id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Esther 3",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on Esther 3 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "P&D Xerxes year 12 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Not pursued in this unit."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W6JZE6F1RPFZWKEDJ9KH90",
+      "statement": "Haman's decree is dated 13 Nisan of Xerxes's twelfth year, about 17 April 474 BC.",
+      "layer": "reconstruction",
+      "passage": "Esth.3.12",
+      "classification": "historically_plausible",
+      "reasoning": "Text gives day, month and regnal year; Parker and Dubberstein's table puts 1 Nisan of year 12 on 5 April 474. Depends on Ahasuerus = Xerxes and on the historicity of the account (disputed; see Esth 2).",
+      "supporting_evidence": [
+        "evd_01M4W6JZE6K6DC5EXM4W394Z39"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "OCR of the first Adar of year 12 is inconsistent (\"2/28\")."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4W6JZE6B6SN564B0TWB8ZFW",
+      "statement": "A decree to destroy the Jews of the Persian empire was issued under Xerxes.",
+      "layer": "evidence",
+      "passage": "Esth.3.13",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Known only from Esther (and its Greek additions); no Persian or Greek source read mentions it.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4W6JZE6XDFX0HSCFY4W5X0K"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W6JZE6K6DC5EXM4W394Z39",
+      "claim_ids": [
+        "clm_01M4W6JZE6F1RPFZWKEDJ9KH90"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Nisan began 5 April 474; a second Adar from 24 March 473.",
+      "locator": "Xerxes year 12 row",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4W6JZE6XDFX0HSCFY4W5X0K",
+      "claim_ids": [
+        "clm_01M4W6JZE6B6SN564B0TWB8ZFW"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Haman's proposal and the decree.",
+      "locator": "on 3:8–15",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "The derivation of pur was not checked against Akkadian or Old Persian lexica."
+  ]
+}

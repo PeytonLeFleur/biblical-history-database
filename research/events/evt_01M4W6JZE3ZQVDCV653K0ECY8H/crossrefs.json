@@ -1,0 +1,185 @@
+{
+  "event_id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Haman",
+      "books_searched": 66,
+      "hits": [
+        "Esth.3.1",
+        "Esth.3.2",
+        "Esth.3.4",
+        "Esth.3.5",
+        "Esth.3.6",
+        "Esth.3.7",
+        "Esth.3.8",
+        "Esth.3.10",
+        "Esth.3.11",
+        "Esth.3.12",
+        "Esth.3.15",
+        "Esth.4.7",
+        "Esth.5.4",
+        "Esth.5.5",
+        "Esth.5.8",
+        "Esth.5.9",
+        "Esth.5.10",
+        "Esth.5.11",
+        "Esth.5.12",
+        "Esth.5.14",
+        "Esth.6.4",
+        "Esth.6.5",
+        "Esth.6.6",
+        "Esth.6.7",
+        "Esth.6.10",
+        "Esth.6.11",
+        "Esth.6.12",
+        "Esth.6.13",
+        "Esth.6.14",
+        "Esth.7.1",
+        "Esth.7.6",
+        "Esth.7.7",
+        "Esth.7.8",
+        "Esth.7.9",
+        "Esth.7.10",
+        "Esth.8.1",
+        "Esth.8.2",
+        "Esth.8.3",
+        "Esth.8.5",
+        "Esth.8.7",
+        "Esth.9.10",
+        "Esth.9.12",
+        "Esth.9.13",
+        "Esth.9.14",
+        "Esth.9.24"
+      ]
+    },
+    {
+      "name": "Agagite",
+      "books_searched": 66,
+      "hits": [
+        "Esth.3.1",
+        "Esth.3.10",
+        "Esth.8.3",
+        "Esth.8.5",
+        "Esth.9.24"
+      ]
+    },
+    {
+      "name": "Pur/Purim",
+      "books_searched": 66,
+      "hits": [
+        "Esth.3.7",
+        "Esth.9.24",
+        "Esth.9.26",
+        "Esth.9.28",
+        "Esth.9.29",
+        "Esth.9.31",
+        "Esth.9.32"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W6JZE7N7K75MNYF74WZ1DW",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W50SA60G01DQZ75H0QRSC5"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"After these things\" (3:1); Mordecai's unrewarded service.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W6JZE7AJ3R1BZ6H1CJJACK",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE39BDF6VEP2JW5S304"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Mordecai's mourning on learning of the decree.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W6JZE7AD9EJMG8M6MQ90TS",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "1Sam.15.8-1Sam.15.33"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Agag king of Amalek spared by Saul (son of Kish) — Mordecai is of the family of Kish (Esth 2:5).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W6JZE76GVBPEBNKJQXB2W3",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Exod.17.14-Exod.17.16"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "War with Amalek from generation to generation.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W6JZE5P0ZYJBZX7C7QBXKN",
+    "cst_01M4W6JZE5B8BJRGMY7EVQRVSJ"
+  ]
+}

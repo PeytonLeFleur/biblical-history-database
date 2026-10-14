@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_01M4W6JZE39BDF6VEP2JW5S304",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Hathach",
+      "books_searched": 66,
+      "hits": [
+        "Esth.4.5",
+        "Esth.4.6",
+        "Esth.4.9",
+        "Esth.4.10"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W6JZEGDFTN2QRGDQ10N8HX",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE39BDF6VEP2JW5S304"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The decree published in Susa.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W6JZEGXQBXQ4M4T8WY5A7V",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE39BDF6VEP2JW5S304"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3KFNJZBY30B833JGF"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "After the three-day fast.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W6JZE5HGWBRBJ6M73KTY3M"
+  ]
+}

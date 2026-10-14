@@ -1,0 +1,46 @@
+{
+  "event_id": "evt_01M4W6JZE3KFNJZBY30B833JGF",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Zeresh",
+      "books_searched": 66,
+      "hits": [
+        "Esth.5.10",
+        "Esth.5.14",
+        "Esth.6.13"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W6JZEJDZD4Z9AGR1AC40QC",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3KFNJZBY30B833JGF"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE39BDF6VEP2JW5S304"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"On the third day\".",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W6JZE50XH1EG566BFR076G"
+  ]
+}

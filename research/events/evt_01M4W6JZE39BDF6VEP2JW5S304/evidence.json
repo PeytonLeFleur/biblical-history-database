@@ -1,0 +1,108 @@
+{
+  "event_id": "evt_01M4W6JZE39BDF6VEP2JW5S304",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Esther 4",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on Esther 4 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Not pursued in this unit."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W6JZE7NPYV0AGCEQMC6BX5",
+      "statement": "Persian court custom punished unsummoned entry to the king with death unless he extended the scepter.",
+      "layer": "evidence",
+      "passage": "Esth.4.11",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Stated in Esther; Keil (on 4:11) cites Herodotus 3.118 and 3.140 and Cornelius Nepos (Conon 3) that none but a few could approach the Persian king without being announced; the death penalty itself rests on this passage. Herodotus book 3 was not checked directly.",
+      "supporting_evidence": [
+        "evd_01M4W6JZE7921W5QVGE9QBZQD5"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4W6JZE77FC6K9481FP30962"
+      ],
+      "limitations": [
+        "Herodotus book 3 not read directly in this unit."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W6JZE7921W5QVGE9QBZQD5",
+      "claim_ids": [
+        "clm_01M4W6JZE7NPYV0AGCEQMC6BX5"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Access only by announcement (Hdt. 3.118, 3.140; Nepos); death for unannounced entry per this passage.",
+      "locator": "on 4:11",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4W6JZE77FC6K9481FP30962",
+      "claim_ids": [
+        "clm_01M4W6JZE7NPYV0AGCEQMC6BX5"
+      ],
+      "source_id": "src_01M4W6JZDQ4AYBXNKVXEXK7C4V",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Entering uninvited meant death.",
+      "locator": "on 4:11",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}
