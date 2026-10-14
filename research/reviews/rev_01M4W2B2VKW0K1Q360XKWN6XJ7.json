@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4W2B2VKW0K1Q360XKWN6XJ7",
+  "record_kind": "claim",
+  "record_id": "clm_01M4W2B2VDSJB9Q6DE9KCG3QRB",
+  "record_revision": 1,
+  "reason": "Disputed: were Zechariah 12–14 written by Zechariah after 518 BC (Keil), by a Greek-period apocalyptic writer (Mitchell), or before 586 (older critics)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T02:02:27.059Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W2B2TJAX2JV31NGZWTPKB9",
+  "slug": "the-day-of-the-lord-and-the-mount-of-olives-split-zech-14",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W2B2THN203H6123VE03F1V"
+  ],
+  "notes": null,
+  "title": "The day of the LORD: Jerusalem taken, the Mount of Olives split, living waters, the nations keep Booths (Zech 14)",
+  "passage": "Zech.14.1-Zech.14.21",
+  "speaker": "The LORD (through the prophet)",
+  "vision_id": null,
+  "description": "The nations gather against Jerusalem and half the city goes into exile; the LORD fights for it, his feet stand on the Mount of Olives, which splits east to west; the people flee as from the earthquake in Uzziah's days; living waters flow east and west; the LORD becomes king over all the earth; the nations' survivors go up yearly to keep the Feast of Booths; \"Holy to the LORD\" on the horses' bells.",
+  "in_text_interpretation": null,
+  "interpretations": [
+    {
+      "id": "ful_01M4W2B2V44XHRZG1WEQ3AB6B0",
+      "label": "A literal future return of the Messiah to the Mount of Olives and a millennial reign",
+      "approach": "futurist",
+      "framework": "Dispensational",
+      "proponents": [
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the siege of AD 70 lacks the deliverance described; the feet on the Mount of Olives are literal (cf. Acts 1:11–12; Rev 19:14); the nations keep Tabernacles in the millennium.",
+      "referents": [
+        {
+          "symbol": "The LORD whose feet stand on the Mount of Olives",
+          "referent": "Jesus at his return"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4W2B2THN203H6123VE03F1V"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W2B2V421GP63N1QP5HR0CW",
+      "label": "Figurative picture of the consummation of God's kingdom",
+      "approach": "idealist",
+      "framework": "Traditional (Keil)",
+      "proponents": [
+        "C. F. Keil (1868)"
+      ],
+      "summary": "Textual reasoning: the living water is, as in Joel 3:18 and Ezek 47, a figure of salvation flowing from the centre of God's kingdom; the exaltation of Jerusalem is figurative like that of the temple mountain (Isa 2:2).",
+      "referents": [],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W2B2V454KPT2EQ088VBSS4",
+      "label": "Apocalyptic vision of a Greek-period writer; the Uzziah earthquake comparison a gloss",
+      "approach": "idealist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Textual reasoning: the original described the stopping of a spring; a glossator added the comparison with the flight before the earthquake in Uzziah's days — the earthquake of Amos 1:1, which Josephus links with Uzziah's intrusion into the temple.",
+      "referents": [],
+      "linked_events": [
+        "evt_01M4RPJVYKCVT323B86C2GGDXN"
+      ],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4RPJVYANMWHMDNXF67N0R9H"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

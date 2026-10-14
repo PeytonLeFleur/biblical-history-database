@@ -1,0 +1,59 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W2B2TH1BXMD5JPH3180KMQ",
+  "slug": "jerusalem-a-cup-of-reeling-and-a-burdensome-stone-zech-12",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W2B2T7W4Y9MFMSJ9CVAF98"
+  ],
+  "notes": null,
+  "title": "Jerusalem a cup of reeling and a burdensome stone for the nations (Zech 12:1–9)",
+  "passage": "Zech.12.1-Zech.12.9",
+  "speaker": "The LORD, who stretches out the heavens (through the prophet)",
+  "vision_id": null,
+  "description": "The nations besiege Jerusalem and Judah, but Jerusalem becomes a cup of staggering and a heavy stone; the LORD strikes the horses with panic, the clans of Judah become like a fire pot among wood, the feeble become like David and David's house like God.",
+  "in_text_interpretation": null,
+  "interpretations": [
+    {
+      "id": "ful_01M4W2B2TJGTBBHD7SYF9KVQ88",
+      "label": "A future assault of the nations on Jerusalem, repelled by God",
+      "approach": "futurist",
+      "framework": "Dispensational",
+      "proponents": [
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: \"all the nations of the earth\" gathered against Jerusalem and supernaturally repelled has not happened; Jerusalem's unique place in God's plan.",
+      "referents": [
+        {
+          "symbol": "All the nations",
+          "referent": "An end-time coalition"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4W2B2T7W4Y9MFMSJ9CVAF98"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W2B2TJK74N4YC7Q0Q1BXF2",
+      "label": "Apocalyptic hope of a Greek-period writer",
+      "approach": "idealist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Textual reasoning: chs. 12–14 (except 13:7–9) come from a fourth, apocalyptic writer of about the same time as 11:4–17 (soon after Raphia, 217 BC), presenting the situation optimistically.",
+      "referents": [],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

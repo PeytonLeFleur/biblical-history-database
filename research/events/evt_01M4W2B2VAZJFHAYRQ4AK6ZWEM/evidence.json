@@ -1,0 +1,166 @@
+{
+  "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Zechariah 12–14",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1868 on Zech 12–14 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Mitchell 1912 introduction and on Zech 12–14 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Not pursued for an oracle collection."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "The Uzziah earthquake's geological evidence is recorded on the Amos earthquake event."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W2B2VDSJB9Q6DE9KCG3QRB",
+      "statement": "Zechariah 12–14 was composed by Zechariah son of Iddo after 518 BC.",
+      "layer": "reconstruction",
+      "passage": "Zech.12.1",
+      "classification": "disputed",
+      "reasoning": "Keil defends Zechariah's authorship of chs. 9–14 and rejects the pre-exilic dating proposed by earlier critics for chs. 12–14 (before 586). Mitchell assigns 12:1–13:6 and ch. 14 to a fourth, apocalyptic writer soon after Raphia (217 BC). No external evidence decides it.",
+      "supporting_evidence": [
+        "evd_01M4W2B2VDVQ0EVZQHGFE13RRM"
+      ],
+      "counterevidence": [
+        "evd_01M4W2B2VD1EHQ406G7JAHVA6F"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4W2B2VD24DGBKY4M88SS2KF",
+      "statement": "Zech 14:5 refers to the same earthquake as Amos 1:1, in the reign of Uzziah.",
+      "layer": "text",
+      "passage": "Zech.14.5",
+      "classification": "historically_plausible",
+      "reasoning": "Both name an earthquake \"in the days of Uzziah king of Judah\"; Keil and Mitchell identify them; Josephus (Ant. 9.10.4) attaches an earthquake to Uzziah's intrusion into the temple. The evidence for the earthquake itself is recorded on the Amos event.",
+      "supporting_evidence": [
+        "evd_01M4W2B2VD326DDKTHKWZGR90W",
+        "evd_01M4W2B2VDHCNNM4HA47TXEWJJ"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W2B2VDVQ0EVZQHGFE13RRM",
+      "claim_ids": [
+        "clm_01M4W2B2VDSJB9Q6DE9KCG3QRB"
+      ],
+      "source_id": "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The last oracles of Zechariah; the pre-exilic dating of chs. 12–14 rejected.",
+      "locator": "Introduction to Zechariah",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1868"
+    },
+    {
+      "id": "evd_01M4W2B2VD1EHQ406G7JAHVA6F",
+      "claim_ids": [
+        "clm_01M4W2B2VDSJB9Q6DE9KCG3QRB"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "A fourth, apocalyptic writer about 217–204 BC.",
+      "locator": "Introduction, pp. 258–259",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "mitchell-1912"
+    },
+    {
+      "id": "evd_01M4W2B2VD326DDKTHKWZGR90W",
+      "claim_ids": [
+        "clm_01M4W2B2VD24DGBKY4M88SS2KF"
+      ],
+      "source_id": "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The earthquake referred to in Amos 1:1.",
+      "locator": "on 14:5",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1868"
+    },
+    {
+      "id": "evd_01M4W2B2VDHCNNM4HA47TXEWJJ",
+      "claim_ids": [
+        "clm_01M4W2B2VD24DGBKY4M88SS2KF"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "No doubt the earthquake of Amos 1:1 (in a gloss).",
+      "locator": "on 14:5",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "mitchell-1912"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Modern studies of Deutero-Zechariah not read.",
+    "The location of Hadad-rimmon (Rummaneh) not mapped."
+  ]
+}

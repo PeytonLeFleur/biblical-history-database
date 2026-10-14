@@ -1,0 +1,132 @@
+{
+  "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Chapter 12: the nations besiege Jerusalem, which becomes a cup of reeling and a heavy stone; the LORD pours out a spirit of grace and they look on the one they pierced, mourning like the mourning of Hadad-rimmon in the valley of Megiddo. Chapter 13: a fountain is opened for sin, idols and false prophets are removed, and the sword is called against the LORD's shepherd so that the sheep scatter and a third are refined. Chapter 14: the nations take Jerusalem, the LORD fights, his feet stand on the Mount of Olives, which splits, and the people flee as from the earthquake in Uzziah's days; living waters flow, the LORD is king over all the earth, and the nations go up yearly to keep the Feast of Booths.",
+    "passage": "Zech.12.1-Zech.14.21"
+  },
+  "setting": {
+    "period": "Disputed: after 518 BC (traditional) or late third century BC (Mitchell)",
+    "body": "Keil assigns chs. 12–14 to Zechariah. Mitchell assigns 12:1–13:6 and ch. 14 to a fourth, apocalyptic writer soon after the battle of Raphia (217 BC), and 13:7–9 to the author of 11:4–17.",
+    "citations": [
+      "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4TQMMM6E5V26KMYAVJFRYGM",
+      "reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+      "role": "King of Persia (on the traditional dating)",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W2B2VC3WEP7SB0T88WD83Q",
+      "subject": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM",
+      "object": "evt_01M4W03X0CMJ0Y72V9D5MFFANP",
+      "relation": "after",
+      "textual_assertion": "The burden of the word of the LORD concerning Israel",
+      "passage": "Zech.12.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Placed after the first burden in book order; Keil treats both as Zechariah's last oracles, Mitchell as later Greek-period additions (see the disputed claim)."
+      ],
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    },
+    {
+      "location_id": "loc_01M4VCA09WYGCV57FHFGY7HH88",
+      "role": "Valley of Megiddo (comparison, 12:11)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Hadad-rimmon in the valley of Megiddo (12:11)",
+      "gloss": "The mourning for Josiah, killed at Megiddo (2 Chr 35:22–25); so the Targum, Jerome, Keil and Mitchell; Jerome locates the place near Megiddo (Maximianopolis), identified with Rummaneh. The Adonis/Tammuz view (Hitzig) is rejected by both.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    },
+    {
+      "term": "the earthquake in the days of Uzziah (14:5)",
+      "gloss": "The earthquake of Amos 1:1; Josephus links it with Uzziah's intrusion into the temple.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4RPJVYANMWHMDNXF67N0R9H"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Zechariah son of Iddo, after 518 BC",
+      "proponents": [
+        "C. F. Keil (1868)"
+      ],
+      "summary": "The last of Zechariah's oracles.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    },
+    {
+      "label": "A Greek-period apocalyptic writer (c. 217–204 BC)",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Later than 9:1–11:3 and written about the same time as 11:4–17, between Raphia and the death of Ptolemy IV.",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4W2B2T7W4Y9MFMSJ9CVAF98",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads \"me whom they pierced\" as Jesus and the mourning as Israel's future national repentance.",
+      "url": "https://enduringword.com/bible-commentary/zechariah-12/",
+      "accessed": "2026-10-13"
+    },
+    {
+      "source_id": "src_01M4W2B2THN203H6123VE03F1V",
+      "layer": "interpretation",
+      "paraphrase": "Guzik argues that the siege of AD 70 does not fit, because no deliverance followed.",
+      "url": "https://enduringword.com/bible-commentary/zechariah-14/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

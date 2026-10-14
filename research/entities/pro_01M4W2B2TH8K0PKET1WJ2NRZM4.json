@@ -1,0 +1,72 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W2B2TH8K0PKET1WJ2NRZM4",
+  "slug": "strike-the-shepherd-and-the-sheep-will-be-scattered-zech-13",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W2B2TD4250W50X6PWHA489"
+  ],
+  "notes": null,
+  "title": "A fountain for sin; the end of false prophecy; \"Strike the shepherd, and the sheep will be scattered\" (Zech 13)",
+  "passage": "Zech.13.1-Zech.13.9",
+  "speaker": "The LORD of Armies (through the prophet)",
+  "vision_id": null,
+  "description": "A fountain is opened for David's house and Jerusalem for sin and impurity; idols and prophets are removed, and a would-be prophet will deny his calling; the sword is called against \"my shepherd, the man who is my companion\": strike the shepherd and the sheep scatter; two-thirds perish, a third is refined and says \"The LORD is my God\".",
+  "in_text_interpretation": null,
+  "interpretations": [
+    {
+      "id": "ful_01M4W2B2TY1AYBQ3YSMVJ91RCR",
+      "label": "Fulfilled in Jesus's arrest and the scattering of the disciples",
+      "approach": "mixed",
+      "framework": "Traditional Christian (New Testament citation)",
+      "proponents": [
+        "Matt 26:31–32; Mark 14:27 (text)",
+        "C. F. Keil (1868)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: Jesus applies 13:7 to his arrest and the disciples' flight; \"the man who is my companion\" implies one equal with the LORD (Guzik); Keil sees the turning of God's hand to the little ones realised first in the apostles. Objection: Mitchell holds that the shepherd is the object of the LORD's indignation (continuing ch. 11) and that Jesus's use is illustrative, not a strict fulfilment.",
+      "referents": [
+        {
+          "symbol": "My shepherd",
+          "referent": "Jesus"
+        },
+        {
+          "symbol": "The sheep",
+          "referent": "The disciples"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W2B2TD4250W50X6PWHA489"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W2B2TYT6PVNWYBBSMH30B7",
+      "label": "The worthless shepherd of ch. 11, punished",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Textual reasoning: 13:7–9 continues 11:4–17 (same author, soon after Raphia); \"my shepherd\" and \"my companion\" designate the ruler against whom the LORD's sword is called.",
+      "referents": [
+        {
+          "symbol": "My shepherd",
+          "referent": "The foreign ruler of ch. 11 (Ptolemaic)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

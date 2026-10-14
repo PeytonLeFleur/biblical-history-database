@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4W2B2CJ9KPBX676Y8DB579D",
+  "subject_kind": "chapter",
+  "subject_id": "Zech.14",
+  "book": "Zech",
+  "chapter": 14,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-14T02:02:28.769Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-14T02:02:26.578Z",
+  "updated_at": "2026-10-14T02:02:28.769Z",
+  "is_fixture": false
+}
