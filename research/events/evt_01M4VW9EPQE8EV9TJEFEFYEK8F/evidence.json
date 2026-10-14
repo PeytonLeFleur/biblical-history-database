@@ -1,0 +1,179 @@
+{
+  "event_id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 8",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on Neh 8 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Batten 1913 on Neh 8–10 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "1 Esdras 9 (WEB)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "P&D Artaxerxes I year 20 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No archaeological evidence bears on these events in the sources read."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VW9ER9FT7C7HC3GBA84KQB",
+      "statement": "The public reading of Neh 8 took place in Nehemiah's governorship (1 Tishri 445), with Ezra and Nehemiah present together.",
+      "layer": "reconstruction",
+      "passage": "Neh.8.9",
+      "classification": "disputed",
+      "reasoning": "Keil reads 7:73b–8:2 as the month after the wall's completion and accepts Nehemiah's presence (8:9; 10:1). Batten, following Meyer and Torrey, treats the chapter as Ezra's story placed here by the Chronicler and \"Nehemiah\" in 8:9 as an interpolation. 1 Esdras 9:37–55 (read directly) follows the Ezra 10 account with this reading and names \"Attharates\" instead. The question is tied to the disputed order and dates of Ezra and Nehemiah (see the Ezra 7 decree event).",
+      "supporting_evidence": [
+        "evd_01M4VW9ER989QAVJ43X754C887"
+      ],
+      "counterevidence": [
+        "evd_01M4VW9ER9KCENX2DFERVSW3HT",
+        "evd_01M4VW9ER9JGVZ8XS7JM5TE37W"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VW9ER9JYJNZXX8KH8KPDEN",
+      "statement": "Ezra read the law publicly in Jerusalem on the first day of the seventh month, with Levites explaining it.",
+      "layer": "evidence",
+      "passage": "Neh.8.1-Neh.8.8",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Attested by Nehemiah 8 and its parallel 1 Esdras 9 (a later Greek version of the same tradition, not an independent witness). No external evidence was found.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VW9ER9X3Z2VPEQC66Y8VQV"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VW9ER989QAVJ43X754C887",
+      "claim_ids": [
+        "clm_01M4VW9ER9FT7C7HC3GBA84KQB"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The seventh month of the same year as 6:15; nothing against the inference.",
+      "locator": "on Neh 8 (intro)",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VW9ER9KCENX2DFERVSW3HT",
+      "claim_ids": [
+        "clm_01M4VW9ER9FT7C7HC3GBA84KQB"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "\"Nehemiah the governor\" interpolated by the Chronicler to make Ezra and Nehemiah contemporaries.",
+      "locator": "Neh 8–10 intro; on 8:9",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    },
+    {
+      "id": "evd_01M4VW9ER9JGVZ8XS7JM5TE37W",
+      "claim_ids": [
+        "clm_01M4VW9ER9FT7C7HC3GBA84KQB"
+      ],
+      "source_id": "src_01M4VW9EPA7ZT3HB45XBM3Q0AW",
+      "stance": "challenges",
+      "strength": "direct",
+      "finding": "The reading follows the Ezra 10 parallel directly; v. 49 has \"Attharates\".",
+      "locator": "1 Esd 9:37–55",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    },
+    {
+      "id": "evd_01M4VW9ER9X3Z2VPEQC66Y8VQV",
+      "claim_ids": [
+        "clm_01M4VW9ER9JYJNZXX8KH8KPDEN"
+      ],
+      "source_id": "src_01M4VW9EPA7ZT3HB45XBM3Q0AW",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "The same reading in the Greek parallel.",
+      "locator": "1 Esd 9:38–48",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "1-esdras"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "What law-book Ezra read (Deuteronomy, the priestly law, or the Pentateuch; Batten favours the latter two) not pursued."
+  ]
+}

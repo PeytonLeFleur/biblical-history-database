@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "After the wall was built and the doors set up, the gatekeepers, singers and Levites were appointed; Nehemiah put his brother Hanani and Hananiah, commander of the fortress, in charge of Jerusalem; the gates were not to be opened until the sun was hot, and residents were to keep watch near their houses. The city was wide and large but the people few and houses not built; God moved Nehemiah to register the people by genealogy, and he found the register of those who came up first.",
+    "passage": "Neh.7.1-Neh.7.5"
+  },
+  "setting": {
+    "period": "Autumn 445 BC or soon after",
+    "body": "Keil takes the fortress (birah) as the citadel north of the temple, probably with a royal garrison; he reads 7:4 as houses not built in proportion to the city's size, since it had been inhabited for ninety years.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VW9ER7B2P8Z71MNRJAHNG0",
+      "subject": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ",
+      "object": "evt_01M4VV9TG1Z6311516W23PHNGB",
+      "relation": "after",
+      "textual_assertion": "Now when the wall was built and I had set up the doors",
+      "passage": "Neh.7.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "the fortress (birah, 7:2; cf. 2:8)",
+      "gloss": "The citadel north of the temple (Keil).",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VW9EP0PF2PNY2TTRYPVNX1",
+      "layer": "interpretation",
+      "paraphrase": "Guzik stresses that the finished walls needed watchmen, and that Nehemiah chose men for faithfulness and fear of God.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-7/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

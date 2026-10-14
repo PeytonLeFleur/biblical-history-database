@@ -1,0 +1,175 @@
+{
+  "event_id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Water Gate",
+      "books_searched": 66,
+      "hits": [
+        "Neh.3.26",
+        "Neh.8.1",
+        "Neh.8.3",
+        "Neh.8.16",
+        "Neh.12.37"
+      ]
+    },
+    {
+      "name": "Ezra",
+      "books_searched": 66,
+      "hits": [
+        "Ezra.7.1",
+        "Ezra.7.6",
+        "Ezra.7.10",
+        "Ezra.7.11",
+        "Ezra.7.12",
+        "Ezra.7.21",
+        "Ezra.7.25",
+        "Ezra.10.1",
+        "Ezra.10.2",
+        "Ezra.10.5",
+        "Ezra.10.6",
+        "Ezra.10.10",
+        "Ezra.10.16",
+        "Neh.8.1",
+        "Neh.8.2",
+        "Neh.8.4",
+        "Neh.8.5",
+        "Neh.8.6",
+        "Neh.8.9",
+        "Neh.8.13",
+        "Neh.12.1",
+        "Neh.12.13",
+        "Neh.12.26",
+        "Neh.12.33",
+        "Neh.12.36"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VW9ERH3J428CX56431CD25",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1Z6311516W23PHNGB"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "On the narrative sequence, a week after the wall's completion.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9ERHQQ7W0JTBGEK257ET",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "In 1 Esdras 9 the reading directly follows the mixed-marriages account.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9ERH4YRCCW7DH2Z8E7WD",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4V10B5RYFVXPCH4BAVN77BK"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Ezra came to teach the law in Israel (Ezra 7:10, 25).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9ERH3MY1TB3TZ7FGD3YG",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB08P6YBRPC8QAYH40G"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Neh 7:73b–8:1 repeats Ezra 3:1 on the gathering in the seventh month.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9ERHQGGNJ1G7X81HMCDS",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Deut.31.9-Deut.31.13"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The law to be read before all Israel at the Feast of Booths.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VW9ER7R45W17HW6SC5S2FY"
+  ]
+}

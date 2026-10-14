@@ -1,0 +1,107 @@
+{
+  "event_id": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 7",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on Neh 7:1–5 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No archaeological evidence bears on these events in the sources read."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VW9ER913SEH3BS41007ETN",
+      "statement": "Jerusalem in Nehemiah's time was thinly populated within its walls.",
+      "layer": "evidence",
+      "passage": "Neh.7.4",
+      "classification": "historically_plausible",
+      "reasoning": "Neh 7:4 and 11:1–2 say so; the excavation summaries read for Neh 3 (Finkelstein; Lipschits, JHS 2009) describe a small Persian-period settlement, though they disagree on the wall line.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4VW9ER9MTQJASB1PGCV06T5",
+        "evd_01M4VW9ER97QV803JN8BFWY2PP"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VW9ER9MTQJASB1PGCV06T5",
+      "claim_ids": [
+        "clm_01M4VW9ER913SEH3BS41007ETN"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Houses not built in proportion to the city's size.",
+      "locator": "on 7:4",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VW9ER97QV803JN8BFWY2PP",
+      "claim_ids": [
+        "clm_01M4VW9ER913SEH3BS41007ETN"
+      ],
+      "source_id": "src_01M4VW9EP0PF2PNY2TTRYPVNX1",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The city large, its people few.",
+      "locator": "on 7:4",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "The Neh 3 archaeology claims are recorded on the wall event; not repeated here."
+  ]
+}

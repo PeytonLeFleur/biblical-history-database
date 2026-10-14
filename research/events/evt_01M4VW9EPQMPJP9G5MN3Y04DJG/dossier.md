@@ -1,0 +1,913 @@
+# The Feast of Booths kept "as it is written" (Neh 8:13–18)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 8:13–18 (narration)
+
+## Biblical account
+
+On the second day the heads of houses, priests and Levites gathered to Ezra to study the law and found the command to dwell in booths during the feast of the seventh month and to fetch branches of olive, wild olive, myrtle, palm and leafy trees. The people made booths on roofs, in courts, in the courts of the house of God and in the squares of the Water Gate and the Gate of Ephraim; since the days of Joshua son of Nun Israel had not done so, and there was great joy. The law was read daily; the feast lasted seven days with a solemn assembly on the eighth.
+
+## Historical setting
+
+**Period:** 15–22 Tishri; 21–28 October 445 BC on the narrative-sequence reading
+
+If the reading of 8:2 fell on 7 October 445, the feast (Lev 23:34–36) ran from 21 October with the eighth-day assembly on 28 October. [1, 2]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “On the second day … in the feast of the seventh month”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “On the second day … in the feast of the seventh month” (Nehemiah 8:13–18) → `days_later` Ezra reads the Law on the first day of the seventh month (Neh 7:73b–8:12); assumptions: From the second day of the month (study) to the end of the feast on the 22nd (Lev 23:34–36).
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [3]
+
+## Competing reconstructions
+
+- **Part of Ezra's story** (Keil, Neh 8:13 ("to Ezra the scribe")): The leaders studied with Ezra and so found the precept. [2]
+- **Separate tradition linked to Ezra by the Chronicler** (L. W. Batten (1913)): 1 Esdras ends at the parallel to 8:12; "unto Ezra the scribe" in 8:13 may be an editorial link. [4, 5]
+
+## Claims and evidence
+
+### The Feast of Booths was kept by the whole community dwelling in booths, in Tishri of the same year as the reading.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known only from Neh 8:13–18; 1 Esdras ends before this section. The year depends on the dispute over the reading.
+
+- *Context (indirect):* Not since Joshua had the whole community dwelt in booths; Booths had been kept (Ezra 3:4). (on 8:17) [2]
+- *Context (indirect):* 1 Esdras ends with v. 12; "unto Ezra the scribe" in v. 13 probably an editorial link. (Neh 8–10 intro) [4]
+
+## Related passages and events
+
+- this event → **preceded by** → Ezra reads the Law on the first day of the seventh month (Neh 7:73b–8:12) (high): Found in the law while studying it on the second day.
+- this event → **thematic parallel** → The altar rebuilt in Jerusalem and the Feast of Booths kept (Ezra 3:1–7) (medium): Booths was kept in the first year of the return (Ezra 3:4).
+- this event → **thematic parallel** → Leviticus 23:39–43 (high): The command to dwell in booths seven days.
+- this event → **thematic parallel** → 2 Chronicles 7:8–10 (medium): Solomon's feast of the seventh month — cited by Keil against a literal reading of 8:17.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that the people kept the feast because Scripture said so rather than from tradition. [6]
+
+## Sources
+
+1. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+2. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+3. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+4. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+5. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (1 Esdras 9). eBible.org. <https://ebible.org/eng-web/1ES09.htm> — *ancient primary text; verification: claim checked*
+6. Guzik, David. Nehemiah 8 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-8/> — *theological commentary; verification: claim checked*

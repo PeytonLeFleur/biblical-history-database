@@ -1,0 +1,24 @@
+{
+  "kind": "person",
+  "id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+  "slug": "ezra-the-scribe",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+    "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+    "src_01M4VW9EPA7ZT3HB45XBM3Q0AW"
+  ],
+  "notes": null,
+  "canonical_name": "Ezra the priest and scribe",
+  "aliases": [
+    {
+      "alias": "Esdras",
+      "language": "Greek",
+      "source_id": "src_01M4VW9EPA7ZT3HB45XBM3Q0AW",
+      "passage": null
+    }
+  ],
+  "description": "Priest of the line of Aaron and scribe skilled in the law of Moses, who came from Babylon to Jerusalem in the seventh year of Artaxerxes (Ezra 7–10) and read the law publicly (Neh 8). His date relative to Nehemiah is disputed.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

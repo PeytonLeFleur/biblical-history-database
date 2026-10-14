@@ -1,0 +1,110 @@
+{
+  "event_id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On the second day the heads of houses, priests and Levites gathered to Ezra to study the law and found the command to dwell in booths during the feast of the seventh month and to fetch branches of olive, wild olive, myrtle, palm and leafy trees. The people made booths on roofs, in courts, in the courts of the house of God and in the squares of the Water Gate and the Gate of Ephraim; since the days of Joshua son of Nun Israel had not done so, and there was great joy. The law was read daily; the feast lasted seven days with a solemn assembly on the eighth.",
+    "passage": "Neh.8.13-Neh.8.18"
+  },
+  "setting": {
+    "period": "15–22 Tishri; 21–28 October 445 BC on the narrative-sequence reading",
+    "body": "If the reading of 8:2 fell on 7 October 445, the feast (Lev 23:34–36) ran from 21 October with the eighth-day assembly on 28 October.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VW9ER7PDYGC0MM8WQRZAEF",
+      "subject": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG",
+      "object": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F",
+      "relation": "days_later",
+      "textual_assertion": "On the second day … in the feast of the seventh month",
+      "passage": "Neh.8.13-Neh.8.18",
+      "offset": {
+        "min": 1,
+        "max": 21
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "From the second day of the month (study) to the end of the feast on the 22nd (Lev 23:34–36)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "\"since the days of Joshua … had not done so\" (8:17)",
+      "gloss": "Keil: not that Booths was never kept (Ezra 3:4; 2 Chr 7:9), but that the whole community had not dwelt in booths.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Part of Ezra's story",
+      "proponents": [
+        "Keil",
+        "Neh 8:13 (\"to Ezra the scribe\")"
+      ],
+      "summary": "The leaders studied with Ezra and so found the precept.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "label": "Separate tradition linked to Ezra by the Chronicler",
+      "proponents": [
+        "L. W. Batten (1913)"
+      ],
+      "summary": "1 Esdras ends at the parallel to 8:12; \"unto Ezra the scribe\" in 8:13 may be an editorial link.",
+      "citations": [
+        "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+        "src_01M4VW9EPA7ZT3HB45XBM3Q0AW"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VW9EP63PT54J6Z7N7XCDNX",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that the people kept the feast because Scripture said so rather than from tradition.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-8/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

@@ -373,7 +373,13 @@
         "social"
       ],
       "parent_candidate_id": null,
-      "participants": [],
+      "participants": [
+        {
+          "name_as_written": "Ezra",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+          "proposed_new_entity": false
+        }
+      ],
       "locations": [],
       "temporal_statements": [],
       "related_passages": [],
@@ -395,7 +401,13 @@
         "legal"
       ],
       "parent_candidate_id": null,
-      "participants": [],
+      "participants": [
+        {
+          "name_as_written": "Ezra",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+          "proposed_new_entity": false
+        }
+      ],
       "locations": [],
       "temporal_statements": [
         {

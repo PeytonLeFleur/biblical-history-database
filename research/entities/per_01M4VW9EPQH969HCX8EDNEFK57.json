@@ -1,0 +1,15 @@
+{
+  "kind": "person",
+  "id": "per_01M4VW9EPQH969HCX8EDNEFK57",
+  "slug": "hananiah-commander-of-the-fortress",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+  ],
+  "notes": null,
+  "canonical_name": "Hananiah, commander of the fortress",
+  "aliases": [],
+  "description": "Commander of the fortress (birah) north of the temple, put in charge of Jerusalem with Hanani as \"a faithful man\" who \"feared God above many\" (Neh 7:2).",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

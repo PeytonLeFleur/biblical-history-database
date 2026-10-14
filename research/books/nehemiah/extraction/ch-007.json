@@ -1,0 +1,669 @@
+{
+  "book": "Neh",
+  "chapter": 7,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.7.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQEFS1X4M3TQR3FRF2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQEFS1X4M3TQR3FRF2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQEFS1X4M3TQR3FRF2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQEFS1X4M3TQR3FRF2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQEFS1X4M3TQR3FRF2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.37",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.38",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.39",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.40",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.41",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.42",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.43",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.44",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.45",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.46",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.47",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.48",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.49",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.50",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.51",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.52",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.53",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.54",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.55",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.56",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.57",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.58",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.59",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.60",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.61",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.62",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.63",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.64",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.65",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.66",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.67",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.68",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.69",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.70",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.71",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.72",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.7.73",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VW9EPQEFS1X4M3TQR3FRF2",
+      "title": "Gatekeepers, singers and Levites appointed; Hanani and Hananiah over Jerusalem; the registry sought",
+      "passage": "Neh.7.1-Neh.7.5",
+      "description": "With the doors set up, Nehemiah appointed the gatekeepers, singers and Levites, put Hanani and Hananiah over Jerusalem with orders on opening the gates and setting watches; the city was large but thinly peopled, and he found the register of those who first came up.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "military",
+        "social"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "I (Nehemiah)",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Hanani",
+          "matched_entity_id": "per_01M4VS7B1JS65RPJE32KG3T5ZV",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Hananiah the governor of the fortress",
+          "matched_entity_id": "per_01M4VW9EPQH969HCX8EDNEFK57",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ"
+    },
+    {
+      "id": "cnd_01M4VW9EPQ1853GQ1QDDY9TQAC",
+      "title": "The register of the first returnees (= Ezra 2), with the gifts to the work",
+      "passage": "Neh.7.6-Neh.7.73",
+      "description": "Nehemiah's copy of the list of those who returned with Zerubbabel: families, towns, priests, Levites, singers, gatekeepers, temple servants, those of unproven descent; 42,360 with 7,337 servants; gifts of the governor, the heads of houses and the people; all Israel settled in their cities.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "migration",
+        "genealogical"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.2.1-Ezra.2.70"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The separate figures sum to 31,089 in Nehemiah and 29,818 in Ezra, against the stated 42,360 in both (Keil).",
+        "The gifts total 41,000 darics, 4,200 minas (plus a defective item) in Neh 7:70–72 against 61,000 darics and 5,000 minas in Ezra 2:69; Keil treats Ezra's figures as a textual error and round numbers.",
+        "7:73b begins the narrative of chapter 8 (Keil)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VEBZB0RB461HH81EAPNJFW"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-7-8.md"
+}

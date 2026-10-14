@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4VW9DSNGN2FSGPWGJG9Q3WW",
+  "subject_kind": "chapter",
+  "subject_id": "Neh.7",
+  "book": "Neh",
+  "chapter": 7,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-14T00:16:48.984Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-14T00:16:41.269Z",
+  "updated_at": "2026-10-14T00:16:48.984Z",
+  "is_fixture": false
+}

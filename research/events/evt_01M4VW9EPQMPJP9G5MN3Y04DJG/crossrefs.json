@@ -1,0 +1,119 @@
+{
+  "event_id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Gate of Ephraim",
+      "books_searched": 66,
+      "hits": [
+        "2Chr.25.23",
+        "2Kgs.14.13",
+        "Neh.8.16",
+        "Neh.12.39"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VW9ERP3DSA02KQ0MS6SBSV",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQE8EV9TJEFEFYEK8F"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Found in the law while studying it on the second day.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9ERPZY52GPGX6V07T53X",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VEBZB08P6YBRPC8QAYH40G"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Booths was kept in the first year of the return (Ezra 3:4).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9ERPNC37FVZV6GDERGW5",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Lev.23.39-Lev.23.43"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The command to dwell in booths seven days.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VW9ERPS48J6TY4MG6RKK54",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "2Chr.7.8-2Chr.7.10"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Solomon's feast of the seventh month — cited by Keil against a literal reading of 8:17.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VW9ER7PDYGC0MM8WQRZAEF"
+  ]
+}
