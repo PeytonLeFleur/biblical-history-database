@@ -1,0 +1,192 @@
+{
+  "book": "Esth",
+  "chapter": 4,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.4.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.4.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W6JZE39GVNDZ8KQ8PE1HHZ",
+      "title": "Mordecai and the Jews mourn; Esther learns through Hathach; \"for such a time as this\"; a three-day fast before she goes to the king",
+      "passage": "Esth.4.1-Esth.4.17",
+      "description": "Mordecai tore his clothes and cried in the city; Jews in every province mourned and fasted; through the eunuch Hathach Esther learned of the decree and of the law that whoever enters the inner court unsummoned dies unless the king holds out the golden scepter; Mordecai warned her that deliverance would arise from another place; she asked all the Jews of Susa to fast three days: \"if I perish, I perish\".",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Esther",
+          "matched_entity_id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Shushan",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Jonah.3.5-Jonah.3.9",
+        "Joel.2.12-Joel.2.14"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "God is not named; whether \"another place\" alludes to God is interpretive."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W6JZE39BDF6VEP2JW5S304"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-3-5.md"
+}

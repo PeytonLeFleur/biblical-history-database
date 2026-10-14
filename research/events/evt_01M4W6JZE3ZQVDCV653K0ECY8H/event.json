@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H",
+  "slug": "haman-casts-pur-and-the-decree-against-the-jews-esth-3",
+  "title": "Haman casts pur and the decree against the Jews (Esth 3; Nisan 474 BC)",
+  "summary": "Angered by Mordecai's refusal to bow, Haman had the lot (pur) cast in Nisan of Xerxes's twelfth year; it fell on Adar, and on 13 Nisan letters went out under the king's seal ordering the Jews destroyed on 13 Adar.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4W6JZE3J11ES9RK5XQP4WRX"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political",
+    "legal"
+  ],
+  "priority": "critical",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Esth.3.1-Esth.3.15",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-14",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

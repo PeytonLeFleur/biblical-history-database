@@ -1,0 +1,180 @@
+{
+  "book": "Esth",
+  "chapter": 5,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.5.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.5.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W6JZE36D4238PMPGMCYWBW"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W6JZE36D4238PMPGMCYWBW",
+      "title": "On the third day Esther enters the inner court; the scepter; the first banquet; Haman's rage; the gallows fifty cubits high",
+      "passage": "Esth.5.1-Esth.5.14",
+      "description": "On the third day Esther stood in the inner court; the king held out the golden scepter and offered up to half the kingdom; she invited the king and Haman to a banquet and then to a second; Haman, angered by Mordecai at the gate, boasted to Zeresh and his friends, who advised a gallows fifty cubits high for Mordecai.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Queen Esther",
+          "matched_entity_id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Haman",
+          "matched_entity_id": "per_01M4W6JZE39Z7EMMFQG1S49PJQ",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "the king",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "the king's house",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Esth.5.1",
+          "phrase": "on the third day",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [
+        "\"Gallows\" ('ets, tree/stake): hanging or impalement (Guzik: probably impaling)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W6JZE3KFNJZBY30B833JGF"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-3-5.md"
+}

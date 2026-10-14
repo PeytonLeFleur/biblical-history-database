@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4W6JZE39Z7EMMFQG1S49PJQ",
+  "slug": "haman-the-agagite",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+    "src_01M4W6JZDHT4YPWD9Z30NT83NB"
+  ],
+  "notes": null,
+  "canonical_name": "Haman son of Hammedatha the Agagite",
+  "aliases": [],
+  "description": "Chief minister of Ahasuerus (Xerxes) who obtained a decree to destroy the Jews (Esth 3); hanged on the gallows he prepared for Mordecai (Esth 7). Whether \"Agagite\" means descent from the Amalekite king Agag is disputed (Keil: possible, unprovable).",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_01M4W6JZE39BDF6VEP2JW5S304",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Mordecai tore his clothes, put on sackcloth and ashes and cried out in the city as far as the king's gate; in every province there was mourning, fasting and weeping among the Jews. Esther, informed by her attendants, sent Hathach; Mordecai gave him a copy of the decree and told of Haman's money, urging her to plead with the king. She replied that anyone who entered the inner court unsummoned would die unless the king held out the golden scepter, and she had not been called for thirty days. Mordecai answered that if she kept silent relief would arise from another place, \"and who knows whether you haven't come to the kingdom for such a time as this?\" She asked the Jews of Susa to fast three days and resolved to go in: \"if I perish, I perish.\"",
+    "passage": "Esth.4.1-Esth.4.17"
+  },
+  "setting": {
+    "period": "Spring 474 BC (after 13 Nisan)",
+    "body": "Follows the publication of the decree in Susa.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W6JZE5HGWBRBJ6M73KTY3M",
+      "subject": "evt_01M4W6JZE39BDF6VEP2JW5S304",
+      "object": "evt_01M4W6JZE3ZQVDCV653K0ECY8H",
+      "relation": "days_later",
+      "textual_assertion": "Now when Mordecai found out all that was done",
+      "passage": "Esth.4.1",
+      "offset": {
+        "min": 0,
+        "max": 30
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Soon after the decree was published in Susa (3:15); the interval is not stated."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W6JZDQ4AYBXNKVXEXK7C4V",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads \"for such a time as this\" as Mordecai's faith that God had placed Esther deliberately.",
+      "url": "https://enduringword.com/bible-commentary/esther-4/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "God is not named in Esther (MT); \"another place\" is read by many as an allusion to God."
+  ],
+  "not_applicable": {}
+}

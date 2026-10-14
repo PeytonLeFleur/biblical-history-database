@@ -1,0 +1,85 @@
+{
+  "event_id": "evt_01M4W6JZE3KFNJZBY30B833JGF",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On the third day Esther put on royal clothing and stood in the inner court; the king held out the golden scepter and offered her up to half the kingdom. She invited the king and Haman to a banquet, and there to a second banquet the next day. Haman left joyful, but seeing Mordecai at the gate neither rise nor tremble, he was filled with fury; at home he boasted to Zeresh and his friends of his wealth and honours, yet said all was worth nothing while Mordecai sat at the gate. They advised a gallows fifty cubits high and a request for Mordecai's death in the morning; he had it made.",
+    "passage": "Esth.5.1-Esth.5.14"
+  },
+  "setting": {
+    "period": "Spring 474 BC",
+    "body": "Three days after Esther's resolve (4:16; 5:1).",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W6JZE50XH1EG566BFR076G",
+      "subject": "evt_01M4W6JZE3KFNJZBY30B833JGF",
+      "object": "evt_01M4W6JZE39BDF6VEP2JW5S304",
+      "relation": "days_later",
+      "textual_assertion": "Now on the third day",
+      "passage": "Esth.5.1",
+      "offset": {
+        "min": 2,
+        "max": 3
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "gallows ('ets, 5:14)",
+      "gloss": "A tree or stake; Guzik thinks impaling more likely than hanging.",
+      "citations": [
+        "src_01M4W6JZDWEAJR0MC67RE592T9"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W6JZDWEAJR0MC67RE592T9",
+      "layer": "interpretation",
+      "paraphrase": "Guzik sees Esther's delay of her request as wisdom and God's timing.",
+      "url": "https://enduringword.com/bible-commentary/esther-5/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}
