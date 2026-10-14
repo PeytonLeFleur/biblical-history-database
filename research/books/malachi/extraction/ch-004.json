@@ -1,0 +1,109 @@
+{
+  "book": "Mal",
+  "chapter": 4,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Mal.4.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQDCHTPTN49DKKC8ZT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.4.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQDCHTPTN49DKKC8ZT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.4.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQDCHTPTN49DKKC8ZT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.4.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQTMSYZDD8EC25NQWQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.4.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQTMSYZDD8EC25NQWQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.4.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQTMSYZDD8EC25NQWQ"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W3HPXQDCHTPTN49DKKC8ZT",
+      "title": "The day burning like a furnace; the sun of righteousness with healing in its wings",
+      "passage": "Mal.4.1-Mal.4.3",
+      "description": "The day comes when the arrogant and evildoers will be stubble; for those who fear the LORD the sun of righteousness will rise with healing.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Joel.2.31",
+        "Luke.1.78-Luke.1.79"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    },
+    {
+      "id": "cnd_01M4W3HPXQTMSYZDD8EC25NQWQ",
+      "title": "Remember the law of Moses; Elijah sent before the great and terrible day",
+      "passage": "Mal.4.4-Mal.4.6",
+      "description": "Remember the law given at Horeb; Elijah will turn the hearts of fathers and children before the day of the LORD.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Matt.11.14",
+        "Matt.17.10-Matt.17.13",
+        "Luke.1.17",
+        "John.1.21",
+        "2Kgs.2.11"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Smith treats 4:4–6 (or 4:5–6) as later additions."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-malachi.md"
+}

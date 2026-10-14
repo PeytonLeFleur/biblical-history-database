@@ -1,0 +1,154 @@
+{
+  "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In a series of question-and-answer disputations the LORD affirms his love for Jacob against Edom, whose ruins will not be rebuilt; condemns priests who offer blind and lame animals that the governor would refuse; recalls the covenant with Levi; denounces marriage to \"the daughter of a foreign god\" and faithless divorce; announces his messenger and the Lord's sudden coming to his temple in refining judgment; calls the people robbers for withholding tithes; records the godly in a book of remembrance; and closes with the day that burns like a furnace, the sun of righteousness, the law of Moses and the sending of Elijah.",
+    "passage": "Mal.1.1-Mal.4.6"
+  },
+  "setting": {
+    "period": "Mid-fifth century BC (after 515; Smith c. 460–445, Keil after 433)",
+    "body": "The temple is rebuilt and a governor (pechah) receives gifts (1:8). Smith dates the book between about 510 and Nehemiah's reforms, preferring the period just before them because the governor accepts gifts (cf. Neh 5:14–18) and no recent covenant is mentioned. Keil, following Vitringa, dates it after Nehemiah's first term, comparing Mal 2:11 with Neh 13:23 and Mal 3:8–10 with Neh 13:10–14. Guzik places it at or just after Nehemiah's time.",
+    "citations": [
+      "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "src_01M4W3HPWE1XR92CP420083FDA"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia (on both main datings)",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK",
+    "kgd_01M4W3HPXANCYNS0R0A2GDK4G6"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W3HPXSYPHTZNQMQ0QG5B9V",
+      "subject": "evt_01M4W3HPXQKWSTZJ6F477CV1AS",
+      "object": "evt_01M4V10B5RPQCMG56ABNE83R1V",
+      "relation": "after",
+      "textual_assertion": "You offer polluted bread on my altar … Bring the whole tithe into the storehouse",
+      "passage": "Mal.1.7",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The temple and its service are functioning and the zeal of Haggai and Zechariah has faded (Smith: terminus a quo about 510 BC)."
+      ],
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4W3HPXS2S0F85FFQ9KMJRFR",
+      "subject": "evt_01M4W3HPXQKWSTZJ6F477CV1AS",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "within_reign",
+      "textual_assertion": "offer it now to your governor",
+      "passage": "Mal.1.8",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Both main views (just before Nehemiah's reforms, Smith; after Nehemiah's first term, Keil) fall in the reign of Artaxerxes I; see the disputed claim."
+      ],
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+        "src_01M4VJCX9WFDDMH4453WKV1J34"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem and its temple",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "governor (pechah, 1:8)",
+      "gloss": "A provincial governor; Smith notes the title was used widely (Zerubbabel, Nehemiah, Bagoas/Bigvai) and gives no precise date.",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    },
+    {
+      "term": "\"Malachi\" (1:1)",
+      "gloss": "\"My messenger\": a personal name, possibly short for \"messenger of the LORD\" (Keil), or an editorial title taken from 3:1 for an anonymous book (Smith); the LXX reads \"by the hand of his messenger\"; the Targum names Ezra the scribe.",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Just before Nehemiah's reforms (c. 460–445 BC)",
+      "proponents": [
+        "J. M. P. Smith (1912)",
+        "Others listed by Smith (before Ezra)"
+      ],
+      "summary": "Malachi prepared the way for Nehemiah; a gift-taking governor is present and no recent covenant is invoked.",
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ]
+    },
+    {
+      "label": "During or after Nehemiah's second term (after 433 BC)",
+      "proponents": [
+        "C. F. Keil (1868), following Vitringa",
+        "D. Guzik (at or just after Nehemiah's time)"
+      ],
+      "summary": "The abuses match those Nehemiah found on his return (Neh 13).",
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W3HPWE1XR92CP420083FDA"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4W3HPWE1XR92CP420083FDA",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads \"Esau I have hated\" as non-election rather than emotional hatred.",
+      "url": "https://enduringword.com/bible-commentary/malachi-1/",
+      "accessed": "2026-10-13"
+    },
+    {
+      "source_id": "src_01M4W3HPWR7AFNSQW5NNBBVMNP",
+      "layer": "interpretation",
+      "paraphrase": "Guzik sees two messengers in 3:1, the forerunner and Jesus.",
+      "url": "https://enduringword.com/bible-commentary/malachi-3/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

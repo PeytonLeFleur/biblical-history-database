@@ -1,0 +1,56 @@
+{
+  "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS",
+  "revision": 1,
+  "validated_at": "2026-10-14",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4W3HPY0RRTFDY5DQM3CE1NN",
+    "rev_01M4W3HPYKA7AG6P573SF1AQTE",
+    "rev_01M4W3HPYXAJ2K3N73SJ2XVBMN"
+  ],
+  "research_gaps": [
+    "Diodorus 19.94–100 and Edomite/Nabataean archaeology not read.",
+    "Hebrew/English versification difference (Hebrew 3:19–24 = English 4:1–6) not yet in the versification table."
+  ],
+  "disputes": [
+    "Malachi prophesied after Nehemiah's first governorship (after 433 BC), rather than shortly before his reforms."
+  ],
+  "export_eligible": true
+}

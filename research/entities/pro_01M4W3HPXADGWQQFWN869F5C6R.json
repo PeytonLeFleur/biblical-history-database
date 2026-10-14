@@ -1,0 +1,72 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W3HPXADGWQQFWN869F5C6R",
+  "slug": "my-messenger-and-the-lord-coming-to-his-temple-mal-3",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W3HPWR7AFNSQW5NNBBVMNP"
+  ],
+  "notes": null,
+  "title": "\"I will send my messenger … and the Lord will suddenly come to his temple\" (Mal 3:1–5)",
+  "passage": "Mal.3.1-Mal.3.5",
+  "speaker": "The LORD of Armies",
+  "vision_id": null,
+  "description": "The LORD sends his messenger to prepare the way; the Lord whom they seek, the messenger of the covenant, will suddenly come to his temple; he is like a refiner's fire and launderer's soap, purifying the sons of Levi, and will come near in judgment against sorcerers, adulterers, perjurers and oppressors.",
+  "in_text_interpretation": "The messenger is not named here; 4:5 names Elijah as the one sent before the day of the LORD.",
+  "interpretations": [
+    {
+      "id": "ful_01M4W3HPXAWA6733ZTTB73191H",
+      "label": "The messenger is John the Baptist; the Lord who comes to his temple is Jesus",
+      "approach": "mixed",
+      "framework": "Traditional Christian (New Testament citation)",
+      "proponents": [
+        "Matt 11:10; Mark 1:2; Luke 7:27 (text)",
+        "C. F. Keil (1868)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the Gospels apply 3:1 to John; Keil argues for a concrete earthly messenger, the Elijah of 4:5, sent immediately before the Lord's coming, noting that no prophet arose between Malachi and John. Objection: Smith holds that the messenger's identity was assumed known to contemporaries and that the passage is best read through 4:5 as Elijah himself.",
+      "referents": [
+        {
+          "symbol": "My messenger",
+          "referent": "John the Baptist"
+        },
+        {
+          "symbol": "The Lord / messenger of the covenant",
+          "referent": "Jesus"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W3HPWR7AFNSQW5NNBBVMNP"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W3HPXBR5TETCB5SX5XN756",
+      "label": "A forerunner expected by the prophet's contemporaries — most naturally Elijah (cf. 4:5)",
+      "approach": "idealist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "J. M. P. Smith (1912)"
+      ],
+      "summary": "Textual reasoning: a preliminary work by the LORD's agent before the day of the LORD appears only here and in 4:5–6; the figure is borrowed from royal heralds; interpretations range from John the Baptist to the line of the prophets or a play on the prophet's name.",
+      "referents": [
+        {
+          "symbol": "My messenger",
+          "referent": "An eschatological forerunner (Elijah)"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}

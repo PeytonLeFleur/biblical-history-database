@@ -1,0 +1,68 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W3HPXA21DJAWAE3XNZ50QS",
+  "slug": "elijah-before-the-great-day-of-the-lord-mal-4",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W3HPWXM6PSRN2NAVRC37K0"
+  ],
+  "notes": null,
+  "title": "\"I will send you Elijah the prophet before the great and terrible day of the LORD\" (Mal 4:4–6)",
+  "passage": "Mal.4.4-Mal.4.6",
+  "speaker": "The LORD",
+  "vision_id": null,
+  "description": "Remember the law of Moses given at Horeb; the LORD will send Elijah before the great and terrible day, to turn the hearts of fathers to children and children to fathers, lest he strike the land with a curse.",
+  "in_text_interpretation": null,
+  "interpretations": [
+    {
+      "id": "ful_01M4W3HPXHQJTSN0JKPV4VADNP",
+      "label": "Fulfilled in John the Baptist, who came in the spirit and power of Elijah",
+      "approach": "mixed",
+      "framework": "Traditional Christian (New Testament citation)",
+      "proponents": [
+        "Matt 11:14; 17:10–13; Luke 1:17 (text)",
+        "C. F. Keil (1868)",
+        "D. Guzik (figuratively in John; completely before the second coming)"
+      ],
+      "summary": "Textual reasoning: Jesus identifies John as \"Elijah who is to come\", and Luke speaks of John in the spirit and power of Elijah, turning fathers' hearts to children. Objection: John himself denied being Elijah (John 1:21); Smith reads the verses as expecting Elijah in person and as a later gloss.",
+      "referents": [
+        {
+          "symbol": "Elijah the prophet",
+          "referent": "John the Baptist"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W3HPWXM6PSRN2NAVRC37K0"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W3HPXH0AGFH1SMH2JGSCEG",
+      "label": "A later gloss expecting Elijah himself, taken up in Jewish eschatology",
+      "approach": "idealist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "J. M. P. Smith (1912)"
+      ],
+      "summary": "Textual reasoning: vv. 5–6 reopen a closed subject and view the day differently (all classes need purification); they probably reflect a later, Hellenising age; Elijah was chosen perhaps because he escaped death; the first known reference to him as forerunner (cf. Enoch 90; the Gospels).",
+      "referents": [
+        {
+          "symbol": "Elijah the prophet",
+          "referent": "Elijah returning in person"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}
